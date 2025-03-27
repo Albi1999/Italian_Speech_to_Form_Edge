@@ -1,12 +1,16 @@
 from sklearn.metrics import precision_score, recall_score, f1_score, accuracy_score
 from jiwer import wer, cer
+from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
+from rouge_score import rouge_scorer
+from seqeval.metrics import classification_report, precision_score as seq_precision, recall_score as seq_recall, f1_score as seq_f1
+import Levenshtein
+from torchmetrics.detection.mean_ap import MeanAveragePrecision
 
 class Benchmarks:
     @staticmethod
     def evaluate_ner(true_entities, predicted_entities):
         """
-        Evaluate Named Entity Recognition (NER) on extracted fields from audio transcription.
-        Typical entities: location, date, time, plate, car model/brand, infraction type.
+        Token-level evaluation for NER.
 
         args:
             true_entities: list of true entities
@@ -24,32 +28,69 @@ class Benchmarks:
             "f1": f1_score(true_entities, predicted_entities, average='micro', zero_division=0),
             "token_accuracy": accuracy_score(true_entities, predicted_entities)
         }
+    
+    @staticmethod
+    def evaluate_ner_entity_level(true_entities_seq, predicted_entities_seq):
+        """
+        Entity-level evaluation using seqeval.
+
+        args:
+            true_entities_seq: list of true entity sequences
+            predicted_entities_seq: list of predicted entity sequences
+
+        returns:
+            precision: fraction of correct predictions among all predicted entities
+            recall: fraction of correct predictions among all true entities
+            f1: harmonic mean of precision and recall
+            report: classification report with precision, recall, and f1 scores
+        """
+        return {
+            "precision": seq_precision(true_entities_seq, predicted_entities_seq),
+            "recall": seq_recall(true_entities_seq, predicted_entities_seq),
+            "f1": seq_f1(true_entities_seq, predicted_entities_seq),
+            "report": classification_report(true_entities_seq, predicted_entities_seq, digits=3)
+        }
 
     @staticmethod
     def evaluate_stt(references, hypotheses):
         """
-        Evaluate Speech-to-Text (STT) component by comparing reference and predicted transcriptions in Italian.
-        Input: list of ground truth transcriptions and list of model-generated ones.
+        Evaluate STT using WER, CER, BLEU, ROUGE, and Levenshtein.
 
         args:
             references: list of ground truth transcriptions
             hypotheses: list of model-generated transcriptions
 
         returns:
-            wer: Word Error Rate (WER) between references and hypotheses
-            cer: Character Error Rate (CER) between references and hypotheses
+            wer: word error rate
+            cer: character error rate
+            bleu_avg: average BLEU score
+            rouge1_avg_f1: average ROUGE-1 F1 score
+            rougeL_avg_f1: average ROUGE-L F1 score
+            levenshtein_avg: average Levenshtein distance
         """
         assert len(references) == len(hypotheses), "STT inputs must have the same length"
+
+        smooth = SmoothingFunction().method1
+        bleu_scores = [sentence_bleu([ref.split()], hyp.split(), smoothing_function=smooth) for ref, hyp in zip(references, hypotheses)]
+
+        rouge = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
+        rouge_scores = [rouge.score(ref, hyp) for ref, hyp in zip(references, hypotheses)]
+
+        levenshtein_scores = [Levenshtein.distance(ref, hyp) for ref, hyp in zip(references, hypotheses)]
+
         return {
             "wer": wer(references, hypotheses),
             "cer": cer(references, hypotheses),
+            "bleu_avg": sum(bleu_scores) / len(bleu_scores),
+            "rouge1_avg_f1": sum(score['rouge1'].fmeasure for score in rouge_scores) / len(rouge_scores),
+            "rougeL_avg_f1": sum(score['rougeL'].fmeasure for score in rouge_scores) / len(rouge_scores),
+            "levenshtein_avg": sum(levenshtein_scores) / len(levenshtein_scores),
         }
 
     @staticmethod
     def evaluate_cv(y_true, y_pred, average="macro", top_k_preds=None, y_true_top_k=None):
         """
-        Evaluate computer vision classification for license plate, car brand, or model.
-        Supports top-k evaluation for ambiguous or similar-looking car models.
+        Classification evaluation (top-k optional).
 
         args:
             y_true: list of true labels
@@ -80,3 +121,46 @@ class Benchmarks:
             metrics["top_k_accuracy"] = top_k_accuracy
 
         return metrics
+
+    @staticmethod
+    def evaluate_iou(pred_boxes, true_boxes):
+        """
+        Compute intersection over union (IoU) for object detection.
+
+        args:
+            pred_boxes: list of predicted bounding boxes
+            true_boxes: list of true bounding boxes
+
+        returns:
+            iou_avg: average IoU score
+        """
+        def iou(boxA, boxB):
+            xA = max(boxA[0], boxB[0])
+            yA = max(boxA[1], boxB[1])
+            xB = min(boxA[2], boxB[2])
+            yB = min(boxA[3], boxB[3])
+            interArea = max(0, xB - xA) * max(0, yB - yA)
+            boxAArea = (boxA[2] - boxA[0]) * (boxA[3] - boxA[1])
+            boxBArea = (boxB[2] - boxB[0]) * (boxB[3] - boxB[1])
+            return interArea / float(boxAArea + boxBArea - interArea)
+
+        iou_scores = [iou(p, t) for p, t in zip(pred_boxes, true_boxes)]
+        return {
+            "iou_avg": sum(iou_scores) / len(iou_scores)
+        }
+
+    @staticmethod
+    def evaluate_map(preds, targets):
+        """
+        Compute mean average precision (mAP) for object detection.
+
+        args:
+            preds: list of predicted bounding boxes, scores, and labels
+            targets: list of true bounding boxes and labels
+
+        returns:
+            mAP: mean average precision
+        """
+        metric = MeanAveragePrecision()
+        metric.update(preds, targets)
+        return metric.compute()
