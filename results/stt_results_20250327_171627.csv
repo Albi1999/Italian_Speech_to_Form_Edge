@@ -1,0 +1,16 @@
+model,text,time,wer,cer,bleu_avg,rouge1_avg_f1,rougeL_avg_f1,levenshtein_avg
+Whisper Tiny (OpenAI), anche io poi si rivelò asciun e lo bandida reño.,0.619387149810791,0.5833333333333334,0.23076923076923078,0.05464286595434615,0.43478260869565216,0.43478260869565216,13.0
+Whisper Distilled IT (bofenghuang),anche io poi si ribellò a shun e lo bandì dal regno.,15.885570049285889,0.08333333333333333,0.038461538461538464,0.8265168183793802,0.9166666666666666,0.9166666666666666,2.0
+Faster Whisper Tiny (Turbo), anche io poi si rivelò a son e lo bandida reño.,0.6152200698852539,0.5,0.21153846153846154,0.05696822651325549,0.5,0.5,12.0
+Whisper Tiny (OpenAI), sono presenti alcuni plastici riproducenti battaglia medievali tra lucchesi e modenesi risalenti al medio revo.,0.92405104637146,0.2857142857142857,0.03636363636363636,0.5702822264405542,0.7586206896551724,0.7586206896551724,5.0
+Whisper Distilled IT (bofenghuang),sono presenti alcuni plastici riproducenti battaglie medievali tra lucchesi e modenesi risalenti al medioevo.,14.38287353515625,0.07142857142857142,0.00909090909090909,0.7825422900366437,0.9285714285714286,0.9285714285714286,1.0
+Faster Whisper Tiny (Turbo), sono presenti alcuni plastici riproducenti battaglia medievali tra lucchesi e modenesi risalenti al medirevo.,0.7539668083190918,0.21428571428571427,0.02727272727272727,0.6162607099729586,0.7857142857142857,0.7857142857142857,4.0
+Whisper Tiny (OpenAI)," lex bitor, ad sonato tutti gli strumenti nella canzone.",0.7408413887023926,0.5,0.1864406779661017,0.44632361378533286,0.5263157894736842,0.5263157894736842,12.0
+Whisper Distilled IT (bofenghuang),l'ex beatle ha suonato tutti gli strumenti nella canzone.,14.229948043823242,0.25,0.05084745762711865,0.7259795291154771,1.0,1.0,3.0
+Faster Whisper Tiny (Turbo), lex bitor ha sonato tutti gli strumenti nella canzone.,0.6926071643829346,0.375,0.15254237288135594,0.4671379777282001,0.631578947368421,0.631578947368421,10.0
+Whisper Tiny (OpenAI), hanno seguente tornano valente nella junta,0.4668309688568115,1.0,0.2826086956521739,0.0,0.15384615384615383,0.15384615384615383,13.0
+Whisper Distilled IT (bofenghuang),l'anno seguente tornò nuovamente nello honka.,14.71793508529663,0.16666666666666666,0.021739130434782608,0.537284965911771,1.0,1.0,1.0
+Faster Whisper Tiny (Turbo), ando seguente tornano valente in l'ogonca,0.6420931816101074,1.0,0.34782608695652173,0.0,0.2857142857142857,0.14285714285714285,16.0
+Whisper Tiny (OpenAI), solo la marina militare italiana e l'aro e al neve possiedono unità di questo tipo.,1.1568119525909424,0.35714285714285715,0.0975609756097561,0.4920274515385508,0.7333333333333334,0.7333333333333334,9.0
+Whisper Distilled IT (bofenghuang),solo la marina militare italiana e la royal navy possiedono unità di questo tipo.,18.246674060821533,0.07142857142857142,0.012195121951219513,0.9193227152249185,1.0,1.0,1.0
+Faster Whisper Tiny (Turbo)," solo la marina militare italiane, l'aro e al neve possiedono unità di questo tipo.",1.5085117816925049,0.42857142857142855,0.13414634146341464,0.3661926362999429,0.689655172413793,0.689655172413793,12.0

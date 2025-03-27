@@ -1,0 +1,1 @@
+from .stt.whisper_models import WhisperTiny, WhisperItaDistilled, FasterWhisper

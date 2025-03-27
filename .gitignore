@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Data Files
+data/datasets/*.tar.gz
+data/datasets/cv-corpus-21.0-delta-2025-03-14/it/*.tsv

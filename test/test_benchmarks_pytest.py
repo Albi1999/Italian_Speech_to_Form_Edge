@@ -64,3 +64,5 @@ def test_map():
 # pytest -v
 # or 
 # pytest test/test_benchmarks_pytest.py -v
+
+# You can also run: python run_tests.py

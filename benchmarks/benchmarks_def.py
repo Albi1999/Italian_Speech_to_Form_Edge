@@ -4,7 +4,6 @@ from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from rouge_score import rouge_scorer
 from seqeval.metrics import classification_report, precision_score as seq_precision, recall_score as seq_recall, f1_score as seq_f1
 import Levenshtein
-from torchmetrics.detection.mean_ap import MeanAveragePrecision
 
 class Benchmarks:
     @staticmethod
@@ -161,6 +160,7 @@ class Benchmarks:
         returns:
             mAP: mean average precision
         """
+        from torchmetrics.detection.mean_ap import MeanAveragePrecision #! Moved here to avoid problems with onnxruntime and torchmetrics
         metric = MeanAveragePrecision()
         metric.update(preds, targets)
         return metric.compute()
