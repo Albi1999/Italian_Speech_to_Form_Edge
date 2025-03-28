@@ -78,8 +78,8 @@ class Benchmarks:
         levenshtein_scores = [Levenshtein.distance(ref, hyp) for ref, hyp in zip(references, hypotheses)]
 
         return {
-            "wer": wer(references, hypotheses),
-            "cer": cer(references, hypotheses),
+            "wer": sum([wer(r, h) for r, h in zip(references, hypotheses)]) / len(references),
+            "cer": sum([cer(r, h) for r, h in zip(references, hypotheses)]) / len(references),
             "bleu_avg": sum(bleu_scores) / len(bleu_scores),
             "rouge1_avg_f1": sum(score['rouge1'].fmeasure for score in rouge_scores) / len(rouge_scores),
             "rougeL_avg_f1": sum(score['rougeL'].fmeasure for score in rouge_scores) / len(rouge_scores),

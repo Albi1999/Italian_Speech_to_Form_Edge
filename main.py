@@ -12,7 +12,7 @@ from tqdm import tqdm
 import pandas as pd
 
 def main():
-    test_samples = load_commonvoice_subset(max_samples=5)
+    test_samples = load_commonvoice_subset(max_samples=10)
     models = [WhisperTiny(), WhisperItaDistilled(), FasterWhisper()]
 
     all_results = []
@@ -26,8 +26,7 @@ def main():
     # Save results
     save_results(df)
     # Plot metrics
-    plot_files = plot_metrics(df)
-    print(f"Plots saved: {', '.join(plot_files)}")
+    plot_metrics(df)
 
 if __name__ == "__main__":
     main()
