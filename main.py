@@ -1,7 +1,10 @@
 from models import (
     WhisperTiny,
     WhisperItaDistilled,
-    FasterWhisper
+    FasterWhisper,
+    Vosk,
+    Wav2Vec2Ita,
+    VoxPopuli
 )
 from utils import (
     load_commonvoice_subset,
@@ -12,8 +15,13 @@ from tqdm import tqdm
 import pandas as pd
 
 def main():
-    test_samples = load_commonvoice_subset(max_samples=10)
-    models = [WhisperTiny(), WhisperItaDistilled(), FasterWhisper()]
+    test_samples = load_commonvoice_subset(max_samples=5)
+    models = [WhisperTiny(), 
+            WhisperItaDistilled(), 
+            FasterWhisper(),
+            Vosk(),
+            Wav2Vec2Ita(),
+            VoxPopuli()]
 
     all_results = []
 
