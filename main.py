@@ -3,25 +3,29 @@ from models import (
     WhisperItaDistilled,
     FasterWhisper,
     Vosk,
-    Wav2Vec2Ita,
-    VoxPopuli
+    Wav2Vec2Grosman,
+    Wav2Vec2Multilingual56,
+    Wav2Vec2DBDMG
 )
 from utils import (
     load_commonvoice_subset,
     save_results,
-    plot_metrics
+    STTVisualizer
 )
 from tqdm import tqdm
 import pandas as pd
+import json
 
 def main():
-    test_samples = load_commonvoice_subset(max_samples=5)
+    test_samples = load_commonvoice_subset(max_samples=50)
     models = [WhisperTiny(), 
             WhisperItaDistilled(), 
             FasterWhisper(),
             Vosk(),
-            Wav2Vec2Ita(),
-            VoxPopuli()]
+            Wav2Vec2Grosman(),
+            Wav2Vec2DBDMG(),
+            Wav2Vec2Multilingual56()
+            ]
 
     all_results = []
 
@@ -31,10 +35,31 @@ def main():
             all_results.append(result)
 
     df = pd.DataFrame(all_results)
-    # Save results
+
+    with open("models/stt/stt_models_metadata.json", "r") as f:
+        metadata = json.load(f)
+
+    # Convert to DataFrame
+    df_meta = pd.DataFrame([
+        {"model": model, **attrs}
+        for model, attrs in metadata.items()
+    ])
+
+    # Create visualizer and generate all visualizations
+    visualizer = STTVisualizer(output_base_dir="output/stt")
+    csv_dir, plot_dir = visualizer.visualize_all(df, df_meta)
+    
+    print(f"Visualization complete! Results available in:")
+    print(f"- CSV data: {csv_dir}")
+    print(f"- Plots: {plot_dir}")
+
+    #plot_metrics_advanced(df, df_meta)
+
+    # Save results to CSV
+    # Useful to actually check the transcriptions of the different models
     save_results(df)
     # Plot metrics
-    plot_metrics(df)
+    #plot_metrics(df)
 
 if __name__ == "__main__":
     main()
