@@ -180,3 +180,6 @@ data/datasets/cv-corpus-21.0-delta-2025-03-14/it/*.tsv
 # vscode
 .vscode/
 .vscode
+
+# Italic Dataset
+data/datasets/ITALIC_massive/data-00000-of-00001.arrow

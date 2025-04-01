@@ -1,0 +1,102 @@
+[
+  {
+    "id": 0,
+    "text": "segna il prossimo lunedì",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_0.wav"
+  },
+  {
+    "id": 1,
+    "text": "riproduci la lista delle mie canzoni più ascoltate",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_1.wav"
+  },
+  {
+    "id": 2,
+    "text": "disattiva la sveglia delle quindici",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_2.wav"
+  },
+  {
+    "id": 3,
+    "text": "cancella sveglia",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_3.wav"
+  },
+  {
+    "id": 4,
+    "text": "ricordami i miei impegni del pomeriggio",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_4.wav"
+  },
+  {
+    "id": 5,
+    "text": "metti in pausa il libro",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_5.wav"
+  },
+  {
+    "id": 6,
+    "text": "ehi puoi abbassare le luci per favore",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_6.wav"
+  },
+  {
+    "id": 7,
+    "text": "quand'è pasqua nell'anno duemiladiciotto",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_7.wav"
+  },
+  {
+    "id": 8,
+    "text": "parla più forte",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_8.wav"
+  },
+  {
+    "id": 9,
+    "text": "come si fa il tacchino",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_9.wav"
+  },
+  {
+    "id": 10,
+    "text": "per favore scrivi una nuova email a un collega",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_10.wav"
+  },
+  {
+    "id": 11,
+    "text": "quando comincia ufficialmente la fase a eliminazione diretta della champions league",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_11.wav"
+  },
+  {
+    "id": 12,
+    "text": "mi serve un biglietto del treno da bologna a parma",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_12.wav"
+  },
+  {
+    "id": 13,
+    "text": "per favore aggiungi arance alla mia lista della spesa",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_13.wav"
+  },
+  {
+    "id": 14,
+    "text": "aggiungi un orologio da polso alla lista delle cose da comprare",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_14.wav"
+  },
+  {
+    "id": 15,
+    "text": "per favore riproduci l'ultimo podcast di francesco costa",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_15.wav"
+  },
+  {
+    "id": 16,
+    "text": "quanto devo cuocere una bistecca a cottura media",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_16.wav"
+  },
+  {
+    "id": 17,
+    "text": "ehi come sarà il tempo oggi a milano lombardia",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_17.wav"
+  },
+  {
+    "id": 18,
+    "text": "riesco a malapena a sentirti",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_18.wav"
+  },
+  {
+    "id": 19,
+    "text": "qual è il conad più vicino",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_19.wav"
+  }
+]

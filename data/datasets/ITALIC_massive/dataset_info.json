@@ -1,0 +1,110 @@
+{
+  "builder_name": "italic",
+  "citation": "@article{koudounas2023italic,\n  title={ITALIC: An Italian Intent Classification Dataset},\n  author={Koudounas, Alkis and La Quatra, Moreno and Vaiani, Lorenzo and Colomba, Luca and Attanasio, Giuseppe and Pastor, Eliana and Cagliero, Luca and Baralis, Elena},\n  journal={arXiv preprint arXiv:2306.08502},\n  year={2023}\n}\n",
+  "config_name": "massive",
+  "dataset_name": "italic",
+  "dataset_size": 5928381,
+  "description": "ITALIC is a dataset of Italian audio recordings and contains annotation for utterance transcripts and associated intents. \nThe ITALIC dataset was created through a custom web platform, utilizing both native and non-native Italian speakers as participants. \nThe participants were required to record themselves while reading a randomly sampled short text from the MASSIVE dataset.\n",
+  "download_checksums": {
+    "https://zenodo.org/record/8040649/files/italic.zip": {
+      "num_bytes": 1303656622,
+      "checksum": null
+    }
+  },
+  "download_size": 1303656622,
+  "features": {
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "age": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "gender": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "region": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "nationality": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "lisp": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "education": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "speaker_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "environment": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "device": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "scenario": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "field": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "intent": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "utt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "audio": {
+      "sampling_rate": 16000,
+      "_type": "Audio"
+    }
+  },
+  "homepage": "https://zenodo.org/record/8040649",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "size_in_bytes": 1309585003,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 4134059,
+      "num_examples": 11514,
+      "dataset_name": "italic"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 729007,
+      "num_examples": 2033,
+      "dataset_name": "italic"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 1065315,
+      "num_examples": 2974,
+      "dataset_name": "italic"
+    }
+  },
+  "supervised_keys": {
+    "input": "audio",
+    "output": "intent"
+  },
+  "version": {
+    "version_str": "1.0.0",
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
