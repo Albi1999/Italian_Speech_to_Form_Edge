@@ -15,10 +15,7 @@ from models import (
 import json
 import pandas as pd
 from tqdm import tqdm
-from utils import (
-    save_results,
-    STTVisualizer
-)
+from utils import save_results, STTVisualizer
 
 def ITALIC():
     # Random seed for reproducibility
@@ -29,7 +26,7 @@ def ITALIC():
     DATASET_DIR = f"data/datasets/{DATASET_NAME}_{DATASET_CONFIG}"
     AUDIO_DIR = f"{DATASET_DIR}/audio_samples"
     SAMPLE_EXPORT_PATH = f"{DATASET_DIR}/test_samples.json"
-    NUM_SAMPLES = 20
+    NUM_SAMPLES = 50
 
     dataset = load_from_disk(DATASET_DIR)
     sampled_dataset = dataset.shuffle(seed=42).select(range(NUM_SAMPLES))

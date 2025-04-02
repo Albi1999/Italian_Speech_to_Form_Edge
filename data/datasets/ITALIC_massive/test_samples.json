@@ -98,5 +98,155 @@
     "id": 19,
     "text": "qual è il conad più vicino",
     "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_19.wav"
+  },
+  {
+    "id": 20,
+    "text": "chi è il direttore musicale di questo brano",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_20.wav"
+  },
+  {
+    "id": 21,
+    "text": "quali sono le novità di oggi",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_21.wav"
+  },
+  {
+    "id": 22,
+    "text": "nuova sveglia per le sei di mattina",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_22.wav"
+  },
+  {
+    "id": 23,
+    "text": "cosa c'è dentro la torta mimosa",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_23.wav"
+  },
+  {
+    "id": 24,
+    "text": "passa alla prossima sezione",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_24.wav"
+  },
+  {
+    "id": 25,
+    "text": "cerca informazioni online",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_25.wav"
+  },
+  {
+    "id": 26,
+    "text": "cancella l'incontro di domani dal mio calendario",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_26.wav"
+  },
+  {
+    "id": 27,
+    "text": "siri che data è oggi",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_27.wav"
+  },
+  {
+    "id": 28,
+    "text": "olly quali film drammatici debuttano questo fine settimana",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_28.wav"
+  },
+  {
+    "id": 29,
+    "text": "puoi prenotarmi un taxi",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_29.wav"
+  },
+  {
+    "id": 30,
+    "text": "controlla email da stefano",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_30.wav"
+  },
+  {
+    "id": 31,
+    "text": "aggiungi questo brano al prossimo brano in riproduzione",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_31.wav"
+  },
+  {
+    "id": 32,
+    "text": "che ore sono a milano adesso",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_32.wav"
+  },
+  {
+    "id": 33,
+    "text": "ehi che ore sono a roma adesso",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_33.wav"
+  },
+  {
+    "id": 34,
+    "text": "qual è l'oggetto dell'ultima email di mamma",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_34.wav"
+  },
+  {
+    "id": 35,
+    "text": "fammi una tazza di caffè con panna al caramello salato",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_35.wav"
+  },
+  {
+    "id": 36,
+    "text": "quali sono le ultime notizie sulla rai",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_36.wav"
+  },
+  {
+    "id": 37,
+    "text": "rimuovi questa lista dalle altre",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_37.wav"
+  },
+  {
+    "id": 38,
+    "text": "che tempo fa a padova",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_38.wav"
+  },
+  {
+    "id": 39,
+    "text": "mostra la lista delle email recenti",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_39.wav"
+  },
+  {
+    "id": 40,
+    "text": "ho una sveglia impostata per domani mattina",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_40.wav"
+  },
+  {
+    "id": 41,
+    "text": "avrò bisogno di spalare il mio vialetto questa mattina",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_41.wav"
+  },
+  {
+    "id": 42,
+    "text": "mostra i dettagli geografici delle piramidi",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_42.wav"
+  },
+  {
+    "id": 43,
+    "text": "riproduci canzoni di mina",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_43.wav"
+  },
+  {
+    "id": 44,
+    "text": "sai com'è il tempo",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_44.wav"
+  },
+  {
+    "id": 45,
+    "text": "riproduci un po' di musica jazz",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_45.wav"
+  },
+  {
+    "id": 46,
+    "text": "invia una email a giuseppe chiocciola gmail punto com",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_46.wav"
+  },
+  {
+    "id": 47,
+    "text": "imposta questo evento come ricorrente sul mio calendario",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_47.wav"
+  },
+  {
+    "id": 48,
+    "text": "che giorno della settimana è il primo di aprile",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_48.wav"
+  },
+  {
+    "id": 49,
+    "text": "come stai oggi",
+    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_49.wav"
   }
 ]

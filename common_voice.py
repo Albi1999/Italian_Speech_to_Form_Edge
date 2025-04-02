@@ -17,7 +17,7 @@ import pandas as pd
 import json
 
 def common_voice():
-    test_samples = load_commonvoice_subset(max_samples=20)
+    test_samples = load_commonvoice_subset(max_samples=50)
     models = [WhisperTiny(), 
             WhisperItaDistilled(), 
             FasterWhisper(),
@@ -55,7 +55,7 @@ def common_voice():
 
     # Save results to CSV
     # Useful to actually check the transcriptions of the different models
-    save_results(df, output_base_dir="output/stt/common_voice/csv")
+    save_results(df, output_dir="output/stt/common_voice/csv")
 
 if __name__ == "__main__":
     common_voice()
