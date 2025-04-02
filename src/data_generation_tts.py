@@ -90,7 +90,7 @@ class SyntheticDatasetGenerator:
         original_clean = clean
 
         # Check TTS quality
-        if len(clean) < 4000 or clean.dBFS < -40:
+        if len(clean) < 5000 or clean.dBFS < -40:
             raise ValueError("\n Audio too short or silent")
 
         # Apply voice effect
@@ -109,7 +109,7 @@ class SyntheticDatasetGenerator:
             clean.export(final_path, format="wav")
 
             # Validate final audio
-            if len(clean) < 4000:
+            if len(clean) < 5000:
                 raise ValueError(f"\n Corrupted output (too short): {final_path}")
 
         except Exception as e:
@@ -174,11 +174,9 @@ class SyntheticDatasetGenerator:
 
                 noise = AudioSegment.from_file(noise_path)
 
-                # Normalizza formato
                 noise = noise.set_channels(1).set_frame_rate(22050)
 
                 if len(noise) < duration_ms:
-                    # loop se troppo corto
                     noise *= (duration_ms // len(noise) + 1)
 
                 return noise[:duration_ms].apply_gain(volume_db)
