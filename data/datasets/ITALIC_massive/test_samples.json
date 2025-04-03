@@ -2,251 +2,501 @@
   {
     "id": 0,
     "text": "segna il prossimo lunedì",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_0.wav"
+    "audio_path": "audio_0.wav"
   },
   {
     "id": 1,
     "text": "riproduci la lista delle mie canzoni più ascoltate",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_1.wav"
+    "audio_path": "audio_1.wav"
   },
   {
     "id": 2,
     "text": "disattiva la sveglia delle quindici",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_2.wav"
+    "audio_path": "audio_2.wav"
   },
   {
     "id": 3,
     "text": "cancella sveglia",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_3.wav"
+    "audio_path": "audio_3.wav"
   },
   {
     "id": 4,
     "text": "ricordami i miei impegni del pomeriggio",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_4.wav"
+    "audio_path": "audio_4.wav"
   },
   {
     "id": 5,
     "text": "metti in pausa il libro",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_5.wav"
+    "audio_path": "audio_5.wav"
   },
   {
     "id": 6,
     "text": "ehi puoi abbassare le luci per favore",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_6.wav"
+    "audio_path": "audio_6.wav"
   },
   {
     "id": 7,
     "text": "quand'è pasqua nell'anno duemiladiciotto",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_7.wav"
+    "audio_path": "audio_7.wav"
   },
   {
     "id": 8,
     "text": "parla più forte",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_8.wav"
+    "audio_path": "audio_8.wav"
   },
   {
     "id": 9,
     "text": "come si fa il tacchino",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_9.wav"
+    "audio_path": "audio_9.wav"
   },
   {
     "id": 10,
     "text": "per favore scrivi una nuova email a un collega",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_10.wav"
+    "audio_path": "audio_10.wav"
   },
   {
     "id": 11,
     "text": "quando comincia ufficialmente la fase a eliminazione diretta della champions league",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_11.wav"
+    "audio_path": "audio_11.wav"
   },
   {
     "id": 12,
     "text": "mi serve un biglietto del treno da bologna a parma",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_12.wav"
+    "audio_path": "audio_12.wav"
   },
   {
     "id": 13,
     "text": "per favore aggiungi arance alla mia lista della spesa",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_13.wav"
+    "audio_path": "audio_13.wav"
   },
   {
     "id": 14,
     "text": "aggiungi un orologio da polso alla lista delle cose da comprare",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_14.wav"
+    "audio_path": "audio_14.wav"
   },
   {
     "id": 15,
     "text": "per favore riproduci l'ultimo podcast di francesco costa",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_15.wav"
+    "audio_path": "audio_15.wav"
   },
   {
     "id": 16,
     "text": "quanto devo cuocere una bistecca a cottura media",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_16.wav"
+    "audio_path": "audio_16.wav"
   },
   {
     "id": 17,
     "text": "ehi come sarà il tempo oggi a milano lombardia",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_17.wav"
+    "audio_path": "audio_17.wav"
   },
   {
     "id": 18,
     "text": "riesco a malapena a sentirti",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_18.wav"
+    "audio_path": "audio_18.wav"
   },
   {
     "id": 19,
     "text": "qual è il conad più vicino",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_19.wav"
+    "audio_path": "audio_19.wav"
   },
   {
     "id": 20,
     "text": "chi è il direttore musicale di questo brano",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_20.wav"
+    "audio_path": "audio_20.wav"
   },
   {
     "id": 21,
     "text": "quali sono le novità di oggi",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_21.wav"
+    "audio_path": "audio_21.wav"
   },
   {
     "id": 22,
     "text": "nuova sveglia per le sei di mattina",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_22.wav"
+    "audio_path": "audio_22.wav"
   },
   {
     "id": 23,
     "text": "cosa c'è dentro la torta mimosa",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_23.wav"
+    "audio_path": "audio_23.wav"
   },
   {
     "id": 24,
     "text": "passa alla prossima sezione",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_24.wav"
+    "audio_path": "audio_24.wav"
   },
   {
     "id": 25,
     "text": "cerca informazioni online",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_25.wav"
+    "audio_path": "audio_25.wav"
   },
   {
     "id": 26,
     "text": "cancella l'incontro di domani dal mio calendario",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_26.wav"
+    "audio_path": "audio_26.wav"
   },
   {
     "id": 27,
     "text": "siri che data è oggi",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_27.wav"
+    "audio_path": "audio_27.wav"
   },
   {
     "id": 28,
     "text": "olly quali film drammatici debuttano questo fine settimana",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_28.wav"
+    "audio_path": "audio_28.wav"
   },
   {
     "id": 29,
     "text": "puoi prenotarmi un taxi",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_29.wav"
+    "audio_path": "audio_29.wav"
   },
   {
     "id": 30,
     "text": "controlla email da stefano",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_30.wav"
+    "audio_path": "audio_30.wav"
   },
   {
     "id": 31,
     "text": "aggiungi questo brano al prossimo brano in riproduzione",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_31.wav"
+    "audio_path": "audio_31.wav"
   },
   {
     "id": 32,
     "text": "che ore sono a milano adesso",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_32.wav"
+    "audio_path": "audio_32.wav"
   },
   {
     "id": 33,
     "text": "ehi che ore sono a roma adesso",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_33.wav"
+    "audio_path": "audio_33.wav"
   },
   {
     "id": 34,
     "text": "qual è l'oggetto dell'ultima email di mamma",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_34.wav"
+    "audio_path": "audio_34.wav"
   },
   {
     "id": 35,
     "text": "fammi una tazza di caffè con panna al caramello salato",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_35.wav"
+    "audio_path": "audio_35.wav"
   },
   {
     "id": 36,
     "text": "quali sono le ultime notizie sulla rai",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_36.wav"
+    "audio_path": "audio_36.wav"
   },
   {
     "id": 37,
     "text": "rimuovi questa lista dalle altre",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_37.wav"
+    "audio_path": "audio_37.wav"
   },
   {
     "id": 38,
     "text": "che tempo fa a padova",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_38.wav"
+    "audio_path": "audio_38.wav"
   },
   {
     "id": 39,
     "text": "mostra la lista delle email recenti",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_39.wav"
+    "audio_path": "audio_39.wav"
   },
   {
     "id": 40,
     "text": "ho una sveglia impostata per domani mattina",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_40.wav"
+    "audio_path": "audio_40.wav"
   },
   {
     "id": 41,
     "text": "avrò bisogno di spalare il mio vialetto questa mattina",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_41.wav"
+    "audio_path": "audio_41.wav"
   },
   {
     "id": 42,
     "text": "mostra i dettagli geografici delle piramidi",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_42.wav"
+    "audio_path": "audio_42.wav"
   },
   {
     "id": 43,
     "text": "riproduci canzoni di mina",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_43.wav"
+    "audio_path": "audio_43.wav"
   },
   {
     "id": 44,
     "text": "sai com'è il tempo",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_44.wav"
+    "audio_path": "audio_44.wav"
   },
   {
     "id": 45,
     "text": "riproduci un po' di musica jazz",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_45.wav"
+    "audio_path": "audio_45.wav"
   },
   {
     "id": 46,
     "text": "invia una email a giuseppe chiocciola gmail punto com",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_46.wav"
+    "audio_path": "audio_46.wav"
   },
   {
     "id": 47,
     "text": "imposta questo evento come ricorrente sul mio calendario",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_47.wav"
+    "audio_path": "audio_47.wav"
   },
   {
     "id": 48,
     "text": "che giorno della settimana è il primo di aprile",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_48.wav"
+    "audio_path": "audio_48.wav"
   },
   {
     "id": 49,
     "text": "come stai oggi",
-    "audio_path": "data/datasets/ITALIC_massive/audio_samples\\audio_49.wav"
+    "audio_path": "audio_49.wav"
+  },
+  {
+    "id": 50,
+    "text": "oggi cos'è la cosa più cercata su google",
+    "audio_path": "audio_50.wav"
+  },
+  {
+    "id": 51,
+    "text": "nel mio calendario rimuovi tutti gli eventi di calcio del mese corrente",
+    "audio_path": "audio_51.wav"
+  },
+  {
+    "id": 52,
+    "text": "suona la mia colonna sonora",
+    "audio_path": "audio_52.wav"
+  },
+  {
+    "id": 53,
+    "text": "la città è più economica o più costosa per vivere",
+    "audio_path": "audio_53.wav"
+  },
+  {
+    "id": 54,
+    "text": "apri l'app della musica e riproduci una canzone",
+    "audio_path": "audio_54.wav"
+  },
+  {
+    "id": 55,
+    "text": "ricette per preparare un pasto",
+    "audio_path": "audio_55.wav"
+  },
+  {
+    "id": 56,
+    "text": "avrò bisogno dei miei stivali da neve questo pomeriggio",
+    "audio_path": "audio_56.wav"
+  },
+  {
+    "id": 57,
+    "text": "manda un'email a carla",
+    "audio_path": "audio_57.wav"
+  },
+  {
+    "id": 58,
+    "text": "ho una lista della spesa pronta",
+    "audio_path": "audio_58.wav"
+  },
+  {
+    "id": 59,
+    "text": "carica una nuova email per mirco e invia il messaggio ora",
+    "audio_path": "audio_59.wav"
+  },
+  {
+    "id": 60,
+    "text": "per favore avvia le canzoni acquistate e aggiungile tra i preferiti",
+    "audio_path": "audio_60.wav"
+  },
+  {
+    "id": 61,
+    "text": "silenzia per due ore",
+    "audio_path": "audio_61.wav"
+  },
+  {
+    "id": 62,
+    "text": "che sveglie ho impostato",
+    "audio_path": "audio_62.wav"
+  },
+  {
+    "id": 63,
+    "text": "spiegami la nuova regola del fuorigioco",
+    "audio_path": "audio_63.wav"
+  },
+  {
+    "id": 64,
+    "text": "avvia giochi",
+    "audio_path": "audio_64.wav"
+  },
+  {
+    "id": 65,
+    "text": "dimmi alcuni dei migliori posti turistici in italia",
+    "audio_path": "audio_65.wav"
+  },
+  {
+    "id": 66,
+    "text": "olly riproduci una buona traccia del mio artista jazz preferito",
+    "audio_path": "audio_66.wav"
+  },
+  {
+    "id": 67,
+    "text": "invia a mamma una email adesso",
+    "audio_path": "audio_67.wav"
+  },
+  {
+    "id": 68,
+    "text": "informazioni sul meteo di questa settimana",
+    "audio_path": "audio_68.wav"
+  },
+  {
+    "id": 69,
+    "text": "spegni la luce nel capanno",
+    "audio_path": "audio_69.wav"
+  },
+  {
+    "id": 70,
+    "text": "traffico sulla strada",
+    "audio_path": "audio_70.wav"
+  },
+  {
+    "id": 71,
+    "text": "vai su contatti e inserisci un nuovo indirizzo email",
+    "audio_path": "audio_71.wav"
+  },
+  {
+    "id": 72,
+    "text": "per favore inserisci il mio nuovo indirizzo email nel contatto",
+    "audio_path": "audio_72.wav"
+  },
+  {
+    "id": 73,
+    "text": "trova l ultimo podcast della disney",
+    "audio_path": "audio_73.wav"
+  },
+  {
+    "id": 74,
+    "text": "avvia la riproduzione audio di twilight di nuovo",
+    "audio_path": "audio_74.wav"
+  },
+  {
+    "id": 75,
+    "text": "qual è il cambio euro dollaro adesso",
+    "audio_path": "audio_75.wav"
+  },
+  {
+    "id": 76,
+    "text": "ehi olly oggi ho incontrato un mio vecchio compagno di classe",
+    "audio_path": "audio_76.wav"
+  },
+  {
+    "id": 77,
+    "text": "avvia un gioco",
+    "audio_path": "audio_77.wav"
+  },
+  {
+    "id": 78,
+    "text": "che giorno è oggi",
+    "audio_path": "audio_78.wav"
+  },
+  {
+    "id": 79,
+    "text": "mi hanno promosso oggi che bellezza",
+    "audio_path": "audio_79.wav"
+  },
+  {
+    "id": 80,
+    "text": "cancella il primo elemento nella lista",
+    "audio_path": "audio_80.wav"
+  },
+  {
+    "id": 81,
+    "text": "alexa ho avuto i soldi per il mese quanto posso spendere ogni giorno questo mese",
+    "audio_path": "audio_81.wav"
+  },
+  {
+    "id": 82,
+    "text": "quale università ha frequentato laura boldrini",
+    "audio_path": "audio_82.wav"
+  },
+  {
+    "id": 83,
+    "text": "puoi farmi un caffè per favore",
+    "audio_path": "audio_83.wav"
+  },
+  {
+    "id": 84,
+    "text": "qual è il tasso di cambio tra euro e dollaro",
+    "audio_path": "audio_84.wav"
+  },
+  {
+    "id": 85,
+    "text": "componi una nuova email ma questa volta ho un nuovo indirizzo marco chiocciola esempio punto it",
+    "audio_path": "audio_85.wav"
+  },
+  {
+    "id": 86,
+    "text": "inizia a passare l'aspirapolvere",
+    "audio_path": "audio_86.wav"
+  },
+  {
+    "id": 87,
+    "text": "questa barzelletta la conosci",
+    "audio_path": "audio_87.wav"
+  },
+  {
+    "id": 88,
+    "text": "dove ci sono il maggior numero di vulcani sulla terra",
+    "audio_path": "audio_88.wav"
+  },
+  {
+    "id": 89,
+    "text": "suona tutte le playlist",
+    "audio_path": "audio_89.wav"
+  },
+  {
+    "id": 90,
+    "text": "cosa ho scritto a chiara nella mia ultima email",
+    "audio_path": "audio_90.wav"
+  },
+  {
+    "id": 91,
+    "text": "leggi le nuove email",
+    "audio_path": "audio_91.wav"
+  },
+  {
+    "id": 92,
+    "text": "quanto fa quattro più cinque",
+    "audio_path": "audio_92.wav"
+  },
+  {
+    "id": 93,
+    "text": "twitta a unipol e digli che fanno schifo",
+    "audio_path": "audio_93.wav"
+  },
+  {
+    "id": 94,
+    "text": "com'è la condizione del traffico al momento",
+    "audio_path": "audio_94.wav"
+  },
+  {
+    "id": 95,
+    "text": "puoi ordinare del sushi per la cena di stasera",
+    "audio_path": "audio_95.wav"
+  },
+  {
+    "id": 96,
+    "text": "rai news titoli di coda",
+    "audio_path": "audio_96.wav"
+  },
+  {
+    "id": 97,
+    "text": "rendi le luci più accese",
+    "audio_path": "audio_97.wav"
+  },
+  {
+    "id": 98,
+    "text": "milano",
+    "audio_path": "audio_98.wav"
+  },
+  {
+    "id": 99,
+    "text": "manda una mail ad anna riguardo la riunione sul bilancio",
+    "audio_path": "audio_99.wav"
   }
 ]

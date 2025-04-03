@@ -6,7 +6,7 @@ DATASET_NAME = "ITALIC"
 DATASET_CONFIG = "massive"
 DATASET_DIR = f"data/datasets/{DATASET_NAME}_{DATASET_CONFIG}"
 SAMPLE_EXPORT_PATH = f"{DATASET_DIR}/test_samples.json"
-NUM_SAMPLES = 20
+NUM_SAMPLES = 100
 
 def prepare_dataset():
     if not os.path.exists(DATASET_DIR):
