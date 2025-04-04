@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Conta numerose presenze con la nazionale bulgara.\n",
+  "reference": "conta numerose presenze con la nazionale bulgara.",
+  "time": 5.076009070294784,
+  "cost": 6.36121088435374e-05,
+  "wer": 0.14285714285714285,
+  "cer": 0.02040816326530612,
+  "bleu_avg": 0.8091067115702212,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

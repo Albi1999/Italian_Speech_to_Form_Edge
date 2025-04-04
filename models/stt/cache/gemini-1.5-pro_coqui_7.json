@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "One Ford Transit, Tentifue, Orei, Kirtito, veicolo Fiat Panda, targato RL, numero Tenti One M, in doppia fila presso via Milano, Tentiforo, Torino. Rilevato da gente arrabbiata.\n",
+  "reference": "01/04/2025, ore 08:32: veicolo Fiat Panda, targa KL321MN, in doppia fila presso via Milano 24, Torino. Rilevato da agente Anna Bianchi.",
+  "time": 12.706031746031746,
+  "cost": 0.002686206349206349,
+  "wer": 0.8095238095238095,
+  "cer": 0.5925925925925926,
+  "bleu_avg": 0.21379550863272262,
+  "rouge1_avg_f1": 0.47058823529411764,
+  "rougeL_avg_f1": 0.47058823529411764,
+  "levenshtein_avg": 81.0
+}

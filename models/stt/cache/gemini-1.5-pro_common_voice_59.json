@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Duncan Walker.\nP.\n",
+  "reference": "duncan walker",
+  "time": 3.4560090702947845,
+  "cost": 0.0007162018140589569,
+  "wer": 1.0,
+  "cer": 0.46153846153846156,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.8,
+  "rougeL_avg_f1": 0.8,
+  "levenshtein_avg": 7.0
+}

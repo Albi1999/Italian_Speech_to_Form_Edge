@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Durante il pattugliamento in zona via Garibaldi e Levane, Firenze, l'agente Luca Verdi ha rilevato una violazione dell'articolo 111/1 comma 2. L'auto coinvolta, una BMW serie 1 targata ETRE112TWENTYONE, alle ore 7:10 del 11/03/2025.\n",
+  "reference": "Durante il pattugliamento in zona via Garibaldi 11, Firenze, l'agente Luca Verdi ha rilevato una violazione del articolo 158, comma 2. L'auto coinvolta è una BMW Serie 1 targata KL321MN, alle ore 17:10 del 11/03/2025.",
+  "time": 20.674013605442177,
+  "cost": 0.004314802721088435,
+  "wer": 0.2857142857142857,
+  "cer": 0.14746543778801843,
+  "bleu_avg": 0.45434753555369795,
+  "rouge1_avg_f1": 0.8500000000000001,
+  "rougeL_avg_f1": 0.8500000000000001,
+  "levenshtein_avg": 33.0
+}

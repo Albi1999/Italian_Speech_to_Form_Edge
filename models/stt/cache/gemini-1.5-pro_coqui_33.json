@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Agente Luca Verdi in servizio. Segnalazione di parcheggio su strisce pedonali a Leone, Fifty Fifty del Sister Act, venti venti five in via Etnea, quarti five, Catania. Auto coinvolta, Homo Serie One, targa KT tre uno tre venti uno M.\n",
+  "reference": "Agente Luca Verdi in servizio. Segnalazione di parcheggio su strisce pedonali alle 01:56 del 06/03/2025, in via Etnea 45, Catania. Auto coinvolta: BMW Serie 1, targa KL321MN.",
+  "time": 17.219002267573696,
+  "cost": 0.0036538004535147397,
+  "wer": 0.8148148148148148,
+  "cer": 0.5114942528735632,
+  "bleu_avg": 0.2901810729181888,
+  "rouge1_avg_f1": 0.5714285714285715,
+  "rougeL_avg_f1": 0.5714285714285715,
+  "levenshtein_avg": 90.0
+}

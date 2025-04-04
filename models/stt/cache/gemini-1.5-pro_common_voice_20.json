@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Tutto ciò è andato completamente perduto, insieme a svariate composizioni di Aydin.\n",
+  "reference": "tutto ciò è andato completamente perduto, insieme a svariate composizioni di alkan.",
+  "time": 5.796009070294785,
+  "cost": 0.001229201814058957,
+  "wer": 0.16666666666666666,
+  "cer": 0.060240963855421686,
+  "bleu_avg": 0.8070557274927982,
+  "rouge1_avg_f1": 0.9090909090909091,
+  "rougeL_avg_f1": 0.9090909090909091,
+  "levenshtein_avg": 6.0
+}

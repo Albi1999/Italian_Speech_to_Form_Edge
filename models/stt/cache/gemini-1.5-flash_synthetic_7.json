@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Agente Sara Bellini in servizio. Segnalazione di accesso vietato alle 20:06 minuti dell'8 marzo 2025. In via Garibaldi 11, Firenze, auto coinvolta Toyota Yaris, targa XY 987 ZT.\n",
+  "reference": "Agente Sara Bellini in servizio. Segnalazione di accesso vietato alle 20:06 del 08/03/2025, in via Garibaldi 11, Firenze. Auto coinvolta: Toyota Yaris, targa XY987ZT.",
+  "time": 17.88,
+  "cost": 0.00022355999999999998,
+  "wer": 0.4583333333333333,
+  "cer": 0.13855421686746988,
+  "bleu_avg": 0.45436630696451386,
+  "rouge1_avg_f1": 0.8070175438596491,
+  "rougeL_avg_f1": 0.8070175438596491,
+  "levenshtein_avg": 24.0
+}

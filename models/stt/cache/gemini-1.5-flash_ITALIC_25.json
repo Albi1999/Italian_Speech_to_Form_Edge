@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Cerca informazioni online.\n",
+  "reference": "cerca informazioni online",
+  "time": 2.94,
+  "cost": 3.678e-05,
+  "wer": 0.6666666666666666,
+  "cer": 0.08,
+  "bleu_avg": 0.11362193664674995,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Infrazione riscontrata: divieto di sosta.\n\nPosizione: Via Milano, Toenti, Fuori, Torino.\n\nOra: Toenti e erre, toenti e ei, a. Data: tei, rti, o, ne, te, rei, toenti, toenti, fi, ve.\n\nAuto: Mercedes Classe A, targa: te, rei, u, nd, re, toenti, o, ne, m.\n\nAgente: Anna Bianchi.\n",
+  "reference": "Infrazione riscontrata: divieto di sosta. Posizione: via Milano 24, Torino. Ora: 23:28, Data: 31/03/2025. Auto: Mercedes Classe A, targa KL321MN. Agente: Anna Bianchi.",
+  "time": 19.557006802721087,
+  "cost": 0.004156401360544217,
+  "wer": 1.3478260869565217,
+  "cer": 0.8203592814371258,
+  "bleu_avg": 0.18419907918508985,
+  "rouge1_avg_f1": 0.5205479452054794,
+  "rougeL_avg_f1": 0.5205479452054794,
+  "levenshtein_avg": 138.0
+}

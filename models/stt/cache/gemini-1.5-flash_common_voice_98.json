@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Lo spettro della cometa assomiglia a quello degli asteroidi Troiani.\n",
+  "reference": "lo spettro della cometa assomiglia a quello degli asteroidi troiani.",
+  "time": 5.76,
+  "cost": 7.272e-05,
+  "wer": 0.2,
+  "cer": 0.029411764705882353,
+  "bleu_avg": 0.7598356856515925,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

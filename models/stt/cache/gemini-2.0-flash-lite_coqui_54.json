@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Verbale di infrazione redatto dall'agente Anna Bianchi. Data 25/05/2025, ora 22:25. Infrazione: rimozione. Luogo: corso Buenos Aires, 90, Milano. Veicolo: Mercedes Classe, targa CF 366F.",
+  "reference": "Verbale di infrazione redatto dall'agente Anna Bianchi. Data: 25/03/2025, ora: 22:25. Infrazione: zona rimozione. Luogo: corso Buenos Aires 98, Milano. Veicolo: Mercedes Classe A, targa CD456EF.",
+  "time": 20.99700680272109,
+  "cost": 0.00026006408163265307,
+  "wer": 0.38461538461538464,
+  "cer": 0.08247422680412371,
+  "bleu_avg": 0.38902303579446945,
+  "rouge1_avg_f1": 0.847457627118644,
+  "rougeL_avg_f1": 0.847457627118644,
+  "levenshtein_avg": 16.0
+}

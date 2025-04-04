@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Certo, ecco la trascrizione:\n\"Manda una mail ad Anna riguardo la riunione sul bilancio.\"\n",
+  "reference": "manda una mail ad anna riguardo la riunione sul bilancio",
+  "time": 4.44,
+  "cost": 5.8080000000000006e-05,
+  "wer": 0.6,
+  "cer": 0.6071428571428571,
+  "bleu_avg": 0.25712008025141314,
+  "rouge1_avg_f1": 0.8333333333333333,
+  "rougeL_avg_f1": 0.8333333333333333,
+  "levenshtein_avg": 35.0
+}

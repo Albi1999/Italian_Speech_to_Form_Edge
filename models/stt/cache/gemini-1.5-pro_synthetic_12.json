@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "In base all'articolo 157, comma 5, l'agente Silvia Neri ha riscontrato un'infrazione in via Milano 24, Torino, alle ore 15:26 del 9 marzo 2025. Veicolo coinvolto: Audi A3, targa TR98YU.\n",
+  "reference": "In base al articolo 157, comma 5, l'agente Silvia Neri ha riscontrato un'infrazione in via Milano 24, Torino alle ore 15:26 del 09/03/2025. Veicolo coinvolto: Audi A3, targa TR098YU.",
+  "time": 18.456009070294783,
+  "cost": 0.003851201814058957,
+  "wer": 0.2413793103448276,
+  "cer": 0.06593406593406594,
+  "bleu_avg": 0.6241886696801318,
+  "rouge1_avg_f1": 0.8823529411764706,
+  "rougeL_avg_f1": 0.8823529411764706,
+  "levenshtein_avg": 13.0
+}

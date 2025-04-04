@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Per vendetta Timmy desidera di diventare il bagnino più forte della spiaggia.\n",
+  "reference": "per vendetta timmy desidera di diventare il bagnino più forte della spiaggia.",
+  "time": 4.212018140589569,
+  "cost": 5.474421768707483e-05,
+  "wer": 0.16666666666666666,
+  "cer": 0.025974025974025976,
+  "bleu_avg": 0.7292571723872933,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

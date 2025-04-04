@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Il giorno, si terrà, tenti, tenti, file, alle ore otto, fiffi, to. È stata segnalata un'infrazione per accesso vietato in via Garibaldi, eleven, Firenze. Veicolo coinvolto, Polas, Gen, Golf, targa, tutto, re, chi, chi, forma. Agente, Silvia Neri.\n",
+  "reference": "Il giorno 06/03/2025, alle ore 02:52, è stata segnalata un’infrazione per accesso vietato in via Garibaldi 11, Firenze. Veicolo coinvolto: Volkswagen Golf, targa FG234LM. Agente: Silvia Neri.",
+  "time": 16.803038548752834,
+  "cost": 0.00021363646258503398,
+  "wer": 0.8518518518518519,
+  "cer": 0.4607329842931937,
+  "bleu_avg": 0.1419855531301717,
+  "rouge1_avg_f1": 0.6470588235294117,
+  "rougeL_avg_f1": 0.6470588235294117,
+  "levenshtein_avg": 89.0
+}

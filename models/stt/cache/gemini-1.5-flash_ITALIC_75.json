@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Qual è il cambio euro dollaro adesso?\n",
+  "reference": "qual è il cambio euro dollaro adesso",
+  "time": 3.42,
+  "cost": 4.374e-05,
+  "wer": 0.2857142857142857,
+  "cer": 0.05555555555555555,
+  "bleu_avg": 0.6147881529512643,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

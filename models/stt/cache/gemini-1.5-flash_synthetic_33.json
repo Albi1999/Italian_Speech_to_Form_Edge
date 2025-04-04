@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "19 marzo 2025, ore 9:54, veicolo Mercedes Classe A, targa XY 9987 ZT, in doppia fila presso via Milano 24, Torino, rilevato da agente Luca Verdi.\n",
+  "reference": "19/03/2025, ore 09:54: veicolo Mercedes Classe A, targa XY987ZT, in doppia fila presso via Milano 24, Torino. Rilevato da agente Luca Verdi.",
+  "time": 16.82403628117914,
+  "cost": 0.00021028843537414967,
+  "wer": 0.4090909090909091,
+  "cer": 0.1,
+  "bleu_avg": 0.4556794776992747,
+  "rouge1_avg_f1": 0.8461538461538461,
+  "rougeL_avg_f1": 0.8461538461538461,
+  "levenshtein_avg": 15.0
+}

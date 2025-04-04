@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Durante il pattugliamento in zona Piazza Venezia, Roma, l'agente Luca Verdi ha rilevato una violazione dell'articolo 116 del Codice della Strada. L'auto coinvolta, una Audi A3 targata con  1155 CF, alle ore 15:54 del 22/05/2025.\n",
+  "reference": "Durante il pattugliamento in zona piazza Venezia, Roma, l'agente Luca Verdi ha rilevato una violazione del articolo 158, comma 2. L'auto coinvolta è una Audi A3 targata CD456EF, alle ore 03:54 del 14/03/2025.",
+  "time": 19.36204081632653,
+  "cost": 0.00024344448979591836,
+  "wer": 0.42424242424242425,
+  "cer": 0.20192307692307693,
+  "bleu_avg": 0.42171123717273484,
+  "rouge1_avg_f1": 0.7692307692307694,
+  "rougeL_avg_f1": 0.7435897435897435,
+  "levenshtein_avg": 43.0
+}

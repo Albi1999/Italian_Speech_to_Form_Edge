@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Agente Anna Bianchi in servizio. Segnalazione di doppia fila all'altezza del Ninete Ninete Ninete Ninete in Piazza Venezia, Roma. Auto coinvolta, Fiat Panda, faro in onde degli etisorenzi.",
+  "reference": "Agente Anna Bianchi in servizio. Segnalazione di doppia fila alle 10:19 del 09/03/2025, in piazza Venezia, Roma. Auto coinvolta: Fiat Panda, targa XY987ZT.",
+  "time": 14.211020408163265,
+  "cost": 0.0005170279183673469,
+  "wer": 0.5652173913043478,
+  "cer": 0.4,
+  "bleu_avg": 0.36210097004176117,
+  "rouge1_avg_f1": 0.6909090909090909,
+  "rougeL_avg_f1": 0.6909090909090909,
+  "levenshtein_avg": 62.0
+}

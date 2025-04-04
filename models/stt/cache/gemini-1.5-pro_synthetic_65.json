@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Sono l'agente Anna Bianchi. Alle ore 23:22 del 27 marzo 2025 ho rilevato un'infrazione per doppia fila in Via del Corso 12, Roma. Veicolo Audi A3, targa XY987ZT.\n",
+  "reference": "Sono l'agente Anna Bianchi. Alle ore 23:22 del 27/03/2025, ho rilevato un'infrazione per doppia fila in via del Corso 12, Roma. Veicolo: Audi A3, targa XY987ZT.",
+  "time": 14.449024943310658,
+  "cost": 0.003039804988662132,
+  "wer": 0.19230769230769232,
+  "cer": 0.0625,
+  "bleu_avg": 0.6189172073417211,
+  "rouge1_avg_f1": 0.967741935483871,
+  "rougeL_avg_f1": 0.967741935483871,
+  "levenshtein_avg": 11.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Fammi una tazza di caffè con panna e caramello salato.\n",
+  "reference": "fammi una tazza di caffè con panna al caramello salato",
+  "time": 4.98,
+  "cost": 6.336e-05,
+  "wer": 0.3,
+  "cer": 0.07407407407407407,
+  "bleu_avg": 0.537284965911771,
+  "rouge1_avg_f1": 0.9,
+  "rougeL_avg_f1": 0.9,
+  "levenshtein_avg": 5.0
+}

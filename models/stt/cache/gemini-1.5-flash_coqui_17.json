@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sono l'agente Marco Gentili. Alle ore 19:25 del 22/05 ho rilevato un'infrazione per parcheggio su strisce pedonali in via Napoli 5, Napoli. Veicolo Mercedes Classe A, targa AW 110 RT.\n",
+  "reference": "Sono l'agente Marco Gentili. Alle ore 09:16 del 03/03/2025, ho rilevato un'infrazione per parcheggio su strisce pedonali in via Napoli 5, Napoli. Veicolo: Mercedes Classe A, targa AB123CD.",
+  "time": 17.091020408163267,
+  "cost": 0.0002146922448979592,
+  "wer": 0.21428571428571427,
+  "cer": 0.10106382978723404,
+  "bleu_avg": 0.6455714066623376,
+  "rouge1_avg_f1": 0.8059701492537314,
+  "rougeL_avg_f1": 0.8059701492537314,
+  "levenshtein_avg": 20.0
+}

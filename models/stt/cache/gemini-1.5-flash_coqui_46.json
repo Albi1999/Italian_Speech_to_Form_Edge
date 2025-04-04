@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Agente Carlo Bruni in servizio. Segnalazione di sosta davanti a passo carrabile alle 10:55 del 20/02/2025 in Via del Corso 20/B, Roma. Auto coinvolta, Peugeot, targa KH 120 NM.\n",
+  "reference": "Agente Carlo Bruni in servizio. Segnalazione di sosta davanti a passo carrabile alle 10:55 del 21/03/2025, in via del Corso 12, Roma. Auto coinvolta: Opel Corsa, targa KL321MN.",
+  "time": 16.51501133786848,
+  "cost": 0.00020748013605442173,
+  "wer": 0.32142857142857145,
+  "cer": 0.13068181818181818,
+  "bleu_avg": 0.5506716057974674,
+  "rouge1_avg_f1": 0.7812499999999999,
+  "rougeL_avg_f1": 0.7812499999999999,
+  "levenshtein_avg": 24.0
+}

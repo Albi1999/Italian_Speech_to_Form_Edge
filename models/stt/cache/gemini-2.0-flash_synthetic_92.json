@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Agente Mario Rossi in servizio. Segnalazione di parcheggio su strisce pedonali alle 13:26 del 18 marzo 2025. In corso Buenos Aires 98, Milano, auto coinvolta, Audi A3, targa KL321 mega Newton.",
+  "reference": "Agente Mario Rossi in servizio. Segnalazione di parcheggio su strisce pedonali alle 13:26 del 18/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Audi A3, targa KL321MN.",
+  "time": 18.984036281179137,
+  "cost": 0.0006862380770975056,
+  "wer": 0.37037037037037035,
+  "cer": 0.12849162011173185,
+  "bleu_avg": 0.5478748084045127,
+  "rouge1_avg_f1": 0.9032258064516129,
+  "rougeL_avg_f1": 0.9032258064516129,
+  "levenshtein_avg": 23.0
+}

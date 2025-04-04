@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sono l'agente Silvia Neri, alle ore 5:42 del 10 marzo 2025. Ho rilevato un'infrazione per parcheggio su strisce pedonali in via Etnea 45, Catania. Veicolo Mercedes Classe A, targa XY 987 ZT.\n",
+  "reference": "Sono l'agente Silvia Neri. Alle ore 05:42 del 10/03/2025, ho rilevato un'infrazione per parcheggio su strisce pedonali in via Etnea 45, Catania. Veicolo: Mercedes Classe A, targa XY987ZT.",
+  "time": 19.34403628117914,
+  "cost": 0.00024232843537414967,
+  "wer": 0.39285714285714285,
+  "cer": 0.08021390374331551,
+  "bleu_avg": 0.4743107045832293,
+  "rouge1_avg_f1": 0.8823529411764706,
+  "rougeL_avg_f1": 0.8823529411764706,
+  "levenshtein_avg": 16.0
+}

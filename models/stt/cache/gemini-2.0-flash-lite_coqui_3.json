@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Infrazione riscontrata doppia fila. Posizione: Corso Buenos Aires, Ninetti e Ita, Milano. Ora: Furo, fatti, seven. Data: 6/3/2025. Auto: Renault, Targa A123456, agente: Mario Rossi.",
+  "reference": "Infrazione riscontrata: doppia fila. Posizione: corso Buenos Aires 98, Milano. Ora: 04:47, Data: 16/03/2025. Auto: Renault Clio, targa AB123CD. Agente: Mario Rossi.",
+  "time": 19.20503401360544,
+  "cost": 0.0002385604081632653,
+  "wer": 0.6818181818181818,
+  "cer": 0.2926829268292683,
+  "bleu_avg": 0.061700364165330555,
+  "rouge1_avg_f1": 0.6923076923076923,
+  "rougeL_avg_f1": 0.6923076923076923,
+  "levenshtein_avg": 48.0
+}

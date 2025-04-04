@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Agente Luca Verdi in servizio. Segnalazione di parcheggio su strisce pedonali, al Leone, fifi si del siste re ventidue, in via Etnea Fortifi ve, Catania. Auto coinvolta, omo serie one, targa ke tre zero uno due.\n",
+  "reference": "Agente Luca Verdi in servizio. Segnalazione di parcheggio su strisce pedonali alle 01:56 del 06/03/2025, in via Etnea 45, Catania. Auto coinvolta: BMW Serie 1, targa KL321MN.",
+  "time": 17.219002267573696,
+  "cost": 0.00021802802721088436,
+  "wer": 0.7037037037037037,
+  "cer": 0.39080459770114945,
+  "bleu_avg": 0.30878189539634476,
+  "rouge1_avg_f1": 0.606060606060606,
+  "rougeL_avg_f1": 0.606060606060606,
+  "levenshtein_avg": 69.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Oggi cos'è la cosa più cercata su Google?",
+  "reference": "oggi cos'è la cosa più cercata su google",
+  "time": 3.54140589569161,
+  "cost": 0.00013345748752834465,
+  "wer": 0.25,
+  "cer": 0.075,
+  "bleu_avg": 0.6803749333171202,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

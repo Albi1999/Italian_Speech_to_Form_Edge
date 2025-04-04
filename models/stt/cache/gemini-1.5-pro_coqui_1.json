@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Agente Giulia Costa in servizio. Segnalazione di divieto di sosta a Leone, Fiffione del Tirtitere tenti tenti fiue, in via Garibaldi,  Firenze. Auto coinvolta, Fiat Panda, targa BO130 tenti trenta e sei.\n",
+  "reference": "Agente Giulia Costa in servizio. Segnalazione di divieto di sosta alle 01:51 del 30/03/2025, in via Garibaldi 11, Firenze. Auto coinvolta: Fiat Panda, targa AB123CD.",
+  "time": 15.71501133786848,
+  "cost": 0.0033130022675736965,
+  "wer": 0.6,
+  "cer": 0.4121212121212121,
+  "bleu_avg": 0.36151920269854193,
+  "rouge1_avg_f1": 0.6666666666666666,
+  "rougeL_avg_f1": 0.6666666666666666,
+  "levenshtein_avg": 69.0
+}

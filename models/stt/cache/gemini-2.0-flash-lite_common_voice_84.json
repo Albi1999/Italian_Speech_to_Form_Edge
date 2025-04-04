@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "L'acqua, però, è spesso torbida per la grande presenza di plankton.\n",
+  "reference": "l'acqua però è spesso torbida per la grande presenza di plancton.",
+  "time": 8.316009070294784,
+  "cost": 0.00010369210884353741,
+  "wer": 0.2727272727272727,
+  "cer": 0.06153846153846154,
+  "bleu_avg": 0.6786502681586727,
+  "rouge1_avg_f1": 0.9090909090909091,
+  "rougeL_avg_f1": 0.9090909090909091,
+  "levenshtein_avg": 5.0
+}

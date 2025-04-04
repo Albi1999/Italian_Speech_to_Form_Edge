@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Verbale di infrazione redatto dall'agente Silvianelli.\nData 13/10/2023, ora 16:10.\nInfrazione: parcheggio su strisce pedonali.\nLuogo: Via Roma 77, Paderno.\nVeicolo: Opel Corsa, targa ZMN PYR.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Silvia Neri. Data: 13/03/2025, ora: 06:17. Infrazione: parcheggio su strisce pedonali. Luogo: via Roma 77, Palermo. Veicolo: Opel Corsa, targa TR098YU.",
+  "time": 18.373015873015873,
+  "cost": 0.0038146031746031745,
+  "wer": 0.5384615384615384,
+  "cer": 0.12435233160621761,
+  "bleu_avg": 0.4270545956459182,
+  "rouge1_avg_f1": 0.7333333333333333,
+  "rougeL_avg_f1": 0.7333333333333333,
+  "levenshtein_avg": 25.0
+}

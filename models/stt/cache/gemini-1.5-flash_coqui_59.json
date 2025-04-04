@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Agente Sara Bellini in servizio. Segnalazione di divieto di sosta, viale... (incomprensibile) ...del venti, venti, venti... in corso Buenos Aires, in prossimità... (incomprensibile) ...mia auto coinvolta.  Toyota Yaris, targhe... (incomprensibile) ...55... (incomprensibile)\n",
+  "reference": "Agente Sara Bellini in servizio. Segnalazione di divieto di sosta alle 07:13 del 25/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Toyota Yaris, targa ZA456QP.",
+  "time": 16.579002267573696,
+  "cost": 0.00020914802721088435,
+  "wer": 0.6923076923076923,
+  "cer": 0.7953216374269005,
+  "bleu_avg": 0.3042164950089497,
+  "rouge1_avg_f1": 0.6229508196721311,
+  "rougeL_avg_f1": 0.6229508196721311,
+  "levenshtein_avg": 137.0
+}

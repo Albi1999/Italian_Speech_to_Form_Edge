@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Il vescovo Alessandro chiamò i monaci Vallombrosani a reggere l'abbazia di San Mercurioale.\n",
+  "reference": "il vescovo alessandro chiamò i monaci vallombrosani a reggere l'abbazia di san mercuriale.",
+  "time": 6.876009070294785,
+  "cost": 8.701210884353741e-05,
+  "wer": 0.38461538461538464,
+  "cer": 0.06666666666666667,
+  "bleu_avg": 0.2891784933232572,
+  "rouge1_avg_f1": 0.9285714285714286,
+  "rougeL_avg_f1": 0.9285714285714286,
+  "levenshtein_avg": 7.0
+}

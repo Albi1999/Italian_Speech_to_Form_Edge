@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "In base all'articolo 6, comma 15, l'agente Anna Bianchi ha riscontrato un'infrazione in via del Corso 12, Roma, alle ore 7:17 del 10 marzo 2025. Veicolo coinvolto: Mercedes classe A, targa AB 123 CD.\n",
+  "reference": "In base al articolo 7, comma 15, l'agente Anna Bianchi ha riscontrato un'infrazione in via del Corso 12, Roma alle ore 07:17 del 10/03/2025. Veicolo coinvolto: Mercedes Classe A, targa AB123CD.",
+  "time": 19.2,
+  "cost": 0.004019999999999999,
+  "wer": 0.3870967741935484,
+  "cer": 0.07772020725388601,
+  "bleu_avg": 0.45312014285372,
+  "rouge1_avg_f1": 0.8648648648648649,
+  "rougeL_avg_f1": 0.8378378378378377,
+  "levenshtein_avg": 16.0
+}

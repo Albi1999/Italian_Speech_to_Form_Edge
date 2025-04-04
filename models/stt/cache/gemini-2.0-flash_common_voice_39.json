@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Insieme hanno formato una coppia instancabile e inossidabile.",
+  "reference": "insieme hanno formato una coppia instancabile ed inossidabile.",
+  "time": 5.076009070294784,
+  "cost": 0.0001874755192743764,
+  "wer": 0.25,
+  "cer": 0.03225806451612903,
+  "bleu_avg": 0.5410822690539396,
+  "rouge1_avg_f1": 0.875,
+  "rougeL_avg_f1": 0.875,
+  "levenshtein_avg": 2.0
+}

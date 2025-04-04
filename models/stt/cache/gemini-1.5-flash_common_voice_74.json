@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Le dosi di vaccino vengono somministrate al secondo, terzo e quarto mese di età.\n",
+  "reference": "le dosi di vaccino vengono somministrate al secondo, terzo e quarto mese di età.",
+  "time": 6.984036281179138,
+  "cost": 8.860843537414966e-05,
+  "wer": 0.07142857142857142,
+  "cer": 0.0125,
+  "bleu_avg": 0.9193227152249185,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

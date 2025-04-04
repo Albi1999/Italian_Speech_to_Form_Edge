@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Non ho accesso a file audio, quindi non posso trascrivere l'audio di \"Twilight\".  Per ottenere una trascrizione, dovrai utilizzare un servizio di trascrizione automatica online o un software di riconoscimento vocale.  Ci sono molti strumenti gratuiti e a pagamento disponibili online.\n",
+  "reference": "avvia la riproduzione audio di twilight di nuovo",
+  "time": 3.54,
+  "cost": 5.538e-05,
+  "wer": 4.875,
+  "cer": 5.104166666666667,
+  "bleu_avg": 0.005355924989097696,
+  "rouge1_avg_f1": 0.16,
+  "rougeL_avg_f1": 0.16,
+  "levenshtein_avg": 246.0
+}

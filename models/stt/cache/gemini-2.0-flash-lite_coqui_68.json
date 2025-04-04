@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "In base all'articolo lo se, con mafia, la gente si via, l'erica ha riscontrato un'infrazione in corso, buono si è resi inetti per l'età. Virano alle ore 3, il fiore del tirchio, tre tenti tenti. Veicolo con in moto, per un foglio, taglia furono del 56.\n",
+  "reference": "In base al articolo 7, comma 15, l'agente Silvia Neri ha riscontrato un'infrazione in corso Buenos Aires 98, Milano alle ore 03:31 del 31/03/2025. Veicolo coinvolto: Renault Clio, targa CD456EF.",
+  "time": 17.506031746031745,
+  "cost": 0.00022447238095238094,
+  "wer": 1.2,
+  "cer": 0.5824742268041238,
+  "bleu_avg": 0.07108486297837001,
+  "rouge1_avg_f1": 0.3333333333333333,
+  "rougeL_avg_f1": 0.3333333333333333,
+  "levenshtein_avg": 114.0
+}

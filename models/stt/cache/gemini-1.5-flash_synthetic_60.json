@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "11 marzo 2025, ore 15:19. Veicolo Toyota Yaris, targa XY 9987 ZT, in doppia fila presso via Garibaldi 11, Firenze, rilevato da agente Marco Gentili.\n",
+  "reference": "11/03/2025, ore 15:19: veicolo Toyota Yaris, targa XY987ZT, in doppia fila presso via Garibaldi 11, Firenze. Rilevato da agente Marco Gentili.",
+  "time": 15.968027210884355,
+  "cost": 0.00019971632653061227,
+  "wer": 0.47619047619047616,
+  "cer": 0.09859154929577464,
+  "bleu_avg": 0.3839817133079349,
+  "rouge1_avg_f1": 0.8799999999999999,
+  "rougeL_avg_f1": 0.8799999999999999,
+  "levenshtein_avg": 15.0
+}

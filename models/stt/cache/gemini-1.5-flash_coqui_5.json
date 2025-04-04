@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "In base all'articolo 125 del Codice della Strada, come ha fatto la gente Marco Gentili ha riscontrato un'infrazione in via Garibaldi,  Firenze alle ore 15:50 del 13/10/2023. Veicolo coinvolto Fiat Panda, targa RN 123456.\n",
+  "reference": "In base al articolo 158, comma 2, l'agente Marco Gentili ha riscontrato un'infrazione in via Garibaldi 11, Firenze alle ore 02:51 del 29/03/2025. Veicolo coinvolto: Fiat Panda, targa XY987ZT.",
+  "time": 18.370022675736962,
+  "cost": 0.00023124027210884356,
+  "wer": 0.6206896551724138,
+  "cer": 0.3089005235602094,
+  "bleu_avg": 0.2618929316459148,
+  "rouge1_avg_f1": 0.5753424657534247,
+  "rougeL_avg_f1": 0.5753424657534247,
+  "levenshtein_avg": 60.0
+}

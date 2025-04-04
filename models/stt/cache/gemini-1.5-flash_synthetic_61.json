@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Agente Luca Verdi in servizio. Segnalazione di doppia fila alle 4:04 minuti del 14 marzo 2025. In Piazza Venezia, Roma, auto coinvolta Volkswagen Golf, targa AB 123 CD.\n",
+  "reference": "Agente Luca Verdi in servizio. Segnalazione di doppia fila alle 04:04 del 14/03/2025, in piazza Venezia, Roma. Auto coinvolta: Volkswagen Golf, targa AB123CD.",
+  "time": 16.488027210884354,
+  "cost": 0.00020685632653061223,
+  "wer": 0.5652173913043478,
+  "cer": 0.14556962025316456,
+  "bleu_avg": 0.3813707100324891,
+  "rouge1_avg_f1": 0.8363636363636363,
+  "rougeL_avg_f1": 0.8363636363636363,
+  "levenshtein_avg": 24.0
+}

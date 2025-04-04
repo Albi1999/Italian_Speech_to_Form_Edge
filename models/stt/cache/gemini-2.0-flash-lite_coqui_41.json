@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Verbale di infrazione redatto dall'agente S. V. N. data, interenti, tenti, fiera, ora, 10:53. Infrazione, sosta davanti a passo carrabile. Luogo, via Garibaldi, 20, Firenze. Veicolo, Audi A3, targhe, 3, 4, 5, 6, 7, 8, 9, 0.",
+  "reference": "Verbale di infrazione redatto dall'agente Silvia Neri. Data: 09/03/2025, ora: 10:53. Infrazione: sosta davanti a passo carrabile. Luogo: via Garibaldi 11, Firenze. Veicolo: Audi A3, targa FG234LM.",
+  "time": 19.077006802721087,
+  "cost": 0.00024062408163265305,
+  "wer": 0.8148148148148148,
+  "cer": 0.33163265306122447,
+  "bleu_avg": 0.2126294696713847,
+  "rouge1_avg_f1": 0.6571428571428573,
+  "rougeL_avg_f1": 0.6571428571428573,
+  "levenshtein_avg": 65.0
+}

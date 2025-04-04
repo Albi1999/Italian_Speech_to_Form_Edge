@@ -1,0 +1,296 @@
+model,text,reference,time,cost,wer,cer,bleu_avg,rouge1_avg_f1,rougeL_avg_f1,levenshtein_avg
+gemini-1.5-pro,"Agente Silvia Neri in servizio. Segnalazione di divieto di sosta al leone, Ford del Ford Transit 225 in via Roma 77, Palermo. Auto coinvolta, Volkswagen Golf, targa ZAF 450 FC.
+","Agente Silvia Neri in servizio. Segnalazione di divieto di sosta alle 01:01 del 14/03/2025, in via Roma 77, Palermo. Auto coinvolta: Volkswagen Golf, targa ZA456QP.",15.90702947845805,0.0033414058956916103,0.4,0.1951219512195122,0.5014909160042738,0.7241379310344827,0.7241379310344827,33.0
+gemini-1.5-pro,"Agente Giulia Costa in servizio. Segnalazione di divieto di sosta a Leone, Fiffione del Tirtitere tenti tenti fiue, in via Garibaldi,  Firenze. Auto coinvolta, Fiat Panda, targa BO130 tenti trenta e sei.
+","Agente Giulia Costa in servizio. Segnalazione di divieto di sosta alle 01:51 del 30/03/2025, in via Garibaldi 11, Firenze. Auto coinvolta: Fiat Panda, targa AB123CD.",15.71501133786848,0.0033130022675736965,0.6,0.4121212121212121,0.36151920269854193,0.6666666666666666,0.6666666666666666,69.0
+gemini-1.5-pro,"Sono la gente Anna Bianchi. Alle ore file, le vende il tir trentatré tenti tenti file. Ho rilevato un'infrazione per parcheggio su strisce pedonali in via Milano tenti foro, Torino. Veicolo, Polo Volkswagen, targa DO N G R E tir ti forma.
+","Sono l'agente Anna Bianchi. Alle ore 05:11 del 13/03/2025, ho rilevato un'infrazione per parcheggio su strisce pedonali in via Milano 24, Torino. Veicolo: Volkswagen Golf, targa FG234LM.",16.54702947845805,0.0035294058956916096,0.9259259259259259,0.4838709677419355,0.279184049456884,0.5599999999999999,0.5599999999999999,91.0
+gemini-1.5-pro,"Infrazione riscontrata: doppia fila.
+
+Posizione: Corso Buenos Aires, n. 18, Milano.
+
+Ora: 4:47. Data: 16/03/2025.
+
+Auto: Renault Clio, targa AV1130RE.
+
+Agente: Mario Rossi.
+","Infrazione riscontrata: doppia fila. Posizione: corso Buenos Aires 98, Milano. Ora: 04:47, Data: 16/03/2025. Auto: Renault Clio, targa AB123CD. Agente: Mario Rossi.",19.20503401360544,0.003966006802721089,0.2727272727272727,0.12804878048780488,0.4426623526629488,0.8627450980392156,0.8627450980392156,22.0
+gemini-1.5-pro,"Tentativo di rapina tentata tentativi di furto, vorrei specificare veicolo Bel Corsa targato BO numero di targa tentata rapina, incidente di sosta presso Piazza Venezia, Roma, rilevato da gente annaffiata.
+","21/03/2025, ore 08:57: veicolo Opel Corsa, targa AB123CD, in divieto di sosta presso piazza Venezia, Roma. Rilevato da agente Anna Bianchi.",13.218004535147392,0.0028036009070294783,1.1428571428571428,0.8057553956834532,0.03819633968206938,0.4074074074074074,0.4074074074074074,113.0
+gemini-1.5-pro,"In base all'articolo 186 comma 2, l'agente Marco Gentili ha riscontrato un'infrazione in via Garibaldi 8, Firenze alle ore 2:51 del 13/03/2023. Veicolo coinvolto: Fiat Panda, targa LN123SV.
+","In base al articolo 158, comma 2, l'agente Marco Gentili ha riscontrato un'infrazione in via Garibaldi 11, Firenze alle ore 02:51 del 29/03/2025. Veicolo coinvolto: Fiat Panda, targa XY987ZT.",18.370022675736962,0.0038240045351473923,0.2413793103448276,0.08900523560209424,0.5411708973041027,0.7941176470588235,0.7941176470588235,18.0
+gemini-1.5-pro,"Durante il pattugliamento in zona Piazza Venezia, Roma, l'agente Anna Bianchi ha rilevato una violazione dell'articolo 177 comma 5. L'auto coinvolta è una Volkswagen Golf targata [omissis] alle ore 10:37 del 17/10/2023.
+","Durante il pattugliamento in zona piazza Venezia, Roma, l'agente Anna Bianchi ha rilevato una violazione del articolo 157, comma 5. L'auto coinvolta è una Volkswagen Golf targata FG234LM, alle ore 23:57 del 16/03/2025.",19.36204081632653,0.004042408163265307,0.21212121212121213,0.0963302752293578,0.6037580943107883,0.7837837837837838,0.7837837837837838,22.0
+gemini-1.5-pro,"One Ford Transit, Tentifue, Orei, Kirtito, veicolo Fiat Panda, targato RL, numero Tenti One M, in doppia fila presso via Milano, Tentiforo, Torino. Rilevato da gente arrabbiata.
+","01/04/2025, ore 08:32: veicolo Fiat Panda, targa KL321MN, in doppia fila presso via Milano 24, Torino. Rilevato da agente Anna Bianchi.",12.706031746031746,0.002686206349206349,0.8095238095238095,0.5925925925925926,0.21379550863272262,0.47058823529411764,0.47058823529411764,81.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Luca Verdi.
+Data 13/10/2023, ora 10:26.
+Infrazione: parcheggio su strisce pedonali.
+Luogo: Corso Buenos Aires, n. 18.
+Veicolo: Fiat Panda, targa AS123DE.
+","Verbale di infrazione redatto dall'agente Luca Verdi. Data: 08/03/2025, ora: 22:16. Infrazione: parcheggio su strisce pedonali. Luogo: corso Buenos Aires 98, Milano. Veicolo: Fiat Panda, targa GH789IJ.",20.29301587301587,0.004203603174603174,0.5185185185185185,0.15422885572139303,0.47901455811287486,0.7419354838709677,0.7419354838709677,32.0
+gemini-1.5-pro,"Il giorno 26/05/2025 alle ore 04:40 è stata segnalata un'infrazione per divieto di sosta in via Roma 77, Palermo. Veicolo coinvolto: Peugeot targa F0344. Agente: Silvia Neri.
+","Il giorno 26/03/2025, alle ore 04:40, è stata segnalata un’infrazione per divieto di sosta in via Roma 77, Palermo. Veicolo coinvolto: Opel Corsa, targa FG234LM. Agente: Silvia Neri.",17.63501133786848,0.0036720022675736956,0.21428571428571427,0.09340659340659341,0.501821497934471,0.8852459016393444,0.8852459016393444,18.0
+gemini-1.5-pro,"Il giorno 23/03/2025 alle ore 03:25 è stata segnalata un'infrazione per zona rimozione in via Roma 77, Palermo. Veicolo coinvolto, Opel Corsa, targa CF156F. Agente Giulia Costa.
+","Il giorno 23/03/2025, alle ore 03:25, è stata segnalata un’infrazione per zona rimozione in via Roma 77, Palermo. Veicolo coinvolto: Opel Corsa, targa CD456EF. Agente: Giulia Costa.",18.083038548752835,0.0037616077097505675,0.2222222222222222,0.04419889502762431,0.44828477346116175,0.9666666666666667,0.9666666666666667,9.0
+gemini-1.5-pro,"Durante il pattugliamento in zona via N. Fortifioire, Catania, l'agente Sara Bellini ha rilevato una violazione dell'articolo 7, comma 51. L'auto coinvolta è una Volkswagen Golf targata TF 4156 alle ore 4:52:33.
+","Durante il pattugliamento in zona via Etnea 45, Catania, l'agente Sara Bellini ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Volkswagen Golf targata ZA456QP, alle ore 04:52 del 16/03/2025.",18.88204081632653,0.003946408163265306,0.29411764705882354,0.17889908256880735,0.5338380077029675,0.7567567567567567,0.7567567567567567,40.0
+gemini-1.5-pro,"Il giorno 13/02/2025 alle ore 20:18 è stata segnalata un'infrazione per parcheggio su strisce pedonali in Corso Buenos Aires, n. 88, Milano. Veicolo coinvolto [OMISSIS] targa [OMISSIS] Agente: Sara Bellini.
+","Il giorno 30/03/2025, alle ore 23:08, è stata segnalata un’infrazione per parcheggio su strisce pedonali in corso Buenos Aires 98, Milano. Veicolo coinvolto: BMW Serie 1, targa CD456EF. Agente: Sara Bellini.",20.099002267573695,0.004179800453514739,0.3870967741935484,0.16908212560386474,0.27534943643975235,0.746268656716418,0.746268656716418,36.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Marco Gentili.
+
+Data: 31/03/2025, ora 2:19.
+
+Infrazione: sosta davanti a passo carrabile.
+
+Luogo: Via Roma 77, Palermo.
+
+Veicolo: Renault Clio targata ZA413FX.
+","Verbale di infrazione redatto dall'agente Marco Gentili. Data: 31/03/2025, ora: 02:09. Infrazione: sosta davanti a passo carrabile. Luogo: via Roma 77, Palermo. Veicolo: Renault Clio, targa ZA456QP.",19.877006802721088,0.004120401360544218,0.2222222222222222,0.09595959595959595,0.6339704064341254,0.8709677419354839,0.8709677419354839,20.0
+gemini-1.5-pro,"Infrazione riscontrata: sosta rimozione.
+Posizione: Corso Buenos Aires, civico 18.
+Milano.
+Ora: 13:30.
+Data: 13/10/2023.
+Luogo: Volkswagen Targa, un'Audi A3 di 17 anni.
+Agente: Maccorgenti 
+","Infrazione riscontrata: zona rimozione. Posizione: corso Buenos Aires 98, Milano. Ora: 12:00, Data: 10/03/2025. Auto: Volkswagen Golf, targa XY987ZT. Agente: Marco Gentili.",18.11700680272109,0.003758401360544218,0.8636363636363636,0.3488372093023256,0.03152861344254501,0.5185185185185185,0.5185185185185185,60.0
+gemini-1.5-pro,"Durante il pattugliamento in zona via Etna, forte fie, Catania, l'agente Carlo Brunita ha rilevato una violazione dell'articolo sei comma fist... L'auto coinvolta è una Audi A3 targata [omissis] con a bordo tre trentenni, tra essi alle ore tredici e ventisette, quarantasette, trentatré, trentacinque.
+","Durante il pattugliamento in zona via Etnea 45, Catania, l'agente Carlo Bruni ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Audi A3 targata AB123CD, alle ore 12:46 del 11/03/2025.",18.914013605442175,0.004012802721088436,0.6470588235294118,0.5980861244019139,0.32762227959414086,0.5952380952380952,0.5952380952380952,126.0
+gemini-1.5-pro,"In base all'articolo 157 comma F, l'agente Sara Bellini ha riscontrato un'infrazione in Piazza Venezia,  alle ore 6:14 del 30/03/2023. Veicolo coinvolto: Fiat Panda, targa MI...","In base al articolo 157, comma 5, l'agente Sara Bellini ha riscontrato un'infrazione in piazza Venezia, Roma alle ore 16:49 del 21/03/2025. Veicolo coinvolto: Fiat Panda, targa TR098YU.",16.898004535147393,0.0035196009070294788,0.32142857142857145,0.11891891891891893,0.38696674524299146,0.7692307692307692,0.7692307692307692,22.0
+gemini-1.5-pro,"Sono l'agente Marco Gentili. Alle ore 09:13 del 30/12/2025 ho rilevato un'infrazione per parcheggio su strisce pedonali in via Napoli 5, Napoli. Veicolo Mercedes Classe A, targa AV1138 RP.
+","Sono l'agente Marco Gentili. Alle ore 09:16 del 03/03/2025, ho rilevato un'infrazione per parcheggio su strisce pedonali in via Napoli 5, Napoli. Veicolo: Mercedes Classe A, targa AB123CD.",17.091020408163267,0.003573204081632653,0.17857142857142858,0.06914893617021277,0.6690849531405022,0.8656716417910447,0.8656716417910447,14.0
+gemini-1.5-pro,"Data e trentadue venti venti cinque ore diciassette e quindici, veicolo Mercedes classe targato CF quattro uno tre, FF, in doppia fila presso Corso Buenos Aires novanta e ottanta, Milano. Rilevato da agente Giulia Costa.
+","13/03/2025, ore 17:19: veicolo Mercedes Classe A, targa CD456EF, in doppia fila presso corso Buenos Aires 98, Milano. Rilevato da agente Giulia Costa.",16.098004535147393,0.0034046009070294787,0.8695652173913043,0.68,0.23135181197435825,0.5573770491803278,0.5573770491803278,103.0
+gemini-1.5-pro,"Agente Sara Bellini in servizio. Segnalazione di doppia fila all'altezza T Hotel,  Twenty Twenty Five in via Napoli Five, Napoli. Auto coinvolta,  Maserati One, targa BO1320RP.
+","Agente Sara Bellini in servizio. Segnalazione di doppia fila alle 08:13 del 12/03/2025, in via Napoli 5, Napoli. Auto coinvolta: BMW Serie 1, targa AB123CD.",15.619002267573697,0.0032638004535147395,0.48,0.33974358974358976,0.38545012141186974,0.6181818181818182,0.6181818181818182,54.0
+gemini-1.5-pro,"Data e trentadue venti venti cinque ore diciassette e quindici, veicolo Mercedes classe targato CF quattro uno tre, FF, in doppia fila presso Corso Buenos Aires novanta e ottanta, Milano. Rilevato da agente Giulia Costa.
+","13/03/2025, ore 17:19: veicolo Mercedes Classe A, targa CD456EF, in doppia fila presso corso Buenos Aires 98, Milano. Rilevato da agente Giulia Costa.",16.098004535147393,0.0034046009070294787,0.8695652173913043,0.68,0.23135181197435825,0.5573770491803278,0.5573770491803278,103.0
+gemini-1.5-pro,"Ventisette ventidue venticinque ore dieci e undici veicolo bom seri one targa F [omissis] in sosta davanti a passo carrabile presso Corso Buenos Aires novantotto A Milano. Rilevato da agente Anna Bianchi.
+","28/03/2025, ore 10:11: veicolo BMW Serie 1, targa FG234LM, in sosta davanti a passo carrabile presso corso Buenos Aires 98, Milano. Rilevato da agente Anna Bianchi.",16.898004535147393,0.0035496009070294793,0.5384615384615384,0.4634146341463415,0.3543568594005623,0.6557377049180328,0.6557377049180328,77.0
+gemini-1.5-pro,"Agente Sara Bellini in servizio. Segnalazione di doppia fila all'altezza T Hotel, Walter 2025 in via Napoli, Five, Napoli. Auto coinvolta, una Maserati, targa BO1320RP.
+","Agente Sara Bellini in servizio. Segnalazione di doppia fila alle 08:13 del 12/03/2025, in via Napoli 5, Napoli. Auto coinvolta: BMW Serie 1, targa AB123CD.",15.619002267573697,0.0032588004535147397,0.48,0.28205128205128205,0.37305158515320674,0.6666666666666666,0.6666666666666666,45.0
+gemini-1.5-pro,"Tirti terè tenti tenti five, corretto tirti sette, veicolo Wudine terè targato F U R M W R F F cinque cinque, in divieto di sosta presso via del Corso TEVE R O A, rilevato da agente Giulia Costa.
+","30/03/2025, ore 02:37: veicolo Audi A3, targa CD456EF, in divieto di sosta presso via del Corso 12, Roma. Rilevato da agente Giulia Costa.",13.154013605442177,0.0028358027210884356,1.1304347826086956,0.6594202898550725,0.2371144604616222,0.4307692307692308,0.4307692307692308,92.0
+gemini-1.5-pro,"Sono l'agente Giulia Costa. Alle ore 4:23 del 5/3/2025 ho rilevato un'infrazione per divieto di sosta in via Napoli 5, Napoli. Veicolo Alfa Tare, targa GSVNDR DGTNNEI.
+","Sono l'agente Giulia Costa. Alle ore 04:23 del 05/03/2025, ho rilevato un'infrazione per divieto di sosta in via Napoli 5, Napoli. Veicolo: Audi A3, targa GH789IJ.",15.843038548752835,0.0033136077097505674,0.2692307692307692,0.15337423312883436,0.597713031281549,0.7936507936507936,0.7936507936507936,26.0
+gemini-1.5-pro,"In base all'articolo 7, comma 15, l'agente Mario Rossi ha riscontrato un'infrazione in Via del Corso 12, Roma alle ore 15:42:22:55. Veicolo coinvolto: Renault Clio, targa KO1356.
+","In base al articolo 7, comma 15, l'agente Mario Rossi ha riscontrato un'infrazione in via del Corso 12, Roma alle ore 15:40 del 22/03/2025. Veicolo coinvolto: Renault Clio, targa CD456EF.",17.986031746031745,0.0037422063492063493,0.23333333333333334,0.11764705882352941,0.5882493452484164,0.8529411764705883,0.8529411764705883,23.0
+gemini-1.5-pro,"In base all'articolo 1137 comma 5, l'agente Sara Bellini ha riscontrato un'infrazione in via Milano 24, Torino alle ore 21:21 del 5/3/2023. Veicolo coinvolto: Fiat Panda, targa 3N8TJGT.
+","In base al articolo 157, comma 5, l'agente Sara Bellini ha riscontrato un'infrazione in via Milano 24, Torino alle ore 21:21 del 05/03/2025. Veicolo coinvolto: Fiat Panda, targa TR098YU.",19.330022675736963,0.004016004535147393,0.1724137931034483,0.08064516129032258,0.7113551021443039,0.8235294117647058,0.8235294117647058,16.0
+gemini-1.5-pro,"Il giorno 13/02/2025 alle ore 15 è stata segnalata un'infrazione per doppia fila in Piazza Venezia, Roma. Veicolo coinvolto: Fiat Panda, targa ZA413FT6. Agente: Sara Bellini.
+","Il giorno 14/03/2025, alle ore 14:05, è stata segnalata un’infrazione per doppia fila in piazza Venezia, Roma. Veicolo coinvolto: Fiat Panda, targa ZA456QP. Agente: Sara Bellini.",16.931020408163267,0.0035262040816326536,0.19230769230769232,0.07865168539325842,0.44582832609020023,0.8421052631578947,0.8421052631578947,15.0
+gemini-1.5-pro,"Agente Giulia Costa in servizio. Segnalazione di doppia fila alle Five,  Martine dal 25/03/2023 Five in via del Corso TOELVE, Roma. Auto coinvolta, Volkswagen Golf, targa TR321NM.
+","Agente Giulia Costa in servizio. Segnalazione di doppia fila alle 05:49 del 25/03/2025, in via del Corso 12, Roma. Auto coinvolta: Volkswagen Golf, targa KL321MN.",16.419002267573696,0.003428800453514739,0.32,0.19753086419753085,0.4939804852466582,0.7719298245614034,0.7719298245614034,33.0
+gemini-1.5-pro,"Agente Anna Bianchi in servizio. Segnalazione di doppia fila letteralmente tendente al ininterrottamente in Piazza Venezia, Roma. Auto coinvolta, Fiat Panda, targa [omissis].
+","Agente Anna Bianchi in servizio. Segnalazione di doppia fila alle 10:19 del 09/03/2025, in piazza Venezia, Roma. Auto coinvolta: Fiat Panda, targa XY987ZT.",14.211020408163265,0.002967204081632653,0.30434782608695654,0.3032258064516129,0.4699739598002697,0.7346938775510203,0.7346938775510203,48.0
+gemini-1.5-pro,"Sono la gente Anna Bianchi. Alle ore 11:55 del 25/10/2015 ho rilevato un'infrazione per parcheggio su strisce pedonali in via Milano 24, Torino. Veicolo Volkswagen Golf, targa TR111TT.
+","Sono l'agente Anna Bianchi. Alle ore 01:19 del 15/03/2025, ho rilevato un'infrazione per parcheggio su strisce pedonali in via Milano 24, Torino. Veicolo: Volkswagen Golf, targa KL321MN.",16.19501133786848,0.003389002267573696,0.2222222222222222,0.0913978494623656,0.5851123875042121,0.75,0.75,18.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Marco Gentili.
+
+Data: 23/05/2025, ora 06:15.
+
+Infrazione di divieto di sosta.
+
+Luogo: Via Milano 24, Torino.
+
+Veicolo: Alfa 147, targa CO 41 DF 76.
+","Verbale di infrazione redatto dall'agente Marco Gentili. Data: 20/03/2025, ora: 00:16. Infrazione: divieto di sosta. Luogo: via Milano 24, Torino. Veicolo: Audi A3, targa CD456EF.",20.101043083900226,0.004175208616780045,0.48,0.17318435754189945,0.40588153399233007,0.7096774193548386,0.7096774193548386,32.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Marco Gentili, data 10/03/2023, ora 10:25. Infrazione: accesso vietato. Luogo: via Napoli civico 7, Napoli. Veicolo: Mercedes Leone, targa DF 155 NP.
+","Verbale di infrazione redatto dall'agente Marco Gentili. Data: 12/03/2025, ora: 22:39. Infrazione: accesso vietato. Luogo: via Napoli 5, Napoli. Veicolo: BMW Serie 1, targa CD456EF.",18.56503401360544,0.0038580068027210886,0.52,0.20994475138121546,0.37030468338190614,0.6666666666666667,0.6666666666666667,39.0
+gemini-1.5-pro,"Agente Luca Verdi in servizio. Segnalazione di parcheggio su strisce pedonali a Leone, Fifty Fifty del Sister Act, venti venti five in via Etnea, quarti five, Catania. Auto coinvolta, Homo Serie One, targa KT tre uno tre venti uno M.
+","Agente Luca Verdi in servizio. Segnalazione di parcheggio su strisce pedonali alle 01:56 del 06/03/2025, in via Etnea 45, Catania. Auto coinvolta: BMW Serie 1, targa KL321MN.",17.219002267573696,0.0036538004535147397,0.8148148148148148,0.5114942528735632,0.2901810729181888,0.5714285714285715,0.5714285714285715,90.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Sara Bellini. Data, trenta trentatré trentacinque trentacinque. Ora, tredici e uno, trenta. Infrazione: sosta davanti a passo carrabile. Luogo: Corso Buenos Aires, civico trentatré. Via. Veicolo: Toyota Yaris, targa SO, quattro, uno, tre, cinque, sette.
+","Verbale di infrazione redatto dall'agente Sara Bellini. Data: 13/03/2025, ora: 21:32. Infrazione: sosta davanti a passo carrabile. Luogo: corso Buenos Aires 98, Milano. Veicolo: Toyota Yaris, targa ZA456QP.",20.13301587301587,0.004236603174603174,0.75,0.6019417475728155,0.34418320479193587,0.6575342465753423,0.6575342465753423,125.0
+gemini-1.5-pro,"Sono l'agente Mario Rossi. Alle ore 17:25 del 5 febbraio 2025 ho rilevato un'infrazione per parcheggio su strisce pedonali in Corso Buenos Aires, n. 88, Milano. Veicolo Toyota Yaris, targa NN 123 GH 77.
+","Sono l'agente Mario Rossi. Alle ore 16:07 del 05/03/2025, ho rilevato un'infrazione per parcheggio su strisce pedonali in corso Buenos Aires 98, Milano. Veicolo: Toyota Yaris, targa XY987ZT.",18.43501133786848,0.0038670022675736963,0.4642857142857143,0.17894736842105263,0.4181262611694383,0.7714285714285715,0.7714285714285715,35.0
+gemini-1.5-pro,"Fortentere venti venti ventifive ore tredici e trenta, ritirierei veicolo Toyota Yaris, targa tre enne, e, i, ge, tu, in divieto di sosta presso via del Corso, Toelve, Roma. Rilevato da agente Marco Gentili.
+","14/03/2025, ore 13:33: veicolo Toyota Yaris, targa TR098YU, in divieto di sosta presso via del Corso 12, Roma. Rilevato da agente Marco Gentili.",14.914013605442177,0.0031628027210884356,0.6956521739130435,0.6180555555555556,0.37570300694867703,0.6333333333333334,0.6333333333333334,90.0
+gemini-1.5-pro,"Sono l'agente Marco Genti. Alle ore 13:49 del 9/10/2023 ho rilevato un'infrazione per doppia fila in Via Garibaldi, 7, Firenze. Veicolo Opel Corsa, targa LN118LZ.
+","Sono l'agente Marco Gentili. Alle ore 08:34 del 19/03/2025, ho rilevato un'infrazione per doppia fila in via Garibaldi 11, Firenze. Veicolo: Opel Corsa, targa XY987ZT.",15.87501133786848,0.003310002267573696,0.32,0.1317365269461078,0.3623885503140912,0.7333333333333333,0.7333333333333333,23.0
+gemini-1.5-pro,"Il giorno 3/10/2023 alle ore 8:52 è stata segnalata un'infrazione per accesso vietato in Via Garibaldi, 7, Firenze. Veicolo coinvolto: Volkswagen Golf, targa TT000RF. Agente: Silvia Neri.
+","Il giorno 06/03/2025, alle ore 02:52, è stata segnalata un’infrazione per accesso vietato in via Garibaldi 11, Firenze. Veicolo coinvolto: Volkswagen Golf, targa FG234LM. Agente: Silvia Neri.",16.803038548752834,0.0035056077097505673,0.25925925925925924,0.1099476439790576,0.3819046196554823,0.8000000000000002,0.8000000000000002,22.0
+gemini-1.5-pro,"Agente va con gente in servizio. Segnalazione di sosta davanti a passo carrabile alle 10:24 del 30/03/2023 in Corso Buenos Aires, civico 8. Via Pluto coinvolta, perché sul passo carrabile. Targa TN NE 18.
+","Agente Marco Gentili in servizio. Segnalazione di sosta davanti a passo carrabile alle 18:24 del 07/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Mercedes Classe A, targa TR098YU.",17.251020408163264,0.0036302040816326526,0.6896551724137931,0.2916666666666667,0.2821717364449649,0.6086956521739131,0.5797101449275363,57.0
+gemini-1.5-pro,"In base all'articolo 11357 comma 5, l'agente Luca Verdi ha riscontrato un'infrazione in Via del Corso 12, Roma, alle ore 12:57 del 27/05/2025. Veicolo coinvolto: Fiat Panda, targa TO13T4F.
+","In base al articolo 157, comma 5, l'agente Luca Verdi ha riscontrato un'infrazione in via del Corso 12, Roma alle ore 12:50 del 07/03/2025. Veicolo coinvolto: Fiat Panda, targa FG234LM.",17.76204081632653,0.0037074081632653064,0.26666666666666666,0.08648648648648649,0.4664524481350497,0.8285714285714286,0.8285714285714286,17.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Silvianelli, data 13/10/2023, ora 15:53. Infrazione: sosta davanti a passo carrabile. Luogo: Via Garibaldi 11, Firenze. Veicolo: Alfa Romeo, targa AB123CD.
+","Verbale di infrazione redatto dall'agente Silvia Neri. Data: 09/03/2025, ora: 10:53. Infrazione: sosta davanti a passo carrabile. Luogo: via Garibaldi 11, Firenze. Veicolo: Audi A3, targa FG234LM.",19.077006802721087,0.003955401360544217,0.37037037037037035,0.14795918367346939,0.4384861051674016,0.7540983606557377,0.7213114754098361,30.0
+gemini-1.5-pro,"Il giorno 12/05/2025 alle ore 22:22 è stata segnalata un'infrazione per zona rimozione in Piazza Venezia, Roma. Veicolo coinvolto: Fiat Panda, targa TO343FU. Agente: Carlo Bruni.
+","Il giorno 12/03/2025, alle ore 20:22, è stata segnalata un’infrazione per zona rimozione in piazza Venezia, Roma. Veicolo coinvolto: Fiat Panda, targa FG234LM. Agente: Carlo Bruni.",16.86702947845805,0.0035134058956916106,0.19230769230769232,0.06666666666666667,0.44582832609020023,0.896551724137931,0.896551724137931,13.0
+gemini-1.5-pro,"In base all'articolo 175 comma 5, l'agente Anna Bianchi ha riscontrato un'infrazione in corso Buenos Aires, n. 88, Milano, alle ore 18:16 del 4/12/2025. Veicolo coinvolto: Altea Tarraco, targa AV132HRC.
+","In base al articolo 157, comma 5, l'agente Anna Bianchi ha riscontrato un'infrazione in corso Buenos Aires 98, Milano alle ore 13:06 del 04/03/2025. Veicolo coinvolto: Audi A3, targa AB123CD.",19.906031746031747,0.004141206349206349,0.4,0.16230366492146597,0.4055058280422296,0.7042253521126761,0.7042253521126761,32.0
+gemini-1.5-pro,"Sono l'agente Marco Genti. Alle ore 10:00 il portone del fioraio è 10:10 fioraio. Ho rilevato un'infrazione per divieto di sosta in Via del Corso 3B, ora veicolo Fiat Panda, targa LN 137 Z.
+","Sono l'agente Marco Gentili. Alle ore 20:41 del 05/03/2025, ho rilevato un'infrazione per divieto di sosta in via del Corso 12, Roma. Veicolo: Fiat Panda, targa XY987ZT.",15.39501133786848,0.0032590022675736963,0.5925925925925926,0.31952662721893493,0.27150436323855665,0.6666666666666667,0.6666666666666667,55.0
+gemini-1.5-pro,"Infrazione riscontrata: sosta rimozione.
+Posizione: Corso Buenos Aires, civico 16.
+Milano.
+Ora: 10:00.
+Data: 14/10/2023.
+Auto: Renault Clio, targa SO4157.
+Agente: Sara Bellini.
+","Infrazione riscontrata: zona rimozione. Posizione: corso Buenos Aires 98, Milano. Ora: 22:00, Data: 24/03/2025. Auto: Renault Clio, targa ZA456QP. Agente: Sara Bellini.",18.341043083900228,0.0037932086167800456,0.6363636363636364,0.19642857142857142,0.20287366424876008,0.7058823529411765,0.7058823529411765,34.0
+gemini-1.5-pro,"Agente Carlo Bruni in servizio. Segnalazione di sosta davanti a passo carrabile alle 10:55 del 21/11/2022 in via del Corso 12, Roma. Auto coinvolta, Peugeot corsa, targa KT321NM.
+","Agente Carlo Bruni in servizio. Segnalazione di sosta davanti a passo carrabile alle 10:55 del 21/03/2025, in via del Corso 12, Roma. Auto coinvolta: Opel Corsa, targa KL321MN.",16.51501133786848,0.003453002267573696,0.17857142857142858,0.08522727272727272,0.7205743386699484,0.8709677419354839,0.8709677419354839,16.0
+gemini-1.5-pro,"Niente anteriore, denti, denti, file. Portiere, portiere, file. Veicolo Mercedes Classe A, targa [omissis] undici diciannove settanta. In doppia fila presso via del Corso, Tele Roma, rilevato da agente Silvia Neri.
+","19/03/2025, ore 03:45: veicolo Mercedes Classe A, targa XY987ZT, in doppia fila presso via del Corso 12, Roma. Rilevato da agente Silvia Neri.",13.92204081632653,0.0029494081632653064,0.782608695652174,0.7183098591549296,0.26349088821718425,0.631578947368421,0.631578947368421,103.0
+gemini-1.5-pro,"Agente Luca Verdi in servizio. Segnalazione di divieto di sosta alle 07:10 del 4/03/2023 in Piazza Venezia, Roma. Auto coinvolta: Renault Clio, targa [omissis].
+","Agente Luca Verdi in servizio. Segnalazione di divieto di sosta alle 17:19 del 04/03/2025, in piazza Venezia, Roma. Auto coinvolta: Renault Clio, targa ZA456QP.",14.371020408163265,0.003004204081632653,0.16666666666666666,0.09375,0.6775939999489281,0.8148148148148148,0.8148148148148148,16.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Marco Gentili. Data 15/03/2025, ora 09:19. Infrazione: doppia fila. Luogo: Piazza Venezia, Roma. Veicolo: Volkswagen Golf, targa AO 134 FN.
+","Verbale di infrazione redatto dall'agente Marco Gentili. Data: 15/03/2025, ora: 19:01. Infrazione: doppia fila. Luogo: piazza Venezia, Roma. Veicolo: Volkswagen Golf, targa FG234LM.",18.40503401360544,0.003816006802721088,0.30434782608695654,0.0718232044198895,0.5198707241967666,0.8928571428571429,0.8928571428571429,14.0
+gemini-1.5-pro,"In base all'articolo sette comma quindici, l'agente Civia Neri ha riscontrato un'infrazione in via Milano centoquattro, Torino alle ore nove e diciannove e venti del ventitré trentatré trentacinque. Veicolo coinvolto Fiat Panda, targa LN undici leggi diciasette.
+","In base al articolo 7, comma 15, l'agente Silvia Neri ha riscontrato un'infrazione in via Milano 24, Torino alle ore 19:12 del 29/03/2025. Veicolo coinvolto: Fiat Panda, targa XY987ZT.",16.80204081632653,0.003555408163265306,0.6551724137931034,0.6086956521739131,0.2464979335333263,0.6216216216216216,0.6216216216216216,113.0
+gemini-1.5-pro,"Infrazione riscontrata: divieto di sosta.
+Posizione: Via del Corso Tel vero.
+Ora: 10:10/14. Data: 07/10/2023.
+Auto: Renault Clio, targa [omissis].
+Agente: Sara Bellini.
+","Infrazione riscontrata: divieto di sosta. Posizione: via del Corso 12, Roma. Ora: 22:14, Data: 05/03/2025. Auto: Renault Clio, targa TR098YU. Agente: Sara Bellini.",16.421043083900226,0.003409208616780045,0.4782608695652174,0.1901840490797546,0.39618675974573386,0.7169811320754716,0.7169811320754716,32.0
+gemini-1.5-pro,"Il giorno 20/03/2020 alle ore 11:30 è stata segnalata un'infrazione per parcheggio su strisce pedonali in via Etnea 45, Catania. Veicolo coinvolto: Fiat Panda targa ZA413FT. Agente: Mario Rossi.
+","Il giorno 23/03/2025, alle ore 18:31, è stata segnalata un’infrazione per parcheggio su strisce pedonali in via Etnea 45, Catania. Veicolo coinvolto: Fiat Panda, targa ZA456QP. Agente: Mario Rossi.",20.06702947845805,0.00416840589569161,0.1724137931034483,0.06091370558375635,0.5602520952992253,0.84375,0.84375,13.0
+gemini-1.5-pro,"Agente Luca Verdi in servizio. Segnalazione di divieto di sosta alle 17:25 in via Roma 77, Palermo. Auto coinvolta, Alfa 147, targa AB 130 RK.
+","Agente Luca Verdi in servizio. Segnalazione di divieto di sosta alle 10:17 del 05/03/2025, in via Roma 77, Palermo. Auto coinvolta: Audi A3, targa AB123CD.",16.35501133786848,0.003406002267573696,0.36,0.1935483870967742,0.5971720991726207,0.7407407407407408,0.7407407407407408,31.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Anna Bianchi.
+Data 25/03/2025 ore 10:25.
+Infrazione: sosta rimozione.
+Luogo: Corso Buenos Aires, n. 19, Milano.
+Veicolo: Mercedes Classe, targa CO 413 FZSF.
+","Verbale di infrazione redatto dall'agente Anna Bianchi. Data: 25/03/2025, ora: 22:25. Infrazione: zona rimozione. Luogo: corso Buenos Aires 98, Milano. Veicolo: Mercedes Classe A, targa CD456EF.",20.99700680272109,0.004349401360544218,0.7307692307692307,0.15463917525773196,0.28495577603220296,0.7741935483870969,0.7741935483870969,31.0
+gemini-1.5-pro,"Durante il pattugliamento in zona via Garibaldi, Firenze, l'agente Anna Bianchi ha rilevato una violazione dell'articolo 7 comma 15. L'auto coinvolta è una Fiat Panda targata [omissis] di forma. Alle ore 13:10 del 23/10/2015.
+","Durante il pattugliamento in zona via Garibaldi 11, Firenze, l'agente Anna Bianchi ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Fiat Panda targata FG234LM, alle ore 13:18 del 11/03/2025.",18.01800453514739,0.0037836009070294782,0.3235294117647059,0.14285714285714285,0.57182166807135,0.8051948051948051,0.8051948051948051,32.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Mario Rossi.
+Data 30/03/2023 ora 16:16.
+Infrazione: doppia fila.
+Luogo: via Napoli civico 7, Napoli.
+Veicolo: Opel Corsa, targa KZ 123 INI.
+","Verbale di infrazione redatto dall'agente Mario Rossi. Data: 26/03/2025, ora: 05:57. Infrazione: doppia fila. Luogo: via Napoli 5, Napoli. Veicolo: Opel Corsa, targa GH789IJ.",18.309024943310657,0.0038068049886621318,0.5833333333333334,0.1781609195402299,0.5129497107827519,0.7457627118644068,0.7457627118644068,32.0
+gemini-1.5-pro,"Agente Luca Verdi in servizio. Segnalazione di zona rimozione alieni nei dintorni del 53,33 Via Milano 34, Torino. Auto coinvolta, Alfa 147, targa FOM 856.
+","Agente Luca Verdi in servizio. Segnalazione di zona rimozione alle 19:31 del 15/03/2025, in via Milano 24, Torino. Auto coinvolta: Audi A3, targa CD456EF.",14.819002267573696,0.0030988004535147393,0.5,0.2532467532467532,0.363353641549119,0.6037735849056604,0.6037735849056604,40.0
+gemini-1.5-pro,"Agente Sara Bellini in servizio. Segnalazione di divieto di sosta dalle 7:50 del 25/03/2023 in Corso Buenos Aires civico 88, altezza via Thaon de Revel. Auto coinvolta: Volkswagen Golf targata HN 111 DS 7.
+","Agente Sara Bellini in servizio. Segnalazione di divieto di sosta alle 07:52 del 25/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Volkswagen Golf, targa XY987ZT.",16.931020408163267,0.0035662040816326532,0.6538461538461539,0.29310344827586204,0.3278057347110296,0.6363636363636365,0.6363636363636365,52.0
+gemini-1.5-pro,"Agente Sara Bellini in servizio. Segnalazione di divieto di sosta viale Saint-Quentin del Quentin-Feuillet Quentin-Feuillet. In corso Buenos Aires, incrocio via. Mia auto coinvolta. Toyota Yaris, targa SO455LF.
+","Agente Sara Bellini in servizio. Segnalazione di divieto di sosta alle 07:13 del 25/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Toyota Yaris, targa ZA456QP.",16.579002267573696,0.0034658004535147386,0.46153846153846156,0.4269005847953216,0.39609709429702616,0.6666666666666667,0.6666666666666667,74.0
+gemini-1.5-pro,"In base all'articolo 186 del codice della strada, comma 2, l'agente Anna Bianchi ha riscontrato un'infrazione in via Roma 77, Palermo, alle ore 3:17,33. Veicolo coinvolto: Ford Corsa, targa AA619ZT.
+","In base al articolo 158, comma 2, l'agente Anna Bianchi ha riscontrato un'infrazione in via Roma 77, Palermo alle ore 03:47 del 26/03/2025. Veicolo coinvolto: Opel Corsa, targa GH789IJ.",17.89002267573696,0.003738004535147392,0.41379310344827586,0.2972972972972973,0.45564646342789705,0.7246376811594202,0.6956521739130436,56.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Carlo Bruni.
+Data 21/03/2025, ora 8:10.
+Infrazione di divieto di sosta.
+Luogo: Via Milano 24, Torino.
+Veicolo: Volkswagen Golf, targa TR NN ETTR.
+","Verbale di infrazione redatto dall'agente Carlo Bruni. Data: 21/03/2025, ora: 02:10. Infrazione: divieto di sosta. Luogo: via Milano 24, Torino. Veicolo: Volkswagen Golf, targa TR098YU.",18.66104308390023,0.0038822086167800457,0.52,0.10810810810810811,0.5002744991426422,0.8852459016393444,0.8852459016393444,21.0
+gemini-1.5-pro,"Agente Giulia Costa in servizio. Segnalazione di divieto di sosta alle 30, pone 28/10/2025 in via Garibaldi 11, Firenze. Auto coinvolta Fiat Panda targa TR1321M.
+","Agente Giulia Costa in servizio. Segnalazione di divieto di sosta alle 21:28 del 10/03/2025, in via Garibaldi 11, Firenze. Auto coinvolta: Fiat Panda, targa KL321MN.",16.86702947845805,0.0035084058956916103,0.24,0.11515151515151516,0.6052987576779449,0.8727272727272727,0.8727272727272727,20.0
+gemini-1.5-pro,"Infrazione riscontrata: doppia fila.
+
+Posizione: Via Etnea, Forti Five, Catania.
+
+Ora: 8:15.
+
+Data: 29/03/2025.
+
+Auto: Volkswagen Golf, targa GSVNDRGTI9E.
+
+Agente: Luca Verdi.
+","Infrazione riscontrata: doppia fila. Posizione: via Etnea 45, Catania. Ora: 13:46, Data: 29/03/2025. Auto: Volkswagen Golf, targa GH789IJ. Agente: Luca Verdi.",19.90902494331066,0.004101804988662132,0.2857142857142857,0.22784810126582278,0.45733444463149814,0.816326530612245,0.816326530612245,37.0
+gemini-1.5-pro,"Sono l'agente Carlo Bruni. Alle ore quattordici e trenta del quattordici/trenta/ventitré ho rilevato un'infrazione per divieto di sosta in via Milano, trenta/quattro, Torino. Veicolo Fiat Panda, targa [omissis].
+","Sono l'agente Carlo Bruni. Alle ore 14:10 del 05/03/2025, ho rilevato un'infrazione per divieto di sosta in via Milano 24, Torino. Veicolo: Fiat Panda, targa XY987ZT.",14.915011337868481,0.0031330022675736965,0.3076923076923077,0.42168674698795183,0.5067309892897294,0.7500000000000001,0.7500000000000001,71.0
+gemini-1.5-pro,"Sono l'agente Mario Rossi. Alle ore 21:19 del 5/3/2025 ho rilevato un'infrazione per accesso vietato in via Nea Forti Five, Catania. Veicolo Ford Corsa targa PO41RF57.
+","Sono l'agente Mario Rossi. Alle ore 21:29 del 05/03/2025, ho rilevato un'infrazione per accesso vietato in via Etnea 45, Catania. Veicolo: Opel Corsa, targa CD456EF.",16.771020408163267,0.003494204081632653,0.36,0.18181818181818182,0.4618138250671612,0.7540983606557377,0.7540983606557377,31.0
+gemini-1.5-pro,"Il giorno 20/11/2022 alle ore 19:47 è stata segnalata un'infrazione per accesso vietato in via Napoli 5, Napoli. Veicolo coinvolto: Renault Clio, targa KT312NM. Agente: Sara Bellini.
+","Il giorno 28/03/2025, alle ore 18:47, è stata segnalata un’infrazione per accesso vietato in via Napoli 5, Napoli. Veicolo coinvolto: Renault Clio, targa KL321MN. Agente: Sara Bellini.",18.499002267573697,0.003844800453514739,0.14814814814814814,0.06521739130434782,0.5978797341373265,0.8333333333333334,0.8333333333333334,13.0
+gemini-1.5-pro,"Durante il pattugliamento in zona Via Milano 25, Torino, l'agente Silvia Neri ha rilevato una violazione dell'articolo 7, comma 15. L'auto coinvolta, una Mercedes Classe A targata FONDRE345, alle ore 20:15 del 30/03/2025.
+","Durante il pattugliamento in zona via Milano 24, Torino, l'agente Silvia Neri ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Mercedes Classe A targata FG234LM, alle ore 23:15 del 13/03/2025.",20.578004535147393,0.004290600907029479,0.2571428571428571,0.0730593607305936,0.4848486065292604,0.8717948717948718,0.8717948717948718,17.0
+gemini-1.5-pro,"In base all'articolo 7 comma 5 lettera A, l'agente Silvia Neri ha riscontrato un'infrazione in corso Buenos Aires incrocio via Tarchetti città Milano alle ore 3:11 del 30/10/2023. Veicolo coinvolto: Renault Clio, targa FR 156 PP.
+","In base al articolo 7, comma 15, l'agente Silvia Neri ha riscontrato un'infrazione in corso Buenos Aires 98, Milano alle ore 03:31 del 31/03/2025. Veicolo coinvolto: Renault Clio, targa CD456EF.",17.506031746031745,0.003691206349206349,0.5,0.28350515463917525,0.404949394786753,0.6753246753246753,0.6753246753246753,56.0
+gemini-1.5-pro,"In base all'articolo 157 comma F, l'agente Carlo Brunitta ha riscontrato un'infrazione in via Enea Fortifive, Catania, alle ore 07:15 del 13/10/2023. Veicolo coinvolto:  Ambra Terrega 234.","In base al articolo 157, comma 5, l'agente Carlo Bruni ha riscontrato un'infrazione in via Etnea 45, Catania alle ore 11:39 del 06/03/2025. Veicolo coinvolto: Audi A3, targa FG234LM.",17.73002267573696,0.003691004535147392,0.4827586206896552,0.23626373626373626,0.18881699076106886,0.5970149253731343,0.5970149253731343,43.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Sara Bellini.
+Data diciotto trentatré trentacinque ora due trentatré.
+Infrazione: doppia fila.
+Luogo: Via Milano trentaquattro, Torino.
+Veicolo: Fiat Panda, targa NR 456.
+","Verbale di infrazione redatto dall'agente Sara Bellini. Data: 19/03/2025, ora: 05:23. Infrazione: doppia fila. Luogo: via Milano 24, Torino. Veicolo: Fiat Panda, targa CD456EF.",18.149024943310657,0.0037798049886621312,0.625,0.3806818181818182,0.4212246619174369,0.736842105263158,0.736842105263158,68.0
+gemini-1.5-pro,"Infrazione riscontrata: divieto di sosta.
+
+Posizione: Via Milano, Toenti, Fuori, Torino.
+
+Ora: Toenti e erre, toenti e ei, a. Data: tei, rti, o, ne, te, rei, toenti, toenti, fi, ve.
+
+Auto: Mercedes Classe A, targa: te, rei, u, nd, re, toenti, o, ne, m.
+
+Agente: Anna Bianchi.
+","Infrazione riscontrata: divieto di sosta. Posizione: via Milano 24, Torino. Ora: 23:28, Data: 31/03/2025. Auto: Mercedes Classe A, targa KL321MN. Agente: Anna Bianchi.",19.557006802721087,0.004156401360544217,1.3478260869565217,0.8203592814371258,0.18419907918508985,0.5205479452054794,0.5205479452054794,138.0
+gemini-1.5-pro,"Durante il pattugliamento in zona via Garibaldi, 7, Firenze, l'agente Giulia Costa ha rilevato una violazione dell'articolo 7 comma 15. L'auto coinvolta è una Fiat Panda targata LO343TF, alle ore 10:45 del 13/10/2023.
+","Durante il pattugliamento in zona via Garibaldi 11, Firenze, l'agente Giulia Costa ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Fiat Panda targata FG234LM, alle ore 20:45 del 18/03/2025.",18.56204081632653,0.003887408163265306,0.23529411764705882,0.07834101382488479,0.5906671911367376,0.8157894736842104,0.8157894736842104,18.0
+gemini-1.5-pro,"Durante il pattugliamento in zona Piazza Venezia, Roma, l'agente Luca Verdi ha rilevato una violazione dell'articolo 1117 bis comma 2. L'auto coinvolta, una Audi TT targata CF117FF alle ore 3:54 del 14/12/2025.
+","Durante il pattugliamento in zona piazza Venezia, Roma, l'agente Luca Verdi ha rilevato una violazione del articolo 158, comma 2. L'auto coinvolta è una Audi A3 targata CD456EF, alle ore 03:54 del 14/03/2025.",19.36204081632653,0.004042408163265307,0.30303030303030304,0.11057692307692307,0.426582651116628,0.8266666666666665,0.8266666666666665,24.0
+gemini-1.5-pro,"Durante il pattugliamento in zona via Garibaldi, ehm, Firenze, l'agente Luca Verdi ha rilevato una violazione dell'articolo 158 comma 2. L'auto coinvolta è una Mercedes targata TF455C alle ore 09:30 e 10:30 del 19/10/2023.
+","Durante il pattugliamento in zona via Garibaldi 11, Firenze, l'agente Luca Verdi ha rilevato una violazione del articolo 158, comma 2. L'auto coinvolta è una BMW Serie 1 targata ZA456QP, alle ore 19:38 del 29/03/2025.",20.77002267573696,0.004334004535147392,0.37142857142857144,0.16129032258064516,0.48012201215912964,0.7341772151898733,0.708860759493671,36.0
+gemini-1.5-pro,"Durante il pattugliamento in zona via Roma 77, Palermo, l'agente Luca Verdi ha rilevato una violazione dell'articolo 1177 comma 5. L'auto coinvolta, una Renault Clio targata ZA 117 SI, alle ore 20:55 del 6/12/2025.
+","Durante il pattugliamento in zona via Roma 77, Palermo, l'agente Luca Verdi ha rilevato una violazione del articolo 157, comma 5. L'auto coinvolta è una Renault Clio targata ZA456QP, alle ore 20:53 del 06/03/2025.",20.16204081632653,0.004212408163265307,0.29411764705882354,0.07981220657276995,0.5845427355742879,0.8205128205128205,0.8205128205128205,18.0
+gemini-1.5-pro,"Agente Luca Verdi in servizio. Segnalazione di parcheggio su strisce pedonali alle 07:45 in Forte Cittadella,  Ventimiglia, in via Milano 24, Torino. Auto coinvolta Opel Corsa, targa 3N...","Agente Luca Verdi in servizio. Segnalazione di parcheggio su strisce pedonali alle 17:46 del 01/03/2025, in via Milano 24, Torino. Auto coinvolta: Opel Corsa, targa TR098YU.",16.51501133786848,0.003453002267573696,0.2692307692307692,0.2254335260115607,0.6100034457014365,0.7586206896551724,0.7586206896551724,39.0
+gemini-1.5-pro,"Sono l'agente Giulia Costa. Alle ore 15:15, Pordenone 33335, ho rilevato un'infrazione per doppia fila in via Milano 34, Torino. Veicolo Alfa 147, targa LN 117S.
+","Sono l'agente Giulia Costa. Alle ore 15:04 del 01/03/2025, ho rilevato un'infrazione per doppia fila in via Milano 24, Torino. Veicolo: Audi A3, targa XY987ZT.",14.755011337868481,0.0030910022675736965,0.36,0.1949685534591195,0.49692833205572384,0.711864406779661,0.711864406779661,32.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Silvianelli.
+Data 13/10/2023, ora 16:10.
+Infrazione: parcheggio su strisce pedonali.
+Luogo: Via Roma 77, Paderno.
+Veicolo: Opel Corsa, targa ZMN PYR.
+","Verbale di infrazione redatto dall'agente Silvia Neri. Data: 13/03/2025, ora: 06:17. Infrazione: parcheggio su strisce pedonali. Luogo: via Roma 77, Palermo. Veicolo: Opel Corsa, targa TR098YU.",18.373015873015873,0.0038146031746031745,0.5384615384615384,0.12435233160621761,0.4270545956459182,0.7333333333333333,0.7333333333333333,25.0
+gemini-1.5-pro,"In base all'articolo sette comma cinquantasette, l'agente Giulia Costa ha riscontrato un'infrazione in via Milano trentaquattro, Torino alle ore tredici, quarantanove del quattordici trentatré cinquantacinque. Veicolo coinvolto, un Mercedes Leone, targa TO undici trenta quattro.
+","In base al articolo 7, comma 15, l'agente Giulia Costa ha riscontrato un'infrazione in via Milano 24, Torino alle ore 12:49 del 04/03/2025. Veicolo coinvolto: BMW Serie 1, targa FG234LM.",16.354013605442177,0.0034558027210884355,0.6,0.6989247311827957,0.2948993986902436,0.6027397260273972,0.6027397260273972,131.0
+gemini-1.5-pro,"Incidente ma con gente in servizio. Segnalazione di doppia fila alle ore ventitré e quaranta del trentaquattro/trentatré trentatré trentatré in via Roma settantasette, Palermo. Auto coinvolta, Alfa 147, targa [censura nome degli utenti]","Agente Marco Gentili in servizio. Segnalazione di doppia fila alle 11:34 del 24/03/2025, in via Roma 77, Palermo. Auto coinvolta: Audi A3, targa GH789IJ.",15.459002267573696,0.003266800453514739,0.7916666666666666,0.8104575163398693,0.2355638968135057,0.49180327868852464,0.49180327868852464,124.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Mario Rossi.
+Data 11/03/2025 ore 13:16.
+Infrazione: sosta rimozione.
+Luogo: Via Garibaldi 11, Firenze.
+Veicolo per corsa, targa KT131N.
+","Verbale di infrazione redatto dall'agente Mario Rossi. Data: 11/03/2025, ora: 13:06. Infrazione: zona rimozione. Luogo: via Garibaldi 11, Firenze. Veicolo: Opel Corsa, targa KL321MN.",18.213015873015873,0.003772603174603175,0.625,0.11538461538461539,0.3299895472527792,0.8214285714285714,0.8214285714285714,22.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Carlo Bruni. Data 4/03/2025 ora 11:01. Infrazione: sosta davanti a passo carrabile. Luogo: Via Roma 77, Palermo. Veicolo Fiat Panda targa FT 134 FN.
+","Verbale di infrazione redatto dall'agente Carlo Bruni. Data: 04/03/2025, ora: 09:01. Infrazione: sosta davanti a passo carrabile. Luogo: via Roma 77, Palermo. Veicolo: Fiat Panda, targa FG234LM.",18.789024943310658,0.003912804988662132,0.37037037037037035,0.07731958762886598,0.4501609222100726,0.875,0.875,16.0
+gemini-1.5-pro,"Tinti tere tinti tinti fiule, ore tinti one, fiffi nine, veicolo Mercedes Classe A, targa [omissis] tirti forum, in parcheggio su strisce pedonali presso via Napoli fiule, Napoli, rilevato da gente Annabbiato.
+","20/03/2025, ore 21:59: veicolo Mercedes Classe A, targa FG234LM, in parcheggio su strisce pedonali presso via Napoli 5, Napoli. Rilevato da agente Anna Bianchi.",15.36204081632653,0.003242408163265306,0.75,0.53125,0.33128242169363725,0.5762711864406779,0.5762711864406779,86.0
+gemini-1.5-pro,"Ninì, 3 tende, 3 tende e 3 figli, 4 e 3, 4 e 3, veicolo Toyota Yaris, targa, boh, non me la ricordo, 3 tende e 3 ragazzi. In parcheggio su strisce pedonali presso via del Corso Hotel Aurora, rilevato da agente Marco Gentili.
+","09/03/2025, ore 05:43: veicolo Toyota Yaris, targa AB123CD, in parcheggio su strisce pedonali presso via del Corso 12, Roma. Rilevato da agente Marco Gentili.",14.786031746031746,0.0031872063492063493,1.2083333333333333,0.6012658227848101,0.2337103772467948,0.5070422535211268,0.5070422535211268,96.0
+gemini-1.5-pro,"Agente Sara Bellini in servizio. Segnalazione di doppia fila alle ore 13:32:25 in Corso Buenos Aires, 98, Milano. Auto coinvolta: Alfa Romeo Targa, 134.
+","Agente Sara Bellini in servizio. Segnalazione di doppia fila alle 04:33 del 30/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Audi A3, targa FG234LM.",17.283038548752835,0.003586607709750567,0.36,0.19875776397515527,0.4751786695123724,0.7037037037037038,0.7037037037037038,33.0
+gemini-1.5-pro,"Il giorno 13/02/2023 alle ore 22:28:13 è stata segnalata un'infrazione per parcheggio su strisce pedonali in via Napoli, 5, Napoli. Veicolo coinvolto: Volkswagen Targa TRN NTT. Agente: Silvia Neri.
+","Il giorno 16/03/2025, alle ore 22:31, è stata segnalata un’infrazione per parcheggio su strisce pedonali in via Napoli 5, Napoli. Veicolo coinvolto: Volkswagen Golf, targa TR098YU. Agente: Silvia Neri.",18.723038548752836,0.0038996077097505667,0.2413793103448276,0.10945273631840796,0.4387328902288626,0.8,0.8,23.0
+gemini-1.5-pro,"Durante il pattugliamento in zona Corso Buenos Aires, Ninetti e Ittà, Milano, l'agente Luca Verdi ha rilevato una violazione dell'articolo 7, comma 15. L'auto coinvolta è una Toyota Yaris Star, targa FR 134 alle ore 15:17 del 23/02/2025.
+","Durante il pattugliamento in zona corso Buenos Aires 98, Milano, l'agente Luca Verdi ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Toyota Yaris targata FG234LM, alle ore 15:17 del 22/03/2025.",20.738004535147393,0.0043476009070294785,0.34285714285714286,0.14479638009049775,0.5391477287240959,0.8048780487804877,0.8048780487804877,33.0
+gemini-1.5-pro,"Verbale di infrazione redatto dall'agente Silvienei, data ventisette trentatrentacinque, ora sedici e quarantacinque. Infrazione: doppia fila. Luogo: via del Corso, Telve di sopra. Veicolo: Volkswagen Golf, targa BO uno due tre trentatré F.
+","Verbale di infrazione redatto dall'agente Silvia Neri. Data: 27/03/2025, ora: 16:48. Infrazione: doppia fila. Luogo: via del Corso 12, Roma. Veicolo: Opel Corsa, targa AB123CD.",18.24503401360544,0.003824006802721088,0.8,0.6079545454545454,0.254112927697965,0.5396825396825397,0.5396825396825397,108.0
+gemini-1.5-pro,"In base all'articolo 7, comma 15, l'agente Giulia Costa ha riscontrato un'infrazione in via Garibaldi 11, Firenze, alle ore 4:41 del 14/12/2025. Veicolo coinvolto: Volkswagen Golf, targa TR131HN.
+","In base al articolo 7, comma 15, l'agente Giulia Costa ha riscontrato un'infrazione in via Garibaldi 11, Firenze alle ore 04:49 del 14/03/2025. Veicolo coinvolto: Volkswagen Golf, targa KL321MN.",18.466031746031746,0.0038432063492063497,0.20689655172413793,0.061855670103092786,0.5918451601118386,0.8529411764705882,0.8529411764705882,13.0
+gemini-1.5-pro,"Sono l'agente Carlo Bruni. Alle ore 22:28 del 22/02/2025 ho rilevato un'infrazione per sosta davanti a passo carrabile in via Napoli, 5, Napoli. Veicolo Toyota Yaris, targa TR121NM.
+","Sono l'agente Carlo Bruni. Alle ore 22:38 del 22/03/2025, ho rilevato un'infrazione per sosta davanti a passo carrabile in via Napoli 5, Napoli. Veicolo: Toyota Yaris, targa KL321MN.",18.339002267573697,0.0038178004535147393,0.17857142857142858,0.054945054945054944,0.600166122828138,0.9090909090909091,0.9090909090909091,11.0
+gemini-1.5-pro,"Il giorno 13/03/2023 alle ore 4:44 è stata segnalata un'infrazione per divieto di sosta in Corso Buenos Aires, civico 8. Veicolo coinvolto: Numero serie one, targa FR4355, agente Luca Verdi.
+","Il giorno 28/03/2025, alle ore 04:40, è stata segnalata un’infrazione per divieto di sosta in corso Buenos Aires 98, Milano. Veicolo coinvolto: BMW Serie 1, targa CD456EF. Agente: Luca Verdi.",17.15501133786848,0.003591002267573696,0.4,0.193717277486911,0.21631187459215706,0.7272727272727273,0.7272727272727273,38.0
+gemini-1.5-pro,"In base all'articolo 176/7 comma 5, l'agente Marco Gentili ha riscontrato un'infrazione in via Napoli 5, Napoli, alle ore 3:51 del 3/3/2025. Veicolo coinvolto: auto serie 1, targa KT3121N.
+","In base al articolo 157, comma 5, l'agente Marco Gentili ha riscontrato un'infrazione in via Napoli 5, Napoli alle ore 03:51 del 03/03/2025. Veicolo coinvolto: BMW Serie 1, targa KL321MN.",18.850022675736962,0.003925004535147393,0.3,0.0962566844919786,0.4562357454701799,0.7887323943661971,0.7887323943661971,19.0
+gemini-1.5-pro,"Infrazione riscontrata: doppia fila.
+Posizione: Piazza Venezia, Roma.
+Ora: 13:57.
+Data: 13/03/2023.
+Auto: Fiat Panda, targa FR123FG.
+Agente: Mario Rossi.
+","Infrazione riscontrata: doppia fila. Posizione: piazza Venezia, Roma. Ora: 13:27, Data: 13/03/2025. Auto: Fiat Panda, targa CD456EF. Agente: Mario Rossi.",16.197006802721088,0.003349401360544218,0.55,0.10457516339869281,0.42223743521617985,0.8695652173913043,0.8695652173913043,17.0
+gemini-1.5-pro,"Sono l'agente Anna Bianchi. Alle ore quattordici e trenta del sette/trenta/venti/venti/cinque ho rilevato un'infrazione per sosta davanti a passo carrabile in via Milano ventiquattro A, Torino. Veicolo Fiat Panda, targa [incomprensibile].
+","Sono l'agente Anna Bianchi. Alle ore 14:36 del 17/03/2025, ho rilevato un'infrazione per sosta davanti a passo carrabile in via Milano 24, Torino. Veicolo: Fiat Panda, targa XY987ZT.",18.563038548752836,0.0038776077097505673,0.2857142857142857,0.44505494505494503,0.5604778668926179,0.7428571428571429,0.7428571428571429,82.0
+gemini-1.5-pro,"Infrazione riscontrata: accesso vietato.
+
+Posizione: Via Napoli, Five, Napoli.
+
+Ora: One, Twenty Nine. Data: Sixteen, Twenty Five.
+
+Auto oppure Corsa, targa: Tre, Nine, Three, Eight, Eight, Two.
+
+Agente: Mario Rossi.
+","Infrazione riscontrata: accesso vietato. Posizione: via Napoli 5, Napoli. Ora: 01:29, Data: 16/03/2025. Auto: Opel Corsa, targa TR098YU. Agente: Mario Rossi.",18.053015873015873,0.0037706031746031748,0.8571428571428571,0.5859872611464968,0.17878540236558915,0.5925925925925926,0.5925925925925926,93.0
+gemini-1.5-pro,"In base all'articolo 157 comma 5 del Codice della Strada, l'agente Sara Bellini ha riscontrato un'infrazione in via Garibaldi 8 a Firenze alle ore 15:59 del 23/03/2023. Veicolo coinvolto: un'utilitaria targata FR155SN.
+","In base al articolo 157, comma 5, l'agente Sara Bellini ha riscontrato un'infrazione in via Garibaldi 11, Firenze alle ore 15:01 del 12/03/2025. Veicolo coinvolto: BMW Serie 1, targa CD456EF.",17.378004535147394,0.003645600907029479,0.5666666666666667,0.2879581151832461,0.3310670933889896,0.6756756756756757,0.6756756756756757,56.0
+gemini-1.5-pro,"Durante il pattugliamento in zona via Garibaldi e Levane, Firenze, l'agente Luca Verdi ha rilevato una violazione dell'articolo 111/1 comma 2. L'auto coinvolta, una BMW serie 1 targata ETRE112TWENTYONE, alle ore 7:10 del 11/03/2025.
+","Durante il pattugliamento in zona via Garibaldi 11, Firenze, l'agente Luca Verdi ha rilevato una violazione del articolo 158, comma 2. L'auto coinvolta è una BMW Serie 1 targata KL321MN, alle ore 17:10 del 11/03/2025.",20.674013605442177,0.004314802721088435,0.2857142857142857,0.14746543778801843,0.45434753555369795,0.8500000000000001,0.8500000000000001,33.0
+gemini-1.5-pro,"Tenti, tere tere, tenti tenti, fire, ore 13:10, veicolo in missione, targa classe Renault Trafic grigia, in doppia fila presso via Roma 77, Palermo. Rilevato da agente Giulia Costa.
+","23/03/2025, ore 13:21: veicolo BMW Serie 1, targa GH789IJ, in doppia fila presso via Roma 77, Palermo. Rilevato da agente Giulia Costa.",14.210022675736962,0.0029970045351473927,0.6363636363636364,0.562962962962963,0.4387328902288626,0.6181818181818183,0.6181818181818183,77.0
+gemini-1.5-pro,"Tentito furto, tentato furto, omicidio, tentato furto, veicolo Volkswagen Golf targato ..., rubato in via De Curtis, Formia. In sosta davanti a passo carrabile presso via N. Fortifiova, Catania. Rilevato da agente Silvia Neri.
+","22/03/2025, ore 01:25: veicolo Volkswagen Golf, targa FG234LM, in sosta davanti a passo carrabile presso via Etnea 45, Catania. Rilevato da agente Silvia Neri.",14.85002267573696,0.0031500045351473918,0.75,0.6226415094339622,0.32287492051757477,0.5666666666666667,0.5666666666666667,100.0

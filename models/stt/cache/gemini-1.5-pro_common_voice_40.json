@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Dopo un anno di attività la band incise il primo demo.\n",
+  "reference": "dopo un anno di attività, la band incise il primo demo.",
+  "time": 3.6360090702947847,
+  "cost": 0.0007922018140589569,
+  "wer": 0.18181818181818182,
+  "cer": 0.03636363636363636,
+  "bleu_avg": 0.587728372510532,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

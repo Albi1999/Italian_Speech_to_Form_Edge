@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Verbale di infrazione redatto dall'agente Carlo Bruni. Data 4 2025, ora 9:00. Infrazione sosta davanti a passo carrabile. Luogo Via Roma 77 Palermo. Veicolo Fiat Panda targa 134.",
+  "reference": "Verbale di infrazione redatto dall'agente Carlo Bruni. Data: 04/03/2025, ora: 09:01. Infrazione: sosta davanti a passo carrabile. Luogo: via Roma 77, Palermo. Veicolo: Fiat Panda, targa FG234LM.",
+  "time": 18.789024943310658,
+  "cost": 0.0006781736780045351,
+  "wer": 0.4444444444444444,
+  "cer": 0.10309278350515463,
+  "bleu_avg": 0.3535749730730369,
+  "rouge1_avg_f1": 0.8524590163934426,
+  "rougeL_avg_f1": 0.8524590163934426,
+  "levenshtein_avg": 20.0
+}

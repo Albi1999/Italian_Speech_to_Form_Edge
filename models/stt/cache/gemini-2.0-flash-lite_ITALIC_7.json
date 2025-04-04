@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Pasqua nel 2018 è stata il 1° aprile.\n",
+  "reference": "quand'è pasqua nell'anno duemiladiciotto",
+  "time": 2.94,
+  "cost": 3.827999999999999e-05,
+  "wer": 2.0,
+  "cer": 0.825,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.16666666666666666,
+  "rougeL_avg_f1": 0.16666666666666666,
+  "levenshtein_avg": 33.0
+}

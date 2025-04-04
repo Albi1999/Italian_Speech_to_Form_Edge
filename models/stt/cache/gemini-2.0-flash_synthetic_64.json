@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "In base all'articolo 158, comma 2, l'agente Silvia Neri ha riscontrato un'infrazione in Via Napoli 5, Napoli alle ore mezzogiorno e 32 del 4 marzo 2025, veicolo coinvolto, Opel Corsa, targa ZA 456 QP.",
+  "reference": "In base al articolo 158, comma 2, l'agente Silvia Neri ha riscontrato un'infrazione in via Napoli 5, Napoli alle ore 12:32 del 04/03/2025. Veicolo coinvolto: Opel Corsa, targa ZA456QP.",
+  "time": 19.248027210884352,
+  "cost": 0.0006967305578231292,
+  "wer": 0.4827586206896552,
+  "cer": 0.16304347826086957,
+  "bleu_avg": 0.4249272923272817,
+  "rouge1_avg_f1": 0.8169014084507041,
+  "rougeL_avg_f1": 0.8169014084507041,
+  "levenshtein_avg": 30.0
+}

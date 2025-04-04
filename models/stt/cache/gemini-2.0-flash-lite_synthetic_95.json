@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Il giorno 29 marzo 2025, alle ore 14:34, è stata segnalata un'infrazione per doppia fila in via Etnea 45, Catania, veicolo coinvolto, Toyota Yaris, targa KL321 Meganewton, agente Marco Gentili.",
+  "reference": "Il giorno 29/03/2025, alle ore 14:34, è stata segnalata un’infrazione per doppia fila in via Etnea 45, Catania. Veicolo coinvolto: Toyota Yaris, targa KL321MN. Agente: Marco Gentili.",
+  "time": 19.52,
+  "cost": 0.00024384,
+  "wer": 0.37037037037037035,
+  "cer": 0.13186813186813187,
+  "bleu_avg": 0.4227119852487812,
+  "rouge1_avg_f1": 0.9180327868852459,
+  "rougeL_avg_f1": 0.9180327868852459,
+  "levenshtein_avg": 24.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Il giorno 12/05/2025 alle ore 22:22 è stata segnalata un'infrazione per zona rimozione in Piazza Venezia, Roma. Veicolo coinvolto: Fiat Panda, targa TO343FU. Agente: Carlo Bruni.\n",
+  "reference": "Il giorno 12/03/2025, alle ore 20:22, è stata segnalata un’infrazione per zona rimozione in piazza Venezia, Roma. Veicolo coinvolto: Fiat Panda, targa FG234LM. Agente: Carlo Bruni.",
+  "time": 16.86702947845805,
+  "cost": 0.0035134058956916106,
+  "wer": 0.19230769230769232,
+  "cer": 0.06666666666666667,
+  "bleu_avg": 0.44582832609020023,
+  "rouge1_avg_f1": 0.896551724137931,
+  "rougeL_avg_f1": 0.896551724137931,
+  "levenshtein_avg": 13.0
+}

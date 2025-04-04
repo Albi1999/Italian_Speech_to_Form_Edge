@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Infrazione riscontrata. Zona rimozione. Posizione: via Napoli 5, Napoli. Ora: 13:17. Data: 20 marzo 2025. Auto: Renault Clio. Targa: TR98U. Agente: Giulia Costa.",
+  "reference": "Infrazione riscontrata: zona rimozione. Posizione: via Napoli 5, Napoli. Ora: 13:17, Data: 20/03/2025. Auto: Renault Clio, targa TR098YU. Agente: Giulia Costa.",
+  "time": 18.55201814058957,
+  "cost": 0.00023012421768707486,
+  "wer": 0.42857142857142855,
+  "cer": 0.09433962264150944,
+  "bleu_avg": 0.34537865578685034,
+  "rouge1_avg_f1": 0.9166666666666666,
+  "rougeL_avg_f1": 0.9166666666666666,
+  "levenshtein_avg": 15.0
+}

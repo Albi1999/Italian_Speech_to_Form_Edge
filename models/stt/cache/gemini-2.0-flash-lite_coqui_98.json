@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Autentici 33, 33, 30, 30, 10, ore 10, 10, 10, veicolo, 1000 serie, targa, 11, 11, 11, in doppia fila presso via Roma 77, Palermo. Rilevato da agente Giulia Costa.\n",
+  "reference": "23/03/2025, ore 13:21: veicolo BMW Serie 1, targa GH789IJ, in doppia fila presso via Roma 77, Palermo. Rilevato da agente Giulia Costa.",
+  "time": 14.210022675736962,
+  "cost": 0.00018012027210884352,
+  "wer": 0.7272727272727273,
+  "cer": 0.3925925925925926,
+  "bleu_avg": 0.4094163947909039,
+  "rouge1_avg_f1": 0.6181818181818183,
+  "rougeL_avg_f1": 0.6181818181818183,
+  "levenshtein_avg": 54.0
+}

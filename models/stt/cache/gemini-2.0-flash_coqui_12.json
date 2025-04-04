@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Il giorno 30/12/2025 alle ore 20:30 è stata segnalata un'infrazione per parcheggio su strisce pedonali in corso Buenos Aires 90 a Milano. Veicolo coinvolto, Omoserione, targa Kofu 136. Agente, Sarabellini.",
+  "reference": "Il giorno 30/03/2025, alle ore 23:08, è stata segnalata un’infrazione per parcheggio su strisce pedonali in corso Buenos Aires 98, Milano. Veicolo coinvolto: BMW Serie 1, targa CD456EF. Agente: Sara Bellini.",
+  "time": 20.099002267573695,
+  "cost": 0.000725084879818594,
+  "wer": 0.41935483870967744,
+  "cer": 0.1497584541062802,
+  "bleu_avg": 0.35440333734551216,
+  "rouge1_avg_f1": 0.7164179104477613,
+  "rougeL_avg_f1": 0.7164179104477613,
+  "levenshtein_avg": 31.0
+}

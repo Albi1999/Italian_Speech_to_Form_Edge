@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Agente Anna Bianchi in servizio. Segnalazione di doppia fila e...  (incomprensibile) ...in Piazza Venezia, Roma. Auto coinvolta Fiat Panda, targata (incomprensibile).  (incomprensibile)\n",
+  "reference": "Agente Anna Bianchi in servizio. Segnalazione di doppia fila alle 10:19 del 09/03/2025, in piazza Venezia, Roma. Auto coinvolta: Fiat Panda, targa XY987ZT.",
+  "time": 14.211020408163265,
+  "cost": 0.00017773224489795917,
+  "wer": 0.43478260869565216,
+  "cer": 0.4258064516129032,
+  "bleu_avg": 0.4328559964189128,
+  "rouge1_avg_f1": 0.7083333333333333,
+  "rougeL_avg_f1": 0.7083333333333333,
+  "levenshtein_avg": 67.0
+}

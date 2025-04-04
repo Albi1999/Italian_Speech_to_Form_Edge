@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "E poi il dietro le quinte di Pinocchio e i pu[pazzi?] goliardici.\n",
+  "reference": "e poi il dietro le quinte di \"pinocchio\" e i pooh goliardici.",
+  "time": 8.856009070294785,
+  "cost": 0.0018412018140589572,
+  "wer": 0.25,
+  "cer": 0.21311475409836064,
+  "bleu_avg": 0.4832697830906221,
+  "rouge1_avg_f1": 0.8799999999999999,
+  "rougeL_avg_f1": 0.8799999999999999,
+  "levenshtein_avg": 14.0
+}

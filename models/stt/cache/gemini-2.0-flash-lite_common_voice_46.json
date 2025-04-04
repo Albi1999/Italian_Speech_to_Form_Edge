@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Gli uomini di Augerau scomparvero in una turbina bianca.\n",
+  "reference": "gli uomini di augereau scomparvero in una turbina bianca.",
+  "time": 5.796009070294785,
+  "cost": 7.285210884353741e-05,
+  "wer": 0.2222222222222222,
+  "cer": 0.05263157894736842,
+  "bleu_avg": 0.5133450480401704,
+  "rouge1_avg_f1": 0.8888888888888888,
+  "rougeL_avg_f1": 0.8888888888888888,
+  "levenshtein_avg": 4.0
+}

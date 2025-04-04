@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "L'utente tenta 30 30 file, ore 3, 4 file, veicolo Mercedes classe A, targhe non identificate, in doppia fila presso via del Corso, rilevato da gente civile.",
+  "reference": "19/03/2025, ore 03:45: veicolo Mercedes Classe A, targa XY987ZT, in doppia fila presso via del Corso 12, Roma. Rilevato da agente Silvia Neri.",
+  "time": 13.92204081632653,
+  "cost": 0.00017576448979591836,
+  "wer": 0.8260869565217391,
+  "cer": 0.4859154929577465,
+  "bleu_avg": 0.20823762637717375,
+  "rouge1_avg_f1": 0.5185185185185186,
+  "rougeL_avg_f1": 0.5185185185185186,
+  "levenshtein_avg": 69.0
+}

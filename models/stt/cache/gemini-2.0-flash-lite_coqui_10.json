@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Il giorno 20/02/2020 alle ore 13:20 è stata segnalata un'infrazione per zona rimozione in via Roma 277 Palermo. Veicolo coinvolto, percorso targa CF 136F. Agente Giulia Costa.",
+  "reference": "Il giorno 23/03/2025, alle ore 03:25, è stata segnalata un’infrazione per zona rimozione in via Roma 77, Palermo. Veicolo coinvolto: Opel Corsa, targa CD456EF. Agente: Giulia Costa.",
+  "time": 18.083038548752835,
+  "cost": 0.00022569646258503403,
+  "wer": 0.37037037037037035,
+  "cer": 0.1270718232044199,
+  "bleu_avg": 0.28977907494497107,
+  "rouge1_avg_f1": 0.7,
+  "rougeL_avg_f1": 0.7,
+  "levenshtein_avg": 23.0
+}

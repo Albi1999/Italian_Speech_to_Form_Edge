@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Aggiungi questo brano al prossimo brano in riproduzione.\n\n*Trascrivi in italiano l'audio allegato parola per parola.*\n",
+  "reference": "aggiungi questo brano al prossimo brano in riproduzione",
+  "time": 3.9,
+  "cost": 0.00087,
+  "wer": 1.25,
+  "cer": 1.1454545454545455,
+  "bleu_avg": 0.30130404892785684,
+  "rouge1_avg_f1": 0.6399999999999999,
+  "rougeL_avg_f1": 0.6399999999999999,
+  "levenshtein_avg": 64.0
+}

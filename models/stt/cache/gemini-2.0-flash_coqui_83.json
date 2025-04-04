@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "33 33 33, ore 33, filfiline, veicolo Mercedes classe A, targa Longre, tichiforma, in parcheggio su strisce pedonali presso Via Napoli, Napoli. Rilevato da agente Anna Bianca.",
+  "reference": "20/03/2025, ore 21:59: veicolo Mercedes Classe A, targa FG234LM, in parcheggio su strisce pedonali presso via Napoli 5, Napoli. Rilevato da agente Anna Bianchi.",
+  "time": 15.36204081632653,
+  "cost": 0.0005571438367346939,
+  "wer": 0.5,
+  "cer": 0.29375,
+  "bleu_avg": 0.34775476333824323,
+  "rouge1_avg_f1": 0.7037037037037037,
+  "rougeL_avg_f1": 0.7037037037037037,
+  "levenshtein_avg": 47.0
+}

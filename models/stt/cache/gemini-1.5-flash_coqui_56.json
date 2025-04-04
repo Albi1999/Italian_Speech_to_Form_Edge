@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Verbale di infrazione redatto dall'agente Mario Rossi. Data: ventisette ventisette, ventisette. Ora: quindici, quindici. Infrazione: doppia fila. Luogo: Via Napoli, civico, Napoli. Veicolo: Opel Corsa, targa:  [incomprensibile].\n",
+  "reference": "Verbale di infrazione redatto dall'agente Mario Rossi. Data: 26/03/2025, ora: 05:57. Infrazione: doppia fila. Luogo: via Napoli 5, Napoli. Veicolo: Opel Corsa, targa GH789IJ.",
+  "time": 18.309024943310657,
+  "cost": 0.0002284082993197279,
+  "wer": 0.4583333333333333,
+  "cer": 0.4540229885057471,
+  "bleu_avg": 0.43118957587226725,
+  "rouge1_avg_f1": 0.75,
+  "rougeL_avg_f1": 0.75,
+  "levenshtein_avg": 80.0
+}

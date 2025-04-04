@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Accidente con gente in servizio. Segnalazione di sosta davanti a Passo Carabiniere alle 10:24 del 27/10/2023 in corso Buozzi a Recine.  E' lì la via. Auto coinvolta, Peugeot 206, targata NN PP.\n",
+  "reference": "Agente Marco Gentili in servizio. Segnalazione di sosta davanti a passo carrabile alle 18:24 del 07/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Mercedes Classe A, targa TR098YU.",
+  "time": 17.251020408163264,
+  "cost": 0.00021721224489795916,
+  "wer": 0.6896551724137931,
+  "cer": 0.359375,
+  "bleu_avg": 0.21004850229269248,
+  "rouge1_avg_f1": 0.4776119402985075,
+  "rougeL_avg_f1": 0.4477611940298507,
+  "levenshtein_avg": 70.0
+}

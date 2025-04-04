@@ -1,28 +1,24 @@
-import os
-import json
-import pandas as pd
 from tqdm import tqdm
-from models import (
-    WhisperTiny,
-    WhisperItaDistilled,
-    FasterWhisper,
-    Vosk,
-    Wav2Vec2Grosman,
-    Wav2Vec2Multilingual56,
-    Wav2Vec2DBDMG
-)
-from utils import save_results, STTVisualizer
-import random
+import pandas as pd
+import json
+
+from models import (WhisperTiny,
+                    WhisperItaDistilled,
+                    FasterWhisper,
+                    Vosk,
+                    Wav2Vec2Grosman,
+                    Wav2Vec2Multilingual56,
+                    Wav2Vec2DBDMG)
+
+from utils import (DatasetLoader,
+                   save_results,
+                   STTVisualizer)
 
 def run_synthetic_dataset():
-    DATASET_DIR = "data/synthetic_dataset"
-    METADATA_PATH = os.path.join(DATASET_DIR, "metadata", "samples.json")
+    # Initialize DatasetLoader
+    data_loader = DatasetLoader()
 
-    with open(METADATA_PATH, "r", encoding="utf-8") as f:
-        samples = json.load(f)
-
-    random.seed(42)
-    samples = random.sample(samples, 50) # Randomly sample 20 samples for testing
+    samples = data_loader.load_dataset("synthetic", samples_per_dataset=50)
 
     models = [
         WhisperTiny(), 
@@ -36,8 +32,8 @@ def run_synthetic_dataset():
 
     results = []
     for sample in tqdm(samples, desc="Processing synthetic samples"):
-        audio_path = os.path.join(DATASET_DIR, sample["audio_path"])
-        reference = sample["text"]
+        audio_path = sample["path"]
+        reference = sample["sentence"]
         for model in models:
             results.append(model.transcribe(audio_path, reference))
 

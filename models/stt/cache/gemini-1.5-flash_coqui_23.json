@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "La trascrizione dell'audio è difficile a causa della scarsa qualità e della presenza di rumori di fondo.  Tuttavia, ecco un tentativo di trascrizione parola per parola, tenendo presente che potrebbe contenere imprecisioni:\n\n\"Tirtiteretentitentifi ve oretto tirti se veicolo in  tere targa  fur  mon refifi si in divieto di sosta presso via del Corso te ve roa rilevato da agente Giulia Costa\"\n\n\nÈ probabile che alcune parole siano state interpretate erroneamente a causa della qualità audio.  \"Tirtiteretentitentifi ve\" e \"roa\" ad esempio, sembrano essere parole incomprensibili o errori di pronuncia.  \"Fur mon refifi si\" potrebbe essere una trascrizione errata di una targa o di un numero di riferimento.\n",
+  "reference": "30/03/2025, ore 02:37: veicolo Audi A3, targa CD456EF, in divieto di sosta presso via del Corso 12, Roma. Rilevato da agente Giulia Costa.",
+  "time": 13.154013605442177,
+  "cost": 0.00019054816326530613,
+  "wer": 4.086956521739131,
+  "cer": 4.398550724637682,
+  "bleu_avg": 0.07582901352430618,
+  "rouge1_avg_f1": 0.22727272727272727,
+  "rougeL_avg_f1": 0.22727272727272727,
+  "levenshtein_avg": 608.0
+}

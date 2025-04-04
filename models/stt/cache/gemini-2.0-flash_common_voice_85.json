@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Lo sperlupo fu rapidissimo.",
+  "reference": "lo sviluppo fu rapidissimo.",
+  "time": 3.9960090702947846,
+  "cost": 0.0001478595192743764,
+  "wer": 0.5,
+  "cer": 0.18518518518518517,
+  "bleu_avg": 0.16990442448471224,
+  "rouge1_avg_f1": 0.75,
+  "rougeL_avg_f1": 0.75,
+  "levenshtein_avg": 5.0
+}

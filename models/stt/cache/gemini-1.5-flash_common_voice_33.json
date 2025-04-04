@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "La spiegazione di questo fenomeno è insita nella definizione di temperatura di bulbo umido.\n",
+  "reference": "la spiegazione di questo fenomeno è insita nella definizione di temperatura di bulbo umido.",
+  "time": 6.444036281179138,
+  "cost": 8.212843537414965e-05,
+  "wer": 0.07142857142857142,
+  "cer": 0.01098901098901099,
+  "bleu_avg": 0.9193227152249185,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

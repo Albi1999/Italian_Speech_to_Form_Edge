@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "La storia è narrata in prima persona da James Farrer.\n",
+  "reference": "la storia è narrata in prima persona da james farrell.",
+  "time": 3.5640362811791384,
+  "cost": 4.6368435374149656e-05,
+  "wer": 0.3,
+  "cer": 0.09259259259259259,
+  "bleu_avg": 0.6389431042462724,
+  "rouge1_avg_f1": 0.8888888888888888,
+  "rougeL_avg_f1": 0.8888888888888888,
+  "levenshtein_avg": 6.0
+}

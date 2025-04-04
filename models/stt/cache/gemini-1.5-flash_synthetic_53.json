@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Durante il pattugliamento in zona Via Roma 77, Palermo, l'agente Giulia Costa ha rilevato una violazione dell'articolo 158, comma 2. L'auto coinvolta è una Renault Clio targata GH 789 IE, alle ore 18 del 30 marzo 2025.\n",
+  "reference": "Durante il pattugliamento in zona via Roma 77, Palermo, l'agente Giulia Costa ha rilevato una violazione del articolo 158, comma 2. L'auto coinvolta è una Renault Clio targata GH789IJ, alle ore 18:00 del 30/03/2025.",
+  "time": 20.23201814058957,
+  "cost": 0.0002544842176870748,
+  "wer": 0.29411764705882354,
+  "cer": 0.07441860465116279,
+  "bleu_avg": 0.5928257592469542,
+  "rouge1_avg_f1": 0.8831168831168831,
+  "rougeL_avg_f1": 0.8831168831168831,
+  "levenshtein_avg": 17.0
+}

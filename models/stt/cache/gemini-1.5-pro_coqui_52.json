@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Il giorno 20/03/2020 alle ore 11:30 è stata segnalata un'infrazione per parcheggio su strisce pedonali in via Etnea 45, Catania. Veicolo coinvolto: Fiat Panda targa ZA413FT. Agente: Mario Rossi.\n",
+  "reference": "Il giorno 23/03/2025, alle ore 18:31, è stata segnalata un’infrazione per parcheggio su strisce pedonali in via Etnea 45, Catania. Veicolo coinvolto: Fiat Panda, targa ZA456QP. Agente: Mario Rossi.",
+  "time": 20.06702947845805,
+  "cost": 0.00416840589569161,
+  "wer": 0.1724137931034483,
+  "cer": 0.06091370558375635,
+  "bleu_avg": 0.5602520952992253,
+  "rouge1_avg_f1": 0.84375,
+  "rougeL_avg_f1": 0.84375,
+  "levenshtein_avg": 13.0
+}

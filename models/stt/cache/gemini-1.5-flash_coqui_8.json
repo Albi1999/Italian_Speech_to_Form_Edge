@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Verbale di infrazione redatto dall'agente Luca Verdi. Data:  (incomprensibile)  ora: (incomprensibile) Infrazione: parcheggio su strisce pedonali. Luogo: Corso Buenos Aires, Milano. Veicolo: Fiat Panda, targa: (incomprensibile)\n",
+  "reference": "Verbale di infrazione redatto dall'agente Luca Verdi. Data: 08/03/2025, ora: 22:16. Infrazione: parcheggio su strisce pedonali. Luogo: corso Buenos Aires 98, Milano. Veicolo: Fiat Panda, targa GH789IJ.",
+  "time": 20.29301587301587,
+  "cost": 0.00025191619047619046,
+  "wer": 0.25925925925925924,
+  "cer": 0.2885572139303483,
+  "bleu_avg": 0.5274964121279998,
+  "rouge1_avg_f1": 0.8275862068965517,
+  "rougeL_avg_f1": 0.8275862068965517,
+  "levenshtein_avg": 59.0
+}

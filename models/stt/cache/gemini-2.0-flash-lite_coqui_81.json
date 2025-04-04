@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Verbale di infrazione redatto dall'agente Mario Rossi. Data 11/20/2025, ora 10:10. Infrazione: zona rimozione. Luogo: Via Garibaldi 11, Firenze. Veicolo: percorso, targa 321.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Mario Rossi. Data: 11/03/2025, ora: 13:06. Infrazione: zona rimozione. Luogo: via Garibaldi 11, Firenze. Veicolo: Opel Corsa, targa KL321MN.",
+  "time": 18.213015873015873,
+  "cost": 0.00022605619047619046,
+  "wer": 0.3333333333333333,
+  "cer": 0.09340659340659341,
+  "bleu_avg": 0.44997815071520203,
+  "rouge1_avg_f1": 0.7999999999999999,
+  "rougeL_avg_f1": 0.7999999999999999,
+  "levenshtein_avg": 18.0
+}

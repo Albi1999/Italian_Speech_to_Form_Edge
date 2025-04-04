@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Durante il pattugliamento in zona Via Napoli 5, Napoli, l'agente Carlo Bruni ha rilevato una violazione dell'articolo 158, comma 2. L'auto coinvolta è una Renault Clio targata KL 321 MN, alle ore 10:17 del 19 marzo 2025.",
+  "reference": "Durante il pattugliamento in zona via Napoli 5, Napoli, l'agente Carlo Bruni ha rilevato una violazione del articolo 158, comma 2. L'auto coinvolta è una Renault Clio targata KL321MN, alle ore 10:17 del 19/03/2025.",
+  "time": 20.64,
+  "cost": 0.000746928,
+  "wer": 0.2647058823529412,
+  "cer": 0.056074766355140186,
+  "bleu_avg": 0.6356803094319038,
+  "rouge1_avg_f1": 0.8974358974358975,
+  "rougeL_avg_f1": 0.8974358974358975,
+  "levenshtein_avg": 12.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Infrazione riscontrata: sosta rimozione.\nPosizione: Corso Buenos Aires, civico 16.\nMilano.\nOra: 10:00.\nData: 14/10/2023.\nAuto: Renault Clio, targa SO4157.\nAgente: Sara Bellini.\n",
+  "reference": "Infrazione riscontrata: zona rimozione. Posizione: corso Buenos Aires 98, Milano. Ora: 22:00, Data: 24/03/2025. Auto: Renault Clio, targa ZA456QP. Agente: Sara Bellini.",
+  "time": 18.341043083900228,
+  "cost": 0.0037932086167800456,
+  "wer": 0.6363636363636364,
+  "cer": 0.19642857142857142,
+  "bleu_avg": 0.20287366424876008,
+  "rouge1_avg_f1": 0.7058823529411765,
+  "rougeL_avg_f1": 0.7058823529411765,
+  "levenshtein_avg": 34.0
+}

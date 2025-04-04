@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Nel mio calendario, rimuovi tutti gli eventi di calcio del mese corrente.",
+  "reference": "nel mio calendario rimuovi tutti gli eventi di calcio del mese corrente",
+  "time": 4.437414965986394,
+  "cost": 0.00016659700680272108,
+  "wer": 0.25,
+  "cer": 0.04225352112676056,
+  "bleu_avg": 0.6315552371794037,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

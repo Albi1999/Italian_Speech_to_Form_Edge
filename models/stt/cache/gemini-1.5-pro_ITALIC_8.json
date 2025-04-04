@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Parla più forte.\n",
+  "reference": "parla più forte",
+  "time": 1.74,
+  "cost": 0.00037299999999999996,
+  "wer": 0.6666666666666666,
+  "cer": 0.13333333333333333,
+  "bleu_avg": 0.11362193664674995,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

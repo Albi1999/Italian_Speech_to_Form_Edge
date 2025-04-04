@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Per favore, riproduci l'ultimo podcast di Francesco Costa.\n\nNon ho accesso a internet o a file locali, inclusi i podcast.  Non posso quindi riprodurre o trascrivere l'ultimo podcast di Francesco Costa. Per ascoltarlo, ti consiglio di cercarlo sulla piattaforma dove viene usualmente pubblicato (Spotify, Apple Podcast, Google Podcast, ecc.) o sul sito web di Francesco Costa.\n",
+  "reference": "per favore riproduci l'ultimo podcast di francesco costa",
+  "time": 4.38,
+  "cost": 0.001166,
+  "wer": 6.5,
+  "cer": 5.714285714285714,
+  "bleu_avg": 0.04062073000466025,
+  "rouge1_avg_f1": 0.26865671641791045,
+  "rougeL_avg_f1": 0.26865671641791045,
+  "levenshtein_avg": 321.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Tentito furto, tentato furto, omicidio, tentato furto, veicolo Volkswagen Golf targato ..., rubato in via De Curtis, Formia. In sosta davanti a passo carrabile presso via N. Fortifiova, Catania. Rilevato da agente Silvia Neri.\n",
+  "reference": "22/03/2025, ore 01:25: veicolo Volkswagen Golf, targa FG234LM, in sosta davanti a passo carrabile presso via Etnea 45, Catania. Rilevato da agente Silvia Neri.",
+  "time": 14.85002267573696,
+  "cost": 0.0031500045351473918,
+  "wer": 0.75,
+  "cer": 0.6226415094339622,
+  "bleu_avg": 0.32287492051757477,
+  "rouge1_avg_f1": 0.5666666666666667,
+  "rougeL_avg_f1": 0.5666666666666667,
+  "levenshtein_avg": 100.0
+}

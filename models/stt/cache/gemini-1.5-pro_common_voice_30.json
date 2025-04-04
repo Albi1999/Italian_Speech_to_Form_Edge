@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Inoltre è co-autore del brano *A Public Affair* di Jessica Simpson.\n",
+  "reference": "inoltre è coautore del brano \"a public affair\" di jessica simpson.",
+  "time": 5.112018140589569,
+  "cost": 0.0010874036281179138,
+  "wer": 0.6363636363636364,
+  "cer": 0.13636363636363635,
+  "bleu_avg": 0.04740604259878138,
+  "rouge1_avg_f1": 0.8571428571428572,
+  "rougeL_avg_f1": 0.8571428571428572,
+  "levenshtein_avg": 10.0
+}

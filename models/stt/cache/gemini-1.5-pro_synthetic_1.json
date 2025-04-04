@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Sono l'agente Carlo Bruni, alle ore 15:03 del 24 marzo 2025. Ho rilevato un'infrazione per sosta davanti a passo carrabile in via Etnea 45, Catania. Veicolo: Volkswagen Golf, targa TR98YU.\n",
+  "reference": "Sono l'agente Carlo Bruni. Alle ore 15:03 del 24/03/2025, ho rilevato un'infrazione per sosta davanti a passo carrabile in via Etnea 45, Catania. Veicolo: Volkswagen Golf, targa TR098YU.",
+  "time": 18.456009070294783,
+  "cost": 0.003851201814058957,
+  "wer": 0.25,
+  "cer": 0.06451612903225806,
+  "bleu_avg": 0.6387390016474043,
+  "rouge1_avg_f1": 0.9393939393939394,
+  "rougeL_avg_f1": 0.9393939393939394,
+  "levenshtein_avg": 13.0
+}

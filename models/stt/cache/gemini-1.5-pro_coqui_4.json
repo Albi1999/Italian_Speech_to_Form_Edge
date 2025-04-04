@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Tentativo di rapina tentata tentativi di furto, vorrei specificare veicolo Bel Corsa targato BO numero di targa tentata rapina, incidente di sosta presso Piazza Venezia, Roma, rilevato da gente annaffiata.\n",
+  "reference": "21/03/2025, ore 08:57: veicolo Opel Corsa, targa AB123CD, in divieto di sosta presso piazza Venezia, Roma. Rilevato da agente Anna Bianchi.",
+  "time": 13.218004535147392,
+  "cost": 0.0028036009070294783,
+  "wer": 1.1428571428571428,
+  "cer": 0.8057553956834532,
+  "bleu_avg": 0.03819633968206938,
+  "rouge1_avg_f1": 0.4074074074074074,
+  "rougeL_avg_f1": 0.4074074074074074,
+  "levenshtein_avg": 113.0
+}

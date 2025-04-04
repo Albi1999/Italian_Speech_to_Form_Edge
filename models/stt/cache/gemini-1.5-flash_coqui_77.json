@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sono l'agente Giulia Cossu. Alle ore 15:00 del 23/10/2023 ho rilevato un'infrazione per doppia fila in via Milano 104, Torino. Veicolo:  Alfa Romeo 147.\n",
+  "reference": "Sono l'agente Giulia Costa. Alle ore 15:04 del 01/03/2025, ho rilevato un'infrazione per doppia fila in via Milano 24, Torino. Veicolo: Audi A3, targa XY987ZT.",
+  "time": 14.755011337868481,
+  "cost": 0.00018486013605442176,
+  "wer": 0.32,
+  "cer": 0.18238993710691823,
+  "bleu_avg": 0.4245970617334277,
+  "rouge1_avg_f1": 0.6779661016949153,
+  "rougeL_avg_f1": 0.6779661016949153,
+  "levenshtein_avg": 30.0
+}

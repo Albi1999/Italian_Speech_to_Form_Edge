@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sono l'agente Mario Rossi. Alle ore 21:29 del 5/12/2020 ho rilevato un'infrazione per accesso vietato in via Eneaforti, 5, Aci Catena. Veicolo percorso targa  [incomprensibile].\n",
+  "reference": "Sono l'agente Mario Rossi. Alle ore 21:29 del 05/03/2025, ho rilevato un'infrazione per accesso vietato in via Etnea 45, Catania. Veicolo: Opel Corsa, targa CD456EF.",
+  "time": 16.771020408163267,
+  "cost": 0.00020935224489795917,
+  "wer": 0.32,
+  "cer": 0.26666666666666666,
+  "bleu_avg": 0.5538142279874649,
+  "rouge1_avg_f1": 0.7,
+  "rougeL_avg_f1": 0.7,
+  "levenshtein_avg": 45.0
+}

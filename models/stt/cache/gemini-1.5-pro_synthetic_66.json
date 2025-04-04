@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Infrazione riscontrata: sosta davanti a passo carrabile. Posizione: Via Napoli 5, Napoli. Ora: 20:38. Data: 14 marzo 2025. Auto: Renault Clio. Targa: KL321 MN. Agente: Mario Rossi.\n",
+  "reference": "Infrazione riscontrata: sosta davanti a passo carrabile. Posizione: via Napoli 5, Napoli. Ora: 20:38, Data: 14/03/2025. Auto: Renault Clio, targa KL321MN. Agente: Mario Rossi.",
+  "time": 21.92798185941043,
+  "cost": 0.0045305963718820855,
+  "wer": 0.375,
+  "cer": 0.07428571428571429,
+  "bleu_avg": 0.4161791450287817,
+  "rouge1_avg_f1": 0.9090909090909091,
+  "rougeL_avg_f1": 0.9090909090909091,
+  "levenshtein_avg": 14.0
+}

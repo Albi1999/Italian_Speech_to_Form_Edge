@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Altri lavori nel periodo lorenese mutarono l'aspetto del complesso.\n",
+  "reference": "altri lavori nel periodo lorenese mutarono l'aspetto del complesso.",
+  "time": 5.7240362811791385,
+  "cost": 7.198843537414966e-05,
+  "wer": 0.1111111111111111,
+  "cer": 0.014925373134328358,
+  "bleu_avg": 0.8633400213704505,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

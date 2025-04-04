@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "In base all'articolo 7, comma 15, l'agente Giulia Costa ha riscontrato un'infrazione in via Milano 104, Torino alle ore 10:49 del Ford 30/10/2020. Veicolo coinvolto, un Mercedes-Benz, targa, Longle 344.",
+  "reference": "In base al articolo 7, comma 15, l'agente Giulia Costa ha riscontrato un'infrazione in via Milano 24, Torino alle ore 12:49 del 04/03/2025. Veicolo coinvolto: BMW Serie 1, targa FG234LM.",
+  "time": 16.354013605442177,
+  "cost": 0.0005932612789115646,
+  "wer": 0.4,
+  "cer": 0.20967741935483872,
+  "bleu_avg": 0.44732064843293906,
+  "rouge1_avg_f1": 0.6944444444444444,
+  "rougeL_avg_f1": 0.6944444444444444,
+  "levenshtein_avg": 39.0
+}

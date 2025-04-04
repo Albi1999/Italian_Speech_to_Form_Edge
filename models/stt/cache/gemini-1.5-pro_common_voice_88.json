@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Occorre notare la costante presenza di un elemento irrazionale nel fenomeno bellico.\n",
+  "reference": "occorre notare la costante presenza di un elemento irrazionale nel fenomeno bellico.",
+  "time": 5.976009070294785,
+  "cost": 0.0012652018140589568,
+  "wer": 0.08333333333333333,
+  "cer": 0.011904761904761904,
+  "bleu_avg": 0.9036020036098448,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

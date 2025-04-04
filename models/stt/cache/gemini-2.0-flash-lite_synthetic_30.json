@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Verbale di infrazione redatto dall'agente Luca Verdi, data 29 marzo 2025, ora 20:08, infrazione, accesso vietato, luogo, via Etnea 45, Catania, veicolo, Mercedes Classe A, targa ZA456QP.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Luca Verdi. Data: 29/03/2025, ora: 20:08. Infrazione: accesso vietato. Luogo: via Etnea 45, Catania. Veicolo: Mercedes Classe A, targa ZA456QP.",
+  "time": 20.18798185941043,
+  "cost": 0.0002509557823129252,
+  "wer": 0.48,
+  "cer": 0.10810810810810811,
+  "bleu_avg": 0.3538049406567624,
+  "rouge1_avg_f1": 0.9655172413793104,
+  "rougeL_avg_f1": 0.9655172413793104,
+  "levenshtein_avg": 21.0
+}

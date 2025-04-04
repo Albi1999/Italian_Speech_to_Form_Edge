@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Suona tutte le playlist.\n",
+  "reference": "suona tutte le playlist",
+  "time": 3.12,
+  "cost": 3.9240000000000004e-05,
+  "wer": 0.5,
+  "cer": 0.08695652173913043,
+  "bleu_avg": 0.16990442448471224,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

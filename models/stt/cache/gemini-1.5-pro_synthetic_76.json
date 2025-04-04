@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Sono l'agente Carlo Bruni, alle ore 13:52 dell'8 marzo 2025. Ho rilevato un'infrazione per parcheggio su strisce pedonali in Via Garibaldi 11, Firenze. Veicolo: Volkswagen Golf, targa FG234LF.\n",
+  "reference": "Sono l'agente Carlo Bruni. Alle ore 13:52 del 08/03/2025, ho rilevato un'infrazione per parcheggio su strisce pedonali in via Garibaldi 11, Firenze. Veicolo: Volkswagen Golf, targa FG234LM.",
+  "time": 18.936009070294784,
+  "cost": 0.003937201814058957,
+  "wer": 0.2962962962962963,
+  "cer": 0.07936507936507936,
+  "bleu_avg": 0.5149732203257936,
+  "rouge1_avg_f1": 0.875,
+  "rougeL_avg_f1": 0.875,
+  "levenshtein_avg": 16.0
+}

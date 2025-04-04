@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Direttore Albina Malerba.",
+  "reference": "direttore: albina malerba.",
+  "time": 3.4560090702947845,
+  "cost": 0.00012845151927437642,
+  "wer": 1.0,
+  "cer": 0.15384615384615385,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 4.0
+}

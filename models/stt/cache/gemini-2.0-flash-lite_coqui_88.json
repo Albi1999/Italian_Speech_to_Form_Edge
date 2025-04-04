@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Verbale di infrazione redatto dall'agente si viene data, tenti essere interenti tenti fiere. Ora, si den for che ita. Infrazione, doppia fila. Luogo, via del corso 3 vero. Veicolo, quel corsa, ta gabbono non derenti terefi.",
+  "reference": "Verbale di infrazione redatto dall'agente Silvia Neri. Data: 27/03/2025, ora: 16:48. Infrazione: doppia fila. Luogo: via del Corso 12, Roma. Veicolo: Opel Corsa, targa AB123CD.",
+  "time": 18.24503401360544,
+  "cost": 0.00023034040816326528,
+  "wer": 1.08,
+  "cer": 0.5568181818181818,
+  "bleu_avg": 0.12303973923740182,
+  "rouge1_avg_f1": 0.5151515151515151,
+  "rougeL_avg_f1": 0.5151515151515151,
+  "levenshtein_avg": 98.0
+}

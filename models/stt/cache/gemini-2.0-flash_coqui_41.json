@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "verbale di infrazione redatto dall'agente sì viene data, intere, tenti, tenti, fine, ora, ten, 53. Infrazione, sosta davanti a passo carrabile. Luogo, Via Garibaldi, Firenze. Veicolo, anniere, tagliare il tirchio furbo.",
+  "reference": "Verbale di infrazione redatto dall'agente Silvia Neri. Data: 09/03/2025, ora: 10:53. Infrazione: sosta davanti a passo carrabile. Luogo: via Garibaldi 11, Firenze. Veicolo: Audi A3, targa FG234LM.",
+  "time": 19.077006802721087,
+  "cost": 0.0006895106394557821,
+  "wer": 0.8148148148148148,
+  "cer": 0.37244897959183676,
+  "bleu_avg": 0.19310235945664556,
+  "rouge1_avg_f1": 0.634920634920635,
+  "rougeL_avg_f1": 0.634920634920635,
+  "levenshtein_avg": 73.0
+}

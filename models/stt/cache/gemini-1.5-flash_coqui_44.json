@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sono l'agente Marco Gentili, alle ore 10:10,  fortone del  Fiu... eh... 10:10 Fiue... ho rilevato un'infrazione per divieto di sosta in via del Corso,  Tar... eh... ro... veicolo Fiat Panda, targa  110... 117.\n",
+  "reference": "Sono l'agente Marco Gentili. Alle ore 20:41 del 05/03/2025, ho rilevato un'infrazione per divieto di sosta in via del Corso 12, Roma. Veicolo: Fiat Panda, targa XY987ZT.",
+  "time": 15.39501133786848,
+  "cost": 0.00019524013605442178,
+  "wer": 0.5555555555555556,
+  "cer": 0.41420118343195267,
+  "bleu_avg": 0.35936994872479583,
+  "rouge1_avg_f1": 0.6956521739130435,
+  "rougeL_avg_f1": 0.6956521739130435,
+  "levenshtein_avg": 71.0
+}

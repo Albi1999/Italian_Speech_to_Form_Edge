@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Il giorno 6 marzo 2025, alle ore 21:58 è stata segnalata un'infrazione per accesso di divieto in via Garibaldi n. 12 Firenze. Veicolo coinvolto Volkswagen Polo, targa SG 234 LN. Agente Silvia Novello.\n",
+  "reference": "Il giorno 06/03/2025, alle ore 21:58, è stata segnalata un’infrazione per accesso vietato in via Garibaldi 11, Firenze. Veicolo coinvolto: Volkswagen Golf, targa FG234LM. Agente: Silvia Neri.",
+  "time": 19.72798185941043,
+  "cost": 0.00024723578231292516,
+  "wer": 0.5925925925925926,
+  "cer": 0.17801047120418848,
+  "bleu_avg": 0.0725446699744373,
+  "rouge1_avg_f1": 0.71875,
+  "rougeL_avg_f1": 0.71875,
+  "levenshtein_avg": 35.0
+}

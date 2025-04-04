@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Gentili Luca Verdi in servizio. Segnalazione di zona rimozione alle ore 15:30 del 15/10/2024 in via Milano 24, Torino. Auto coinvolta, Alfa Romeo 147, targhe FG 495 CL.\n",
+  "reference": "Agente Luca Verdi in servizio. Segnalazione di zona rimozione alle 19:31 del 15/03/2025, in via Milano 24, Torino. Auto coinvolta: Audi A3, targa CD456EF.",
+  "time": 14.819002267573696,
+  "cost": 0.00018682802721088434,
+  "wer": 0.5,
+  "cer": 0.24025974025974026,
+  "bleu_avg": 0.45244505333538965,
+  "rouge1_avg_f1": 0.6206896551724138,
+  "rougeL_avg_f1": 0.6206896551724138,
+  "levenshtein_avg": 38.0
+}

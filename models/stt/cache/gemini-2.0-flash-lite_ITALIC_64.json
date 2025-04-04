@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Avvia giochi.\n",
+  "reference": "avvia giochi",
+  "time": 2.22,
+  "cost": 2.7839999999999998e-05,
+  "wer": 1.0,
+  "cer": 0.16666666666666666,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

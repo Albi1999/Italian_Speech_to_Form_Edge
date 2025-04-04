@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Il bresciano riportò alcune contusioni e venne trasportato precauzionalmente all'ospedale.\n",
+  "reference": "il bresciano riportò alcune contusioni e venne trasportato precauzionalmente all'ospedale.",
+  "time": 7.128027210884354,
+  "cost": 0.0014856054421768707,
+  "wer": 0.1,
+  "cer": 0.011111111111111112,
+  "bleu_avg": 0.8801117367933934,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

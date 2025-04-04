@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Ventisette ventidue venticinque ore dieci e undici veicolo bom seri one targa F [omissis] in sosta davanti a passo carrabile presso Corso Buenos Aires novantotto A Milano. Rilevato da agente Anna Bianchi.\n",
+  "reference": "28/03/2025, ore 10:11: veicolo BMW Serie 1, targa FG234LM, in sosta davanti a passo carrabile presso corso Buenos Aires 98, Milano. Rilevato da agente Anna Bianchi.",
+  "time": 16.898004535147393,
+  "cost": 0.0035496009070294793,
+  "wer": 0.5384615384615384,
+  "cer": 0.4634146341463415,
+  "bleu_avg": 0.3543568594005623,
+  "rouge1_avg_f1": 0.6557377049180328,
+  "rougeL_avg_f1": 0.6557377049180328,
+  "levenshtein_avg": 77.0
+}

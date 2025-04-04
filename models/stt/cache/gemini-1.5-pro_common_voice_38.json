@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "L'area della vasca era coperta da una cupola.\n",
+  "reference": "l'area della vasca era coperta da una cupola.",
+  "time": 5.94,
+  "cost": 0.001238,
+  "wer": 0.125,
+  "cer": 0.022222222222222223,
+  "bleu_avg": 0.8408964152537145,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

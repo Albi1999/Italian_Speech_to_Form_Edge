@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Il giorno ventidue ventidue alle ore 11:30 è stata segnalata un'infrazione per parcheggio su strisce pedonali in via Etnea Forti Fiume, Catania. Veicolo coinvolto Fiat Panda targa ZZ 411 FTS. Agente Mario Rossi.\n",
+  "reference": "Il giorno 23/03/2025, alle ore 18:31, è stata segnalata un’infrazione per parcheggio su strisce pedonali in via Etnea 45, Catania. Veicolo coinvolto: Fiat Panda, targa ZA456QP. Agente: Mario Rossi.",
+  "time": 20.06702947845805,
+  "cost": 0.0002513043537414966,
+  "wer": 0.41379310344827586,
+  "cer": 0.2182741116751269,
+  "bleu_avg": 0.31406602375700465,
+  "rouge1_avg_f1": 0.7575757575757576,
+  "rougeL_avg_f1": 0.7575757575757576,
+  "levenshtein_avg": 44.0
+}

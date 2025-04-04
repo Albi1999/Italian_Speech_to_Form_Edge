@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "La Basilica della Beata Vergine Maria è un importante centro di pellegrinaggio della Polonia.",
+  "reference": "la basilica della beata vergine maria è un importante centro di pellegrinaggio della polonia.",
+  "time": 6.552018140589569,
+  "cost": 0.0002418310385487528,
+  "wer": 0.42857142857142855,
+  "cer": 0.06451612903225806,
+  "bleu_avg": 0.44710186192584195,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 6.0
+}

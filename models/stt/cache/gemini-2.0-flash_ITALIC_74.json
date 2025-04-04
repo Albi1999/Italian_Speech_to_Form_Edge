@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Avvia la riproduzione audio di Twilight di nuovo.",
+  "reference": "avvia la riproduzione audio di twilight di nuovo",
+  "time": 3.54,
+  "cost": 0.000133408,
+  "wer": 0.375,
+  "cer": 0.0625,
+  "bleu_avg": 0.3655552228545123,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

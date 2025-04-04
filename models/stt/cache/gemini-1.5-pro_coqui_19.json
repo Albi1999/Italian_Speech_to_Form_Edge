@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Agente Sara Bellini in servizio. Segnalazione di doppia fila all'altezza T Hotel,  Twenty Twenty Five in via Napoli Five, Napoli. Auto coinvolta,  Maserati One, targa BO1320RP.\n",
+  "reference": "Agente Sara Bellini in servizio. Segnalazione di doppia fila alle 08:13 del 12/03/2025, in via Napoli 5, Napoli. Auto coinvolta: BMW Serie 1, targa AB123CD.",
+  "time": 15.619002267573697,
+  "cost": 0.0032638004535147395,
+  "wer": 0.48,
+  "cer": 0.33974358974358976,
+  "bleu_avg": 0.38545012141186974,
+  "rouge1_avg_f1": 0.6181818181818182,
+  "rougeL_avg_f1": 0.6181818181818182,
+  "levenshtein_avg": 54.0
+}

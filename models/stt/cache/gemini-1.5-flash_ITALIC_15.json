@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Non posso riprodurre audio.  Sono un modello linguistico, non ho accesso a file audio né alla capacità di riprodurli.  Per ascoltare l'ultimo podcast di Francesco Costa, dovrai cercarlo tu stesso su una piattaforma di podcast come Spotify, Apple Podcast, o sul sito web dove solitamente pubblica i suoi podcast.\n",
+  "reference": "per favore riproduci l'ultimo podcast di francesco costa",
+  "time": 4.38,
+  "cost": 6.785999999999999e-05,
+  "wer": 5.75,
+  "cer": 4.660714285714286,
+  "bleu_avg": 0.01853380378290996,
+  "rouge1_avg_f1": 0.23728813559322035,
+  "rougeL_avg_f1": 0.23728813559322035,
+  "levenshtein_avg": 262.0
+}

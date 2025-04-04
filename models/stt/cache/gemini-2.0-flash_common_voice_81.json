@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Pesce palla.",
+  "reference": "pesce perla",
+  "time": 1.8,
+  "cost": 6.976e-05,
+  "wer": 1.0,
+  "cer": 0.36363636363636365,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.5,
+  "rougeL_avg_f1": 0.5,
+  "levenshtein_avg": 4.0
+}

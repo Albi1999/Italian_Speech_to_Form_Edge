@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Puoi prenotarmi un taxi?",
+  "reference": "puoi prenotarmi un taxi",
+  "time": 4.32,
+  "cost": 0.00015926400000000003,
+  "wer": 0.5,
+  "cer": 0.08695652173913043,
+  "bleu_avg": 0.16990442448471224,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "La città è situata nelle Snowy Mountains, nella regione del Nuovo Galles del Sud.",
+  "reference": "la città è situata nelle snowy mountains nella regione del nuovo galles del sud.",
+  "time": 9.756009070294784,
+  "cost": 0.0003546115192743764,
+  "wer": 0.42857142857142855,
+  "cer": 0.0875,
+  "bleu_avg": 0.2658483576665877,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 7.0
+}

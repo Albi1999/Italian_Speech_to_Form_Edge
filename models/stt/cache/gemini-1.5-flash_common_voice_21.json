@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Il quartiere ha diverse aree verdi e una piscina scoperta.\n",
+  "reference": "il quartiere ha diverse aree verdi e una piscina scoperta.",
+  "time": 4.428027210884354,
+  "cost": 5.673632653061225e-05,
+  "wer": 0.1,
+  "cer": 0.017241379310344827,
+  "bleu_avg": 0.8801117367933934,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Infrazione riscontrata: sosta rimozione.\nPosizione: Corso Buenos Aires, civico 18.\nMilano.\nOra: 13:30.\nData: 13/10/2023.\nLuogo: Volkswagen Targa, un'Audi A3 di 17 anni.\nAgente: Maccorgenti \n",
+  "reference": "Infrazione riscontrata: zona rimozione. Posizione: corso Buenos Aires 98, Milano. Ora: 12:00, Data: 10/03/2025. Auto: Volkswagen Golf, targa XY987ZT. Agente: Marco Gentili.",
+  "time": 18.11700680272109,
+  "cost": 0.003758401360544218,
+  "wer": 0.8636363636363636,
+  "cer": 0.3488372093023256,
+  "bleu_avg": 0.03152861344254501,
+  "rouge1_avg_f1": 0.5185185185185185,
+  "rougeL_avg_f1": 0.5185185185185185,
+  "levenshtein_avg": 60.0
+}

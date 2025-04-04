@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Certo, ecco la trascrizione:\nSpiegami la nuova regola del fuorigioco.\n",
+  "reference": "spiegami la nuova regola del fuorigioco",
+  "time": 3.54,
+  "cost": 4.608e-05,
+  "wer": 0.8333333333333334,
+  "cer": 0.7692307692307693,
+  "bleu_avg": 0.2626909894424158,
+  "rouge1_avg_f1": 0.7499999999999999,
+  "rougeL_avg_f1": 0.7499999999999999,
+  "levenshtein_avg": 31.0
+}

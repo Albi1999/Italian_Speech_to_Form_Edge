@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Agente Silvia Neri in servizio. Segnalazione di doppia fila alle mezzanotte e 38 del 6 marzo 2025. In Piazza Venezia, Roma, auto coinvolta, Renault Clio, targa XY987ZT.",
+  "reference": "Agente Silvia Neri in servizio. Segnalazione di doppia fila alle 00:38 del 06/03/2025, in piazza Venezia, Roma. Auto coinvolta: Renault Clio, targa XY987ZT.",
+  "time": 14.152018140589568,
+  "cost": 0.0005145510385487528,
+  "wer": 0.4782608695652174,
+  "cer": 0.17307692307692307,
+  "bleu_avg": 0.4369942407063455,
+  "rouge1_avg_f1": 0.8679245283018868,
+  "rougeL_avg_f1": 0.8679245283018868,
+  "levenshtein_avg": 27.0
+}

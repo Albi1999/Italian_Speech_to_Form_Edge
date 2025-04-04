@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Agente Sara Bellini in servizio. Segnalazione di doppia fila alle ore 13:30 del 30/05 in Corso Buenos Aires, nei pressi di Piazza Milano. Auto coinvolta, Alfa Romeo, targa FU 134.\n",
+  "reference": "Agente Sara Bellini in servizio. Segnalazione di doppia fila alle 04:33 del 30/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Audi A3, targa FG234LM.",
+  "time": 17.283038548752835,
+  "cost": 0.00021699646258503403,
+  "wer": 0.56,
+  "cer": 0.30434782608695654,
+  "bleu_avg": 0.3416384480831194,
+  "rouge1_avg_f1": 0.6666666666666666,
+  "rougeL_avg_f1": 0.6666666666666666,
+  "levenshtein_avg": 50.0
+}

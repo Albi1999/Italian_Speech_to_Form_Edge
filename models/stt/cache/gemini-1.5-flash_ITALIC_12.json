@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Mi serve un biglietto del treno da Bologna a Parma.\n",
+  "reference": "mi serve un biglietto del treno da bologna a parma",
+  "time": 4.56,
+  "cost": 5.831999999999999e-05,
+  "wer": 0.3,
+  "cer": 0.08,
+  "bleu_avg": 0.537284965911771,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 5.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Infrazione riscontrata. Zona rimozione. Posizione: Corso Buenos Aires 98, Milano. Ora: 7:06. Data: 11 marzo 2025. Auto: Volkswagen Golf. Targa: XY 987 ZT. Agente: Marco Gentili.\n",
+  "reference": "Infrazione riscontrata: zona rimozione. Posizione: corso Buenos Aires 98, Milano. Ora: 07:06, Data: 11/03/2025. Auto: Volkswagen Golf, targa XY987ZT. Agente: Marco Gentili.",
+  "time": 21.528027210884353,
+  "cost": 0.00026673632653061223,
+  "wer": 0.5454545454545454,
+  "cer": 0.09883720930232558,
+  "bleu_avg": 0.22354445094404488,
+  "rouge1_avg_f1": 0.8461538461538461,
+  "rougeL_avg_f1": 0.8461538461538461,
+  "levenshtein_avg": 18.0
+}

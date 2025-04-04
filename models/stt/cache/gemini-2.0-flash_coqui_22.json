@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Agente Sara Bellini in servizio. Segnalazione di doppia fila all'altezza del 2025 in Via Napoli 5, Napoli. Auto coinvolta, Maserati One, targa Avoneon 30.",
+  "reference": "Agente Sara Bellini in servizio. Segnalazione di doppia fila alle 08:13 del 12/03/2025, in via Napoli 5, Napoli. Auto coinvolta: BMW Serie 1, targa AB123CD.",
+  "time": 15.619002267573697,
+  "cost": 0.0005649888798185941,
+  "wer": 0.4,
+  "cer": 0.23076923076923078,
+  "bleu_avg": 0.43799831280830026,
+  "rouge1_avg_f1": 0.7547169811320756,
+  "rougeL_avg_f1": 0.7547169811320756,
+  "levenshtein_avg": 36.0
+}

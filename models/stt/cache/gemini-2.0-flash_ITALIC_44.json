@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Sai com'è il tempo?",
+  "reference": "sai com'è il tempo",
+  "time": 1.92,
+  "cost": 7.4784e-05,
+  "wer": 0.5,
+  "cer": 0.1111111111111111,
+  "bleu_avg": 0.16990442448471224,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

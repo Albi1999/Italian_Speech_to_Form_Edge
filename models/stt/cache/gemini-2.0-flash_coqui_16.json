@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "In base all'articolo 1, comma 57, comma 1, la gente sarà Bellini, tra riscontrato un'infrazione in Piazza Venezia, no alle ore 7:10, forchinine del tempio dei tre tempi tempi. Veicolo coinvolto, Pier Panda, targa RM 10.",
+  "reference": "In base al articolo 157, comma 5, l'agente Sara Bellini ha riscontrato un'infrazione in piazza Venezia, Roma alle ore 16:49 del 21/03/2025. Veicolo coinvolto: Fiat Panda, targa TR098YU.",
+  "time": 16.898004535147393,
+  "cost": 0.0006148097596371882,
+  "wer": 0.8214285714285714,
+  "cer": 0.3945945945945946,
+  "bleu_avg": 0.046306023586962085,
+  "rouge1_avg_f1": 0.4999999999999999,
+  "rougeL_avg_f1": 0.4999999999999999,
+  "levenshtein_avg": 73.0
+}

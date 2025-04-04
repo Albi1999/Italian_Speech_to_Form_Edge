@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Infrazione riscontrata: divieto di sosta. Posizione: Via del Corso 12, Roma. Ora: 19:58. Data: 21 marzo 2025. Auto: BMW Serie 1. Targa FG234LM. Agente: Luca Verdi.\n",
+  "reference": "Infrazione riscontrata: divieto di sosta. Posizione: via del Corso 12, Roma. Ora: 19:58, Data: 21/03/2025. Auto: BMW Serie 1, targa FG234LM. Agente: Luca Verdi.",
+  "time": 17.239002267573696,
+  "cost": 0.003587800453514739,
+  "wer": 0.2916666666666667,
+  "cer": 0.06875,
+  "bleu_avg": 0.45924571537645986,
+  "rouge1_avg_f1": 0.9629629629629629,
+  "rougeL_avg_f1": 0.9629629629629629,
+  "levenshtein_avg": 12.0
+}

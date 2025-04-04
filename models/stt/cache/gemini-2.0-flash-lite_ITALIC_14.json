@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Aggiungi un orologio da polso alla lista delle cose da comprare.\n",
+  "reference": "aggiungi un orologio da polso alla lista delle cose da comprare",
+  "time": 4.32,
+  "cost": 5.574e-05,
+  "wer": 0.18181818181818182,
+  "cer": 0.031746031746031744,
+  "bleu_avg": 0.7860753021519787,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

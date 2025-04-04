@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Certo, ecco la trascrizione:\n\"Ciao a tutti, benvenuti al podcast della Disney!\"\n",
+  "reference": "trova l ultimo podcast della disney",
+  "time": 3.12,
+  "cost": 4.164e-05,
+  "wer": 1.5,
+  "cer": 1.4285714285714286,
+  "bleu_avg": 0.03602080288207364,
+  "rouge1_avg_f1": 0.3333333333333333,
+  "rougeL_avg_f1": 0.3333333333333333,
+  "levenshtein_avg": 51.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Fu collaboratore di numerosi giornali, fra cui il Journal de Débats.",
+  "reference": "fu collaboratore di numerosi giornali, fra cui il \"journal des débats\".",
+  "time": 5.796009070294785,
+  "cost": 0.0002140195192743764,
+  "wer": 0.36363636363636365,
+  "cer": 0.08450704225352113,
+  "bleu_avg": 0.5706745777055999,
+  "rouge1_avg_f1": 0.9166666666666666,
+  "rougeL_avg_f1": 0.9166666666666666,
+  "levenshtein_avg": 6.0
+}

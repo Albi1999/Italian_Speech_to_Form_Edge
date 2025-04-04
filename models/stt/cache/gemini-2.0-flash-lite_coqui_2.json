@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Sono l'agente Anna Bianchi. Alle ore 10:00 e 10:00, rilevando infrazione per parcheggio su strisce pedonali in via Milano 10:40. Veicolo, Volkswagen Golf, targa, e 10:40.\n",
+  "reference": "Sono l'agente Anna Bianchi. Alle ore 05:11 del 13/03/2025, ho rilevato un'infrazione per parcheggio su strisce pedonali in via Milano 24, Torino. Veicolo: Volkswagen Golf, targa FG234LM.",
+  "time": 16.54702947845805,
+  "cost": 0.0002069643537414966,
+  "wer": 0.4444444444444444,
+  "cer": 0.21505376344086022,
+  "bleu_avg": 0.446551536444017,
+  "rouge1_avg_f1": 0.634920634920635,
+  "rougeL_avg_f1": 0.634920634920635,
+  "levenshtein_avg": 41.0
+}

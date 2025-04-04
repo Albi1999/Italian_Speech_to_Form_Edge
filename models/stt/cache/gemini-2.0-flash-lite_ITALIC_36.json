@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Ecco le ultime notizie sulle rane:\n",
+  "reference": "quali sono le ultime notizie sulla rai",
+  "time": 2.88,
+  "cost": 3.696e-05,
+  "wer": 0.5714285714285714,
+  "cer": 0.34210526315789475,
+  "bleu_avg": 0.17103294495668978,
+  "rouge1_avg_f1": 0.4615384615384615,
+  "rougeL_avg_f1": 0.4615384615384615,
+  "levenshtein_avg": 14.0
+}

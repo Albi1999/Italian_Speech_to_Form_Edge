@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Infrazione riscontrata accesso vietato. Posizione Via Napoli, Fieve, Napoli. Ora, 1:29, data, 6/3/2025. Auto percorsa targa 3000. Agente Mario Rossi.",
+  "reference": "Infrazione riscontrata: accesso vietato. Posizione: via Napoli 5, Napoli. Ora: 01:29, Data: 16/03/2025. Auto: Opel Corsa, targa TR098YU. Agente: Mario Rossi.",
+  "time": 18.053015873015873,
+  "cost": 0.0006490661587301588,
+  "wer": 0.6666666666666666,
+  "cer": 0.17834394904458598,
+  "bleu_avg": 0.031509464978970315,
+  "rouge1_avg_f1": 0.723404255319149,
+  "rougeL_avg_f1": 0.723404255319149,
+  "levenshtein_avg": 28.0
+}

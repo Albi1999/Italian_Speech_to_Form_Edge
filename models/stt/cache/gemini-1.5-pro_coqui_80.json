@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Incidente ma con gente in servizio. Segnalazione di doppia fila alle ore ventitré e quaranta del trentaquattro/trentatré trentatré trentatré in via Roma settantasette, Palermo. Auto coinvolta, Alfa 147, targa [censura nome degli utenti]",
+  "reference": "Agente Marco Gentili in servizio. Segnalazione di doppia fila alle 11:34 del 24/03/2025, in via Roma 77, Palermo. Auto coinvolta: Audi A3, targa GH789IJ.",
+  "time": 15.459002267573696,
+  "cost": 0.003266800453514739,
+  "wer": 0.7916666666666666,
+  "cer": 0.8104575163398693,
+  "bleu_avg": 0.2355638968135057,
+  "rouge1_avg_f1": 0.49180327868852464,
+  "rougeL_avg_f1": 0.49180327868852464,
+  "levenshtein_avg": 124.0
+}

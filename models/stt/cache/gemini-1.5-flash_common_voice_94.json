@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Giustiniano, confidente nella propria forza basata sui suoi precedenti successi, rispose con ostilità.\n",
+  "reference": "giustiniano, confidente nella propria forza basata sui suoi precedenti successi, rispose con ostilità.",
+  "time": 7.668027210884354,
+  "cost": 9.651632653061225e-05,
+  "wer": 0.07692307692307693,
+  "cer": 0.00980392156862745,
+  "bleu_avg": 0.912167909070388,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

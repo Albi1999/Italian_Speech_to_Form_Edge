@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Inflazione riscontrata, sola rimozione. Posizione, corso Buenos Aires, serenità, via. Ora, terzo, data, tenterei 20 20 fiume. Bovo, borsa Golf, taglia un dell'elite Servens. Agente, ma con genti.",
+  "reference": "Infrazione riscontrata: zona rimozione. Posizione: corso Buenos Aires 98, Milano. Ora: 12:00, Data: 10/03/2025. Auto: Volkswagen Golf, targa XY987ZT. Agente: Marco Gentili.",
+  "time": 18.11700680272109,
+  "cost": 0.0006545186394557823,
+  "wer": 1.0909090909090908,
+  "cer": 0.4883720930232558,
+  "bleu_avg": 0.016891032976324306,
+  "rouge1_avg_f1": 0.3703703703703704,
+  "rougeL_avg_f1": 0.3703703703703704,
+  "levenshtein_avg": 84.0
+}

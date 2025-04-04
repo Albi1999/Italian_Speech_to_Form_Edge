@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Dove ci sono il maggior numero di vulcani sulla Terra?\n",
+  "reference": "dove ci sono il maggior numero di vulcani sulla terra",
+  "time": 3.84,
+  "cost": 0.0008279999999999999,
+  "wer": 0.2,
+  "cer": 0.05660377358490566,
+  "bleu_avg": 0.7598356856515925,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 4.0
+}

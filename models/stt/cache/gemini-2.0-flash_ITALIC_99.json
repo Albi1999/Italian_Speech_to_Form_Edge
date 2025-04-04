@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Manda una mail ad Anna riguardo la riunione su bilancio.",
+  "reference": "manda una mail ad anna riguardo la riunione sul bilancio",
+  "time": 4.44,
+  "cost": 0.000165888,
+  "wer": 0.4,
+  "cer": 0.07142857142857142,
+  "bleu_avg": 0.17567205239427922,
+  "rouge1_avg_f1": 0.9,
+  "rougeL_avg_f1": 0.9,
+  "levenshtein_avg": 4.0
+}

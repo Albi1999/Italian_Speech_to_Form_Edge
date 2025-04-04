@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Durante il pattugliamento in zona Corso Buenos Aires, Ninetti e Ittà, Milano, l'agente Luca Verdi ha rilevato una violazione dell'articolo 7, comma 15. L'auto coinvolta è una Toyota Yaris Star, targa FR 134 alle ore 15:17 del 23/02/2025.\n",
+  "reference": "Durante il pattugliamento in zona corso Buenos Aires 98, Milano, l'agente Luca Verdi ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Toyota Yaris targata FG234LM, alle ore 15:17 del 22/03/2025.",
+  "time": 20.738004535147393,
+  "cost": 0.0043476009070294785,
+  "wer": 0.34285714285714286,
+  "cer": 0.14479638009049775,
+  "bleu_avg": 0.5391477287240959,
+  "rouge1_avg_f1": 0.8048780487804877,
+  "rougeL_avg_f1": 0.8048780487804877,
+  "levenshtein_avg": 33.0
+}

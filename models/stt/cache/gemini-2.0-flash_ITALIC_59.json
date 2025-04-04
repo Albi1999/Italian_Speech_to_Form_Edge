@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Carica la nuova email per Mirko e invia il messaggio ora.",
+  "reference": "carica una nuova email per mirco e invia il messaggio ora",
+  "time": 4.38,
+  "cost": 0.00016417599999999998,
+  "wer": 0.36363636363636365,
+  "cer": 0.10526315789473684,
+  "bleu_avg": 0.33932513407933634,
+  "rouge1_avg_f1": 0.8181818181818182,
+  "rougeL_avg_f1": 0.8181818181818182,
+  "levenshtein_avg": 6.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "In base all'articolo, l'agente Giulia Costa ha riscontrato un'infrazione in via Milano, Torino, alle ore 13:45. Veicolo coinvolto: un'autovettura, targa: 3345.\n",
+  "reference": "In base al articolo 7, comma 15, l'agente Giulia Costa ha riscontrato un'infrazione in via Milano 24, Torino alle ore 12:49 del 04/03/2025. Veicolo coinvolto: BMW Serie 1, targa FG234LM.",
+  "time": 16.354013605442177,
+  "cost": 0.00020314816326530611,
+  "wer": 0.5333333333333333,
+  "cer": 0.2849462365591398,
+  "bleu_avg": 0.2693811899141328,
+  "rouge1_avg_f1": 0.6557377049180327,
+  "rougeL_avg_f1": 0.6557377049180327,
+  "levenshtein_avg": 54.0
+}

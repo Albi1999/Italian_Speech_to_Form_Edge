@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Avvia un dialogo.\n",
+  "reference": "avvia un gioco",
+  "time": 1.62,
+  "cost": 2.094e-05,
+  "wer": 0.6666666666666666,
+  "cer": 0.42857142857142855,
+  "bleu_avg": 0.11362193664674995,
+  "rouge1_avg_f1": 0.6666666666666666,
+  "rougeL_avg_f1": 0.6666666666666666,
+  "levenshtein_avg": 7.0
+}

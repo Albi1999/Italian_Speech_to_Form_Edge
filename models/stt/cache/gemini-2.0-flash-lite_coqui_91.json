@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Il giorno 30 alle 3:30, alle ore 4:40, è stata segnalata un'infrazione per divieto di sosta in corso Buenos Aires in direzione via. Veicolo con il motto, un'autovettura, targa FG 56. Agente, Luca Verdi.\n",
+  "reference": "Il giorno 28/03/2025, alle ore 04:40, è stata segnalata un’infrazione per divieto di sosta in corso Buenos Aires 98, Milano. Veicolo coinvolto: BMW Serie 1, targa CD456EF. Agente: Luca Verdi.",
+  "time": 17.15501133786848,
+  "cost": 0.00021666013605442175,
+  "wer": 0.5,
+  "cer": 0.28272251308900526,
+  "bleu_avg": 0.29098767236032674,
+  "rouge1_avg_f1": 0.6285714285714286,
+  "rougeL_avg_f1": 0.6285714285714286,
+  "levenshtein_avg": 55.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Quali sono le novità di oggi?\n",
+  "reference": "quali sono le novità di oggi",
+  "time": 2.52,
+  "cost": 0.000544,
+  "wer": 0.3333333333333333,
+  "cer": 0.07142857142857142,
+  "bleu_avg": 0.5081327481546147,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

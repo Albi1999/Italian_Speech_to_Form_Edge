@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Sono l'agente Anna Bianchi, alle ore 4:11 del 31 marzo 2025. Ho rilevato un'infrazione per parcheggio su strisce pedonali in via Napoli 5, Napoli. Veicolo: Fiat Panda, targa CD456F.\n",
+  "reference": "Sono l'agente Anna Bianchi. Alle ore 04:11 del 31/03/2025, ho rilevato un'infrazione per parcheggio su strisce pedonali in via Napoli 5, Napoli. Veicolo: Fiat Panda, targa CD456EF.",
+  "time": 18.97301587301587,
+  "cost": 0.003949603174603174,
+  "wer": 0.2962962962962963,
+  "cer": 0.07222222222222222,
+  "bleu_avg": 0.5911564351236676,
+  "rouge1_avg_f1": 0.90625,
+  "rougeL_avg_f1": 0.90625,
+  "levenshtein_avg": 14.0
+}

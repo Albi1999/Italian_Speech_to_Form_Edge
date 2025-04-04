@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "dentro le tre tenti tenti file, ore 17:57, veicolo per corsa, targa, Volemonde le tre tenti teresie, in divieto di sosta presso Piazza Venezia, Roma. Rilevato da agente Anna Bianchi.",
+  "reference": "21/03/2025, ore 08:57: veicolo Opel Corsa, targa AB123CD, in divieto di sosta presso piazza Venezia, Roma. Rilevato da agente Anna Bianchi.",
+  "time": 13.218004535147392,
+  "cost": 0.0004828737596371882,
+  "wer": 0.7619047619047619,
+  "cer": 0.4892086330935252,
+  "bleu_avg": 0.3179303998422513,
+  "rouge1_avg_f1": 0.6545454545454547,
+  "rougeL_avg_f1": 0.6545454545454547,
+  "levenshtein_avg": 68.0
+}

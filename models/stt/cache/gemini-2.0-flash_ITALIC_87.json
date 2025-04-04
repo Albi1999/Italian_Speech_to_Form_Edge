@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Certo, ecco la trascrizione:\n\n\"Questa barzelletta la conosci?\"\n",
+  "reference": "questa barzelletta la conosci",
+  "time": 2.9867120181405897,
+  "cost": 0.00011393226303854875,
+  "wer": 1.5,
+  "cer": 1.1724137931034482,
+  "bleu_avg": 0.05873949094699214,
+  "rouge1_avg_f1": 0.6666666666666666,
+  "rougeL_avg_f1": 0.6666666666666666,
+  "levenshtein_avg": 35.0
+}

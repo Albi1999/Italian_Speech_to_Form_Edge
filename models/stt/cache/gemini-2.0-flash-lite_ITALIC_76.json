@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Ehi Holly, oggi ho incontrato un mio vecchio compagno di classe.\n",
+  "reference": "ehi olly oggi ho incontrato un mio vecchio compagno di classe",
+  "time": 6.0,
+  "cost": 7.59e-05,
+  "wer": 0.2727272727272727,
+  "cer": 0.06557377049180328,
+  "bleu_avg": 0.6786502681586727,
+  "rouge1_avg_f1": 0.9090909090909091,
+  "rougeL_avg_f1": 0.9090909090909091,
+  "levenshtein_avg": 5.0
+}

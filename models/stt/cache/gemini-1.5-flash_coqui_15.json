@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Durante il pattugliamento in zona via Etnea, Forti Fiume, Catania, l'agente Carlo Brunita ha rilevato una violazione dell'articolo 6 comma 15. L'auto coinvolta è una Audi A3 targata BO 123456 alle ore 10:13 del 13/10/2023.\n",
+  "reference": "Durante il pattugliamento in zona via Etnea 45, Catania, l'agente Carlo Bruni ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Audi A3 targata AB123CD, alle ore 12:46 del 11/03/2025.",
+  "time": 18.914013605442175,
+  "cost": 0.00023806816326530614,
+  "wer": 0.3235294117647059,
+  "cer": 0.14832535885167464,
+  "bleu_avg": 0.47962597099367127,
+  "rouge1_avg_f1": 0.717948717948718,
+  "rougeL_avg_f1": 0.717948717948718,
+  "levenshtein_avg": 32.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "In base all'articolo 157, comma 5, l'agente Marco Gentili ha riscontrato un'infrazione in via Roma 77, Palermo, alle ore 17:10 del 13 marzo 2025. Veicolo coinvolto: Volkswagen Golf, targa SG 234 LM.\n",
+  "reference": "In base al articolo 157, comma 5, l'agente Marco Gentili ha riscontrato un'infrazione in via Roma 77, Palermo alle ore 17:10 del 13/03/2025. Veicolo coinvolto: Volkswagen Golf, targa FG234LM.",
+  "time": 21.878004535147394,
+  "cost": 0.0002727360544217687,
+  "wer": 0.3103448275862069,
+  "cer": 0.06806282722513089,
+  "bleu_avg": 0.5832012039914727,
+  "rouge1_avg_f1": 0.8857142857142858,
+  "rougeL_avg_f1": 0.8857142857142858,
+  "levenshtein_avg": 14.0
+}

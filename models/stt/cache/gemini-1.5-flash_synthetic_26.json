@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sono l'agente Silvia Neri, alle ore 00:13 del 24 marzo 2025. Ho rilevato un'infrazione per doppia fila in via Napoli 5. Napoli, veicolo Fiat Panda, targa TR 98 YU.\n",
+  "reference": "Sono l'agente Silvia Neri. Alle ore 00:13 del 24/03/2025, ho rilevato un'infrazione per doppia fila in via Napoli 5, Napoli. Veicolo: Fiat Panda, targa TR098YU.",
+  "time": 15.145986394557823,
+  "cost": 0.0001910518367346939,
+  "wer": 0.48,
+  "cer": 0.10625,
+  "bleu_avg": 0.3634359728549335,
+  "rouge1_avg_f1": 0.9032258064516129,
+  "rougeL_avg_f1": 0.9032258064516129,
+  "levenshtein_avg": 18.0
+}

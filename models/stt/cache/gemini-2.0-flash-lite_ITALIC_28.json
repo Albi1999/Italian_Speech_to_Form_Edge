@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "\"Oltre il cielo\" e \"Il racconto dell'ancella\".",
+  "reference": "olly quali film drammatici debuttano questo fine settimana",
+  "time": 4.26,
+  "cost": 5.3819999999999996e-05,
+  "wer": 1.0,
+  "cer": 0.7931034482758621,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.0,
+  "rougeL_avg_f1": 0.0,
+  "levenshtein_avg": 46.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "In base all'articolone 177, comma 5, l'agente Marco Gentili ha riscontrato un'infrazione in via Napoli 5, Napoli alle ore 13:50 del 33/2025. Veicolo coinvolto, omosessione, targa che 321.",
+  "reference": "In base al articolo 157, comma 5, l'agente Marco Gentili ha riscontrato un'infrazione in via Napoli 5, Napoli alle ore 03:51 del 03/03/2025. Veicolo coinvolto: BMW Serie 1, targa KL321MN.",
+  "time": 18.850022675736962,
+  "cost": 0.0002352002721088435,
+  "wer": 0.36666666666666664,
+  "cer": 0.1443850267379679,
+  "bleu_avg": 0.5172275397531643,
+  "rouge1_avg_f1": 0.7058823529411764,
+  "rougeL_avg_f1": 0.7058823529411764,
+  "levenshtein_avg": 27.0
+}

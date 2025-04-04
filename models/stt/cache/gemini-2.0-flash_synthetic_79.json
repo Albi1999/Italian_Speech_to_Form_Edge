@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "17 marzo 2025, ore 15:18, veicolo Renault Clio, targa ZA 456 QP, in doppia fila presso Via del Corso 12, Roma, rilevato da agente Anna Bianchi.",
+  "reference": "17/03/2025, ore 15:18: veicolo Renault Clio, targa ZA456QP, in doppia fila presso via del Corso 12, Roma. Rilevato da agente Anna Bianchi.",
+  "time": 14.662993197278912,
+  "cost": 0.0005321373605442178,
+  "wer": 0.45454545454545453,
+  "cer": 0.09420289855072464,
+  "bleu_avg": 0.3185810079932843,
+  "rouge1_avg_f1": 0.8846153846153846,
+  "rougeL_avg_f1": 0.8846153846153846,
+  "levenshtein_avg": 13.0
+}

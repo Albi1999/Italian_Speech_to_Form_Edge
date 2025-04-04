@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "In base all'articolo 1157 comma 5, l'agente Luca Verdi ha riscontrato un'infrazione in Via del Corso, 117, Roma, alle ore 12:57 del 22/05/2025. Veicolo coinvolto: Fiat Panda, targa TO 1134 RM.\n",
+  "reference": "In base al articolo 157, comma 5, l'agente Luca Verdi ha riscontrato un'infrazione in via del Corso 12, Roma alle ore 12:50 del 07/03/2025. Veicolo coinvolto: Fiat Panda, targa FG234LM.",
+  "time": 17.76204081632653,
+  "cost": 0.00022304448979591833,
+  "wer": 0.4,
+  "cer": 0.10810810810810811,
+  "bleu_avg": 0.41500397847258536,
+  "rouge1_avg_f1": 0.7777777777777778,
+  "rougeL_avg_f1": 0.7777777777777778,
+  "levenshtein_avg": 21.0
+}

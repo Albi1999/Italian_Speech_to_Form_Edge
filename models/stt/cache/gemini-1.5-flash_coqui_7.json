@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Non ho capito niente, fuori dai denti, fuori, o re, irti, to, beico, ofia, panda, tagliatelle, un dente, o nema, in doppia fila presso via Milano, denti, foro, Torino, rilevato da gente annabbiata.\n",
+  "reference": "01/04/2025, ore 08:32: veicolo Fiat Panda, targa KL321MN, in doppia fila presso via Milano 24, Torino. Rilevato da agente Anna Bianchi.",
+  "time": 12.706031746031746,
+  "cost": 0.00016297238095238094,
+  "wer": 1.3333333333333333,
+  "cer": 0.8,
+  "bleu_avg": 0.11004084238323544,
+  "rouge1_avg_f1": 0.3508771929824562,
+  "rougeL_avg_f1": 0.3508771929824562,
+  "levenshtein_avg": 109.0
+}

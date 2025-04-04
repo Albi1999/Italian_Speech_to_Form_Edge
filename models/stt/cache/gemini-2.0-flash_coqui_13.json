@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Verbale di infrazione redatto dall'agente Marco Gentili. Data 30/03/2025, ora 12:09. Infrazione sosta davanti a passo carrabile. Luogo Via Roma 77 Palermo. Veicolo Renault targato Zaffura 136.",
+  "reference": "Verbale di infrazione redatto dall'agente Marco Gentili. Data: 31/03/2025, ora: 02:09. Infrazione: sosta davanti a passo carrabile. Luogo: via Roma 77, Palermo. Veicolo: Renault Clio, targa ZA456QP.",
+  "time": 19.877006802721088,
+  "cost": 0.0007160706394557822,
+  "wer": 0.4444444444444444,
+  "cer": 0.13636363636363635,
+  "bleu_avg": 0.3615855225145535,
+  "rouge1_avg_f1": 0.8387096774193549,
+  "rougeL_avg_f1": 0.8387096774193549,
+  "levenshtein_avg": 27.0
+}

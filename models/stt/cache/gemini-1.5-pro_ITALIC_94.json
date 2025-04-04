@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Com'è la condizione del traffico al momento?\n",
+  "reference": "com'è la condizione del traffico al momento",
+  "time": 3.36,
+  "cost": 0.000717,
+  "wer": 0.2857142857142857,
+  "cer": 0.046511627906976744,
+  "bleu_avg": 0.6147881529512643,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

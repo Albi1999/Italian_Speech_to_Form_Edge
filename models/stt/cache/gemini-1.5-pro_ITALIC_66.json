@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Holly, riproduci una buona traccia del mio artista jazz preferito.\n",
+  "reference": "olly riproduci una buona traccia del mio artista jazz preferito",
+  "time": 4.8,
+  "cost": 0.0010199999999999999,
+  "wer": 0.2,
+  "cer": 0.047619047619047616,
+  "bleu_avg": 0.7598356856515925,
+  "rouge1_avg_f1": 0.9,
+  "rougeL_avg_f1": 0.9,
+  "levenshtein_avg": 4.0
+}

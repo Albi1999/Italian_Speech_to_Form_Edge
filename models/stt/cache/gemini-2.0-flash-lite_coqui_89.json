@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "In base all'articolo 7, comma 15, l'agente Giulia Costa ha riscontrato un'infrazione in via Garibaldi 11, Firenze, alle ore 4:45 del 2025. Veicolo coinvolto: Volkswagen Golf, targa K311.\n",
+  "reference": "In base al articolo 7, comma 15, l'agente Giulia Costa ha riscontrato un'infrazione in via Garibaldi 11, Firenze alle ore 04:49 del 14/03/2025. Veicolo coinvolto: Volkswagen Golf, targa KL321MN.",
+  "time": 18.466031746031746,
+  "cost": 0.00023059238095238097,
+  "wer": 0.20689655172413793,
+  "cer": 0.07731958762886598,
+  "bleu_avg": 0.5918451601118386,
+  "rouge1_avg_f1": 0.8484848484848485,
+  "rougeL_avg_f1": 0.8484848484848485,
+  "levenshtein_avg": 16.0
+}

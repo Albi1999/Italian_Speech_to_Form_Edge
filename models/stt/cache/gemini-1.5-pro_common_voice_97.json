@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Sentiero Bonacòssa.\n",
+  "reference": "sentiero bonacossa",
+  "time": 3.06,
+  "cost": 0.000632,
+  "wer": 1.0,
+  "cer": 0.2222222222222222,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.4,
+  "rougeL_avg_f1": 0.4,
+  "levenshtein_avg": 5.0
+}

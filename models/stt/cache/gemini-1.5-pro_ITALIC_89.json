@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Suona tutte le playlist.\n",
+  "reference": "suona tutte le playlist",
+  "time": 3.12,
+  "cost": 0.0006540000000000001,
+  "wer": 0.5,
+  "cer": 0.08695652173913043,
+  "bleu_avg": 0.16990442448471224,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

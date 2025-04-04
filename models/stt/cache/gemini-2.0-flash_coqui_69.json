@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "in base all'articolo, con l'onore 57, con la figlia, l'agente Carlo Bruni, ha riscontrato un'infrazione in via, e ne ha forti file, Catania alle ore 20:30 del 3333. Veicolo coinvolto, 3, 3.",
+  "reference": "In base al articolo 157, comma 5, l'agente Carlo Bruni ha riscontrato un'infrazione in via Etnea 45, Catania alle ore 11:39 del 06/03/2025. Veicolo coinvolto: Audi A3, targa FG234LM.",
+  "time": 17.73002267573696,
+  "cost": 0.000642496798185941,
+  "wer": 0.7586206896551724,
+  "cer": 0.3956043956043956,
+  "bleu_avg": 0.12577829595095136,
+  "rouge1_avg_f1": 0.5352112676056339,
+  "rougeL_avg_f1": 0.5352112676056339,
+  "levenshtein_avg": 72.0
+}

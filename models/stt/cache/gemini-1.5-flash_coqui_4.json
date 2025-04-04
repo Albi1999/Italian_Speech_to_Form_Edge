@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Non riesco a trascrivere l'audio perché non mi è stato fornito.  Per favore, forniscimi l'audio in modo che io possa trascriverlo in italiano.\n",
+  "reference": "21/03/2025, ore 08:57: veicolo Opel Corsa, targa AB123CD, in divieto di sosta presso piazza Venezia, Roma. Rilevato da agente Anna Bianchi.",
+  "time": 13.218004535147392,
+  "cost": 0.0001661160544217687,
+  "wer": 1.0952380952380953,
+  "cer": 0.8489208633093526,
+  "bleu_avg": 0.008282282660969604,
+  "rouge1_avg_f1": 0.041666666666666664,
+  "rougeL_avg_f1": 0.041666666666666664,
+  "levenshtein_avg": 119.0
+}

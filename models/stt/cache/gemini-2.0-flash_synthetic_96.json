@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Verbale di infrazione redatto dall'agente Carlo Bruni. Data: 17 marzo 2025. Ora: 14:52. Infrazione: doppia fila. Luogo: Piazza Venezia, Roma. Veicolo: Volkswagen Golf, targa CD 456F.",
+  "reference": "Verbale di infrazione redatto dall'agente Carlo Bruni. Data: 17/03/2025, ora: 14:52. Infrazione: doppia fila. Luogo: piazza Venezia, Roma. Veicolo: Volkswagen Golf, targa CD456EF.",
+  "time": 20.784036281179137,
+  "cost": 0.0007475980770975056,
+  "wer": 0.30434782608695654,
+  "cer": 0.0670391061452514,
+  "bleu_avg": 0.576091046275884,
+  "rouge1_avg_f1": 0.9090909090909091,
+  "rougeL_avg_f1": 0.9090909090909091,
+  "levenshtein_avg": 12.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Durante il pattugliamento in zona Piazza Venezia, Roma, l'agente Marco Gentili ha rilevato una violazione dell'articolo 7, 15. L'auto coinvolta è una Renault Clio targata TR 98 UU alle ore 17:01 del 15 marzo 2025.\n",
+  "reference": "Durante il pattugliamento in zona piazza Venezia, Roma, l'agente Marco Gentili ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Renault Clio targata TR098YU, alle ore 17:01 del 15/03/2025.",
+  "time": 19.056009070294785,
+  "cost": 0.00023977210884353742,
+  "wer": 0.30303030303030304,
+  "cer": 0.08837209302325581,
+  "bleu_avg": 0.5874812720260253,
+  "rouge1_avg_f1": 0.88,
+  "rougeL_avg_f1": 0.88,
+  "levenshtein_avg": 20.0
+}

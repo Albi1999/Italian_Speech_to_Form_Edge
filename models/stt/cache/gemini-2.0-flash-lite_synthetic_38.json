@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Il giorno 6 marzo 2025, alle ore 21:58, è stata segnalata un'infrazione per accesso vietato in via Garibaldi, Firenze. Veicolo coinvolto: Volkswagen Golf, targa FG234LM, al centro, in via.\n",
+  "reference": "Il giorno 06/03/2025, alle ore 21:58, è stata segnalata un’infrazione per accesso vietato in via Garibaldi 11, Firenze. Veicolo coinvolto: Volkswagen Golf, targa FG234LM. Agente: Silvia Neri.",
+  "time": 19.72798185941043,
+  "cost": 0.0002460357823129252,
+  "wer": 0.4074074074074074,
+  "cer": 0.14659685863874344,
+  "bleu_avg": 0.45799274419604485,
+  "rouge1_avg_f1": 0.8000000000000002,
+  "rougeL_avg_f1": 0.8000000000000002,
+  "levenshtein_avg": 29.0
+}

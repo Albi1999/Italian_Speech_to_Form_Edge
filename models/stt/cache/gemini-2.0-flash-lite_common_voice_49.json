@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Entrambi i pezzi sono di Salerno d'amico, Paiuca, taglia pietra.\n",
+  "reference": "entrambi i pezzi sono di salerno-d'amico-pagliuca-tagliapietra.",
+  "time": 5.04,
+  "cost": 6.408e-05,
+  "wer": 1.0,
+  "cer": 0.1746031746031746,
+  "bleu_avg": 0.2626909894424158,
+  "rouge1_avg_f1": 0.761904761904762,
+  "rougeL_avg_f1": 0.761904761904762,
+  "levenshtein_avg": 12.0
+}

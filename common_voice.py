@@ -1,23 +1,24 @@
-from models import (
-    WhisperTiny,
-    WhisperItaDistilled,
-    FasterWhisper,
-    Vosk,
-    Wav2Vec2Grosman,
-    Wav2Vec2Multilingual56,
-    Wav2Vec2DBDMG
-)
-from utils import (
-    load_commonvoice_subset,
-    save_results,
-    STTVisualizer
-)
 from tqdm import tqdm
 import pandas as pd
 import json
 
+from models import (WhisperTiny,
+                    WhisperItaDistilled,
+                    FasterWhisper,
+                    Vosk,
+                    Wav2Vec2Grosman,
+                    Wav2Vec2Multilingual56,
+                    Wav2Vec2DBDMG)
+
+from utils import (DatasetLoader,
+                   save_results,
+                   STTVisualizer)
+
 def common_voice():
-    test_samples = load_commonvoice_subset(max_samples=50)
+    # Initialize DatasetLoader
+    data_loader = DatasetLoader()
+
+    test_samples = data_loader.load_dataset("common_voice", samples_per_dataset=50)
     models = [WhisperTiny(), 
             WhisperItaDistilled(), 
             FasterWhisper(),

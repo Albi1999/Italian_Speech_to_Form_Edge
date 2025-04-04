@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Infrazione riscontrata, parcheggio su strisce pedonali, posizione, Via Etnea 45, Catania, ora, mezzogiorno e 7 minuti, data, 15 marzo 2025, auto, Fiat Panda, targa XY987ZT, agente, Sara Bellini.",
+  "reference": "Infrazione riscontrata: parcheggio su strisce pedonali. Posizione: via Etnea 45, Catania. Ora: 12:07, Data: 15/03/2025. Auto: Fiat Panda, targa XY987ZT. Agente: Sara Bellini.",
+  "time": 18.326984126984126,
+  "cost": 0.0006619098412698411,
+  "wer": 0.7391304347826086,
+  "cer": 0.25287356321839083,
+  "bleu_avg": 0.07199207558309186,
+  "rouge1_avg_f1": 0.8518518518518519,
+  "rougeL_avg_f1": 0.8518518518518519,
+  "levenshtein_avg": 44.0
+}

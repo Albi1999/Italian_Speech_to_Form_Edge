@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Controlla email da Stefano.\n",
+  "reference": "controlla email da stefano",
+  "time": 2.88,
+  "cost": 0.000606,
+  "wer": 0.5,
+  "cer": 0.11538461538461539,
+  "bleu_avg": 0.16990442448471224,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 4.0
+}

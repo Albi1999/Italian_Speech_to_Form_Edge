@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Il giorno 4/10/2025 alle ore 14:05 è stata segnalata un'infrazione per doppia fila in Piazza Venezia, Roma. Veicolo coinvolto Fiat Panda, targa ZF4013FK. Agente Sara Bellini.\n",
+  "reference": "Il giorno 14/03/2025, alle ore 14:05, è stata segnalata un’infrazione per doppia fila in piazza Venezia, Roma. Veicolo coinvolto: Fiat Panda, targa ZA456QP. Agente: Sara Bellini.",
+  "time": 16.931020408163267,
+  "cost": 0.0002115722448979592,
+  "wer": 0.2692307692307692,
+  "cer": 0.08426966292134831,
+  "bleu_avg": 0.23741770591948552,
+  "rouge1_avg_f1": 0.896551724137931,
+  "rougeL_avg_f1": 0.896551724137931,
+  "levenshtein_avg": 16.0
+}

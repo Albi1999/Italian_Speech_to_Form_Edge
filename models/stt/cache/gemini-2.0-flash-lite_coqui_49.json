@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Verbale di infrazione redatto dall'agente Marco Gentili. Data 10/02/2025 ore 9:09. Infrazione doppia fila. Luogo Piazza Venezia, Roma. Veicolo Volkswagen Golf, targa F3434.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Marco Gentili. Data: 15/03/2025, ora: 19:01. Infrazione: doppia fila. Luogo: piazza Venezia, Roma. Veicolo: Volkswagen Golf, targa FG234LM.",
+  "time": 18.40503401360544,
+  "cost": 0.00022836040816326527,
+  "wer": 0.391304347826087,
+  "cer": 0.08839779005524862,
+  "bleu_avg": 0.35459684529390034,
+  "rouge1_avg_f1": 0.7777777777777778,
+  "rougeL_avg_f1": 0.7777777777777778,
+  "levenshtein_avg": 17.0
+}

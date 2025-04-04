@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "In base all'articolo 175 comma 5, l'agente Anna Bianchi ha riscontrato un'infrazione in corso Buenos Aires, n. 88, Milano, alle ore 18:16 del 4/12/2025. Veicolo coinvolto: Altea Tarraco, targa AV132HRC.\n",
+  "reference": "In base al articolo 157, comma 5, l'agente Anna Bianchi ha riscontrato un'infrazione in corso Buenos Aires 98, Milano alle ore 13:06 del 04/03/2025. Veicolo coinvolto: Audi A3, targa AB123CD.",
+  "time": 19.906031746031747,
+  "cost": 0.004141206349206349,
+  "wer": 0.4,
+  "cer": 0.16230366492146597,
+  "bleu_avg": 0.4055058280422296,
+  "rouge1_avg_f1": 0.7042253521126761,
+  "rougeL_avg_f1": 0.7042253521126761,
+  "levenshtein_avg": 32.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "gente Luca Verdi in servizio. Segnalazione di zona rimozione all'incrocio del 500 e 30 30 30, in via Milano 24, fuori. Auto coinvolta, via 3, targa 56.\n",
+  "reference": "Agente Luca Verdi in servizio. Segnalazione di zona rimozione alle 19:31 del 15/03/2025, in via Milano 24, Torino. Auto coinvolta: Audi A3, targa CD456EF.",
+  "time": 14.819002267573696,
+  "cost": 0.00018652802721088436,
+  "wer": 0.5416666666666666,
+  "cer": 0.23376623376623376,
+  "bleu_avg": 0.3615855225145535,
+  "rouge1_avg_f1": 0.6181818181818182,
+  "rougeL_avg_f1": 0.6181818181818182,
+  "levenshtein_avg": 37.0
+}

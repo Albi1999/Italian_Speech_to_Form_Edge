@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Agente Mario Rossi in servizio. Segnalazione di sosta davanti a passo carrabile alle 15:27 del 15 marzo 2025. In Via Garibaldi 11, Firenze, auto coinvolta, BMW Serie 1, targa KL321 mega Newton.",
+  "reference": "Agente Mario Rossi in servizio. Segnalazione di sosta davanti a passo carrabile alle 15:27 del 15/03/2025, in via Garibaldi 11, Firenze. Auto coinvolta: BMW Serie 1, targa KL321MN.",
+  "time": 19.2,
+  "cost": 0.0006942399999999999,
+  "wer": 0.39285714285714285,
+  "cer": 0.13333333333333333,
+  "bleu_avg": 0.540597299143332,
+  "rouge1_avg_f1": 0.90625,
+  "rougeL_avg_f1": 0.90625,
+  "levenshtein_avg": 24.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "La Semple studiò al Vassar College e frequentò l'Università di Lipsia.\n",
+  "reference": "la semple studiò al vassar college e frequentò l'università di lipsia.",
+  "time": 5.4360090702947845,
+  "cost": 0.001152201814058957,
+  "wer": 0.5454545454545454,
+  "cer": 0.08571428571428572,
+  "bleu_avg": 0.059609942732681,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 7.0
+}

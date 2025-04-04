@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Come stai oggi?  P...p...\n",
+  "reference": "come stai oggi",
+  "time": 1.62,
+  "cost": 2.124e-05,
+  "wer": 1.0,
+  "cer": 0.8571428571428571,
+  "bleu_avg": 0.08034284189446518,
+  "rouge1_avg_f1": 0.7499999999999999,
+  "rougeL_avg_f1": 0.7499999999999999,
+  "levenshtein_avg": 13.0
+}

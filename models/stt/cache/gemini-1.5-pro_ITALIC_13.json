@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Per favore, aggiungi arance alla mia lista della spesa.\n",
+  "reference": "per favore aggiungi arance alla mia lista della spesa",
+  "time": 4.5,
+  "cost": 0.0009550000000000001,
+  "wer": 0.3333333333333333,
+  "cer": 0.05660377358490566,
+  "bleu_avg": 0.5873949094699213,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 4.0
+}

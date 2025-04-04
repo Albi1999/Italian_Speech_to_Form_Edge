@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Agente, sarà Bellini in servizio. Segnalazione di divieto di sosta per le 15:00, 20:00, 20:00, in corso, uno si è esiliati e via. Auto coinvolta, Volkswagen, taglia le onde degli eventi.",
+  "reference": "Agente Sara Bellini in servizio. Segnalazione di divieto di sosta alle 07:52 del 25/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Volkswagen Golf, targa XY987ZT.",
+  "time": 16.931020408163267,
+  "cost": 0.0002130722448979592,
+  "wer": 0.8076923076923077,
+  "cer": 0.39655172413793105,
+  "bleu_avg": 0.22963869978965587,
+  "rouge1_avg_f1": 0.45161290322580644,
+  "rougeL_avg_f1": 0.45161290322580644,
+  "levenshtein_avg": 69.0
+}

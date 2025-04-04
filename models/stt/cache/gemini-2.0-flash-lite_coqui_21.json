@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "28/02/2020, ore 10:11, veicolo bomb, serie A, targa, Honda, in sosta davanti a passo carrabile presso corso Buenos Aires, Ninetti e Ita, Milano. Rilevato da agente Anna Bianchi.\n",
+  "reference": "28/03/2025, ore 10:11: veicolo BMW Serie 1, targa FG234LM, in sosta davanti a passo carrabile presso corso Buenos Aires 98, Milano. Rilevato da agente Anna Bianchi.",
+  "time": 16.898004535147393,
+  "cost": 0.00021177605442176874,
+  "wer": 0.4230769230769231,
+  "cer": 0.1951219512195122,
+  "bleu_avg": 0.4593546097889176,
+  "rouge1_avg_f1": 0.7666666666666667,
+  "rougeL_avg_f1": 0.7666666666666667,
+  "levenshtein_avg": 33.0
+}

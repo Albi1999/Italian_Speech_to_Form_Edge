@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Direttore Albana Malerba.\nPI",
+  "reference": "direttore: albina malerba.",
+  "time": 3.4560090702947845,
+  "cost": 0.0007212018140589569,
+  "wer": 1.0,
+  "cer": 0.3076923076923077,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.5714285714285715,
+  "rougeL_avg_f1": 0.5714285714285715,
+  "levenshtein_avg": 8.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Durante il pattugliamento in zona Piazza Venezia, Roma, l'agente Luca Verdi ha rilevato una violazione dell'articolo 158, comma 2. L'auto coinvolta è una Audi, targata con 456, alle ore 13:54 del 30/03/2025.\n",
+  "reference": "Durante il pattugliamento in zona piazza Venezia, Roma, l'agente Luca Verdi ha rilevato una violazione del articolo 158, comma 2. L'auto coinvolta è una Audi A3 targata CD456EF, alle ore 03:54 del 14/03/2025.",
+  "time": 19.36204081632653,
+  "cost": 0.00024254448979591837,
+  "wer": 0.2727272727272727,
+  "cer": 0.07211538461538461,
+  "bleu_avg": 0.5437660574883798,
+  "rouge1_avg_f1": 0.8648648648648649,
+  "rougeL_avg_f1": 0.8648648648648649,
+  "levenshtein_avg": 16.0
+}

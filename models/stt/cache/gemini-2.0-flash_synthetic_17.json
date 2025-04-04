@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Infrazione riscontrata, accesso vietato, posizione, Piazza Venezia, Roma, ora, mezzogiorno e 54, data, 4 marzo 2025, auto, Opel Corsa, targa XY 967 Z, agente, Marco Gentili.",
+  "reference": "Infrazione riscontrata: accesso vietato. Posizione: piazza Venezia, Roma. Ora: 12:54, Data: 04/03/2025. Auto: Opel Corsa, targa XY987ZT. Agente: Marco Gentili.",
+  "time": 17.1,
+  "cost": 0.00061792,
+  "wer": 0.9,
+  "cer": 0.2641509433962264,
+  "bleu_avg": 0.05085570764977474,
+  "rouge1_avg_f1": 0.7755102040816326,
+  "rougeL_avg_f1": 0.7755102040816326,
+  "levenshtein_avg": 42.0
+}

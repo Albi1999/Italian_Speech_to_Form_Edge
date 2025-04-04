@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Sono l'agente Marco Genti. Alle ore 20:00 del 20/20/2020, ho rilevato un'infrazione per divieto di sosta in Via del Corso, Roma. Veicolo, Fiat Panda, targa RN 111111.",
+  "reference": "Sono l'agente Marco Gentili. Alle ore 20:41 del 05/03/2025, ho rilevato un'infrazione per divieto di sosta in via del Corso 12, Roma. Veicolo: Fiat Panda, targa XY987ZT.",
+  "time": 15.39501133786848,
+  "cost": 0.0005583043990929705,
+  "wer": 0.3333333333333333,
+  "cer": 0.13609467455621302,
+  "bleu_avg": 0.38359825152812527,
+  "rouge1_avg_f1": 0.78125,
+  "rougeL_avg_f1": 0.78125,
+  "levenshtein_avg": 23.0
+}

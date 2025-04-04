@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Fu insegnante di lettere a Salò e forse a Brescia.\n",
+  "reference": "fu insegnante di lettere a salò e forse a brescia.",
+  "time": 5.22,
+  "cost": 0.001104,
+  "wer": 0.3,
+  "cer": 0.06,
+  "bleu_avg": 0.37991784282579627,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 4.0
+}

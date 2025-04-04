@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Certo, ecco la trascrizione: Riproduci un po' di musica jazz.\n",
+  "reference": "riproduci un po' di musica jazz",
+  "time": 3.36,
+  "cost": 4.391999999999999e-05,
+  "wer": 1.0,
+  "cer": 0.967741935483871,
+  "bleu_avg": 0.2626909894424158,
+  "rouge1_avg_f1": 0.7499999999999999,
+  "rougeL_avg_f1": 0.7499999999999999,
+  "levenshtein_avg": 31.0
+}

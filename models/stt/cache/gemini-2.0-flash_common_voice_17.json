@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Giuseppe Guarino.",
+  "reference": "giuseppe guarino",
+  "time": 2.304036281179138,
+  "cost": 8.750207709750566e-05,
+  "wer": 1.0,
+  "cer": 0.1875,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

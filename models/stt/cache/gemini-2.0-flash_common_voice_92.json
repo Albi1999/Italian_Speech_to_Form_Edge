@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Angel Lozano.",
+  "reference": "ángel lozano",
+  "time": 2.9160090702947845,
+  "cost": 0.00010904351927437641,
+  "wer": 1.0,
+  "cer": 0.25,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.5,
+  "rougeL_avg_f1": 0.5,
+  "levenshtein_avg": 3.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "In base all'articolo 6, comma 1, lettera N, l'agente Silvia Nerica ha riscontrato un'infrazione in corso, buio e si è reso inetti per età. Erano alle ore 3:00, il fiore del tirchio ore 3:30. Veicolo coinvolto, era un foglio, targa 1356.",
+  "reference": "In base al articolo 7, comma 15, l'agente Silvia Neri ha riscontrato un'infrazione in corso Buenos Aires 98, Milano alle ore 03:31 del 31/03/2025. Veicolo coinvolto: Renault Clio, targa CD456EF.",
+  "time": 17.506031746031745,
+  "cost": 0.0006382123174603175,
+  "wer": 0.9333333333333333,
+  "cer": 0.4484536082474227,
+  "bleu_avg": 0.09118099089300939,
+  "rouge1_avg_f1": 0.47500000000000003,
+  "rougeL_avg_f1": 0.47500000000000003,
+  "levenshtein_avg": 87.0
+}

@@ -1,101 +1,101 @@
 model,text,reference,time,wer,cer,bleu_avg,rouge1_avg_f1,rougeL_avg_f1,levenshtein_avg
-Vosk STT (Small IT),segna il prossimo lunedì,segna il prossimo lunedì,0.18265390396118164,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),riproduce la lista delle mie canzoni piu ascoltate,riproduci la lista delle mie canzoni più ascoltate,0.24520349502563477,0.25,0.04,0.5410822690539396,0.75,0.75,2.0
-Vosk STT (Small IT),di sativa la sveglia delle quindi,disattiva la sveglia delle quindici,0.20975232124328613,0.6,0.11428571428571428,0.20205155046766235,0.5454545454545454,0.5454545454545454,4.0
-Vosk STT (Small IT),cancella sveglia,cancella sveglia,0.14429116249084473,0.0,0.0,0.316227766016838,1.0,1.0,0.0
-Vosk STT (Small IT),ricorda mi i miei impegni del pomeriggio,ricordami i miei impegni del pomeriggio,0.2155454158782959,0.3333333333333333,0.02564102564102564,0.6147881529512643,0.7692307692307692,0.7692307692307692,1.0
-Vosk STT (Small IT),metti in pausa il libro,metti in pausa il libro,0.17750024795532227,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),ehi puoi abbassare le luci per,ehi puoi abbassare le luci per favore,0.1635279655456543,0.14285714285714285,0.1891891891891892,0.846481724890614,0.923076923076923,0.923076923076923,7.0
-Vosk STT (Small IT),quando pasqua nell'anno duemila di,quand'è pasqua nell'anno duemiladiciotto,0.23342061042785645,0.75,0.225,0.11362193664674995,0.5454545454545454,0.5454545454545454,9.0
-Vosk STT (Small IT),parla più forte,parla più forte,0.14180731773376465,0.0,0.0,0.5623413251903491,1.0,1.0,0.0
-Vosk STT (Small IT),come si fa il tacchino,come si fa il tacchino,0.20168757438659668,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),per favore scrivi una nuova e mail un collega,per favore scrivi una nuova email a un collega,0.2923107147216797,0.2222222222222222,0.06521739130434782,0.5133450480401704,0.7777777777777778,0.7777777777777778,3.0
-Vosk STT (Small IT),quando comincia ufficialmente la fasi a eliminazione diretta della champions,quando comincia ufficialmente la fase a eliminazione diretta della champions league,0.35156750679016113,0.18181818181818182,0.0963855421686747,0.5954165059120786,0.8571428571428572,0.8571428571428572,8.0
-Vosk STT (Small IT),mi serve un biglietto del treno da cologna a parte,mi serve un biglietto del treno da bologna a parma,0.26479601860046387,0.2,0.06,0.6606328636027614,0.8000000000000002,0.8000000000000002,3.0
-Vosk STT (Small IT),per favore aggiunge arance alla mia lista della spesa,per favore aggiungi arance alla mia lista della spesa,0.255079984664917,0.1111111111111111,0.018867924528301886,0.6606328636027614,0.8888888888888888,0.8888888888888888,1.0
-Vosk STT (Small IT),aggiungere orologio da polso alla lista delle cose da comprare,aggiungi un orologio da polso alla lista delle cose da comprare,0.3119535446166992,0.18181818181818182,0.06349206349206349,0.7963580315032781,0.8571428571428572,0.8571428571428572,4.0
-Vosk STT (Small IT),per favore riproduce l'ultimo può del cast di francesco cosa,per favore riproduci l'ultimo podcast di francesco costa,0.3011786937713623,0.625,0.14285714285714285,0.06674094719041482,0.6,0.6,8.0
-Vosk STT (Small IT),quanto devo coach una visite cappotto,quanto devo cuocere una bistecca a cottura media,0.23006701469421387,0.625,0.4375,0.06846046760764757,0.42857142857142855,0.42857142857142855,21.0
-Vosk STT (Small IT),e come sarà il tempo oggi a milano lombardia,ehi come sarà il tempo oggi a milano lombardia,0.25007009506225586,0.1111111111111111,0.043478260869565216,0.8633400213704505,0.8888888888888888,0.8888888888888888,2.0
-Vosk STT (Small IT),riesco a mala pena a sentirti,riesco a malapena a sentirti,0.1839160919189453,0.4,0.03571428571428571,0.12209471671615688,0.7272727272727272,0.7272727272727272,1.0
-Vosk STT (Small IT),qual è il coraggio piu vicino,qual è il conad più vicino,0.18819379806518555,0.3333333333333333,0.23076923076923078,0.21711852081087685,0.6,0.6,6.0
-Vosk STT (Small IT),chi è il direttore musicale di questo brano,chi è il direttore musicale di questo brano,0.2535066604614258,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),quali sono le novità di oggi,quali sono le novità di oggi,0.18688011169433594,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),nuova sveglia per le sei di matt,nuova sveglia per le sei di mattina,0.19718313217163086,0.14285714285714285,0.08571428571428572,0.8091067115702212,0.8571428571428571,0.8571428571428571,3.0
-Vosk STT (Small IT),cosa c'è dentro arthur dhabi bosa,cosa c'è dentro la torta mimosa,0.32096076011657715,0.5,0.3548387096774194,0.20205155046766235,0.5,0.5,11.0
-Vosk STT (Small IT),poi solo prossimo sezione,passa alla prossima sezione,0.22922635078430176,0.75,0.2962962962962963,0.08034284189446518,0.25,0.25,8.0
-Vosk STT (Small IT),cerca informazioni john,cerca informazioni online,0.17218756675720215,0.3333333333333333,0.2,0.24028114141347542,0.6666666666666666,0.6666666666666666,5.0
-Vosk STT (Small IT),cancella l'incontro di domani,cancella l'incontro di domani dal mio calendario,0.2683744430541992,0.42857142857142855,0.3958333333333333,0.4723665527410147,0.7692307692307693,0.7692307692307693,19.0
-Vosk STT (Small IT),si ricca data e oggi,siri che data è oggi,0.19108819961547852,0.6,0.25,0.06389431042462725,0.4444444444444445,0.4444444444444445,5.0
-Vosk STT (Small IT),o li quali film drammatici debuttano questo fine settimana,olly quali film drammatici debuttano questo fine settimana,0.2797973155975342,0.25,0.034482758620689655,0.7259795291154771,0.823529411764706,0.823529411764706,2.0
-Vosk STT (Small IT),puoi prenotarli in taxi,puoi prenotarmi un taxi,0.20820403099060059,0.5,0.08695652173913043,0.09554427922043669,0.5,0.5,2.0
-Vosk STT (Small IT),controlla i miei il test,controlla email da stefano,0.21764183044433594,1.0,0.46153846153846156,0.05372849659117709,0.22222222222222224,0.22222222222222224,12.0
-Vosk STT (Small IT),aggiunge questo brano al prossimo bran e riproduzione,aggiungi questo brano al prossimo brano in riproduzione,0.24356842041015625,0.375,0.07272727272727272,0.3655552228545123,0.625,0.625,4.0
-Vosk STT (Small IT),che ora solo a milano adesso,che ore sono a milano adesso,0.19752264022827148,0.3333333333333333,0.07142857142857142,0.21711852081087685,0.6666666666666666,0.6666666666666666,2.0
-Vosk STT (Small IT),ehi che ore sono a roma adesso,ehi che ore sono a roma adesso,0.18778157234191895,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),qual è l'oggetto dell'ultima di mamma,qual è l'oggetto dell'ultima email di mamma,0.22448205947875977,0.14285714285714285,0.13953488372093023,0.5115078115793242,0.9333333333333333,0.9333333333333333,6.0
-Vosk STT (Small IT),fammi una tazza di caffè con panna il caramelle sala,fammi una tazza di caffè con panna al caramello salato,0.27327966690063477,0.3,0.07407407407407407,0.6389431042462724,0.7,0.7,4.0
-Vosk STT (Small IT),quali sono le ultime notizie sul,quali sono le ultime notizie sulla rai,0.20943117141723633,0.2857142857142857,0.15789473684210525,0.6431870218238024,0.7692307692307692,0.7692307692307692,6.0
-Vosk STT (Small IT),rimuove questa lista dalle altre,rimuovi questa lista dalle altre,0.22216176986694336,0.2,0.03125,0.668740304976422,0.8000000000000002,0.8000000000000002,1.0
-Vosk STT (Small IT),che tempo fa padova,che tempo fa a padova,0.19292259216308594,0.2,0.09523809523809523,0.3327714551776235,0.888888888888889,0.888888888888889,2.0
-Vosk STT (Small IT),mostrava lista delle me recenti,mostra la lista delle email recenti,0.22719693183898926,0.5,0.17142857142857143,0.10294994188297393,0.5454545454545454,0.5454545454545454,6.0
-Vosk STT (Small IT),ho una sveglia impostata per domani mattina,ho una sveglia impostata per domani mattina,0.21849608421325684,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),avrò bisogno di spalare il mio via letto questa ma,avrò bisogno di spalare il mio vialetto questa mattina,0.24019312858581543,0.3333333333333333,0.1111111111111111,0.537284965911771,0.7368421052631577,0.7368421052631577,6.0
-Vosk STT (Small IT),mostra i dettagli geografici delle piramidi,mostra i dettagli geografici delle piramidi,0.21721339225769043,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),di riproduce canzoni di me,riproduci canzoni di mina,0.17883944511413574,0.75,0.28,0.11362193664674995,0.4444444444444445,0.4444444444444445,7.0
-Vosk STT (Small IT),sai com'e il tempo,sai com'è il tempo,0.13669180870056152,0.25,0.05555555555555555,0.1880301546543197,0.888888888888889,0.888888888888889,1.0
-Vosk STT (Small IT),riproduce un po di musica jets,riproduci un po' di musica jazz,0.2490086555480957,0.5,0.16129032258064516,0.09554427922043669,0.6666666666666666,0.6666666666666666,5.0
-Vosk STT (Small IT),in dio nemmen sette in punto,invia una email a giuseppe chiocciola gmail punto com,0.38784146308898926,0.8888888888888888,0.660377358490566,0.024761510494160165,0.13333333333333333,0.13333333333333333,35.0
-Vosk STT (Small IT),imposta quest'evento come ricorrente sul mio calendar,imposta questo evento come ricorrente sul mio calendario,0.28185033798217773,0.375,0.07142857142857142,0.3768499164492419,0.75,0.75,4.0
-Vosk STT (Small IT),che giorno della settimana è il primo di aprile,che giorno della settimana è il primo di aprile,0.265810489654541,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),come stai oggi,come stai oggi,0.1571187973022461,0.0,0.0,0.5623413251903491,1.0,1.0,0.0
-Vosk STT (Small IT),oggi cos'è la cosa piu cercata su google,oggi cos'è la cosa più cercata su google,0.2622358798980713,0.125,0.025,0.5,0.875,0.875,1.0
-Vosk STT (Small IT),nel mio calendario rimuove tutti gli eventi di calcio del mese corrente,nel mio calendario rimuovi tutti gli eventi di calcio del mese corrente,0.35692620277404785,0.08333333333333333,0.014084507042253521,0.7348889200874658,0.9166666666666666,0.9166666666666666,1.0
-Vosk STT (Small IT),solo la mia colonna sonora,suona la mia colonna sonora,0.20464253425598145,0.2,0.1111111111111111,0.668740304976422,0.8000000000000002,0.8000000000000002,3.0
-Vosk STT (Small IT),la città è piu economico piu costosa per,la città è più economica o più costosa per vivere,0.283536434173584,0.5,0.22448979591836735,0.1346238089016021,0.5,0.5,11.0
-Vosk STT (Small IT),atri latte della musica introdurci una canzone,apri l'app della musica e riproduci una canzone,0.2828094959259033,0.5,0.23404255319148937,0.08563683466425753,0.5,0.5,11.0
-Vosk STT (Small IT),ricette per preparare un pasto,ricette per preparare un pasto,0.20673036575317383,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),avra bisogno dei miei stivali da neve questo pomeriggio,avrò bisogno dei miei stivali da neve questo pomeriggio,0.29542112350463867,0.1111111111111111,0.01818181818181818,0.8633400213704505,0.8888888888888888,0.8888888888888888,1.0
-Vosk STT (Small IT),mando un'email,manda un'email a carla,0.1562647819519043,0.75,0.4090909090909091,0.05501080739920602,0.5,0.5,9.0
-Vosk STT (Small IT),a una lista della spesa pronto,ho una lista della spesa pronta,0.2116701602935791,0.3333333333333333,0.0967741935483871,0.5081327481546147,0.6666666666666666,0.6666666666666666,3.0
-Vosk STT (Small IT),carica la nuove meglio per mirco invia il messaggio,carica una nuova email per mirco e invia il messaggio ora,0.426802396774292,0.45454545454545453,0.22807017543859648,0.12507277759788113,0.6,0.6,13.0
-Vosk STT (Small IT),per favore via le canzoni acquistate e aggiungere tra i preferiti,per favore avvia le canzoni acquistate e aggiungile tra i preferiti,0.33104968070983887,0.18181818181818182,0.05970149253731343,0.37817904276524744,0.8181818181818182,0.8181818181818182,4.0
-Vosk STT (Small IT),silenzio per due ore,silenzia per due ore,0.15160655975341797,0.25,0.05,0.3976353643835253,0.75,0.75,1.0
-Vosk STT (Small IT),che svegli e ho impostato,che sveglie ho impostato,0.17803645133972168,0.5,0.041666666666666664,0.12574334296829354,0.888888888888889,0.888888888888889,1.0
-Vosk STT (Small IT),spiegabile nuova regola del fuori gioco,spiegami la nuova regola del fuorigioco,0.2411508560180664,0.6666666666666666,0.10256410256410256,0.20205155046766235,0.5,0.5,4.0
-Vosk STT (Small IT),a viaggio,avvia giochi,0.14614415168762207,1.0,0.4166666666666667,0.0,0.0,0.0,5.0
-Vosk STT (Small IT),dimmi alcuni dei migliori posti turistici nick,dimmi alcuni dei migliori posti turistici in italia,0.2865169048309326,0.25,0.13725490196078433,0.7013967267997694,0.7999999999999999,0.7999999999999999,7.0
-Vosk STT (Small IT),holding produce una buona traccia del mio sta gesto,olly riproduci una buona traccia del mio artista jazz preferito,0.3730494976043701,0.5,0.3492063492063492,0.39938791763778786,0.5263157894736842,0.5263157894736842,22.0
-Vosk STT (Small IT),mia mamma me la te,invia a mamma una email adesso,0.2686269283294678,0.8333333333333334,0.5666666666666667,0.0439891724758422,0.1818181818181818,0.1818181818181818,17.0
-Vosk STT (Small IT),informazioni sul meteo di questa se,informazioni sul meteo di questa settimana,0.21560192108154297,0.16666666666666666,0.16666666666666666,0.7598356856515925,0.8333333333333334,0.8333333333333334,7.0
-Vosk STT (Small IT),spegnere la luce nel chapas,spegni la luce nel capanno,0.15462946891784668,0.4,0.2692307692307692,0.26591479484724945,0.6,0.6,7.0
-Vosk STT (Small IT),traffico sulla sta,traffico sulla strada,0.13295269012451172,0.3333333333333333,0.14285714285714285,0.24028114141347542,0.6666666666666666,0.6666666666666666,3.0
-Vosk STT (Small IT),vai su contatti e inserisce nuova indirizzo email,vai su contatti e inserisci un nuovo indirizzo email,0.2605435848236084,0.3333333333333333,0.09615384615384616,0.3628241434631103,0.7058823529411765,0.7058823529411765,5.0
-Vosk STT (Small IT),per favore inserisce il mio nome indirizzo in me nel contatto,per favore inserisci il mio nuovo indirizzo email nel contatto,0.48261570930480957,0.4,0.14516129032258066,0.07175852914772135,0.6666666666666666,0.6666666666666666,9.0
-Vosk STT (Small IT),trova l'ultimo può ad cast della disney,trova l ultimo podcast della disney,0.2877829074859619,0.6666666666666666,0.17142857142857143,0.07730551756939454,0.7142857142857143,0.7142857142857143,6.0
-Vosk STT (Small IT),avvia la riprensione odio di tuoi l'aids di nuovo,avvia la riproduzione audio di twilight di nuovo,0.2865023612976074,0.5,0.2916666666666667,0.07583235673413397,0.5555555555555556,0.5555555555555556,14.0
-Vosk STT (Small IT),panel cambio euro dollaro adesso,qual è il cambio euro dollaro adesso,0.2609696388244629,0.42857142857142855,0.19444444444444445,0.4482700320176827,0.7272727272727272,0.7272727272727272,7.0
-Vosk STT (Small IT),holly oggi ho incontrato un mio vecchio compagno di classe,ehi olly oggi ho incontrato un mio vecchio compagno di classe,0.3296787738800049,0.18181818181818182,0.04918032786885246,0.7963580315032781,0.8571428571428572,0.8571428571428572,3.0
-Vosk STT (Small IT),abbia un gioco,avvia un gioco,0.14893627166748047,0.3333333333333333,0.14285714285714285,0.24028114141347542,0.6666666666666666,0.6666666666666666,2.0
-Vosk STT (Small IT),che giorno è oggi,che giorno è oggi,0.1604137420654297,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),non promosso oggi che bellezza,mi hanno promosso oggi che bellezza,0.29079508781433105,0.3333333333333333,0.2,0.5475182535069453,0.7272727272727272,0.7272727272727272,7.0
-Vosk STT (Small IT),cancelli il primo elemento nella lista,cancella il primo elemento nella lista,0.24257707595825195,0.16666666666666666,0.02631578947368421,0.7598356856515925,0.8333333333333334,0.8333333333333334,1.0
-Vosk STT (Small IT),alex ha avuto i soldi premesse quanto possa spendere ogni giorno questo mese,alexa ho avuto i soldi per il mese quanto posso spendere ogni giorno questo mese,0.4149289131164551,0.4,0.1125,0.34152860179730143,0.6428571428571429,0.6428571428571429,9.0
-Vosk STT (Small IT),quale università hai frequentato laura boldrini,quale università ha frequentato laura boldrini,0.26564955711364746,0.16666666666666666,0.021739130434782608,0.25406637407730737,0.8333333333333334,0.8333333333333334,1.0
-Vosk STT (Small IT),puoi farmi un caffè per favore,puoi farmi un caffè per favore,0.2819504737854004,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),qual è il tasso di cambio tra euro e dollaro,qual è il tasso di cambio tra euro e dollaro,0.24578332901000977,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),compagni una nuova mail ma questa volta un nome indirizzo marco chiocciola esempio,componi una nuova email ma questa volta ho un nuovo indirizzo marco chiocciola esempio punto it,0.6851668357849121,0.375,0.18947368421052632,0.2540779647298357,0.6896551724137931,0.6896551724137931,18.0
-Vosk STT (Small IT),inizio a passare l'oscuro polvere,inizia a passare l'aspirapolvere,0.26592159271240234,0.75,0.1875,0.11362193664674995,0.5454545454545454,0.5454545454545454,6.0
-Vosk STT (Small IT),questa barzelletta la conosci,questa barzelletta la conosci,0.21297717094421387,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),dove ci sono il maggior numero di vulcani sulla terra,dove ci sono il maggior numero di vulcani sulla terra,0.2875661849975586,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),sua la tu temple list,suona tutte le playlist,0.2739105224609375,1.25,0.43478260869565216,0.0,0.0,0.0,10.0
-Vosk STT (Small IT),cos'ha scritto a chiaro nella mia ultima mail,cosa ho scritto a chiara nella mia ultima email,0.24631834030151367,0.4444444444444444,0.10638297872340426,0.1525487608028145,0.5555555555555556,0.5555555555555556,5.0
-Vosk STT (Small IT),leggi le nuovi me,leggi le nuove email,0.14885807037353516,0.5,0.25,0.16990442448471224,0.5,0.5,5.0
-Vosk STT (Small IT),quanto fa quattro qui c'e,quanto fa quattro più cinque,0.20468854904174805,0.4,0.25,0.26591479484724945,0.5454545454545454,0.5454545454545454,7.0
-Vosk STT (Small IT),twitta un'iphone degli che fanno schifo,twitta a unipol e digli che fanno schifo,0.34230661392211914,0.5,0.175,0.15557221826646012,0.5333333333333333,0.5333333333333333,7.0
-Vosk STT (Small IT),come la condizione del traffico al momento,com'è la condizione del traffico al momento,0.22946739196777344,0.14285714285714285,0.046511627906976744,0.8091067115702212,0.8571428571428571,0.8571428571428571,2.0
-Vosk STT (Small IT),puoi ordinare del sushi per la cena di stasera,puoi ordinare del sushi per la cena di stasera,0.3260946273803711,0.0,0.0,1.0,1.0,1.0,0.0
-Vosk STT (Small IT),regno se titoli di coda,rai news titoli di coda,0.26132702827453613,0.4,0.2608695652173913,0.26591479484724945,0.6,0.6,6.0
-Vosk STT (Small IT),rendi le luci accese,rendi le luci più accese,0.22728800773620605,0.2,0.16666666666666666,0.3327714551776235,0.888888888888889,0.888888888888889,4.0
-Vosk STT (Small IT),milano,milano,0.1308608055114746,0.0,0.0,0.1778279410038923,1.0,1.0,0.0
-Vosk STT (Small IT),manda una mail adnan riguardo la riunione sul bilancio,manda una mail ad anna riguardo la riunione sul bilancio,0.3466377258300781,0.2,0.05357142857142857,0.5341735956899847,0.8421052631578948,0.8421052631578948,3.0
+Vosk STT (Small IT),segna il prossimo lunedì,segna il prossimo lunedì,0.17412352561950684,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),riproduce la lista delle mie canzoni piu ascoltate,riproduci la lista delle mie canzoni più ascoltate,0.2467358112335205,0.25,0.04,0.5410822690539396,0.75,0.75,2.0
+Vosk STT (Small IT),di sativa la sveglia delle quindi,disattiva la sveglia delle quindici,0.20666885375976562,0.6,0.11428571428571428,0.20205155046766235,0.5454545454545454,0.5454545454545454,4.0
+Vosk STT (Small IT),cancella sveglia,cancella sveglia,0.22092461585998535,0.0,0.0,0.316227766016838,1.0,1.0,0.0
+Vosk STT (Small IT),ricorda mi i miei impegni del pomeriggio,ricordami i miei impegni del pomeriggio,0.22563576698303223,0.3333333333333333,0.02564102564102564,0.6147881529512643,0.7692307692307692,0.7692307692307692,1.0
+Vosk STT (Small IT),metti in pausa il libro,metti in pausa il libro,0.1627960205078125,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),ehi puoi abbassare le luci per,ehi puoi abbassare le luci per favore,0.15723657608032227,0.14285714285714285,0.1891891891891892,0.846481724890614,0.923076923076923,0.923076923076923,7.0
+Vosk STT (Small IT),quando pasqua nell'anno duemila di,quand'è pasqua nell'anno duemiladiciotto,0.22167372703552246,0.75,0.225,0.11362193664674995,0.5454545454545454,0.5454545454545454,9.0
+Vosk STT (Small IT),parla più forte,parla più forte,0.13024282455444336,0.0,0.0,0.5623413251903491,1.0,1.0,0.0
+Vosk STT (Small IT),come si fa il tacchino,come si fa il tacchino,0.2081315517425537,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),per favore scrivi una nuova e mail un collega,per favore scrivi una nuova email a un collega,0.29511570930480957,0.2222222222222222,0.06521739130434782,0.5133450480401704,0.7777777777777778,0.7777777777777778,3.0
+Vosk STT (Small IT),quando comincia ufficialmente la fasi a eliminazione diretta della champions,quando comincia ufficialmente la fase a eliminazione diretta della champions league,0.3349435329437256,0.18181818181818182,0.0963855421686747,0.5954165059120786,0.8571428571428572,0.8571428571428572,8.0
+Vosk STT (Small IT),mi serve un biglietto del treno da cologna a parte,mi serve un biglietto del treno da bologna a parma,0.2921874523162842,0.2,0.06,0.6606328636027614,0.8000000000000002,0.8000000000000002,3.0
+Vosk STT (Small IT),per favore aggiunge arance alla mia lista della spesa,per favore aggiungi arance alla mia lista della spesa,0.25019145011901855,0.1111111111111111,0.018867924528301886,0.6606328636027614,0.8888888888888888,0.8888888888888888,1.0
+Vosk STT (Small IT),aggiungere orologio da polso alla lista delle cose da comprare,aggiungi un orologio da polso alla lista delle cose da comprare,0.2987241744995117,0.18181818181818182,0.06349206349206349,0.7963580315032781,0.8571428571428572,0.8571428571428572,4.0
+Vosk STT (Small IT),per favore riproduce l'ultimo può del cast di francesco cosa,per favore riproduci l'ultimo podcast di francesco costa,0.2953829765319824,0.625,0.14285714285714285,0.06674094719041482,0.6,0.6,8.0
+Vosk STT (Small IT),quanto devo coach una visite cappotto,quanto devo cuocere una bistecca a cottura media,0.22954463958740234,0.625,0.4375,0.06846046760764757,0.42857142857142855,0.42857142857142855,21.0
+Vosk STT (Small IT),e come sarà il tempo oggi a milano lombardia,ehi come sarà il tempo oggi a milano lombardia,0.2531585693359375,0.1111111111111111,0.043478260869565216,0.8633400213704505,0.8888888888888888,0.8888888888888888,2.0
+Vosk STT (Small IT),riesco a mala pena a sentirti,riesco a malapena a sentirti,0.18179678916931152,0.4,0.03571428571428571,0.12209471671615688,0.7272727272727272,0.7272727272727272,1.0
+Vosk STT (Small IT),qual è il coraggio piu vicino,qual è il conad più vicino,0.17690467834472656,0.3333333333333333,0.23076923076923078,0.21711852081087685,0.6,0.6,6.0
+Vosk STT (Small IT),chi è il direttore musicale di questo brano,chi è il direttore musicale di questo brano,0.2550196647644043,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),quali sono le novità di oggi,quali sono le novità di oggi,0.18969249725341797,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),nuova sveglia per le sei di matt,nuova sveglia per le sei di mattina,0.2008819580078125,0.14285714285714285,0.08571428571428572,0.8091067115702212,0.8571428571428571,0.8571428571428571,3.0
+Vosk STT (Small IT),cosa c'è dentro arthur dhabi bosa,cosa c'è dentro la torta mimosa,0.3353145122528076,0.5,0.3548387096774194,0.20205155046766235,0.5,0.5,11.0
+Vosk STT (Small IT),poi solo prossimo sezione,passa alla prossima sezione,0.2353043556213379,0.75,0.2962962962962963,0.08034284189446518,0.25,0.25,8.0
+Vosk STT (Small IT),cerca informazioni john,cerca informazioni online,0.17954063415527344,0.3333333333333333,0.2,0.24028114141347542,0.6666666666666666,0.6666666666666666,5.0
+Vosk STT (Small IT),cancella l'incontro di domani,cancella l'incontro di domani dal mio calendario,0.27059412002563477,0.42857142857142855,0.3958333333333333,0.4723665527410147,0.7692307692307693,0.7692307692307693,19.0
+Vosk STT (Small IT),si ricca data e oggi,siri che data è oggi,0.18993878364562988,0.6,0.25,0.06389431042462725,0.4444444444444445,0.4444444444444445,5.0
+Vosk STT (Small IT),o li quali film drammatici debuttano questo fine settimana,olly quali film drammatici debuttano questo fine settimana,0.27760744094848633,0.25,0.034482758620689655,0.7259795291154771,0.823529411764706,0.823529411764706,2.0
+Vosk STT (Small IT),puoi prenotarli in taxi,puoi prenotarmi un taxi,0.22310113906860352,0.5,0.08695652173913043,0.09554427922043669,0.5,0.5,2.0
+Vosk STT (Small IT),controlla i miei il test,controlla email da stefano,0.21123051643371582,1.0,0.46153846153846156,0.05372849659117709,0.22222222222222224,0.22222222222222224,12.0
+Vosk STT (Small IT),aggiunge questo brano al prossimo bran e riproduzione,aggiungi questo brano al prossimo brano in riproduzione,0.25815272331237793,0.375,0.07272727272727272,0.3655552228545123,0.625,0.625,4.0
+Vosk STT (Small IT),che ora solo a milano adesso,che ore sono a milano adesso,0.19751787185668945,0.3333333333333333,0.07142857142857142,0.21711852081087685,0.6666666666666666,0.6666666666666666,2.0
+Vosk STT (Small IT),ehi che ore sono a roma adesso,ehi che ore sono a roma adesso,0.18811416625976562,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),qual è l'oggetto dell'ultima di mamma,qual è l'oggetto dell'ultima email di mamma,0.2157433032989502,0.14285714285714285,0.13953488372093023,0.5115078115793242,0.9333333333333333,0.9333333333333333,6.0
+Vosk STT (Small IT),fammi una tazza di caffè con panna il caramelle sala,fammi una tazza di caffè con panna al caramello salato,0.2731747627258301,0.3,0.07407407407407407,0.6389431042462724,0.7,0.7,4.0
+Vosk STT (Small IT),quali sono le ultime notizie sul,quali sono le ultime notizie sulla rai,0.21485161781311035,0.2857142857142857,0.15789473684210525,0.6431870218238024,0.7692307692307692,0.7692307692307692,6.0
+Vosk STT (Small IT),rimuove questa lista dalle altre,rimuovi questa lista dalle altre,0.22162842750549316,0.2,0.03125,0.668740304976422,0.8000000000000002,0.8000000000000002,1.0
+Vosk STT (Small IT),che tempo fa padova,che tempo fa a padova,0.17203116416931152,0.2,0.09523809523809523,0.3327714551776235,0.888888888888889,0.888888888888889,2.0
+Vosk STT (Small IT),mostrava lista delle me recenti,mostra la lista delle email recenti,0.2233598232269287,0.5,0.17142857142857143,0.10294994188297393,0.5454545454545454,0.5454545454545454,6.0
+Vosk STT (Small IT),ho una sveglia impostata per domani mattina,ho una sveglia impostata per domani mattina,0.217818021774292,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),avrò bisogno di spalare il mio via letto questa ma,avrò bisogno di spalare il mio vialetto questa mattina,0.232224702835083,0.3333333333333333,0.1111111111111111,0.537284965911771,0.7368421052631577,0.7368421052631577,6.0
+Vosk STT (Small IT),mostra i dettagli geografici delle piramidi,mostra i dettagli geografici delle piramidi,0.2190394401550293,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),di riproduce canzoni di me,riproduci canzoni di mina,0.17842364311218262,0.75,0.28,0.11362193664674995,0.4444444444444445,0.4444444444444445,7.0
+Vosk STT (Small IT),sai com'e il tempo,sai com'è il tempo,0.12770438194274902,0.25,0.05555555555555555,0.1880301546543197,0.888888888888889,0.888888888888889,1.0
+Vosk STT (Small IT),riproduce un po di musica jets,riproduci un po' di musica jazz,0.2385249137878418,0.5,0.16129032258064516,0.09554427922043669,0.6666666666666666,0.6666666666666666,5.0
+Vosk STT (Small IT),in dio nemmen sette in punto,invia una email a giuseppe chiocciola gmail punto com,0.3376171588897705,0.8888888888888888,0.660377358490566,0.024761510494160165,0.13333333333333333,0.13333333333333333,35.0
+Vosk STT (Small IT),imposta quest'evento come ricorrente sul mio calendar,imposta questo evento come ricorrente sul mio calendario,0.261275053024292,0.375,0.07142857142857142,0.3768499164492419,0.75,0.75,4.0
+Vosk STT (Small IT),che giorno della settimana è il primo di aprile,che giorno della settimana è il primo di aprile,0.23654675483703613,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),come stai oggi,come stai oggi,0.15073227882385254,0.0,0.0,0.5623413251903491,1.0,1.0,0.0
+Vosk STT (Small IT),oggi cos'è la cosa piu cercata su google,oggi cos'è la cosa più cercata su google,0.23469996452331543,0.125,0.025,0.5,0.875,0.875,1.0
+Vosk STT (Small IT),nel mio calendario rimuove tutti gli eventi di calcio del mese corrente,nel mio calendario rimuovi tutti gli eventi di calcio del mese corrente,0.30684542655944824,0.08333333333333333,0.014084507042253521,0.7348889200874658,0.9166666666666666,0.9166666666666666,1.0
+Vosk STT (Small IT),solo la mia colonna sonora,suona la mia colonna sonora,0.18112397193908691,0.2,0.1111111111111111,0.668740304976422,0.8000000000000002,0.8000000000000002,3.0
+Vosk STT (Small IT),la città è piu economico piu costosa per,la città è più economica o più costosa per vivere,0.24577713012695312,0.5,0.22448979591836735,0.1346238089016021,0.5,0.5,11.0
+Vosk STT (Small IT),atri latte della musica introdurci una canzone,apri l'app della musica e riproduci una canzone,0.25140881538391113,0.5,0.23404255319148937,0.08563683466425753,0.5,0.5,11.0
+Vosk STT (Small IT),ricette per preparare un pasto,ricette per preparare un pasto,0.18379592895507812,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),avra bisogno dei miei stivali da neve questo pomeriggio,avrò bisogno dei miei stivali da neve questo pomeriggio,0.2676727771759033,0.1111111111111111,0.01818181818181818,0.8633400213704505,0.8888888888888888,0.8888888888888888,1.0
+Vosk STT (Small IT),mando un'email,manda un'email a carla,0.15204405784606934,0.75,0.4090909090909091,0.05501080739920602,0.5,0.5,9.0
+Vosk STT (Small IT),a una lista della spesa pronto,ho una lista della spesa pronta,0.19889426231384277,0.3333333333333333,0.0967741935483871,0.5081327481546147,0.6666666666666666,0.6666666666666666,3.0
+Vosk STT (Small IT),carica la nuove meglio per mirco invia il messaggio,carica una nuova email per mirco e invia il messaggio ora,0.3949916362762451,0.45454545454545453,0.22807017543859648,0.12507277759788113,0.6,0.6,13.0
+Vosk STT (Small IT),per favore via le canzoni acquistate e aggiungere tra i preferiti,per favore avvia le canzoni acquistate e aggiungile tra i preferiti,0.3216102123260498,0.18181818181818182,0.05970149253731343,0.37817904276524744,0.8181818181818182,0.8181818181818182,4.0
+Vosk STT (Small IT),silenzio per due ore,silenzia per due ore,0.14487981796264648,0.25,0.05,0.3976353643835253,0.75,0.75,1.0
+Vosk STT (Small IT),che svegli e ho impostato,che sveglie ho impostato,0.1735990047454834,0.5,0.041666666666666664,0.12574334296829354,0.888888888888889,0.888888888888889,1.0
+Vosk STT (Small IT),spiegabile nuova regola del fuori gioco,spiegami la nuova regola del fuorigioco,0.22725629806518555,0.6666666666666666,0.10256410256410256,0.20205155046766235,0.5,0.5,4.0
+Vosk STT (Small IT),a viaggio,avvia giochi,0.14373159408569336,1.0,0.4166666666666667,0.0,0.0,0.0,5.0
+Vosk STT (Small IT),dimmi alcuni dei migliori posti turistici nick,dimmi alcuni dei migliori posti turistici in italia,0.29207515716552734,0.25,0.13725490196078433,0.7013967267997694,0.7999999999999999,0.7999999999999999,7.0
+Vosk STT (Small IT),holding produce una buona traccia del mio sta gesto,olly riproduci una buona traccia del mio artista jazz preferito,0.3267645835876465,0.5,0.3492063492063492,0.39938791763778786,0.5263157894736842,0.5263157894736842,22.0
+Vosk STT (Small IT),mia mamma me la te,invia a mamma una email adesso,0.23300862312316895,0.8333333333333334,0.5666666666666667,0.0439891724758422,0.1818181818181818,0.1818181818181818,17.0
+Vosk STT (Small IT),informazioni sul meteo di questa se,informazioni sul meteo di questa settimana,0.20982813835144043,0.16666666666666666,0.16666666666666666,0.7598356856515925,0.8333333333333334,0.8333333333333334,7.0
+Vosk STT (Small IT),spegnere la luce nel chapas,spegni la luce nel capanno,0.1584773063659668,0.4,0.2692307692307692,0.26591479484724945,0.6,0.6,7.0
+Vosk STT (Small IT),traffico sulla sta,traffico sulla strada,0.12887358665466309,0.3333333333333333,0.14285714285714285,0.24028114141347542,0.6666666666666666,0.6666666666666666,3.0
+Vosk STT (Small IT),vai su contatti e inserisce nuova indirizzo email,vai su contatti e inserisci un nuovo indirizzo email,0.2407979965209961,0.3333333333333333,0.09615384615384616,0.3628241434631103,0.7058823529411765,0.7058823529411765,5.0
+Vosk STT (Small IT),per favore inserisce il mio nome indirizzo in me nel contatto,per favore inserisci il mio nuovo indirizzo email nel contatto,0.25011634826660156,0.4,0.14516129032258066,0.07175852914772135,0.6666666666666666,0.6666666666666666,9.0
+Vosk STT (Small IT),trova l'ultimo può ad cast della disney,trova l ultimo podcast della disney,0.25933289527893066,0.6666666666666666,0.17142857142857143,0.07730551756939454,0.7142857142857143,0.7142857142857143,6.0
+Vosk STT (Small IT),avvia la riprensione odio di tuoi l'aids di nuovo,avvia la riproduzione audio di twilight di nuovo,0.2491464614868164,0.5,0.2916666666666667,0.07583235673413397,0.5555555555555556,0.5555555555555556,14.0
+Vosk STT (Small IT),fa nel cambio euro dollaro adesso,qual è il cambio euro dollaro adesso,0.22756314277648926,0.42857142857142855,0.16666666666666666,0.43012508513132625,0.6666666666666666,0.6666666666666666,6.0
+Vosk STT (Small IT),holly oggi ho incontrato un mio vecchio compagno di classe,ehi olly oggi ho incontrato un mio vecchio compagno di classe,0.3156113624572754,0.18181818181818182,0.04918032786885246,0.7963580315032781,0.8571428571428572,0.8571428571428572,3.0
+Vosk STT (Small IT),abbia un gioco,avvia un gioco,0.14809799194335938,0.3333333333333333,0.14285714285714285,0.24028114141347542,0.6666666666666666,0.6666666666666666,2.0
+Vosk STT (Small IT),che giorno è oggi,che giorno è oggi,0.15750670433044434,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),non promosso oggi che bellezza,mi hanno promosso oggi che bellezza,0.2909226417541504,0.3333333333333333,0.2,0.5475182535069453,0.7272727272727272,0.7272727272727272,7.0
+Vosk STT (Small IT),cancelli il primo elemento nella lista,cancella il primo elemento nella lista,0.2052905559539795,0.16666666666666666,0.02631578947368421,0.7598356856515925,0.8333333333333334,0.8333333333333334,1.0
+Vosk STT (Small IT),alex ha avuto i soldi premesse quanto possa spendere ogni giorno questo mese,alexa ho avuto i soldi per il mese quanto posso spendere ogni giorno questo mese,0.35613560676574707,0.4,0.1125,0.34152860179730143,0.6428571428571429,0.6428571428571429,9.0
+Vosk STT (Small IT),quale università hai frequentato laura boldrini,quale università ha frequentato laura boldrini,0.22759628295898438,0.16666666666666666,0.021739130434782608,0.25406637407730737,0.8333333333333334,0.8333333333333334,1.0
+Vosk STT (Small IT),puoi farmi un caffè per favore,puoi farmi un caffè per favore,0.24747776985168457,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),qual è il tasso di cambio tra euro e dollaro,qual è il tasso di cambio tra euro e dollaro,0.23253321647644043,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),compagni una nuova mail ma questa volta un nome indirizzo marco chiocciola esempio,componi una nuova email ma questa volta ho un nuovo indirizzo marco chiocciola esempio punto it,0.4301893711090088,0.375,0.18947368421052632,0.2540779647298357,0.6896551724137931,0.6896551724137931,18.0
+Vosk STT (Small IT),inizio a passare l'oscuro polvere,inizia a passare l'aspirapolvere,0.23265957832336426,0.75,0.1875,0.11362193664674995,0.5454545454545454,0.5454545454545454,6.0
+Vosk STT (Small IT),questa barzelletta la conosci,questa barzelletta la conosci,0.16979289054870605,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),dove ci sono il maggior numero di vulcani sulla terra,dove ci sono il maggior numero di vulcani sulla terra,0.2563498020172119,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),sua la tu temple list,suona tutte le playlist,0.23938250541687012,1.25,0.43478260869565216,0.0,0.0,0.0,10.0
+Vosk STT (Small IT),cos'ha scritto a chiaro nella mia ultima mail,cosa ho scritto a chiara nella mia ultima email,0.21010804176330566,0.4444444444444444,0.10638297872340426,0.1525487608028145,0.5555555555555556,0.5555555555555556,5.0
+Vosk STT (Small IT),leggi le nuovi me,leggi le nuove email,0.13593769073486328,0.5,0.25,0.16990442448471224,0.5,0.5,5.0
+Vosk STT (Small IT),quanto fa quattro qui c'e,quanto fa quattro più cinque,0.18129634857177734,0.4,0.25,0.26591479484724945,0.5454545454545454,0.5454545454545454,7.0
+Vosk STT (Small IT),twitta un'iphone degli che fanno schifo,twitta a unipol e digli che fanno schifo,0.2743861675262451,0.5,0.175,0.15557221826646012,0.5333333333333333,0.5333333333333333,7.0
+Vosk STT (Small IT),come la condizione del traffico al momento,com'è la condizione del traffico al momento,0.2131209373474121,0.14285714285714285,0.046511627906976744,0.8091067115702212,0.8571428571428571,0.8571428571428571,2.0
+Vosk STT (Small IT),puoi ordinare del sushi per la cena di stasera,puoi ordinare del sushi per la cena di stasera,0.2859034538269043,0.0,0.0,1.0,1.0,1.0,0.0
+Vosk STT (Small IT),regno se titoli di coda,rai news titoli di coda,0.23517918586730957,0.4,0.2608695652173913,0.26591479484724945,0.6,0.6,6.0
+Vosk STT (Small IT),rendi le luci accese,rendi le luci più accese,0.21013355255126953,0.2,0.16666666666666666,0.3327714551776235,0.888888888888889,0.888888888888889,4.0
+Vosk STT (Small IT),milano,milano,0.13065838813781738,0.0,0.0,0.1778279410038923,1.0,1.0,0.0
+Vosk STT (Small IT),manda una mail adnan riguardo la riunione sul bilancio,manda una mail ad anna riguardo la riunione sul bilancio,0.2908318042755127,0.2,0.05357142857142857,0.5341735956899847,0.8421052631578948,0.8421052631578948,3.0

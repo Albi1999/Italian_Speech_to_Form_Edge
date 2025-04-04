@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "18 marzo 2025, ore 20:16, veicolo BMW, targa XY 987 ZT, in parcheggio su strisce pedonali presso Corso Buenos Aires 98, Milano, rilevato da agente maglia rossa.",
+  "reference": "18/03/2025, ore 20:16: veicolo BMW Serie 1, targa XY987ZT, in parcheggio su strisce pedonali presso corso Buenos Aires 98, Milano. Rilevato da agente Mario Rossi.",
+  "time": 15.47501133786848,
+  "cost": 0.0005611203990929705,
+  "wer": 0.56,
+  "cer": 0.16666666666666666,
+  "bleu_avg": 0.25130737267754294,
+  "rouge1_avg_f1": 0.7857142857142857,
+  "rougeL_avg_f1": 0.7857142857142857,
+  "levenshtein_avg": 27.0
+}

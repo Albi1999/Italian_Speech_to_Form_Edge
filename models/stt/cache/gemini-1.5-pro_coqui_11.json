@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Durante il pattugliamento in zona via N. Fortifioire, Catania, l'agente Sara Bellini ha rilevato una violazione dell'articolo 7, comma 51. L'auto coinvolta è una Volkswagen Golf targata TF 4156 alle ore 4:52:33.\n",
+  "reference": "Durante il pattugliamento in zona via Etnea 45, Catania, l'agente Sara Bellini ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Volkswagen Golf targata ZA456QP, alle ore 04:52 del 16/03/2025.",
+  "time": 18.88204081632653,
+  "cost": 0.003946408163265306,
+  "wer": 0.29411764705882354,
+  "cer": 0.17889908256880735,
+  "bleu_avg": 0.5338380077029675,
+  "rouge1_avg_f1": 0.7567567567567567,
+  "rougeL_avg_f1": 0.7567567567567567,
+  "levenshtein_avg": 40.0
+}

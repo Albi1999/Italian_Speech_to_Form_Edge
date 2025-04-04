@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Solo la Marina Militare Italiana e la Royal Navy possiedono unità di questo tipo.\n",
+  "reference": "solo la marina militare italiana e la royal navy possiedono unità di questo tipo..",
+  "time": 5.832018140589569,
+  "cost": 0.0012464036281179137,
+  "wer": 0.5,
+  "cer": 0.08536585365853659,
+  "bleu_avg": 0.21972813874997157,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 7.0
+}

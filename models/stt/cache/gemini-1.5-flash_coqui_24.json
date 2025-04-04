@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sono la agente Giulia Costa. Alle ore 23 del 5/2/2025 ho rilevato un'infrazione per divieto di sosta in via Napoli, FiVe, Napoli. Veicolo Audi A3, targa GSV 9091 NE.\n",
+  "reference": "Sono l'agente Giulia Costa. Alle ore 04:23 del 05/03/2025, ho rilevato un'infrazione per divieto di sosta in via Napoli 5, Napoli. Veicolo: Audi A3, targa GH789IJ.",
+  "time": 15.843038548752835,
+  "cost": 0.00019941646258503403,
+  "wer": 0.38461538461538464,
+  "cer": 0.147239263803681,
+  "bleu_avg": 0.4173260194691081,
+  "rouge1_avg_f1": 0.8253968253968254,
+  "rougeL_avg_f1": 0.7936507936507936,
+  "levenshtein_avg": 25.0
+}

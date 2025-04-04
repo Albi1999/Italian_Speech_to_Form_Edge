@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "verbale di infrazione redatto dall'agente sì viene data, tinti essere tinti tinti fine, ora, si den forcheita. Infrazione, doppia fila. Luogo, Via del Corso trebero. Veicolo, quel corsa, tagabono 033.",
+  "reference": "Verbale di infrazione redatto dall'agente Silvia Neri. Data: 27/03/2025, ora: 16:48. Infrazione: doppia fila. Luogo: via del Corso 12, Roma. Veicolo: Opel Corsa, targa AB123CD.",
+  "time": 18.24503401360544,
+  "cost": 0.0006598251972789115,
+  "wer": 0.92,
+  "cer": 0.44886363636363635,
+  "bleu_avg": 0.1050176352370787,
+  "rouge1_avg_f1": 0.5666666666666665,
+  "rougeL_avg_f1": 0.5666666666666665,
+  "levenshtein_avg": 79.0
+}

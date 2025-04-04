@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Verbale di infrazione redatto dall'agente Marco Gentili, data 10/03/2023, ora 10:25. Infrazione: accesso vietato. Luogo: via Napoli civico 7, Napoli. Veicolo: Mercedes Leone, targa DF 155 NP.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Marco Gentili. Data: 12/03/2025, ora: 22:39. Infrazione: accesso vietato. Luogo: via Napoli 5, Napoli. Veicolo: BMW Serie 1, targa CD456EF.",
+  "time": 18.56503401360544,
+  "cost": 0.0038580068027210886,
+  "wer": 0.52,
+  "cer": 0.20994475138121546,
+  "bleu_avg": 0.37030468338190614,
+  "rouge1_avg_f1": 0.6666666666666667,
+  "rougeL_avg_f1": 0.6666666666666667,
+  "levenshtein_avg": 39.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "L'esperienza di annoi.\n",
+  "reference": "l'esperienza di \"a noi!",
+  "time": 3.528027210884354,
+  "cost": 4.383632653061225e-05,
+  "wer": 0.75,
+  "cer": 0.17391304347826086,
+  "bleu_avg": 0.0814136751754278,
+  "rouge1_avg_f1": 0.6666666666666665,
+  "rougeL_avg_f1": 0.6666666666666665,
+  "levenshtein_avg": 5.0
+}

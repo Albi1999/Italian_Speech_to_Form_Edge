@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Agente Giulia Costa in servizio. Segnalazione di doppia fila alle FiVe,  quartinene del 25/5/2025 in Via del Corso, TO ELVE, Roma. Auto coinvolta, Volkswagen Golf, targa KT RE 0301 NM.\n",
+  "reference": "Agente Giulia Costa in servizio. Segnalazione di doppia fila alle 05:49 del 25/03/2025, in via del Corso 12, Roma. Auto coinvolta: Volkswagen Golf, targa KL321MN.",
+  "time": 16.419002267573696,
+  "cost": 0.0002066280272108843,
+  "wer": 0.48,
+  "cer": 0.24074074074074073,
+  "bleu_avg": 0.3792611111696205,
+  "rouge1_avg_f1": 0.7666666666666666,
+  "rougeL_avg_f1": 0.7666666666666666,
+  "levenshtein_avg": 40.0
+}

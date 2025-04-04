@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Che sveglia ho impostato?",
+  "reference": "che sveglie ho impostato",
+  "time": 3.0,
+  "cost": 0.0001128,
+  "wer": 0.75,
+  "cer": 0.125,
+  "bleu_avg": 0.08034284189446518,
+  "rouge1_avg_f1": 0.75,
+  "rougeL_avg_f1": 0.75,
+  "levenshtein_avg": 3.0
+}

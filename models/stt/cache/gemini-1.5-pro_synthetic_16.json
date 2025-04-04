@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Verbale di infrazione redatto dall'agente Sara Bellini. Data: 18 marzo 2025. Ora: 21:14. Infrazione: doppia fila. Luogo: Via Garibaldi 11, Firenze. Veicolo: Mercedes Classe A, targa KL321MN.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Sara Bellini. Data: 18/03/2025, ora: 21:14. Infrazione: doppia fila. Luogo: via Garibaldi 11, Firenze. Veicolo: Mercedes Classe A, targa KL321MN.",
+  "time": 22.23201814058957,
+  "cost": 0.0045914036281179136,
+  "wer": 0.2,
+  "cer": 0.053475935828877004,
+  "bleu_avg": 0.6740433269994325,
+  "rouge1_avg_f1": 0.9655172413793104,
+  "rougeL_avg_f1": 0.9655172413793104,
+  "levenshtein_avg": 11.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "La Torre Nép è invece l'edificio più alto abitabile.\n",
+  "reference": "la torre net è invece l'edificio più alto abitabile.",
+  "time": 4.32,
+  "cost": 0.000919,
+  "wer": 0.3333333333333333,
+  "cer": 0.09615384615384616,
+  "bleu_avg": 0.5873949094699213,
+  "rouge1_avg_f1": 0.8421052631578948,
+  "rougeL_avg_f1": 0.8421052631578948,
+  "levenshtein_avg": 6.0
+}

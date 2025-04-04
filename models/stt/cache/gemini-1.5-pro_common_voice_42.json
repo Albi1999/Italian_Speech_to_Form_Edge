@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Si distinse più volte nelle battaglie della Grande Guerra del Nord.\n",
+  "reference": "si distinse più volte nelle battaglie della grande guerra del nord.",
+  "time": 4.68,
+  "cost": 0.001001,
+  "wer": 0.36363636363636365,
+  "cer": 0.05970149253731343,
+  "bleu_avg": 0.47987820666906633,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 5.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Esiste anche una carro realizzata in lingua Hindi.\n",
+  "reference": "esiste anche una cover realizzata in lingua hindi.",
+  "time": 5.616009070294784,
+  "cost": 7.03921088435374e-05,
+  "wer": 0.375,
+  "cer": 0.12,
+  "bleu_avg": 0.17286039232097053,
+  "rouge1_avg_f1": 0.875,
+  "rougeL_avg_f1": 0.875,
+  "levenshtein_avg": 7.0
+}

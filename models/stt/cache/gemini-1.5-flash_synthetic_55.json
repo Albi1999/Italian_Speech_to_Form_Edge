@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sono l'agente Silvia Neri, alle ore 6:19 del 19 marzo 2025. Ho rilevato un'infrazione per divieto di sosta in via Napoli 5, Napoli. Veicolo Renault Clio, targa CD 456 F.\n",
+  "reference": "Sono l'agente Silvia Neri. Alle ore 06:19 del 19/03/2025, ho rilevato un'infrazione per divieto di sosta in via Napoli 5, Napoli. Veicolo: Renault Clio, targa CD456EF.",
+  "time": 15.92,
+  "cost": 0.00020064000000000003,
+  "wer": 0.4230769230769231,
+  "cer": 0.08982035928143713,
+  "bleu_avg": 0.43434098825795264,
+  "rouge1_avg_f1": 0.875,
+  "rougeL_avg_f1": 0.875,
+  "levenshtein_avg": 16.0
+}

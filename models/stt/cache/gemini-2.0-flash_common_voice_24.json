@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Di conseguenza, questa proposta non venne inclusa nel testo finale del trattato.",
+  "reference": "di conseguenza, questa proposta non venne inclusa nel testo finale del trattato.",
+  "time": 8.856009070294785,
+  "cost": 0.00032213151927437645,
+  "wer": 0.08333333333333333,
+  "cer": 0.0125,
+  "bleu_avg": 0.9036020036098448,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 1.0
+}

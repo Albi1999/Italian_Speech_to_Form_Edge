@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Nel duemila il territorio passò in gestione a Rieti.\n",
+  "reference": "nel duecento il territorio passò in gestione a rieti.",
+  "time": 6.336009070294785,
+  "cost": 7.933210884353742e-05,
+  "wer": 0.3333333333333333,
+  "cer": 0.1320754716981132,
+  "bleu_avg": 0.5873949094699213,
+  "rouge1_avg_f1": 0.8888888888888888,
+  "rougeL_avg_f1": 0.8888888888888888,
+  "levenshtein_avg": 8.0
+}

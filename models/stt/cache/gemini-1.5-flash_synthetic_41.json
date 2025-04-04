@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sono l'agente Silvia Neri, alle ore 20:17 del 12 marzo 2025. Ho rilevato un'infrazione per parcheggio su strisce pedonali in via Roma 77, Palermo. Veicolo: Fiat Panda, targa XY 987 ZT.\n",
+  "reference": "Sono l'agente Silvia Neri. Alle ore 20:17 del 12/03/2025, ho rilevato un'infrazione per parcheggio su strisce pedonali in via Roma 77, Palermo. Veicolo: Fiat Panda, targa XY987ZT.",
+  "time": 18.86403628117914,
+  "cost": 0.00023626843537414966,
+  "wer": 0.3333333333333333,
+  "cer": 0.07262569832402235,
+  "bleu_avg": 0.5825056735901862,
+  "rouge1_avg_f1": 0.9090909090909091,
+  "rougeL_avg_f1": 0.9090909090909091,
+  "levenshtein_avg": 14.0
+}

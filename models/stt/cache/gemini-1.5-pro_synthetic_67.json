@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Verbale di infrazione redatto dall'agente Luca Verdi. Data: 7 marzo 2025. Ora: 14:20. Infrazione: doppia fila. Luogo: Piazza Venezia, Roma. Veicolo: Mercedes Classe A, targa FG234LM.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Luca Verdi. Data: 07/03/2025, ora: 14:20. Infrazione: doppia fila. Luogo: piazza Venezia, Roma. Veicolo: Mercedes Classe A, targa FG234LM.",
+  "time": 19.944036281179137,
+  "cost": 0.004128807256235828,
+  "wer": 0.20833333333333334,
+  "cer": 0.06111111111111111,
+  "bleu_avg": 0.6598997557898729,
+  "rouge1_avg_f1": 0.9285714285714286,
+  "rougeL_avg_f1": 0.9285714285714286,
+  "levenshtein_avg": 12.0
+}

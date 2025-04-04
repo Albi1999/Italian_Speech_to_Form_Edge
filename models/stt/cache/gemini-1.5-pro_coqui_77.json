@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Sono l'agente Giulia Costa. Alle ore 15:15, Pordenone 33335, ho rilevato un'infrazione per doppia fila in via Milano 34, Torino. Veicolo Alfa 147, targa LN 117S.\n",
+  "reference": "Sono l'agente Giulia Costa. Alle ore 15:04 del 01/03/2025, ho rilevato un'infrazione per doppia fila in via Milano 24, Torino. Veicolo: Audi A3, targa XY987ZT.",
+  "time": 14.755011337868481,
+  "cost": 0.0030910022675736965,
+  "wer": 0.36,
+  "cer": 0.1949685534591195,
+  "bleu_avg": 0.49692833205572384,
+  "rouge1_avg_f1": 0.711864406779661,
+  "rougeL_avg_f1": 0.711864406779661,
+  "levenshtein_avg": 32.0
+}

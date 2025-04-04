@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Il giorno 31 marzo 2025, alle ore 1:39, è stata segnalata un'infrazione per zona rimozione in via Milano 24, Torino. Veicolo coinvolto: Mercedes Classe A, targa ZA456QP. Agente: Silvia Neri.\n",
+  "reference": "Il giorno 31/03/2025, alle ore 01:39, è stata segnalata un’infrazione per zona rimozione in via Milano 24, Torino. Veicolo coinvolto: Mercedes Classe A, targa ZA456QP. Agente: Silvia Neri.",
+  "time": 16.170022675736963,
+  "cost": 0.003394004535147392,
+  "wer": 0.17857142857142858,
+  "cer": 0.047872340425531915,
+  "bleu_avg": 0.671683390199399,
+  "rouge1_avg_f1": 0.9354838709677419,
+  "rougeL_avg_f1": 0.9354838709677419,
+  "levenshtein_avg": 10.0
+}

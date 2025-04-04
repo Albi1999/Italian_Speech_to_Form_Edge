@@ -1,0 +1,247 @@
+model,text,reference,time,cost,wer,cer,bleu_avg,rouge1_avg_f1,rougeL_avg_f1,levenshtein_avg
+gemini-1.5-pro,"Segna il prossimo lunedì.
+",segna il prossimo lunedì,2.82,0.0005939999999999999,0.5,0.08333333333333333,0.16990442448471224,1.0,1.0,3.0
+gemini-1.5-pro,"Riproduci la lista delle mie canzoni più ascoltate.
+Pi...
+",riproduci la lista delle mie canzoni più ascoltate,3.06,0.000667,0.25,0.16,0.5873949094699213,0.9411764705882353,0.9411764705882353,9.0
+gemini-1.5-pro,"bip bip bip bip bip
+",disattiva la sveglia delle quindici,3.18,0.0006709999999999999,1.0,0.8,0.0,0.0,0.0,28.0
+gemini-1.5-pro,"Cancella sveglia.
+",cancella sveglia,1.92,0.000404,1.0,0.125,0.0,1.0,1.0,3.0
+gemini-1.5-pro,"Ricordami i miei impegni del pomeriggio.
+",ricordami i miei impegni del pomeriggio,3.6,0.00076,0.3333333333333333,0.05128205128205128,0.5081327481546147,1.0,1.0,3.0
+gemini-1.5-pro,"Metti in pausa il libro.
+",metti in pausa il libro,2.16,0.000467,0.4,0.08695652173913043,0.26591479484724945,1.0,1.0,3.0
+gemini-1.5-pro,"Ehi, puoi abbassare le luci, per favore?
+",ehi puoi abbassare le luci per favore,2.7,0.000585,0.42857142857142855,0.10810810810810811,0.17567205239427922,1.0,1.0,5.0
+gemini-1.5-pro,"Quand'è Pasqua nell'anno 2018?
+",quand'è pasqua nell'anno duemiladiciotto,2.94,0.0006180000000000001,0.75,0.425,0.08034284189446518,0.8000000000000002,0.8000000000000002,17.0
+gemini-1.5-pro,"Parla più forte.
+",parla più forte,1.74,0.00037299999999999996,0.6666666666666666,0.13333333333333333,0.11362193664674995,1.0,1.0,3.0
+gemini-1.5-pro,"Come si fa il tacchino?
+",come si fa il tacchino,2.88,0.000611,0.4,0.09090909090909091,0.26591479484724945,1.0,1.0,3.0
+gemini-1.5-pro,"Per favore, scrivi una nuova email a un collega.
+
+
+Ciao [Nome del collega],
+
+spero che questa email ti trovi bene.
+
+Ti scrivo per [Motivo dell'email - ad esempio, chiedere un aggiornamento su un progetto, fissare una riunione, chiedere informazioni, ecc.].
+
+[Aggiungi maggiori dettagli sul motivo per cui stai scrivendo. Sii specifico e conciso.]
+
+[Se necessario, aggiungi una call to action - ad esempio, ""Fammi sapere quando sei libero per una breve chiamata"", ""Per favore, inviami il documento entro venerdì"", ecc.]
+
+Grazie per il tuo aiuto.
+
+Cordiali saluti,
+
+[Il tuo nome]
+
+
+**Esempio più concreto:**
+
+Ciao Marco,
+
+spero che questa email ti trovi bene.
+
+Ti scrivo per chiedere un aggiornamento sul progetto Alpha.  Come procede la stesura del report finale? La scadenza è fissata per la prossima settimana e volevo assicurarmi che tutto procedesse secondo i piani.
+
+Fammi sapere se hai bisogno di qualcosa da parte mia.
+
+Grazie per il tuo aiuto.
+
+Cordiali saluti,
+
+[Il tuo nome]
+
+
+**Per quanto riguarda la trascrizione dell'audio allegato, non posso accedervi.  Per favore, fornisci il testo dell'audio.**
+",per favore scrivi una nuova email a un collega,4.5,0.001765,18.333333333333332,23.130434782608695,0.026708658062140254,0.1,0.1,1065.0
+gemini-1.5-pro,"Quando comincia ufficialmente la fase a eliminazione diretta della Champions League?
+",quando comincia ufficialmente la fase a eliminazione diretta della champions league,5.58,0.001181,0.2727272727272727,0.04819277108433735,0.6786502681586727,1.0,1.0,5.0
+gemini-1.5-pro,"Mi serve un biglietto del treno da Bologna a Parma.
+",mi serve un biglietto del treno da bologna a parma,4.56,0.0009719999999999999,0.3,0.08,0.537284965911771,1.0,1.0,5.0
+gemini-1.5-pro,"Per favore, aggiungi arance alla mia lista della spesa.
+",per favore aggiungi arance alla mia lista della spesa,4.5,0.0009550000000000001,0.3333333333333333,0.05660377358490566,0.5873949094699213,1.0,1.0,4.0
+gemini-1.5-pro,"Aggiungi un orologio da polso alla lista delle cose da comprare.
+",aggiungi un orologio da polso alla lista delle cose da comprare,4.32,0.000929,0.18181818181818182,0.031746031746031744,0.7860753021519787,1.0,1.0,3.0
+gemini-1.5-pro,"Per favore, riproduci l'ultimo podcast di Francesco Costa.
+
+Non ho accesso a internet o a file locali, inclusi i podcast.  Non posso quindi riprodurre o trascrivere l'ultimo podcast di Francesco Costa. Per ascoltarlo, ti consiglio di cercarlo sulla piattaforma dove viene usualmente pubblicato (Spotify, Apple Podcast, Google Podcast, ecc.) o sul sito web di Francesco Costa.
+",per favore riproduci l'ultimo podcast di francesco costa,4.38,0.001166,6.5,5.714285714285714,0.04062073000466025,0.26865671641791045,0.26865671641791045,321.0
+gemini-1.5-pro,"Quanto devo cuocere una bistecca a cottura media?
+",quanto devo cuocere una bistecca a cottura media,3.18,0.000686,0.25,0.041666666666666664,0.6803749333171202,1.0,1.0,3.0
+gemini-1.5-pro,"Ehi, come sarà il tempo oggi a Milano, Lombardia?
+",ehi come sarà il tempo oggi a milano lombardia,3.96,0.0008470000000000001,0.3333333333333333,0.13043478260869565,0.5873949094699213,1.0,1.0,7.0
+gemini-1.5-pro,"Riesco a malapena a sentirti.
+",riesco a malapena a sentirti,2.4,0.0005149999999999999,0.4,0.07142857142857142,0.26591479484724945,1.0,1.0,3.0
+gemini-1.5-pro,"Qual è il Conad più vicino?
+",qual è il conad più vicino,2.92,0.000624,0.5,0.11538461538461539,0.09554427922043669,1.0,1.0,4.0
+gemini-1.5-pro,"Chi è il direttore musicale di questo brano?
+",chi è il direttore musicale di questo brano,4.68,0.000986,0.25,0.046511627906976744,0.6803749333171202,1.0,1.0,3.0
+gemini-1.5-pro,"Quali sono le novità di oggi?
+",quali sono le novità di oggi,2.52,0.000544,0.3333333333333333,0.07142857142857142,0.5081327481546147,1.0,1.0,3.0
+gemini-1.5-pro,"Nuova sveglia per le sei di mattina.
+",nuova sveglia per le sei di mattina,3.36,0.000717,0.2857142857142857,0.05714285714285714,0.6147881529512643,1.0,1.0,3.0
+gemini-1.5-pro,"Cosa c'è dentro la torta mimosa?
+",cosa c'è dentro la torta mimosa,3.72,0.000784,0.3333333333333333,0.06451612903225806,0.5081327481546147,1.0,1.0,3.0
+gemini-1.5-pro,"Passo alla prossima sezione.
+",passa alla prossima sezione,2.3467120181405896,0.0004993424036281179,0.5,0.1111111111111111,0.16990442448471224,0.75,0.75,4.0
+gemini-1.5-pro,"Cerca informazioni online.
+",cerca informazioni online,2.94,0.000613,0.6666666666666666,0.08,0.11362193664674995,1.0,1.0,3.0
+gemini-1.5-pro,"Cancella l'incontro di domani dal mio calendario.
+",cancella l'incontro di domani dal mio calendario,4.2,0.0008849999999999999,0.2857142857142857,0.041666666666666664,0.6147881529512643,1.0,1.0,3.0
+gemini-1.5-pro,"Siri, che data è oggi?
+",siri che data è oggi,2.52,0.000539,0.4,0.15,0.26591479484724945,1.0,1.0,4.0
+gemini-1.5-pro,"Holly, quali film drammatici debuttano questo fine settimana?
+",olly quali film drammatici debuttano questo fine settimana,4.26,0.000902,0.25,0.05172413793103448,0.6803749333171202,0.875,0.875,4.0
+gemini-1.5-pro,"Puoi prenotarmi un taxi?
+",puoi prenotarmi un taxi,4.32,0.0008940000000000002,0.5,0.08695652173913043,0.16990442448471224,1.0,1.0,3.0
+gemini-1.5-pro,"Controlla email da Stefano.
+",controlla email da stefano,2.88,0.000606,0.5,0.11538461538461539,0.16990442448471224,1.0,1.0,4.0
+gemini-1.5-pro,"Aggiungi questo brano al prossimo brano in riproduzione.
+
+*Trascrivi in italiano l'audio allegato parola per parola.*
+",aggiungi questo brano al prossimo brano in riproduzione,3.9,0.00087,1.25,1.1454545454545455,0.30130404892785684,0.6399999999999999,0.6399999999999999,64.0
+gemini-1.5-pro,"Che ore sono a Milano adesso?
+",che ore sono a milano adesso,2.7,0.0005800000000000001,0.5,0.10714285714285714,0.20205155046766235,1.0,1.0,4.0
+gemini-1.5-pro,"Ehi, che ore sono a Roma adesso?
+",ehi che ore sono a roma adesso,3.370702947845805,0.000719140589569161,0.42857142857142855,0.13333333333333333,0.41113361690051975,1.0,1.0,5.0
+gemini-1.5-pro,"Qual è l'oggetto dell'ultima email di mamma?
+
+P.S. Trascrivi in italiano l'audio allegato parola per parola.
+",qual è l'oggetto dell'ultima email di mamma,3.66,0.000822,1.5714285714285714,1.5348837209302326,0.22894156860669912,0.5925925925925926,0.5925925925925926,67.0
+gemini-1.5-pro,"Fammi una tazza di caffè con panna al caramello salato.
+",fammi una tazza di caffè con panna al caramello salato,4.98,0.001056,0.2,0.037037037037037035,0.7598356856515925,1.0,1.0,3.0
+gemini-1.5-pro,"Quali sono le ultime notizie sulla Rai?
+",quali sono le ultime notizie sulla rai,2.88,0.000621,0.2857142857142857,0.07894736842105263,0.6147881529512643,1.0,1.0,4.0
+gemini-1.5-pro,"Rimuovi questa lista dalle altre.
+",rimuovi questa lista dalle altre,3.0,0.000635,0.4,0.0625,0.26591479484724945,1.0,1.0,3.0
+gemini-1.5-pro,"Che tempo fa a Padova?
+",che tempo fa a padova,2.52,0.000539,0.4,0.14285714285714285,0.26591479484724945,1.0,1.0,4.0
+gemini-1.5-pro,"Mostra la lista delle email recenti.
+",mostra la lista delle email recenti,3.24,0.000688,0.3333333333333333,0.05714285714285714,0.5081327481546147,1.0,1.0,3.0
+gemini-1.5-pro,"Ho una sveglia impostata per domani mattina.
+",ho una sveglia impostata per domani mattina,3.96,0.0008369999999999999,0.2857142857142857,0.046511627906976744,0.6147881529512643,1.0,1.0,3.0
+gemini-1.5-pro,"Avrò bisogno di spalare il mio vialetto questa mattina.
+",avrò bisogno di spalare il mio vialetto questa mattina,3.54,0.000763,0.2222222222222222,0.037037037037037035,0.7259795291154771,1.0,1.0,3.0
+gemini-1.5-pro,"Mostra i dettagli geografici delle piramidi.
+",mostra i dettagli geografici delle piramidi,3.12,0.0006640000000000001,0.3333333333333333,0.046511627906976744,0.5081327481546147,1.0,1.0,3.0
+gemini-1.5-pro,"Riproduci canzoni di Mina.
+",riproduci canzoni di mina,2.709387755102041,0.0005718775510204082,0.5,0.12,0.16990442448471224,1.0,1.0,4.0
+gemini-1.5-pro,"Sai com'è il tempo?
+",sai com'è il tempo,1.92,0.000414,0.5,0.1111111111111111,0.16990442448471224,1.0,1.0,3.0
+gemini-1.5-pro,"Non c'è nessun audio allegato, quindi non posso trascriverlo.  Se vuoi che riproduca della musica jazz, purtroppo non posso farlo direttamente. Sono un modello linguistico e non posso interagire con il mondo esterno, come riprodurre suoni.  Posso però darti i nomi di alcuni artisti jazz famosi che potresti ascoltare: Miles Davis, John Coltrane, Ella Fitzgerald, Louis Armstrong, Billie Holiday.
+",riproduci un po' di musica jazz,3.36,0.0009769999999999998,9.333333333333334,11.806451612903226,0.0043745086120732125,0.12307692307692307,0.09230769230769231,367.0
+gemini-1.5-pro,"Invia una email a giuseppechiocciolagmail.com.  Trascrivi in italiano l'audio allegato parola per parola.
+",invia una email a giuseppe chiocciola gmail punto com,4.14,0.0009029999999999999,1.1111111111111112,1.150943396226415,0.0768968397262906,0.4166666666666667,0.4166666666666667,62.0
+gemini-1.5-pro,"Imposta questo evento come ricorrente sul mio calendario.
+",imposta questo evento come ricorrente sul mio calendario,3.9,0.00083,0.25,0.03571428571428571,0.6803749333171202,1.0,1.0,3.0
+gemini-1.5-pro,"Che giorno della settimana è il primo di aprile?
+",che giorno della settimana è il primo di aprile,3.48,0.0007509999999999999,0.2222222222222222,0.0425531914893617,0.7259795291154771,1.0,1.0,3.0
+gemini-1.5-pro,"Come stai oggi?
+",come stai oggi,1.62,0.000349,0.6666666666666666,0.14285714285714285,0.11362193664674995,1.0,1.0,3.0
+gemini-1.5-pro,"Oggi cos'è la cosa più cercata su Google?
+",oggi cos'è la cosa più cercata su google,3.54140589569161,0.0007582811791383219,0.25,0.075,0.6803749333171202,1.0,1.0,4.0
+gemini-1.5-pro,"Nel mio calendario rimuovi tutti gli eventi di calcio del mese corrente.
+",nel mio calendario rimuovi tutti gli eventi di calcio del mese corrente,4.437414965986394,0.0009574829931972789,0.16666666666666666,0.028169014084507043,0.8070557274927982,1.0,1.0,3.0
+gemini-1.5-pro,"Suona la mia colonna sonora.  P
+",suona la mia colonna sonora,2.52,0.000544,0.6,0.18518518518518517,0.20205155046766235,0.9090909090909091,0.9090909090909091,6.0
+gemini-1.5-pro,"La città è più economica o più costosa per vivere?
+",la città è più economica o più costosa per vivere,3.12,0.000684,0.2,0.04081632653061224,0.7598356856515925,1.0,1.0,3.0
+gemini-1.5-pro,"Apri l'app della musica e riproduci una canzone.
+",apri l'app della musica e riproduci una canzone,3.72,0.000794,0.25,0.0425531914893617,0.6803749333171202,1.0,1.0,3.0
+gemini-1.5-pro,"Ricette per preparare un pasto.
+",ricette per preparare un pasto,3.0,0.000635,0.4,0.06666666666666667,0.26591479484724945,1.0,1.0,3.0
+gemini-1.5-pro,"Avrò bisogno dei miei stivali da neve questo pomeriggio.
+",avrò bisogno dei miei stivali da neve questo pomeriggio,4.26,0.000907,0.2222222222222222,0.03636363636363636,0.7259795291154771,1.0,1.0,3.0
+gemini-1.5-pro,"Mando un'email a Carla.
+",manda un'email a carla,1.98,0.00042600000000000005,0.5,0.18181818181818182,0.16990442448471224,0.8000000000000002,0.8000000000000002,5.0
+gemini-1.5-pro,"Ho una lista della spesa pronta.
+",ho una lista della spesa pronta,2.9227210884353743,0.0006245442176870748,0.3333333333333333,0.06451612903225806,0.5081327481546147,1.0,1.0,3.0
+gemini-1.5-pro,"Carica una nuova email per Mirko e invia il messaggio ora.
+",carica una nuova email per mirco e invia il messaggio ora,4.38,0.000941,0.2727272727272727,0.07017543859649122,0.46924700641056,0.9090909090909091,0.9090909090909091,5.0
+gemini-1.5-pro,"Per favore, avvia le canzoni acquistate e aggiungile tra i preferiti.
+",per favore avvia le canzoni acquistate e aggiungile tra i preferiti,5.16,0.001097,0.2727272727272727,0.04477611940298507,0.6786502681586727,1.0,1.0,4.0
+gemini-1.5-pro,"Silencia per due ore.
+P
+",silenzia per due ore,2.28,0.0004909999999999999,0.5,0.25,0.11362193664674995,0.6666666666666665,0.6666666666666665,6.0
+gemini-1.5-pro,"Che sveglie ho impostato?
+",che sveglie ho impostato,3.0,0.00063,0.5,0.08333333333333333,0.16990442448471224,1.0,1.0,3.0
+gemini-1.5-pro,"Spiegami la nuova regola del fuorigioco.
+",spiegami la nuova regola del fuorigioco,3.54,0.000748,0.3333333333333333,0.05128205128205128,0.5081327481546147,1.0,1.0,3.0
+gemini-1.5-pro,"Avvia giochi.
+",avvia giochi,2.22,0.00046400000000000006,1.0,0.16666666666666666,0.0,1.0,1.0,3.0
+gemini-1.5-pro,"Dimmi alcuni dei migliori posti turistici in Italia.
+",dimmi alcuni dei migliori posti turistici in italia,4.38,0.000926,0.25,0.058823529411764705,0.6803749333171202,1.0,1.0,4.0
+gemini-1.5-pro,"Holly, riproduci una buona traccia del mio artista jazz preferito.
+",olly riproduci una buona traccia del mio artista jazz preferito,4.8,0.0010199999999999999,0.2,0.047619047619047616,0.7598356856515925,0.9,0.9,4.0
+gemini-1.5-pro,"Invia a mamma un'email adesso.
+",invia a mamma una email adesso,2.34,0.000503,0.6666666666666666,0.13333333333333333,0.09302577375697234,0.8333333333333334,0.8333333333333334,5.0
+gemini-1.5-pro,"Informazioni sul meteo di questa settimana.
+",informazioni sul meteo di questa settimana,3.42,0.0007239999999999999,0.3333333333333333,0.047619047619047616,0.5081327481546147,1.0,1.0,3.0
+gemini-1.5-pro,"Spegni la luce nel capanno.
+",spegni la luce nel capanno,2.433514739229025,0.000521702947845805,0.4,0.07692307692307693,0.26591479484724945,1.0,1.0,3.0
+gemini-1.5-pro,"Traffico sulla strada.
+",traffico sulla strada,1.74,0.00037299999999999996,0.6666666666666666,0.09523809523809523,0.11362193664674995,1.0,1.0,3.0
+gemini-1.5-pro,"Vai su contatti e inserisci un nuovo indirizzo email.
+",vai su contatti e inserisci un nuovo indirizzo email,3.9,0.000835,0.2222222222222222,0.038461538461538464,0.7259795291154771,1.0,1.0,3.0
+gemini-1.5-pro,"Per favore, inserisci il mio nuovo indirizzo email nel contatto.
+",per favore inserisci il mio nuovo indirizzo email nel contatto,3.66,0.0007920000000000001,0.3,0.04838709677419355,0.6389431042462724,1.0,1.0,4.0
+gemini-1.5-pro,"Purtroppo non posso accedere o elaborare audio. Quindi non posso trascrivere il podcast Disney che hai menzionato.  Per trovare l'ultimo podcast della Disney, ti consiglio di cercare sul sito ufficiale Disney, sulle principali piattaforme di podcast come Spotify, Apple Podcasts, Google Podcasts, o tramite una ricerca su Google con termini come ""ultimo podcast Disney"".
+",trova l ultimo podcast della disney,3.12,0.0009040000000000001,8.666666666666666,9.6,0.0071646785744866204,0.16393442622950818,0.16393442622950818,337.0
+gemini-1.5-pro,"P
+",avvia la riproduzione audio di twilight di nuovo,3.54,0.000723,1.0,1.0,0.0,0.0,0.0,48.0
+gemini-1.5-pro,"Qual è il cambio euro dollaro adesso?
+",qual è il cambio euro dollaro adesso,3.42,0.000729,0.2857142857142857,0.05555555555555555,0.6147881529512643,1.0,1.0,3.0
+gemini-1.5-pro,"Ehi Holly, oggi ho incontrato un mio vecchio compagno di classe.
+",ehi olly oggi ho incontrato un mio vecchio compagno di classe,6.0,0.001265,0.2727272727272727,0.06557377049180328,0.6786502681586727,0.9090909090909091,0.9090909090909091,5.0
+gemini-1.5-pro,"Avvia un gioco.
+",avvia un gioco,1.62,0.000349,0.6666666666666666,0.14285714285714285,0.11362193664674995,1.0,1.0,3.0
+gemini-1.5-pro,"Che giorno è oggi?
+",che giorno è oggi,2.38,0.0005059999999999999,0.5,0.11764705882352941,0.16990442448471224,1.0,1.0,3.0
+gemini-1.5-pro,"Mi hanno promosso oggi, che bellezza!
+",mi hanno promosso oggi che bellezza,3.7546938775510204,0.000790938775510204,0.5,0.08571428571428572,0.09554427922043669,1.0,1.0,4.0
+gemini-1.5-pro,"Cancella il primo elemento nella lista.
+",cancella il primo elemento nella lista,2.94,0.0006280000000000001,0.3333333333333333,0.05263157894736842,0.5081327481546147,1.0,1.0,3.0
+gemini-1.5-pro,"Alexa, ho avuto i soldi per il mese. Quanto posso spendere ogni giorno questo mese?
+",alexa ho avuto i soldi per il mese quanto posso spendere ogni giorno questo mese,5.013514739229025,0.0010877029478458052,0.26666666666666666,0.0625,0.5702822264405542,1.0,1.0,6.0
+gemini-1.5-pro,"Quale università ha frequentato Laura Boldrini?
+",quale università ha frequentato laura boldrini,3.66,0.000772,0.5,0.08695652173913043,0.20205155046766235,1.0,1.0,5.0
+gemini-1.5-pro,"Puoi farmi un caffè, per favore?
+",puoi farmi un caffè per favore,2.46,0.000532,0.5,0.1,0.09554427922043669,1.0,1.0,4.0
+gemini-1.5-pro,"Qual è il tasso di cambio tra euro e dollaro?
+",qual è il tasso di cambio tra euro e dollaro,3.48,0.0007559999999999999,0.2,0.045454545454545456,0.7598356856515925,1.0,1.0,3.0
+gemini-1.5-pro,"Componi una nuova mail, ma questa volta ho un nuovo indirizzo: marco.chiocciola@esempio.it
+",componi una nuova email ma questa volta ho un nuovo indirizzo marco chiocciola esempio punto it,5.7,0.00121,0.5,0.1368421052631579,0.3362301724861858,0.9032258064516129,0.9032258064516129,14.0
+gemini-1.5-pro,"Inizia a passare l'aspirapolvere.
+",inizia a passare l'aspirapolvere,3.36,0.0007019999999999999,0.5,0.0625,0.16990442448471224,1.0,1.0,3.0
+gemini-1.5-pro,"Questa barzelletta la conosci.
+",questa barzelletta la conosci,2.9867120181405897,0.0006273424036281179,0.5,0.06896551724137931,0.16990442448471224,1.0,1.0,3.0
+gemini-1.5-pro,"Dove ci sono il maggior numero di vulcani sulla Terra?
+",dove ci sono il maggior numero di vulcani sulla terra,3.84,0.0008279999999999999,0.2,0.05660377358490566,0.7598356856515925,1.0,1.0,4.0
+gemini-1.5-pro,"Suona tutte le playlist.
+",suona tutte le playlist,3.12,0.0006540000000000001,0.5,0.08695652173913043,0.16990442448471224,1.0,1.0,3.0
+gemini-1.5-pro,"Cosa ho scritto a Chiara nella mia ultima mail?
+",cosa ho scritto a chiara nella mia ultima email,3.48,0.0007509999999999999,0.3333333333333333,0.0851063829787234,0.19960198807747329,0.8888888888888888,0.8888888888888888,5.0
+gemini-1.5-pro,"Leggi le nuove email.
+",leggi le nuove email,2.16,0.000462,0.5,0.1,0.16990442448471224,1.0,1.0,3.0
+gemini-1.5-pro,"Quanto fa 4 + 5?
+",quanto fa quattro più cinque,2.88,0.000611,0.8,0.6071428571428571,0.05372849659117709,0.4444444444444445,0.4444444444444445,17.0
+gemini-1.5-pro,"Twitta Unipol e digli che fanno schifo.
+",twitta a unipol e digli che fanno schifo,3.18,0.0006810000000000001,0.5,0.125,0.35640264633541835,0.9333333333333333,0.9333333333333333,6.0
+gemini-1.5-pro,"Com'è la condizione del traffico al momento?
+",com'è la condizione del traffico al momento,3.36,0.000717,0.2857142857142857,0.046511627906976744,0.6147881529512643,1.0,1.0,3.0
+gemini-1.5-pro,"Puoi ordinare del sushi per la cena di stasera?
+",puoi ordinare del sushi per la cena di stasera,5.4,0.001135,0.2222222222222222,0.043478260869565216,0.7259795291154771,1.0,1.0,3.0
+gemini-1.5-pro,"RaiNews, titoli di coda.
+",rai news titoli di coda,3.0,0.00063,0.6,0.21739130434782608,0.13232169883599026,0.6666666666666665,0.6666666666666665,6.0
+gemini-1.5-pro,"Rendi le luci più accese.
+",rendi le luci più accese,3.42,0.0007189999999999999,0.4,0.08333333333333333,0.26591479484724945,1.0,1.0,3.0
+gemini-1.5-pro,"Milano.
+P.
+",milano,2.22,0.00046400000000000006,1.0,0.8333333333333334,0.0,0.6666666666666666,0.6666666666666666,6.0
+gemini-1.5-pro,"Manda una mail ad Anna riguardo la riunione sul bilancio.
+",manda una mail ad anna riguardo la riunione sul bilancio,4.44,0.0009480000000000001,0.3,0.05357142857142857,0.37991784282579627,1.0,1.0,4.0

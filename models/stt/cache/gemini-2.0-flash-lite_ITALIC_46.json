@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Certo. \"Invia un'email a Giuseppe@gmail.com\".\n",
+  "reference": "invia una email a giuseppe chiocciola gmail punto com",
+  "time": 4.14,
+  "cost": 5.1779999999999996e-05,
+  "wer": 0.8888888888888888,
+  "cer": 0.6226415094339622,
+  "bleu_avg": 0.02414176971688927,
+  "rouge1_avg_f1": 0.7058823529411765,
+  "rougeL_avg_f1": 0.7058823529411765,
+  "levenshtein_avg": 33.0
+}

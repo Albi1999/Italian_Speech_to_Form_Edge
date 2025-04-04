@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Milano.\nP.\n",
+  "reference": "milano",
+  "time": 2.22,
+  "cost": 0.00046400000000000006,
+  "wer": 1.0,
+  "cer": 0.8333333333333334,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.6666666666666666,
+  "rougeL_avg_f1": 0.6666666666666666,
+  "levenshtein_avg": 6.0
+}

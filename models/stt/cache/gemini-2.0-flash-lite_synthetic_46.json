@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "In base all'articolo 158, comma 2, l'agente Carlo Bruni ha riscontrato un'infrazione in via Napoli 5, Napoli alle ore 16:22 del 28 marzo 2025. Veicolo coinvolto: Volkswagen Golf, targa XY987ZT.\n",
+  "reference": "In base al articolo 158, comma 2, l'agente Carlo Bruni ha riscontrato un'infrazione in via Napoli 5, Napoli alle ore 16:22 del 28/03/2025. Veicolo coinvolto: Volkswagen Golf, targa XY987ZT.",
+  "time": 17.028027210884353,
+  "cost": 0.00021393632653061222,
+  "wer": 0.1724137931034483,
+  "cer": 0.047619047619047616,
+  "bleu_avg": 0.7563810838759576,
+  "rouge1_avg_f1": 0.9411764705882353,
+  "rougeL_avg_f1": 0.9411764705882353,
+  "levenshtein_avg": 10.0
+}

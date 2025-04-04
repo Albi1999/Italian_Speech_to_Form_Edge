@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Certo, ecco la trascrizione:\n\"Ciao Carla, ti scrivo per... [pausa] ...per dirti che... [pausa] ...ho ricevuto la tua email e... [pausa] ...ti rispondo subito. [pausa] ...Per quanto riguarda... [pausa] ...il progetto, sono d'accordo con te su... [pausa] ...tutti i punti che hai sollevato. [pausa] ...Penso che sia un'ottima idea... [pausa] ...e possiamo procedere come hai detto. [pausa] ...Fammi sapere se hai bisogno di altro. [pausa] ...A presto!\"\n",
+  "reference": "manda un'email a carla",
+  "time": 1.98,
+  "cost": 4.4460000000000005e-05,
+  "wer": 16.5,
+  "cer": 19.5,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.1081081081081081,
+  "rougeL_avg_f1": 0.05405405405405405,
+  "levenshtein_avg": 430.0
+}

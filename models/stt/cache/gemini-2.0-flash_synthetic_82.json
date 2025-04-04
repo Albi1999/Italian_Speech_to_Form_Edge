@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Durante il pattugliamento in zona Via Garibaldi 11, Firenze, l'agente Anna Bianchi ha rilevato una violazione dell'articolo 158, comma 2. L'auto coinvolta è una Opel Corsa targata ZA 456 QP, alle ore 20:02 del 26 marzo 2025.",
+  "reference": "Durante il pattugliamento in zona via Garibaldi 11, Firenze, l'agente Anna Bianchi ha rilevato una violazione del articolo 158, comma 2. L'auto coinvolta è una Opel Corsa targata ZA456QP, alle ore 20:02 del 26/03/2025.",
+  "time": 19.70498866213152,
+  "cost": 0.0007140156009070295,
+  "wer": 0.2647058823529412,
+  "cer": 0.05504587155963303,
+  "bleu_avg": 0.6356803094319038,
+  "rouge1_avg_f1": 0.8974358974358975,
+  "rougeL_avg_f1": 0.8974358974358975,
+  "levenshtein_avg": 12.0
+}

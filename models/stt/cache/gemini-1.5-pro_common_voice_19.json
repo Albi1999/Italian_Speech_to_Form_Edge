@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Esiste anche una cover realizzata in lingua hindi.\n",
+  "reference": "esiste anche una cover realizzata in lingua hindi.",
+  "time": 5.616009070294784,
+  "cost": 0.0011732018140589568,
+  "wer": 0.125,
+  "cer": 0.02,
+  "bleu_avg": 0.8408964152537145,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

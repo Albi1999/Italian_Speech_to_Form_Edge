@@ -2,15 +2,9 @@ import os
 import json
 import pandas as pd
 from tqdm import tqdm
-import random
-from datasets import load_from_disk
-import torchaudio
-import torch
-import sys
 
-from utils import load_commonvoice_subset
 from models import Vosk
-
+from utils import DatasetLoader
 
 OUTPUT_DIR = "output/stt/vosk_only"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -55,86 +49,46 @@ def save_dataset_results(results, dataset_name):
 
     print(f"{dataset_name} Completed and saved at {dataset_dir}")
 
-
-
-
-
-def run_common_voice(vosk_model):
-    samples = load_commonvoice_subset(max_samples=NUM_SAMPLES)
+def run_common_voice(vosk_model, data_loader):
+    samples = data_loader.load_dataset("common_voice", NUM_SAMPLES)
     results = [vosk_model.transcribe(audio, ref) for audio, ref in tqdm(samples, desc="Common Voice")]
     save_dataset_results(results, "common_voice")
 
-
-
-def run_synthetic_dataset(vosk_model):
-    with open("data/synthetic_dataset/metadata/samples.json", "r", encoding="utf-8") as f:
-        samples = json.load(f)
-    random.seed(42)
-    samples = random.sample(samples, NUM_SAMPLES)
-
+def run_synthetic_dataset(vosk_model, data_loader):
+    samples = data_loader.load_dataset("synthetic", NUM_SAMPLES)
     results = [
-        vosk_model.transcribe(os.path.join("data/synthetic_dataset", s["audio_path"]), s["text"])
+        vosk_model.transcribe(s["path"], s["text"])
         for s in tqdm(samples, desc="Synthetic")
     ]
     save_dataset_results(results, "synthetic_dataset")
 
-
-
-def run_coqui_dataset(vosk_model):
-    with open("data/coqui_output/all_samples_coqui.json", "r", encoding="utf-8") as f:
-        samples = json.load(f)
-    random.seed(42)
-    samples = random.sample(samples, NUM_SAMPLES)
-
+def run_coqui_dataset(vosk_model, data_loader):
+    samples = data_loader.load_dataset("coqui", NUM_SAMPLES)
     results = []
     for s in tqdm(samples, desc="Coqui"):
-        result = vosk_model.transcribe(os.path.join("data/coqui_output", s["coqui_audio_path"]), s["text"])
+        result = vosk_model.transcribe(s["path"], s["sentence"])
         result["coqui_model"] = s["coqui_model"]
         result["speaker_gender"] = s["speaker_gender"]
         results.append(result)
     save_dataset_results(results, "coqui_dataset")
 
-
-
-def run_ITALIC(vosk_model):
-
-    DATASET_DIR = "data/datasets/ITALIC_massive"
-    AUDIO_DIR = f"{DATASET_DIR}/audio_samples"
-
-    dataset = load_from_disk(DATASET_DIR)
-    sampled_dataset = dataset.shuffle(seed=42).select(range(min(NUM_SAMPLES, len(dataset))))
-    os.makedirs(AUDIO_DIR, exist_ok=True)
-
-    exported_samples = []
-
-    for i, sample in enumerate(tqdm(sampled_dataset, desc="ITALIC")):
-        audio_array = sample["audio"]["array"]
-        sample_rate = sample["audio"]["sampling_rate"]
-        audio_path = os.path.join(AUDIO_DIR, f"audio_{i}.wav")
-
-        waveform = torch.tensor(audio_array).unsqueeze(0)
-        if sample_rate != 16000:
-            waveform = torchaudio.transforms.Resample(orig_freq=sample_rate, new_freq=16000)(waveform)
-        torchaudio.save(audio_path, waveform, 16000)
-
-        exported_samples.append({
-            "id": i,
-            "text": sample["utt"],
-            "audio_path": audio_path
-        })
-
+def run_ITALIC(vosk_model, data_loader):
+    samples = data_loader.load_dataset("ITALIC", NUM_SAMPLES)
     results = [
-        vosk_model.transcribe(s["audio_path"], s["text"])
-        for s in exported_samples
+        vosk_model.transcribe(s["path"], s["sentence"])
+        for s in tqdm(samples, desc="ITALIC")
     ]
     save_dataset_results(results, "ITALIC")
 
-
 if __name__ == "__main__":
     print("Loading Vosk Model...")
-    model = Vosk()
-    run_common_voice(model)
-    run_synthetic_dataset(model)
-    run_coqui_dataset(model)
-    run_ITALIC(model)
+    vosk_model = Vosk()
+
+    # Initialize DatasetLoader
+    data_loader = DatasetLoader()
+
+    run_common_voice(vosk_model, data_loader)
+    run_synthetic_dataset(vosk_model, data_loader)
+    run_coqui_dataset(vosk_model, data_loader)
+    run_ITALIC(vosk_model, data_loader)
     print("All datasets processed successfully.")

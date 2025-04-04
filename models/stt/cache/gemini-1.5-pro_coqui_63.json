@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Infrazione riscontrata: doppia fila.\n\nPosizione: Via Etnea, Forti Five, Catania.\n\nOra: 8:15.\n\nData: 29/03/2025.\n\nAuto: Volkswagen Golf, targa GSVNDRGTI9E.\n\nAgente: Luca Verdi.\n",
+  "reference": "Infrazione riscontrata: doppia fila. Posizione: via Etnea 45, Catania. Ora: 13:46, Data: 29/03/2025. Auto: Volkswagen Golf, targa GH789IJ. Agente: Luca Verdi.",
+  "time": 19.90902494331066,
+  "cost": 0.004101804988662132,
+  "wer": 0.2857142857142857,
+  "cer": 0.22784810126582278,
+  "bleu_avg": 0.45733444463149814,
+  "rouge1_avg_f1": 0.816326530612245,
+  "rougeL_avg_f1": 0.816326530612245,
+  "levenshtein_avg": 37.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Infrazione riscontrata. Accesso vietato. Posizione: Via Garibaldi 11, Firenze. Ora: 13:49. Data: 20 marzo 2025. Auto: Toyota Yaris. Targa GH789IN. Agente: Anna Bianchi.\n",
+  "reference": "Infrazione riscontrata: accesso vietato. Posizione: via Garibaldi 11, Firenze. Ora: 13:49, Data: 20/03/2025. Auto: Toyota Yaris, targa GH789IJ. Agente: Anna Bianchi.",
+  "time": 16.77401360544218,
+  "cost": 0.00020878816326530612,
+  "wer": 0.47619047619047616,
+  "cer": 0.08484848484848485,
+  "bleu_avg": 0.18931747781986427,
+  "rouge1_avg_f1": 0.9166666666666666,
+  "rougeL_avg_f1": 0.9166666666666666,
+  "levenshtein_avg": 15.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Dimmi alcuni dei migliori posti turistici in Italia.\n",
+  "reference": "dimmi alcuni dei migliori posti turistici in italia",
+  "time": 4.38,
+  "cost": 0.000926,
+  "wer": 0.25,
+  "cer": 0.058823529411764705,
+  "bleu_avg": 0.6803749333171202,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 4.0
+}

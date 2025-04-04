@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Rendi le luci più accese.\n",
+  "reference": "rendi le luci più accese",
+  "time": 3.42,
+  "cost": 0.0007189999999999999,
+  "wer": 0.4,
+  "cer": 0.08333333333333333,
+  "bleu_avg": 0.26591479484724945,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

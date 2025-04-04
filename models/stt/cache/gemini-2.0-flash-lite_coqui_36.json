@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Fortentare 2020, 5, ore 13:30, veicolo Toyota Yaris, targa 3000, indiviato di sosta presso via del Corso 2, Roma. Rilevato da agente Marco Gentili.",
+  "reference": "14/03/2025, ore 13:33: veicolo Toyota Yaris, targa TR098YU, in divieto di sosta presso via del Corso 12, Roma. Rilevato da agente Marco Gentili.",
+  "time": 14.914013605442177,
+  "cost": 0.0001867681632653061,
+  "wer": 0.34782608695652173,
+  "cer": 0.1736111111111111,
+  "bleu_avg": 0.4962806188414642,
+  "rouge1_avg_f1": 0.7058823529411765,
+  "rougeL_avg_f1": 0.7058823529411765,
+  "levenshtein_avg": 25.0
+}

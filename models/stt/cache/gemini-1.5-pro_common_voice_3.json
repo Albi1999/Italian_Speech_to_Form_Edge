@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "L'anno seguente tornò nuovamente nello Jonca.\n",
+  "reference": "l'anno seguente, tornò nuovamente nello honka.",
+  "time": 4.14,
+  "cost": 0.0008679999999999998,
+  "wer": 0.5,
+  "cer": 0.08695652173913043,
+  "bleu_avg": 0.20205155046766235,
+  "rouge1_avg_f1": 0.8571428571428571,
+  "rougeL_avg_f1": 0.8571428571428571,
+  "levenshtein_avg": 5.0
+}

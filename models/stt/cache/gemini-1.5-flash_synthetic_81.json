@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Diciotto marzo duemilaventicinque, ore venti e sedici. Veicolo BMW serie 1, targa XY 997 DF, in parcheggio su strisce pedonali presso Corso Buenos Aires 98, Milano, rilevato da agente Mario Rossi.\n",
+  "reference": "18/03/2025, ore 20:16: veicolo BMW Serie 1, targa XY987ZT, in parcheggio su strisce pedonali presso corso Buenos Aires 98, Milano. Rilevato da agente Mario Rossi.",
+  "time": 15.47501133786848,
+  "cost": 0.00019560013605442175,
+  "wer": 0.56,
+  "cer": 0.35802469135802467,
+  "bleu_avg": 0.28856268147560865,
+  "rouge1_avg_f1": 0.7457627118644068,
+  "rougeL_avg_f1": 0.7457627118644068,
+  "levenshtein_avg": 59.0
+}

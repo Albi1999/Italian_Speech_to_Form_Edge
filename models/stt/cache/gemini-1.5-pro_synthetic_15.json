@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Infrazione riscontrata. Divieto di sosta. Posizione: Via del Corso 12, Roma. Ora: 17:54. Data: primo aprile 2025. Auto: Mercedes Classe A, targa GH789IM. Agente: Luca Verdi.\n",
+  "reference": "Infrazione riscontrata: divieto di sosta. Posizione: via del Corso 12, Roma. Ora: 17:54, Data: 01/04/2025. Auto: Mercedes Classe A, targa GH789IJ. Agente: Luca Verdi.",
+  "time": 19.45501133786848,
+  "cost": 0.004031002267573696,
+  "wer": 0.3333333333333333,
+  "cer": 0.10843373493975904,
+  "bleu_avg": 0.37255279313393647,
+  "rouge1_avg_f1": 0.8888888888888888,
+  "rougeL_avg_f1": 0.8888888888888888,
+  "levenshtein_avg": 19.0
+}

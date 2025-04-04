@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Pesce per l'aria.",
+  "reference": "pesce perla",
+  "time": 1.8,
+  "cost": 2.31e-05,
+  "wer": 1.5,
+  "cer": 0.6363636363636364,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.3333333333333333,
+  "rougeL_avg_f1": 0.3333333333333333,
+  "levenshtein_avg": 7.0
+}

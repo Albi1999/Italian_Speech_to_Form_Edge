@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Infrazione riscontrata doppia fila. Posizione via Forti Fieve, Catania. Ora, 13:15. Data, 23/03/2020. Auto, Volkswagen Golf, targa, GZ 939. Agente, Luca Verdi.",
+  "reference": "Infrazione riscontrata: doppia fila. Posizione: via Etnea 45, Catania. Ora: 13:46, Data: 29/03/2025. Auto: Volkswagen Golf, targa GH789IJ. Agente: Luca Verdi.",
+  "time": 19.90902494331066,
+  "cost": 0.0002461082993197279,
+  "wer": 0.6190476190476191,
+  "cer": 0.17088607594936708,
+  "bleu_avg": 0.03521555586746717,
+  "rouge1_avg_f1": 0.7346938775510204,
+  "rougeL_avg_f1": 0.7346938775510204,
+  "levenshtein_avg": 27.0
+}

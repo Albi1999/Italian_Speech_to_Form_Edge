@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "In base all'articolo 7, comma 15, l'agente Carlo Bruni ha riscontrato un'infrazione in via Etnea 45, Catania alle ore 11:06 del 19 marzo 2025, veicolo coinvolto, Toyota Yaris, targa CD456F.\n",
+  "reference": "In base al articolo 7, comma 15, l'agente Carlo Bruni ha riscontrato un'infrazione in via Etnea 45, Catania alle ore 11:06 del 19/03/2025. Veicolo coinvolto: Toyota Yaris, targa CD456EF.",
+  "time": 19.75201814058957,
+  "cost": 0.00024662421768707483,
+  "wer": 0.27586206896551724,
+  "cer": 0.06989247311827956,
+  "bleu_avg": 0.6498516724937325,
+  "rouge1_avg_f1": 0.9117647058823528,
+  "rougeL_avg_f1": 0.9117647058823528,
+  "levenshtein_avg": 14.0
+}

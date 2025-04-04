@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Verbale di infrazione redatto dall'agente Sara Bellini. Data, 30/3/2024, ora, 10:32. Infrazione, sosta davanti a passo carrabile. Luogo, Corso Buenos Aires 68, via. Veicolo, Toyota Yaris, targa GF 56.",
+  "reference": "Verbale di infrazione redatto dall'agente Sara Bellini. Data: 13/03/2025, ora: 21:32. Infrazione: sosta davanti a passo carrabile. Luogo: corso Buenos Aires 98, Milano. Veicolo: Toyota Yaris, targa ZA456QP.",
+  "time": 20.13301587301587,
+  "cost": 0.0007258821587301586,
+  "wer": 0.42857142857142855,
+  "cer": 0.10679611650485436,
+  "bleu_avg": 0.38038486010912886,
+  "rouge1_avg_f1": 0.7692307692307692,
+  "rougeL_avg_f1": 0.7692307692307692,
+  "levenshtein_avg": 22.0
+}

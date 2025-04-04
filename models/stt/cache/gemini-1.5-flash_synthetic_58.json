@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "27 marzo 2025, ore 7:32, veicolo BMW serie 1, targa FG 234 LM, in accesso vietato presso Piazza Venezia, Roma, rilevato da agente Mario Rossi.\n",
+  "reference": "27/03/2025, ore 07:32: veicolo BMW Serie 1, targa FG234LM, in accesso vietato presso piazza Venezia, Roma. Rilevato da agente Mario Rossi.",
+  "time": 16.056009070294785,
+  "cost": 0.00020077210884353737,
+  "wer": 0.5238095238095238,
+  "cer": 0.10869565217391304,
+  "bleu_avg": 0.233078149078302,
+  "rouge1_avg_f1": 0.8400000000000001,
+  "rougeL_avg_f1": 0.8400000000000001,
+  "levenshtein_avg": 16.0
+}

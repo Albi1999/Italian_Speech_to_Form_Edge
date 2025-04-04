@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Buon accordo, grazie alla preside, risale a Leonardo.\n",
+  "reference": "bonaccorso grazie alla preside risale a leonardo.",
+  "time": 3.96,
+  "cost": 5.052e-05,
+  "wer": 0.5714285714285714,
+  "cer": 0.14285714285714285,
+  "bleu_avg": 0.08307018474412793,
+  "rouge1_avg_f1": 0.7999999999999999,
+  "rougeL_avg_f1": 0.7999999999999999,
+  "levenshtein_avg": 8.0
+}

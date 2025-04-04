@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Si ritiene che la femminina dia alla luce un unico piccolo.\n",
+  "reference": "si ritiene che la femmina dia alla luce un unico piccolo.",
+  "time": 6.948027210884354,
+  "cost": 8.727632653061225e-05,
+  "wer": 0.18181818181818182,
+  "cer": 0.05263157894736842,
+  "bleu_avg": 0.587728372510532,
+  "rouge1_avg_f1": 0.9090909090909091,
+  "rougeL_avg_f1": 0.9090909090909091,
+  "levenshtein_avg": 4.0
+}

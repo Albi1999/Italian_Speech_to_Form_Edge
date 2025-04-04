@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Il demone nel corpo di Teodora fu scacciato.\n",
+  "reference": "il demone nel corpo di teodora fu scacciato.",
+  "time": 4.212018140589569,
+  "cost": 5.354421768707483e-05,
+  "wer": 0.25,
+  "cer": 0.045454545454545456,
+  "bleu_avg": 0.4111336169005197,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Verbale di infrazione redatto dall'agente Marco Gentili. Data, 23/02/2025, ora 00:16. Infrazione divieto di sosta. Luogo, via Milano 24, Torino. Veicolo, Audi A3, targa CF4137.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Marco Gentili. Data: 20/03/2025, ora: 00:16. Infrazione: divieto di sosta. Luogo: via Milano 24, Torino. Veicolo: Audi A3, targa CD456EF.",
+  "time": 20.101043083900226,
+  "cost": 0.0002493125170068027,
+  "wer": 0.28,
+  "cer": 0.0670391061452514,
+  "bleu_avg": 0.4315505266952602,
+  "rouge1_avg_f1": 0.896551724137931,
+  "rougeL_avg_f1": 0.896551724137931,
+  "levenshtein_avg": 13.0
+}

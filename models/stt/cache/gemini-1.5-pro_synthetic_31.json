@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Durante il pattugliamento in zona Corso Buenos Aires 98, Milano, l'agente Giulia Costa ha rilevato una violazione dell'articolo 7, comma 15. L'auto coinvolta è una BMW Serie 1 targata XY987ZT. Alle ore 9:15 del 12 marzo 2025.\n",
+  "reference": "Durante il pattugliamento in zona corso Buenos Aires 98, Milano, l'agente Giulia Costa ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una BMW Serie 1 targata XY987ZT, alle ore 09:15 del 12/03/2025.",
+  "time": 18.61002267573696,
+  "cost": 0.003917004535147392,
+  "wer": 0.25,
+  "cer": 0.05855855855855856,
+  "bleu_avg": 0.6382818032245672,
+  "rouge1_avg_f1": 0.925,
+  "rougeL_avg_f1": 0.925,
+  "levenshtein_avg": 14.0
+}

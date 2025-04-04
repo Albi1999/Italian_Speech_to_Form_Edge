@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Sono l'agente Mario Rossi. Alle ore 21:25 del 2025, ho rilevato un'infrazione per accesso vietato in via Nea Forti 5, Catania. Veicolo in corsa targa COF 337.",
+  "reference": "Sono l'agente Mario Rossi. Alle ore 21:29 del 05/03/2025, ho rilevato un'infrazione per accesso vietato in via Etnea 45, Catania. Veicolo: Opel Corsa, targa CD456EF.",
+  "time": 16.771020408163267,
+  "cost": 0.00020995224489795918,
+  "wer": 0.4,
+  "cer": 0.17575757575757575,
+  "bleu_avg": 0.44366783864662146,
+  "rouge1_avg_f1": 0.7666666666666667,
+  "rougeL_avg_f1": 0.7666666666666667,
+  "levenshtein_avg": 29.0
+}

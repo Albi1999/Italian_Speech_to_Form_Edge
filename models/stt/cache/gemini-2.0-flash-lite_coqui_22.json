@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Agente, sarà Bellini in servizio. Segnalazione di doppia fila a Leità, via Napoli, Napoli. Auto coinvolta, ma serie, targa.\n",
+  "reference": "Agente Sara Bellini in servizio. Segnalazione di doppia fila alle 08:13 del 12/03/2025, in via Napoli 5, Napoli. Auto coinvolta: BMW Serie 1, targa AB123CD.",
+  "time": 15.619002267573697,
+  "cost": 0.00019372802721088437,
+  "wer": 0.6,
+  "cer": 0.28846153846153844,
+  "bleu_avg": 0.2554098432445532,
+  "rouge1_avg_f1": 0.6382978723404255,
+  "rougeL_avg_f1": 0.6382978723404255,
+  "levenshtein_avg": 46.0
+}

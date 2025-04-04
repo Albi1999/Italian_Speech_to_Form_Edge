@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Sono l'agente Mario Rossi, alle ore 20:29 del 5/2025, ho rilevato un'infrazione per accesso vietato in via Enea Forti 5 a Tania. Veicolo per corsa targa.",
+  "reference": "Sono l'agente Mario Rossi. Alle ore 21:29 del 05/03/2025, ho rilevato un'infrazione per accesso vietato in via Etnea 45, Catania. Veicolo: Opel Corsa, targa CD456EF.",
+  "time": 16.771020408163267,
+  "cost": 0.000606339918367347,
+  "wer": 0.52,
+  "cer": 0.18181818181818182,
+  "bleu_avg": 0.32685141385924577,
+  "rouge1_avg_f1": 0.7333333333333333,
+  "rougeL_avg_f1": 0.7333333333333333,
+  "levenshtein_avg": 30.0
+}

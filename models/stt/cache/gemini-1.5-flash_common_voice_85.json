@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Lo sviluppo fu rapidissimo.\n",
+  "reference": "lo sviluppo fu rapidissimo.",
+  "time": 3.9960090702947846,
+  "cost": 4.975210884353741e-05,
+  "wer": 0.25,
+  "cer": 0.037037037037037035,
+  "bleu_avg": 0.3976353643835253,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

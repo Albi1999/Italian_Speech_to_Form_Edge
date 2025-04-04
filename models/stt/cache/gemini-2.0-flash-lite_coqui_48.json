@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Gente Luca Verdi in servizio. Segnalazione di divieto di sosta alle 7:00 nei pressi del Fort 30 30, in Piazza Venezia, Roma. Paolo coinvolta, Renault Clio, traversa Forum 356.\n",
+  "reference": "Agente Luca Verdi in servizio. Segnalazione di divieto di sosta alle 17:19 del 04/03/2025, in piazza Venezia, Roma. Auto coinvolta: Renault Clio, targa ZA456QP.",
+  "time": 14.371020408163265,
+  "cost": 0.00018175224489795917,
+  "wer": 0.5416666666666666,
+  "cer": 0.28125,
+  "bleu_avg": 0.36262011255034937,
+  "rouge1_avg_f1": 0.631578947368421,
+  "rougeL_avg_f1": 0.631578947368421,
+  "levenshtein_avg": 46.0
+}

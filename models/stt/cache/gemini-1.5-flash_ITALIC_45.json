@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Riproduci un po' di musica jazz.\n",
+  "reference": "riproduci un po' di musica jazz",
+  "time": 3.36,
+  "cost": 4.272e-05,
+  "wer": 0.3333333333333333,
+  "cer": 0.06451612903225806,
+  "bleu_avg": 0.5081327481546147,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

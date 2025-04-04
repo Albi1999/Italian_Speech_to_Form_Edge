@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "È stata esportata anche in Germania e in Africa.\n",
+  "reference": "è stata esportata anche in germania e in africa.",
+  "time": 4.716009070294785,
+  "cost": 5.9892108843537416e-05,
+  "wer": 0.3333333333333333,
+  "cer": 0.0625,
+  "bleu_avg": 0.3549481056010053,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 4.0
+}

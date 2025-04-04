@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sentiero Bonaccorso.\n",
+  "reference": "sentiero bonacossa",
+  "time": 3.06,
+  "cost": 3.792e-05,
+  "wer": 1.0,
+  "cer": 0.3333333333333333,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.5,
+  "rougeL_avg_f1": 0.5,
+  "levenshtein_avg": 7.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Riguarda invece quello di un antenato del giovane Dashwood, Sir Francis Dashwood, noto libertino.\n",
+  "reference": "ricorda invece quello di un antenato del giovane dashwood, sir francis dashwood, noto libertino.",
+  "time": 5.616009070294784,
+  "cost": 7.21921088435374e-05,
+  "wer": 0.35714285714285715,
+  "cer": 0.08333333333333333,
+  "bleu_avg": 0.4785543921093738,
+  "rouge1_avg_f1": 0.9285714285714286,
+  "rougeL_avg_f1": 0.9285714285714286,
+  "levenshtein_avg": 9.0
+}

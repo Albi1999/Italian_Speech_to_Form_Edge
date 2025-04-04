@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "I due livelli principali avevano una forma a otto.\n",
+  "reference": "i due livelli principali avevano una forma a otto.",
+  "time": 4.248027210884354,
+  "cost": 5.427632653061225e-05,
+  "wer": 0.1111111111111111,
+  "cer": 0.02,
+  "bleu_avg": 0.8633400213704505,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Cancella sveglia.\n",
+  "reference": "cancella sveglia",
+  "time": 1.92,
+  "cost": 0.000404,
+  "wer": 1.0,
+  "cer": 0.125,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

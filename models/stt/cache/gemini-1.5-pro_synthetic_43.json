@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Agente Anna Bianchi in servizio. Segnalazione di divieto di sosta alle 7:06 minuti del 14 marzo 2025 in Via del Corso 28, Roma. Auto coinvolta: Renault Clio, targa AA 789 LL.\n",
+  "reference": "Agente Anna Bianchi in servizio. Segnalazione di divieto di sosta alle 07:06 del 14/03/2025, in via del Corso 12, Roma. Auto coinvolta: Renault Clio, targa GH789IJ.",
+  "time": 14.568979591836735,
+  "cost": 0.003078795918367347,
+  "wer": 0.38461538461538464,
+  "cer": 0.1524390243902439,
+  "bleu_avg": 0.5022374395202223,
+  "rouge1_avg_f1": 0.8196721311475409,
+  "rougeL_avg_f1": 0.8196721311475409,
+  "levenshtein_avg": 26.0
+}

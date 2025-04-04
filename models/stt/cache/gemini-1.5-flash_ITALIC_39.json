@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Mostra la lista delle email recenti.\n",
+  "reference": "mostra la lista delle email recenti",
+  "time": 3.24,
+  "cost": 4.128e-05,
+  "wer": 0.3333333333333333,
+  "cer": 0.05714285714285714,
+  "bleu_avg": 0.5081327481546147,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

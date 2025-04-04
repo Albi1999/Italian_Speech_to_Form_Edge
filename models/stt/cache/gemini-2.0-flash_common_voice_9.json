@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Il signor Ricci disse che l'euro si svaluterà ancora.",
+  "reference": "il signor ricci disse che l'euro si svaluterà ancora.",
+  "time": 4.6440362811791385,
+  "cost": 0.00017267007709750566,
+  "wer": 0.2222222222222222,
+  "cer": 0.03773584905660377,
+  "bleu_avg": 0.6104735835807844,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

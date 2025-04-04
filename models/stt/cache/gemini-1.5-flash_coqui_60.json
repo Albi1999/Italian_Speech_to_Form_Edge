@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "In base all'articolo,  quello che ho letto riferita, com'è stato, la gente Anna Bianchi ha riscontrato un'infrazione in via Roma 77, Palermo alle ore 3:27 del 23/10/2023. Veicolo coinvolto, quel corsa, targa,  da segnalare,  legittimità.\n",
+  "reference": "In base al articolo 158, comma 2, l'agente Anna Bianchi ha riscontrato un'infrazione in via Roma 77, Palermo alle ore 03:47 del 26/03/2025. Veicolo coinvolto: Opel Corsa, targa GH789IJ.",
+  "time": 17.89002267573696,
+  "cost": 0.00022578027210884354,
+  "wer": 0.6551724137931034,
+  "cer": 0.42702702702702705,
+  "bleu_avg": 0.34243899566070984,
+  "rouge1_avg_f1": 0.5675675675675677,
+  "rougeL_avg_f1": 0.5675675675675677,
+  "levenshtein_avg": 80.0
+}

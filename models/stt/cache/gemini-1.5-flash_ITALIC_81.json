@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Alexa, ho avuto i soldi per il mese. Quanto posso spendere ogni giorno questo mese?\n",
+  "reference": "alexa ho avuto i soldi per il mese quanto posso spendere ogni giorno questo mese",
+  "time": 5.013514739229025,
+  "cost": 6.52621768707483e-05,
+  "wer": 0.26666666666666666,
+  "cer": 0.0625,
+  "bleu_avg": 0.5702822264405542,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 6.0
+}

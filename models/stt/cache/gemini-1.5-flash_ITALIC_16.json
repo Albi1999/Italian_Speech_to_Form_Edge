@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Quanto devo cuocere una bistecca a cottura media?\n",
+  "reference": "quanto devo cuocere una bistecca a cottura media",
+  "time": 3.18,
+  "cost": 4.116e-05,
+  "wer": 0.25,
+  "cer": 0.041666666666666664,
+  "bleu_avg": 0.6803749333171202,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

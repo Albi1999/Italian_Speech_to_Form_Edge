@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "verbale di infrazione redatto dall'agente Sara Bellini. Data, ieri 333, ora 23. Infrazione, doppia fila. Luogo, Via Milano 34, Torino. Veicolo, Fiat Panda, targa 456.",
+  "reference": "Verbale di infrazione redatto dall'agente Sara Bellini. Data: 19/03/2025, ora: 05:23. Infrazione: doppia fila. Luogo: via Milano 24, Torino. Veicolo: Fiat Panda, targa CD456EF.",
+  "time": 18.149024943310657,
+  "cost": 0.0006544456780045351,
+  "wer": 0.5,
+  "cer": 0.14204545454545456,
+  "bleu_avg": 0.2677353447271197,
+  "rouge1_avg_f1": 0.8148148148148148,
+  "rougeL_avg_f1": 0.8148148148148148,
+  "levenshtein_avg": 25.0
+}

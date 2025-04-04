@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "La domenica seguente la Lazio subisce il medesimo risultato al San Paolo.\n",
+  "reference": "la domenica seguente, la lazio subisce il medesimo risultato al san paolo.",
+  "time": 5.148027210884353,
+  "cost": 0.0010996054421768707,
+  "wer": 0.4166666666666667,
+  "cer": 0.06756756756756757,
+  "bleu_avg": 0.3448444257953326,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 6.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Agente Anna Bianchi in servizio. Segnalazione di doppia fila, alettine, tende, il nido, cretenti, tenti, fiore, in piazza Venezia, Roma. Auto coinvolta, Fiat Panda, tra gli onde degli esorrenti.\n",
+  "reference": "Agente Anna Bianchi in servizio. Segnalazione di doppia fila alle 10:19 del 09/03/2025, in piazza Venezia, Roma. Auto coinvolta: Fiat Panda, targa XY987ZT.",
+  "time": 14.211020408163265,
+  "cost": 0.00017983224489795917,
+  "wer": 0.6086956521739131,
+  "cer": 0.4258064516129032,
+  "bleu_avg": 0.37556056028537027,
+  "rouge1_avg_f1": 0.6181818181818182,
+  "rougeL_avg_f1": 0.6181818181818182,
+  "levenshtein_avg": 67.0
+}

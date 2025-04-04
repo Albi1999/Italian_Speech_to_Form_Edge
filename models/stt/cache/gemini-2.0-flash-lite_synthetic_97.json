@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Verbale di infrazione redatto dall'agente Sara Bellini. Data 12 marzo 2025, ora 14:57, infrazione, sosta davanti a passo carrabile, luogo, via Napoli 5, Napoli, veicolo, Audi A3, targa TR98U.",
+  "reference": "Verbale di infrazione redatto dall'agente Sara Bellini. Data: 12/03/2025, ora: 14:57. Infrazione: sosta davanti a passo carrabile. Luogo: via Napoli 5, Napoli. Veicolo: Audi A3, targa TR098YU.",
+  "time": 20.808027210884354,
+  "cost": 0.0002589963265306122,
+  "wer": 0.4444444444444444,
+  "cer": 0.10416666666666667,
+  "bleu_avg": 0.3634359728549335,
+  "rouge1_avg_f1": 0.9354838709677419,
+  "rougeL_avg_f1": 0.9354838709677419,
+  "levenshtein_avg": 20.0
+}

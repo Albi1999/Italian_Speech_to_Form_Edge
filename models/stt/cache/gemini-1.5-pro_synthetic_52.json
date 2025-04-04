@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Infrazione riscontrata: parcheggio su strisce pedonali. Posizione: Via del Corso 12, Roma. Ora: 4:15. Data: 25 marzo 2025. Auto: Toyota Yaris, targa FG234LM. Agente: Anna Bianchi.\n",
+  "reference": "Infrazione riscontrata: parcheggio su strisce pedonali. Posizione: via del Corso 12, Roma. Ora: 04:15, Data: 25/03/2025. Auto: Toyota Yaris, targa FG234LM. Agente: Anna Bianchi.",
+  "time": 17.468979591836735,
+  "cost": 0.0036337959183673474,
+  "wer": 0.20833333333333334,
+  "cer": 0.05649717514124294,
+  "bleu_avg": 0.6256538561604214,
+  "rouge1_avg_f1": 0.9259259259259259,
+  "rougeL_avg_f1": 0.9259259259259259,
+  "levenshtein_avg": 11.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Durante il pattugliamento in zona via del Corso 12, Roma, l'agente Sara Bellini ha rilevato una violazione dell'articolo 158, comma 2. L'auto coinvolta è una Renault Clio targata XY987ZT, alle ore 16:38 del 22 marzo 2025.\n",
+  "reference": "Durante il pattugliamento in zona via del Corso 12, Roma, l'agente Sara Bellini ha rilevato una violazione del articolo 158, comma 2. L'auto coinvolta è una Renault Clio targata XY987ZT, alle ore 16:38 del 22/03/2025.",
+  "time": 18.168979591836734,
+  "cost": 0.0038237959183673466,
+  "wer": 0.14285714285714285,
+  "cer": 0.041474654377880185,
+  "bleu_avg": 0.8385130047130208,
+  "rouge1_avg_f1": 0.9487179487179487,
+  "rougeL_avg_f1": 0.9487179487179487,
+  "levenshtein_avg": 10.0
+}

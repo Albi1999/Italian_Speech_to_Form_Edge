@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Non riesco a trascrivere l'audio perché non mi è stato fornito.  Per favore, forniscimi l'audio in modo che io possa trascriverlo per te.\n",
+  "reference": "19/03/2025, ore 03:45: veicolo Mercedes Classe A, targa XY987ZT, in doppia fila presso via del Corso 12, Roma. Rilevato da agente Silvia Neri.",
+  "time": 13.92204081632653,
+  "cost": 0.00017456448979591836,
+  "wer": 1.0,
+  "cer": 0.795774647887324,
+  "bleu_avg": 0.008282282660969604,
+  "rouge1_avg_f1": 0.08,
+  "rougeL_avg_f1": 0.08,
+  "levenshtein_avg": 114.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "limite dei 30, 30 file, ore file, forti 3, veicolo Tolo da Vaisi, targa, buono mondo dei 30 teresie, in parcheggio su strisce pedonali presso Via del Corso PL, Roma. Rilevato da agente Macco agenti.",
+  "reference": "09/03/2025, ore 05:43: veicolo Toyota Yaris, targa AB123CD, in parcheggio su strisce pedonali presso via del Corso 12, Roma. Rilevato da agente Marco Gentili.",
+  "time": 14.786031746031746,
+  "cost": 0.0005400683174603175,
+  "wer": 0.875,
+  "cer": 0.4620253164556962,
+  "bleu_avg": 0.22148418795159994,
+  "rouge1_avg_f1": 0.5161290322580645,
+  "rougeL_avg_f1": 0.5161290322580645,
+  "levenshtein_avg": 73.0
+}

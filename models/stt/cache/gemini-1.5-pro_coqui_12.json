@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Il giorno 13/02/2025 alle ore 20:18 è stata segnalata un'infrazione per parcheggio su strisce pedonali in Corso Buenos Aires, n. 88, Milano. Veicolo coinvolto [OMISSIS] targa [OMISSIS] Agente: Sara Bellini.\n",
+  "reference": "Il giorno 30/03/2025, alle ore 23:08, è stata segnalata un’infrazione per parcheggio su strisce pedonali in corso Buenos Aires 98, Milano. Veicolo coinvolto: BMW Serie 1, targa CD456EF. Agente: Sara Bellini.",
+  "time": 20.099002267573695,
+  "cost": 0.004179800453514739,
+  "wer": 0.3870967741935484,
+  "cer": 0.16908212560386474,
+  "bleu_avg": 0.27534943643975235,
+  "rouge1_avg_f1": 0.746268656716418,
+  "rougeL_avg_f1": 0.746268656716418,
+  "levenshtein_avg": 36.0
+}

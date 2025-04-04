@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "In base all'articolo numero 1275, comma 5, la gente Anna Bianchi ha riscontrato un'infrazione in corso Buenos Aires, 98, Milano alle ore 16:15 del 22/05. Veicolo coinvolto: Audi A3, targa AB123456.\n",
+  "reference": "In base al articolo 157, comma 5, l'agente Anna Bianchi ha riscontrato un'infrazione in corso Buenos Aires 98, Milano alle ore 13:06 del 04/03/2025. Veicolo coinvolto: Audi A3, targa AB123CD.",
+  "time": 19.906031746031747,
+  "cost": 0.00024877238095238094,
+  "wer": 0.3,
+  "cer": 0.14136125654450263,
+  "bleu_avg": 0.45003530935702724,
+  "rouge1_avg_f1": 0.7142857142857143,
+  "rougeL_avg_f1": 0.7142857142857143,
+  "levenshtein_avg": 28.0
+}

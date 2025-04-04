@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Sono la gente Anna Bianchi. Alle ore file, le vende il tir trentatré tenti tenti file. Ho rilevato un'infrazione per parcheggio su strisce pedonali in via Milano tenti foro, Torino. Veicolo, Polo Volkswagen, targa DO N G R E tir ti forma.\n",
+  "reference": "Sono l'agente Anna Bianchi. Alle ore 05:11 del 13/03/2025, ho rilevato un'infrazione per parcheggio su strisce pedonali in via Milano 24, Torino. Veicolo: Volkswagen Golf, targa FG234LM.",
+  "time": 16.54702947845805,
+  "cost": 0.0035294058956916096,
+  "wer": 0.9259259259259259,
+  "cer": 0.4838709677419355,
+  "bleu_avg": 0.279184049456884,
+  "rouge1_avg_f1": 0.5599999999999999,
+  "rougeL_avg_f1": 0.5599999999999999,
+  "levenshtein_avg": 91.0
+}

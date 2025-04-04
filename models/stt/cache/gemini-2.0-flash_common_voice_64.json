@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Le spalle sono lunghe e aderenti al torace.",
+  "reference": "le spalle sono lunghe e aderenti al torace.",
+  "time": 4.428027210884354,
+  "cost": 0.00016466655782312924,
+  "wer": 0.125,
+  "cer": 0.023255813953488372,
+  "bleu_avg": 0.8408964152537145,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 1.0
+}

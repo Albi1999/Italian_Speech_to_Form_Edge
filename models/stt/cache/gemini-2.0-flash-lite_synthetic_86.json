@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "30 marzo 2025, ore 3:56, veicolo Renault Clio, targa KL321MN, in parcheggio su strisce pedonali presso Corso Buenos Aires 98, Milano, rilevato da agente Sara Bellini.\n",
+  "reference": "13/03/2025, ore 03:56: veicolo Renault Clio, targa KL321MN, in parcheggio su strisce pedonali presso corso Buenos Aires 98, Milano. Rilevato da agente Sara Bellini.",
+  "time": 17.02299319727891,
+  "cost": 0.0002126759183673469,
+  "wer": 0.2916666666666667,
+  "cer": 0.08536585365853659,
+  "bleu_avg": 0.5411953360894813,
+  "rouge1_avg_f1": 0.8888888888888888,
+  "rougeL_avg_f1": 0.8888888888888888,
+  "levenshtein_avg": 15.0
+}

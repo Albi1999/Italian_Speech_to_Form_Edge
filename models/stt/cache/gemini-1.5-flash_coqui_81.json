@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Verbale di infrazione redatto dall'agente Mario Rossi. Data 11/11/2025, ora 10:15. Infrazione: ZANARIMOZIONE. Luogo: Via Garibaldi 11, Firenze. Veicolo percorso: targa KTRE1201N.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Mario Rossi. Data: 11/03/2025, ora: 13:06. Infrazione: zona rimozione. Luogo: via Garibaldi 11, Firenze. Veicolo: Opel Corsa, targa KL321MN.",
+  "time": 18.213015873015873,
+  "cost": 0.00022575619047619046,
+  "wer": 0.4583333333333333,
+  "cer": 0.19230769230769232,
+  "bleu_avg": 0.31529961153292513,
+  "rouge1_avg_f1": 0.7407407407407408,
+  "rougeL_avg_f1": 0.7407407407407408,
+  "levenshtein_avg": 36.0
+}

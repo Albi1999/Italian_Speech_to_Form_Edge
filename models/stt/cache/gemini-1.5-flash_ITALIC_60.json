@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Per favore, avvia le canzoni acquistate e aggiungile tra i preferiti.\n",
+  "reference": "per favore avvia le canzoni acquistate e aggiungile tra i preferiti",
+  "time": 5.16,
+  "cost": 6.582e-05,
+  "wer": 0.2727272727272727,
+  "cer": 0.04477611940298507,
+  "bleu_avg": 0.6786502681586727,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 4.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Agente Luca Verdi in servizio. Segnalazione di parcheggio su strisce pedonali alle 07:45 in Forte Cittadella,  Ventimiglia, in via Milano 24, Torino. Auto coinvolta Opel Corsa, targa 3N...",
+  "reference": "Agente Luca Verdi in servizio. Segnalazione di parcheggio su strisce pedonali alle 17:46 del 01/03/2025, in via Milano 24, Torino. Auto coinvolta: Opel Corsa, targa TR098YU.",
+  "time": 16.51501133786848,
+  "cost": 0.003453002267573696,
+  "wer": 0.2692307692307692,
+  "cer": 0.2254335260115607,
+  "bleu_avg": 0.6100034457014365,
+  "rouge1_avg_f1": 0.7586206896551724,
+  "rougeL_avg_f1": 0.7586206896551724,
+  "levenshtein_avg": 39.0
+}

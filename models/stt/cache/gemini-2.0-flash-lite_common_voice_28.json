@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Si insediarono in Libia.",
+  "reference": "vi si insediarono alcune migliaia di coloni italiani nella seconda metà degli anni trenta.",
+  "time": 5.832018140589569,
+  "cost": 7.178421768707482e-05,
+  "wer": 0.9285714285714286,
+  "cer": 0.7666666666666667,
+  "bleu_avg": 0.0065949420663472934,
+  "rouge1_avg_f1": 0.22222222222222224,
+  "rougeL_avg_f1": 0.22222222222222224,
+  "levenshtein_avg": 69.0
+}

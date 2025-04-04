@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "È doppiato in inglese da Andy Daly.",
+  "reference": "è doppiato in inglese da andy davoli.",
+  "time": 2.628027210884354,
+  "cost": 0.00010090655782312925,
+  "wer": 0.42857142857142855,
+  "cer": 0.16216216216216217,
+  "bleu_avg": 0.41113361690051975,
+  "rouge1_avg_f1": 0.8333333333333334,
+  "rougeL_avg_f1": 0.8333333333333334,
+  "levenshtein_avg": 6.0
+}

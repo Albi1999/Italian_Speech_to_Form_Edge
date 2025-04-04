@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "In base all'articolo 186 del codice della strada, comma 2, l'agente Anna Bianchi ha riscontrato un'infrazione in via Roma 77, Palermo, alle ore 3:17,33. Veicolo coinvolto: Ford Corsa, targa AA619ZT.\n",
+  "reference": "In base al articolo 158, comma 2, l'agente Anna Bianchi ha riscontrato un'infrazione in via Roma 77, Palermo alle ore 03:47 del 26/03/2025. Veicolo coinvolto: Opel Corsa, targa GH789IJ.",
+  "time": 17.89002267573696,
+  "cost": 0.003738004535147392,
+  "wer": 0.41379310344827586,
+  "cer": 0.2972972972972973,
+  "bleu_avg": 0.45564646342789705,
+  "rouge1_avg_f1": 0.7246376811594202,
+  "rougeL_avg_f1": 0.6956521739130436,
+  "levenshtein_avg": 56.0
+}

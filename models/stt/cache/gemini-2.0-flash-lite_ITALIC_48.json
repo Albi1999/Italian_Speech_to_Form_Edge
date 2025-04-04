@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Il primo di aprile è lunedì.\n",
+  "reference": "che giorno della settimana è il primo di aprile",
+  "time": 3.48,
+  "cost": 4.416e-05,
+  "wer": 0.8888888888888888,
+  "cer": 0.7659574468085106,
+  "bleu_avg": 0.13168903966325227,
+  "rouge1_avg_f1": 0.6153846153846154,
+  "rougeL_avg_f1": 0.6153846153846154,
+  "levenshtein_avg": 36.0
+}

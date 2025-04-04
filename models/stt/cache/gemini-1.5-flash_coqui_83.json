@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Ten ti tere ten ti ten ti fiuè, ore ten ti one fi fi ni ne, veico lo Mercedes classe, taga,  po'ndre tir tir for mu, in parcheggio su strisce pedonali presso via Napoli fiuè, Napoli, rilevato da gente annabbiato.\n",
+  "reference": "20/03/2025, ore 21:59: veicolo Mercedes Classe A, targa FG234LM, in parcheggio su strisce pedonali presso via Napoli 5, Napoli. Rilevato da agente Anna Bianchi.",
+  "time": 15.36204081632653,
+  "cost": 0.00019694448979591837,
+  "wer": 1.25,
+  "cer": 0.59375,
+  "bleu_avg": 0.18014636992642138,
+  "rouge1_avg_f1": 0.411764705882353,
+  "rougeL_avg_f1": 0.411764705882353,
+  "levenshtein_avg": 96.0
+}

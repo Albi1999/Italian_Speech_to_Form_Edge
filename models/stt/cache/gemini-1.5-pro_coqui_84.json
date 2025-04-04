@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Ninì, 3 tende, 3 tende e 3 figli, 4 e 3, 4 e 3, veicolo Toyota Yaris, targa, boh, non me la ricordo, 3 tende e 3 ragazzi. In parcheggio su strisce pedonali presso via del Corso Hotel Aurora, rilevato da agente Marco Gentili.\n",
+  "reference": "09/03/2025, ore 05:43: veicolo Toyota Yaris, targa AB123CD, in parcheggio su strisce pedonali presso via del Corso 12, Roma. Rilevato da agente Marco Gentili.",
+  "time": 14.786031746031746,
+  "cost": 0.0031872063492063493,
+  "wer": 1.2083333333333333,
+  "cer": 0.6012658227848101,
+  "bleu_avg": 0.2337103772467948,
+  "rouge1_avg_f1": 0.5070422535211268,
+  "rougeL_avg_f1": 0.5070422535211268,
+  "levenshtein_avg": 96.0
+}

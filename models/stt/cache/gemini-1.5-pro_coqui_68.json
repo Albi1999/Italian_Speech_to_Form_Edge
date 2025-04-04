@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "In base all'articolo 7 comma 5 lettera A, l'agente Silvia Neri ha riscontrato un'infrazione in corso Buenos Aires incrocio via Tarchetti città Milano alle ore 3:11 del 30/10/2023. Veicolo coinvolto: Renault Clio, targa FR 156 PP.\n",
+  "reference": "In base al articolo 7, comma 15, l'agente Silvia Neri ha riscontrato un'infrazione in corso Buenos Aires 98, Milano alle ore 03:31 del 31/03/2025. Veicolo coinvolto: Renault Clio, targa CD456EF.",
+  "time": 17.506031746031745,
+  "cost": 0.003691206349206349,
+  "wer": 0.5,
+  "cer": 0.28350515463917525,
+  "bleu_avg": 0.404949394786753,
+  "rouge1_avg_f1": 0.6753246753246753,
+  "rougeL_avg_f1": 0.6753246753246753,
+  "levenshtein_avg": 56.0
+}

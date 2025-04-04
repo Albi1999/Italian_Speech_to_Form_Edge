@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "È considerato un nome *in dubio*.\n",
+  "reference": "è considerato un \"nomen dubium\".",
+  "time": 3.528027210884354,
+  "cost": 4.473632653061224e-05,
+  "wer": 0.8,
+  "cer": 0.25,
+  "bleu_avg": 0.08633400213704504,
+  "rouge1_avg_f1": 0.4444444444444445,
+  "rougeL_avg_f1": 0.4444444444444445,
+  "levenshtein_avg": 9.0
+}

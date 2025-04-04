@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Dopo la morte di Oliver, Henry approvò la discussione del fratello Richard.\n",
+  "reference": "dopo la morte di oliver, henry approvò la successione del fratello richard.",
+  "time": 5.4,
+  "cost": 6.900000000000001e-05,
+  "wer": 0.4166666666666667,
+  "cer": 0.10666666666666667,
+  "bleu_avg": 0.1239040201758117,
+  "rouge1_avg_f1": 0.9166666666666666,
+  "rougeL_avg_f1": 0.9166666666666666,
+  "levenshtein_avg": 9.0
+}

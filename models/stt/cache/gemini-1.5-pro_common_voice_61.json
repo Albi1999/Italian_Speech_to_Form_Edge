@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Le speranze a Seattle sono tante data la giovane età della coppia Payton-Kemp.\n",
+  "reference": "le speranze a seattle sono tante data la giovane età della coppia payton-kemp.",
+  "time": 5.4,
+  "cost": 0.0011550000000000002,
+  "wer": 0.23076923076923078,
+  "cer": 0.05128205128205128,
+  "bleu_avg": 0.6115380576901023,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 5.0
+}

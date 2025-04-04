@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Durante il pattugliamento in zona via Garibaldi, Even, Firenze, l'agente Luca Verdi, ha rilevato una violazione dell'articolo 458, comma. L'auto coinvolta è una mezza targata 456, alle ore 9:30 e gli altri presenti 30.",
+  "reference": "Durante il pattugliamento in zona via Garibaldi 11, Firenze, l'agente Luca Verdi ha rilevato una violazione del articolo 158, comma 2. L'auto coinvolta è una BMW Serie 1 targata ZA456QP, alle ore 19:38 del 29/03/2025.",
+  "time": 20.77002267573696,
+  "cost": 0.0002600402721088435,
+  "wer": 0.5142857142857142,
+  "cer": 0.22119815668202766,
+  "bleu_avg": 0.31673287061305344,
+  "rouge1_avg_f1": 0.6578947368421052,
+  "rougeL_avg_f1": 0.6578947368421052,
+  "levenshtein_avg": 48.0
+}

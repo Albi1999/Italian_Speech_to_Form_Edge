@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Agente Giulia Costa in servizio. Segnalazione di doppia fila alle Fivetinine del 20 Five 3 20 Five in Via del Corso Tove, Roma. Auto coinvolta, Volkswagen Golf, targa 321.",
+  "reference": "Agente Giulia Costa in servizio. Segnalazione di doppia fila alle 05:49 del 25/03/2025, in via del Corso 12, Roma. Auto coinvolta: Volkswagen Golf, targa KL321MN.",
+  "time": 16.419002267573696,
+  "cost": 0.000595148879818594,
+  "wer": 0.4,
+  "cer": 0.2037037037037037,
+  "bleu_avg": 0.4064771064436676,
+  "rouge1_avg_f1": 0.736842105263158,
+  "rougeL_avg_f1": 0.736842105263158,
+  "levenshtein_avg": 33.0
+}

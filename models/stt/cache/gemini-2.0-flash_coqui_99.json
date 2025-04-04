@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Pentito tre denti denti fiue, orone, denti fiue, veicolo Volkswagen Golf, targa, ungherese di forma, in sosta davanti a passo carrabile presso via N. A. Fortifiue, Catania. Rilevato da agente C.V.A.I.",
+  "reference": "22/03/2025, ore 01:25: veicolo Volkswagen Golf, targa FG234LM, in sosta davanti a passo carrabile presso via Etnea 45, Catania. Rilevato da agente Silvia Neri.",
+  "time": 14.85002267573696,
+  "cost": 0.000540720798185941,
+  "wer": 0.7083333333333334,
+  "cer": 0.5408805031446541,
+  "bleu_avg": 0.3368269415075382,
+  "rouge1_avg_f1": 0.5245901639344261,
+  "rougeL_avg_f1": 0.5245901639344261,
+  "levenshtein_avg": 86.0
+}

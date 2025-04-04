@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "L'opera fa tan dan con il giudizio di Salomone nello stesso museo.\n",
+  "reference": "l'opera fa \"pendant\" con il \"giudizio di salomone\" nello stesso museo.",
+  "time": 5.004036281179138,
+  "cost": 6.424843537414965e-05,
+  "wer": 0.45454545454545453,
+  "cer": 0.14285714285714285,
+  "bleu_avg": 0.11530568323789493,
+  "rouge1_avg_f1": 0.8799999999999999,
+  "rougeL_avg_f1": 0.8799999999999999,
+  "levenshtein_avg": 11.0
+}

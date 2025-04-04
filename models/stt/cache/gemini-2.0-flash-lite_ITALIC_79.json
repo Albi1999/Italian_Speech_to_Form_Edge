@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Mi hanno promosso oggi, che bellezza!\n",
+  "reference": "mi hanno promosso oggi che bellezza",
+  "time": 3.7546938775510204,
+  "cost": 4.745632653061224e-05,
+  "wer": 0.5,
+  "cer": 0.08571428571428572,
+  "bleu_avg": 0.09554427922043669,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 4.0
+}

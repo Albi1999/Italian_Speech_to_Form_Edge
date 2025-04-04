@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "In base all'articolo 1157 comma 5 del Codice della Strada, l'agente Carlo Bruni ha riscontrato un'infrazione in via Nenni a Forti Fiume, Catania, alle ore 17:30 del 17/10/2023. Veicolo coinvolto: Audi A3, targa  [incomprensibile] 1740.\n",
+  "reference": "In base al articolo 157, comma 5, l'agente Carlo Bruni ha riscontrato un'infrazione in via Etnea 45, Catania alle ore 11:39 del 06/03/2025. Veicolo coinvolto: Audi A3, targa FG234LM.",
+  "time": 17.73002267573696,
+  "cost": 0.00022386027210884353,
+  "wer": 0.5862068965517241,
+  "cer": 0.41208791208791207,
+  "bleu_avg": 0.33358510898195926,
+  "rouge1_avg_f1": 0.64,
+  "rougeL_avg_f1": 0.64,
+  "levenshtein_avg": 76.0
+}

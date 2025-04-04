@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Fortentere venti venti ventifive ore tredici e trenta, ritirierei veicolo Toyota Yaris, targa tre enne, e, i, ge, tu, in divieto di sosta presso via del Corso, Toelve, Roma. Rilevato da agente Marco Gentili.\n",
+  "reference": "14/03/2025, ore 13:33: veicolo Toyota Yaris, targa TR098YU, in divieto di sosta presso via del Corso 12, Roma. Rilevato da agente Marco Gentili.",
+  "time": 14.914013605442177,
+  "cost": 0.0031628027210884356,
+  "wer": 0.6956521739130435,
+  "cer": 0.6180555555555556,
+  "bleu_avg": 0.37570300694867703,
+  "rouge1_avg_f1": 0.6333333333333334,
+  "rougeL_avg_f1": 0.6333333333333334,
+  "levenshtein_avg": 90.0
+}

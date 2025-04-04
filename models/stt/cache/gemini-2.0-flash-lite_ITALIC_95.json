@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Puoi ordinare del sushi per la cena di stasera?\n",
+  "reference": "puoi ordinare del sushi per la cena di stasera",
+  "time": 5.4,
+  "cost": 6.81e-05,
+  "wer": 0.2222222222222222,
+  "cer": 0.043478260869565216,
+  "bleu_avg": 0.7259795291154771,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

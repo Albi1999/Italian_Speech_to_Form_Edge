@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Il giorno 28 2020 vive alle ore 18:47 è stata segnalata un'infrazione per accesso vietato in Via Napoli vive, Napoli. Veicolo coinvolto, Renault Targa 321. Agente, Sara Bellini.",
+  "reference": "Il giorno 28/03/2025, alle ore 18:47, è stata segnalata un’infrazione per accesso vietato in via Napoli 5, Napoli. Veicolo coinvolto: Renault Clio, targa KL321MN. Agente: Sara Bellini.",
+  "time": 18.499002267573697,
+  "cost": 0.0006679648798185941,
+  "wer": 0.4444444444444444,
+  "cer": 0.15760869565217392,
+  "bleu_avg": 0.17482131527678862,
+  "rouge1_avg_f1": 0.847457627118644,
+  "rougeL_avg_f1": 0.847457627118644,
+  "levenshtein_avg": 29.0
+}

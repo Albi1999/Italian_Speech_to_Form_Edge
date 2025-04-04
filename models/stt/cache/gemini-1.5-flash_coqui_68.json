@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "In base all'articolo 7 comma 1 del Codice della Strada, l'agente Silvia Neri ha riscontrato un'infrazione in corso, in buono stato e regolarmente in città Milano alle ore 3:30 del 30/10/2023. Veicolo coinvolto: Renault Clio, targa FU 256.\n",
+  "reference": "In base al articolo 7, comma 15, l'agente Silvia Neri ha riscontrato un'infrazione in corso Buenos Aires 98, Milano alle ore 03:31 del 31/03/2025. Veicolo coinvolto: Renault Clio, targa CD456EF.",
+  "time": 17.506031746031745,
+  "cost": 0.00022207238095238094,
+  "wer": 0.6666666666666666,
+  "cer": 0.36082474226804123,
+  "bleu_avg": 0.2945667423247454,
+  "rouge1_avg_f1": 0.6075949367088607,
+  "rougeL_avg_f1": 0.6075949367088607,
+  "levenshtein_avg": 71.0
+}

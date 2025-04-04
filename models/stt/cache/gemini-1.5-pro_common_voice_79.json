@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Il libro segue gli eventi di \"La fine della vicenda\".\n",
+  "reference": "il libro segue gli eventi di la fine della vicenda.",
+  "time": 6.84,
+  "cost": 0.0014279999999999998,
+  "wer": 0.3,
+  "cer": 0.0784313725490196,
+  "bleu_avg": 0.4518010018049224,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 5.0
+}

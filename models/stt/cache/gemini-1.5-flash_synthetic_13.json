@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sono l'agente Sara Bellini, alle ore 16:55 del 15 marzo 2025. Ho rilevato un'infrazione per zona rimozione in Corso Buenos Aires 98, Milano. Veicolo Mercedes Classe A, targa TR 98 YU.\n",
+  "reference": "Sono l'agente Sara Bellini. Alle ore 16:55 del 15/03/2025, ho rilevato un'infrazione per zona rimozione in corso Buenos Aires 98, Milano. Veicolo: Mercedes Classe A, targa TR098YU.",
+  "time": 17.52,
+  "cost": 0.00022014,
+  "wer": 0.4074074074074074,
+  "cer": 0.08333333333333333,
+  "bleu_avg": 0.37541625264671097,
+  "rouge1_avg_f1": 0.9090909090909091,
+  "rougeL_avg_f1": 0.9090909090909091,
+  "levenshtein_avg": 16.0
+}

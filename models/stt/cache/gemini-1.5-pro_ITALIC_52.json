@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Suona la mia colonna sonora.  P\n",
+  "reference": "suona la mia colonna sonora",
+  "time": 2.52,
+  "cost": 0.000544,
+  "wer": 0.6,
+  "cer": 0.18518518518518517,
+  "bleu_avg": 0.20205155046766235,
+  "rouge1_avg_f1": 0.9090909090909091,
+  "rougeL_avg_f1": 0.9090909090909091,
+  "levenshtein_avg": 6.0
+}

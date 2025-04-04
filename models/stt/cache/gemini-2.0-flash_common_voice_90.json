@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "L'opera Fattan Down con il giudizio di Salomone nello stesso museo.",
+  "reference": "l'opera fa \"pendant\" con il \"giudizio di salomone\" nello stesso museo.",
+  "time": 5.004036281179138,
+  "cost": 0.00018614207709750566,
+  "wer": 0.45454545454545453,
+  "cer": 0.2,
+  "bleu_avg": 0.12278260149096115,
+  "rouge1_avg_f1": 0.8333333333333334,
+  "rougeL_avg_f1": 0.8333333333333334,
+  "levenshtein_avg": 14.0
+}

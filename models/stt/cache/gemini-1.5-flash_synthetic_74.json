@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Infrazione riscontrata: divieto di sosta. Posizione: Via Etnea 45, Catania. Ora: 10:09 minuti. Data: 18 marzo 2025. Auto: Audi A3. Targa: CD 456 F. Agente: Marco Gentili.\n",
+  "reference": "Infrazione riscontrata: divieto di sosta. Posizione: via Etnea 45, Catania. Ora: 10:09, Data: 18/03/2025. Auto: Audi A3, targa CD456EF. Agente: Marco Gentili.",
+  "time": 21.27201814058957,
+  "cost": 0.0002639642176870748,
+  "wer": 0.5,
+  "cer": 0.13291139240506328,
+  "bleu_avg": 0.3288861494180288,
+  "rouge1_avg_f1": 0.8679245283018867,
+  "rougeL_avg_f1": 0.8679245283018867,
+  "levenshtein_avg": 22.0
+}

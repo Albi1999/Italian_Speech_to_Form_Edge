@@ -1,0 +1,205 @@
+model,text,reference,time,cost,wer,cer,bleu_avg,rouge1_avg_f1,rougeL_avg_f1,levenshtein_avg
+gemini-2.0-flash-lite,"Segna il prossimo lunedì.
+",segna il prossimo lunedì,2.82,3.564e-05,0.5,0.08333333333333333,0.16990442448471224,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Riproduci la lista delle mie canzoni più ascoltate.
+",riproduci la lista delle mie canzoni più ascoltate,3.06,3.9720000000000006e-05,0.25,0.04,0.6803749333171202,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Disattiva la sveglia delle quindici.
+",disattiva la sveglia delle quindici,3.18,4.026e-05,0.4,0.05714285714285714,0.26591479484724945,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Cancella sveglia.
+",cancella sveglia,1.92,2.424e-05,1.0,0.125,0.0,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Ricordami i miei impegni del pomeriggio.
+",ricordami i miei impegni del pomeriggio,3.6,4.56e-05,0.3333333333333333,0.05128205128205128,0.5081327481546147,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Metti in pausa il libro.
+",metti in pausa il libro,2.16,2.802e-05,0.4,0.08695652173913043,0.26591479484724945,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Ehi, puoi abbassare le luci, per favore?
+",ehi puoi abbassare le luci per favore,2.7,3.51e-05,0.42857142857142855,0.10810810810810811,0.17567205239427922,1.0,1.0,5.0
+gemini-2.0-flash-lite,"Pasqua nel 2018 è stata il 1° aprile.
+",quand'è pasqua nell'anno duemiladiciotto,2.94,3.827999999999999e-05,2.0,0.825,0.0,0.16666666666666666,0.16666666666666666,33.0
+gemini-2.0-flash-lite,"Parla più forte.
+",parla più forte,1.74,2.238e-05,0.6666666666666666,0.13333333333333333,0.11362193664674995,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Come si fa il tacchino?
+",come si fa il tacchino,2.88,3.666e-05,0.4,0.09090909090909091,0.26591479484724945,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Certo, ecco la trascrizione:
+""Per favore, scrivi una nuova email a un collega.""
+",per favore scrivi una nuova email a un collega,4.5,5.85e-05,0.6666666666666666,0.7391304347826086,0.3805803001674946,0.8181818181818181,0.8181818181818181,35.0
+gemini-2.0-flash-lite,"Quando comincia ufficialmente la fase a eliminazione diretta della Champions League?
+",quando comincia ufficialmente la fase a eliminazione diretta della champions league,5.58,7.086e-05,0.2727272727272727,0.04819277108433735,0.6786502681586727,1.0,1.0,5.0
+gemini-2.0-flash-lite,"Mi serve un biglietto del treno da Bologna a Parma.
+",mi serve un biglietto del treno da bologna a parma,4.56,5.831999999999999e-05,0.3,0.08,0.537284965911771,1.0,1.0,5.0
+gemini-2.0-flash-lite,"Per favore, aggiungi arance alla mia lista della spesa.
+",per favore aggiungi arance alla mia lista della spesa,4.5,5.73e-05,0.3333333333333333,0.05660377358490566,0.5873949094699213,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Aggiungi un orologio da polso alla lista delle cose da comprare.
+",aggiungi un orologio da polso alla lista delle cose da comprare,4.32,5.574e-05,0.18181818181818182,0.031746031746031744,0.7860753021519787,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Per favore, riproduci l'ultimo podcast di Francesco Costa.
+",per favore riproduci l'ultimo podcast di francesco costa,4.38,5.5559999999999997e-05,0.5,0.08928571428571429,0.345720784641941,1.0,1.0,6.0
+gemini-2.0-flash-lite,"Quanto devo cuocere una bistecca a cottura media?
+",quanto devo cuocere una bistecca a cottura media,3.18,4.116e-05,0.25,0.041666666666666664,0.6803749333171202,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Ehi, come sarà il tempo oggi a Milano, Lombardia?
+",ehi come sarà il tempo oggi a milano lombardia,3.96,5.0820000000000005e-05,0.3333333333333333,0.13043478260869565,0.5873949094699213,1.0,1.0,7.0
+gemini-2.0-flash-lite,"esco a malapena a sentirti.
+",riesco a malapena a sentirti,2.4,3.09e-05,0.4,0.10714285714285714,0.26591479484724945,0.8000000000000002,0.8000000000000002,4.0
+gemini-2.0-flash-lite,"Qual è il Conad più vicino?
+",qual è il conad più vicino,2.92,3.7439999999999994e-05,0.5,0.11538461538461539,0.09554427922043669,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Chi è il direttore musicale di questo brano?
+",chi è il direttore musicale di questo brano,4.68,5.915999999999999e-05,0.25,0.046511627906976744,0.6803749333171202,1.0,1.0,3.0
+gemini-2.0-flash-lite,Quali sono le novità di oggi?,quali sono le novità di oggi,2.52,3.264e-05,0.3333333333333333,0.07142857142857142,0.5081327481546147,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Nuova sveglia per le 6:00 di mattina.
+",nuova sveglia per le sei di mattina,3.36,4.301999999999999e-05,0.42857142857142855,0.17142857142857143,0.17567205239427922,0.7999999999999999,0.7999999999999999,7.0
+gemini-2.0-flash-lite,"Cosa c'è dentro la torta mimosa?
+",cosa c'è dentro la torta mimosa,3.72,4.7040000000000004e-05,0.3333333333333333,0.06451612903225806,0.5081327481546147,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Passa alla prossima sezione.
+",passa alla prossima sezione,2.3467120181405896,2.9960544217687074e-05,0.5,0.07407407407407407,0.16990442448471224,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Certo, posso farlo. Per favore, fornisci l'audio allegato.
+",cerca informazioni online,2.94,3.827999999999999e-05,2.6666666666666665,1.8,0.0,0.0,0.0,46.0
+gemini-2.0-flash-lite,"Cancella l'incontro di domani dal mio calendario.
+",cancella l'incontro di domani dal mio calendario,4.2,5.3099999999999996e-05,0.2857142857142857,0.041666666666666664,0.6147881529512643,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Siri, che data è oggi?
+",siri che data è oggi,2.52,3.234e-05,0.4,0.15,0.26591479484724945,1.0,1.0,4.0
+gemini-2.0-flash-lite,"""Oltre il cielo"" e ""Il racconto dell'ancella"".",olly quali film drammatici debuttano questo fine settimana,4.26,5.3819999999999996e-05,1.0,0.7931034482758621,0.0,0.0,0.0,46.0
+gemini-2.0-flash-lite,"Puoi prenotarmi un taxi?
+",puoi prenotarmi un taxi,4.32,5.364000000000001e-05,0.5,0.08695652173913043,0.16990442448471224,1.0,1.0,3.0
+gemini-2.0-flash-lite,Controlla email da telefono.,controlla email da stefano,2.88,3.636e-05,0.5,0.23076923076923078,0.16990442448471224,0.75,0.75,6.0
+gemini-2.0-flash-lite,"Aggiungi questo brano al prossimo brano in riproduzione.
+",aggiungi questo brano al prossimo brano in riproduzione,3.9,4.98e-05,0.25,0.03636363636363636,0.6803749333171202,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Sono le 14:30.
+",che ore sono a milano adesso,2.7,3.39e-05,1.0,0.7857142857142857,0.0,0.2,0.2,23.0
+gemini-2.0-flash-lite,"Ehi, che ore sono a Roma adesso?
+",ehi che ore sono a roma adesso,3.370702947845805,4.3148435374149656e-05,0.42857142857142855,0.13333333333333333,0.41113361690051975,1.0,1.0,5.0
+gemini-2.0-flash-lite,"L'oggetto dell'ultima email di mamma è ""Aggiornamenti"".
+",qual è l'oggetto dell'ultima email di mamma,3.66,4.662e-05,0.7142857142857143,0.627906976744186,0.4347208719449914,0.875,0.875,28.0
+gemini-2.0-flash-lite,"Fammi una tazza di caffè con panna e caramello salato.
+",fammi una tazza di caffè con panna al caramello salato,4.98,6.336e-05,0.3,0.07407407407407407,0.537284965911771,0.9,0.9,5.0
+gemini-2.0-flash-lite,"Ecco le ultime notizie sulle rane:
+",quali sono le ultime notizie sulla rai,2.88,3.696e-05,0.5714285714285714,0.34210526315789475,0.17103294495668978,0.4615384615384615,0.4615384615384615,14.0
+gemini-2.0-flash-lite,"Rimuovi questa lista dalle altre.
+",rimuovi questa lista dalle altre,3.0,3.81e-05,0.4,0.0625,0.26591479484724945,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Che tempo fa a Padova?
+",che tempo fa a padova,2.52,3.234e-05,0.4,0.14285714285714285,0.26591479484724945,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Mostra la lista delle email recenti.
+",mostra la lista delle email recenti,3.24,4.128e-05,0.3333333333333333,0.05714285714285714,0.5081327481546147,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Ho una sveglia impostata per domani mattina.
+",ho una sveglia impostata per domani mattina,3.96,5.021999999999999e-05,0.2857142857142857,0.046511627906976744,0.6147881529512643,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Avrò bisogno di spalare il mio vialetto questa mattina.
+",avrò bisogno di spalare il mio vialetto questa mattina,3.54,4.578e-05,0.2222222222222222,0.037037037037037035,0.7259795291154771,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Mostra i dettagli geografici delle piramidi.
+",mostra i dettagli geografici delle piramidi,3.12,3.984e-05,0.3333333333333333,0.046511627906976744,0.5081327481546147,1.0,1.0,3.0
+gemini-2.0-flash-lite,Riproduci canzoni di Mina.,riproduci canzoni di mina,2.709387755102041,3.431265306122449e-05,0.5,0.12,0.16990442448471224,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Certo, ecco la trascrizione: ""Sai come è il tempo?""
+",sai com'è il tempo,1.92,2.6339999999999995e-05,2.0,1.8888888888888888,0.023980296761827107,0.5,0.5,35.0
+gemini-2.0-flash-lite,"Certo, ecco la trascrizione: Riproduci un po' di musica jazz.
+",riproduci un po' di musica jazz,3.36,4.391999999999999e-05,1.0,0.967741935483871,0.2626909894424158,0.7499999999999999,0.7499999999999999,31.0
+gemini-2.0-flash-lite,"Certo. ""Invia un'email a Giuseppe@gmail.com"".
+",invia una email a giuseppe chiocciola gmail punto com,4.14,5.1779999999999996e-05,0.8888888888888888,0.6226415094339622,0.02414176971688927,0.7058823529411765,0.7058823529411765,33.0
+gemini-2.0-flash-lite,"Imposta questo evento come ricorrente sul mio calendario.
+",imposta questo evento come ricorrente sul mio calendario,3.9,4.98e-05,0.25,0.03571428571428571,0.6803749333171202,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Il primo di aprile è lunedì.
+",che giorno della settimana è il primo di aprile,3.48,4.416e-05,0.8888888888888888,0.7659574468085106,0.13168903966325227,0.6153846153846154,0.6153846153846154,36.0
+gemini-2.0-flash-lite,Come stai oggi?,come stai oggi,1.62,2.094e-05,0.6666666666666666,0.14285714285714285,0.11362193664674995,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Oggi cos'è la cosa più cercata su Google?
+",oggi cos'è la cosa più cercata su google,3.54140589569161,4.549687074829932e-05,0.25,0.075,0.6803749333171202,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Nel mio calendario, rimuovi tutti gli eventi di calcio del mese corrente.
+",nel mio calendario rimuovi tutti gli eventi di calcio del mese corrente,4.437414965986394,5.744897959183673e-05,0.25,0.04225352112676056,0.6315552371794037,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Suona la mia colonna sonora.
+",suona la mia colonna sonora,2.52,3.234e-05,0.4,0.07407407407407407,0.26591479484724945,1.0,1.0,3.0
+gemini-2.0-flash-lite,"La città più economica è più costosa per gli altri.
+",la città è più economica o più costosa per vivere,3.12,4.104e-05,0.5,0.24489795918367346,0.1535259783865636,0.7777777777777778,0.7777777777777778,13.0
+gemini-2.0-flash-lite,"Apri l'app della musica, riproduci una canzone.
+",apri l'app della musica e riproduci una canzone,3.72,4.7340000000000004e-05,0.5,0.0851063829787234,0.08563683466425753,0.9411764705882353,0.9411764705882353,5.0
+gemini-2.0-flash-lite,"Certo, ecco la trascrizione: ""Ricette per preparare un pasto.""
+",ricette per preparare un pasto,3.0,3.93e-05,1.2,1.0666666666666667,0.11868405219520975,0.7142857142857143,0.7142857142857143,33.0
+gemini-2.0-flash-lite,"Avrò bisogno dei miei stivali da neve questo pomeriggio.
+",avrò bisogno dei miei stivali da neve questo pomeriggio,4.26,5.442e-05,0.2222222222222222,0.03636363636363636,0.7259795291154771,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Certo, ecco la trascrizione:
+""Ciao Carla, ti scrivo per... [pausa] ...per dirti che... [pausa] ...ho ricevuto la tua email e... [pausa] ...ti rispondo subito. [pausa] ...Per quanto riguarda... [pausa] ...il progetto, sono d'accordo con te su... [pausa] ...tutti i punti che hai sollevato. [pausa] ...Penso che sia un'ottima idea... [pausa] ...e possiamo procedere come hai detto. [pausa] ...Fammi sapere se hai bisogno di altro. [pausa] ...A presto!""
+",manda un'email a carla,1.98,4.4460000000000005e-05,16.5,19.5,0.0,0.1081081081081081,0.05405405405405405,430.0
+gemini-2.0-flash-lite,"Ho una lista della spesa pronta.
+",ho una lista della spesa pronta,2.9227210884353743,3.7472653061224486e-05,0.3333333333333333,0.06451612903225806,0.5081327481546147,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Carica la nuova email per Mirko e invia il messaggio ora.
+",carica una nuova email per mirco e invia il messaggio ora,4.38,5.646e-05,0.36363636363636365,0.10526315789473684,0.33932513407933634,0.8181818181818182,0.8181818181818182,7.0
+gemini-2.0-flash-lite,"Per favore, avvia le canzoni acquistate e aggiungile tra i preferiti.
+",per favore avvia le canzoni acquistate e aggiungile tra i preferiti,5.16,6.582e-05,0.2727272727272727,0.04477611940298507,0.6786502681586727,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Silenzia per due ore.
+",silenzia per due ore,2.28,2.9159999999999995e-05,0.5,0.1,0.16990442448471224,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Che sveglia ho impostato?
+",che sveglie ho impostato,3.0,3.78e-05,0.75,0.125,0.08034284189446518,0.75,0.75,4.0
+gemini-2.0-flash-lite,"Certo, ecco la trascrizione:
+Spiegami la nuova regola del fuorigioco.
+",spiegami la nuova regola del fuorigioco,3.54,4.608e-05,0.8333333333333334,0.7692307692307693,0.2626909894424158,0.7499999999999999,0.7499999999999999,31.0
+gemini-2.0-flash-lite,"Avvia giochi.
+",avvia giochi,2.22,2.7839999999999998e-05,1.0,0.16666666666666666,0.0,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Certo. Ecco alcuni dei migliori posti turistici in Italia:
+- Roma: Colosseo, Foro Romano, Fontana di Trevi.
+- Firenze: Galleria degli Uffizi, Ponte Vecchio, Duomo.
+- Venezia: Piazza San Marco, Canal Grande, Rialto.
+- Milano: Duomo, Galleria Vittorio Emanuele II, Teatro alla Scala.
+- Napoli: Pompei, Vesuvio, Museo Archeologico Nazionale.
+- Cinque Terre: Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore.
+- Costiera Amalfitana: Positano, Amalfi, Ravello.
+- Sicilia: Etna, Taormina, Valle dei Templi.
+",dimmi alcuni dei migliori posti turistici in italia,4.38,7.446e-05,7.125,9.0,0.06268260360206092,0.19718309859154926,0.19718309859154926,460.0
+gemini-2.0-flash-lite,"Holly riproduce una buona traccia del mio artista jazz preferito.
+",olly riproduci una buona traccia del mio artista jazz preferito,4.8,6.12e-05,0.3,0.047619047619047616,0.6389431042462724,0.8000000000000002,0.8000000000000002,4.0
+gemini-2.0-flash-lite,"India, mamma, email e la lettera.
+",invia a mamma una email adesso,2.34,3.048e-05,1.0,0.6,0.040824829046386304,0.3333333333333333,0.3333333333333333,19.0
+gemini-2.0-flash-lite,Informazioni sul meteo di questa settimana.,informazioni sul meteo di questa settimana,3.42,4.344e-05,0.3333333333333333,0.047619047619047616,0.5081327481546147,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Spegni la luce nel capanno.
+",spegni la luce nel capanno,2.433514739229025,3.13021768707483e-05,0.4,0.07692307692307693,0.26591479484724945,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Traffico sulla strada.
+",traffico sulla strada,1.74,2.238e-05,0.6666666666666666,0.09523809523809523,0.11362193664674995,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Vai su contatti e inserisci un nuovo indirizzo email.
+",vai su contatti e inserisci un nuovo indirizzo email,3.9,5.01e-05,0.2222222222222222,0.038461538461538464,0.7259795291154771,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Per favore, inserisci il nuovo indirizzo email nel contatto.",per favore inserisci il mio nuovo indirizzo email nel contatto,3.66,4.721999999999999e-05,0.4,0.11290322580645161,0.31762152032055835,0.9473684210526316,0.9473684210526316,7.0
+gemini-2.0-flash-lite,"Certo, ecco la trascrizione:
+""Ciao a tutti, benvenuti al podcast della Disney!""
+",trova l ultimo podcast della disney,3.12,4.164e-05,1.5,1.4285714285714286,0.03602080288207364,0.3333333333333333,0.3333333333333333,51.0
+gemini-2.0-flash-lite,"Avvia la riproduzione audio di Twilight di nuovo.
+",avvia la riproduzione audio di twilight di nuovo,3.54,4.5480000000000005e-05,0.375,0.0625,0.3655552228545123,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Il cambio euro-dollaro adesso è 1,08.
+",qual è il cambio euro dollaro adesso,3.42,4.344e-05,1.0,0.4722222222222222,0.045480190470279055,0.7692307692307692,0.7692307692307692,18.0
+gemini-2.0-flash-lite,"Ehi Holly, oggi ho incontrato un mio vecchio compagno di classe.
+",ehi olly oggi ho incontrato un mio vecchio compagno di classe,6.0,7.59e-05,0.2727272727272727,0.06557377049180328,0.6786502681586727,0.9090909090909091,0.9090909090909091,5.0
+gemini-2.0-flash-lite,"Avvia un dialogo.
+",avvia un gioco,1.62,2.094e-05,0.6666666666666666,0.42857142857142855,0.11362193664674995,0.6666666666666666,0.6666666666666666,7.0
+gemini-2.0-flash-lite,"Che giorno è oggi?
+",che giorno è oggi,2.38,3.0359999999999997e-05,0.5,0.11764705882352941,0.16990442448471224,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Mi hanno promosso oggi, che bellezza!
+",mi hanno promosso oggi che bellezza,3.7546938775510204,4.745632653061224e-05,0.5,0.08571428571428572,0.09554427922043669,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Cancella il primo elemento nella lista.
+",cancella il primo elemento nella lista,2.94,3.768e-05,0.3333333333333333,0.05263157894736842,0.5081327481546147,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Alexa, ho avuto i soldi per il mese. Quanto posso spendere ogni giorno questo mese?
+",alexa ho avuto i soldi per il mese quanto posso spendere ogni giorno questo mese,5.013514739229025,6.52621768707483e-05,0.26666666666666666,0.0625,0.5702822264405542,1.0,1.0,6.0
+gemini-2.0-flash-lite,"Università di Roma ""La Sapienza"".
+",quale università ha frequentato laura boldrini,3.66,4.6019999999999996e-05,1.0,0.6956521739130435,0.0,0.1818181818181818,0.1818181818181818,32.0
+gemini-2.0-flash-lite,"Puoi farmi un caffè, per favore?
+",puoi farmi un caffè per favore,2.46,3.192e-05,0.5,0.1,0.09554427922043669,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Qual è il tasso di cambio tra euro e dollaro?
+",qual è il tasso di cambio tra euro e dollaro,3.48,4.536e-05,0.2,0.045454545454545456,0.7598356856515925,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Compongo una nuova mail, ma questa volta ho un nuovo indirizzo: marco@esempio.it.
+",componi una nuova email ma questa volta ho un nuovo indirizzo marco chiocciola esempio punto it,5.7,7.26e-05,0.5,0.2736842105263158,0.3362301724861858,0.7999999999999999,0.7999999999999999,26.0
+gemini-2.0-flash-lite,"Inizia a passare l'aspirapolvere.
+",inizia a passare l'aspirapolvere,3.36,4.211999999999999e-05,0.5,0.0625,0.16990442448471224,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Questa barzelletta la conosci?
+",questa barzelletta la conosci,2.9867120181405897,3.7640544217687075e-05,0.5,0.06896551724137931,0.16990442448471224,1.0,1.0,3.0
+gemini-2.0-flash-lite,"L'anello di fuoco del Pacifico.
+",dove ci sono il maggior numero di vulcani sulla terra,3.84,4.818e-05,0.9,0.8113207547169812,0.01976560930094397,0.125,0.125,43.0
+gemini-2.0-flash-lite,"Suona tutte le playlist.
+",suona tutte le playlist,3.12,3.9240000000000004e-05,0.5,0.08695652173913043,0.16990442448471224,1.0,1.0,3.0
+gemini-2.0-flash-lite,"""Ciao Chiara, come stai? Spero tutto bene. Ti scrivo per dirti che ho ricevuto la tua mail e ti ringrazio per avermi risposto. Ho letto con attenzione quello che mi hai scritto e sono d'accordo con te su molti punti. Penso che sia importante affrontare la situazione con calma e razionalità. Fammi sapere cosa ne pensi. Un abbraccio.""
+",cosa ho scritto a chiara nella mia ultima email,3.48,5.9760000000000004e-05,6.222222222222222,6.191489361702128,0.004143018973828455,0.1176470588235294,0.0588235294117647,292.0
+gemini-2.0-flash-lite,"Leggi le nuove mail.
+",leggi le nuove email,2.16,2.7720000000000002e-05,0.5,0.15,0.16990442448471224,0.75,0.75,4.0
+gemini-2.0-flash-lite,"Quanto fa 4 + 5?
+",quanto fa quattro più cinque,2.88,3.666e-05,0.8,0.6071428571428571,0.05372849659117709,0.4444444444444445,0.4444444444444445,17.0
+gemini-2.0-flash-lite,"Twitta Unipol e digli che fanno schifo.
+",twitta a unipol e digli che fanno schifo,3.18,4.086e-05,0.5,0.125,0.35640264633541835,0.9333333333333333,0.9333333333333333,6.0
+gemini-2.0-flash-lite,"Il traffico è intenso, ci sono rallentamenti.",com'è la condizione del traffico al momento,3.36,4.301999999999999e-05,1.0,0.7906976744186046,0.033031643180138064,0.15384615384615383,0.15384615384615383,34.0
+gemini-2.0-flash-lite,"Puoi ordinare del sushi per la cena di stasera?
+",puoi ordinare del sushi per la cena di stasera,5.4,6.81e-05,0.2222222222222222,0.043478260869565216,0.7259795291154771,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Rain News, titoli di coda.",rai news titoli di coda,3.0,3.81e-05,0.6,0.21739130434782608,0.11362193664674995,0.8000000000000002,0.8000000000000002,5.0
+gemini-2.0-flash-lite,"Rendi le luci più accese.
+",rendi le luci più accese,3.42,4.314e-05,0.4,0.08333333333333333,0.26591479484724945,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Milano.
+",milano,2.22,2.7540000000000004e-05,1.0,0.3333333333333333,0.0,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Certo, ecco la trascrizione:
+""Manda una mail ad Anna riguardo la riunione sul bilancio.""
+",manda una mail ad anna riguardo la riunione sul bilancio,4.44,5.8080000000000006e-05,0.6,0.6071428571428571,0.25712008025141314,0.8333333333333333,0.8333333333333333,35.0

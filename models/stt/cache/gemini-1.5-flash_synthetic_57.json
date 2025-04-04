@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Verbale di infrazione redatto dall'agente Carlo Bruni. Data: 6 marzo 2025. Ora: 18:43. Infrazione: accesso vietato. Luogo: Via Milano 24, Torino. Veicolo: Volkswagen Golf, targa XY 9987 ZT.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Carlo Bruni. Data: 06/03/2025, ora: 18:43. Infrazione: accesso vietato. Luogo: via Milano 24, Torino. Veicolo: Volkswagen Golf, targa XY987ZT.",
+  "time": 17.98199546485261,
+  "cost": 0.00022478394557823132,
+  "wer": 0.3333333333333333,
+  "cer": 0.07608695652173914,
+  "bleu_avg": 0.5713353836987581,
+  "rouge1_avg_f1": 0.8620689655172413,
+  "rougeL_avg_f1": 0.8620689655172413,
+  "levenshtein_avg": 15.0
+}

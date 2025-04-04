@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "In base all'articolo, l'onorevole Fittia, con atto, l'agente Anna Bianchi ha riscontrato un'infrazione in via Roma 77, Palermo, alle ore 3:00, forti se rende il tenti, si tre tenti, tenti, fino. Veicolo coinvolto, quel corsa, tagga, la se non degli itinerari.",
+  "reference": "In base al articolo 158, comma 2, l'agente Anna Bianchi ha riscontrato un'infrazione in via Roma 77, Palermo alle ore 03:47 del 26/03/2025. Veicolo coinvolto: Opel Corsa, targa GH789IJ.",
+  "time": 17.89002267573696,
+  "cost": 0.00022758027210884353,
+  "wer": 0.896551724137931,
+  "cer": 0.5837837837837838,
+  "bleu_avg": 0.24831044023094884,
+  "rouge1_avg_f1": 0.5249999999999999,
+  "rougeL_avg_f1": 0.5249999999999999,
+  "levenshtein_avg": 108.0
+}

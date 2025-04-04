@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Sono l'agente Marco Genti. Alle ore 10:00 il portone del fioraio è 10:10 fioraio. Ho rilevato un'infrazione per divieto di sosta in Via del Corso 3B, ora veicolo Fiat Panda, targa LN 137 Z.\n",
+  "reference": "Sono l'agente Marco Gentili. Alle ore 20:41 del 05/03/2025, ho rilevato un'infrazione per divieto di sosta in via del Corso 12, Roma. Veicolo: Fiat Panda, targa XY987ZT.",
+  "time": 15.39501133786848,
+  "cost": 0.0032590022675736963,
+  "wer": 0.5925925925925926,
+  "cer": 0.31952662721893493,
+  "bleu_avg": 0.27150436323855665,
+  "rouge1_avg_f1": 0.6666666666666667,
+  "rougeL_avg_f1": 0.6666666666666667,
+  "levenshtein_avg": 55.0
+}

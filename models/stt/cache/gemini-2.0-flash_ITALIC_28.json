@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Quali film drammatici debutta questo fine settimana?",
+  "reference": "olly quali film drammatici debuttano questo fine settimana",
+  "time": 4.26,
+  "cost": 0.000158352,
+  "wer": 0.5,
+  "cer": 0.15517241379310345,
+  "bleu_avg": 0.08563683466425753,
+  "rouge1_avg_f1": 0.7999999999999999,
+  "rougeL_avg_f1": 0.7999999999999999,
+  "levenshtein_avg": 9.0
+}

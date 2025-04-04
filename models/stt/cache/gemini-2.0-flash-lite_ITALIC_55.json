@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Certo, ecco la trascrizione: \"Ricette per preparare un pasto.\"\n",
+  "reference": "ricette per preparare un pasto",
+  "time": 3.0,
+  "cost": 3.93e-05,
+  "wer": 1.2,
+  "cer": 1.0666666666666667,
+  "bleu_avg": 0.11868405219520975,
+  "rouge1_avg_f1": 0.7142857142857143,
+  "rougeL_avg_f1": 0.7142857142857143,
+  "levenshtein_avg": 33.0
+}

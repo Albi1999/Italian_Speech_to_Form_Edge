@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "In base all'articolo 7, comma 14, l'agente Mario Rossi ha riscontrato un'infrazione in via del Corso 12, Roma, alle ore 14:00, forti del 22/05/2025. Veicolo coinvolto: Renault Clio, targa CF 1366.",
+  "reference": "In base al articolo 7, comma 15, l'agente Mario Rossi ha riscontrato un'infrazione in via del Corso 12, Roma alle ore 15:40 del 22/03/2025. Veicolo coinvolto: Renault Clio, targa CD456EF.",
+  "time": 17.986031746031745,
+  "cost": 0.00022573238095238094,
+  "wer": 0.3,
+  "cer": 0.10695187165775401,
+  "bleu_avg": 0.4992634304054532,
+  "rouge1_avg_f1": 0.8055555555555555,
+  "rougeL_avg_f1": 0.8055555555555555,
+  "levenshtein_avg": 20.0
+}

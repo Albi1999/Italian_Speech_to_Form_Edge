@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Il giorno 13/03/2023 alle ore 4:44 è stata segnalata un'infrazione per divieto di sosta in Corso Buenos Aires, civico 8. Veicolo coinvolto: Numero serie one, targa FR4355, agente Luca Verdi.\n",
+  "reference": "Il giorno 28/03/2025, alle ore 04:40, è stata segnalata un’infrazione per divieto di sosta in corso Buenos Aires 98, Milano. Veicolo coinvolto: BMW Serie 1, targa CD456EF. Agente: Luca Verdi.",
+  "time": 17.15501133786848,
+  "cost": 0.003591002267573696,
+  "wer": 0.4,
+  "cer": 0.193717277486911,
+  "bleu_avg": 0.21631187459215706,
+  "rouge1_avg_f1": 0.7272727272727273,
+  "rougeL_avg_f1": 0.7272727272727273,
+  "levenshtein_avg": 38.0
+}

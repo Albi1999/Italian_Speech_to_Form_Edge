@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "A temperatura ambiente, si presenta come un solido blu verde, inodore.",
+  "reference": "a temperatura ambiente si presenta come un solido blu-verde, inodore.",
+  "time": 5.796009070294785,
+  "cost": 0.0002140195192743764,
+  "wer": 0.4,
+  "cer": 0.043478260869565216,
+  "bleu_avg": 0.38163309113713373,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

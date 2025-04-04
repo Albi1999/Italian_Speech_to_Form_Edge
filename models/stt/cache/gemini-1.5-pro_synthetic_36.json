@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "In base all'articolo 157, comma 5, l'agente Giulia Costa ha riscontrato un'infrazione in via Etnea 45, Catania, alle ore 3:49 del 6 marzo 2025. Veicolo coinvolto: Volkswagen Golf, targa TR98YU.\n",
+  "reference": "In base al articolo 157, comma 5, l'agente Giulia Costa ha riscontrato un'infrazione in via Etnea 45, Catania alle ore 03:49 del 06/03/2025. Veicolo coinvolto: Volkswagen Golf, targa TR098YU.",
+  "time": 18.465034013605443,
+  "cost": 0.0038530068027210884,
+  "wer": 0.27586206896551724,
+  "cer": 0.06806282722513089,
+  "bleu_avg": 0.5702524287955774,
+  "rouge1_avg_f1": 0.8529411764705882,
+  "rougeL_avg_f1": 0.8529411764705882,
+  "levenshtein_avg": 14.0
+}

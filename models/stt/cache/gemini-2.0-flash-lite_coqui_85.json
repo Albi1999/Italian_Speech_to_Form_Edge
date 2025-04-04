@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Agente Sara Bellini in servizio. Segnalazione di doppia fila alle Forati, re del 30 2020, in corso Buenos Aires, Milano. Auto coinvolta, Aldi, targa Honda.\n",
+  "reference": "Agente Sara Bellini in servizio. Segnalazione di doppia fila alle 04:33 del 30/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Audi A3, targa FG234LM.",
+  "time": 17.283038548752835,
+  "cost": 0.00021549646258503402,
+  "wer": 0.4,
+  "cer": 0.18633540372670807,
+  "bleu_avg": 0.45359393336810816,
+  "rouge1_avg_f1": 0.7547169811320756,
+  "rougeL_avg_f1": 0.7547169811320756,
+  "levenshtein_avg": 31.0
+}

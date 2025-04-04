@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sono l'agente Luca Betti, alle ore 20:52 del 23 marzo 2025. Ho rilevato un'infrazione per divieto di sosta in via Garibaldi 11, Firenze, veicolo Mercedes Classe A, targa SG 234 LM.\n",
+  "reference": "Sono l'agente Luca Verdi. Alle ore 20:52 del 23/03/2025, ho rilevato un'infrazione per divieto di sosta in via Garibaldi 11, Firenze. Veicolo: Mercedes Classe A, targa FG234LM.",
+  "time": 16.83800453514739,
+  "cost": 0.00021195605442176867,
+  "wer": 0.4074074074074074,
+  "cer": 0.11363636363636363,
+  "bleu_avg": 0.44910258867671765,
+  "rouge1_avg_f1": 0.8787878787878787,
+  "rougeL_avg_f1": 0.8787878787878787,
+  "levenshtein_avg": 21.0
+}

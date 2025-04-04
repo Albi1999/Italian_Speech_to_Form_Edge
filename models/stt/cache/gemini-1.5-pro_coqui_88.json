@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Verbale di infrazione redatto dall'agente Silvienei, data ventisette trentatrentacinque, ora sedici e quarantacinque. Infrazione: doppia fila. Luogo: via del Corso, Telve di sopra. Veicolo: Volkswagen Golf, targa BO uno due tre trentatré F.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Silvia Neri. Data: 27/03/2025, ora: 16:48. Infrazione: doppia fila. Luogo: via del Corso 12, Roma. Veicolo: Opel Corsa, targa AB123CD.",
+  "time": 18.24503401360544,
+  "cost": 0.003824006802721088,
+  "wer": 0.8,
+  "cer": 0.6079545454545454,
+  "bleu_avg": 0.254112927697965,
+  "rouge1_avg_f1": 0.5396825396825397,
+  "rougeL_avg_f1": 0.5396825396825397,
+  "levenshtein_avg": 108.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "India, mamma, email e la lettera.\n",
+  "reference": "invia a mamma una email adesso",
+  "time": 2.34,
+  "cost": 3.048e-05,
+  "wer": 1.0,
+  "cer": 0.6,
+  "bleu_avg": 0.040824829046386304,
+  "rouge1_avg_f1": 0.3333333333333333,
+  "rougeL_avg_f1": 0.3333333333333333,
+  "levenshtein_avg": 19.0
+}

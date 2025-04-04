@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Tinti tere tinti tinti fiule, ore tinti one, fiffi nine, veicolo Mercedes Classe A, targa [omissis] tirti forum, in parcheggio su strisce pedonali presso via Napoli fiule, Napoli, rilevato da gente Annabbiato.\n",
+  "reference": "20/03/2025, ore 21:59: veicolo Mercedes Classe A, targa FG234LM, in parcheggio su strisce pedonali presso via Napoli 5, Napoli. Rilevato da agente Anna Bianchi.",
+  "time": 15.36204081632653,
+  "cost": 0.003242408163265306,
+  "wer": 0.75,
+  "cer": 0.53125,
+  "bleu_avg": 0.33128242169363725,
+  "rouge1_avg_f1": 0.5762711864406779,
+  "rougeL_avg_f1": 0.5762711864406779,
+  "levenshtein_avg": 86.0
+}

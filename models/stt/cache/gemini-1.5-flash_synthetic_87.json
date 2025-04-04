@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Il giorno 5 marzo 2025, alle ore 17:19 è stata segnalata un'infrazione per doppia fila in via del Corso 12, Roma. Veicolo coinvolto: Volkswagen Golf, targa GH 789I. Agente: Luca Verdi.\n",
+  "reference": "Il giorno 05/03/2025, alle ore 17:19, è stata segnalata un’infrazione per doppia fila in via del Corso 12, Roma. Veicolo coinvolto: Volkswagen Golf, targa GH789IJ. Agente: Luca Verdi.",
+  "time": 19.584036281179138,
+  "cost": 0.00024490843537414966,
+  "wer": 0.25,
+  "cer": 0.06557377049180328,
+  "bleu_avg": 0.5522193830521022,
+  "rouge1_avg_f1": 0.8888888888888888,
+  "rougeL_avg_f1": 0.8888888888888888,
+  "levenshtein_avg": 13.0
+}

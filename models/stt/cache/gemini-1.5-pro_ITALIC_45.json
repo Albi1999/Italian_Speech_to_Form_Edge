@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Non c'è nessun audio allegato, quindi non posso trascriverlo.  Se vuoi che riproduca della musica jazz, purtroppo non posso farlo direttamente. Sono un modello linguistico e non posso interagire con il mondo esterno, come riprodurre suoni.  Posso però darti i nomi di alcuni artisti jazz famosi che potresti ascoltare: Miles Davis, John Coltrane, Ella Fitzgerald, Louis Armstrong, Billie Holiday.\n",
+  "reference": "riproduci un po' di musica jazz",
+  "time": 3.36,
+  "cost": 0.0009769999999999998,
+  "wer": 9.333333333333334,
+  "cer": 11.806451612903226,
+  "bleu_avg": 0.0043745086120732125,
+  "rouge1_avg_f1": 0.12307692307692307,
+  "rougeL_avg_f1": 0.09230769230769231,
+  "levenshtein_avg": 367.0
+}

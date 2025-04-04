@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Attenzione, Giulia Costa in servizio. Segnalazione di accesso vietato alle 3:02 del 18 marzo 2025. In via Etnea 45, Catania, auto coinvolta: Opel Corsa, targa CV456F.\n",
+  "reference": "Agente Giulia Costa in servizio. Segnalazione di accesso vietato alle 03:02 del 18/03/2025, in via Etnea 45, Catania. Auto coinvolta: Opel Corsa, targa CD456EF.",
+  "time": 18.441995464852607,
+  "cost": 0.00022970394557823127,
+  "wer": 0.375,
+  "cer": 0.13125,
+  "bleu_avg": 0.4556794776992747,
+  "rouge1_avg_f1": 0.8518518518518519,
+  "rougeL_avg_f1": 0.8518518518518519,
+  "levenshtein_avg": 22.0
+}

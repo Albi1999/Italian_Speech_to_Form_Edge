@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Sono l'agente Carlo Bruni. Alle ore 22:28 del 22/02/2025 ho rilevato un'infrazione per sosta davanti a passo carrabile in via Napoli, 5, Napoli. Veicolo Toyota Yaris, targa TR121NM.\n",
+  "reference": "Sono l'agente Carlo Bruni. Alle ore 22:38 del 22/03/2025, ho rilevato un'infrazione per sosta davanti a passo carrabile in via Napoli 5, Napoli. Veicolo: Toyota Yaris, targa KL321MN.",
+  "time": 18.339002267573697,
+  "cost": 0.0038178004535147393,
+  "wer": 0.17857142857142858,
+  "cer": 0.054945054945054944,
+  "bleu_avg": 0.600166122828138,
+  "rouge1_avg_f1": 0.9090909090909091,
+  "rougeL_avg_f1": 0.9090909090909091,
+  "levenshtein_avg": 11.0
+}

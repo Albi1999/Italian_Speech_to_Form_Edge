@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Sono l'agente Marco Gentili, alle ore 2:17 del 18 marzo 2025, ho rilevato un'infrazione per sosta davanti a passo carrabile in Via Roma 77. Palermo, veicolo, BMW Serie 1, targa ZA 456 QP.",
+  "reference": "Sono l'agente Marco Gentili. Alle ore 02:17 del 18/03/2025, ho rilevato un'infrazione per sosta davanti a passo carrabile in via Roma 77, Palermo. Veicolo: BMW Serie 1, targa ZA456QP.",
+  "time": 15.916009070294784,
+  "cost": 0.0005790435192743764,
+  "wer": 0.4482758620689655,
+  "cer": 0.09289617486338798,
+  "bleu_avg": 0.39799119056895865,
+  "rouge1_avg_f1": 0.8857142857142858,
+  "rougeL_avg_f1": 0.8857142857142858,
+  "levenshtein_avg": 17.0
+}

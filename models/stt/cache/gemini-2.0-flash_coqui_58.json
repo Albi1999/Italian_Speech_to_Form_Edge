@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Agente Bellini in servizio. Segnalazione di divieto di sosta per le 6:15 in Viale 20 Settembre 2023. In corso uno sinistro stradale in Via. Auto coinvolta, Volkswagen Golf, targa in onda degli Stati Serenissimi.",
+  "reference": "Agente Sara Bellini in servizio. Segnalazione di divieto di sosta alle 07:52 del 25/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Volkswagen Golf, targa XY987ZT.",
+  "time": 16.931020408163267,
+  "cost": 0.0006151719183673471,
+  "wer": 0.8076923076923077,
+  "cer": 0.5057471264367817,
+  "bleu_avg": 0.2552550370453419,
+  "rouge1_avg_f1": 0.5,
+  "rougeL_avg_f1": 0.5,
+  "levenshtein_avg": 88.0
+}

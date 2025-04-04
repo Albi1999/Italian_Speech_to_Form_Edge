@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Infrazione riscontrata: doppia fila. Posizione: Piazza Venezia, Roma. Ora: 8:32. Data: 14 marzo 2025. Auto: Fiat Panda. Targa: CD 456 F. Agente: Mario Rossi.\n",
+  "reference": "Infrazione riscontrata: doppia fila. Posizione: piazza Venezia, Roma. Ora: 08:32, Data: 14/03/2025. Auto: Fiat Panda, targa CD456EF. Agente: Mario Rossi.",
+  "time": 18.984036281179137,
+  "cost": 0.0002356084353741496,
+  "wer": 0.5,
+  "cer": 0.09803921568627451,
+  "bleu_avg": 0.26512298021756175,
+  "rouge1_avg_f1": 0.8333333333333333,
+  "rougeL_avg_f1": 0.8333333333333333,
+  "levenshtein_avg": 16.0
+}

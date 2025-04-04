@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Il giorno 25 marzo 2025, alle ore 7:56, è stata segnalata un'infrazione per divieto di sosta in Corso Buenos Aires 98, Milano. Veicolo coinvolto: Toyota Yaris, targa ZA456QP. Agente: Silvia Neri.\n",
+  "reference": "Il giorno 25/03/2025, alle ore 07:56, è stata segnalata un’infrazione per divieto di sosta in corso Buenos Aires 98, Milano. Veicolo coinvolto: Toyota Yaris, targa ZA456QP. Agente: Silvia Neri.",
+  "time": 20.52,
+  "cost": 0.004269,
+  "wer": 0.20689655172413793,
+  "cer": 0.05181347150259067,
+  "bleu_avg": 0.5875581881262648,
+  "rouge1_avg_f1": 0.9375,
+  "rougeL_avg_f1": 0.9375,
+  "levenshtein_avg": 11.0
+}

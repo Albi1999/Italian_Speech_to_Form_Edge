@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Il giorno 1 aprile 2025, alle ore 14:26 è stata segnalata un'infrazione per doppia fila in via Milano 24, Torino. Veicolo coinvolto: Volkswagen Golf, targa XY 9987 ZT. Agente: Luca Verdi.\n",
+  "reference": "Il giorno 01/04/2025, alle ore 14:26, è stata segnalata un’infrazione per doppia fila in via Milano 24, Torino. Veicolo coinvolto: Volkswagen Golf, targa XY987ZT. Agente: Luca Verdi.",
+  "time": 16.72598639455782,
+  "cost": 0.00021061183673469385,
+  "wer": 0.2962962962962963,
+  "cer": 0.07692307692307693,
+  "bleu_avg": 0.51668538699127,
+  "rouge1_avg_f1": 0.870967741935484,
+  "rougeL_avg_f1": 0.870967741935484,
+  "levenshtein_avg": 15.0
+}

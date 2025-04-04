@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Qual è il tasso di cambio tra euro e dollaro?\n",
+  "reference": "qual è il tasso di cambio tra euro e dollaro",
+  "time": 3.48,
+  "cost": 4.536e-05,
+  "wer": 0.2,
+  "cer": 0.045454545454545456,
+  "bleu_avg": 0.7598356856515925,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

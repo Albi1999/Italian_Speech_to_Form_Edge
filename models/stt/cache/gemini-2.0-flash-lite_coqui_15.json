@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Durante il pattugliamento in zona via e nella Forti Fiere, Catania, l'agente Carlo Brunita ha rilevato una violazione dell'articolo 6, comma 15. L'auto poi è una volta, è una Audi, targata 33, alle ore 3:00, Forti si è delle 23:30.",
+  "reference": "Durante il pattugliamento in zona via Etnea 45, Catania, l'agente Carlo Bruni ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Audi A3 targata AB123CD, alle ore 12:46 del 11/03/2025.",
+  "time": 18.914013605442175,
+  "cost": 0.00023956816326530607,
+  "wer": 0.5882352941176471,
+  "cer": 0.2966507177033493,
+  "bleu_avg": 0.2559156513731426,
+  "rouge1_avg_f1": 0.6,
+  "rougeL_avg_f1": 0.6,
+  "levenshtein_avg": 62.0
+}

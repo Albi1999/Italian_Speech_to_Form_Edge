@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Jim trova come unico compagno di conversazione il robot barista Arthur.\n",
+  "reference": "jim trova come unico compagno di conversazione il robot barista arthur.",
+  "time": 6.264036281179139,
+  "cost": 7.906843537414966e-05,
+  "wer": 0.18181818181818182,
+  "cer": 0.028169014084507043,
+  "bleu_avg": 0.7860753021519787,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

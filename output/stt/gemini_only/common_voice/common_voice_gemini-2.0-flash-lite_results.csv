@@ -1,0 +1,195 @@
+model,text,reference,time,cost,wer,cer,bleu_avg,rouge1_avg_f1,rougeL_avg_f1,levenshtein_avg
+gemini-2.0-flash-lite,"Anche io poi si ribellò a Shun e lo bandì dal regno.
+",anche yu poi si ribellò a shun e lo bandì dal regno.,5.148027210884353,6.597632653061223e-05,0.25,0.07692307692307693,0.53107253497887,0.9166666666666666,0.9166666666666666,5.0
+gemini-2.0-flash-lite,"Sono presenti alcuni plastici riproducenti battaglie medievali tra lucchesi e modenesi risalenti al medioevo.
+",sono presenti alcuni plastici riproducenti battaglie medioevali tra lucchesi e modenesi risalenti al medioevo.,8.1,0.00010199999999999999,0.14285714285714285,0.01818181818181818,0.6997522298221912,0.9285714285714286,0.9285714285714286,3.0
+gemini-2.0-flash-lite,"L'ex Beatle ha suonato tutti gli strumenti nella canzone.
+","l'ex-""beatle"" ha suonato tutti gli strumenti nella canzone.",4.68,5.945999999999999e-05,0.25,0.0847457627118644,0.7259795291154771,1.0,1.0,6.0
+gemini-2.0-flash-lite,"L'anno seguente torna nuovamente nella Honka.
+","l'anno seguente, tornò nuovamente nello honka.",4.14,5.207999999999999e-05,0.8333333333333334,0.10869565217391304,0.040824829046386304,0.7142857142857143,0.7142857142857143,6.0
+gemini-2.0-flash-lite,Solo la Marina Militare italiana e la Royal Navy possiedono unità di questo tipo.,solo la marina militare italiana e la royal navy possiedono unità di questo tipo..,5.832018140589569,7.478421768707482e-05,0.42857142857142855,0.07317073170731707,0.2658483576665877,1.0,1.0,6.0
+gemini-2.0-flash-lite,"La Basilica della Beata Vergine Maria è un importante centro di pellegrinaggio della Polonia.
+",la basilica della beata vergine maria è un importante centro di pellegrinaggio della polonia.,6.552018140589569,8.342421768707482e-05,0.42857142857142855,0.06451612903225806,0.44710186192584195,1.0,1.0,7.0
+gemini-2.0-flash-lite,"Per vendetta, Timmy desidera di diventare il bagnino più forte della spiaggia.
+",per vendetta timmy desidera di diventare il bagnino più forte della spiaggia.,4.212018140589569,5.474421768707483e-05,0.25,0.03896103896103896,0.7102992180127422,1.0,1.0,4.0
+gemini-2.0-flash-lite,"La città è situata nelle Snowy Mountains, nella regione del Nuovo Galles del Sud.
+",la città è situata nelle snowy mountains nella regione del nuovo galles del sud.,9.756009070294784,0.0001218721088435374,0.42857142857142855,0.0875,0.2658483576665877,1.0,1.0,8.0
+gemini-2.0-flash-lite,"Le immersioni ricreative nascono dallo snorkeling e dalla pesca subacquea.
+",le immersioni ricreative nascono dallo snorkeling e dalla pesca subacquea.,5.94,7.488e-05,0.1,0.013513513513513514,0.8801117367933934,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Il signor Ricci disse che l'euro si svaluterà ancora.
+",il signor ricci disse che l'euro si svaluterà ancora.,4.6440362811791385,5.902843537414966e-05,0.2222222222222222,0.03773584905660377,0.6104735835807844,1.0,1.0,3.0
+gemini-2.0-flash-lite,"L'aereo sorvola l'isola, obbligando così il giocatore a proseguire la sua avventura.
+","l'aereo sorvola l'isola, obbligando così il giocatore a proseguire la sua avventura.",6.516009070294785,8.239210884353741e-05,0.08333333333333333,0.011904761904761904,0.9036020036098448,1.0,1.0,2.0
+gemini-2.0-flash-lite,"La storia è narrata in prima persona da James Farrer.
+",la storia è narrata in prima persona da james farrell.,3.5640362811791384,4.6368435374149656e-05,0.3,0.09259259259259259,0.6389431042462724,0.8888888888888888,0.8888888888888888,6.0
+gemini-2.0-flash-lite,"E poi il dietro le quinte di Pinocchio e i pu' goliardici.
+","e poi il dietro le quinte di ""pinocchio"" e i pooh goliardici.",8.856009070294785,0.00011047210884353741,0.25,0.11475409836065574,0.4832697830906221,0.9166666666666666,0.9166666666666666,8.0
+gemini-2.0-flash-lite,"Dopo tre stagioni consecutive nella massima divisione, però, la squadra retrocesse.
+","dopo tre stagioni consecutive nella massima divisione, però, la squadra retrocesse.",5.94,7.518e-05,0.09090909090909091,0.012048192771084338,0.8931539818068694,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Conta numerose presenze con la nazionale bulgara.
+",conta numerose presenze con la nazionale bulgara.,5.076009070294784,6.36121088435374e-05,0.14285714285714285,0.02040816326530612,0.8091067115702212,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Viene invocata in tutte le situazioni difficili che compromettono la serenità familiare.
+",viene invocata in tutte le situazioni difficili che compromettono la serenità familiare.,6.3,7.979999999999999e-05,0.08333333333333333,0.011363636363636364,0.9036020036098448,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Nel 200 il territorio passò in gestione a Rieti.
+",nel duecento il territorio passò in gestione a rieti.,6.336009070294785,7.933210884353742e-05,0.3333333333333333,0.18867924528301888,0.5873949094699213,0.8888888888888888,0.8888888888888888,11.0
+gemini-2.0-flash-lite,"Giuseppe Quarino.
+",giuseppe guarino,2.304036281179138,2.8848435374149654e-05,1.0,0.1875,0.0,0.5,0.5,4.0
+gemini-2.0-flash-lite,"Il vanadio è un metallo bianco, lucente, duro e duttile.
+","il vanadio è un metallo bianco lucente, duro e duttile.",5.22,6.623999999999999e-05,0.2,0.03636363636363636,0.5253819788848316,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Esiste anche una carro realizzata in lingua Hindi.
+",esiste anche una cover realizzata in lingua hindi.,5.616009070294784,7.03921088435374e-05,0.375,0.12,0.17286039232097053,0.875,0.875,7.0
+gemini-2.0-flash-lite,"Tutto ciò è andato completamente perduto, insieme a svariate composizioni di Alkan.
+","tutto ciò è andato completamente perduto, insieme a svariate composizioni di alkan.",5.796009070294785,7.375210884353742e-05,0.16666666666666666,0.024096385542168676,0.8070557274927982,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Il quartiere ha diverse aree verdi e una piscina scoperta.
+",il quartiere ha diverse aree verdi e una piscina scoperta.,4.428027210884354,5.673632653061225e-05,0.1,0.017241379310344827,0.8801117367933934,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Alla base del manico, il bordo della tavola non si interrompe.
+",alla base del manico il bordo della tavola non si interrompe.,4.68,6.006e-05,0.18181818181818182,0.03278688524590164,0.6315552371794037,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Alcuni dei suoi componimenti poetici furono pubblicati postumi.
+",alcuni suoi componimenti poetici furono pubblicati postumi.,5.76,7.212e-05,0.2857142857142857,0.0847457627118644,0.6803749333171202,0.9333333333333333,0.9333333333333333,6.0
+gemini-2.0-flash-lite,"Di conseguenza, questa proposta non venne inclusa nel testo finale del trattato.
+","di conseguenza, questa proposta non venne inclusa nel testo finale del trattato.",8.856009070294785,0.00011047210884353741,0.08333333333333333,0.0125,0.9036020036098448,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Tutte le mosse degli scacchi normali sono supportate.
+",tutte le mosse degli scacchi normali sono supportate.,3.1320181405895693,4.058421768707483e-05,0.125,0.018867924528301886,0.8408964152537145,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Secondo il regista, quei soldi erano l'intero budget del film.
+",secondo il regista quei soldi erano l'intero budget del film.,6.48,8.136000000000001e-05,0.2,0.03278688524590164,0.6606328636027614,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Altri lavori nel periodo lorenese mutarono l'aspetto del complesso.
+",altri lavori nel periodo lorenese mutarono l'aspetto del complesso.,5.7240362811791385,7.198843537414966e-05,0.1111111111111111,0.014925373134328358,0.8633400213704505,1.0,1.0,2.0
+gemini-2.0-flash-lite,Si insediarono in Libia.,vi si insediarono alcune migliaia di coloni italiani nella seconda metà degli anni trenta.,5.832018140589569,7.178421768707482e-05,0.9285714285714286,0.7666666666666667,0.0065949420663472934,0.22222222222222224,0.22222222222222224,69.0
+gemini-2.0-flash-lite,"Attualmente i Paesi Bassi sono comunque campioni d'Europa.
+",attualmente i paesi bassi sono comunque campioni d'europa.,3.312018140589569,4.274421768707483e-05,0.5,0.06896551724137931,0.1477219991186121,1.0,1.0,5.0
+gemini-2.0-flash-lite,"Inoltre è coautore del brano ""A Public Affair"" di Jessica Simpson.
+","inoltre è coautore del brano ""a public affair"" di jessica simpson.",5.112018140589569,6.524421768707483e-05,0.5454545454545454,0.09090909090909091,0.24808415001701817,1.0,1.0,7.0
+gemini-2.0-flash-lite,"Si ritiene che la femmina dia alla luce un unico piccolo.
+",si ritiene che la femmina dia alla luce un unico piccolo.,6.948027210884354,8.727632653061225e-05,0.09090909090909091,0.017543859649122806,0.8931539818068694,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Dopo varie esperienze teatrali, intraprende la carriera cinematografica e televisiva.
+","dopo varie esperienze teatrali, intraprende la carriera cinematografica e televisiva.",5.832018140589569,7.358421768707482e-05,0.1,0.011764705882352941,0.8801117367933934,1.0,1.0,2.0
+gemini-2.0-flash-lite,"La spiegazione di questo fenomeno è insita nella definizione di temperatura di bulbo umido.
+",la spiegazione di questo fenomeno è insita nella definizione di temperatura di bulbo umido.,6.444036281179138,8.212843537414965e-05,0.07142857142857142,0.01098901098901099,0.9193227152249185,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Il termine probabilmente significa rendendo meraviglioso, eccellente.
+","il termine probabilmente significa ""rendendo meraviglioso, eccellente"".",9.0,0.0001107,0.42857142857142855,0.04225352112676056,0.17567205239427922,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Propugnò lo studio della formazione delle città attraverso l'utilizzo degli annali della Russia sud-occidentale.
+","propugnò lo studio della formazione delle città attraverso l'utilizzo degli ""annali della russia sudoccidentale"".",7.776009070294784,9.811210884353739e-05,0.2857142857142857,0.04424778761061947,0.6115380576901023,0.9032258064516129,0.9032258064516129,6.0
+gemini-2.0-flash-lite,"Per estensione, ha finito per designare il palo utilizzato per questi esercizi militari.
+","per estensione, ha finito per designare il palo utilizzato per questi esercizi militari.",6.444036281179138,8.182843537414966e-05,0.07692307692307693,0.011363636363636364,0.912167909070388,1.0,1.0,2.0
+gemini-2.0-flash-lite,"L'esperienza di annoi.
+","l'esperienza di ""a noi!",3.528027210884354,4.383632653061225e-05,0.75,0.17391304347826086,0.0814136751754278,0.6666666666666665,0.6666666666666665,5.0
+gemini-2.0-flash-lite,"L'area della vasca era coperta da una cupola.
+",l'area della vasca era coperta da una cupola.,5.94,7.428e-05,0.125,0.022222222222222223,0.8408964152537145,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Insieme hanno formato una coppia instancabile ed inossidabile.
+",insieme hanno formato una coppia instancabile ed inossidabile.,5.076009070294784,6.391210884353741e-05,0.125,0.016129032258064516,0.8408964152537145,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Dopo un anno di attività, la band incise il primo demo.
+","dopo un anno di attività, la band incise il primo demo.",3.6360090702947847,4.753210884353741e-05,0.09090909090909091,0.01818181818181818,0.8931539818068694,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Il demone nel corpo di Teodora fu scacciato.
+",il demone nel corpo di teodora fu scacciato.,4.212018140589569,5.354421768707483e-05,0.25,0.045454545454545456,0.4111336169005197,1.0,1.0,3.0
+gemini-2.0-flash-lite,Si distinse più volte nelle battaglie della grande guerra del Nord.,si distinse più volte nelle battaglie della grande guerra del nord.,4.68,6.006e-05,0.18181818181818182,0.029850746268656716,0.7860753021519787,1.0,1.0,2.0
+gemini-2.0-flash-lite,"La normale mucosa esofagea non presenta alcun infiltrato di granulociti e eosinofili.
+",la normale mucosa esofagea non presenta alcun infiltrato di granulociti eosinofili.,6.66,8.412e-05,0.18181818181818182,0.03614457831325301,0.7292571723872933,0.9565217391304348,0.9565217391304348,4.0
+gemini-2.0-flash-lite,"Il comune costituito è diventato Fagnano Alto.
+","il comune costituito è diventato ""fagnano alto"".",4.068027210884353,5.151632653061224e-05,0.42857142857142855,0.10416666666666667,0.41113361690051975,1.0,1.0,6.0
+gemini-2.0-flash-lite,"Al momento le uniche alternative sono i taxi o le vetture private.
+",al momento le uniche alternative sono i taxi o le vetture private.,4.716009070294785,6.079210884353741e-05,0.08333333333333333,0.015151515151515152,0.9036020036098448,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Gli uomini di Augerau scomparvero in una turbina bianca.
+",gli uomini di augereau scomparvero in una turbina bianca.,5.796009070294785,7.285210884353741e-05,0.2222222222222222,0.05263157894736842,0.5133450480401704,0.8888888888888888,0.8888888888888888,4.0
+gemini-2.0-flash-lite,"La direzione artistica è affidata a Gigi Proietti.
+",la direzione artistica è affidata a gigi proietti.,5.004036281179138,6.304843537414965e-05,0.375,0.06,0.5169731539571706,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Viene festeggiato anche il capodanno cinese e date legate ai raccolti del riso.
+",viene festeggiato anche il capodanno cinese e date legate ai raccolti del riso.,4.86,6.282e-05,0.07692307692307693,0.012658227848101266,0.912167909070388,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Entrambi i pezzi sono di Salerno d'amico, Paiuca, taglia pietra.
+",entrambi i pezzi sono di salerno-d'amico-pagliuca-tagliapietra.,5.04,6.408e-05,1.0,0.1746031746031746,0.2626909894424158,0.761904761904762,0.761904761904762,12.0
+gemini-2.0-flash-lite,"Comprende anche sezioni di palla a mano, pallacanestro e pallavolo.
+","comprende anche sezioni di pallamano, pallacanestro e pallavolo.",3.708027210884354,4.809632653061225e-05,0.5,0.0625,0.17567205239427922,0.7777777777777777,0.7777777777777777,5.0
+gemini-2.0-flash-lite,"Altri ricercatori sono impegnati nel più vasto campo dell'econofisica.
+",altri ricercatori sono impegnati nel più vasto campo dell'econofisica.,4.86,6.162e-05,0.1111111111111111,0.014285714285714285,0.8633400213704505,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Appunto, è annunciato anche il suo ritorno per la Combat Zone Wrestling.",ha poi annunciato anche il suo ritorno per la combat zone wrestling.,6.876009070294785,8.671210884353742e-05,0.4166666666666667,0.17647058823529413,0.5156626918239822,0.8695652173913043,0.8695652173913043,12.0
+gemini-2.0-flash-lite,"Non entrò però nella squadra delle Olimpiadi di Atlanta l'anno seguente.
+",non entrò però nella squadra delle olimpiadi di atlanta l'anno seguente.,3.96,5.1420000000000006e-05,0.2727272727272727,0.041666666666666664,0.4172261448611506,1.0,1.0,4.0
+gemini-2.0-flash-lite,"La parola incinta, con il significato di senza cintura, indica la maternità.
+","la parola ""incinta"", con significato di ""senza cintura"", indica la maternità.",6.516009070294785,8.239210884353741e-05,0.45454545454545453,0.1038961038961039,0.11530568323789493,0.9565217391304348,0.9565217391304348,9.0
+gemini-2.0-flash-lite,"È considerato un nome in dubium.
+","è considerato un ""nomen dubium"".",3.528027210884354,4.473632653061224e-05,0.8,0.15625,0.08633400213704504,0.6666666666666665,0.6666666666666665,6.0
+gemini-2.0-flash-lite,"Buona corso, grazie alla preside, risale a Leonardo.",bonaccorso grazie alla preside risale a leonardo.,3.96,5.052e-05,0.5714285714285714,0.12244897959183673,0.08307018474412793,0.7999999999999999,0.7999999999999999,6.0
+gemini-2.0-flash-lite,"I due livelli principali avevano una forma a otto.
+",i due livelli principali avevano una forma a otto.,4.248027210884354,5.427632653061225e-05,0.1111111111111111,0.02,0.8633400213704505,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Lui, preso totalmente dal lavoro, lei, dalla sua vita sociale.
+","lui, preso totalmente dal lavoro, lei dalla sua vita sociale.",4.464036281179139,5.716843537414966e-05,0.2,0.03278688524590164,0.5253819788848316,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Duncan Walker.
+",duncan walker,3.4560090702947845,4.2672108843537415e-05,1.0,0.23076923076923078,0.0,1.0,1.0,4.0
+gemini-2.0-flash-lite,"I modelli prodotti sono riproduzioni fedeli di personaggi di famose serie anime.
+",i modelli prodotti sono riproduzioni fedeli di personaggi di famose serie anime.,5.364036281179138,6.856843537414965e-05,0.08333333333333333,0.0125,0.9036020036098448,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Le speranze a Siatom sono tante data la giovane età della coppia Peyton Kemp.
+",le speranze a seattle sono tante data la giovane età della coppia payton-kemp.,5.4,6.96e-05,0.3076923076923077,0.1282051282051282,0.5622008276590377,0.8571428571428571,0.8571428571428571,11.0
+gemini-2.0-flash-lite,"Il vescovo Alessandro chiamò i monaci vallombrosani a reggere l'abbazia di San Mercuriale.
+",il vescovo alessandro chiamò i monaci vallombrosani a reggere l'abbazia di san mercuriale.,6.876009070294785,8.701210884353741e-05,0.3076923076923077,0.044444444444444446,0.5760844201603896,1.0,1.0,5.0
+gemini-2.0-flash-lite,"Dopo la morte di Oliver, Henry approvò la discussione del fratello Richard.
+","dopo la morte di oliver, henry approvò la successione del fratello richard.",5.4,6.900000000000001e-05,0.4166666666666667,0.10666666666666667,0.1239040201758117,0.9166666666666666,0.9166666666666666,9.0
+gemini-2.0-flash-lite,"Le spalle sono lunghe e aderenti al torace.
+",le spalle sono lunghe e aderenti al torace.,4.428027210884354,5.613632653061224e-05,0.125,0.023255813953488372,0.8408964152537145,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Fa parte del canone delle fonti più antiche dello slavo ecclesiastico antico.
+",fa parte del canone delle fonti più antiche dello slavo ecclesiastico antico.,4.9320181405895696,6.338421768707483e-05,0.08333333333333333,0.012987012987012988,0.9036020036098448,1.0,1.0,2.0
+gemini-2.0-flash-lite,"È doppiato in inglese da Andy Daly.
+",è doppiato in inglese da andy davoli.,2.628027210884354,3.4236326530612244e-05,0.42857142857142855,0.16216216216216217,0.41113361690051975,0.8333333333333334,0.8333333333333334,7.0
+gemini-2.0-flash-lite,"In questo progetto musicale si intersecano sonorità elettroniche e sonorità acustiche.
+",in questo progetto musicale si intersecano sonorità elettroniche e sonorità acustiche.,6.336009070294785,7.993210884353741e-05,0.09090909090909091,0.011627906976744186,0.8931539818068694,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Fu collaboratore di numerosi giornali, fra cui il Journal des Débats.
+","fu collaboratore di numerosi giornali, fra cui il ""journal des débats"".",5.796009070294785,7.345210884353741e-05,0.2727272727272727,0.07042253521126761,0.5900468726392808,1.0,1.0,6.0
+gemini-2.0-flash-lite,"Braccato dalle milizie austriache, Garibaldi fu costretto alla fuga.
+","braccato dalle milizie austriache, garibaldi fu costretto alla fuga.",5.04,6.378e-05,0.2222222222222222,0.029411764705882353,0.43167001068522526,1.0,1.0,3.0
+gemini-2.0-flash-lite,"F è una proteina periferica. F una proteina integrale della membrana mitocondriale interna.
+","f è una proteina periferica, f una proteina integrale della membrana mitocondriale interna.",8.964036281179139,0.00011206843537414965,0.23076923076923078,0.03296703296703297,0.5783569866465142,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Fu insegnante di lettere a Salò e forse a Brescia.
+",fu insegnante di lettere a salò e forse a brescia.,5.22,6.623999999999999e-05,0.3,0.06,0.37991784282579627,1.0,1.0,4.0
+gemini-2.0-flash-lite,"A temperatura ambiente, si presenta come un solido blu verde, inodore.
+","a temperatura ambiente si presenta come un solido blu-verde, inodore.",5.796009070294785,7.345210884353741e-05,0.4,0.043478260869565216,0.38163309113713373,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Iniziò così una lunga serie di esposizioni.
+",iniziò così una lunga serie di esposizioni.,4.032018140589569,5.108421768707483e-05,0.14285714285714285,0.023255813953488372,0.8091067115702212,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Le dosi di vaccino vengono somministrate al secondo, terzo e quarto mese di età.
+","le dosi di vaccino vengono somministrate al secondo, terzo e quarto mese di età.",6.984036281179138,8.860843537414966e-05,0.07142857142857142,0.0125,0.9193227152249185,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Cristalli tabulari appiattiti molto piccoli.
+",cristalli tabulari appiattiti molto piccoli.,3.96,4.962e-05,0.2,0.022727272727272728,0.668740304976422,1.0,1.0,2.0
+gemini-2.0-flash-lite,"La Torre Net è invece l'edificio più alto abitabile.
+",la torre net è invece l'edificio più alto abitabile.,4.32,5.5140000000000004e-05,0.3333333333333333,0.057692307692307696,0.5873949094699213,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Le sue pretese furono vane quando il cugino Vincenzo Gonzaga sposò Maria Vittoria Gonzaga.
+",le sue pretese furono vane quando il cugino vincenzo gonzaga sposò maria vittoria gonzaga.,6.192018140589569,7.910421768707483e-05,0.42857142857142855,0.06666666666666667,0.44710186192584195,1.0,1.0,7.0
+gemini-2.0-flash-lite,"Sono stati identificati i personaggi di questa vicenda, risultata sostanzialmente vera.
+","sono stati identificati i personaggi di questa vicenda, risultata sostanzialmente vera.",6.2280272108843535,7.863632653061224e-05,0.09090909090909091,0.011494252873563218,0.8931539818068694,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Il libro segue gli eventi di La fine della vicenda.
+",il libro segue gli eventi di la fine della vicenda.,6.84,8.567999999999999e-05,0.2,0.0392156862745098,0.5253819788848316,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Tutte le funzioni del corpo sono notevolmente ridotte in questo stato.
+",tutte le funzioni del corpo sono notevolmente ridotte in questo stato.,5.076009070294784,6.481210884353742e-05,0.09090909090909091,0.014285714285714285,0.8931539818068694,1.0,1.0,2.0
+gemini-2.0-flash-lite,Pesce per l'aria.,pesce perla,1.8,2.31e-05,1.5,0.6363636363636364,0.0,0.3333333333333333,0.3333333333333333,7.0
+gemini-2.0-flash-lite,"È stata esportata anche in Germania e in Africa.
+",è stata esportata anche in germania e in africa.,4.716009070294785,5.9892108843537416e-05,0.3333333333333333,0.0625,0.3549481056010053,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Sotto la cascata c'è una passerella pedonale che permette di attraversare il fiume.
+",sotto alla cascata c'è una passerella pedonale che permette di attraversare il fiume.,5.868027210884354,7.491632653061224e-05,0.15384615384615385,0.03529411764705882,0.8242367502646054,0.9230769230769231,0.9230769230769231,4.0
+gemini-2.0-flash-lite,"L'acqua, però, è spesso torbida per la grande presenza di plankton.
+",l'acqua però è spesso torbida per la grande presenza di plancton.,8.316009070294784,0.00010369210884353741,0.2727272727272727,0.06153846153846154,0.6786502681586727,0.9090909090909091,0.9090909090909091,5.0
+gemini-2.0-flash-lite,"Il lupo fu rapidissimo.
+",lo sviluppo fu rapidissimo.,3.9960090702947846,4.975210884353741e-05,0.5,0.2222222222222222,0.16990442448471224,0.5,0.5,7.0
+gemini-2.0-flash-lite,"Il bresciano riportò alcune contusioni e venne trasportato precauzionalmente all'ospedale.
+",il bresciano riportò alcune contusioni e venne trasportato precauzionalmente all'ospedale.,7.128027210884354,8.913632653061224e-05,0.1,0.011111111111111112,0.8801117367933934,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Sono inoltre numerosi i libri e i saggi pubblicati dall'associazione.
+",sono inoltre numerosi i libri e i saggi pubblicati dall'associazione.,5.04,6.408e-05,0.1,0.014492753623188406,0.8801117367933934,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Occorre notare la costante presenza di un elemento irrazionale nel fenomeno bellico.
+",occorre notare la costante presenza di un elemento irrazionale nel fenomeno bellico.,5.976009070294785,7.59121088435374e-05,0.08333333333333333,0.011904761904761904,0.9036020036098448,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Direttore Albina Malerba.
+",direttore: albina malerba.,3.4560090702947845,4.2972108843537415e-05,1.0,0.15384615384615385,0.0,1.0,1.0,5.0
+gemini-2.0-flash-lite,"L'opera fa tan dan con il giudizio di Salomone nello stesso museo.
+","l'opera fa ""pendant"" con il ""giudizio di salomone"" nello stesso museo.",5.004036281179138,6.424843537414965e-05,0.45454545454545453,0.14285714285714285,0.11530568323789493,0.8799999999999999,0.8799999999999999,11.0
+gemini-2.0-flash-lite,"Jim trova come unico compagno di conversazione il robot barista Arthur.
+",jim trova come unico compagno di conversazione il robot barista arthur.,6.264036281179139,7.906843537414966e-05,0.18181818181818182,0.028169014084507043,0.7860753021519787,1.0,1.0,3.0
+gemini-2.0-flash-lite,"Angel Lozano.
+",ángel lozano,2.9160090702947845,3.619210884353741e-05,1.0,0.25,0.0,0.5,0.5,4.0
+gemini-2.0-flash-lite,"Riguarda invece quello di un antenato del giovane Dashwood, Sir Francis Dashwood, noto libertino.
+","ricorda invece quello di un antenato del giovane dashwood, sir francis dashwood, noto libertino.",5.616009070294784,7.21921088435374e-05,0.35714285714285715,0.08333333333333333,0.4785543921093738,0.9285714285714286,0.9285714285714286,9.0
+gemini-2.0-flash-lite,"Giustiniano, confidente nella propria forza basata sui suoi precedenti successi, rispose con ostilità.
+","giustiniano, confidente nella propria forza basata sui suoi precedenti successi, rispose con ostilità.",7.668027210884354,9.651632653061225e-05,0.07692307692307693,0.00980392156862745,0.912167909070388,1.0,1.0,2.0
+gemini-2.0-flash-lite,"La sample studiò al Vassar College e frequentò l'università di Lipsia.
+",la semple studiò al vassar college e frequentò l'università di lipsia.,5.4360090702947845,6.913210884353742e-05,0.45454545454545453,0.07142857142857142,0.2790159393585827,0.9166666666666666,0.9166666666666666,6.0
+gemini-2.0-flash-lite,"La domenica seguente, la Lazio subisce il medesimo risultato al San Paolo.
+","la domenica seguente, la lazio subisce il medesimo risultato al san paolo.",5.148027210884353,6.597632653061223e-05,0.3333333333333333,0.05405405405405406,0.4240125351805037,1.0,1.0,5.0
+gemini-2.0-flash-lite,"Sentiero Bonacossa.
+",sentiero bonacossa,3.06,3.792e-05,1.0,0.16666666666666666,0.0,1.0,1.0,4.0
+gemini-2.0-flash-lite,"Lo spettro della cometa assomiglia a quello degli asteroidi troiani.
+",lo spettro della cometa assomiglia a quello degli asteroidi troiani.,5.76,7.272e-05,0.1,0.014705882352941176,0.8801117367933934,1.0,1.0,2.0
+gemini-2.0-flash-lite,"Il collo non era particolarmente lungo.
+",il collo non era particolarmente lungo.,3.4560090702947845,4.387210884353741e-05,0.16666666666666666,0.02564102564102564,0.7598356856515925,1.0,1.0,2.0

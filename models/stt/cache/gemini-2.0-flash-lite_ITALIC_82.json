@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Università di Roma \"La Sapienza\".\n",
+  "reference": "quale università ha frequentato laura boldrini",
+  "time": 3.66,
+  "cost": 4.6019999999999996e-05,
+  "wer": 1.0,
+  "cer": 0.6956521739130435,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.1818181818181818,
+  "rougeL_avg_f1": 0.1818181818181818,
+  "levenshtein_avg": 32.0
+}

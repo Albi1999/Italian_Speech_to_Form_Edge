@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Verbale di infrazione redatto dall'agente Silvianelli, data 13/10/2023, ora 15:53. Infrazione: sosta davanti a passo carrabile. Luogo: Via Garibaldi 11, Firenze. Veicolo: Alfa Romeo, targa AB123CD.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Silvia Neri. Data: 09/03/2025, ora: 10:53. Infrazione: sosta davanti a passo carrabile. Luogo: via Garibaldi 11, Firenze. Veicolo: Audi A3, targa FG234LM.",
+  "time": 19.077006802721087,
+  "cost": 0.003955401360544217,
+  "wer": 0.37037037037037035,
+  "cer": 0.14795918367346939,
+  "bleu_avg": 0.4384861051674016,
+  "rouge1_avg_f1": 0.7540983606557377,
+  "rougeL_avg_f1": 0.7213114754098361,
+  "levenshtein_avg": 30.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "In base all'articolo 7, comma 15, l'agente Luca Verdi ha riscontrato un'infrazione in corso Buenos Aires 98, Milano alle ore 16:44 del 6 marzo 2025, veicolo coinvolto, Fiat Panda, targa FG234LM.",
+  "reference": "In base al articolo 7, comma 15, l'agente Luca Verdi ha riscontrato un'infrazione in corso Buenos Aires 98, Milano alle ore 16:44 del 06/03/2025. Veicolo coinvolto: Fiat Panda, targa FG234LM.",
+  "time": 18.786984126984127,
+  "cost": 0.00023534380952380953,
+  "wer": 0.23333333333333334,
+  "cer": 0.06806282722513089,
+  "bleu_avg": 0.6964365549070355,
+  "rouge1_avg_f1": 0.9142857142857143,
+  "rougeL_avg_f1": 0.9142857142857143,
+  "levenshtein_avg": 13.0
+}

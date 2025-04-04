@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Tutto ciò è andato completamente perduto, insieme a svariate composizioni di Alkan.\n",
+  "reference": "tutto ciò è andato completamente perduto, insieme a svariate composizioni di alkan.",
+  "time": 5.796009070294785,
+  "cost": 7.375210884353742e-05,
+  "wer": 0.16666666666666666,
+  "cer": 0.024096385542168676,
+  "bleu_avg": 0.8070557274927982,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

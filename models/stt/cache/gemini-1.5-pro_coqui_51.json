@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Infrazione riscontrata: divieto di sosta.\nPosizione: Via del Corso Tel vero.\nOra: 10:10/14. Data: 07/10/2023.\nAuto: Renault Clio, targa [omissis].\nAgente: Sara Bellini.\n",
+  "reference": "Infrazione riscontrata: divieto di sosta. Posizione: via del Corso 12, Roma. Ora: 22:14, Data: 05/03/2025. Auto: Renault Clio, targa TR098YU. Agente: Sara Bellini.",
+  "time": 16.421043083900226,
+  "cost": 0.003409208616780045,
+  "wer": 0.4782608695652174,
+  "cer": 0.1901840490797546,
+  "bleu_avg": 0.39618675974573386,
+  "rouge1_avg_f1": 0.7169811320754716,
+  "rougeL_avg_f1": 0.7169811320754716,
+  "levenshtein_avg": 32.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Agente Luca Verdi in servizio. Segnalazione di accesso vietato alle 19:56 del 17 marzo 2025 in via Etnea 45, Catania. Auto coinvolta, Renault Clio, targa XY 987 ZT.\n",
+  "reference": "Agente Luca Verdi in servizio. Segnalazione di accesso vietato alle 19:56 del 17/03/2025, in via Etnea 45, Catania. Auto coinvolta: Renault Clio, targa XY987ZT.",
+  "time": 18.408027210884352,
+  "cost": 0.00022989632653061222,
+  "wer": 0.2916666666666667,
+  "cer": 0.06875,
+  "bleu_avg": 0.6100034457014365,
+  "rouge1_avg_f1": 0.8928571428571429,
+  "rougeL_avg_f1": 0.8928571428571429,
+  "levenshtein_avg": 12.0
+}

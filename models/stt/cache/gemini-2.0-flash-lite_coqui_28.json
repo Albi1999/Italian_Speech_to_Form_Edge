@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Agente Giulia Costa in servizio. Segnalazione di doppia fila alle Fieve, fattimine del 2020 Fieve in via del Corso 12, Roma. Auto coinvolta, Volkswagen, targa 3201.\n",
+  "reference": "Agente Giulia Costa in servizio. Segnalazione di doppia fila alle 05:49 del 25/03/2025, in via del Corso 12, Roma. Auto coinvolta: Volkswagen Golf, targa KL321MN.",
+  "time": 16.419002267573696,
+  "cost": 0.00020542802721088433,
+  "wer": 0.32,
+  "cer": 0.2222222222222222,
+  "bleu_avg": 0.5805399561362194,
+  "rouge1_avg_f1": 0.7777777777777779,
+  "rougeL_avg_f1": 0.7777777777777779,
+  "levenshtein_avg": 37.0
+}

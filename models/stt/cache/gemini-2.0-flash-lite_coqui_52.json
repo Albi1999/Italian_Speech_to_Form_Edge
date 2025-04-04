@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Il giorno 20/02/2025 alle ore 10:30, è stata segnalata un'infrazione per parcheggio su strisce pedonali in via Etenia Forti 5, Catania. Veicolo coinvolto: Fiat Panda targa Zaffiro 136. Agente: Mario Rossi.\n",
+  "reference": "Il giorno 23/03/2025, alle ore 18:31, è stata segnalata un’infrazione per parcheggio su strisce pedonali in via Etnea 45, Catania. Veicolo coinvolto: Fiat Panda, targa ZA456QP. Agente: Mario Rossi.",
+  "time": 20.06702947845805,
+  "cost": 0.0002507043537414966,
+  "wer": 0.3103448275862069,
+  "cer": 0.12690355329949238,
+  "bleu_avg": 0.37447417181493453,
+  "rouge1_avg_f1": 0.7575757575757576,
+  "rougeL_avg_f1": 0.7575757575757576,
+  "levenshtein_avg": 26.0
+}

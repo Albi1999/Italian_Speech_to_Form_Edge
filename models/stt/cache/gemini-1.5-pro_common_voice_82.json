@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "è stata esportata anche in Germania e in Africa.\n",
+  "reference": "è stata esportata anche in germania e in africa.",
+  "time": 4.716009070294785,
+  "cost": 0.000998201814058957,
+  "wer": 0.2222222222222222,
+  "cer": 0.041666666666666664,
+  "bleu_avg": 0.5133450480401704,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

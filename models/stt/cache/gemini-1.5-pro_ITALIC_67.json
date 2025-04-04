@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Invia a mamma un'email adesso.\n",
+  "reference": "invia a mamma una email adesso",
+  "time": 2.34,
+  "cost": 0.000503,
+  "wer": 0.6666666666666666,
+  "cer": 0.13333333333333333,
+  "bleu_avg": 0.09302577375697234,
+  "rouge1_avg_f1": 0.8333333333333334,
+  "rougeL_avg_f1": 0.8333333333333334,
+  "levenshtein_avg": 5.0
+}

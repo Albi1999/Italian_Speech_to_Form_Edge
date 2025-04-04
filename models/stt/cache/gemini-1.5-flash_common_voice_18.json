@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Il vanadio è un metallo bianco, lucente, duro e duttile.\n",
+  "reference": "il vanadio è un metallo bianco lucente, duro e duttile.",
+  "time": 5.22,
+  "cost": 6.623999999999999e-05,
+  "wer": 0.2,
+  "cer": 0.03636363636363636,
+  "bleu_avg": 0.5253819788848316,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

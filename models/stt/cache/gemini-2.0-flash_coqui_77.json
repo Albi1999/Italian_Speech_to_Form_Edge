@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Sono l'agente Giulia Costa. Alle ore 15:10 ho rilevato un'infrazione per doppia fila in Via Milano 24, Torino. Veicolo, ambiente targato in onde degli 86.",
+  "reference": "Sono l'agente Giulia Costa. Alle ore 15:04 del 01/03/2025, ho rilevato un'infrazione per doppia fila in via Milano 24, Torino. Veicolo: Audi A3, targa XY987ZT.",
+  "time": 14.755011337868481,
+  "cost": 0.0005349763990929705,
+  "wer": 0.44,
+  "cer": 0.27044025157232704,
+  "bleu_avg": 0.4679666479405632,
+  "rouge1_avg_f1": 0.7241379310344827,
+  "rougeL_avg_f1": 0.7241379310344827,
+  "levenshtein_avg": 43.0
+}

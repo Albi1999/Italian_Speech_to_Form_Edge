@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "In base all'articolo 1157 comma 5, la gente Sara Bellini ha riscontrato un'infrazione in Piazza Venezia,  alle ore 10:13 del 10/10/2025. Veicolo coinvolto: Fiat Panda, targhe MN 123 XY.\n",
+  "reference": "In base al articolo 157, comma 5, l'agente Sara Bellini ha riscontrato un'infrazione in piazza Venezia, Roma alle ore 16:49 del 21/03/2025. Veicolo coinvolto: Fiat Panda, targa TR098YU.",
+  "time": 16.898004535147393,
+  "cost": 0.0002120760544217687,
+  "wer": 0.4642857142857143,
+  "cer": 0.15675675675675677,
+  "bleu_avg": 0.3021661580206045,
+  "rouge1_avg_f1": 0.6567164179104478,
+  "rougeL_avg_f1": 0.6567164179104478,
+  "levenshtein_avg": 30.0
+}

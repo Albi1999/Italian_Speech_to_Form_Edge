@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Verbale di infrazione redatto dall'agente si viene data che tenterete tenti fine. Ora si essere in te. Infrazione, parcheggio su strisce pedonali. Luogo, via Roma 27, Palermo. Veicolo, quel corsa, targhe.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Silvia Neri. Data: 13/03/2025, ora: 06:17. Infrazione: parcheggio su strisce pedonali. Luogo: via Roma 77, Palermo. Veicolo: Opel Corsa, targa TR098YU.",
+  "time": 18.373015873015873,
+  "cost": 0.00023037619047619045,
+  "wer": 0.7692307692307693,
+  "cer": 0.3316062176165803,
+  "bleu_avg": 0.2089685256289425,
+  "rouge1_avg_f1": 0.6129032258064516,
+  "rougeL_avg_f1": 0.6129032258064516,
+  "levenshtein_avg": 65.0
+}

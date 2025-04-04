@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "L'oggetto dell'ultima email di mamma è \"Aggiornamenti\".\n",
+  "reference": "qual è l'oggetto dell'ultima email di mamma",
+  "time": 3.66,
+  "cost": 4.662e-05,
+  "wer": 0.7142857142857143,
+  "cer": 0.627906976744186,
+  "bleu_avg": 0.4347208719449914,
+  "rouge1_avg_f1": 0.875,
+  "rougeL_avg_f1": 0.875,
+  "levenshtein_avg": 28.0
+}

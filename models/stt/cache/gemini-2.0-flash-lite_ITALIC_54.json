@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Apri l'app della musica, riproduci una canzone.\n",
+  "reference": "apri l'app della musica e riproduci una canzone",
+  "time": 3.72,
+  "cost": 4.7340000000000004e-05,
+  "wer": 0.5,
+  "cer": 0.0851063829787234,
+  "bleu_avg": 0.08563683466425753,
+  "rouge1_avg_f1": 0.9411764705882353,
+  "rougeL_avg_f1": 0.9411764705882353,
+  "levenshtein_avg": 5.0
+}

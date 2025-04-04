@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Nuova sveglia per le 6:00 di mattina.  Pip pip pip...\n",
+  "reference": "nuova sveglia per le sei di mattina",
+  "time": 3.36,
+  "cost": 4.391999999999999e-05,
+  "wer": 0.8571428571428571,
+  "cer": 0.6285714285714286,
+  "bleu_avg": 0.1122444464861146,
+  "rouge1_avg_f1": 0.6666666666666665,
+  "rougeL_avg_f1": 0.6666666666666665,
+  "levenshtein_avg": 23.0
+}

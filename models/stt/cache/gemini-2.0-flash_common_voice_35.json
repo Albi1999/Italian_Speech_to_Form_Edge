@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Propugnò lo studio della formazione delle città attraverso l'utilizzo degli annali della Russia sud-occidentale.",
+  "reference": "propugnò lo studio della formazione delle città attraverso l'utilizzo degli \"annali della russia sudoccidentale\".",
+  "time": 7.776009070294784,
+  "cost": 0.0002849155192743764,
+  "wer": 0.2857142857142857,
+  "cer": 0.04424778761061947,
+  "bleu_avg": 0.6115380576901023,
+  "rouge1_avg_f1": 0.9032258064516129,
+  "rougeL_avg_f1": 0.9032258064516129,
+  "levenshtein_avg": 5.0
+}

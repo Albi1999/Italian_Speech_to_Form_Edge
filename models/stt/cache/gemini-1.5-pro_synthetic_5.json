@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Infrazione riscontrata: accesso vietato. Posizione: Via del Corso 12, Roma, ora 2:52. Data: 16 marzo 2025. Auto: Volkswagen Golf, targa AA321MD. Agente: Carlo Bruno.\n",
+  "reference": "Infrazione riscontrata: accesso vietato. Posizione: via del Corso 12, Roma. Ora: 02:52, Data: 16/03/2025. Auto: Volkswagen Golf, targa KL321MN. Agente: Carlo Bruni.",
+  "time": 20.4,
+  "cost": 0.00421,
+  "wer": 0.4090909090909091,
+  "cer": 0.10365853658536585,
+  "bleu_avg": 0.3207714281451772,
+  "rouge1_avg_f1": 0.8399999999999999,
+  "rougeL_avg_f1": 0.8399999999999999,
+  "levenshtein_avg": 18.0
+}

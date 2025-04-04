@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Il giorno 26/05/2025 alle ore 14:30 è stata segnalata un'infrazione per divieto di sosta in via Roma 77, Palermo. Veicolo coinvolto: Peugeot, targa TO 0347URN. Agente: Silvia Neri.\n",
+  "reference": "Il giorno 26/03/2025, alle ore 04:40, è stata segnalata un’infrazione per divieto di sosta in via Roma 77, Palermo. Veicolo coinvolto: Opel Corsa, targa FG234LM. Agente: Silvia Neri.",
+  "time": 17.63501133786848,
+  "cost": 0.00022062013605442176,
+  "wer": 0.25,
+  "cer": 0.12087912087912088,
+  "bleu_avg": 0.5010690128179972,
+  "rouge1_avg_f1": 0.8064516129032258,
+  "rougeL_avg_f1": 0.8064516129032258,
+  "levenshtein_avg": 23.0
+}

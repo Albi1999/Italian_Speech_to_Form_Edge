@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sono l'agente Carlo Bruni, alle ore 13:26 del 9 marzo 2025. Ho rilevato un'infrazione per parcheggio su strisce pedonali in via Etnea 45, Catania. Veicolo Toyota Yaris, targa GH 789 I.\n",
+  "reference": "Sono l'agente Carlo Bruni. Alle ore 13:26 del 09/03/2025, ho rilevato un'infrazione per parcheggio su strisce pedonali in via Etnea 45, Catania. Veicolo: Toyota Yaris, targa GH789IJ.",
+  "time": 15.633015873015873,
+  "cost": 0.00019749619047619045,
+  "wer": 0.37037037037037035,
+  "cer": 0.08791208791208792,
+  "bleu_avg": 0.4849576058746578,
+  "rouge1_avg_f1": 0.8787878787878787,
+  "rougeL_avg_f1": 0.8787878787878787,
+  "levenshtein_avg": 17.0
+}

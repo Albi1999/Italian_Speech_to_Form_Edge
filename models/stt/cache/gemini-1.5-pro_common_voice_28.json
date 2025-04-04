@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Vi si insediarono alcune migliaia di coloni italiani nella seconda metà degli anni Trenta.\n",
+  "reference": "vi si insediarono alcune migliaia di coloni italiani nella seconda metà degli anni trenta.",
+  "time": 5.832018140589569,
+  "cost": 0.0012464036281179137,
+  "wer": 0.14285714285714285,
+  "cer": 0.022222222222222223,
+  "bleu_avg": 0.8385766789076257,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

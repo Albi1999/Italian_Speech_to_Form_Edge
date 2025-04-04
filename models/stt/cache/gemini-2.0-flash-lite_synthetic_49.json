@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Sono l'agente Marco Gentili, alle ore 5:43 del 14 marzo 2025. Ho rilevato un'infrazione per sosta davanti a passo carrabile in via Roma 77. Palermo, veicolo, Fiat Panda, targa Z456QP.\n",
+  "reference": "Sono l'agente Marco Gentili. Alle ore 05:43 del 14/03/2025, ho rilevato un'infrazione per sosta davanti a passo carrabile in via Roma 77, Palermo. Veicolo: Fiat Panda, targa ZA456QP.",
+  "time": 19.805986394557824,
+  "cost": 0.00024727183673469387,
+  "wer": 0.39285714285714285,
+  "cer": 0.09340659340659341,
+  "bleu_avg": 0.43434098825795264,
+  "rouge1_avg_f1": 0.9090909090909091,
+  "rougeL_avg_f1": 0.9090909090909091,
+  "levenshtein_avg": 18.0
+}

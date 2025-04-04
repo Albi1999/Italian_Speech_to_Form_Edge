@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "linea 33 33 33 file, ore 3:00, pochi file, veicolo Mercedes classe A, targa Renine onde degli 86, in doppia fila presso Via del Corso Telve, Roma. Rilevato da agente sì, Via Neri.",
+  "reference": "19/03/2025, ore 03:45: veicolo Mercedes Classe A, targa XY987ZT, in doppia fila presso via del Corso 12, Roma. Rilevato da agente Silvia Neri.",
+  "time": 13.92204081632653,
+  "cost": 0.0005088558367346939,
+  "wer": 0.7391304347826086,
+  "cer": 0.4647887323943662,
+  "bleu_avg": 0.18506589978312343,
+  "rouge1_avg_f1": 0.5999999999999999,
+  "rougeL_avg_f1": 0.5999999999999999,
+  "levenshtein_avg": 66.0
+}

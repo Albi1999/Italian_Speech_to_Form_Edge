@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Il giorno 24 marzo 2025, alle ore 7:51, è stata segnalata un'infrazione per zona rimozione in via Etnea 45, Catania, veicolo coinvolto, Volkswagen Golf, targa AB 123 CD, agente, Carlo Bruni.\n",
+  "reference": "Il giorno 24/03/2025, alle ore 07:51, è stata segnalata un’infrazione per zona rimozione in via Etnea 45, Catania. Veicolo coinvolto: Volkswagen Golf, targa AB123CD. Agente: Carlo Bruni.",
+  "time": 19.296009070294783,
+  "cost": 0.0002414521088435374,
+  "wer": 0.4444444444444444,
+  "cer": 0.0913978494623656,
+  "bleu_avg": 0.3093527647131144,
+  "rouge1_avg_f1": 0.870967741935484,
+  "rougeL_avg_f1": 0.870967741935484,
+  "levenshtein_avg": 18.0
+}

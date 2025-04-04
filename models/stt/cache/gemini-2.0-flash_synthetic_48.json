@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Verbale di infrazione redatto dall'agente Mario Rossi. Data: 9 marzo 2025. Ora: 3:41. Infrazione: doppia fila. Luogo: Piazza Venezia, Roma. Veicolo: Toyota Yaris, targa KL 321 mega Newton.",
+  "reference": "Verbale di infrazione redatto dall'agente Mario Rossi. Data: 09/03/2025, ora: 03:41. Infrazione: doppia fila. Luogo: piazza Venezia, Roma. Veicolo: Toyota Yaris, targa KL321MN.",
+  "time": 16.683038548752833,
+  "cost": 0.0006040429569160997,
+  "wer": 0.43478260869565216,
+  "cer": 0.13636363636363635,
+  "bleu_avg": 0.4935578819979933,
+  "rouge1_avg_f1": 0.8070175438596491,
+  "rougeL_avg_f1": 0.8070175438596491,
+  "levenshtein_avg": 24.0
+}

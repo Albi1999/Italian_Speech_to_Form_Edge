@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "In base all'articolo, Paolo Grey 57 con Mafide, la gente sarà Bellini, tra riscontrato un'infrazione in Piazza Venezia, tra alle ore 70, perché nene del tempo, ore 30, 30, 30. Veicolo con il molto, Fiat Panda, targa 2000.\n",
+  "reference": "In base al articolo 157, comma 5, l'agente Sara Bellini ha riscontrato un'infrazione in piazza Venezia, Roma alle ore 16:49 del 21/03/2025. Veicolo coinvolto: Fiat Panda, targa TR098YU.",
+  "time": 16.898004535147393,
+  "cost": 0.0002147760544217687,
+  "wer": 0.8928571428571429,
+  "cer": 0.42702702702702705,
+  "bleu_avg": 0.054474365840403306,
+  "rouge1_avg_f1": 0.4657534246575342,
+  "rougeL_avg_f1": 0.4657534246575342,
+  "levenshtein_avg": 80.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Agente Giulia Costa in servizio. Segnalazione di divieto di sosta alle 30, pone 28/10/2025 in via Garibaldi 11, Firenze. Auto coinvolta Fiat Panda targa TR1321M.\n",
+  "reference": "Agente Giulia Costa in servizio. Segnalazione di divieto di sosta alle 21:28 del 10/03/2025, in via Garibaldi 11, Firenze. Auto coinvolta: Fiat Panda, targa KL321MN.",
+  "time": 16.86702947845805,
+  "cost": 0.0035084058956916103,
+  "wer": 0.24,
+  "cer": 0.11515151515151516,
+  "bleu_avg": 0.6052987576779449,
+  "rouge1_avg_f1": 0.8727272727272727,
+  "rougeL_avg_f1": 0.8727272727272727,
+  "levenshtein_avg": 20.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Durante il pattugliamento in zona Piazza Venezia, Roma, l'agente Anna Bianchi ha rilevato una violazione dell'articolo 187 comma 5. L'auto coinvolta è una Volkswagen Golf targata 134 alle ore 23:57 del 7/2025.",
+  "reference": "Durante il pattugliamento in zona piazza Venezia, Roma, l'agente Anna Bianchi ha rilevato una violazione del articolo 157, comma 5. L'auto coinvolta è una Volkswagen Golf targata FG234LM, alle ore 23:57 del 16/03/2025.",
+  "time": 19.36204081632653,
+  "cost": 0.0006999438367346939,
+  "wer": 0.18181818181818182,
+  "cer": 0.07339449541284404,
+  "bleu_avg": 0.6522358729283482,
+  "rouge1_avg_f1": 0.8767123287671232,
+  "rougeL_avg_f1": 0.8767123287671232,
+  "levenshtein_avg": 16.0
+}

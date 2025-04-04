@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Agente Mario Rossi in servizio. Segnalazione di divieto di sosta alle 23:48 del 5 marzo 2025. In via Roma 77, Palermo. Auto coinvolta, Fiat Panda, targa FG 234 LM.\n",
+  "reference": "Agente Mario Rossi in servizio. Segnalazione di divieto di sosta alle 23:48 del 05/03/2025, in via Roma 77, Palermo. Auto coinvolta: Fiat Panda, targa FG234LM.",
+  "time": 14.871020408163265,
+  "cost": 0.00018775224489795916,
+  "wer": 0.32,
+  "cer": 0.08176100628930817,
+  "bleu_avg": 0.5877840417863172,
+  "rouge1_avg_f1": 0.8620689655172413,
+  "rougeL_avg_f1": 0.8620689655172413,
+  "levenshtein_avg": 14.0
+}

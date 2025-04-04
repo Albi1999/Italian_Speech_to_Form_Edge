@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Verbale di infrazione redatto dall'agente Sara Bellini. Data: 17 marzo 2025. Ora: mezzanotte e un quarto. Infrazione: doppia fila. Luogo: Piazza Venezia, Roma. Veicolo: Fiat Panda, targa XY987ZT.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Sara Bellini. Data: 17/03/2025, ora: 00:15. Infrazione: doppia fila. Luogo: piazza Venezia, Roma. Veicolo: Fiat Panda, targa XY987ZT.",
+  "time": 19.65700680272109,
+  "cost": 0.004081401360544218,
+  "wer": 0.391304347826087,
+  "cer": 0.18285714285714286,
+  "bleu_avg": 0.5325316764898671,
+  "rouge1_avg_f1": 0.8571428571428572,
+  "rougeL_avg_f1": 0.8571428571428572,
+  "levenshtein_avg": 33.0
+}

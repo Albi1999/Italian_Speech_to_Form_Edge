@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Durante il pattugliamento in zona Via Garibaldi, TEVE, Firenze, l'agente Giulia Costantini ha rilevato una violazione dell'articolo 7 comma 15. L'auto coinvolta è una Fiat Panda targata  ... (incomprensibile) ... alle ore 10:45 del 10/10/2023.\n",
+  "reference": "Durante il pattugliamento in zona via Garibaldi 11, Firenze, l'agente Giulia Costa ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Fiat Panda targata FG234LM, alle ore 20:45 del 18/03/2025.",
+  "time": 18.56204081632653,
+  "cost": 0.00023384448979591835,
+  "wer": 0.35294117647058826,
+  "cer": 0.2073732718894009,
+  "bleu_avg": 0.4478315454797505,
+  "rouge1_avg_f1": 0.7894736842105263,
+  "rougeL_avg_f1": 0.7894736842105263,
+  "levenshtein_avg": 46.0
+}

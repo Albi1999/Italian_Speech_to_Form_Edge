@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Alcuni dei suoi componimenti poetici furono pubblicati postumi.\n",
+  "reference": "alcuni suoi componimenti poetici furono pubblicati postumi.",
+  "time": 5.76,
+  "cost": 7.212e-05,
+  "wer": 0.2857142857142857,
+  "cer": 0.0847457627118644,
+  "bleu_avg": 0.6803749333171202,
+  "rouge1_avg_f1": 0.9333333333333333,
+  "rougeL_avg_f1": 0.9333333333333333,
+  "levenshtein_avg": 6.0
+}

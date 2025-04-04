@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Il giorno 20/05/2020 alle ore 14:00 è stata segnalata un'infrazione per divieto di sosta in via Roma 77, Palermo. Veicolo coinvolto: per corsa targa, 333 Funo. Agente: Silvia Neri.\n",
+  "reference": "Il giorno 26/03/2025, alle ore 04:40, è stata segnalata un’infrazione per divieto di sosta in via Roma 77, Palermo. Veicolo coinvolto: Opel Corsa, targa FG234LM. Agente: Silvia Neri.",
+  "time": 17.63501133786848,
+  "cost": 0.00022092013605442176,
+  "wer": 0.2857142857142857,
+  "cer": 0.11538461538461539,
+  "bleu_avg": 0.4772349067014227,
+  "rouge1_avg_f1": 0.7619047619047619,
+  "rougeL_avg_f1": 0.7619047619047619,
+  "levenshtein_avg": 22.0
+}

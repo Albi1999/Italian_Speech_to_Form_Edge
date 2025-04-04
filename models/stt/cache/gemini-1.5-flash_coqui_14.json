@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Infrazione riscontrata, sono rimozioni, posizioni, corso buono si riesce a evitare. Mi hanno ora, tele, zero, data, tente, tente, tente, fifi, tutto, forse, gente, golf, fatta, un'inadeguatezza, gente, ma con gente.\n",
+  "reference": "Infrazione riscontrata: zona rimozione. Posizione: corso Buenos Aires 98, Milano. Ora: 12:00, Data: 10/03/2025. Auto: Volkswagen Golf, targa XY987ZT. Agente: Marco Gentili.",
+  "time": 18.11700680272109,
+  "cost": 0.00022730408163265306,
+  "wer": 1.3181818181818181,
+  "cer": 0.6569767441860465,
+  "bleu_avg": 0.007173775053353474,
+  "rouge1_avg_f1": 0.21052631578947367,
+  "rougeL_avg_f1": 0.21052631578947367,
+  "levenshtein_avg": 114.0
+}

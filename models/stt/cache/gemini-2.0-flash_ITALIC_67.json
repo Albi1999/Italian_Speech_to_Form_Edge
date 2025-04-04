@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Invia un memo in email all'elenco.",
+  "reference": "invia a mamma una email adesso",
+  "time": 2.34,
+  "cost": 9.036799999999999e-05,
+  "wer": 0.8333333333333334,
+  "cer": 0.5333333333333333,
+  "bleu_avg": 0.040824829046386304,
+  "rouge1_avg_f1": 0.30769230769230765,
+  "rougeL_avg_f1": 0.30769230769230765,
+  "levenshtein_avg": 16.0
+}

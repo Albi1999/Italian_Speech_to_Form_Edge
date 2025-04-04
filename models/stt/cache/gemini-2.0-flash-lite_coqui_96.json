@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "In base all'articolo, ore 57, comma 5, la gente sarà Bellini, ha riscontrato un'infrazione in via Garibaldi, Even, Firenze alle ore 15:09 del 30, tenti, tenti, fi. Veicolo con il motto, 2000, targa 56.\n",
+  "reference": "In base al articolo 157, comma 5, l'agente Sara Bellini ha riscontrato un'infrazione in via Garibaldi 11, Firenze alle ore 15:01 del 12/03/2025. Veicolo coinvolto: BMW Serie 1, targa CD456EF.",
+  "time": 17.378004535147394,
+  "cost": 0.00021933605442176873,
+  "wer": 0.6333333333333333,
+  "cer": 0.31413612565445026,
+  "bleu_avg": 0.17137271453651795,
+  "rouge1_avg_f1": 0.5555555555555556,
+  "rougeL_avg_f1": 0.5555555555555556,
+  "levenshtein_avg": 61.0
+}

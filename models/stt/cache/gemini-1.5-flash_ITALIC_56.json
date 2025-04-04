@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Avrò bisogno dei miei stivali da neve questo pomeriggio.\n",
+  "reference": "avrò bisogno dei miei stivali da neve questo pomeriggio",
+  "time": 4.26,
+  "cost": 5.442e-05,
+  "wer": 0.2222222222222222,
+  "cer": 0.03636363636363636,
+  "bleu_avg": 0.7259795291154771,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

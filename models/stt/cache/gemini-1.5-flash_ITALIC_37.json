@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Rimuovi questa lista dalle altre.\n",
+  "reference": "rimuovi questa lista dalle altre",
+  "time": 3.0,
+  "cost": 3.81e-05,
+  "wer": 0.4,
+  "cer": 0.0625,
+  "bleu_avg": 0.26591479484724945,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

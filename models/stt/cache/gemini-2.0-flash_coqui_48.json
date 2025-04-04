@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "gente Luca Verdi in servizio. Segnalazione di divieto di sosta all'esorentenni nel del Ford 3030, in Piazza Venezia, Roma. Auto coinvolta, Renault Clio, targa verso Ford 356.",
+  "reference": "Agente Luca Verdi in servizio. Segnalazione di divieto di sosta alle 17:19 del 04/03/2025, in piazza Venezia, Roma. Auto coinvolta: Renault Clio, targa ZA456QP.",
+  "time": 14.371020408163265,
+  "cost": 0.000522259918367347,
+  "wer": 0.4166666666666667,
+  "cer": 0.25625,
+  "bleu_avg": 0.40214612768560637,
+  "rouge1_avg_f1": 0.7272727272727273,
+  "rougeL_avg_f1": 0.7272727272727273,
+  "levenshtein_avg": 41.0
+}

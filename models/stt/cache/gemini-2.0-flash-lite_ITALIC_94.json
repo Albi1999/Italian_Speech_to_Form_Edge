@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Il traffico è intenso, ci sono rallentamenti.",
+  "reference": "com'è la condizione del traffico al momento",
+  "time": 3.36,
+  "cost": 4.301999999999999e-05,
+  "wer": 1.0,
+  "cer": 0.7906976744186046,
+  "bleu_avg": 0.033031643180138064,
+  "rouge1_avg_f1": 0.15384615384615383,
+  "rougeL_avg_f1": 0.15384615384615383,
+  "levenshtein_avg": 34.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Il comune costituito è diventato Fagnano Alto.\n",
+  "reference": "il comune costituito è diventato \"fagnano alto\".",
+  "time": 4.068027210884353,
+  "cost": 5.151632653061224e-05,
+  "wer": 0.42857142857142855,
+  "cer": 0.10416666666666667,
+  "bleu_avg": 0.41113361690051975,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 6.0
+}

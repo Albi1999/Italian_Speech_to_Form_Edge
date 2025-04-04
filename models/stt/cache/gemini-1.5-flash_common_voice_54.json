@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "La parola incinta, con significato di senza cintura, indica la maternità.\n",
+  "reference": "la parola \"incinta\", con significato di \"senza cintura\", indica la maternità.",
+  "time": 6.516009070294785,
+  "cost": 8.209210884353741e-05,
+  "wer": 0.36363636363636365,
+  "cer": 0.06493506493506493,
+  "bleu_avg": 0.16306686105372709,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 6.0
+}

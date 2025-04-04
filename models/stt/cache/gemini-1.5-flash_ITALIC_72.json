@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Per favore, inserisci il mio nuovo indirizzo email nel contatto.\n",
+  "reference": "per favore inserisci il mio nuovo indirizzo email nel contatto",
+  "time": 3.66,
+  "cost": 4.752e-05,
+  "wer": 0.3,
+  "cer": 0.04838709677419355,
+  "bleu_avg": 0.6389431042462724,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 4.0
+}

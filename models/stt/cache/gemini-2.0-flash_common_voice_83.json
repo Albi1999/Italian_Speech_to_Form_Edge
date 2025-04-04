@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Sotto la cascata c'è una passerella pedonale che permette di attraversare il fiume.",
+  "reference": "sotto alla cascata c'è una passerella pedonale che permette di attraversare il fiume.",
+  "time": 5.868027210884354,
+  "cost": 0.00021735455782312927,
+  "wer": 0.15384615384615385,
+  "cer": 0.03529411764705882,
+  "bleu_avg": 0.8242367502646054,
+  "rouge1_avg_f1": 0.9230769230769231,
+  "rougeL_avg_f1": 0.9230769230769231,
+  "levenshtein_avg": 3.0
+}

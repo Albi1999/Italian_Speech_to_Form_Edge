@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Tiriti, tere, tenti, tenti, file.\nHo letto, tiriti, seme, veicolo, numero, RE, targato, forma, un, RE, 56, in divieto di sosta presso Via del Corso, TM, Roma. Rilevato l'agente Giulia Costa.",
+  "reference": "30/03/2025, ore 02:37: veicolo Audi A3, targa CD456EF, in divieto di sosta presso via del Corso 12, Roma. Rilevato da agente Giulia Costa.",
+  "time": 13.154013605442177,
+  "cost": 0.0004810212789115646,
+  "wer": 0.9130434782608695,
+  "cer": 0.6304347826086957,
+  "bleu_avg": 0.1477630615267801,
+  "rouge1_avg_f1": 0.4827586206896552,
+  "rougeL_avg_f1": 0.4827586206896552,
+  "levenshtein_avg": 87.0
+}

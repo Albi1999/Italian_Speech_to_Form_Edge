@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Sono l'agente Marco Genti. Alle ore 10:24 del 19/3/2023 ho rilevato un'infrazione per doppia fila in Via Garibaldi, Even, Firenze. Veicolo, quel corsa, targa NN 137 SV.",
+  "reference": "Sono l'agente Marco Gentili. Alle ore 08:34 del 19/03/2025, ho rilevato un'infrazione per doppia fila in via Garibaldi 11, Firenze. Veicolo: Opel Corsa, targa XY987ZT.",
+  "time": 15.87501133786848,
+  "cost": 0.0005752003990929705,
+  "wer": 0.48,
+  "cer": 0.15568862275449102,
+  "bleu_avg": 0.29615165360116247,
+  "rouge1_avg_f1": 0.7096774193548386,
+  "rougeL_avg_f1": 0.7096774193548386,
+  "levenshtein_avg": 26.0
+}

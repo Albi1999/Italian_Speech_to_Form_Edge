@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "In base all'articolo 157 comma F, l'agente Carlo Brunitta ha riscontrato un'infrazione in via Enea Fortifive, Catania, alle ore 07:15 del 13/10/2023. Veicolo coinvolto:  Ambra Terrega 234.",
+  "reference": "In base al articolo 157, comma 5, l'agente Carlo Bruni ha riscontrato un'infrazione in via Etnea 45, Catania alle ore 11:39 del 06/03/2025. Veicolo coinvolto: Audi A3, targa FG234LM.",
+  "time": 17.73002267573696,
+  "cost": 0.003691004535147392,
+  "wer": 0.4827586206896552,
+  "cer": 0.23626373626373626,
+  "bleu_avg": 0.18881699076106886,
+  "rouge1_avg_f1": 0.5970149253731343,
+  "rougeL_avg_f1": 0.5970149253731343,
+  "levenshtein_avg": 43.0
+}

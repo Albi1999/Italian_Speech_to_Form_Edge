@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Il giorno 17 marzo 2025, alle ore 8:14, è stata segnalata un'infrazione per accesso vietato in via Roma 77, Palermo. Veicolo coinvolto: Volkswagen Golf, targa XY987ZT. Agente: Mario Rossi.\n",
+  "reference": "Il giorno 17/03/2025, alle ore 08:14, è stata segnalata un’infrazione per accesso vietato in via Roma 77, Palermo. Veicolo coinvolto: Volkswagen Golf, targa XY987ZT. Agente: Mario Rossi.",
+  "time": 20.424036281179138,
+  "cost": 0.004239807256235828,
+  "wer": 0.18518518518518517,
+  "cer": 0.04838709677419355,
+  "bleu_avg": 0.6590206582419382,
+  "rouge1_avg_f1": 0.9333333333333333,
+  "rougeL_avg_f1": 0.9333333333333333,
+  "levenshtein_avg": 10.0
+}

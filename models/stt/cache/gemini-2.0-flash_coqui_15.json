@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Durante il pattugliamento in zona via Enna Fortifi, Catania, l'agente Carlo Brunita ha rilevato una violazione dell'articolo 6, comma 15. L'auto poi molta è una Landi, targata Bone Ungheria 33, alle ore 10:30 Fortifi dell'11 33.",
+  "reference": "Durante il pattugliamento in zona via Etnea 45, Catania, l'agente Carlo Bruni ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Audi A3 targata AB123CD, alle ore 12:46 del 11/03/2025.",
+  "time": 18.914013605442175,
+  "cost": 0.0006857732789115646,
+  "wer": 0.5,
+  "cer": 0.2822966507177033,
+  "bleu_avg": 0.2856166208454597,
+  "rouge1_avg_f1": 0.6153846153846154,
+  "rougeL_avg_f1": 0.6153846153846154,
+  "levenshtein_avg": 59.0
+}

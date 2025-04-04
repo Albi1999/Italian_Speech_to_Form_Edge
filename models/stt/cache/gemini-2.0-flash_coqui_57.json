@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "gente Luca Verdi in servizio. Segnalazione di zona rimozione all'ente Chirchione del 15 10 20 23 in Via Milano 24, Corio. Auto coinvolta, Fiat Target 456.",
+  "reference": "Agente Luca Verdi in servizio. Segnalazione di zona rimozione alle 19:31 del 15/03/2025, in via Milano 24, Torino. Auto coinvolta: Audi A3, targa CD456EF.",
+  "time": 14.819002267573696,
+  "cost": 0.0005376288798185941,
+  "wer": 0.5833333333333334,
+  "cer": 0.2597402597402597,
+  "bleu_avg": 0.30536941697562214,
+  "rouge1_avg_f1": 0.6296296296296297,
+  "rougeL_avg_f1": 0.6296296296296297,
+  "levenshtein_avg": 40.0
+}

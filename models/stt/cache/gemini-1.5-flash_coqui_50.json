@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "In base all'articolo 7 comma 15, la gente si via Neri ha riscontrato un'infrazione in via Milano 20, Torino alle ore 19:20 del 20/10/2020. Veicolo coinvolto Fiat Panda, targa numero  [incomprensibile] 7.\n",
+  "reference": "In base al articolo 7, comma 15, l'agente Silvia Neri ha riscontrato un'infrazione in via Milano 24, Torino alle ore 19:12 del 29/03/2025. Veicolo coinvolto: Fiat Panda, targa XY987ZT.",
+  "time": 16.80204081632653,
+  "cost": 0.00021182448979591837,
+  "wer": 0.4827586206896552,
+  "cer": 0.22826086956521738,
+  "bleu_avg": 0.2932685476219475,
+  "rouge1_avg_f1": 0.676056338028169,
+  "rougeL_avg_f1": 0.676056338028169,
+  "levenshtein_avg": 43.0
+}

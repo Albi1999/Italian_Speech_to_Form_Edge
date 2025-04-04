@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Verbale di infrazione redatto dall'agente Anna Bianchi.\nData 25/03/2025 ore 10:25.\nInfrazione: sosta rimozione.\nLuogo: Corso Buenos Aires, n. 19, Milano.\nVeicolo: Mercedes Classe, targa CO 413 FZSF.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Anna Bianchi. Data: 25/03/2025, ora: 22:25. Infrazione: zona rimozione. Luogo: corso Buenos Aires 98, Milano. Veicolo: Mercedes Classe A, targa CD456EF.",
+  "time": 20.99700680272109,
+  "cost": 0.004349401360544218,
+  "wer": 0.7307692307692307,
+  "cer": 0.15463917525773196,
+  "bleu_avg": 0.28495577603220296,
+  "rouge1_avg_f1": 0.7741935483870969,
+  "rougeL_avg_f1": 0.7741935483870969,
+  "levenshtein_avg": 31.0
+}

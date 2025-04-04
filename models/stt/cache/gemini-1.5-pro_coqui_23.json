@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Tirti terè tenti tenti five, corretto tirti sette, veicolo Wudine terè targato F U R M W R F F cinque cinque, in divieto di sosta presso via del Corso TEVE R O A, rilevato da agente Giulia Costa.\n",
+  "reference": "30/03/2025, ore 02:37: veicolo Audi A3, targa CD456EF, in divieto di sosta presso via del Corso 12, Roma. Rilevato da agente Giulia Costa.",
+  "time": 13.154013605442177,
+  "cost": 0.0028358027210884356,
+  "wer": 1.1304347826086956,
+  "cer": 0.6594202898550725,
+  "bleu_avg": 0.2371144604616222,
+  "rouge1_avg_f1": 0.4307692307692308,
+  "rougeL_avg_f1": 0.4307692307692308,
+  "levenshtein_avg": 92.0
+}

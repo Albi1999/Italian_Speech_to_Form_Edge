@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Attualmente i Paesi Bassi sono comunque campioni d'Europa.\n",
+  "reference": "attualmente i paesi bassi sono comunque campioni d'europa.",
+  "time": 3.312018140589569,
+  "cost": 4.274421768707483e-05,
+  "wer": 0.5,
+  "cer": 0.06896551724137931,
+  "bleu_avg": 0.1477219991186121,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 5.0
+}

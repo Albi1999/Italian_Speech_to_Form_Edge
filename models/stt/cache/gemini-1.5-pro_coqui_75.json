@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Durante il pattugliamento in zona via Roma 77, Palermo, l'agente Luca Verdi ha rilevato una violazione dell'articolo 1177 comma 5. L'auto coinvolta, una Renault Clio targata ZA 117 SI, alle ore 20:55 del 6/12/2025.\n",
+  "reference": "Durante il pattugliamento in zona via Roma 77, Palermo, l'agente Luca Verdi ha rilevato una violazione del articolo 157, comma 5. L'auto coinvolta è una Renault Clio targata ZA456QP, alle ore 20:53 del 06/03/2025.",
+  "time": 20.16204081632653,
+  "cost": 0.004212408163265307,
+  "wer": 0.29411764705882354,
+  "cer": 0.07981220657276995,
+  "bleu_avg": 0.5845427355742879,
+  "rouge1_avg_f1": 0.8205128205128205,
+  "rougeL_avg_f1": 0.8205128205128205,
+  "levenshtein_avg": 18.0
+}

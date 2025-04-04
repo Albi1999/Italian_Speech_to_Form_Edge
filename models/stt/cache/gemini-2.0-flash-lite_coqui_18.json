@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "20/20/25, ore 7:19, veicolo Mercedes classe, targa COFU366, in doppia fila presso corso Buenos Aires, Milano. Rilevato da agente Giulia Costa.\n",
+  "reference": "13/03/2025, ore 17:19: veicolo Mercedes Classe A, targa CD456EF, in doppia fila presso corso Buenos Aires 98, Milano. Rilevato da agente Giulia Costa.",
+  "time": 16.098004535147393,
+  "cost": 0.00020007605442176873,
+  "wer": 0.30434782608695654,
+  "cer": 0.12666666666666668,
+  "bleu_avg": 0.4477218070572993,
+  "rouge1_avg_f1": 0.76,
+  "rougeL_avg_f1": 0.76,
+  "levenshtein_avg": 20.0
+}

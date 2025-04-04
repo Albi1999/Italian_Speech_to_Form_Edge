@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Agente Silvia Neri in servizio. Segnalazione di divieto di sosta alle 6:43 del 31 marzo 2025 in via Napoli 5, Napoli. Auto coinvolta BMW serie 1, targa AB 123 CD.\n",
+  "reference": "Agente Silvia Neri in servizio. Segnalazione di divieto di sosta alle 06:43 del 31/03/2025, in via Napoli 5, Napoli. Auto coinvolta: BMW Serie 1, targa AB123CD.",
+  "time": 13.984036281179138,
+  "cost": 0.00017740843537414965,
+  "wer": 0.34615384615384615,
+  "cer": 0.08125,
+  "bleu_avg": 0.5198865317444609,
+  "rouge1_avg_f1": 0.8666666666666666,
+  "rougeL_avg_f1": 0.8666666666666666,
+  "levenshtein_avg": 14.0
+}

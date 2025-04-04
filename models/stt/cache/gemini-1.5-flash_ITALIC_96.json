@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Rai News, titoli di coda.\n",
+  "reference": "rai news titoli di coda",
+  "time": 3.0,
+  "cost": 3.81e-05,
+  "wer": 0.6,
+  "cer": 0.17391304347826086,
+  "bleu_avg": 0.11362193664674995,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 5.0
+}

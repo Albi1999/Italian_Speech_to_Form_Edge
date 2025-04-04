@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Non riesco a trascrivere l'audio perché non mi è stato fornito.  Per favore, forniscimi l'audio in modo che io possa trascriverlo per te.\n",
+  "reference": "09/03/2025, ore 05:43: veicolo Toyota Yaris, targa AB123CD, in parcheggio su strisce pedonali presso via del Corso 12, Roma. Rilevato da agente Marco Gentili.",
+  "time": 14.786031746031746,
+  "cost": 0.00018493238095238093,
+  "wer": 1.0,
+  "cer": 0.7848101265822784,
+  "bleu_avg": 0.007929899429039699,
+  "rouge1_avg_f1": 0.03921568627450981,
+  "rougeL_avg_f1": 0.03921568627450981,
+  "levenshtein_avg": 125.0
+}

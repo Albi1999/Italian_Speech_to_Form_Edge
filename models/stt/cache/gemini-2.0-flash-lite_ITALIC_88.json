@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "L'anello di fuoco del Pacifico.\n",
+  "reference": "dove ci sono il maggior numero di vulcani sulla terra",
+  "time": 3.84,
+  "cost": 4.818e-05,
+  "wer": 0.9,
+  "cer": 0.8113207547169812,
+  "bleu_avg": 0.01976560930094397,
+  "rouge1_avg_f1": 0.125,
+  "rougeL_avg_f1": 0.125,
+  "levenshtein_avg": 43.0
+}

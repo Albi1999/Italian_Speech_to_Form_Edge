@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Infrazione riscontrata, divieto di sosta. Posizione: via Milano 24, Torino. Ora: 20:38. Data: 31/03/2025. Auto: Mercedes Classe A, targa: 3121NM. Agente: Anna Bianchi.\n",
+  "reference": "Infrazione riscontrata: divieto di sosta. Posizione: via Milano 24, Torino. Ora: 23:28, Data: 31/03/2025. Auto: Mercedes Classe A, targa KL321MN. Agente: Anna Bianchi.",
+  "time": 19.557006802721087,
+  "cost": 0.00024218408163265303,
+  "wer": 0.17391304347826086,
+  "cer": 0.059880239520958084,
+  "bleu_avg": 0.6169034543248991,
+  "rouge1_avg_f1": 0.8846153846153846,
+  "rougeL_avg_f1": 0.8846153846153846,
+  "levenshtein_avg": 11.0
+}

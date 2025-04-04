@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Infrazione riscontrata, divieto di sosta. Posizione, Via del Corso 3 Roma. Ora, 22:22, data, 15/2023. Luogo, pretorio, targa. Agente, Sara Bellini.",
+  "reference": "Infrazione riscontrata: divieto di sosta. Posizione: via del Corso 12, Roma. Ora: 22:14, Data: 05/03/2025. Auto: Renault Clio, targa TR098YU. Agente: Sara Bellini.",
+  "time": 16.421043083900226,
+  "cost": 0.000592020716553288,
+  "wer": 0.6086956521739131,
+  "cer": 0.2331288343558282,
+  "bleu_avg": 0.0643273109079194,
+  "rouge1_avg_f1": 0.693877551020408,
+  "rougeL_avg_f1": 0.693877551020408,
+  "levenshtein_avg": 38.0
+}

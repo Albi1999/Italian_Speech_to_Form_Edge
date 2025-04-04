@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Il giorno 3/10/2023 alle ore 8:52 è stata segnalata un'infrazione per accesso vietato in Via Garibaldi, 7, Firenze. Veicolo coinvolto: Volkswagen Golf, targa TT000RF. Agente: Silvia Neri.\n",
+  "reference": "Il giorno 06/03/2025, alle ore 02:52, è stata segnalata un’infrazione per accesso vietato in via Garibaldi 11, Firenze. Veicolo coinvolto: Volkswagen Golf, targa FG234LM. Agente: Silvia Neri.",
+  "time": 16.803038548752834,
+  "cost": 0.0035056077097505673,
+  "wer": 0.25925925925925924,
+  "cer": 0.1099476439790576,
+  "bleu_avg": 0.3819046196554823,
+  "rouge1_avg_f1": 0.8000000000000002,
+  "rougeL_avg_f1": 0.8000000000000002,
+  "levenshtein_avg": 22.0
+}

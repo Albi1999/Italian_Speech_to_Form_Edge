@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Buon accorso, grazie alla preside, risale al Leonardo.",
+  "reference": "bonaccorso grazie alla preside risale a leonardo.",
+  "time": 3.96,
+  "cost": 0.000148192,
+  "wer": 0.7142857142857143,
+  "cer": 0.14285714285714285,
+  "bleu_avg": 0.06500593260343691,
+  "rouge1_avg_f1": 0.6666666666666666,
+  "rougeL_avg_f1": 0.6666666666666666,
+  "levenshtein_avg": 7.0
+}

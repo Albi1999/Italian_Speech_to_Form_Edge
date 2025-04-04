@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Durante il pattugliamento in zona via Milano 24, Torino, l'agente Mario Rossi ha rilevato una violazione dell'articolo 7, comma 15. L'auto coinvolta è una Mercedes Classe A targata XY987ZT alle ore 6:56 del 13 marzo 2025.\n",
+  "reference": "Durante il pattugliamento in zona via Milano 24, Torino, l'agente Mario Rossi ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Mercedes Classe A targata XY987ZT, alle ore 06:56 del 13/03/2025.",
+  "time": 22.686303854875284,
+  "cost": 0.004727260770975057,
+  "wer": 0.2,
+  "cer": 0.0502283105022831,
+  "bleu_avg": 0.7184881055393693,
+  "rouge1_avg_f1": 0.9230769230769231,
+  "rougeL_avg_f1": 0.9230769230769231,
+  "levenshtein_avg": 12.0
+}

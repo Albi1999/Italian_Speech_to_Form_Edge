@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "27 marzo 2025, ore 22:15, veicolo Toyota Yaris, targa AB 123 CD, in divieto di sosta presso Piazza Venezia, Roma, rilevato da agente Sara Bellini.\n",
+  "reference": "27/03/2025, ore 22:15: veicolo Toyota Yaris, targa AB123CD, in divieto di sosta presso piazza Venezia, Roma. Rilevato da agente Sara Bellini.",
+  "time": 15.76421768707483,
+  "cost": 0.00019727061224489794,
+  "wer": 0.47619047619047616,
+  "cer": 0.09219858156028368,
+  "bleu_avg": 0.34295479618200586,
+  "rouge1_avg_f1": 0.8799999999999999,
+  "rougeL_avg_f1": 0.8799999999999999,
+  "levenshtein_avg": 14.0
+}

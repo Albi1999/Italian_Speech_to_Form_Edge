@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "P\n",
+  "reference": "avvia la riproduzione audio di twilight di nuovo",
+  "time": 3.54,
+  "cost": 0.000723,
+  "wer": 1.0,
+  "cer": 1.0,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.0,
+  "rougeL_avg_f1": 0.0,
+  "levenshtein_avg": 48.0
+}

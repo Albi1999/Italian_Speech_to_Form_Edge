@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Niente anteriore, denti, denti, file. Portiere, portiere, file. Veicolo Mercedes Classe A, targa [omissis] undici diciannove settanta. In doppia fila presso via del Corso, Tele Roma, rilevato da agente Silvia Neri.\n",
+  "reference": "19/03/2025, ore 03:45: veicolo Mercedes Classe A, targa XY987ZT, in doppia fila presso via del Corso 12, Roma. Rilevato da agente Silvia Neri.",
+  "time": 13.92204081632653,
+  "cost": 0.0029494081632653064,
+  "wer": 0.782608695652174,
+  "cer": 0.7183098591549296,
+  "bleu_avg": 0.26349088821718425,
+  "rouge1_avg_f1": 0.631578947368421,
+  "rougeL_avg_f1": 0.631578947368421,
+  "levenshtein_avg": 103.0
+}

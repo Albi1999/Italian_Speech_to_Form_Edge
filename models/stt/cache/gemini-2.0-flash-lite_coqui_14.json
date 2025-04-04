@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Infatti ho riscontrato, sola rimozione. Posizione, corso buono si è resi inetti le dita, via. Ora, telvezero, data, tentere i denti, denti fiere. Bovo, colsa, genwolf, tagar, nina, onde le dita si è resi. Gente, ma con gente.\n",
+  "reference": "Infrazione riscontrata: zona rimozione. Posizione: corso Buenos Aires 98, Milano. Ora: 12:00, Data: 10/03/2025. Auto: Volkswagen Golf, targa XY987ZT. Agente: Marco Gentili.",
+  "time": 18.11700680272109,
+  "cost": 0.00022940408163265306,
+  "wer": 1.6363636363636365,
+  "cer": 0.7267441860465116,
+  "bleu_avg": 0.00579653593359586,
+  "rouge1_avg_f1": 0.1639344262295082,
+  "rougeL_avg_f1": 0.1639344262295082,
+  "levenshtein_avg": 126.0
+}

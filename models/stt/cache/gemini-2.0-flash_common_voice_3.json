@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "L'anno seguente torna nuovamente nell'Oca.",
+  "reference": "l'anno seguente, tornò nuovamente nello honka.",
+  "time": 4.14,
+  "cost": 0.000153328,
+  "wer": 0.8333333333333334,
+  "cer": 0.1956521739130435,
+  "bleu_avg": 0.0439891724758422,
+  "rouge1_avg_f1": 0.5714285714285714,
+  "rougeL_avg_f1": 0.5714285714285714,
+  "levenshtein_avg": 9.0
+}

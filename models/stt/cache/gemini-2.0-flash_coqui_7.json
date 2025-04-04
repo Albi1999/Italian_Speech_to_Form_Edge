@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "pone for 2024, ore 15:30, veicolo Fiat Panda, targato CR 311 NM, in doppia fila presso Via Milano 34, Torino. Rilevato da agente Annabiati.",
+  "reference": "01/04/2025, ore 08:32: veicolo Fiat Panda, targa KL321MN, in doppia fila presso via Milano 24, Torino. Rilevato da agente Anna Bianchi.",
+  "time": 12.706031746031746,
+  "cost": 0.0004624523174603175,
+  "wer": 0.5714285714285714,
+  "cer": 0.21481481481481482,
+  "bleu_avg": 0.25270455578796175,
+  "rouge1_avg_f1": 0.5714285714285714,
+  "rougeL_avg_f1": 0.5714285714285714,
+  "levenshtein_avg": 29.0
+}

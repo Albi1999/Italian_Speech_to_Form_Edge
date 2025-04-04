@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "tento le retate, tenti file, ore 57, veicolo per corsa, targa, pone, onde le tenti, terzi, in divieto di sosta presso Piazza Venezia, Roma, rilevato da gente Anna Bianca.\n",
+  "reference": "21/03/2025, ore 08:57: veicolo Opel Corsa, targa AB123CD, in divieto di sosta presso piazza Venezia, Roma. Rilevato da agente Anna Bianchi.",
+  "time": 13.218004535147392,
+  "cost": 0.0001679160544217687,
+  "wer": 0.9047619047619048,
+  "cer": 0.4748201438848921,
+  "bleu_avg": 0.1432450175903488,
+  "rouge1_avg_f1": 0.6037735849056604,
+  "rougeL_avg_f1": 0.6037735849056604,
+  "levenshtein_avg": 67.0
+}

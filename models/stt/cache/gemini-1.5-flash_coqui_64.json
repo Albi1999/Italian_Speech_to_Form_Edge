@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sono la gente Carlo Bruno. Alle ore 14:10 del 17/10/2023 ho rilevato un'infrazione per divieto di sosta in via Milano, 104, Torino. Veicolo Fiat Panda, targa NN 123456.\n",
+  "reference": "Sono l'agente Carlo Bruni. Alle ore 14:10 del 05/03/2025, ho rilevato un'infrazione per divieto di sosta in via Milano 24, Torino. Veicolo: Fiat Panda, targa XY987ZT.",
+  "time": 14.915011337868481,
+  "cost": 0.00018798013605442177,
+  "wer": 0.34615384615384615,
+  "cer": 0.13253012048192772,
+  "bleu_avg": 0.43310177167002284,
+  "rouge1_avg_f1": 0.7301587301587302,
+  "rougeL_avg_f1": 0.7301587301587302,
+  "levenshtein_avg": 23.0
+}

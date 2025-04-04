@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "L'anno seguente torna nuovamente nella Honka.\n",
+  "reference": "l'anno seguente, tornò nuovamente nello honka.",
+  "time": 4.14,
+  "cost": 5.207999999999999e-05,
+  "wer": 0.8333333333333334,
+  "cer": 0.10869565217391304,
+  "bleu_avg": 0.040824829046386304,
+  "rouge1_avg_f1": 0.7142857142857143,
+  "rougeL_avg_f1": 0.7142857142857143,
+  "levenshtein_avg": 6.0
+}

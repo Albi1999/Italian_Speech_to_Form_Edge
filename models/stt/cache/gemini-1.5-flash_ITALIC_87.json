@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Questa barzelletta la conosci.\n",
+  "reference": "questa barzelletta la conosci",
+  "time": 2.9867120181405897,
+  "cost": 3.7640544217687075e-05,
+  "wer": 0.5,
+  "cer": 0.06896551724137931,
+  "bleu_avg": 0.16990442448471224,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

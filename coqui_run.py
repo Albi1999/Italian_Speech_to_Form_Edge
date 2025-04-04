@@ -1,28 +1,25 @@
-import os
-import json
-import pandas as pd
 from tqdm import tqdm
-from models import (
-    WhisperTiny,
-    WhisperItaDistilled,
-    FasterWhisper,
-    Vosk,
-    Wav2Vec2Grosman,
-    Wav2Vec2Multilingual56,
-    Wav2Vec2DBDMG
-)
-from utils import save_results, STTVisualizer
-import random
+import pandas as pd
+import json
+
+from models import (WhisperTiny,
+                    WhisperItaDistilled,
+                    FasterWhisper,
+                    Vosk,
+                    Wav2Vec2Grosman,
+                    Wav2Vec2Multilingual56,
+                    Wav2Vec2DBDMG)
+
+from utils import (DatasetLoader,
+                   save_results,
+                   STTVisualizer)
+
 
 def run_coqui_dataset():
-    BASE_DIR = "data/coqui_output"
-    METADATA_PATH = os.path.join(BASE_DIR, "all_samples_coqui.json")
+    # Initialize DatasetLoader
+    data_loader = DatasetLoader()
 
-    with open(METADATA_PATH, "r", encoding="utf-8") as f:
-        samples = json.load(f)
-
-    random.seed(42)
-    samples = random.sample(samples, 50) # Randomly sample 20 samples for testing
+    samples = data_loader.load_dataset("coqui", samples_per_dataset=50)
 
     models = [
         WhisperTiny(), 
@@ -36,8 +33,8 @@ def run_coqui_dataset():
 
     results = []
     for sample in tqdm(samples, desc="Processing Coqui samples"):
-        audio_path = os.path.join(BASE_DIR, sample["coqui_audio_path"])
-        reference = sample["text"]
+        audio_path = sample["path"]
+        reference = sample["sentence"]
         for model in models:
             result = model.transcribe(audio_path, reference)
             result["coqui_model"] = sample["coqui_model"]

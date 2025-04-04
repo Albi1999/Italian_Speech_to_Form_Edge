@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Durante il pattugliamento in zona Via Garibaldi 11, Firenze, l'agente Carlo Bruni ha rilevato una violazione dell'articolo 157, comma 5. L'auto coinvolta è una Renault Clio targata KL321 MegaNewton, alle ore 22:41 del 9 marzo 2025.",
+  "reference": "Durante il pattugliamento in zona via Garibaldi 11, Firenze, l'agente Carlo Bruni ha rilevato una violazione del articolo 157, comma 5. L'auto coinvolta è una Renault Clio targata KL321MN, alle ore 22:41 del 09/03/2025.",
+  "time": 22.23201814058957,
+  "cost": 0.0008025670385487529,
+  "wer": 0.23529411764705882,
+  "cer": 0.091324200913242,
+  "bleu_avg": 0.6541249358573575,
+  "rouge1_avg_f1": 0.8831168831168831,
+  "rougeL_avg_f1": 0.8831168831168831,
+  "levenshtein_avg": 20.0
+}

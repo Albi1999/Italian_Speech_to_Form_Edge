@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Il giorno 31 marzo 2025, alle ore 7:37 è stata segnalata un'infrazione per sosta davanti a passo carrabile in corso Buenos Aires 98, Milano. Veicolo coinvolto: Fiat Panda, targa CD 4456 F. Agente: Silvia Neri.\n",
+  "reference": "Il giorno 31/03/2025, alle ore 07:37, è stata segnalata un’infrazione per sosta davanti a passo carrabile in corso Buenos Aires 98, Milano. Veicolo coinvolto: Fiat Panda, targa CD456EF. Agente: Silvia Neri.",
+  "time": 21.36,
+  "cost": 0.00026742,
+  "wer": 0.25806451612903225,
+  "cer": 0.06310679611650485,
+  "bleu_avg": 0.5791460926441345,
+  "rouge1_avg_f1": 0.8857142857142858,
+  "rougeL_avg_f1": 0.8857142857142858,
+  "levenshtein_avg": 14.0
+}

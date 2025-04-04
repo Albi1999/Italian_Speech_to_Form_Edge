@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Nuova sveglia per le 6:00 di mattina.\n",
+  "reference": "nuova sveglia per le sei di mattina",
+  "time": 3.36,
+  "cost": 4.301999999999999e-05,
+  "wer": 0.42857142857142855,
+  "cer": 0.17142857142857143,
+  "bleu_avg": 0.17567205239427922,
+  "rouge1_avg_f1": 0.7999999999999999,
+  "rougeL_avg_f1": 0.7999999999999999,
+  "levenshtein_avg": 7.0
+}

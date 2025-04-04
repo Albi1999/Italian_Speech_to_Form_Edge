@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Agente Sara Bellini in servizio. Segnalazione di divieto di sosta viale Saint-Quentin del Quentin-Feuillet Quentin-Feuillet. In corso Buenos Aires, incrocio via. Mia auto coinvolta. Toyota Yaris, targa SO455LF.\n",
+  "reference": "Agente Sara Bellini in servizio. Segnalazione di divieto di sosta alle 07:13 del 25/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Toyota Yaris, targa ZA456QP.",
+  "time": 16.579002267573696,
+  "cost": 0.0034658004535147386,
+  "wer": 0.46153846153846156,
+  "cer": 0.4269005847953216,
+  "bleu_avg": 0.39609709429702616,
+  "rouge1_avg_f1": 0.6666666666666667,
+  "rougeL_avg_f1": 0.6666666666666667,
+  "levenshtein_avg": 74.0
+}

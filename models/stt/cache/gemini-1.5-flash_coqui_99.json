@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Non riesco a trascrivere l'audio perché non ho accesso ai file audio.  Per favore, forniscimi il testo scritto dell'audio.\n",
+  "reference": "22/03/2025, ore 01:25: veicolo Volkswagen Golf, targa FG234LM, in sosta davanti a passo carrabile presso via Etnea 45, Catania. Rilevato da agente Silvia Neri.",
+  "time": 14.85002267573696,
+  "cost": 0.00018450027210884353,
+  "wer": 1.0,
+  "cer": 0.7672955974842768,
+  "bleu_avg": 0.007826421362180345,
+  "rouge1_avg_f1": 0.041666666666666664,
+  "rougeL_avg_f1": 0.041666666666666664,
+  "levenshtein_avg": 123.0
+}

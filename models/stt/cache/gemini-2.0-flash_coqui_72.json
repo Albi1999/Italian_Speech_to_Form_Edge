@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Durante il pattugliamento in zona Via Garibaldi, Firenze, l'agente Giulia Costa ha rilevato una violazione dell'articolo 6 comma 15. L'auto coinvolta è una Fiat Panda targata Londra 34 alle ore 20:45.",
+  "reference": "Durante il pattugliamento in zona via Garibaldi 11, Firenze, l'agente Giulia Costa ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Fiat Panda targata FG234LM, alle ore 20:45 del 18/03/2025.",
+  "time": 18.56204081632653,
+  "cost": 0.0006713838367346939,
+  "wer": 0.3235294117647059,
+  "cer": 0.14746543778801843,
+  "bleu_avg": 0.5473787082788082,
+  "rouge1_avg_f1": 0.8333333333333333,
+  "rougeL_avg_f1": 0.8333333333333333,
+  "levenshtein_avg": 32.0
+}

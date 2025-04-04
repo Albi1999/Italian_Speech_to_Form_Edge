@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Vai su contatti e inserisci un nuovo indirizzo email.\n",
+  "reference": "vai su contatti e inserisci un nuovo indirizzo email",
+  "time": 3.9,
+  "cost": 5.01e-05,
+  "wer": 0.2222222222222222,
+  "cer": 0.038461538461538464,
+  "bleu_avg": 0.7259795291154771,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

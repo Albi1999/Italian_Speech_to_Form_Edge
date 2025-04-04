@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Alla base del manico, il bordo della tavola non si interrompe.\n",
+  "reference": "alla base del manico il bordo della tavola non si interrompe.",
+  "time": 4.68,
+  "cost": 6.006e-05,
+  "wer": 0.18181818181818182,
+  "cer": 0.03278688524590164,
+  "bleu_avg": 0.6315552371794037,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "inflazione riscontrata, sola rimozione. Posizione, corso Buenos Aires e in Egitto, via. Ora, 20 inzozzero, data, 20 forche e 20 20. Robo, Renault Foglio, targa sua forma 157. Agente, sarà belli.",
+  "reference": "Infrazione riscontrata: zona rimozione. Posizione: corso Buenos Aires 98, Milano. Ora: 22:00, Data: 24/03/2025. Auto: Renault Clio, targa ZA456QP. Agente: Sara Bellini.",
+  "time": 18.341043083900228,
+  "cost": 0.0006636047165532881,
+  "wer": 1.1363636363636365,
+  "cer": 0.43452380952380953,
+  "bleu_avg": 0.03550467708240432,
+  "rouge1_avg_f1": 0.3928571428571428,
+  "rougeL_avg_f1": 0.3928571428571428,
+  "levenshtein_avg": 73.0
+}

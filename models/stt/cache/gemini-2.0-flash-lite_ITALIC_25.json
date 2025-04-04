@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Certo, posso farlo. Per favore, fornisci l'audio allegato.\n",
+  "reference": "cerca informazioni online",
+  "time": 2.94,
+  "cost": 3.827999999999999e-05,
+  "wer": 2.6666666666666665,
+  "cer": 1.8,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.0,
+  "rougeL_avg_f1": 0.0,
+  "levenshtein_avg": 46.0
+}

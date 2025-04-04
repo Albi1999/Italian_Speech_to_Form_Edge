@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Il collo non era particolarmente lungo.\n",
+  "reference": "il collo non era particolarmente lungo.",
+  "time": 3.4560090702947845,
+  "cost": 4.387210884353741e-05,
+  "wer": 0.16666666666666666,
+  "cer": 0.02564102564102564,
+  "bleu_avg": 0.7598356856515925,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

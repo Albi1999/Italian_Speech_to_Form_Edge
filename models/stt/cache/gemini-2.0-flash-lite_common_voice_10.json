@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "L'aereo sorvola l'isola, obbligando così il giocatore a proseguire la sua avventura.\n",
+  "reference": "l'aereo sorvola l'isola, obbligando così il giocatore a proseguire la sua avventura.",
+  "time": 6.516009070294785,
+  "cost": 8.239210884353741e-05,
+  "wer": 0.08333333333333333,
+  "cer": 0.011904761904761904,
+  "bleu_avg": 0.9036020036098448,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

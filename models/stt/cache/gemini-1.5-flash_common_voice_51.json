@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Altri ricercatori sono impegnati nel più vasto campo dell'econofisica.\n",
+  "reference": "altri ricercatori sono impegnati nel più vasto campo dell'econofisica.",
+  "time": 4.86,
+  "cost": 6.162e-05,
+  "wer": 0.1111111111111111,
+  "cer": 0.014285714285714285,
+  "bleu_avg": 0.8633400213704505,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Agente Sara Bellini in servizio. Segnalazione di divieto di sosta dalle 7:50 del 25/03/2023 in Corso Buenos Aires civico 88, altezza via Thaon de Revel. Auto coinvolta: Volkswagen Golf targata HN 111 DS 7.\n",
+  "reference": "Agente Sara Bellini in servizio. Segnalazione di divieto di sosta alle 07:52 del 25/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Volkswagen Golf, targa XY987ZT.",
+  "time": 16.931020408163267,
+  "cost": 0.0035662040816326532,
+  "wer": 0.6538461538461539,
+  "cer": 0.29310344827586204,
+  "bleu_avg": 0.3278057347110296,
+  "rouge1_avg_f1": 0.6363636363636365,
+  "rougeL_avg_f1": 0.6363636363636365,
+  "levenshtein_avg": 52.0
+}

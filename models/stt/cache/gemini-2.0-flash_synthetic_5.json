@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Infrazione riscontrata. Accertamento di età. Posizione: Via del Corso 12, Roma, zona Via del 52. Data: 16 marzo 2025. Auto: Volkswagen Golf, targa HL321. Agente: Carlo Bruno.",
+  "reference": "Infrazione riscontrata: accesso vietato. Posizione: via del Corso 12, Roma. Ora: 02:52, Data: 16/03/2025. Auto: Volkswagen Golf, targa KL321MN. Agente: Carlo Bruni.",
+  "time": 20.4,
+  "cost": 0.0007344799999999998,
+  "wer": 0.6818181818181818,
+  "cer": 0.23780487804878048,
+  "bleu_avg": 0.15048435361489218,
+  "rouge1_avg_f1": 0.6923076923076923,
+  "rougeL_avg_f1": 0.6923076923076923,
+  "levenshtein_avg": 39.0
+}

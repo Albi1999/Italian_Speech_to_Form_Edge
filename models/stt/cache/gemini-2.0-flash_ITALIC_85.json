@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Compagni una nuova mail, ma questa volta ho un nuovo indirizzo Marco@esempio.it.",
+  "reference": "componi una nuova email ma questa volta ho un nuovo indirizzo marco chiocciola esempio punto it",
+  "time": 5.7,
+  "cost": 0.00021104,
+  "wer": 0.4375,
+  "cer": 0.2736842105263158,
+  "bleu_avg": 0.40890620307453723,
+  "rouge1_avg_f1": 0.7999999999999999,
+  "rougeL_avg_f1": 0.7999999999999999,
+  "levenshtein_avg": 26.0
+}

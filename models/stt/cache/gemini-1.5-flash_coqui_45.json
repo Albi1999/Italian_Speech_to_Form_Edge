@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "In infrazione è riscontrata, sono rimozioni, posizioni, corso buono si è risentita. Mi hanno ora, tenti, to zero, data, tenti forte, tenti, tenti, eh. Auto Renault Clio, targhe 400 57. La gente sarà belli.\n",
+  "reference": "Infrazione riscontrata: zona rimozione. Posizione: corso Buenos Aires 98, Milano. Ora: 22:00, Data: 24/03/2025. Auto: Renault Clio, targa ZA456QP. Agente: Sara Bellini.",
+  "time": 18.341043083900228,
+  "cost": 0.00023089251700680272,
+  "wer": 1.4090909090909092,
+  "cer": 0.5773809523809523,
+  "bleu_avg": 0.012813098990837714,
+  "rouge1_avg_f1": 0.2807017543859649,
+  "rougeL_avg_f1": 0.2807017543859649,
+  "levenshtein_avg": 98.0
+}

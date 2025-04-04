@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Chi è il direttore musicale di questo brano?\n",
+  "reference": "chi è il direttore musicale di questo brano",
+  "time": 4.68,
+  "cost": 5.915999999999999e-05,
+  "wer": 0.25,
+  "cer": 0.046511627906976744,
+  "bleu_avg": 0.6803749333171202,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "30 marzo 2025, ore 13:08, veicolo Volkswagen Golf, targa KL321MN, in sosta davanti a passo carrabile presso via Etnea 45, Catania, rilevato da agente Carlo Bruni.\n",
+  "reference": "30/03/2025, ore 13:08: veicolo Volkswagen Golf, targa KL321MN, in sosta davanti a passo carrabile presso via Etnea 45, Catania. Rilevato da agente Carlo Bruni.",
+  "time": 18.07201814058957,
+  "cost": 0.00022526421768707486,
+  "wer": 0.25,
+  "cer": 0.06289308176100629,
+  "bleu_avg": 0.6556397462101787,
+  "rouge1_avg_f1": 0.9629629629629629,
+  "rougeL_avg_f1": 0.9629629629629629,
+  "levenshtein_avg": 11.0
+}

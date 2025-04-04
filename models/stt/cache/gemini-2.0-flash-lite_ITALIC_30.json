@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Controlla email da telefono.",
+  "reference": "controlla email da stefano",
+  "time": 2.88,
+  "cost": 3.636e-05,
+  "wer": 0.5,
+  "cer": 0.23076923076923078,
+  "bleu_avg": 0.16990442448471224,
+  "rouge1_avg_f1": 0.75,
+  "rougeL_avg_f1": 0.75,
+  "levenshtein_avg": 6.0
+}

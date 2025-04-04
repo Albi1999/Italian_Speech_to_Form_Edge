@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Sono l'agente Anna Bianchi, alle ore 14:25, ho rilevato un'infrazione per sosta davanti a passo carrabile in Via Milano 24A, Torino. Veicolo, Fiat Panda, targa.",
+  "reference": "Sono l'agente Anna Bianchi. Alle ore 14:36 del 17/03/2025, ho rilevato un'infrazione per sosta davanti a passo carrabile in via Milano 24, Torino. Veicolo: Fiat Panda, targa XY987ZT.",
+  "time": 18.563038548752836,
+  "cost": 0.0006690189569160998,
+  "wer": 0.35714285714285715,
+  "cer": 0.15384615384615385,
+  "bleu_avg": 0.4080917315547268,
+  "rouge1_avg_f1": 0.8524590163934426,
+  "rougeL_avg_f1": 0.8524590163934426,
+  "levenshtein_avg": 28.0
+}

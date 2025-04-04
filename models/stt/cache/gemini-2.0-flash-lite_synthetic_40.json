@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Verbale di infrazione redatto dall'agente Mario Rossi. Data: 3 marzo 2025. Ora: 1:30. Infrazione: zona rimozione. Luogo: Via Garibaldi 11, Firenze. Veicolo: Opel Corsa, targa GH789IL.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Mario Rossi. Data: 03/03/2025, ora: 01:30. Infrazione: zona rimozione. Luogo: via Garibaldi 11, Firenze. Veicolo: Opel Corsa, targa GH789IJ.",
+  "time": 19.061043083900227,
+  "cost": 0.0002371325170068027,
+  "wer": 0.2916666666666667,
+  "cer": 0.07142857142857142,
+  "bleu_avg": 0.576091046275884,
+  "rouge1_avg_f1": 0.8571428571428571,
+  "rougeL_avg_f1": 0.8571428571428571,
+  "levenshtein_avg": 14.0
+}

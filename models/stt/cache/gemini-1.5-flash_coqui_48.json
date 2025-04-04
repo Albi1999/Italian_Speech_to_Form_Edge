@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Gente Luca Verdi in servizio. Segnalazione di divieto di sosta alle ore 17:43:25 in Piazza Venezia. Auto coinvolta Renault Clio, targa  Roma  4000 RL 551P.\n",
+  "reference": "Agente Luca Verdi in servizio. Segnalazione di divieto di sosta alle 17:19 del 04/03/2025, in piazza Venezia, Roma. Auto coinvolta: Renault Clio, targa ZA456QP.",
+  "time": 14.371020408163265,
+  "cost": 0.00018055224489795917,
+  "wer": 0.5,
+  "cer": 0.2625,
+  "bleu_avg": 0.4301606518769335,
+  "rouge1_avg_f1": 0.7407407407407407,
+  "rougeL_avg_f1": 0.7037037037037037,
+  "levenshtein_avg": 43.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Infrazione riscontrata, divieto di sosta. Posizione: Via del Corso, altezza... ora... 10:10.  Targa: FIETERE TENTI TENTI FV.  Veicolo: Renault Clio, targata... agente: Sara Bellini.\n",
+  "reference": "Infrazione riscontrata: divieto di sosta. Posizione: via del Corso 12, Roma. Ora: 22:14, Data: 05/03/2025. Auto: Renault Clio, targa TR098YU. Agente: Sara Bellini.",
+  "time": 16.421043083900226,
+  "cost": 0.0002048525170068027,
+  "wer": 0.6521739130434783,
+  "cer": 0.3803680981595092,
+  "bleu_avg": 0.14071964689317515,
+  "rouge1_avg_f1": 0.6274509803921569,
+  "rougeL_avg_f1": 0.5882352941176471,
+  "levenshtein_avg": 63.0
+}

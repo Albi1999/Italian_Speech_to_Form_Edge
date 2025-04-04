@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Agente Carlo Bruni in servizio. Segnalazione di sosta davanti a passo carrabile alle 10:55 del 20/02/2020 in via del Corso 12, Roma. Auto coinvolta, per corsa targa 321.\n",
+  "reference": "Agente Carlo Bruni in servizio. Segnalazione di sosta davanti a passo carrabile alle 10:55 del 21/03/2025, in via del Corso 12, Roma. Auto coinvolta: Opel Corsa, targa KL321MN.",
+  "time": 16.51501133786848,
+  "cost": 0.00020718013605442175,
+  "wer": 0.17857142857142858,
+  "cer": 0.07386363636363637,
+  "bleu_avg": 0.7205743386699484,
+  "rouge1_avg_f1": 0.8387096774193549,
+  "rougeL_avg_f1": 0.8387096774193549,
+  "levenshtein_avg": 14.0
+}

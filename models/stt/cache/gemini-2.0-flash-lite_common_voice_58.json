@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Lui, preso totalmente dal lavoro, lei, dalla sua vita sociale.\n",
+  "reference": "lui, preso totalmente dal lavoro, lei dalla sua vita sociale.",
+  "time": 4.464036281179139,
+  "cost": 5.716843537414966e-05,
+  "wer": 0.2,
+  "cer": 0.03278688524590164,
+  "bleu_avg": 0.5253819788848316,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

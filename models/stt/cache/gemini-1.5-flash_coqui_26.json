@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "In base all'articolo 157 comma 5, l'agente Sara Bellini ha riscontrato un'infrazione in via Milano 24, Torino, alle ore 21:21 del 5/7/2023. Veicolo coinvolto: Fiat Panda, targa 3NNE7YG.\n",
+  "reference": "In base al articolo 157, comma 5, l'agente Sara Bellini ha riscontrato un'infrazione in via Milano 24, Torino alle ore 21:21 del 05/03/2025. Veicolo coinvolto: Fiat Panda, targa TR098YU.",
+  "time": 19.330022675736963,
+  "cost": 0.00024096027210884354,
+  "wer": 0.20689655172413793,
+  "cer": 0.07526881720430108,
+  "bleu_avg": 0.6103362714793328,
+  "rouge1_avg_f1": 0.8529411764705882,
+  "rougeL_avg_f1": 0.8529411764705882,
+  "levenshtein_avg": 15.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Sono le 14:30.\n",
+  "reference": "che ore sono a milano adesso",
+  "time": 2.7,
+  "cost": 3.39e-05,
+  "wer": 1.0,
+  "cer": 0.7857142857142857,
+  "bleu_avg": 0.0,
+  "rouge1_avg_f1": 0.2,
+  "rougeL_avg_f1": 0.2,
+  "levenshtein_avg": 23.0
+}

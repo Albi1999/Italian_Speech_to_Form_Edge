@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Ricordami i miei impegni del pomeriggio.\n",
+  "reference": "ricordami i miei impegni del pomeriggio",
+  "time": 3.6,
+  "cost": 0.00076,
+  "wer": 0.3333333333333333,
+  "cer": 0.05128205128205128,
+  "bleu_avg": 0.5081327481546147,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

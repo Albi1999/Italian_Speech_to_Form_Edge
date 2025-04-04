@@ -3,57 +3,49 @@ import random
 import torchaudio
 import torch
 import os
-from models import (
-    WhisperTiny,
-    WhisperItaDistilled,
-    FasterWhisper,
-    Vosk,
-    Wav2Vec2Grosman,
-    Wav2Vec2Multilingual56,
-    Wav2Vec2DBDMG
-)
 import json
 import pandas as pd
 from tqdm import tqdm
-from utils import save_results, STTVisualizer
+
+from models import (WhisperTiny,
+                    WhisperItaDistilled,
+                    FasterWhisper,
+                    Vosk,
+                    Wav2Vec2Grosman,
+                    Wav2Vec2Multilingual56,
+                    Wav2Vec2DBDMG)
+
+from utils import (DatasetLoader,
+                   save_results,
+                   STTVisualizer)
 
 def ITALIC():
-    # Random seed for reproducibility
-    random.seed(42)
+    # Initialize DatasetLoader
+    data_loader = DatasetLoader()
 
     DATASET_NAME = "ITALIC"
     DATASET_CONFIG = "massive"
     DATASET_DIR = f"data/datasets/{DATASET_NAME}_{DATASET_CONFIG}"
-    AUDIO_DIR = f"{DATASET_DIR}/audio_samples"
     SAMPLE_EXPORT_PATH = f"{DATASET_DIR}/test_samples.json"
     NUM_SAMPLES = 50
 
-    dataset = load_from_disk(DATASET_DIR)
-    sampled_dataset = dataset.shuffle(seed=42).select(range(NUM_SAMPLES))
-
-    os.makedirs(AUDIO_DIR, exist_ok=True)
+    # Load dataset using DatasetLoader
+    samples = data_loader.load_dataset("ITALIC", NUM_SAMPLES)
 
     audio_paths = []
     references = []
     exported_samples = []
 
     # Save audio files and prepare references
-    for i, sample in enumerate(sampled_dataset):
-        audio_array = sample["audio"]["array"]
-        sample_rate = sample["audio"]["sampling_rate"]
-        audio_path = os.path.join(AUDIO_DIR, f"audio_{i}.wav")
-
-        # Save or convert the audio file
-        waveform = torch.tensor(audio_array).unsqueeze(0)
-        if sample_rate != 16000:
-            waveform = torchaudio.transforms.Resample(orig_freq=sample_rate, new_freq=16000)(waveform)
-        torchaudio.save(audio_path, waveform, 16000)
+    for i, sample in enumerate(samples):
+        audio_path = sample["path"]
+        reference = sample["sentence"]
 
         audio_paths.append(audio_path)
-        references.append(sample["utt"])
+        references.append(reference)
         exported_samples.append({
             "id": i,
-            "text": sample["utt"],
+            "text": reference,
             "audio_path": audio_path
         })
 

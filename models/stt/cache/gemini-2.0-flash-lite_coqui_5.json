@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "In base all'articolo, un uomo di 50 anni è stato investito da un'auto. L'agente Marco Gentili ha riscontrato un'infrazione in via Garibaldi, Firenze, alle ore 8:00, figlio del 30 nel 30, 30. Veicolo coinvolto, Fiat Panda, tra gli altri.",
+  "reference": "In base al articolo 158, comma 2, l'agente Marco Gentili ha riscontrato un'infrazione in via Garibaldi 11, Firenze alle ore 02:51 del 29/03/2025. Veicolo coinvolto: Fiat Panda, targa XY987ZT.",
+  "time": 18.370022675736962,
+  "cost": 0.00023274027210884354,
+  "wer": 0.8620689655172413,
+  "cer": 0.450261780104712,
+  "bleu_avg": 0.1923104277783772,
+  "rouge1_avg_f1": 0.5714285714285715,
+  "rougeL_avg_f1": 0.5714285714285715,
+  "levenshtein_avg": 86.0
+}

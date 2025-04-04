@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "In base all'articolo 7, comma 15, l'agente Mario Rossi ha riscontrato un'infrazione in Via del Corso 12, Roma alle ore 19:58 del 10 marzo 2025, veicolo coinvolto, Renault Clio, targa ZA 456 QP.",
+  "reference": "In base al articolo 7, comma 15, l'agente Mario Rossi ha riscontrato un'infrazione in via del Corso 12, Roma alle ore 19:58 del 10/03/2025. Veicolo coinvolto: Renault Clio, targa ZA456QP.",
+  "time": 18.84,
+  "cost": 0.0006819679999999999,
+  "wer": 0.36666666666666664,
+  "cer": 0.08021390374331551,
+  "bleu_avg": 0.5319879176370615,
+  "rouge1_avg_f1": 0.888888888888889,
+  "rougeL_avg_f1": 0.888888888888889,
+  "levenshtein_avg": 15.0
+}

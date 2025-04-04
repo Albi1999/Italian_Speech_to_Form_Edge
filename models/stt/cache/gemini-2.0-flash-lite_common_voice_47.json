@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "La direzione artistica è affidata a Gigi Proietti.\n",
+  "reference": "la direzione artistica è affidata a gigi proietti.",
+  "time": 5.004036281179138,
+  "cost": 6.304843537414965e-05,
+  "wer": 0.375,
+  "cer": 0.06,
+  "bleu_avg": 0.5169731539571706,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 4.0
+}

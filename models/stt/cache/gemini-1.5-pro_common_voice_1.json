@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Sono presenti alcuni plastici riproducenti battaglie medievali tra lucchesi e modenesi risalenti al Medioevo.\n",
+  "reference": "sono presenti alcuni plastici riproducenti battaglie medioevali tra lucchesi e modenesi risalenti al medioevo.",
+  "time": 8.1,
+  "cost": 0.0016999999999999997,
+  "wer": 0.21428571428571427,
+  "cer": 0.02727272727272727,
+  "bleu_avg": 0.6162607099729586,
+  "rouge1_avg_f1": 0.9285714285714286,
+  "rougeL_avg_f1": 0.9285714285714286,
+  "levenshtein_avg": 4.0
+}

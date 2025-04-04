@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Entrambe i pezzi sono di Salerno D'Amico, Pagliuca, Tagliapietra.\n",
+  "reference": "entrambi i pezzi sono di salerno-d'amico-pagliuca-tagliapietra.",
+  "time": 5.04,
+  "cost": 0.001063,
+  "wer": 0.8333333333333334,
+  "cer": 0.19047619047619047,
+  "bleu_avg": 0.2984745896009823,
+  "rouge1_avg_f1": 0.9,
+  "rougeL_avg_f1": 0.9,
+  "levenshtein_avg": 13.0
+}

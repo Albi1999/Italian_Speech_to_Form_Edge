@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "L'opera fa pendant con il giudizio di Salomone nello stesso museo.\n",
+  "reference": "l'opera fa \"pendant\" con il \"giudizio di salomone\" nello stesso museo.",
+  "time": 5.004036281179138,
+  "cost": 0.0010658072562358275,
+  "wer": 0.36363636363636365,
+  "cer": 0.08571428571428572,
+  "bleu_avg": 0.12760671487807074,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 7.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Qual è l'oggetto dell'ultima email di mamma?\n\nP.S. Trascrivi in italiano l'audio allegato parola per parola.\n",
+  "reference": "qual è l'oggetto dell'ultima email di mamma",
+  "time": 3.66,
+  "cost": 0.000822,
+  "wer": 1.5714285714285714,
+  "cer": 1.5348837209302326,
+  "bleu_avg": 0.22894156860669912,
+  "rouge1_avg_f1": 0.5925925925925926,
+  "rougeL_avg_f1": 0.5925925925925926,
+  "levenshtein_avg": 67.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "ha poi annunciato anche il suo ritorno per la Combat Zone Wrestling.",
+  "reference": "ha poi annunciato anche il suo ritorno per la combat zone wrestling.",
+  "time": 6.876009070294785,
+  "cost": 0.0002524355192743764,
+  "wer": 0.25,
+  "cer": 0.04411764705882353,
+  "bleu_avg": 0.7102992180127422,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

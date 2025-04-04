@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Invia una email a giuseppechiocciolagmail.com.  Trascrivi in italiano l'audio allegato parola per parola.\n",
+  "reference": "invia una email a giuseppe chiocciola gmail punto com",
+  "time": 4.14,
+  "cost": 0.0009029999999999999,
+  "wer": 1.1111111111111112,
+  "cer": 1.150943396226415,
+  "bleu_avg": 0.0768968397262906,
+  "rouge1_avg_f1": 0.4166666666666667,
+  "rougeL_avg_f1": 0.4166666666666667,
+  "levenshtein_avg": 62.0
+}

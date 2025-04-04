@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "In base all'articolo, un'onda di feci e ita, come atto, l'agente Marco Gentili ha riscontrato un'infrazione in Via Garibaldi, Even, Firenze alle ore 8:00, fiffiore del tentini nei tre denti denti Firenze. Veicolo coinvolto, Fiat Panda, targa Arrina onde deiti Sevenz.",
+  "reference": "In base al articolo 158, comma 2, l'agente Marco Gentili ha riscontrato un'infrazione in via Garibaldi 11, Firenze alle ore 02:51 del 29/03/2025. Veicolo coinvolto: Fiat Panda, targa XY987ZT.",
+  "time": 18.370022675736962,
+  "cost": 0.000668624798185941,
+  "wer": 0.8275862068965517,
+  "cer": 0.5654450261780105,
+  "bleu_avg": 0.21544027588567594,
+  "rouge1_avg_f1": 0.5750000000000001,
+  "rougeL_avg_f1": 0.5750000000000001,
+  "levenshtein_avg": 108.0
+}

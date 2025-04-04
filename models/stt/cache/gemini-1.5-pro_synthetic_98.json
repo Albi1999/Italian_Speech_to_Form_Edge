@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Verbale di infrazione redatto dall'agente Anna Bianchi. Data: 16 marzo 2025, ora 21:59. Infrazione: doppia fila. Luogo: Via del Corso 12, Roma. Veicolo: Mercedes Classe A, targa TR98YU.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Anna Bianchi. Data: 16/03/2025, ora: 21:59. Infrazione: doppia fila. Luogo: via del Corso 12, Roma. Veicolo: Mercedes Classe A, targa TR098YU.",
+  "time": 16.63501133786848,
+  "cost": 0.003477002267573696,
+  "wer": 0.23076923076923078,
+  "cer": 0.05434782608695652,
+  "bleu_avg": 0.6485614278660145,
+  "rouge1_avg_f1": 0.9333333333333333,
+  "rougeL_avg_f1": 0.9333333333333333,
+  "levenshtein_avg": 11.0
+}

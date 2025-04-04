@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Infrazione riscontrata. Zona rimozione. Posizione: Via Garibaldi 11, Firenze. Ora: 3:27. Data: 16 marzo 2025. Auto: Mercedes Classe A. Targa: ZA 456 QP. Agente: Marco Gentili.\n",
+  "reference": "Infrazione riscontrata: zona rimozione. Posizione: via Garibaldi 11, Firenze. Ora: 03:27, Data: 16/03/2025. Auto: Mercedes Classe A, targa ZA456QP. Agente: Marco Gentili.",
+  "time": 20.136009070294783,
+  "cost": 0.0002500321088435374,
+  "wer": 0.5454545454545454,
+  "cer": 0.1,
+  "bleu_avg": 0.18797772744870717,
+  "rouge1_avg_f1": 0.8461538461538461,
+  "rougeL_avg_f1": 0.8461538461538461,
+  "levenshtein_avg": 18.0
+}

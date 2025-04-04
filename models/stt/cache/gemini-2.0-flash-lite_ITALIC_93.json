@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Twitta Unipol e digli che fanno schifo.\n",
+  "reference": "twitta a unipol e digli che fanno schifo",
+  "time": 3.18,
+  "cost": 4.086e-05,
+  "wer": 0.5,
+  "cer": 0.125,
+  "bleu_avg": 0.35640264633541835,
+  "rouge1_avg_f1": 0.9333333333333333,
+  "rougeL_avg_f1": 0.9333333333333333,
+  "levenshtein_avg": 6.0
+}

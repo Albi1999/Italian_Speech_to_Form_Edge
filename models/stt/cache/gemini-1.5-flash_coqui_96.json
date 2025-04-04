@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "In base all'articolo 115 del Codice della Strada, l'agente Sara Bellini ha riscontrato un'infrazione in via Garibaldi 11, Firenze, alle ore 15:09 del 23/10/2023. Veicolo coinvolto: motocicletta, targa FU 123456.\n",
+  "reference": "In base al articolo 157, comma 5, l'agente Sara Bellini ha riscontrato un'infrazione in via Garibaldi 11, Firenze alle ore 15:01 del 12/03/2025. Veicolo coinvolto: BMW Serie 1, targa CD456EF.",
+  "time": 17.378004535147394,
+  "cost": 0.00021813605442176875,
+  "wer": 0.4666666666666667,
+  "cer": 0.25654450261780104,
+  "bleu_avg": 0.3682562976028544,
+  "rouge1_avg_f1": 0.647887323943662,
+  "rougeL_avg_f1": 0.647887323943662,
+  "levenshtein_avg": 50.0
+}

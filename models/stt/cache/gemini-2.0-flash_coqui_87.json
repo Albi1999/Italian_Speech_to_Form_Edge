@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Durante il pattugliamento in zona Corso Buenos Aires, Nineti, Milano, l'agente Luca Verdi ha rilevato una violazione dell'articolo 7,15. L'auto coinvolta è una Toyota Gar Star Gataf 134 alle ore 17 del 2025.",
+  "reference": "Durante il pattugliamento in zona corso Buenos Aires 98, Milano, l'agente Luca Verdi ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Toyota Yaris targata FG234LM, alle ore 15:17 del 22/03/2025.",
+  "time": 20.738004535147393,
+  "cost": 0.0007487777596371882,
+  "wer": 0.4,
+  "cer": 0.17647058823529413,
+  "bleu_avg": 0.41747840001156195,
+  "rouge1_avg_f1": 0.8,
+  "rougeL_avg_f1": 0.8,
+  "levenshtein_avg": 39.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Ehi, puoi abbassare le luci, per favore?\n",
+  "reference": "ehi puoi abbassare le luci per favore",
+  "time": 2.7,
+  "cost": 3.51e-05,
+  "wer": 0.42857142857142855,
+  "cer": 0.10810810810810811,
+  "bleu_avg": 0.17567205239427922,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 5.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Durante il pattugliamento in zona Via Milano 24, Torino, l'agente Sara Bellini ha rilevato una violazione dell'articolo 7, comma 15. L'auto coinvolta è una Fiat Panda targata GH 7789 IR, alle ore 13:36 del 25 marzo 2025.\n",
+  "reference": "Durante il pattugliamento in zona via Milano 24, Torino, l'agente Sara Bellini ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Fiat Panda targata GH789IJ, alle ore 13:36 del 25/03/2025.",
+  "time": 17.286984126984127,
+  "cost": 0.00021914380952380952,
+  "wer": 0.2647058823529412,
+  "cer": 0.06572769953051644,
+  "bleu_avg": 0.6356803094319038,
+  "rouge1_avg_f1": 0.8974358974358975,
+  "rougeL_avg_f1": 0.8974358974358975,
+  "levenshtein_avg": 15.0
+}

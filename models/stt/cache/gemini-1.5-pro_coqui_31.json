@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Verbale di infrazione redatto dall'agente Marco Gentili.\n\nData: 23/05/2025, ora 06:15.\n\nInfrazione di divieto di sosta.\n\nLuogo: Via Milano 24, Torino.\n\nVeicolo: Alfa 147, targa CO 41 DF 76.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Marco Gentili. Data: 20/03/2025, ora: 00:16. Infrazione: divieto di sosta. Luogo: via Milano 24, Torino. Veicolo: Audi A3, targa CD456EF.",
+  "time": 20.101043083900226,
+  "cost": 0.004175208616780045,
+  "wer": 0.48,
+  "cer": 0.17318435754189945,
+  "bleu_avg": 0.40588153399233007,
+  "rouge1_avg_f1": 0.7096774193548386,
+  "rougeL_avg_f1": 0.7096774193548386,
+  "levenshtein_avg": 32.0
+}

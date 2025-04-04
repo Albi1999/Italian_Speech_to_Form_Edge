@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Agente Giulia Costa in servizio. Segnalazione di doppia fila alle Five,  Martine dal 25/03/2023 Five in via del Corso TOELVE, Roma. Auto coinvolta, Volkswagen Golf, targa TR321NM.\n",
+  "reference": "Agente Giulia Costa in servizio. Segnalazione di doppia fila alle 05:49 del 25/03/2025, in via del Corso 12, Roma. Auto coinvolta: Volkswagen Golf, targa KL321MN.",
+  "time": 16.419002267573696,
+  "cost": 0.003428800453514739,
+  "wer": 0.32,
+  "cer": 0.19753086419753085,
+  "bleu_avg": 0.4939804852466582,
+  "rouge1_avg_f1": 0.7719298245614034,
+  "rougeL_avg_f1": 0.7719298245614034,
+  "levenshtein_avg": 33.0
+}

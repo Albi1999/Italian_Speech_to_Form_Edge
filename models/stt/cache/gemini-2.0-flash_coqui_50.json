@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "In base all'articolo 7, comma 15, tangente si è verificato un'infrazione in Via Milano 24, Torino alle ore 9:10, per del 2023. Veicolo coinvolto, Fiat Panda, targa RN 127.",
+  "reference": "In base al articolo 7, comma 15, l'agente Silvia Neri ha riscontrato un'infrazione in via Milano 24, Torino alle ore 19:12 del 29/03/2025. Veicolo coinvolto: Fiat Panda, targa XY987ZT.",
+  "time": 16.80204081632653,
+  "cost": 0.0006086318367346939,
+  "wer": 0.4827586206896552,
+  "cer": 0.22826086956521738,
+  "bleu_avg": 0.23368936312986366,
+  "rouge1_avg_f1": 0.6461538461538462,
+  "rougeL_avg_f1": 0.6461538461538462,
+  "levenshtein_avg": 42.0
+}

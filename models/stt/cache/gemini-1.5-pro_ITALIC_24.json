@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Passo alla prossima sezione.\n",
+  "reference": "passa alla prossima sezione",
+  "time": 2.3467120181405896,
+  "cost": 0.0004993424036281179,
+  "wer": 0.5,
+  "cer": 0.1111111111111111,
+  "bleu_avg": 0.16990442448471224,
+  "rouge1_avg_f1": 0.75,
+  "rougeL_avg_f1": 0.75,
+  "levenshtein_avg": 4.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Avrò bisogno di spalare il mio vialetto questa mattina.",
+  "reference": "avrò bisogno di spalare il mio vialetto questa mattina",
+  "time": 3.54,
+  "cost": 0.000133808,
+  "wer": 0.2222222222222222,
+  "cer": 0.037037037037037035,
+  "bleu_avg": 0.7259795291154771,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

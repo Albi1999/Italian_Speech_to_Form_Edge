@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Agente Luca Verdi in servizio. Segnalazione di divieto di sosta alle 10:27 del 5/05/2025 in via Roma 77 Palermo. Auto coinvolta: Audi A3, targa AV013ER.",
+  "reference": "Agente Luca Verdi in servizio. Segnalazione di divieto di sosta alle 10:17 del 05/03/2025, in via Roma 77, Palermo. Auto coinvolta: Audi A3, targa AB123CD.",
+  "time": 16.35501133786848,
+  "cost": 0.00020436013605442175,
+  "wer": 0.16,
+  "cer": 0.06451612903225806,
+  "bleu_avg": 0.6523366701420595,
+  "rouge1_avg_f1": 0.8928571428571429,
+  "rougeL_avg_f1": 0.8928571428571429,
+  "levenshtein_avg": 10.0
+}

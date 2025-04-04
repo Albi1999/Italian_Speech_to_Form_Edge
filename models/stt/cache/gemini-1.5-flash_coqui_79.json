@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "In base all'articolo 7, comma 5, l'agente Giulia Costa ha riscontrato un'infrazione in via Milano 34, Torino alle ore 13:45,  fortunatamente del forte 333. Veicolo coinvolto: Mercedes Classe A, targata TO 3334.\n",
+  "reference": "In base al articolo 7, comma 15, l'agente Giulia Costa ha riscontrato un'infrazione in via Milano 24, Torino alle ore 12:49 del 04/03/2025. Veicolo coinvolto: BMW Serie 1, targa FG234LM.",
+  "time": 16.354013605442177,
+  "cost": 0.00020644816326530609,
+  "wer": 0.4666666666666667,
+  "cer": 0.2956989247311828,
+  "bleu_avg": 0.3423551115173114,
+  "rouge1_avg_f1": 0.619718309859155,
+  "rougeL_avg_f1": 0.619718309859155,
+  "levenshtein_avg": 56.0
+}

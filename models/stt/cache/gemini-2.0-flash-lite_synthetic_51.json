@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Durante il pattugliamento in zona via del Corso 12, Roma, l'agente Mario Rossi ha rilevato una violazione dell'articolo 7, comma 15. L'auto coinvolta è un'Audi A3 targata Z456QP. Alle ore 17:35 del 30 marzo 2025.",
+  "reference": "Durante il pattugliamento in zona via del Corso 12, Roma, l'agente Mario Rossi ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Audi A3 targata ZA456QP, alle ore 17:35 del 30/03/2025.",
+  "time": 20.4,
+  "cost": 0.0002559,
+  "wer": 0.2571428571428571,
+  "cer": 0.06666666666666667,
+  "bleu_avg": 0.6529942057256104,
+  "rouge1_avg_f1": 0.8974358974358975,
+  "rougeL_avg_f1": 0.8974358974358975,
+  "levenshtein_avg": 14.0
+}

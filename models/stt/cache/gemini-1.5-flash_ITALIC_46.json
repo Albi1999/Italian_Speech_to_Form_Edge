@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Invia una email a giuseppechiocciola gmail.com.\n",
+  "reference": "invia una email a giuseppe chiocciola gmail punto com",
+  "time": 4.14,
+  "cost": 5.207999999999999e-05,
+  "wer": 0.6666666666666666,
+  "cer": 0.18867924528301888,
+  "bleu_avg": 0.1225504602011117,
+  "rouge1_avg_f1": 0.75,
+  "rougeL_avg_f1": 0.75,
+  "levenshtein_avg": 11.0
+}

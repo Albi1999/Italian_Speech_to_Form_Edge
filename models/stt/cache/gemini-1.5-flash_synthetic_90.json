@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Infrazione riscontrata. Accesso vietato. Posizione: Via Garibaldi 11, Firenze. Ora: 14:55. Data: 9 marzo 2025. Auto: Audi A3. Targa: AB 123 CD. Agente: Silvia Neri.\n",
+  "reference": "Infrazione riscontrata: accesso vietato. Posizione: via Garibaldi 11, Firenze. Ora: 14:55, Data: 09/03/2025. Auto: Audi A3, targa AB123CD. Agente: Silvia Neri.",
+  "time": 18.262993197278913,
+  "cost": 0.00022725591836734695,
+  "wer": 0.5714285714285714,
+  "cer": 0.1069182389937107,
+  "bleu_avg": 0.17316703460835295,
+  "rouge1_avg_f1": 0.8400000000000001,
+  "rougeL_avg_f1": 0.8400000000000001,
+  "levenshtein_avg": 18.0
+}

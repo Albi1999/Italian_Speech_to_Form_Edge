@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Agente Marco Gentili in servizio. Segnalazione di parcheggio su strisce pedonali alle 6:15 del 3 marzo 2025. In via Etnea 45, Catania. Auto coinvolta: Volkswagen Golf, targa CL321 Meganewton.\n",
+  "reference": "Agente Marco Gentili in servizio. Segnalazione di parcheggio su strisce pedonali alle 06:15 del 03/03/2025, in via Etnea 45, Catania. Auto coinvolta: Volkswagen Golf, targa KL321MN.",
+  "time": 18.863990929705217,
+  "cost": 0.0039277981859410435,
+  "wer": 0.2692307692307692,
+  "cer": 0.12154696132596685,
+  "bleu_avg": 0.6575909538628469,
+  "rouge1_avg_f1": 0.847457627118644,
+  "rougeL_avg_f1": 0.847457627118644,
+  "levenshtein_avg": 23.0
+}

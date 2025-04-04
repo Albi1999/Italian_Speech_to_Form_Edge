@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Non entrò però nella squadra delle Olimpiadi di Atlanta l'anno seguente.\n",
+  "reference": "non entrò però nella squadra delle olimpiadi di atlanta l'anno seguente.",
+  "time": 3.96,
+  "cost": 0.0008570000000000001,
+  "wer": 0.2727272727272727,
+  "cer": 0.041666666666666664,
+  "bleu_avg": 0.4172261448611506,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 4.0
+}

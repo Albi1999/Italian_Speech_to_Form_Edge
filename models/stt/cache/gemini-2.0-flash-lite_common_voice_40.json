@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Dopo un anno di attività, la band incise il primo demo.\n",
+  "reference": "dopo un anno di attività, la band incise il primo demo.",
+  "time": 3.6360090702947847,
+  "cost": 4.753210884353741e-05,
+  "wer": 0.09090909090909091,
+  "cer": 0.01818181818181818,
+  "bleu_avg": 0.8931539818068694,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

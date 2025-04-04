@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "L'intera dei 30 30 file, ore e file e forti 3, veicolo tolto da Vasi, taglia, buone onde dei 33, in parcheggio su strisce pedonali presso via del Corso 3, rilevato da gente ma cogenti.\n",
+  "reference": "09/03/2025, ore 05:43: veicolo Toyota Yaris, targa AB123CD, in parcheggio su strisce pedonali presso via del Corso 12, Roma. Rilevato da agente Marco Gentili.",
+  "time": 14.786031746031746,
+  "cost": 0.00018853238095238096,
+  "wer": 1.0,
+  "cer": 0.5189873417721519,
+  "bleu_avg": 0.2380002487471433,
+  "rouge1_avg_f1": 0.4126984126984127,
+  "rougeL_avg_f1": 0.4126984126984127,
+  "levenshtein_avg": 83.0
+}

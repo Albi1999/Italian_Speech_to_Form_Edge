@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Disattiva la sveglia delle 15.",
+  "reference": "disattiva la sveglia delle quindici",
+  "time": 3.18,
+  "cost": 0.000119536,
+  "wer": 0.4,
+  "cer": 0.2571428571428571,
+  "bleu_avg": 0.26591479484724945,
+  "rouge1_avg_f1": 0.8000000000000002,
+  "rougeL_avg_f1": 0.8000000000000002,
+  "levenshtein_avg": 9.0
+}

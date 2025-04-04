@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Riproduci la lista delle mie canzoni più ascoltate.\nPi...\n",
+  "reference": "riproduci la lista delle mie canzoni più ascoltate",
+  "time": 3.06,
+  "cost": 0.000667,
+  "wer": 0.25,
+  "cer": 0.16,
+  "bleu_avg": 0.5873949094699213,
+  "rouge1_avg_f1": 0.9411764705882353,
+  "rougeL_avg_f1": 0.9411764705882353,
+  "levenshtein_avg": 9.0
+}

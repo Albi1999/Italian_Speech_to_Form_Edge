@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "gente va con gente in servizio. Segnalazione di sosta davanti a passo carrabile, alle 24/7/2023, in corso, via. Auto coinvolta, per essere sul, targhe.",
+  "reference": "Agente Marco Gentili in servizio. Segnalazione di sosta davanti a passo carrabile alle 18:24 del 07/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Mercedes Classe A, targa TR098YU.",
+  "time": 17.251020408163264,
+  "cost": 0.00021481224489795916,
+  "wer": 0.6551724137931034,
+  "cer": 0.3333333333333333,
+  "bleu_avg": 0.25048384118281025,
+  "rouge1_avg_f1": 0.5172413793103449,
+  "rougeL_avg_f1": 0.5172413793103449,
+  "levenshtein_avg": 64.0
+}

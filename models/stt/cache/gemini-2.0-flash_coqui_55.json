@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Durante il pattugliamento in zona Via Garibaldi, Firenze, l'agente Anna Bianchi ha rilevato una violazione dell'articolo 7 comma 15. L'auto coinvolta è una Fiat Panda targata triangolare e circhiforme, alle ore 10:10:20:20:25.",
+  "reference": "Durante il pattugliamento in zona via Garibaldi 11, Firenze, l'agente Anna Bianchi ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Fiat Panda targata FG234LM, alle ore 13:18 del 11/03/2025.",
+  "time": 18.01800453514739,
+  "cost": 0.0006526337596371881,
+  "wer": 0.35294117647058826,
+  "cer": 0.20276497695852536,
+  "bleu_avg": 0.547866829278136,
+  "rouge1_avg_f1": 0.7631578947368421,
+  "rougeL_avg_f1": 0.7631578947368421,
+  "levenshtein_avg": 44.0
+}

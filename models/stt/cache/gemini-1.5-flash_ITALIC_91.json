@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Leggi le nuove email.\n",
+  "reference": "leggi le nuove email",
+  "time": 2.16,
+  "cost": 2.7720000000000002e-05,
+  "wer": 0.5,
+  "cer": 0.1,
+  "bleu_avg": 0.16990442448471224,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

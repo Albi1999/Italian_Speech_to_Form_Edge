@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Agente Carlo Bruni in servizio. Segnalazione di zona rimozione alle mezzogiorno e 28 del 30 marzo 2025. In via Milano 24, Torino, auto coinvolta, Audi A3, targa Hub 123 CD.",
+  "reference": "Agente Carlo Bruni in servizio. Segnalazione di zona rimozione alle 12:28 del 30/03/2025, in via Milano 24, Torino. Auto coinvolta: Audi A3, targa AB123CD.",
+  "time": 17.330022675736963,
+  "cost": 0.0006276167981859411,
+  "wer": 0.5416666666666666,
+  "cer": 0.2,
+  "bleu_avg": 0.39161770356338105,
+  "rouge1_avg_f1": 0.8421052631578948,
+  "rougeL_avg_f1": 0.8421052631578948,
+  "levenshtein_avg": 31.0
+}

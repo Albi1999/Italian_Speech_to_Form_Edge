@@ -1,0 +1,109 @@
+model,text,reference,time,cost,wer,cer,bleu_avg,rouge1_avg_f1,rougeL_avg_f1,levenshtein_avg
+gemini-2.0-flash,Segna il prossimo lunedì.,segna il prossimo lunedì,2.82,0.00010646399999999999,0.5,0.08333333333333333,0.16990442448471224,1.0,1.0,2.0
+gemini-2.0-flash,Riproduci la lista delle mie canzoni più ascoltate.,riproduci la lista delle mie canzoni più ascoltate,3.06,0.00011651200000000001,0.25,0.04,0.6803749333171202,1.0,1.0,2.0
+gemini-2.0-flash,Disattiva la sveglia delle 15.,disattiva la sveglia delle quindici,3.18,0.000119536,0.4,0.2571428571428571,0.26591479484724945,0.8000000000000002,0.8000000000000002,9.0
+gemini-2.0-flash,"Cancella sveglia.
+",cancella sveglia,1.92,7.3984e-05,1.0,0.125,0.0,1.0,1.0,3.0
+gemini-2.0-flash,Ricordami i miei impegni del pomeriggio.,ricordami i miei impegni del pomeriggio,3.6,0.00013472,0.3333333333333333,0.05128205128205128,0.5081327481546147,1.0,1.0,2.0
+gemini-2.0-flash,Metti in pausa il libro.,metti in pausa il libro,2.16,8.3632e-05,0.4,0.08695652173913043,0.26591479484724945,1.0,1.0,2.0
+gemini-2.0-flash,"Ehi, puoi abbassare le luci, per favore?",ehi puoi abbassare le luci per favore,2.7,0.00010344000000000001,0.42857142857142855,0.10810810810810811,0.17567205239427922,1.0,1.0,4.0
+gemini-2.0-flash,Quando è Pasqua nell'anno 2018?,quand'è pasqua nell'anno duemiladiciotto,2.94,0.00011108799999999999,1.0,0.475,0.05372849659117709,0.6,0.6,19.0
+gemini-2.0-flash,Parla più forte.,parla più forte,1.74,6.8048e-05,0.6666666666666666,0.13333333333333333,0.11362193664674995,1.0,1.0,2.0
+gemini-2.0-flash,Come si fa il tacchino?,come si fa il tacchino,2.88,0.000108976,0.4,0.09090909090909091,0.26591479484724945,1.0,1.0,2.0
+gemini-2.0-flash,"Per favore, scrivi una nuova email a un collega.",per favore scrivi una nuova email a un collega,4.5,0.0001676,0.3333333333333333,0.06521739130434782,0.5873949094699213,1.0,1.0,3.0
+gemini-2.0-flash,Quando comincia ufficialmente la fase a eliminazione diretta della Champions League?,quando comincia ufficialmente la fase a eliminazione diretta della champions league,5.58,0.00020641599999999998,0.2727272727272727,0.04819277108433735,0.6786502681586727,1.0,1.0,4.0
+gemini-2.0-flash,Mi serve un biglietto del treno da Bologna a Parma.,mi serve un biglietto del treno da bologna a parma,4.56,0.000170112,0.3,0.08,0.537284965911771,1.0,1.0,4.0
+gemini-2.0-flash,"Per favore, aggiungi arance alla mia lista della spesa.",per favore aggiungi arance alla mia lista della spesa,4.5,0.0001676,0.3333333333333333,0.05660377358490566,0.5873949094699213,1.0,1.0,3.0
+gemini-2.0-flash,Aggiungi un orologio da polso alla lista delle cose da comprare.,aggiungi un orologio da polso alla lista delle cose da comprare,4.32,0.000162064,0.18181818181818182,0.031746031746031744,0.7860753021519787,1.0,1.0,2.0
+gemini-2.0-flash,"Per favore, riproduci l'ultimo podcast di Francesco Costa.",per favore riproduci l'ultimo podcast di francesco costa,4.38,0.00016297599999999998,0.5,0.08928571428571429,0.345720784641941,1.0,1.0,5.0
+gemini-2.0-flash,Quanto devo cuocere una bistecca a cottura media?,quanto devo cuocere una bistecca a cottura media,3.18,0.000120736,0.25,0.041666666666666664,0.6803749333171202,1.0,1.0,2.0
+gemini-2.0-flash,"Ehi, come sarà il tempo oggi a Milano, Lombardia?",ehi come sarà il tempo oggi a milano lombardia,3.96,0.00014859200000000002,0.3333333333333333,0.13043478260869565,0.5873949094699213,1.0,1.0,6.0
+gemini-2.0-flash,Riesco a malapena a sentirti.,riesco a malapena a sentirti,2.4,9.208e-05,0.4,0.07142857142857142,0.26591479484724945,1.0,1.0,2.0
+gemini-2.0-flash,Qual è il Conad più vicino?,qual è il conad più vicino,2.92,0.000110784,0.5,0.11538461538461539,0.09554427922043669,1.0,1.0,3.0
+gemini-2.0-flash,Chi è il direttore musicale di questo brano?,chi è il direttore musicale di questo brano,4.68,0.00017353599999999996,0.25,0.046511627906976744,0.6803749333171202,1.0,1.0,2.0
+gemini-2.0-flash,Quali sono le novità di oggi?,quali sono le novità di oggi,2.52,9.6704e-05,0.3333333333333333,0.07142857142857142,0.5081327481546147,1.0,1.0,2.0
+gemini-2.0-flash,Nuova sveglia per le 6:00 di mattina.,nuova sveglia per le sei di mattina,3.36,0.00012667199999999998,0.42857142857142855,0.17142857142857143,0.17567205239427922,0.7999999999999999,0.7999999999999999,6.0
+gemini-2.0-flash,Cosa c'è dentro la torta mimosa?,cosa c'è dentro la torta mimosa,3.72,0.000138944,0.3333333333333333,0.06451612903225806,0.5081327481546147,1.0,1.0,2.0
+gemini-2.0-flash,Passa alla prossima sezione.,passa alla prossima sezione,2.3467120181405896,8.980426303854874e-05,0.5,0.07407407407407407,0.16990442448471224,1.0,1.0,2.0
+gemini-2.0-flash,"Cerca informazioni online.
+",cerca informazioni online,2.94,0.000110288,0.6666666666666666,0.08,0.11362193664674995,1.0,1.0,3.0
+gemini-2.0-flash,cancella l'incontro di domani dal mio calendario.,cancella l'incontro di domani dal mio calendario,4.2,0.00015624,0.14285714285714285,0.020833333333333332,0.8091067115702212,1.0,1.0,1.0
+gemini-2.0-flash,"Siri, che data è oggi?",siri che data è oggi,2.52,9.630399999999999e-05,0.4,0.15,0.26591479484724945,1.0,1.0,3.0
+gemini-2.0-flash,Quali film drammatici debutta questo fine settimana?,olly quali film drammatici debuttano questo fine settimana,4.26,0.000158352,0.5,0.15517241379310345,0.08563683466425753,0.7999999999999999,0.7999999999999999,9.0
+gemini-2.0-flash,Puoi prenotarmi un taxi?,puoi prenotarmi un taxi,4.32,0.00015926400000000003,0.5,0.08695652173913043,0.16990442448471224,1.0,1.0,2.0
+gemini-2.0-flash,Controlla email da Stefano.,controlla email da stefano,2.88,0.000108576,0.5,0.11538461538461539,0.16990442448471224,1.0,1.0,3.0
+gemini-2.0-flash,Aggiungi questo brano al prossimo brano in riproduzione.,aggiungi questo brano al prossimo brano in riproduzione,3.9,0.00014607999999999998,0.25,0.03636363636363636,0.6803749333171202,1.0,1.0,2.0
+gemini-2.0-flash,Che ore sono a Milano adesso?,che ore sono a milano adesso,2.7,0.00010304000000000002,0.5,0.10714285714285714,0.20205155046766235,1.0,1.0,3.0
+gemini-2.0-flash,"Ehi, che ore sono a Roma adesso?",ehi che ore sono a roma adesso,3.370702947845805,0.00012704874376417231,0.42857142857142855,0.13333333333333333,0.41113361690051975,1.0,1.0,4.0
+gemini-2.0-flash,Qual è l'oggetto dell'ultima email di mamma?,qual è l'oggetto dell'ultima email di mamma,3.66,0.000137232,0.2857142857142857,0.046511627906976744,0.6147881529512643,1.0,1.0,2.0
+gemini-2.0-flash,Fammi una tazza di caffè con panna e caramello salato.,fammi una tazza di caffè con panna al caramello salato,4.98,0.000184896,0.3,0.07407407407407407,0.537284965911771,0.9,0.9,4.0
+gemini-2.0-flash,Quali sono le ultime notizie sull'IRAI?,quali sono le ultime notizie sulla rai,2.88,0.000109376,0.42857142857142855,0.18421052631578946,0.43012508513132625,0.7142857142857143,0.7142857142857143,7.0
+gemini-2.0-flash,Rimuovi questa lista dalle altre.,rimuovi questa lista dalle altre,3.0,0.0001132,0.4,0.0625,0.26591479484724945,1.0,1.0,2.0
+gemini-2.0-flash,Che tempo fa a Padova?,che tempo fa a padova,2.52,9.630399999999999e-05,0.4,0.14285714285714285,0.26591479484724945,1.0,1.0,3.0
+gemini-2.0-flash,Mostra la lista delle email recenti.,mostra la lista delle email recenti,3.24,0.000122048,0.3333333333333333,0.05714285714285714,0.5081327481546147,1.0,1.0,2.0
+gemini-2.0-flash,Ho una sveglia impostata per domani mattina.,ho una sveglia impostata per domani mattina,3.96,0.000147792,0.2857142857142857,0.046511627906976744,0.6147881529512643,1.0,1.0,2.0
+gemini-2.0-flash,Avrò bisogno di spalare il mio vialetto questa mattina.,avrò bisogno di spalare il mio vialetto questa mattina,3.54,0.000133808,0.2222222222222222,0.037037037037037035,0.7259795291154771,1.0,1.0,2.0
+gemini-2.0-flash,Mostra i dettagli geografici delle piramidi.,mostra i dettagli geografici delle piramidi,3.12,0.00011782399999999999,0.3333333333333333,0.046511627906976744,0.5081327481546147,1.0,1.0,2.0
+gemini-2.0-flash,Riproduci canzoni di Mina.,riproduci canzoni di mina,2.709387755102041,0.00010257044897959184,0.5,0.12,0.16990442448471224,1.0,1.0,3.0
+gemini-2.0-flash,Sai com'è il tempo?,sai com'è il tempo,1.92,7.4784e-05,0.5,0.1111111111111111,0.16990442448471224,1.0,1.0,2.0
+gemini-2.0-flash,Riproduci un po' di musica jazz.,riproduci un po' di musica jazz,3.36,0.000126272,0.3333333333333333,0.06451612903225806,0.5081327481546147,1.0,1.0,2.0
+gemini-2.0-flash,Invia una email a giuseppe@gmail.com.,invia una email a giuseppe chiocciola gmail punto com,4.14,0.000153328,0.6666666666666666,0.39622641509433965,0.11948321931215808,0.8750000000000001,0.8750000000000001,21.0
+gemini-2.0-flash,Imposta questo evento come ricorrente sul mio calendario.,imposta questo evento come ricorrente sul mio calendario,3.9,0.00014607999999999998,0.25,0.03571428571428571,0.6803749333171202,1.0,1.0,2.0
+gemini-2.0-flash,Che giorno della settimana è il primo di aprile?,che giorno della settimana è il primo di aprile,3.48,0.000131696,0.2222222222222222,0.0425531914893617,0.7259795291154771,1.0,1.0,2.0
+gemini-2.0-flash,Come stai oggi?,come stai oggi,1.62,6.3824e-05,0.6666666666666666,0.14285714285714285,0.11362193664674995,1.0,1.0,2.0
+gemini-2.0-flash,Oggi cos'è la cosa più cercata su Google?,oggi cos'è la cosa più cercata su google,3.54140589569161,0.00013345748752834465,0.25,0.075,0.6803749333171202,1.0,1.0,3.0
+gemini-2.0-flash,"Nel mio calendario, rimuovi tutti gli eventi di calcio del mese corrente.",nel mio calendario rimuovi tutti gli eventi di calcio del mese corrente,4.437414965986394,0.00016659700680272108,0.25,0.04225352112676056,0.6315552371794037,1.0,1.0,3.0
+gemini-2.0-flash,Suona la mia colonna sonora.,suona la mia colonna sonora,2.52,9.630399999999999e-05,0.4,0.07407407407407407,0.26591479484724945,1.0,1.0,2.0
+gemini-2.0-flash,La città più economica o più costosa per vivere?,la città è più economica o più costosa per vivere,3.12,0.00011902399999999999,0.3,0.08163265306122448,0.5462757644646491,1.0,1.0,4.0
+gemini-2.0-flash,Apri l'app della musica e riproduci una canzone.,apri l'app della musica e riproduci una canzone,3.72,0.000139744,0.25,0.0425531914893617,0.6803749333171202,1.0,1.0,2.0
+gemini-2.0-flash,Ricette per preparare un pasto?,ricette per preparare un pasto,3.0,0.0001132,0.4,0.06666666666666667,0.26591479484724945,1.0,1.0,2.0
+gemini-2.0-flash,Avrò bisogno dei miei stivali da neve questo pomeriggio?,avrò bisogno dei miei stivali da neve questo pomeriggio,4.26,0.000159152,0.2222222222222222,0.03636363636363636,0.7259795291154771,1.0,1.0,2.0
+gemini-2.0-flash,"Mando un'email a Carla.
+",manda un'email a carla,1.98,7.689599999999999e-05,0.5,0.18181818181818182,0.16990442448471224,0.8000000000000002,0.8000000000000002,5.0
+gemini-2.0-flash,"Ho una lista della spesa pronta.
+",ho una lista della spesa pronta,2.9227210884353743,0.00011087978231292517,0.3333333333333333,0.06451612903225806,0.5081327481546147,1.0,1.0,3.0
+gemini-2.0-flash,Carica la nuova email per Mirko e invia il messaggio ora.,carica una nuova email per mirco e invia il messaggio ora,4.38,0.00016417599999999998,0.36363636363636365,0.10526315789473684,0.33932513407933634,0.8181818181818182,0.8181818181818182,6.0
+gemini-2.0-flash,"Per favore, avvia le canzoni acquistate e aggiungile tra i preferiti.",per favore avvia le canzoni acquistate e aggiungile tra i preferiti,5.16,0.000191632,0.2727272727272727,0.04477611940298507,0.6786502681586727,1.0,1.0,3.0
+gemini-2.0-flash,Silenzia per due ore.,silenzia per due ore,2.28,8.7456e-05,0.5,0.1,0.16990442448471224,1.0,1.0,2.0
+gemini-2.0-flash,Che sveglia ho impostato?,che sveglie ho impostato,3.0,0.0001128,0.75,0.125,0.08034284189446518,0.75,0.75,3.0
+gemini-2.0-flash,Spiegami la nuova regola del fuorigioco.,spiegami la nuova regola del fuorigioco,3.54,0.000132608,0.3333333333333333,0.05128205128205128,0.5081327481546147,1.0,1.0,2.0
+gemini-2.0-flash,Avvia giochi.,avvia giochi,2.22,8.4544e-05,1.0,0.16666666666666666,0.0,1.0,1.0,2.0
+gemini-2.0-flash,Dimmi alcuni dei migliori posti turistici in Italia.,dimmi alcuni dei migliori posti turistici in italia,4.38,0.00016297599999999998,0.25,0.058823529411764705,0.6803749333171202,1.0,1.0,3.0
+gemini-2.0-flash,"Holly, riproduce una buona traccia del mio artista jazz preferito.",olly riproduci una buona traccia del mio artista jazz preferito,4.8,0.00017855999999999997,0.3,0.06349206349206349,0.6389431042462724,0.8000000000000002,0.8000000000000002,4.0
+gemini-2.0-flash,Invia un memo in email all'elenco.,invia a mamma una email adesso,2.34,9.036799999999999e-05,0.8333333333333334,0.5333333333333333,0.040824829046386304,0.30769230769230765,0.30769230769230765,16.0
+gemini-2.0-flash,Informazioni sul meteo di questa settimana.,informazioni sul meteo di questa settimana,3.42,0.000128384,0.3333333333333333,0.047619047619047616,0.5081327481546147,1.0,1.0,2.0
+gemini-2.0-flash,Spegni la luce nel capanno.,spegni la luce nel capanno,2.433514739229025,9.325971882086168e-05,0.4,0.07692307692307693,0.26591479484724945,1.0,1.0,2.0
+gemini-2.0-flash,Traffico sulla strada.,traffico sulla strada,1.74,6.8048e-05,0.6666666666666666,0.09523809523809523,0.11362193664674995,1.0,1.0,2.0
+gemini-2.0-flash,Vai su contatti e inserisci il nuovo indirizzo email.,vai su contatti e inserisci un nuovo indirizzo email,3.9,0.00014648,0.3333333333333333,0.07692307692307693,0.3549481056010053,0.8888888888888888,0.8888888888888888,4.0
+gemini-2.0-flash,"Per favore, inserisci il nuovo indirizzo email nel contatto.",per favore inserisci il mio nuovo indirizzo email nel contatto,3.66,0.000138032,0.4,0.11290322580645161,0.31762152032055835,0.9473684210526316,0.9473684210526316,7.0
+gemini-2.0-flash,Trova l'ultimo podcast della Disney.,trova l ultimo podcast della disney,3.12,0.000117424,0.6666666666666666,0.11428571428571428,0.09302577375697234,1.0,1.0,4.0
+gemini-2.0-flash,Avvia la riproduzione audio di Twilight di nuovo.,avvia la riproduzione audio di twilight di nuovo,3.54,0.000133408,0.375,0.0625,0.3655552228545123,1.0,1.0,3.0
+gemini-2.0-flash,Qual è il cambio euro dollaro adesso?,qual è il cambio euro dollaro adesso,3.42,0.000128784,0.2857142857142857,0.05555555555555555,0.6147881529512643,1.0,1.0,2.0
+gemini-2.0-flash,"Ehi, Holly, oggi ho incontrato un mio vecchio compagno di classe.
+",ehi olly oggi ho incontrato un mio vecchio compagno di classe,6.0,0.0002212,0.2727272727272727,0.08196721311475409,0.6786502681586727,0.9090909090909091,0.9090909090909091,6.0
+gemini-2.0-flash,Avvia un gioco.,avvia un gioco,1.62,6.3824e-05,0.6666666666666666,0.14285714285714285,0.11362193664674995,1.0,1.0,2.0
+gemini-2.0-flash,Che giorno è oggi?,che giorno è oggi,2.38,9.097599999999999e-05,0.5,0.11764705882352941,0.16990442448471224,1.0,1.0,2.0
+gemini-2.0-flash,"Mi hanno promosso oggi, che bellezza.",mi hanno promosso oggi che bellezza,3.7546938775510204,0.0001401652244897959,0.5,0.08571428571428572,0.09554427922043669,1.0,1.0,3.0
+gemini-2.0-flash,Cancella il primo elemento nella lista.,cancella il primo elemento nella lista,2.94,0.000111488,0.3333333333333333,0.05263157894736842,0.5081327481546147,1.0,1.0,2.0
+gemini-2.0-flash,"Alexa, ho avuto i soldi per il mese. Quanto posso spendere ogni giorno questo mese?",alexa ho avuto i soldi per il mese quanto posso spendere ogni giorno questo mese,5.013514739229025,0.0001880757188208617,0.26666666666666666,0.0625,0.5702822264405542,1.0,1.0,5.0
+gemini-2.0-flash,Quale università ha frequentato Laura Boldrini?,quale università ha frequentato laura boldrini,3.66,0.00013683199999999998,0.5,0.08695652173913043,0.20205155046766235,1.0,1.0,4.0
+gemini-2.0-flash,"Puoi farmi un caffè, per favore?",puoi farmi un caffè per favore,2.46,9.4592e-05,0.5,0.1,0.09554427922043669,1.0,1.0,3.0
+gemini-2.0-flash,Qual è il tasso di cambio tra euro e dollaro?,qual è il tasso di cambio tra euro e dollaro,3.48,0.000132096,0.2,0.045454545454545456,0.7598356856515925,1.0,1.0,2.0
+gemini-2.0-flash,"Compagni una nuova mail, ma questa volta ho un nuovo indirizzo Marco@esempio.it.",componi una nuova email ma questa volta ho un nuovo indirizzo marco chiocciola esempio punto it,5.7,0.00021104,0.4375,0.2736842105263158,0.40890620307453723,0.7999999999999999,0.7999999999999999,26.0
+gemini-2.0-flash,Inizia a passare l'aspirapolvere.,inizia a passare l'aspirapolvere,3.36,0.00012547199999999998,0.5,0.0625,0.16990442448471224,1.0,1.0,2.0
+gemini-2.0-flash,"Certo, ecco la trascrizione:
+
+""Questa barzelletta la conosci?""
+",questa barzelletta la conosci,2.9867120181405897,0.00011393226303854875,1.5,1.1724137931034482,0.05873949094699214,0.6666666666666666,0.6666666666666666,35.0
+gemini-2.0-flash,Dove ci sono il maggior numero di vulcani sulla Terra?,dove ci sono il maggior numero di vulcani sulla terra,3.84,0.00014476799999999998,0.2,0.05660377358490566,0.7598356856515925,1.0,1.0,3.0
+gemini-2.0-flash,Suona tutte le playlist.,suona tutte le playlist,3.12,0.000117024,0.5,0.08695652173913043,0.16990442448471224,1.0,1.0,2.0
+gemini-2.0-flash,Cosa ho scritto a Chiara nella mia ultima mail?,cosa ho scritto a chiara nella mia ultima email,3.48,0.000131696,0.3333333333333333,0.0851063829787234,0.19960198807747329,0.8888888888888888,0.8888888888888888,4.0
+gemini-2.0-flash,Leggi le nuove email.,leggi le nuove email,2.16,8.3232e-05,0.5,0.1,0.16990442448471224,1.0,1.0,2.0
+gemini-2.0-flash,Quanto fa 4 + 5?,quanto fa quattro più cinque,2.88,0.000108976,0.8,0.6071428571428571,0.05372849659117709,0.4444444444444445,0.4444444444444445,17.0
+gemini-2.0-flash,Twitta a Unipol e digli che fanno schifo.,twitta a unipol e digli che fanno schifo,3.18,0.000120736,0.375,0.075,0.3655552228545123,1.0,1.0,3.0
+gemini-2.0-flash,Com'è la condizione del traffico al momento?,com'è la condizione del traffico al momento,3.36,0.00012667199999999998,0.2857142857142857,0.046511627906976744,0.6147881529512643,1.0,1.0,2.0
+gemini-2.0-flash,Puoi ordinare del sushi per la cena di stasera?,puoi ordinare del sushi per la cena di stasera,5.4,0.00019928000000000003,0.2222222222222222,0.043478260869565216,0.7259795291154771,1.0,1.0,2.0
+gemini-2.0-flash,"Rai News, titoli di coda.",rai news titoli di coda,3.0,0.0001132,0.6,0.17391304347826086,0.11362193664674995,1.0,1.0,4.0
+gemini-2.0-flash,Rendi le luci più accese.,rendi le luci più accese,3.42,0.00012798399999999999,0.4,0.08333333333333333,0.26591479484724945,1.0,1.0,2.0
+gemini-2.0-flash,Milano.,milano,2.22,8.4144e-05,1.0,0.3333333333333333,0.0,1.0,1.0,2.0
+gemini-2.0-flash,Manda una mail ad Anna riguardo la riunione su bilancio.,manda una mail ad anna riguardo la riunione sul bilancio,4.44,0.000165888,0.4,0.07142857142857142,0.17567205239427922,0.9,0.9,4.0

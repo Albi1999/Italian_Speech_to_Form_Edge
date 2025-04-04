@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "rendi le luci più accese\n",
+  "reference": "rendi le luci più accese",
+  "time": 3.42,
+  "cost": 4.314e-05,
+  "wer": 0.0,
+  "cer": 0.0,
+  "bleu_avg": 1.0,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 1.0
+}

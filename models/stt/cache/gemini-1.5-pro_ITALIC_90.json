@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Cosa ho scritto a Chiara nella mia ultima mail?\n",
+  "reference": "cosa ho scritto a chiara nella mia ultima email",
+  "time": 3.48,
+  "cost": 0.0007509999999999999,
+  "wer": 0.3333333333333333,
+  "cer": 0.0851063829787234,
+  "bleu_avg": 0.19960198807747329,
+  "rouge1_avg_f1": 0.8888888888888888,
+  "rougeL_avg_f1": 0.8888888888888888,
+  "levenshtein_avg": 5.0
+}

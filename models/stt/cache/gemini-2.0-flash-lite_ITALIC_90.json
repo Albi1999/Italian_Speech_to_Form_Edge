@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "\"Ciao Chiara, come stai? Spero tutto bene. Ti scrivo per dirti che ho ricevuto la tua mail e ti ringrazio per avermi risposto. Ho letto con attenzione quello che mi hai scritto e sono d'accordo con te su molti punti. Penso che sia importante affrontare la situazione con calma e razionalità. Fammi sapere cosa ne pensi. Un abbraccio.\"\n",
+  "reference": "cosa ho scritto a chiara nella mia ultima email",
+  "time": 3.48,
+  "cost": 5.9760000000000004e-05,
+  "wer": 6.222222222222222,
+  "cer": 6.191489361702128,
+  "bleu_avg": 0.004143018973828455,
+  "rouge1_avg_f1": 0.1176470588235294,
+  "rougeL_avg_f1": 0.0588235294117647,
+  "levenshtein_avg": 292.0
+}

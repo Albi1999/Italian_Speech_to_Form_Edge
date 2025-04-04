@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Ei, come sarà il tempo oggi a Milano, Lombardia?\n",
+  "reference": "ehi come sarà il tempo oggi a milano lombardia",
+  "time": 3.96,
+  "cost": 5.0820000000000005e-05,
+  "wer": 0.3333333333333333,
+  "cer": 0.15217391304347827,
+  "bleu_avg": 0.5873949094699213,
+  "rouge1_avg_f1": 0.8888888888888888,
+  "rougeL_avg_f1": 0.8888888888888888,
+  "levenshtein_avg": 8.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Comprende anche sezioni di palla a mano, pallacanestro e pallavolo.\n",
+  "reference": "comprende anche sezioni di pallamano, pallacanestro e pallavolo.",
+  "time": 3.708027210884354,
+  "cost": 4.809632653061225e-05,
+  "wer": 0.5,
+  "cer": 0.0625,
+  "bleu_avg": 0.17567205239427922,
+  "rouge1_avg_f1": 0.7777777777777777,
+  "rougeL_avg_f1": 0.7777777777777777,
+  "levenshtein_avg": 5.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Durante il pattugliamento in zona via e via, Catania, l'agente Sara Bellini ha rilevato una violazione dell'articolo 6, comma 5. L'auto poi in volta è una Volkswagen Golf tagata 456, alle ore 14:50.",
+  "reference": "Durante il pattugliamento in zona via Etnea 45, Catania, l'agente Sara Bellini ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Volkswagen Golf targata ZA456QP, alle ore 04:52 del 16/03/2025.",
+  "time": 18.88204081632653,
+  "cost": 0.00023708448979591835,
+  "wer": 0.4117647058823529,
+  "cer": 0.1651376146788991,
+  "bleu_avg": 0.43032289123999434,
+  "rouge1_avg_f1": 0.6486486486486486,
+  "rougeL_avg_f1": 0.6486486486486486,
+  "levenshtein_avg": 36.0
+}

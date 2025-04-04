@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Durante il pattugliamento in zona Via Milano 20, Torino, l'agente Silvia Neri ha rilevato una violazione dell'articolo 7 comma 15. L'auto coinvolta, una Mercedes classe A targata 13 forno alle ore 20:15 del 30/2025.",
+  "reference": "Durante il pattugliamento in zona via Milano 24, Torino, l'agente Silvia Neri ha rilevato una violazione del articolo 7, comma 15. L'auto coinvolta è una Mercedes Classe A targata FG234LM, alle ore 23:15 del 13/03/2025.",
+  "time": 20.578004535147393,
+  "cost": 0.0007435457596371882,
+  "wer": 0.34285714285714286,
+  "cer": 0.091324200913242,
+  "bleu_avg": 0.3827875611217857,
+  "rouge1_avg_f1": 0.8717948717948718,
+  "rougeL_avg_f1": 0.8461538461538461,
+  "levenshtein_avg": 20.0
+}

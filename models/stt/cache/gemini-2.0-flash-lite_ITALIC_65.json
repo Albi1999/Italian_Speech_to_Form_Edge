@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Certo. Ecco alcuni dei migliori posti turistici in Italia:\n- Roma: Colosseo, Foro Romano, Fontana di Trevi.\n- Firenze: Galleria degli Uffizi, Ponte Vecchio, Duomo.\n- Venezia: Piazza San Marco, Canal Grande, Rialto.\n- Milano: Duomo, Galleria Vittorio Emanuele II, Teatro alla Scala.\n- Napoli: Pompei, Vesuvio, Museo Archeologico Nazionale.\n- Cinque Terre: Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore.\n- Costiera Amalfitana: Positano, Amalfi, Ravello.\n- Sicilia: Etna, Taormina, Valle dei Templi.\n",
+  "reference": "dimmi alcuni dei migliori posti turistici in italia",
+  "time": 4.38,
+  "cost": 7.446e-05,
+  "wer": 7.125,
+  "cer": 9.0,
+  "bleu_avg": 0.06268260360206092,
+  "rouge1_avg_f1": 0.19718309859154926,
+  "rougeL_avg_f1": 0.19718309859154926,
+  "levenshtein_avg": 460.0
+}

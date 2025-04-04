@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Qual è il Conad più vicino?\n",
+  "reference": "qual è il conad più vicino",
+  "time": 2.92,
+  "cost": 3.7439999999999994e-05,
+  "wer": 0.5,
+  "cer": 0.11538461538461539,
+  "bleu_avg": 0.09554427922043669,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 4.0
+}

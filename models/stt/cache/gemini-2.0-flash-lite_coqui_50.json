@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "In base all'articolo 7, comma 15, tangenti civili, riscontrato un'infrazione in via Milano, 30, Torino, alle ore 9:10, per veicolo Fiat Panda, targa 1197.",
+  "reference": "In base al articolo 7, comma 15, l'agente Silvia Neri ha riscontrato un'infrazione in via Milano 24, Torino alle ore 19:12 del 29/03/2025. Veicolo coinvolto: Fiat Panda, targa XY987ZT.",
+  "time": 16.80204081632653,
+  "cost": 0.0002094244897959184,
+  "wer": 0.5172413793103449,
+  "cer": 0.29347826086956524,
+  "bleu_avg": 0.1711923500337455,
+  "rouge1_avg_f1": 0.6229508196721312,
+  "rougeL_avg_f1": 0.6229508196721312,
+  "levenshtein_avg": 54.0
+}

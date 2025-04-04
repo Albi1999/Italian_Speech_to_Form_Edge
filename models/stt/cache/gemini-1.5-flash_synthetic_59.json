@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Infrazione riscontrata, parcheggio su strisce pedonali. Posizione: Via Garibaldi 11, Firenze. Ora: 10:57. Data: 31 marzo 2025. Auto: Volkswagen Golf, targa TR 98 YU. Agente: Silvia Neri.\n",
+  "reference": "Infrazione riscontrata: parcheggio su strisce pedonali. Posizione: via Garibaldi 11, Firenze. Ora: 10:57, Data: 31/03/2025. Auto: Volkswagen Golf, targa TR098YU. Agente: Silvia Neri.",
+  "time": 21.44798185941043,
+  "cost": 0.0002660757823129251,
+  "wer": 0.391304347826087,
+  "cer": 0.06593406593406594,
+  "bleu_avg": 0.3579141280308305,
+  "rouge1_avg_f1": 0.888888888888889,
+  "rougeL_avg_f1": 0.888888888888889,
+  "levenshtein_avg": 13.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Per favore, scrivi una nuova email a un collega.",
+  "reference": "per favore scrivi una nuova email a un collega",
+  "time": 4.5,
+  "cost": 0.0001676,
+  "wer": 0.3333333333333333,
+  "cer": 0.06521739130434782,
+  "bleu_avg": 0.5873949094699213,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

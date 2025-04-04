@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Infrazione riscontrata, divieto di sosta. Posizione, via del Corso 32. Ora, 30, 40, data, 20, 20, 20. Povo, Renato, targa. Agente, sarà bellino.\n",
+  "reference": "Infrazione riscontrata: divieto di sosta. Posizione: via del Corso 12, Roma. Ora: 22:14, Data: 05/03/2025. Auto: Renault Clio, targa TR098YU. Agente: Sara Bellini.",
+  "time": 16.421043083900226,
+  "cost": 0.0002045525170068027,
+  "wer": 0.6956521739130435,
+  "cer": 0.294478527607362,
+  "bleu_avg": 0.07164684238257436,
+  "rouge1_avg_f1": 0.5306122448979592,
+  "rougeL_avg_f1": 0.5306122448979592,
+  "levenshtein_avg": 49.0
+}

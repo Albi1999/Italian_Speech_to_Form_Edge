@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Le speranze a Siatom sono tante data la giovane età della coppia Peyton Kemp.\n",
+  "reference": "le speranze a seattle sono tante data la giovane età della coppia payton-kemp.",
+  "time": 5.4,
+  "cost": 6.96e-05,
+  "wer": 0.3076923076923077,
+  "cer": 0.1282051282051282,
+  "bleu_avg": 0.5622008276590377,
+  "rouge1_avg_f1": 0.8571428571428571,
+  "rougeL_avg_f1": 0.8571428571428571,
+  "levenshtein_avg": 11.0
+}

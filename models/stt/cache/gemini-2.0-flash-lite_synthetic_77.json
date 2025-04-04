@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Il giorno 10 marzo 2025, alle ore 14:57, è stata segnalata un'infrazione per sosta davanti a passo carrabile in via Roma 77, Palermo, veicolo coinvolto, Opel Corsa, targa TR98U, agente Silvia Neri.",
+  "reference": "Il giorno 10/03/2025, alle ore 14:57, è stata segnalata un’infrazione per sosta davanti a passo carrabile in via Roma 77, Palermo. Veicolo coinvolto: Opel Corsa, targa TR098YU. Agente: Silvia Neri.",
+  "time": 19.245986394557825,
+  "cost": 0.0002411518367346939,
+  "wer": 0.3,
+  "cer": 0.08121827411167512,
+  "bleu_avg": 0.49972168093865427,
+  "rouge1_avg_f1": 0.9393939393939394,
+  "rougeL_avg_f1": 0.9393939393939394,
+  "levenshtein_avg": 16.0
+}

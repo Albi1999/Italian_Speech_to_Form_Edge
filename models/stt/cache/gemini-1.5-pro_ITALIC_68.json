@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Informazioni sul meteo di questa settimana.\n",
+  "reference": "informazioni sul meteo di questa settimana",
+  "time": 3.42,
+  "cost": 0.0007239999999999999,
+  "wer": 0.3333333333333333,
+  "cer": 0.047619047619047616,
+  "bleu_avg": 0.5081327481546147,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

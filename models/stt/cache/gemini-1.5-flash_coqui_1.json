@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Agente Giulia Costa in servizio. Segnalazione di divieto di sosta al Leone, fischio del tir, tir tir tir tir fischio, in via Garibaldi, eh, Firenze. Auto coinvolta, Fiat Panda, targa BO 12345.\n",
+  "reference": "Agente Giulia Costa in servizio. Segnalazione di divieto di sosta alle 01:51 del 30/03/2025, in via Garibaldi 11, Firenze. Auto coinvolta: Fiat Panda, targa AB123CD.",
+  "time": 15.71501133786848,
+  "cost": 0.0001987801360544218,
+  "wer": 0.56,
+  "cer": 0.30303030303030304,
+  "bleu_avg": 0.36151920269854193,
+  "rouge1_avg_f1": 0.6666666666666666,
+  "rougeL_avg_f1": 0.6666666666666666,
+  "levenshtein_avg": 51.0
+}

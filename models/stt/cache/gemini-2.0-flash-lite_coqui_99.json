@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Penti, torrente, tinti, fiore, orone, tinti, fiore, veicolo, golf, targhe, o, ngari, tinti, forma, in sosta davanti a passo carrabile presso via e ne a forti, fiore, Catania. Rilevato da gente, si, viene.",
+  "reference": "22/03/2025, ore 01:25: veicolo Volkswagen Golf, targa FG234LM, in sosta davanti a passo carrabile presso via Etnea 45, Catania. Rilevato da agente Silvia Neri.",
+  "time": 14.85002267573696,
+  "cost": 0.00018870027210884352,
+  "wer": 0.9166666666666666,
+  "cer": 0.6163522012578616,
+  "bleu_avg": 0.2437188347541823,
+  "rouge1_avg_f1": 0.43333333333333324,
+  "rougeL_avg_f1": 0.43333333333333324,
+  "levenshtein_avg": 98.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Iniziò così una lunga serie di esposizioni.\n",
+  "reference": "iniziò così una lunga serie di esposizioni.",
+  "time": 4.032018140589569,
+  "cost": 5.108421768707483e-05,
+  "wer": 0.14285714285714285,
+  "cer": 0.023255813953488372,
+  "bleu_avg": 0.8091067115702212,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Sono l'agente Mario Rossi. Alle ore 7:10, se vende il 2020, ho rilevato un'infrazione per parcheggio su strisce pedonali in corso Buenos Aires 99, Milano. Veicolo: Toyota Yaris, targa IN 938.\n",
+  "reference": "Sono l'agente Mario Rossi. Alle ore 16:07 del 05/03/2025, ho rilevato un'infrazione per parcheggio su strisce pedonali in corso Buenos Aires 98, Milano. Veicolo: Toyota Yaris, targa XY987ZT.",
+  "time": 18.43501133786848,
+  "cost": 0.0002311201360544218,
+  "wer": 0.2857142857142857,
+  "cer": 0.12631578947368421,
+  "bleu_avg": 0.6170551093767843,
+  "rouge1_avg_f1": 0.746268656716418,
+  "rougeL_avg_f1": 0.746268656716418,
+  "levenshtein_avg": 25.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Solo la Marina Militare italiana e la Royal Navy possiedono unità di questo tipo.",
+  "reference": "solo la marina militare italiana e la royal navy possiedono unità di questo tipo..",
+  "time": 5.832018140589569,
+  "cost": 7.478421768707482e-05,
+  "wer": 0.42857142857142855,
+  "cer": 0.07317073170731707,
+  "bleu_avg": 0.2658483576665877,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 6.0
+}

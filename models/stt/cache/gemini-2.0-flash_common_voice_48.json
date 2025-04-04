@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Viene festeggiato anche il capodanno cinese e date legate ai raccolti del riso.",
+  "reference": "viene festeggiato anche il capodanno cinese e date legate ai raccolti del riso.",
+  "time": 4.86,
+  "cost": 0.00018187200000000002,
+  "wer": 0.07692307692307693,
+  "cer": 0.012658227848101266,
+  "bleu_avg": 0.912167909070388,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 1.0
+}

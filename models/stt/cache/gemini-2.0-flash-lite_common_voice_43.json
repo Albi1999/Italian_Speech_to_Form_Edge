@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "La normale mucosa esofagea non presenta alcun infiltrato di granulociti e eosinofili.\n",
+  "reference": "la normale mucosa esofagea non presenta alcun infiltrato di granulociti eosinofili.",
+  "time": 6.66,
+  "cost": 8.412e-05,
+  "wer": 0.18181818181818182,
+  "cer": 0.03614457831325301,
+  "bleu_avg": 0.7292571723872933,
+  "rouge1_avg_f1": 0.9565217391304348,
+  "rougeL_avg_f1": 0.9565217391304348,
+  "levenshtein_avg": 4.0
+}

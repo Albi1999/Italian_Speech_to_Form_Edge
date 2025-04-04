@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "In base all'articolo sette comma cinquantasette, l'agente Giulia Costa ha riscontrato un'infrazione in via Milano trentaquattro, Torino alle ore tredici, quarantanove del quattordici trentatré cinquantacinque. Veicolo coinvolto, un Mercedes Leone, targa TO undici trenta quattro.\n",
+  "reference": "In base al articolo 7, comma 15, l'agente Giulia Costa ha riscontrato un'infrazione in via Milano 24, Torino alle ore 12:49 del 04/03/2025. Veicolo coinvolto: BMW Serie 1, targa FG234LM.",
+  "time": 16.354013605442177,
+  "cost": 0.0034558027210884355,
+  "wer": 0.6,
+  "cer": 0.6989247311827957,
+  "bleu_avg": 0.2948993986902436,
+  "rouge1_avg_f1": 0.6027397260273972,
+  "rougeL_avg_f1": 0.6027397260273972,
+  "levenshtein_avg": 131.0
+}

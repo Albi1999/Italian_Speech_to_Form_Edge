@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Il giorno 11 marzo 2025, alle ore 15:06, è stata segnalata un'infrazione per accesso vietato in corso Buenos Aires 98, Milano, veicolo coinvolto, Toyota Yaris, targa FG234LM, agente, Giulia Costa.",
+  "reference": "Il giorno 11/03/2025, alle ore 15:06, è stata segnalata un’infrazione per accesso vietato in corso Buenos Aires 98, Milano. Veicolo coinvolto: Toyota Yaris, targa FG234LM. Agente: Giulia Costa.",
+  "time": 20.59201814058957,
+  "cost": 0.0002567042176870748,
+  "wer": 0.32142857142857145,
+  "cer": 0.07253886010362694,
+  "bleu_avg": 0.46046351600274404,
+  "rouge1_avg_f1": 0.967741935483871,
+  "rougeL_avg_f1": 0.967741935483871,
+  "levenshtein_avg": 14.0
+}

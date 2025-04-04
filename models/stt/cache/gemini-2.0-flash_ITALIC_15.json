@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Per favore, riproduci l'ultimo podcast di Francesco Costa.",
+  "reference": "per favore riproduci l'ultimo podcast di francesco costa",
+  "time": 4.38,
+  "cost": 0.00016297599999999998,
+  "wer": 0.5,
+  "cer": 0.08928571428571429,
+  "bleu_avg": 0.345720784641941,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 5.0
+}

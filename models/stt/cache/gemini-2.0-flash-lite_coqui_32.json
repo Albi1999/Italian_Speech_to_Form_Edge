@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Verbale di infrazione redatto dall'agente Marco Genti. Data, 13/03/2023, ora, 10:30. Infrazione, accesso vietato. Luogo, via Napoli, Napoli. Veicolo, un'autovettura, targata FG 55.",
+  "reference": "Verbale di infrazione redatto dall'agente Marco Gentili. Data: 12/03/2025, ora: 22:39. Infrazione: accesso vietato. Luogo: via Napoli 5, Napoli. Veicolo: BMW Serie 1, targa CD456EF.",
+  "time": 18.56503401360544,
+  "cost": 0.0002302804081632653,
+  "wer": 0.6,
+  "cer": 0.19337016574585636,
+  "bleu_avg": 0.22116603634260015,
+  "rouge1_avg_f1": 0.6315789473684211,
+  "rougeL_avg_f1": 0.6315789473684211,
+  "levenshtein_avg": 35.0
+}

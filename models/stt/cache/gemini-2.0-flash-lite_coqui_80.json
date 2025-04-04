@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Gente va con gente in servizio. Segnalazione di doppia fila per l'evento 24/03/2024 in via Roma 27, Palermo. Auto con molta, al via tre, targa, casa lunga degli itinerari.\n",
+  "reference": "Agente Marco Gentili in servizio. Segnalazione di doppia fila alle 11:34 del 24/03/2025, in via Roma 77, Palermo. Auto coinvolta: Audi A3, targa GH789IJ.",
+  "time": 15.459002267573696,
+  "cost": 0.00019480802721088435,
+  "wer": 0.7916666666666666,
+  "cer": 0.41830065359477125,
+  "bleu_avg": 0.21936644511443132,
+  "rouge1_avg_f1": 0.47457627118644063,
+  "rougeL_avg_f1": 0.47457627118644063,
+  "levenshtein_avg": 65.0
+}

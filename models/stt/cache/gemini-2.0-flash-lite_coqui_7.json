@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "pone for 2023, ore, il fitto, veicolo, Panda, taglia il tre, lunghe tenti, in doppia fila presso via Milano, tenti, Torino. Rilevato da gente annabiata.\n",
+  "reference": "01/04/2025, ore 08:32: veicolo Fiat Panda, targa KL321MN, in doppia fila presso via Milano 24, Torino. Rilevato da agente Anna Bianchi.",
+  "time": 12.706031746031746,
+  "cost": 0.00016057238095238096,
+  "wer": 0.8095238095238095,
+  "cer": 0.45925925925925926,
+  "bleu_avg": 0.19422069098763883,
+  "rouge1_avg_f1": 0.4897959183673469,
+  "rougeL_avg_f1": 0.4897959183673469,
+  "levenshtein_avg": 63.0
+}

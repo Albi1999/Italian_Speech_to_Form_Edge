@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Sono l'agente Giulia Costa, alle ore 11:22 del 10 marzo 2025. Ho rilevato un'infrazione per doppia fila in via Etnea 45, Catania, veicolo BMW serie 1, targa GH 789 IV.\n",
+  "reference": "Sono l'agente Giulia Costa. Alle ore 11:22 del 10/03/2025, ho rilevato un'infrazione per doppia fila in via Etnea 45, Catania. Veicolo: BMW Serie 1, targa GH789IJ.",
+  "time": 14.66,
+  "cost": 0.00018552,
+  "wer": 0.46153846153846156,
+  "cer": 0.11042944785276074,
+  "bleu_avg": 0.3722992336684907,
+  "rouge1_avg_f1": 0.90625,
+  "rougeL_avg_f1": 0.90625,
+  "levenshtein_avg": 19.0
+}

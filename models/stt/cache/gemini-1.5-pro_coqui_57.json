@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Agente Luca Verdi in servizio. Segnalazione di zona rimozione alieni nei dintorni del 53,33 Via Milano 34, Torino. Auto coinvolta, Alfa 147, targa FOM 856.\n",
+  "reference": "Agente Luca Verdi in servizio. Segnalazione di zona rimozione alle 19:31 del 15/03/2025, in via Milano 24, Torino. Auto coinvolta: Audi A3, targa CD456EF.",
+  "time": 14.819002267573696,
+  "cost": 0.0030988004535147393,
+  "wer": 0.5,
+  "cer": 0.2532467532467532,
+  "bleu_avg": 0.363353641549119,
+  "rouge1_avg_f1": 0.6037735849056604,
+  "rougeL_avg_f1": 0.6037735849056604,
+  "levenshtein_avg": 40.0
+}

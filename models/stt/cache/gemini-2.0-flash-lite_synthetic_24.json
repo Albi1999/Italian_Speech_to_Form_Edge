@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Sono l'agente Mario Rossi, alle ore 3:43 del 9 marzo 2025. Ho rilevato un'infrazione per doppia fila in via Roma 77, Palermo, veicolo Mercedes Classe A, targa CD456F.\n",
+  "reference": "Sono l'agente Mario Rossi. Alle ore 03:43 del 09/03/2025, ho rilevato un'infrazione per doppia fila in via Roma 77, Palermo. Veicolo: Mercedes Classe A, targa CD456EF.",
+  "time": 18.01265306122449,
+  "cost": 0.0002251518367346939,
+  "wer": 0.38461538461538464,
+  "cer": 0.10179640718562874,
+  "bleu_avg": 0.4272870063962341,
+  "rouge1_avg_f1": 0.8709677419354839,
+  "rougeL_avg_f1": 0.8709677419354839,
+  "levenshtein_avg": 18.0
+}

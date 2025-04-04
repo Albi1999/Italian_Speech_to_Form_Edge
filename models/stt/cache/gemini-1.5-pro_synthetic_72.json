@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "31 marzo 2025, ore 9:31, veicolo Toyota Yaris, targa AB 123 CD, in divieto di sosta presso Via Garibaldi 11, Firenze, rilevato da agente Carlo Bruni.\n",
+  "reference": "31/03/2025, ore 09:31: veicolo Toyota Yaris, targa AB123CD, in divieto di sosta presso via Garibaldi 11, Firenze. Rilevato da agente Carlo Bruni.",
+  "time": 15.144036281179138,
+  "cost": 0.0031688072562358277,
+  "wer": 0.45454545454545453,
+  "cer": 0.09655172413793103,
+  "bleu_avg": 0.3423375720396189,
+  "rouge1_avg_f1": 0.8461538461538461,
+  "rougeL_avg_f1": 0.8461538461538461,
+  "levenshtein_avg": 15.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Il giorno forte in 2025 alle ore forte in Fieve, è stata segnalata un'infrazione per doppia fila in Piazza Venezia a Roma. Veicolo coinvolto, Fiat Panda targa Zaffura 130. Agente, Sara Bellini.",
+  "reference": "Il giorno 14/03/2025, alle ore 14:05, è stata segnalata un’infrazione per doppia fila in piazza Venezia, Roma. Veicolo coinvolto: Fiat Panda, targa ZA456QP. Agente: Sara Bellini.",
+  "time": 16.931020408163267,
+  "cost": 0.00021337224489795917,
+  "wer": 0.5769230769230769,
+  "cer": 0.2303370786516854,
+  "bleu_avg": 0.15186071495534512,
+  "rouge1_avg_f1": 0.7868852459016394,
+  "rougeL_avg_f1": 0.7868852459016394,
+  "levenshtein_avg": 41.0
+}

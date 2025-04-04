@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Agente Luca Verdi in servizio. Segnalazione di parcheggio su strisce pedonali alle 7:10 in  Forti Sittellone Teretventi Tuenti Fve in via Milano Tuenti Furò, Torino. Auto coinvolta Opel Corsa, targa tre enne sette igeiu.\n",
+  "reference": "Agente Luca Verdi in servizio. Segnalazione di parcheggio su strisce pedonali alle 17:46 del 01/03/2025, in via Milano 24, Torino. Auto coinvolta: Opel Corsa, targa TR098YU.",
+  "time": 16.51501133786848,
+  "cost": 0.00020898013605442174,
+  "wer": 0.5384615384615384,
+  "cer": 0.4277456647398844,
+  "bleu_avg": 0.41977570645011036,
+  "rouge1_avg_f1": 0.65625,
+  "rougeL_avg_f1": 0.65625,
+  "levenshtein_avg": 75.0
+}

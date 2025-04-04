@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "La città è più economica o più costosa per vivere?\n",
+  "reference": "la città è più economica o più costosa per vivere",
+  "time": 3.12,
+  "cost": 4.104e-05,
+  "wer": 0.2,
+  "cer": 0.04081632653061224,
+  "bleu_avg": 0.7598356856515925,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 3.0
+}

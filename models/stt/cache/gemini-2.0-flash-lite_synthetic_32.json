@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Il giorno 30 marzo 2025, alle ore 13:48, è stata segnalata un'infrazione per doppia fila in via Napoli 5, Napoli, veicolo coinvolto: Opel Corsa, targa FG234LM, agente Mario Rossi.\n",
+  "reference": "Il giorno 30/03/2025, alle ore 13:48, è stata segnalata un’infrazione per doppia fila in via Napoli 5, Napoli. Veicolo coinvolto: Opel Corsa, targa FG234LM. Agente: Mario Rossi.",
+  "time": 18.030022675736962,
+  "cost": 0.00022566027210884352,
+  "wer": 0.2962962962962963,
+  "cer": 0.07344632768361582,
+  "bleu_avg": 0.4772349067014227,
+  "rouge1_avg_f1": 0.9666666666666667,
+  "rougeL_avg_f1": 0.9666666666666667,
+  "levenshtein_avg": 14.0
+}

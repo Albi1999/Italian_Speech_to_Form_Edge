@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Verbale di infrazione redatto dall'agente Silvia Neri. Data 30/10/2023. Ora 16:10. Infrazione: parcheggio su strisce pedonali. Luogo: Via Roma 77, Paderno. Veicolo:  Quel corsa. Targa: MN 123YH.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Silvia Neri. Data: 13/03/2025, ora: 06:17. Infrazione: parcheggio su strisce pedonali. Luogo: via Roma 77, Palermo. Veicolo: Opel Corsa, targa TR098YU.",
+  "time": 18.373015873015873,
+  "cost": 0.00022917619047619047,
+  "wer": 0.4230769230769231,
+  "cer": 0.14507772020725387,
+  "bleu_avg": 0.4116597006597375,
+  "rouge1_avg_f1": 0.7213114754098361,
+  "rougeL_avg_f1": 0.7213114754098361,
+  "levenshtein_avg": 29.0
+}

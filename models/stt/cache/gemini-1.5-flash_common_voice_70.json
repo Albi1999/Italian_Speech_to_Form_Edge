@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "F è una proteina periferica. F è una proteina integrale della membrana mitocondriale interna.\n",
+  "reference": "f è una proteina periferica, f una proteina integrale della membrana mitocondriale interna.",
+  "time": 8.964036281179139,
+  "cost": 0.00011236843537414966,
+  "wer": 0.3076923076923077,
+  "cer": 0.054945054945054944,
+  "bleu_avg": 0.5316967153331754,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 6.0
+}

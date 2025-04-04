@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Riproduci canzoni di Mina.\n",
+  "reference": "riproduci canzoni di mina",
+  "time": 2.709387755102041,
+  "cost": 0.0005718775510204082,
+  "wer": 0.5,
+  "cer": 0.12,
+  "bleu_avg": 0.16990442448471224,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 4.0
+}

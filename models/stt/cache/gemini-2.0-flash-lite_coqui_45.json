@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "In frazione riscontrata, sola rimozione. Posizione, corso Buenos Aires e in via. Ora, denti inzozzero, data, denti inforcherai, denti, denti fuere. Obo, per un foglio, taglia la sua forma un del 56. Agente, sarà bellì.\n",
+  "reference": "Infrazione riscontrata: zona rimozione. Posizione: corso Buenos Aires 98, Milano. Ora: 22:00, Data: 24/03/2025. Auto: Renault Clio, targa ZA456QP. Agente: Sara Bellini.",
+  "time": 18.341043083900228,
+  "cost": 0.00023119251700680273,
+  "wer": 1.4090909090909092,
+  "cer": 0.6488095238095238,
+  "bleu_avg": 0.028246833944778865,
+  "rouge1_avg_f1": 0.3,
+  "rougeL_avg_f1": 0.3,
+  "levenshtein_avg": 110.0
+}

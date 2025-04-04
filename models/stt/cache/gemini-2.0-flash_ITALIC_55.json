@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Ricette per preparare un pasto?",
+  "reference": "ricette per preparare un pasto",
+  "time": 3.0,
+  "cost": 0.0001132,
+  "wer": 0.4,
+  "cer": 0.06666666666666667,
+  "bleu_avg": 0.26591479484724945,
+  "rouge1_avg_f1": 1.0,
+  "rougeL_avg_f1": 1.0,
+  "levenshtein_avg": 2.0
+}

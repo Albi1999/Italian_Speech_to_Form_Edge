@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "L'agente Sara Bellini in servizio. Segnalazione di divieto di sosta,  le 7:50 del 10/07/2023, in corso Buenos Aires, in prossimità del civico 10. Mia auto coinvolta, con  sganciamento tag,  un danno di lieve entità.\n",
+  "reference": "Agente Sara Bellini in servizio. Segnalazione di divieto di sosta alle 07:52 del 25/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Volkswagen Golf, targa XY987ZT.",
+  "time": 16.931020408163267,
+  "cost": 0.0002139722448979592,
+  "wer": 0.8461538461538461,
+  "cer": 0.47126436781609193,
+  "bleu_avg": 0.2414053094414269,
+  "rouge1_avg_f1": 0.5373134328358208,
+  "rougeL_avg_f1": 0.5074626865671642,
+  "levenshtein_avg": 83.0
+}

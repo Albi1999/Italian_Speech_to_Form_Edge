@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Il giorno 6/10/2025 alle ore 22:31, è stata segnalata un'infrazione per parcheggio su strisce pedonali in Via Napoli, Fiv, Napoli. Veicolo coinvolto, Volkswagen Golf, targa 3000 TIU. Agente, Silvia Neri.",
+  "reference": "Il giorno 16/03/2025, alle ore 22:31, è stata segnalata un’infrazione per parcheggio su strisce pedonali in via Napoli 5, Napoli. Veicolo coinvolto: Volkswagen Golf, targa TR098YU. Agente: Silvia Neri.",
+  "time": 18.723038548752836,
+  "cost": 0.0006766509569160998,
+  "wer": 0.3103448275862069,
+  "cer": 0.08955223880597014,
+  "bleu_avg": 0.40101980029129386,
+  "rouge1_avg_f1": 0.8615384615384615,
+  "rougeL_avg_f1": 0.8615384615384615,
+  "levenshtein_avg": 18.0
+}

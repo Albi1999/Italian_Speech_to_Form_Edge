@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-flash",
+  "text": "Silenzio per due ore.\n",
+  "reference": "silenzia per due ore",
+  "time": 2.28,
+  "cost": 2.9159999999999995e-05,
+  "wer": 0.5,
+  "cer": 0.15,
+  "bleu_avg": 0.16990442448471224,
+  "rouge1_avg_f1": 0.75,
+  "rougeL_avg_f1": 0.75,
+  "levenshtein_avg": 4.0
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "agente sarà Bellini in servizio. Segnalazione di divieto di sosta dalle 6:00 che tende il 20 30 40 50 in corso buono sia reti per età. Via. Auto coinvolta, Toyota Yaris, targa Fumo 56.",
+  "reference": "Agente Sara Bellini in servizio. Segnalazione di divieto di sosta alle 07:13 del 25/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Toyota Yaris, targa ZA456QP.",
+  "time": 16.579002267573696,
+  "cost": 0.0006027808798185941,
+  "wer": 0.7692307692307693,
+  "cer": 0.2982456140350877,
+  "bleu_avg": 0.2575863752355164,
+  "rouge1_avg_f1": 0.5,
+  "rougeL_avg_f1": 0.5,
+  "levenshtein_avg": 51.0
+}

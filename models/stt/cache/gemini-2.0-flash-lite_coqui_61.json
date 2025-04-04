@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Verbale di infrazione redatto dall'agente Carlo Bruni. Data 21/03/2025, ora 10:00. Infrazione divieto di sosta. Luogo via Milano 24, Torino. Veicolo Volkswagen Golf, targa 3000 TGTU.\n",
+  "reference": "Verbale di infrazione redatto dall'agente Carlo Bruni. Data: 21/03/2025, ora: 02:10. Infrazione: divieto di sosta. Luogo: via Milano 24, Torino. Veicolo: Volkswagen Golf, targa TR098YU.",
+  "time": 18.66104308390023,
+  "cost": 0.00023233251700680274,
+  "wer": 0.32,
+  "cer": 0.08108108108108109,
+  "bleu_avg": 0.4138986255305135,
+  "rouge1_avg_f1": 0.9152542372881356,
+  "rougeL_avg_f1": 0.9152542372881356,
+  "levenshtein_avg": 16.0
+}

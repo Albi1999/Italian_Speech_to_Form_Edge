@@ -1,0 +1,13 @@
+{
+  "model": "gemini-1.5-pro",
+  "text": "Il giorno 13/02/2023 alle ore 22:28:13 è stata segnalata un'infrazione per parcheggio su strisce pedonali in via Napoli, 5, Napoli. Veicolo coinvolto: Volkswagen Targa TRN NTT. Agente: Silvia Neri.\n",
+  "reference": "Il giorno 16/03/2025, alle ore 22:31, è stata segnalata un’infrazione per parcheggio su strisce pedonali in via Napoli 5, Napoli. Veicolo coinvolto: Volkswagen Golf, targa TR098YU. Agente: Silvia Neri.",
+  "time": 18.723038548752836,
+  "cost": 0.0038996077097505667,
+  "wer": 0.2413793103448276,
+  "cer": 0.10945273631840796,
+  "bleu_avg": 0.4387328902288626,
+  "rouge1_avg_f1": 0.8,
+  "rougeL_avg_f1": 0.8,
+  "levenshtein_avg": 23.0
+}

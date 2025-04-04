@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "text": "Agente Sarabellini in servizio. Segnalazione di doppia fila alle Fora Tirti, R del Tirti 32025, in corso Buenos Aires Nineti e Ita, Milano. Auto coinvolta, Aldi A3, targa Fupa 34.",
+  "reference": "Agente Sara Bellini in servizio. Segnalazione di doppia fila alle 04:33 del 30/03/2025, in corso Buenos Aires 98, Milano. Auto coinvolta: Audi A3, targa FG234LM.",
+  "time": 17.283038548752835,
+  "cost": 0.0006259629569160998,
+  "wer": 0.56,
+  "cer": 0.2608695652173913,
+  "bleu_avg": 0.31584001432839137,
+  "rouge1_avg_f1": 0.6206896551724138,
+  "rougeL_avg_f1": 0.6206896551724138,
+  "levenshtein_avg": 42.0
+}

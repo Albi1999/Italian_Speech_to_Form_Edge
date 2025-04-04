@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash-lite",
+  "text": "Quanto fa 4 + 5?\n",
+  "reference": "quanto fa quattro più cinque",
+  "time": 2.88,
+  "cost": 3.666e-05,
+  "wer": 0.8,
+  "cer": 0.6071428571428571,
+  "bleu_avg": 0.05372849659117709,
+  "rouge1_avg_f1": 0.4444444444444445,
+  "rougeL_avg_f1": 0.4444444444444445,
+  "levenshtein_avg": 17.0
+}
