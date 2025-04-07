@@ -55,7 +55,10 @@ def save_dataset_results(results, dataset_name, model_name):
     df_metrics = df[available_metric_cols]
     df_metrics.to_csv(os.path.join(dataset_dir, f"{dataset_name}_{model_name}_metrics_only.csv"), index=False)
 
-    # Save summary (one row per dataset)
+    print(f"{dataset_name} Completed and saved at {dataset_dir}")
+    return df # Return the dataframe
+
+def generate_summary(df, dataset_name):
     summary = {
         "dataset": dataset_name,
         "model": df["model"].iloc[0],
@@ -79,21 +82,13 @@ def save_dataset_results(results, dataset_name, model_name):
         summary["levenshtein_avg"] = df["levenshtein_avg"].mean()
     else:
         summary["levenshtein_avg"] = None  # Or some default value
+    return summary
 
-    summary_path = os.path.join(OUTPUT_DIR, "summary_across_datasets.csv")
-    if os.path.exists(summary_path):
-        df_summary = pd.read_csv(summary_path)
-        df_summary = df_summary[df_summary["dataset"] != dataset_name]  # Remove existing if present
-        df_summary = pd.concat([df_summary, pd.DataFrame([summary])], ignore_index=True)
-    else:
-        df_summary = pd.DataFrame([summary])
-    df_summary.to_csv(summary_path, index=False)
-
-    print(f"{dataset_name} Completed and saved at {dataset_dir}")
 
 if __name__ == "__main__":
     # Initialize the DatasetLoader
     data_loader = DatasetLoader()
+    all_summaries = []  # List to store all summaries
 
     for dataset_name in DATASETS:
         print(f"\nProcessing dataset: {dataset_name}")
@@ -104,7 +99,19 @@ if __name__ == "__main__":
             model = Gemini(model_name)
             models.append(model)
             results = run_transcription(model, dataset, dataset_name)
-            save_dataset_results(results, dataset_name, model_name)
+            df = save_dataset_results(results, dataset_name, model_name) # Capture the returned DataFrame
+
+            # Generate the summary and append it to the list
+            summary = generate_summary(df, dataset_name)
+            all_summaries.append(summary)
+
             print(f"\nTotal cost for {model_name} on {dataset_name}: ${model.cost_estimate:.4f}")
+
+    # After processing all datasets and models, create and save the final summary
+    summary_path = os.path.join(OUTPUT_DIR, "summary_across_datasets.csv")
+    df_summary = pd.DataFrame(all_summaries)
+
+    df_summary.to_csv(summary_path, index=False)
+
     print("All datasets processed successfully.")
     print(f"Total cost for all models: ${sum([model.cost_estimate for model in models]):.4f}")
