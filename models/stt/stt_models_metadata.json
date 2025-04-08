@@ -1,27 +1,33 @@
 {
     "Whisper Tiny (OpenAI)": {
       "size_m": 39,
-      "language": "multilingual"
+      "language": "multilingual",
+      "disk_mb": 144
     },
     "Whisper Distilled IT (bofenghuang)": {
       "size_m": 756,
-      "language": "italian"
+      "language": "italian",
+      "disk_mb": 1420
     },
     "Faster Whisper Tiny (Turbo)": {
       "size_m": 39,
-      "language": "multilingual"
+      "language": "multilingual",
+      "disk_mb": 75
     },
     "Wav2Vec2 XLS-R 1B Italian Robust (DBDMG)": {
-      "size_m": 1000,
-      "language": "italian"
+      "size_m": 963,
+      "language": "italian",
+      "disk_mb": 3852
     },
     "Wav2Vec2 XLSR Italian (Grosman)": {
       "size_m": 315,
-      "language": "italian"
+      "language": "italian",
+      "disk_mb": 1200
     },
     "Wav2Vec2 XLSR Multilingual (voidful, 56 lang)": {
-      "size_m": 315,
-      "language": "multilingual"
+      "size_m": 326,
+      "language": "multilingual",
+      "disk_mb": 1300
     },
     "Vosk STT (Small IT)": {
     "size_m": 8,
