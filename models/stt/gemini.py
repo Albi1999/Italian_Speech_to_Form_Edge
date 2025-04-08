@@ -1,6 +1,7 @@
 import os
 import json
 import librosa
+import time
 
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage
@@ -44,6 +45,7 @@ class Gemini:
         cache_path = self.get_cache_path(dataset_name, sample_id) if dataset_name and sample_id else None
 
         # Try to load cached result
+        start = time.time()
         if cache_path and os.path.exists(cache_path):
             with open(cache_path, "r", encoding="utf-8") as f:
                 cached = json.load(f)
@@ -77,7 +79,7 @@ class Gemini:
                 "cost": 0.0
             }
 
-        duration = self.get_audio_duration(audio_path)
+        duration = time.time() - start
         audio_tokens = duration * self.audio_tokens_per_second
         input_tokens = self.count_tokens(input_text["text"])
         output_tokens = self.count_tokens(transcription)

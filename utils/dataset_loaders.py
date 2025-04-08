@@ -1,4 +1,3 @@
-# dataset_loaders.py
 from datasets import load_from_disk
 import random
 import torch
@@ -9,7 +8,7 @@ import sys
 import numpy as np
 import librosa
 
-from .data_utils import load_audio
+from .data_utils import load_audio_array
 
 class DatasetLoader:
     def __init__(self, sr=16000, seed=42):
@@ -75,7 +74,7 @@ class DatasetLoader:
             audio_array = sample["audio"]["array"]
             audio_path = os.path.join(AUDIO_DIR, f"audio_{i}.wav")
             
-            audio, _ = load_audio(audio_array, sr=self.sr)  # Use load_audio from data_utils
+            audio, _ = load_audio_array(audio_array, sr=self.sr)  # Use load_audio from data_utils
             audio = torch.tensor(audio).unsqueeze(0)
             torchaudio.save(audio_path, audio, self.sr)  # Use self.sr
             exported_samples.append({

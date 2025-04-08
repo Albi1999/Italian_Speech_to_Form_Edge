@@ -18,7 +18,7 @@ def run_synthetic_dataset():
     # Initialize DatasetLoader
     data_loader = DatasetLoader()
 
-    samples = data_loader.load_dataset("synthetic", samples_per_dataset=50)
+    samples = data_loader.load_dataset("synthetic", samples_per_dataset=100)
 
     models = [
         WhisperTiny(), 

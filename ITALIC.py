@@ -1,8 +1,3 @@
-from datasets import load_from_disk
-import random
-import torchaudio
-import torch
-import os
 import json
 import pandas as pd
 from tqdm import tqdm
@@ -27,7 +22,7 @@ def ITALIC():
     DATASET_CONFIG = "massive"
     DATASET_DIR = f"data/datasets/{DATASET_NAME}_{DATASET_CONFIG}"
     SAMPLE_EXPORT_PATH = f"{DATASET_DIR}/test_samples.json"
-    NUM_SAMPLES = 50
+    NUM_SAMPLES = 100
 
     # Load dataset using DatasetLoader
     samples = data_loader.load_dataset("ITALIC", NUM_SAMPLES)

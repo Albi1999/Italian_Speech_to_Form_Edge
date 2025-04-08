@@ -1,5 +1,5 @@
 model,text,reference,time,cost,wer,cer,bleu_avg,rouge1_avg_f1,rougeL_avg_f1,levenshtein_avg
-gemini-2.0-flash,Segna il prossimo lunedì.,segna il prossimo lunedì,2.82,0.00010646399999999999,0.5,0.08333333333333333,0.16990442448471224,1.0,1.0,2.0
+gemini-2.0-flash,Segna il prossimo lunedì.,segna il prossimo lunedì,0.9428973197937012,4.038998565673828e-05,0.5,0.08333333333333333,0.16990442448471224,1.0,1.0,2.0
 gemini-2.0-flash,Riproduci la lista delle mie canzoni più ascoltate.,riproduci la lista delle mie canzoni più ascoltate,3.06,0.00011651200000000001,0.25,0.04,0.6803749333171202,1.0,1.0,2.0
 gemini-2.0-flash,Disattiva la sveglia delle 15.,disattiva la sveglia delle quindici,3.18,0.000119536,0.4,0.2571428571428571,0.26591479484724945,0.8000000000000002,0.8000000000000002,9.0
 gemini-2.0-flash,"Cancella sveglia.

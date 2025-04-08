@@ -6,7 +6,7 @@ from langchain_core.messages import HumanMessage
 from utils import AudioEncoder  # Assuming you have this
 
 # Constants
-AUDIO_PATH = "common_voice_it_42491529.mp3"
+AUDIO_PATH = "data\datasets\cv-corpus-21.0-delta-2025-03-14\it\clipscommon_voice_it_42491529.mp3"
 AUDIO_DURATION = 15  # Average audio duration in seconds
 AUDIO_TOKENS_PER_SECOND = 32  # From the Google AI Documentation
 

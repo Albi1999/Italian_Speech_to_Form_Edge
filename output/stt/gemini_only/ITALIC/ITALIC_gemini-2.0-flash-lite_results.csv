@@ -1,6 +1,6 @@
 model,text,reference,time,cost,wer,cer,bleu_avg,rouge1_avg_f1,rougeL_avg_f1,levenshtein_avg
 gemini-2.0-flash-lite,"Segna il prossimo lunedì.
-",segna il prossimo lunedì,2.82,3.564e-05,0.5,0.08333333333333333,0.16990442448471224,1.0,1.0,3.0
+",segna il prossimo lunedì,1.2504651546478271,1.6805581855773926e-05,0.5,0.08333333333333333,0.16990442448471224,1.0,1.0,3.0
 gemini-2.0-flash-lite,"Riproduci la lista delle mie canzoni più ascoltate.
 ",riproduci la lista delle mie canzoni più ascoltate,3.06,3.9720000000000006e-05,0.25,0.04,0.6803749333171202,1.0,1.0,3.0
 gemini-2.0-flash-lite,"Disattiva la sveglia delle quindici.

@@ -1,16 +1,16 @@
 [
   {
     "model": "gemini-1.5-pro",
-    "text": "Agente Silvia Neri in servizio. Segnalazione di divieto di sosta al leone,  one del Forte tra le 20:25 in via Roma 77, Palermo. Auto coinvolta,  Volkswagen Jetta, targa  ZA450RFC.\n",
+    "text": "Agente Silvia Neri in servizio. Segnalazione di divieto di sosta al leone,  one del Forte tra le 20:25 in via Roma 77, Palermo. Auto coinvolta,  Volkswagen Jango, targa ZAFUR  45C.\n",
     "reference": "Agente Silvia Neri in servizio. Segnalazione di divieto di sosta alle 01:01 del 14/03/2025, in via Roma 77, Palermo. Auto coinvolta: Volkswagen Golf, targa ZA456QP.",
-    "time": 15.90702947845805,
-    "cost": 0.00333640589569161,
-    "wer": 0.4,
-    "cer": 0.22560975609756098,
-    "bleu_avg": 0.4864547353242454,
-    "rouge1_avg_f1": 0.689655172413793,
-    "rougeL_avg_f1": 0.689655172413793,
-    "levenshtein_avg": 38.0
+    "time": 2.4778847694396973,
+    "cost": 0.0006555769538879395,
+    "wer": 0.44,
+    "cer": 0.24390243902439024,
+    "bleu_avg": 0.4693593336493433,
+    "rouge1_avg_f1": 0.6779661016949152,
+    "rougeL_avg_f1": 0.6779661016949152,
+    "levenshtein_avg": 41.0
   },
   {
     "model": "gemini-1.5-pro",

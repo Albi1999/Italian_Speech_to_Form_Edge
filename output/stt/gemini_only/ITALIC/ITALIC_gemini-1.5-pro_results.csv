@@ -1,6 +1,6 @@
 model,text,reference,time,cost,wer,cer,bleu_avg,rouge1_avg_f1,rougeL_avg_f1,levenshtein_avg
 gemini-1.5-pro,"Segna il prossimo lunedì.
-",segna il prossimo lunedì,2.82,0.0005939999999999999,0.5,0.08333333333333333,0.16990442448471224,1.0,1.0,3.0
+",segna il prossimo lunedì,1.2645530700683594,0.00028291061401367187,0.5,0.08333333333333333,0.16990442448471224,1.0,1.0,3.0
 gemini-1.5-pro,"Riproduci la lista delle mie canzoni più ascoltate.
 Pi...
 ",riproduci la lista delle mie canzoni più ascoltate,3.06,0.000667,0.25,0.16,0.5873949094699213,0.9411764705882353,0.9411764705882353,9.0

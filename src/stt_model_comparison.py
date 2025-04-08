@@ -2,12 +2,18 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import MinMaxScaler
+import sys
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from utils import STTComparison
 
 # Configuration
 root_path = "output/stt"
 target_filename = "metrics_summary.csv"
-output_dir = root_path
-metrics_to_minimize = ['wer_mean', 'cer_mean', 'time_mean', 'size_m_first']
+output_dir = os.path.join(root_path, "comparison")
+os.makedirs(output_dir, exist_ok=True)
+metrics_to_minimize = ['wer_mean', 'cer_mean', 'time_mean', 'size_m_first', 'levenshtein_avg_mean']
 metrics_to_maximize = ['bleu_avg_mean', 'rouge1_avg_f1_mean']
 id_column = 'model'
 
@@ -43,6 +49,7 @@ agg_df = df_norm.groupby(id_column).agg({
     'cer_mean': 'mean',
     'bleu_avg_mean': 'mean',
     'rouge1_avg_f1_mean': 'mean',
+    'levenshtein_avg_mean': 'mean',
     'time_mean': 'mean',
     'size_m_first': 'mean',
     'dataset': 'count'
@@ -100,3 +107,10 @@ scatterplot_path = os.path.join(output_dir, "size_time_wer_plot.png")
 plt.savefig(scatterplot_path, dpi=300)
 plt.close()
 print(f"Saved scatter plot to {scatterplot_path}")
+
+# Comparison with Gemini models
+comparison = STTComparison()
+comparison.run_comparisons()
+
+print("\nFinal Comparison summary (with Gemini models):")
+print(comparison.combine_data())

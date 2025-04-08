@@ -18,9 +18,7 @@ from utils import (DatasetLoader,
 def run_coqui_dataset():
     # Initialize DatasetLoader
     data_loader = DatasetLoader()
-
-    samples = data_loader.load_dataset("coqui", samples_per_dataset=50)
-
+    samples = data_loader.load_dataset("coqui", samples_per_dataset=100)
     models = [
         WhisperTiny(), 
         WhisperItaDistilled(), 
@@ -37,8 +35,9 @@ def run_coqui_dataset():
         reference = sample["sentence"]
         for model in models:
             result = model.transcribe(audio_path, reference)
-            result["coqui_model"] = sample["coqui_model"]
-            result["speaker_gender"] = sample["speaker_gender"]
+            # Use `get` with default values to avoid KeyErrors
+            result["coqui_model"] = sample.get("coqui_model", "unknown")
+            result["speaker_gender"] = sample.get("speaker_gender", "unknown")
             results.append(result)
 
     df = pd.DataFrame(results)

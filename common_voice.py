@@ -1,3 +1,4 @@
+from weakref import ref
 from tqdm import tqdm
 import pandas as pd
 import json
@@ -18,7 +19,7 @@ def common_voice():
     # Initialize DatasetLoader
     data_loader = DatasetLoader()
 
-    test_samples = data_loader.load_dataset("common_voice", samples_per_dataset=50)
+    test_samples = data_loader.load_dataset("common_voice", samples_per_dataset=100)
     models = [WhisperTiny(), 
             WhisperItaDistilled(), 
             FasterWhisper(),
@@ -30,9 +31,11 @@ def common_voice():
 
     all_results = []
 
-    for audio_path, ground_truth in tqdm(test_samples, desc="Processing samples"):
+    for sample in tqdm(test_samples, "Processing samples"):
+        audio_path = sample['path']
+        reference = sample['sentence']
         for model in models:
-            result = model.transcribe(audio_path, ground_truth)
+            result = model.transcribe(audio_path, reference)
             all_results.append(result)
 
     df = pd.DataFrame(all_results)

@@ -1,6 +1,6 @@
 model,text,reference,time,cost,wer,cer,bleu_avg,rouge1_avg_f1,rougeL_avg_f1,levenshtein_avg
 gemini-1.5-pro,"Anche Yu poi si ribellò a Shun e lo bandì dal regno.
-",anche yu poi si ribellò a shun e lo bandì dal regno.,5.148027210884353,0.0010996054421768707,0.25,0.057692307692307696,0.53107253497887,1.0,1.0,4.0
+",anche yu poi si ribellò a shun e lo bandì dal regno.,1.15830659866333,0.00030166131973266607,0.25,0.057692307692307696,0.53107253497887,1.0,1.0,4.0
 gemini-1.5-pro,"Sono presenti alcuni plastici riproducenti battaglie medievali tra lucchesi e modenesi risalenti al Medioevo.
 ",sono presenti alcuni plastici riproducenti battaglie medioevali tra lucchesi e modenesi risalenti al medioevo.,8.1,0.0016999999999999997,0.21428571428571427,0.02727272727272727,0.6162607099729586,0.9285714285714286,0.9285714285714286,4.0
 gemini-1.5-pro,"L'ex Beatle ha suonato tutti gli strumenti nella canzone.
