@@ -10,6 +10,8 @@ import librosa
 
 from .data_utils import load_audio_array
 
+from .load_commonvoice import load_commonvoice_subset as load_cv
+
 class DatasetLoader:
     def __init__(self, sr=16000, seed=42):
         """
@@ -74,9 +76,9 @@ class DatasetLoader:
             audio_array = sample["audio"]["array"]
             audio_path = os.path.join(AUDIO_DIR, f"audio_{i}.wav")
             
-            audio, _ = load_audio_array(audio_array, sr=self.sr)  # Use load_audio from data_utils
+            audio, _ = load_audio_array(audio_array, sr=self.sr)
             audio = torch.tensor(audio).unsqueeze(0)
-            torchaudio.save(audio_path, audio, self.sr)  # Use self.sr
+            torchaudio.save(audio_path, audio, self.sr)
             exported_samples.append({
                 "path": audio_path,
                 "sentence": sample["utt"]
@@ -85,7 +87,6 @@ class DatasetLoader:
 
     def load_commonvoice_subset(self, max_samples=100):
         """Loads a subset of the Common Voice dataset."""
-        from .load_commonvoice import load_commonvoice_subset as load_cv
 
         samples = load_cv(max_samples=max_samples)
         formatted_samples = []

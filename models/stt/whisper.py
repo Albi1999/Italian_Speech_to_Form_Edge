@@ -21,7 +21,7 @@ class BaseWhisperModel:
 class WhisperTiny(BaseWhisperModel):
     def __init__(self):
         self.name = "Whisper Tiny (OpenAI)"
-        # Use base model for multilingual support
+        # Base model for multilingual support
         self.processor = AutoProcessor.from_pretrained("openai/whisper-tiny")
         self.model = AutoModelForSpeechSeq2Seq.from_pretrained(
             "openai/whisper-tiny",
@@ -104,9 +104,9 @@ class FasterWhisper(BaseWhisperModel):
         segments, _ = self.model.transcribe(
             audio_path, 
             language="it",
-            vad_filter=False, # Disable VAD for faster processing
-            beam_size=3,      # Smaller beam for mobile
-            temperature=0     # Deterministic results
+            vad_filter=False,
+            beam_size=3,
+            temperature=0
         )
         
         text = " ".join([seg.text for seg in segments]).lower()

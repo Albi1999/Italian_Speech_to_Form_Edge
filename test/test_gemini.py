@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage
 
-from utils import AudioEncoder  # Assuming you have this
+from utils import AudioEncoder
 
 # Constants
 AUDIO_PATH = "data\datasets\cv-corpus-21.0-delta-2025-03-14\it\clipscommon_voice_it_42491529.mp3"
@@ -115,9 +115,9 @@ for model_name in MODELS_TO_TEST:
             "tokens_per_second_output_split": tokens_per_second_output_split,
             "cost": total_cost
         }
-        total_operation_cost += total_cost # Add the cost to the sum
+        total_operation_cost += total_cost
     else:
-        model_results[model_name] = None # Handle error for the model
+        model_results[model_name] = None
 
 # Print Summary
 print("\n--- Summary ---")

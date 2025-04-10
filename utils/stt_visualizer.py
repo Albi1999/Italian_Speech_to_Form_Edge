@@ -335,7 +335,7 @@ class STTVisualizer:
             "Language Support"
         )
         
-        # 5. Size comparisons if requested
+        # 5. Size comparisons if needed
         if categorize_by_size:
             grouped["size_category"] = grouped["size_m_first"].apply(
                 lambda x: "small" if x < 100 else "large"

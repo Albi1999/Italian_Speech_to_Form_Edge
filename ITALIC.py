@@ -59,7 +59,6 @@ def ITALIC():
 
     results = []
     for i, audio_path in enumerate(tqdm(audio_paths, desc="Processing samples")):
-        # Transcribe the audio file using the model
         for model in models:
             # Transcribe the audio file using the model
             result = model.transcribe(audio_path, references[i])

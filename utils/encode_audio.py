@@ -13,7 +13,7 @@ class AudioEncoder:
             str: The Base64 encoded audio data, or None if an error occurs.
         """
         try:
-            #Check file size
+            # Check file size
             file_size_bytes = os.path.getsize(self.file_path)
             max_size_bytes = 10 * 1024 * 1024 # 10MB limit
             if file_size_bytes > max_size_bytes:

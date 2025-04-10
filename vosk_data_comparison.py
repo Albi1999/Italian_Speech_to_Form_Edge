@@ -26,7 +26,7 @@ def save_dataset_results(results, dataset_name):
     df_metrics = df[available_metric_cols]
     df_metrics.to_csv(os.path.join(dataset_dir, f"{dataset_name}_metrics_only.csv"), index=False)
 
-    # Save summary (one row per dataset)
+    # Save summary
     summary = {
         "dataset": dataset_name,
         "model": df["model"].iloc[0],

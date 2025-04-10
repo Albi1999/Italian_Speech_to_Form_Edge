@@ -1,4 +1,4 @@
-# Pricing Information (USD per 1,000,000 tokens) - November 2024
+# Pricing Information (USD per 1,000,000 tokens)
 PRICING = {
     "gemini-2.0-flash": {"input": 0.70, "output": 0.40},
     "gemini-2.0-flash-lite": {"input": 0.075, "output": 0.30},
@@ -52,6 +52,6 @@ for model_name in ESTIMATED_TOKENS:
         if cost is not None:
             print(f"  {num_samples} samples: ${cost:.4f}")
         else:
-            print(f"  {num_samples} samples: Cost estimation failed.") #Handle error gracefully
+            print(f"  {num_samples} samples: Cost estimation failed.")
 
 print("Finished.")

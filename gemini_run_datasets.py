@@ -33,7 +33,7 @@ def run_transcription(model, dataset, dataset_name):
     for idx, sample in enumerate(tqdm(dataset, desc=f"Running {model.model_name}")):
         path = sample["path"]
         # Check if "sentence" exists, if not, use "text"
-        reference = sample.get("sentence") or sample.get("text")  # Try to load sentence, if it is not load text
+        reference = sample.get("sentence") or sample.get("text")
         result = model.transcribe(path, reference, dataset_name=dataset_name, sample_id=idx)
         results.append(result)
     return results
@@ -56,7 +56,7 @@ def save_dataset_results(results, dataset_name, model_name):
     df_metrics.to_csv(os.path.join(dataset_dir, f"{dataset_name}_{model_name}_metrics_only.csv"), index=False)
 
     print(f"{dataset_name} Completed and saved at {dataset_dir}")
-    return df # Return the dataframe
+    return df
 
 def generate_summary(df, dataset_name):
     summary = {
@@ -64,26 +64,12 @@ def generate_summary(df, dataset_name):
         "model": df["model"].iloc[0],
         "wer": df["wer"].mean(),
         "cer": df["cer"].mean(),
-        "time": df["time"].mean()
+        "time": df["time"].mean(),
+        "bleu_avg": df["bleu_avg"].mean(),
+        "rouge1_avg_f1": df["rouge1_avg_f1"].mean(),
+        "levenshtein_avg": df["levenshtein_avg"].mean()
     }
-
-    # Conditionally add bleu_avg, rouge1_avg_f1, levenshtein_avg to the summary if they exist
-    if "bleu_avg" in df.columns:
-        summary["bleu_avg"] = df["bleu_avg"].mean()
-    else:
-        summary["bleu_avg"] = None  # Or some default value
-
-    if "rouge1_avg_f1" in df.columns:
-        summary["rouge1_avg_f1"] = df["rouge1_avg_f1"].mean()
-    else:
-        summary["rouge1_avg_f1"] = None  # Or some default value
-
-    if "levenshtein_avg" in df.columns:
-        summary["levenshtein_avg"] = df["levenshtein_avg"].mean()
-    else:
-        summary["levenshtein_avg"] = None  # Or some default value
     return summary
-
 
 if __name__ == "__main__":
     # Initialize the DatasetLoader

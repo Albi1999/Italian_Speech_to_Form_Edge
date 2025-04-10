@@ -1,0 +1,91 @@
+{
+    "title": "Traffic Violation Form - Violation Info",
+    "requested_infos": [
+        {
+            "title": "contestazione_immediata",
+            "description": "Immediate contestation (true/false)",
+            "type": "text",
+            "accepted_values": ["contestazione immediata", "mancata contestazione"],
+            "example": "mancata contestazione"
+        },
+        {
+            "title": "motivo_mancata_contestazione",
+            "description": "Reason for missed contestation",
+            "type": "text",
+            "accepted_values": null,
+            "example": "assenza del trasgressore"
+        },
+        {
+            "title": "violazioni",
+            "description": "Details of the violations",
+            "max_length": -1,
+            "content": [
+                {
+                    "title": "codice",
+                    "description": "Law code violated",
+                    "type": "text",
+                    "accepted_values": ["civile", "penale", "stradale"],
+                    "example": "stradale"
+                },
+                {
+                    "title": "articolo",
+                    "description": "Article violated",
+                    "type": "text",
+                    "accepted_values": null,
+                    "example": "6"
+                },
+                {
+                    "title": "comma",
+                    "description": "Comma of the article",
+                    "type": "text",
+                    "accepted_values": null,
+                    "example": "1a(1-12)"
+                },
+                {
+                    "title": "sanzione_accessoria",
+                    "description": "Accessory sanction (true/false)",
+                    "type": "text",
+                    "accepted_values": ["con sanzione accessoria", "senza sanzione accessoria"],
+                    "example": "con sanzione accessoria"
+                }
+            ]
+        },
+        {
+            "title": "punti",
+            "description": "Points deducted",
+            "type": "number",
+            "accepted_values": null,
+            "example": "5"
+        },
+        {
+            "title": "dichiarazioni",
+            "description": "Declarations made by the violator",
+            "type": "text",
+            "accepted_values": null,
+            "example": "Ho rispettato il codice della strada"
+        },
+        {
+            "title": "tipo_stampa",
+            "description": "How he wants to print (Bluetooth/WIFI)",
+            "type": "text",
+            "accepted_values": ["bluetooth", "wifi"],
+            "example": "bluetooth"
+        },
+        {
+            "title": "lingua_stampa",
+            "description": "Print language",
+            "type": "text",
+            "accepted_values": ["italiano"],
+            "example": "italiano"
+        },
+        {
+            "title": "stampa_anche_comunicazione",
+            "description": "Print also communication (true/false)",
+            "type": "text",
+            "accepted_values": ["stampa anche la comunicazione", "non stampare anche la comunicazione"],
+            "example": "non stampare anche la comunicazione"
+        }
+    ],
+    "topic": "Violation Information",
+    "advanced_pdf": false
+}

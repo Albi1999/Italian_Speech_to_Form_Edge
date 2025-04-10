@@ -93,7 +93,6 @@ plt.ylabel('Execution Time (s)', fontsize=12)
 plt.title('Model Trade-Off: Size vs Time (Color = WER)', fontsize=14)
 plt.colorbar(scatter, label='WER (mean)')
 
-# Annotate points
 for i, model in enumerate(agg_df.index):
     x = agg_df['size_m_first'].iloc[i]
     y = agg_df['time_mean'].iloc[i]
@@ -108,7 +107,7 @@ plt.savefig(scatterplot_path, dpi=300)
 plt.close()
 print(f"Saved scatter plot to {scatterplot_path}")
 
-# Comparison with Gemini models
+# Comparison with Gemini models ----
 comparison = STTComparison()
 comparison.run_comparisons()
 

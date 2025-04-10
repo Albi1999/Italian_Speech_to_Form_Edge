@@ -7,7 +7,7 @@ def load_audio_array(audio_input, sr=16000):
         raise ValueError("Invalid parameter type. Parameter type must be a numpy array")
     elif isinstance(audio_input, np.ndarray):
         audio = audio_input
-        sample_rate = sr  # Assume the desired sample rate if not provided
+        sample_rate = sr  
     else:
         raise ValueError("audio_input must be a file path (str) or a numpy array.")
 

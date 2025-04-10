@@ -1,0 +1,49 @@
+{
+    "title": "Traffic Violation Form - General Info",
+    "requested_infos": [
+        {
+            "title": "verbale_preavviso",
+            "description": "Indicates whether it is a verbale or preavviso",
+            "type": "text",
+            "accepted_values": ["verbale", "preavviso"],
+            "example": "verbale"
+        },
+        {
+            "title": "data_violazione",
+            "description": "Date of the violation",
+            "type": "date",
+            "accepted_values": null,
+            "example": "09/04/2025"
+        },
+        {
+            "title": "ora_violazione",
+            "description": "Time of the violation",
+            "type": "text",
+            "accepted_values": null,
+            "example": "14:30"
+        },
+        {
+            "title": "data_verbalizzazione",
+            "description": "Date of verbalization (if contested on site)",
+            "type": "date",
+            "accepted_values": null,
+            "example": "09/04/2025"
+        },
+        {
+            "title": "ora_verbalizzazione",
+            "description": "Time of verbalization (if contested on site)",
+            "type": "text",
+            "accepted_values": null,
+            "example": "14:45"
+        },
+        {
+            "title": "luogo_verbalizzazione",
+            "description": "Place of verbalization",
+            "type": "text",
+            "accepted_values": null,
+            "example": "piazza maggiore, bologna"
+        }
+    ],
+    "topic": "General Information",
+    "advanced_pdf": false
+}
