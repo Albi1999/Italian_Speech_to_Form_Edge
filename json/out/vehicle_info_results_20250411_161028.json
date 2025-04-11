@@ -1,0 +1,18 @@
+{
+    "summary": "Il documento descrive un'infrazione emessa il 24/03/2025 alle ore 03:55 per un veicolo Renault Clio, un ciclomotore immatricolato in Italia con targa UV654WX di tipo speciale. L'infrazione \u00e8 avvenuta a piazza Venezia, Roma, per violazione del codice civile, articolo 7, comma 5, riguardante il parcheggio in doppia fila. \u00c8 prevista la decurtazione di 1 punto e l'applicazione di una sanzione accessoria. Non sono richiesti ulteriori dettagli sul ciclomotore. La notifica deve essere stampata tramite bluetooth italiano, inclusa la comunicazione.",
+    "report": {
+        "veicolo": [
+            {
+                "tipologia": "ciclomotore",
+                "nazione": "italia",
+                "targa": "UV654WX",
+                "tipologia_targa": "speciale",
+                "marca_modello": "Renault Clio",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ]
+    }
+}

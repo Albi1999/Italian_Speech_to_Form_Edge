@@ -10,7 +10,7 @@ from tqdm import tqdm
 class SyntheticDatasetGenerator:
     def __init__(
         self,
-        output_dir="data/synthetic_datasets/google",
+        output_dir="data/synthetic_datasets",
         num_samples=100,
         lang="it",
         seed=42

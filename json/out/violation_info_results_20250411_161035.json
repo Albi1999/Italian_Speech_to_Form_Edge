@@ -1,0 +1,20 @@
+{
+    "summary": "Il documento descrive un'infrazione commessa il 24/03/2025 alle ore 03:55 da un veicolo Renault Clio con targa UV654WX presso piazza Venezia, Roma. L'infrazione riguarda il parcheggio in doppia fila, violando il codice civile, articolo 7, comma 5. \u00c8 prevista la decurtazione di 1 punto e l'applicazione di una sanzione accessoria. La stampa della notifica deve avvenire tramite Bluetooth in italiano, includendo anche la comunicazione.",
+    "report": {
+        "contestazione_immediata": null,
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "civile",
+                "articolo": "7",
+                "comma": "5",
+                "sanzione_accessoria": "con sanzione accessoria"
+            }
+        ],
+        "punti": 1,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    }
+}

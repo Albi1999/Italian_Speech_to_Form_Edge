@@ -1,0 +1,419 @@
+{
+  "$defs": {
+    "AnagraficaPersonaFisica": {
+      "properties": {
+        "denominazione": {
+          "title": "Denominazione",
+          "type": "string"
+        },
+        "codice_fiscale": {
+          "title": "Codice Fiscale",
+          "type": "string"
+        }
+      },
+      "required": [
+        "denominazione",
+        "codice_fiscale"
+      ],
+      "title": "AnagraficaPersonaFisica",
+      "type": "object"
+    },
+    "Anagrafiche": {
+      "properties": {
+        "persona_fisica": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/AnagraficaPersonaFisica"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "persona_giuridica": {
+          "anyOf": [
+            {
+              "type": "object"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Persona Giuridica"
+        },
+        "documento": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/Documento"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        }
+      },
+      "title": "Anagrafiche",
+      "type": "object"
+    },
+    "Documento": {
+      "properties": {
+        "tipo_documento": {
+          "title": "Tipo Documento",
+          "type": "string"
+        },
+        "numero_documento": {
+          "title": "Numero Documento",
+          "type": "string"
+        }
+      },
+      "required": [
+        "tipo_documento",
+        "numero_documento"
+      ],
+      "title": "Documento",
+      "type": "object"
+    },
+    "Veicolo": {
+      "properties": {
+        "tipologia": {
+          "enum": [
+            "autovettura",
+            "camion",
+            "ciclomotore",
+            "motoveicolo",
+            "rimorchio",
+            "macchina agricola",
+            "macchina operatrice"
+          ],
+          "title": "Tipologia",
+          "type": "string"
+        },
+        "nazione": {
+          "title": "Nazione",
+          "type": "string"
+        },
+        "targa": {
+          "title": "Targa",
+          "type": "string"
+        },
+        "tipologia_targa": {
+          "enum": [
+            "ufficiale",
+            "speciale",
+            "prova",
+            "copertura"
+          ],
+          "title": "Tipologia Targa",
+          "type": "string"
+        },
+        "marca_modello": {
+          "title": "Marca Modello",
+          "type": "string"
+        },
+        "colore": {
+          "title": "Colore",
+          "type": "string"
+        },
+        "telaio": {
+          "title": "Telaio",
+          "type": "string"
+        },
+        "massa": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Massa"
+        },
+        "note_veicolo": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Note Veicolo"
+        }
+      },
+      "required": [
+        "tipologia",
+        "nazione",
+        "targa",
+        "tipologia_targa",
+        "marca_modello",
+        "colore",
+        "telaio"
+      ],
+      "title": "Veicolo",
+      "type": "object"
+    },
+    "Violazioni": {
+      "properties": {
+        "codice": {
+          "title": "Codice",
+          "type": "string"
+        },
+        "articolo": {
+          "title": "Articolo",
+          "type": "string"
+        },
+        "comma": {
+          "title": "Comma",
+          "type": "string"
+        },
+        "sanzione_accessoria": {
+          "title": "Sanzione Accessoria",
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "codice",
+        "articolo",
+        "comma",
+        "sanzione_accessoria"
+      ],
+      "title": "Violazioni",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "verbale_preavviso": {
+      "enum": [
+        "verbale",
+        "preavviso"
+      ],
+      "title": "Verbale Preavviso",
+      "type": "string"
+    },
+    "data_violazione": {
+      "format": "date",
+      "title": "Data Violazione",
+      "type": "string"
+    },
+    "ora_violazione": {
+      "format": "time",
+      "title": "Ora Violazione",
+      "type": "string"
+    },
+    "data_verbalizzazione": {
+      "anyOf": [
+        {
+          "format": "date",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Data Verbalizzazione"
+    },
+    "ora_verbalizzazione": {
+      "anyOf": [
+        {
+          "format": "time",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Ora Verbalizzazione"
+    },
+    "luogo_verbalizzazione": {
+      "title": "Luogo Verbalizzazione",
+      "type": "string"
+    },
+    "strada_1": {
+      "title": "Strada 1",
+      "type": "string"
+    },
+    "civico_1": {
+      "title": "Civico 1",
+      "type": "string"
+    },
+    "strada_2": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Strada 2"
+    },
+    "civico_2": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Civico 2"
+    },
+    "civico_esteso": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Civico Esteso"
+    },
+    "veicolo": {
+      "$ref": "#/$defs/Veicolo"
+    },
+    "contestazione_immediata": {
+      "title": "Contestazione Immediata",
+      "type": "boolean"
+    },
+    "motivo_mancata_contestazione": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Motivo Mancata Contestazione"
+    },
+    "descrizione_mancata_contestazione": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Descrizione Mancata Contestazione"
+    },
+    "violazioni": {
+      "items": {
+        "$ref": "#/$defs/Violazioni"
+      },
+      "title": "Violazioni",
+      "type": "array"
+    },
+    "punti": {
+      "title": "Punti",
+      "type": "integer"
+    },
+    "motivazioni": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Motivazioni"
+    },
+    "dichiarazioni": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Dichiarazioni"
+    },
+    "annotazioni": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Annotazioni"
+    },
+    "tipo_stampa": {
+      "enum": [
+        "bluetooth",
+        "wifi"
+      ],
+      "title": "Tipo Stampa",
+      "type": "string"
+    },
+    "lingua_stampa": {
+      "const": "italiano",
+      "title": "Lingua Stampa",
+      "type": "string"
+    },
+    "stampa_anche_comunicazione": {
+      "title": "Stampa Anche Comunicazione",
+      "type": "boolean"
+    },
+    "trasgressore_acconsente": {
+      "anyOf": [
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Trasgressore Acconsente"
+    },
+    "anagrafiche": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/Anagrafiche"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null
+    }
+  },
+  "required": [
+    "verbale_preavviso",
+    "data_violazione",
+    "ora_violazione",
+    "luogo_verbalizzazione",
+    "strada_1",
+    "civico_1",
+    "veicolo",
+    "contestazione_immediata",
+    "violazioni",
+    "punti",
+    "tipo_stampa",
+    "lingua_stampa",
+    "stampa_anche_comunicazione"
+  ],
+  "title": "TrafficViolationForm",
+  "type": "object"
+}
