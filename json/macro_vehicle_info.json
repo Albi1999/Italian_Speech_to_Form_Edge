@@ -1,75 +1,77 @@
 {
-    "document": "Il 24/03/2025, alle ore 03:55, sto emettendo una notifica di infrazione per il veicolo Renault Clio, ciclomotore immatricolato in italia con targa UV654WX di tipo speciale. L'infrazione si è verificata presso piazza Venezia, al civico Roma, violando il codice civile, in particolare l'articolo 7, comma 5 riguardante il parcheggio in doppia fila Devo decurtare 1 punti. Applico una sanzione accessoria in base alle circostanze. Non sono necessari ulteriori dettagli sul ciclomotore. Stampamelo con il bluetooth italiano, stampa anche la comunicazione.",
     "requested_informations": [
         {
             "title": "veicolo",
             "description": "Vehicle details",
-            "max_length": -1,
-            "content": [
-                {
-                    "title": "tipologia",
-                    "description": "Type of vehicle",
-                    "type": "text",
-                    "accepted_values": ["ciclomotore", "motoveicolo", "autovettura", "rimorchio", "macchina agricola", "macchina operatrice"],
-                    "example": "autovettura"
-                },
-                {
-                    "title": "nazione",
-                    "description": "Country of the license plate",
-                    "type": "text",
-                    "accepted_values": null,
-                    "example": "italia"
-                },
-                {
-                    "title": "targa",
-                    "description": "License plate of the vehicle",
-                    "type": "text",
-                    "accepted_values": null,
-                    "example": "AB123CD"
-                },
-                {
-                    "title": "tipologia_targa",
-                    "description": "Type of license plate",
-                    "type": "text",
-                    "accepted_values": ["ufficiale", "speciale", "prova", "copertura"],
-                    "example": "ufficiale"
-                },
-                {
-                    "title": "marca_modello",
-                    "description": "Brand and/or model of the vehicle",
-                    "type": "text",
-                    "accepted_values": null,
-                    "example": "fiat panda"
-                },
-                {
-                    "title": "colore",
-                    "description": "Color of the vehicle",
-                    "type": "text",
-                    "accepted_values": null,
-                    "example": "rosso"
-                },
-                {
-                    "title": "telaio",
-                    "description": "Chassis number of the vehicle",
-                    "type": "text",
-                    "accepted_values": null,
-                    "example": "12345678901234567"
-                },
-                {
-                    "title": "massa",
-                    "description": "Mass of the vehicle",
-                    "type": "text",
-                    "accepted_values": null,
-                    "example": "1200 kg"
-                },
-                {
-                    "title": "note_veicolo",
-                    "description": "Notes on the vehicle",
-                    "type": "text",
-                    "accepted_values": null,
-                    "example": "veicolo in sosta"
-                }
-            ]
+            "list":{
+                "title": "veicolo",
+                "description": "Vehicle details",
+                "group": [
+                    {
+                        "title": "tipologia",
+                        "description": "Type of vehicle",
+                        "type": "text",
+                        "accepted_values": ["ciclomotore", "motoveicolo", "autovettura", "rimorchio", "macchina agricola", "macchina operatrice"],
+                        "example": "autovettura"
+                    },
+                    {
+                        "title": "nazione",
+                        "description": "Country of the license plate",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "italia"
+                    },
+                    {
+                        "title": "targa",
+                        "description": "License plate of the vehicle",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "AB123CD"
+                    },
+                    {
+                        "title": "tipologia_targa",
+                        "description": "Type of license plate",
+                        "type": "text",
+                        "accepted_values": ["ufficiale", "speciale", "prova", "copertura"],
+                        "example": "ufficiale"
+                    },
+                    {
+                        "title": "marca_modello",
+                        "description": "Brand and/or model of the vehicle",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "fiat panda"
+                    },
+                    {
+                        "title": "colore",
+                        "description": "Color of the vehicle",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "rosso"
+                    },
+                    {
+                        "title": "telaio",
+                        "description": "Chassis number of the vehicle",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "12345678901234567"
+                    },
+                    {
+                        "title": "massa",
+                        "description": "Mass of the vehicle",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "1200 kg"
+                    },
+                    {
+                        "title": "note_veicolo",
+                        "description": "Notes on the vehicle",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "veicolo in sosta"
+                    }
+                ]
+            }
         }
     ],
     "topic": "Parsing filtro. Estrai dal testo le informazioni per impostare un filtro di ricerca",
