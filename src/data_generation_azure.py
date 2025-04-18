@@ -101,8 +101,8 @@ class AzureSyntheticDatasetGenerator:
 
         # Ensure subdirectories exist
         audio_dir = os.path.join(self.output_dir, "audio")
-        metadata_dir = os.path.join(self.output_dir, "metadata")
-        sentences_dir = os.path.join(self.output_dir, "sentences")
+        metadata_dir = os.path.join(self.output_dir, "meta")
+        sentences_dir = os.path.join(self.output_dir, "tx")
         os.makedirs(audio_dir, exist_ok=True)
         os.makedirs(metadata_dir, exist_ok=True)
         os.makedirs(sentences_dir, exist_ok=True)
@@ -148,7 +148,9 @@ class AzureSyntheticDatasetGenerator:
         speaker_type = random.choice(self.speaker_types)
         noise_type = random.choice(self.noise_types)
 
-        base_path = os.path.join(audio_subdir, f"clean_{idx}.wav")
+        clean_audio_path = os.path.join(audio_subdir, "clean")
+        os.makedirs(clean_audio_path, exist_ok=True)
+        base_path = os.path.join(clean_audio_path, f"clean_{idx}.wav")
         final_path = os.path.join(audio_subdir, f"sample_{idx}.wav")
 
         # Azure Voice Synthesis
@@ -305,25 +307,25 @@ class AzureSyntheticDatasetGenerator:
              f"Si notifica che in data {date_violation}, alle ore {time_violation}, è stato emesso un preavviso di violazione per il veicolo {vehicle_type} di marca {cars}, con targa {plate} (tipo {kind_plate}), registrato in {nationality}. " +
              f"L'infrazione è avvenuta in {street}, al numero {civico}, e consiste in {violation}, come previsto dall'articolo {article}, comma {comma} del codice {violation_type}. " +
              "Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. " +
-             f"Sono previsti {random.randint(1, 10)} punti di decurtazione.  " +
+             f"Sono previsti {random.randint(1, 10)} punti di decurtazione. " +
              f"Si prega di stampare la presente notifica tramite {print_method}, in lingua {print_language}, {print_option}. ",
 
              f"Attenzione, sto generando un verbale per il veicolo {cars}, {vehicle_type} con targa {plate} di tipo {kind_plate}, immatricolato in {nationality}, per un'infrazione commessa il {date_violation} alle {time_violation}. " +
-             f"L'infrazione è avvenuta in {street}, al numero {civico}, dove il veicolo era in {violation}.  L'articolo violato è il {article}, comma {comma} del codice {violation_type}. " +
+             f"L'infrazione è avvenuta in {street}, al numero {civico}, dove il veicolo era in {violation}. L'articolo violato è il {article}, comma {comma} del codice {violation_type}. " +
              f"Verranno tolti {random.randint(1, 10)} punti dalla patente. " +
              f"Stampa questo verbale via {print_method} in {print_language}, {print_option}. ",
 
-             f"Procedo con la stesura di un verbale per il veicolo {vehicle_type}, marca {cars}, targato {plate} (di tipo {kind_plate}), proveniente da {nationality}.  L'infrazione è stata rilevata il {date_violation} alle ore {time_violation}. " +
+             f"Procedo con la stesura di un verbale per il veicolo {vehicle_type}, marca {cars}, targato {plate} (di tipo {kind_plate}), proveniente da {nationality}. L'infrazione è stata rilevata il {date_violation} alle ore {time_violation}. " +
              f"Il veicolo si trovava in {street}, al civico {civico}, in {violation}, violando l'articolo {article}, comma {comma}, del codice {violation_type}. " +
              (f"L'agente {agent} ha provveduto alla contestazione immediata dell'infrazione. " if immediate_contestation else "Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore, quindi motivo mancata contestazione: assenza del trasgressore. ") +
-             f"La violazione comporta la perdita di {random.randint(1, 10)} punti.  Richiedo la stampa del verbale in {print_language} tramite {print_method}, {print_option}. ",
+             f"La violazione comporta la perdita di {random.randint(1, 10)} punti. Richiedo la stampa del verbale in {print_language} tramite {print_method}, {print_option}. ",
 
-             f"Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo {cars}, {vehicle_type}, targato {plate} con targa {kind_plate}, registrato in {nationality},  per un fatto accaduto il {date_violation} alle {time_violation}. " +
+             f"Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo {cars}, {vehicle_type}, targato {plate} con targa {kind_plate}, registrato in {nationality}, per un fatto accaduto il {date_violation} alle {time_violation}. " +
              f"Il veicolo si trovava in {street}, al civico {civico}, dove è stato riscontrato {violation}, in base all'articolo {article}, comma {comma}, del codice {violation_type}. " +
-             f"Questa infrazione comporta una decurtazione di {random.randint(1, 10)} punti.  " +
+             f"Questa infrazione comporta una decurtazione di {random.randint(1, 10)} punti. " +
              f"Genera la stampa dell'avviso via {print_method} in {print_language}, {print_option}. ",
 
-             f"Redazione verbale in corso per il veicolo {vehicle_type} di marca {cars}, con targa {plate} (tipo {kind_plate}), proveniente da {nationality}.  Fatto avvenuto il {date_violation} alle ore {time_violation}. " +
+             f"Redazione verbale in corso per il veicolo {vehicle_type} di marca {cars}, con targa {plate} (tipo {kind_plate}), proveniente da {nationality}. Fatto avvenuto il {date_violation} alle ore {time_violation}. " +
              f"Posizione: {street}, numero civico {civico}. Infrazione: {violation}, in violazione dell'articolo {article}, comma {comma}, del codice {violation_type}. " +
              f"Decurtazione prevista: {random.randint(1, 10)} punti. " +
              (f"Si applica contestazione immediata da parte dell'agente {agent}. " if immediate_contestation else "Impossibile contestare immediatamente per assenza del trasgressore, motivo: assenza del trasgressore. ") +
@@ -460,7 +462,7 @@ class AzureSyntheticDatasetGenerator:
 
 
 if __name__ == "__main__":
-    NUM_SAMPLES = 10
+    NUM_SAMPLES = 100
     OUTPUT_BASE = "data/synthetic_datasets/AzureTTS"
     LANG = "it-IT"
 
@@ -498,7 +500,7 @@ if __name__ == "__main__":
              logger.error("The list 'standard_italian_voices' is empty. Please add standard Italian voice names.")
         else:
             config_name = "Standard_Italian_Voices"
-            output_directory = os.path.join(OUTPUT_BASE, config_name)
+            output_directory = OUTPUT_BASE
             logger.info(f"\nGenerating dataset for: {config_name}...")
             logger.info(f"Using {len(standard_italian_voices)} standard voices for random selection.")
 

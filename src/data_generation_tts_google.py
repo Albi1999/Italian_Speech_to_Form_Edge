@@ -86,8 +86,12 @@ class SyntheticDatasetGenerator:
         speaker_type = random.choice(self.speaker_types)
         noise_type = random.choice(self.noise_types)
 
-        base_path = os.path.join(self.output_dir, f"clean_{idx}.wav")
-        final_path = os.path.join(self.output_dir, f"sample_{idx}.wav")
+        audio_dir = os.path.join(self.output_dir, "audio")
+        os.makedirs(audio_dir, exist_ok=True)
+        clean_dir = os.path.join(audio_dir, "clean")
+        os.makedirs(clean_dir, exist_ok=True)
+        base_path = os.path.join(clean_dir, f"clean_{idx}.wav")
+        final_path = os.path.join(audio_dir, f"sample_{idx}.wav")
 
         # Voice synthesis
         tts = gTTS(sentence, lang=self.lang)
@@ -359,7 +363,7 @@ class SyntheticDatasetGenerator:
         return audio
 
     def save_metadata(self):
-        metadata_dir = os.path.join(self.output_dir, "metadata")
+        metadata_dir = os.path.join(self.output_dir, "meta")
         os.makedirs(metadata_dir, exist_ok=True)
 
         with open(os.path.join(metadata_dir, "samples.json"), "w", encoding="utf-8") as f:
@@ -368,12 +372,15 @@ class SyntheticDatasetGenerator:
         print("Metadata saved in:", metadata_dir)
     
     def save_sentences(self, sentences):
-        sentence_dir = os.path.join(self.output_dir, "sentences")
+        sentence_dir = os.path.join(self.output_dir, "tx")
         os.makedirs(sentence_dir, exist_ok=True)
-        with open(os.path.join(sentence_dir, "sentences.txt"), "w", encoding="utf-8") as f:
-            for sentence in sentences:
-                f.write(sentence + "\n")
-        print("Sentences saved in:", sentence_dir)
+        sentences_path = os.path.join(sentence_dir, "sentences.json")
+        try:
+            with open(sentences_path, "w", encoding="utf-8") as f:
+                json.dump(sentences, f, indent=2, ensure_ascii=False)
+            print("Sentences saved in:", sentence_dir)
+        except IOError as e:
+            print(f"Failed to save sentences to {sentences_path}: {e}")
 
 if __name__ == "__main__":
     generator = SyntheticDatasetGenerator(num_samples=100)
