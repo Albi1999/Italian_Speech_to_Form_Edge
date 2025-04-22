@@ -143,14 +143,18 @@ class AzureSyntheticDatasetGenerator:
         selected_voice_name = random.choice(self.voice_names)
         logger.info(f"Sample {idx}: Using randomly selected voice '{selected_voice_name}'")
 
+        error_message = None
+        synthesis_successful = False
+
         noise_file_used = None
         sentence, date_str, time_str = self.generate_sentence()
         speaker_type = random.choice(self.speaker_types)
-        noise_type = random.choice(self.noise_types)
+        noise_type_intended = random.choice(self.noise_types)
+        actual_noise_type = "none" # Default if synthesis fails or noise application fails
 
-        clean_audio_path = os.path.join(audio_subdir, "clean")
-        os.makedirs(clean_audio_path, exist_ok=True)
-        base_path = os.path.join(clean_audio_path, f"clean_{idx}.wav")
+        clean_audio_dir = os.path.join(audio_subdir, "clean")
+        os.makedirs(clean_audio_dir, exist_ok=True)
+        base_path = os.path.join(clean_audio_dir, f"clean_{idx}.wav")
         final_path = os.path.join(audio_subdir, f"sample_{idx}.wav")
 
         # Azure Voice Synthesis
@@ -162,7 +166,6 @@ class AzureSyntheticDatasetGenerator:
                 </voice>
             </speak>
             """
-            # print(f"DEBUG: SSML String for sample {idx}:\n{ssml_string}") # Debugging line
 
             audio_config = speechsdk.audio.AudioOutputConfig(filename=base_path)
             synthesizer = speechsdk.SpeechSynthesizer(speech_config=self.speech_config, audio_config=audio_config)
@@ -173,82 +176,83 @@ class AzureSyntheticDatasetGenerator:
             # Check result
             if result.reason == speechsdk.ResultReason.SynthesizingAudioCompleted:
                 logger.info(f"Successfully synthesized {base_path}")
+                synthesis_successful = True # Mark as successful for now
             elif result.reason == speechsdk.ResultReason.Canceled:
                 cancellation_details = result.cancellation_details
-                logger.error(f"Speech synthesis canceled for sample {idx}: {cancellation_details.reason}")
+                error_message = f"Speech synthesis canceled: {cancellation_details.reason}"
+                logger.error(f"{error_message} for sample {idx}")
                 if cancellation_details.reason == speechsdk.CancellationReason.Error:
+                    error_message += f" - Details: {cancellation_details.error_details}"
                     logger.error(f"Cancellation Error Details: {cancellation_details.error_details}")
-                if os.path.exists(base_path): os.remove(base_path)
-                return None
             else:
-                logger.error(f"Unhandled synthesis result reason for sample {idx}: {result.reason}")
-                if os.path.exists(base_path): os.remove(base_path)
-                return None
+                error_message = f"Unhandled synthesis result reason: {result.reason}"
+                logger.error(f"{error_message} for sample {idx}")
 
-            # Post-processing (Noise/Effects)
-            if not os.path.exists(base_path) or os.path.getsize(base_path) == 0:
-                 logger.error(f"Azure synthesis completed but output file {base_path} is missing or empty for sample {idx}.")
-                 return None # Skip
+            if synthesis_successful:
+                # Check file existence and size
+                if not os.path.exists(base_path) or os.path.getsize(base_path) == 0:
+                    error_message = f"Azure synthesis reported completed but output file {base_path} is missing or empty."
+                    logger.error(f"{error_message} for sample {idx}.")
+                    synthesis_successful = False # Mark as failed after check
+                else:
+                    # File exists and is not empty, proceed with effects/noise
+                    try:
+                        clean_audio = AudioSegment.from_file(base_path)
+                        processed_audio = clean_audio
 
-            clean_audio = AudioSegment.from_file(base_path)
-            processed_audio = clean_audio
+                        processed_audio = self.apply_voice_effect(processed_audio, speaker_type)
 
-            processed_audio = self.apply_voice_effect(processed_audio, speaker_type)
+                        if noise_type_intended != "none":
+                            noise = self.generate_noise(noise_type_intended, len(processed_audio))
+                            if noise and len(noise) >= len(processed_audio):
+                                if noise_type_intended == "street" and hasattr(self, "last_noise_file") and self.last_noise_file:
+                                    noise_file_used = os.path.basename(self.last_noise_file)
+                                else:
+                                    noise_file_used = None
 
-            # Apply noise if selected
-            if noise_type != "none":
-                try:
-                    noise = self.generate_noise(noise_type, len(processed_audio))
-                    if noise and len(noise) >= len(processed_audio):
-                        if noise_type == "street" and hasattr(self, "last_noise_file"):
-                             noise_file_used = os.path.basename(self.last_noise_file)
+                                processed_audio = processed_audio.overlay(noise)
+                                processed_audio = effects.normalize(processed_audio)
+                                actual_noise_type = noise_type_intended
+                                logger.info(f"Applied noise '{actual_noise_type}' to sample {idx}")
+                            elif noise is None:
+                                logger.warning(f"Noise generation failed for type '{noise_type_intended}' on sample {idx}. Skipping noise.")
+                                actual_noise_type = "none"
+                            else:
+                                logger.warning(f"Generated noise duration mismatch for sample {idx} ({len(noise)}ms vs {len(processed_audio)}ms). Skipping noise.")
+                                actual_noise_type = "none"
                         else:
-                             noise_file_used = None
+                            actual_noise_type = "none"
 
-                        processed_audio = processed_audio.overlay(noise)
-                        processed_audio = effects.normalize(processed_audio)
-                        logger.info(f"Applied noise '{noise_type}' to sample {idx}")
-                    elif noise is None:
-                         logger.warning(f"Noise generation failed for type '{noise_type}' on sample {idx}. Skipping noise.")
-                         noise_type = "none"
-                    else:
-                         logger.warning(f"Generated noise duration mismatch for sample {idx} ({len(noise)}ms vs {len(processed_audio)}ms). Skipping noise.")
-                         noise_type = "none"
-                except Exception as e_noise:
-                    logger.error(f"Error applying noise '{noise_type}' to sample {idx}: {e_noise}", exc_info=True)
-                    noise_type = "none"
+                        processed_audio.export(final_path, format="wav")
+                        logger.info(f"Exported final sample {idx} to {final_path}")
 
-            processed_audio.export(final_path, format="wav")
-            logger.info(f"Exported final sample {idx} to {final_path}")
+                    except Exception as e_post:
+                        error_message = f"Error during post-processing (noise/export): {e_post}"
+                        logger.error(f"{error_message} for sample {idx}", exc_info=True)
+                        synthesis_successful = False # Mark as failed if post-processing fails
 
-
-            return {
-                "id": idx,
-                "text": sentence,
-                "audio_path": os.path.join("audio", os.path.basename(final_path)),
-                "clean_audio_path": os.path.join("audio", os.path.basename(base_path)),
-                "noise_type": noise_type,
-                "has_noise": noise_type != "none",
-                "noise_file": noise_file_used,
-                "speaker_type": speaker_type,
-                "azure_voice_used": selected_voice_name,
-                "date": date_str,
-                "time": time_str
-            }
-
-        except FileNotFoundError as e_fnf:
-             logger.error(f"File not found during sample {idx} generation: {e_fnf}", exc_info=True)
-             return None
         except Exception as e_main:
-            logger.error(f"Unhandled error in generate_sample for idx {idx}: {e_main}", exc_info=True)
-            if os.path.exists(base_path):
-                 try: os.remove(base_path)
-                 except OSError: pass
-            if os.path.exists(final_path):
-                 try: os.remove(final_path)
-                 except OSError: pass
-            return None
+            error_message = f"Unhandled error in generate_sample: {e_main}"
+            logger.error(f"{error_message} for idx {idx}", exc_info=True)
+            synthesis_successful = False # Mark as failed
 
+
+        metadata = {
+            "id": idx,
+            "text": sentence,
+            "audio_path": os.path.relpath(final_path, self.output_dir).replace("\\", "/"),
+            "clean_audio_path": os.path.relpath(base_path, self.output_dir).replace("\\", "/"),
+            "noise_type": actual_noise_type if synthesis_successful else "error",
+            "has_noise": actual_noise_type != "none" if synthesis_successful else False,
+            "noise_file": noise_file_used if synthesis_successful and actual_noise_type == "street" else None,
+            "speaker_type": speaker_type,
+            "azure_voice_used": selected_voice_name,
+            "date": date_str,
+            "time": time_str,
+            "generation_status": "success" if synthesis_successful and not error_message else "failed",
+            "error": error_message
+        }
+        return metadata
 
     def generate_sentence(self):
         agent = random.choice(self.agents)

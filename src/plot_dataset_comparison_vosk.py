@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import os
 
 summary_path = "output/stt/vosk_only/summary_across_datasets.csv"
-output_dir = "output/stt/vosk_only/plots"
+output_dir = "output/stt/vosk_only/figures"
 os.makedirs(output_dir, exist_ok=True)
 
 df = pd.read_csv(summary_path)

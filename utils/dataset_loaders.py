@@ -46,15 +46,16 @@ class DatasetLoader:
         return formatted_samples
 
     def load_coqui_dataset(self, max_samples=100):
-        """Loads a subset of the Coqui dataset from a JSON file."""
+        """Loads the Coqui dataset from a JSON file."""
         DATA_DIR = "data/coqui_output"
         METADATA_FILE = os.path.join(DATA_DIR, "all_samples_coqui.json")
         return self._load_json_metadata(METADATA_FILE, DATA_DIR, "coqui_audio_path", "text", max_samples)
 
-    def load_synthetic_dataset(self, max_samples=100):
-        """Loads a subset of the synthetic dataset from a JSON file."""
-        DATA_DIR = "data/synthetic_dataset"
-        METADATA_FILE = os.path.join(DATA_DIR, "metadata", "samples.json")
+    def load_google_synthetic_dataset(self, max_samples=100):
+        """Loads the google synthetic dataset from a JSON file."""
+        BASE_DIR = "data\synthetic_datasets\GoogleTTS"
+        DATA_DIR = "data\synthetic_datasets\GoogleTTS/audio"
+        METADATA_FILE = os.path.join(BASE_DIR, "meta", "samples.json")
         return self._load_json_metadata(METADATA_FILE, DATA_DIR, "audio_path", "text", max_samples)
 
     def load_ITALIC_dataset(self, max_samples=100):
@@ -96,6 +97,12 @@ class DatasetLoader:
                 "sentence": sentence
             })
         return formatted_samples
+    
+    def load_azure_synthetic_dataset(self, max_samples=100):
+        """Loads the Azure synthetic dataset from a JSON file."""
+        DATA_DIR = "data\synthetic_datasets\AzureTTS"
+        METADATA_FILE = os.path.join(DATA_DIR, "meta", "samples.json")
+        return self._load_json_metadata(METADATA_FILE, DATA_DIR, "audio_path", "text", max_samples)
 
     def load_dataset(self, name, samples_per_dataset):
         """Loads a dataset by name."""
@@ -103,9 +110,11 @@ class DatasetLoader:
             return self.load_commonvoice_subset(samples_per_dataset)
         elif name == "coqui":
             return self.load_coqui_dataset(samples_per_dataset)
-        elif name == "synthetic":
-            return self.load_synthetic_dataset(samples_per_dataset)
+        elif name == "google_synthetic":
+            return self.load_google_synthetic_dataset(samples_per_dataset)
         elif name == "ITALIC":
             return self.load_ITALIC_dataset(samples_per_dataset)
+        elif name == "azure_synthetic":
+            return self.load_azure_synthetic_dataset(samples_per_dataset)
         else:
             raise ValueError(f"Unknown dataset: {name}")

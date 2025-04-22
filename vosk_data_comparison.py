@@ -51,24 +51,27 @@ def save_dataset_results(results, dataset_name):
 
 def run_common_voice(vosk_model, data_loader):
     samples = data_loader.load_dataset("common_voice", NUM_SAMPLES)
-    results = [vosk_model.transcribe(audio, ref) for audio, ref in tqdm(samples, desc="Common Voice")]
+    results = [
+        vosk_model.transcribe(s['path'], s['sentence'])
+        for s in tqdm(samples, desc="Common Voice")
+    ]
     save_dataset_results(results, "common_voice")
 
-def run_synthetic_dataset(vosk_model, data_loader):
-    samples = data_loader.load_dataset("synthetic", NUM_SAMPLES)
+def run_google_synthetic_dataset(vosk_model, data_loader):
+    samples = data_loader.load_dataset("google_synthetic", NUM_SAMPLES)
     results = [
-        vosk_model.transcribe(s["path"], s["text"])
-        for s in tqdm(samples, desc="Synthetic")
+        vosk_model.transcribe(s["path"], s["sentence"])
+        for s in tqdm(samples, desc="Google Synthetic")
     ]
-    save_dataset_results(results, "synthetic_dataset")
+    save_dataset_results(results, "google_synthetic_dataset")
 
 def run_coqui_dataset(vosk_model, data_loader):
     samples = data_loader.load_dataset("coqui", NUM_SAMPLES)
     results = []
     for s in tqdm(samples, desc="Coqui"):
         result = vosk_model.transcribe(s["path"], s["sentence"])
-        result["coqui_model"] = s["coqui_model"]
-        result["speaker_gender"] = s["speaker_gender"]
+        result["coqui_model"] = s.get("coqui_model", "unknown")
+        result["speaker_gender"] = s.get("speaker_gender", "unknown")
         results.append(result)
     save_dataset_results(results, "coqui_dataset")
 
@@ -80,6 +83,14 @@ def run_ITALIC(vosk_model, data_loader):
     ]
     save_dataset_results(results, "ITALIC")
 
+def run_azure_synthetic_dataset(vosk_model, data_loader):
+    samples = data_loader.load_dataset("azure_synthetic", NUM_SAMPLES)
+    results = [
+        vosk_model.transcribe(s["path"], s["sentence"])
+        for s in tqdm(samples, desc="Azure Synthetic")
+    ]
+    save_dataset_results(results, "azure_synthetic_dataset")
+
 if __name__ == "__main__":
     print("Loading Vosk Model...")
     vosk_model = Vosk()
@@ -88,7 +99,8 @@ if __name__ == "__main__":
     data_loader = DatasetLoader()
 
     run_common_voice(vosk_model, data_loader)
-    run_synthetic_dataset(vosk_model, data_loader)
-    run_coqui_dataset(vosk_model, data_loader)
     run_ITALIC(vosk_model, data_loader)
+    run_azure_synthetic_dataset(vosk_model, data_loader)
+    run_google_synthetic_dataset(vosk_model, data_loader)
+    run_coqui_dataset(vosk_model, data_loader)
     print("All datasets processed successfully.")

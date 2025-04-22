@@ -18,7 +18,7 @@ def run_synthetic_dataset():
     # Initialize DatasetLoader
     data_loader = DatasetLoader()
 
-    samples = data_loader.load_dataset("synthetic", samples_per_dataset=100)
+    samples = data_loader.load_dataset("google_synthetic", samples_per_dataset=100)
 
     models = [
         WhisperTiny(), 
@@ -43,13 +43,13 @@ def run_synthetic_dataset():
         metadata = json.load(f)
     df_meta = pd.DataFrame([{"model": model, **attrs} for model, attrs in metadata.items()])
 
-    visualizer = STTVisualizer(output_base_dir="output/stt/synthetic_dataset")
+    visualizer = STTVisualizer(output_base_dir="output/stt/google_synthetic_dataset")
     csv_dir, plot_dir = visualizer.visualize_all(df, df_meta)
 
     print(f"CSV saved in: {csv_dir}")
     print(f"Plots saved in: {plot_dir}")
 
-    save_results(df, output_dir="output/stt/synthetic_dataset/csv")
+    save_results(df, output_dir="output/stt/google_synthetic_dataset/csv")
 
 
 if __name__ == "__main__":

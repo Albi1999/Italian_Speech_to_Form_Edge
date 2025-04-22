@@ -14,7 +14,7 @@ class STTVisualizer:
             output_base_dir (str): Base directory for saving visualization outputs
         """
         self.output_base_dir = output_base_dir
-        self.plot_dir = f"{output_base_dir}/plots"
+        self.plot_dir = f"{output_base_dir}/figures"
         self.csv_dir = f"{output_base_dir}/csv"
         self.metric_names = {
             "wer": "Word Error Rate",
