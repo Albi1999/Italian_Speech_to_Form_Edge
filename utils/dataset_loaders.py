@@ -33,16 +33,39 @@ class DatasetLoader:
         except FileNotFoundError:
             print(f"Error: Metadata not found at {metadata_path}.")
             sys.exit(1)
+        except json.JSONDecodeError as e:
+            print(f"Error decoding JSON from {metadata_path}: {e}")
+            sys.exit(1)
 
         random.seed(self.seed)
         samples = random.sample(samples, min(max_samples, len(samples)))
 
         formatted_samples = []
         for sample in samples:
-            formatted_samples.append({
-                "path": os.path.join(data_dir, sample[audio_path_key]),
-                "sentence": sample[text_key]
-            })
+            try:
+                sentence = sample[text_key]
+                if audio_path_key == "google_clean":
+                    sample_id = sample.get("id")
+                    if sample_id is None:
+                        print(f"Warning: Skipping sample in {metadata_path} due to missing 'id' field.")
+                        continue
+                    audio_relative_path = os.path.join("audio", "clean", f"clean_{sample_id}.wav")
+                    full_path = os.path.join(data_dir, audio_relative_path)
+                elif audio_path_key in sample:
+                    full_path = os.path.join(data_dir, sample[audio_path_key])
+                else:
+                     print(f"Warning: Skipping sample with id {sample.get('id', 'N/A')} in {metadata_path} due to missing key '{audio_path_key}'.")
+                     continue
+                formatted_samples.append({
+                    "path": full_path.replace("\\", "/"),
+                    "sentence": sentence
+                })
+            except KeyError as e:
+                 print(f"Warning: Skipping sample in {metadata_path} due to missing key: {e}. Sample data: {sample}")
+                 continue
+            except TypeError as e:
+                 print(f"Warning: Skipping sample in {metadata_path} due to unexpected data type: {e}. Sample data: {sample}")
+                 continue
         return formatted_samples
 
     def load_coqui_dataset(self, max_samples=100):
@@ -51,12 +74,15 @@ class DatasetLoader:
         METADATA_FILE = os.path.join(DATA_DIR, "all_samples_coqui.json")
         return self._load_json_metadata(METADATA_FILE, DATA_DIR, "coqui_audio_path", "text", max_samples)
 
-    def load_google_synthetic_dataset(self, max_samples=100):
-        """Loads the google synthetic dataset from a JSON file."""
-        BASE_DIR = "data\synthetic_datasets\GoogleTTS"
-        DATA_DIR = "data\synthetic_datasets\GoogleTTS/audio"
-        METADATA_FILE = os.path.join(BASE_DIR, "meta", "samples.json")
-        return self._load_json_metadata(METADATA_FILE, DATA_DIR, "audio_path", "text", max_samples)
+    def load_google_synthetic_dataset(self, max_samples=100, use_clean=False):
+        """Loads the Google synthetic dataset from a JSON file."""
+        DATA_DIR = os.path.join("data", "synthetic_datasets", "GoogleTTS")
+        METADATA_FILE = os.path.join(DATA_DIR, "meta", "samples.json")
+        if use_clean:
+             audio_key = "google_clean"
+        else:
+             audio_key = "audio_path"
+        return self._load_json_metadata(METADATA_FILE, DATA_DIR, audio_key, "text", max_samples)
 
     def load_ITALIC_dataset(self, max_samples=100):
         """Loads a subset of the ITALIC dataset from disk, extracts audio, resamples, and saves to disk."""
@@ -98,23 +124,26 @@ class DatasetLoader:
             })
         return formatted_samples
     
-    def load_azure_synthetic_dataset(self, max_samples=100):
+    def load_azure_synthetic_dataset(self, max_samples=100, use_clean=False):
         """Loads the Azure synthetic dataset from a JSON file."""
-        DATA_DIR = "data\synthetic_datasets\AzureTTS"
+        DATA_DIR = os.path.join("data", "synthetic_datasets", "AzureTTS")
         METADATA_FILE = os.path.join(DATA_DIR, "meta", "samples.json")
-        return self._load_json_metadata(METADATA_FILE, DATA_DIR, "audio_path", "text", max_samples)
+        if use_clean:
+            audio_key = "clean_audio_path"
+        else:
+            audio_key = "audio_path"
+        return self._load_json_metadata(METADATA_FILE, DATA_DIR, audio_key, "text", max_samples)
 
-    def load_dataset(self, name, samples_per_dataset):
-        """Loads a dataset by name."""
+    def load_dataset(self, name, samples_per_dataset, use_clean=False):
         if name == "common_voice":
             return self.load_commonvoice_subset(samples_per_dataset)
         elif name == "coqui":
             return self.load_coqui_dataset(samples_per_dataset)
         elif name == "google_synthetic":
-            return self.load_google_synthetic_dataset(samples_per_dataset)
+            return self.load_google_synthetic_dataset(samples_per_dataset, use_clean=use_clean)
         elif name == "ITALIC":
             return self.load_ITALIC_dataset(samples_per_dataset)
         elif name == "azure_synthetic":
-            return self.load_azure_synthetic_dataset(samples_per_dataset)
+            return self.load_azure_synthetic_dataset(samples_per_dataset, use_clean=use_clean)
         else:
             raise ValueError(f"Unknown dataset: {name}")

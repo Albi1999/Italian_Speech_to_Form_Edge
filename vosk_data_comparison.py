@@ -58,7 +58,7 @@ def run_common_voice(vosk_model, data_loader):
     save_dataset_results(results, "common_voice")
 
 def run_google_synthetic_dataset(vosk_model, data_loader):
-    samples = data_loader.load_dataset("google_synthetic", NUM_SAMPLES)
+    samples = data_loader.load_dataset("google_synthetic", NUM_SAMPLES, use_clean=True)
     results = [
         vosk_model.transcribe(s["path"], s["sentence"])
         for s in tqdm(samples, desc="Google Synthetic")
@@ -84,7 +84,7 @@ def run_ITALIC(vosk_model, data_loader):
     save_dataset_results(results, "ITALIC")
 
 def run_azure_synthetic_dataset(vosk_model, data_loader):
-    samples = data_loader.load_dataset("azure_synthetic", NUM_SAMPLES)
+    samples = data_loader.load_dataset("azure_synthetic", NUM_SAMPLES, use_clean=True)
     results = [
         vosk_model.transcribe(s["path"], s["sentence"])
         for s in tqdm(samples, desc="Azure Synthetic")
