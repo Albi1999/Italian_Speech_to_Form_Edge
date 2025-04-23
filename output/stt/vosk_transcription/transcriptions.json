@@ -1,0 +1,512 @@
+[
+    {
+        "dataset": "google_synthetic",
+        "file_path": "data/synthetic_datasets/GoogleTTS/audio/clean/clean_81.wav",
+        "original_sentence": "Il giorno 02/04/2025, alle ore 07:50, è stato redatto un verbale per il veicolo Audi A3, motoveicolo immatricolato in olanda con targa ZA456QP di tipo speciale.L'infrazione è avvenuta in viale dei Giardini, al civico 8. È stata riscontrata una violazione del codice penale, articolo 185, comma 2 ovvero parcheggio davanti a passo carrabileNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 3 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in italiano tramite wifi, non stampare anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "il giorno due aprile duemilaventicinque alle otto meno dieci è stato redatto un verbale per il veicolo audi a tre molto veicolo immatricolati in olanda con targa kazaka quattrocentocinquanta sei cupi di tipo speciale l'infrazione e avvenuta in viale dei giardini al civico e stata riscontrata una violazione del codice penale articolo centottantacinque comma due ovvero parcheggio davanti a passo carabine non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti tre punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in italiano tramite vuoi fai non stampare anche la comunicazione",
+            "reference": "Il giorno 02/04/2025, alle ore 07:50, è stato redatto un verbale per il veicolo Audi A3, motoveicolo immatricolato in olanda con targa ZA456QP di tipo speciale.L'infrazione è avvenuta in viale dei Giardini, al civico 8. È stata riscontrata una violazione del codice penale, articolo 185, comma 2 ovvero parcheggio davanti a passo carrabileNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 3 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in italiano tramite wifi, non stampare anche la comunicazione.",
+            "time": 1.6286427974700928,
+            "wer": 0.42045454545454547,
+            "cer": 0.24048442906574394,
+            "bleu_avg": 0.3995620053627355,
+            "rouge1_avg_f1": 0.7741935483870968,
+            "rougeL_avg_f1": 0.7741935483870968,
+            "levenshtein_avg": 139.0
+        }
+    },
+    {
+        "dataset": "google_synthetic",
+        "file_path": "data/synthetic_datasets/GoogleTTS/audio/clean/clean_14.wav",
+        "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa IJ123KL di tipo ufficiale, marca Volkswagen Golf, proveniente da grecia. L'infrazione, nello specifico parcheggio in doppia fila, si è verificata in data 18/03/2025 alle ore 21:23 in via della Repubblica, al numero 20 (articolo 14, comma 1 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 8 punti.Si richiede la stampa in lingua italiano, modalità wifi, non stampare anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa i centoventitre chi lo litri di tipo ufficiale marca fox vaga in golf proveniente da grecia l'infrazione nello specifico parcheggia in doppia fila sia e verificata in data diciotto marzo duemilaventicinque alle ore ventuno e ventitré in via della repubblica al numero venti articolo quattordici con ma uno del codice civile si comunica che dalla violazione conseguirà una decurtazione di otto punti si richiede la stampa in lingua italiano modalità hawaii fai non stampare anche la comunicazione",
+            "reference": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa IJ123KL di tipo ufficiale, marca Volkswagen Golf, proveniente da grecia. L'infrazione, nello specifico parcheggio in doppia fila, si è verificata in data 18/03/2025 alle ore 21:23 in via della Repubblica, al numero 20 (articolo 14, comma 1 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 8 punti.Si richiede la stampa in lingua italiano, modalità wifi, non stampare anche la comunicazione.",
+            "time": 1.480628490447998,
+            "wer": 0.46987951807228917,
+            "cer": 0.2661596958174905,
+            "bleu_avg": 0.37783254999727267,
+            "rouge1_avg_f1": 0.7802197802197802,
+            "rougeL_avg_f1": 0.7802197802197802,
+            "levenshtein_avg": 140.0
+        }
+    },
+    {
+        "dataset": "google_synthetic",
+        "file_path": "data/synthetic_datasets/GoogleTTS/audio/clean/clean_3.wav",
+        "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina agricola, marca Fiat Panda, targato CD123AB (di tipo speciale), proveniente da portogallo.  L'infrazione è stata rilevata il 17/04/2025 alle ore 06:33. Il veicolo si trovava in corso Buenos Aires, al civico 98, in parcheggio in doppia fila, violando l'articolo 4, comma 2, del codice stradale. L'agente Alessandro Moretti ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 9 punti.  Richiedo la stampa del verbale in italiano tramite wifi, stampa anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "procedo con la stesura di un verbale per il veicolo macchina agricola marca fiat panda targato ci di centoventitre di tipo speciale proveniente da portogallo l'infrazione e stata rilevata il diciassette aprile duemilaventicinque alle ore sei e trentatré il veicolo si trovava in corso buenos aires al civico novantotto in parcheggia in doppia fila violando l'articolo quattro comma due del codice stradale l'agente alessandro moretti ha provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di nove punti richiedo la stampa del verbale in italiano tramite vuoi fai stampa anche la comunicazione",
+            "reference": "Procedo con la stesura di un verbale per il veicolo macchina agricola, marca Fiat Panda, targato CD123AB (di tipo speciale), proveniente da portogallo.  L'infrazione è stata rilevata il 17/04/2025 alle ore 06:33. Il veicolo si trovava in corso Buenos Aires, al civico 98, in parcheggio in doppia fila, violando l'articolo 4, comma 2, del codice stradale. L'agente Alessandro Moretti ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 9 punti.  Richiedo la stampa del verbale in italiano tramite wifi, stampa anche la comunicazione.",
+            "time": 1.4911179542541504,
+            "wer": 0.4418604651162791,
+            "cer": 0.22357019064124783,
+            "bleu_avg": 0.32992670881371605,
+            "rouge1_avg_f1": 0.8465608465608465,
+            "rougeL_avg_f1": 0.8465608465608465,
+            "levenshtein_avg": 129.0
+        }
+    },
+    {
+        "dataset": "google_synthetic",
+        "file_path": "data/synthetic_datasets/GoogleTTS/audio/clean/clean_94.wav",
+        "original_sentence": "Si sta redigendo verbale per violazione accertata il 23/03/2025 alle ore 12:17 in corso Buenos Aires, al civico 98, a carico del veicolo BMW Serie 1, ciclomotore con targa QR987ST di tipo ufficiale, immatricolato in slovenia. La violazione contestata è parcheggio davanti a passo carrabile, in base all'articolo 158, comma 2 del codice civile.Non è stato possibile contestare immediatamente, motivo: assenza del trasgressore. Sono previsti 1 punti di decurtazione. Si richiede la stampa in lingua italiano via wifi, non stampare anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "si stare di gendo verbale per violazione accertata il ventitré marzo duemilaventicinque alle ore mezzogiorno e diciassette in corso buenos aires al civico novantotto a carico del veicolo bmw serie uno ciclomotori con targa guerre novecentottanta sette se ti di tipo ufficiale immatricolati slovenia la violazione contestata e parcheggio davanti a passo carabine in base all'articolo centocinquantotto comma due del codice civile non è stato possibile contestare immediatamente motivo assenza del trasgressori sono previsti uno punti di decurtazione si richiede la stampa in lingua italiano via hawaii fai non stampare anche la comunicazione",
+            "reference": "Si sta redigendo verbale per violazione accertata il 23/03/2025 alle ore 12:17 in corso Buenos Aires, al civico 98, a carico del veicolo BMW Serie 1, ciclomotore con targa QR987ST di tipo ufficiale, immatricolato in slovenia. La violazione contestata è parcheggio davanti a passo carrabile, in base all'articolo 158, comma 2 del codice civile.Non è stato possibile contestare immediatamente, motivo: assenza del trasgressore. Sono previsti 1 punti di decurtazione. Si richiede la stampa in lingua italiano via wifi, non stampare anche la comunicazione.",
+            "time": 1.5399751663208008,
+            "wer": 0.5180722891566265,
+            "cer": 0.302536231884058,
+            "bleu_avg": 0.252781094492012,
+            "rouge1_avg_f1": 0.7486033519553073,
+            "rougeL_avg_f1": 0.7486033519553073,
+            "levenshtein_avg": 167.0
+        }
+    },
+    {
+        "dataset": "google_synthetic",
+        "file_path": "data/synthetic_datasets/GoogleTTS/audio/clean/clean_35.wav",
+        "original_sentence": "In data 25/03/2025, alle ore 17:36, si eleva verbale al veicolo Mercedes Classe A, ciclomotore con targa XY321ZA di tipo copertura, immatricolato in spagna, per violazione dell'articolo 158, comma 2 del codice penale, ovvero parcheggio su strisce pedonali, rilevata in via Giuseppe Mazzini, al civico 24.La contestazione è stata immediata, effettuata dall'agente Elena Fontana. Dalla violazione derivano 3 punti di decurtazione. Stampa necessaria in lingua italiano via wifi, non stampare anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "in data venticinque marzo duemilaventicinque alle ore diciassette trentasei si eleva verbale al veicolo mercedes classe a ciclomotori contare dai xiii ypsilon trecentoventi uno sa di tipo copertura immatricolati in spagna per violazione dell'articolo centocinquantotto comma due del codice penale o vero parcheggio su strisce pedonali rilevata in via giuseppe mazzini al civico ventiquattro la contestazione stata immediata effettuata dalla gente elena fontana dalla violazione derivano tre punti di decurtazione stampa necessaria in lingua italiano via hawaii fai non stampare anche la comunicazione",
+            "reference": "In data 25/03/2025, alle ore 17:36, si eleva verbale al veicolo Mercedes Classe A, ciclomotore con targa XY321ZA di tipo copertura, immatricolato in spagna, per violazione dell'articolo 158, comma 2 del codice penale, ovvero parcheggio su strisce pedonali, rilevata in via Giuseppe Mazzini, al civico 24.La contestazione è stata immediata, effettuata dall'agente Elena Fontana. Dalla violazione derivano 3 punti di decurtazione. Stampa necessaria in lingua italiano via wifi, non stampare anche la comunicazione.",
+            "time": 1.4607295989990234,
+            "wer": 0.589041095890411,
+            "cer": 0.32421875,
+            "bleu_avg": 0.18518331657144954,
+            "rouge1_avg_f1": 0.7407407407407408,
+            "rougeL_avg_f1": 0.7407407407407408,
+            "levenshtein_avg": 166.0
+        }
+    },
+    {
+        "dataset": "google_synthetic",
+        "file_path": "data/synthetic_datasets/GoogleTTS/audio/clean/clean_31.wav",
+        "original_sentence": "Emissione di preavviso per il veicolo autovettura, marca Mercedes Classe A, targato GH789IJ di tipo prova, proveniente da grecia. In data 23/03/2025 alle ore 06:37, è stata rilevata la violazione di transito in zona accesso vietato in via Etnea, al numero 45, in base all'articolo 3, comma 1 del codice civile.Per tale infrazione sono previsti 4 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua italiano, stampa anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "emissione di preavviso per il veicolo autovettura marca mercedes classe a targato gia sette centottantanove i di tipo prova proveniente da grecia in data ventitré marzo duemilaventicinque alle ore sei e trentasette stata rilevata la violazione di transito in zona accesso vietato in via etna al numero quarantacinque in base all'articolo tre comma uno del codice civile per tale infrazione sono previsti quattro punti di decurtazione si richiede la stampa del preavviso tramite wifi in lingua italiano stampa anche la comunicazione",
+            "reference": "Emissione di preavviso per il veicolo autovettura, marca Mercedes Classe A, targato GH789IJ di tipo prova, proveniente da grecia. In data 23/03/2025 alle ore 06:37, è stata rilevata la violazione di transito in zona accesso vietato in via Etnea, al numero 45, in base all'articolo 3, comma 1 del codice civile.Per tale infrazione sono previsti 4 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua italiano, stampa anche la comunicazione.",
+            "time": 1.3186910152435303,
+            "wer": 0.3918918918918919,
+            "cer": 0.2606837606837607,
+            "bleu_avg": 0.37724476589207173,
+            "rouge1_avg_f1": 0.8374999999999999,
+            "rougeL_avg_f1": 0.8374999999999999,
+            "levenshtein_avg": 122.0
+        }
+    },
+    {
+        "dataset": "google_synthetic",
+        "file_path": "data/synthetic_datasets/GoogleTTS/audio/clean/clean_28.wav",
+        "original_sentence": "Verbale redatto in data 11/04/2025 alle ore 11:48 per la violazione riscontrata al veicolo macchina operatrice, marca Audi A3, targato EF123GH (tipo copertura) proveniente da svizzera. In particolare, in piazza Venezia, civico 1, è stato accertato parcheggio in zona rimozione, in violazione dell'articolo 8, comma 6 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 3 punti dalla patente. Richiedo la stampa in italiano via wifi, non stampare anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "verbale redatto in data undici aprile duemilaventicinque alle ore undici e quarantotto per la violazione riscontrata al veicolo macchina operatrice marca audi a tre targato e effe centoventitre giacca tipo copertura proveniente da svizzera in particolare in piazza venezia civico uno è stato accertato parcheggio in zona a rimozione in violazione dell'articolo otto con ma sei del codice civile data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di tre punti dalla patente richiedo la stampa in italiano via hawaii fai non stampare anche la comunicazione",
+            "reference": "Verbale redatto in data 11/04/2025 alle ore 11:48 per la violazione riscontrata al veicolo macchina operatrice, marca Audi A3, targato EF123GH (tipo copertura) proveniente da svizzera. In particolare, in piazza Venezia, civico 1, è stato accertato parcheggio in zona rimozione, in violazione dell'articolo 8, comma 6 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 3 punti dalla patente. Richiedo la stampa in italiano via wifi, non stampare anche la comunicazione.",
+            "time": 1.4540472030639648,
+            "wer": 0.5063291139240507,
+            "cer": 0.23880597014925373,
+            "bleu_avg": 0.2930986309718705,
+            "rouge1_avg_f1": 0.7931034482758621,
+            "rougeL_avg_f1": 0.7931034482758621,
+            "levenshtein_avg": 128.0
+        }
+    },
+    {
+        "dataset": "google_synthetic",
+        "file_path": "data/synthetic_datasets/GoogleTTS/audio/clean/clean_17.wav",
+        "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo autovettura, marca Dacia Sandero, targa MN789OP di tipo speciale, immatricolato in olanda. La violazione è avvenuta il 11/04/2025 alle ore 05:21 in via Roma, al numero civico 77, ed è relativa a parcheggio in divieto di sosta, in base all'articolo 158, comma 2 del codice stradale.Per tale violazione sono previsti 2 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua italiano tramite wifi, non stampare anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "si notifica la presenza di un preavviso di violazione per il veicolo autovettura marca dacia sandy ero targa sette centottantanove occhi di tipo speciale immatricolati in olanda la violazione è avvenuta hai l'undici aprile duemilaventicinque alle ore cinque ventuno in via roma al numero civico settantasette ed è relativa a parcheggiato in divieto di sosta in base all'articolo centocinquantotto comma due del codice stradale per tale violazione sono previsti due punti di decurtazione si richiede la stampa di tale preavviso in lingua italiano tramite vuoi fai non stampare anche la comunicazione",
+            "reference": "Si notifica la presenza di un preavviso di violazione per il veicolo autovettura, marca Dacia Sandero, targa MN789OP di tipo speciale, immatricolato in olanda. La violazione è avvenuta il 11/04/2025 alle ore 05:21 in via Roma, al numero civico 77, ed è relativa a parcheggio in divieto di sosta, in base all'articolo 158, comma 2 del codice stradale.Per tale violazione sono previsti 2 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua italiano tramite wifi, non stampare anche la comunicazione.",
+            "time": 1.3992185592651367,
+            "wer": 0.3855421686746988,
+            "cer": 0.26833976833976836,
+            "bleu_avg": 0.36794159721178726,
+            "rouge1_avg_f1": 0.8022598870056498,
+            "rougeL_avg_f1": 0.8022598870056498,
+            "levenshtein_avg": 139.0
+        }
+    },
+    {
+        "dataset": "google_synthetic",
+        "file_path": "data/synthetic_datasets/GoogleTTS/audio/clean/clean_13.wav",
+        "original_sentence": "Attenzione, sto generando un verbale per il veicolo Seat Ibiza, ciclomotore con targa UV321WX di tipo speciale, immatricolato in portogallo, per un'infrazione commessa il 27/03/2025 alle 21:17. L'infrazione è avvenuta in via Giuseppe Mazzini, al numero 24, dove il veicolo era in parcheggio in zona rimozione.  L'articolo violato è il 158, comma 2 del codice penale. Verranno tolti 8 punti dalla patente. Stampa questo verbale via bluetooth in italiano, non stampare anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "attenzione sto generando un verbale per il veicolo seat ibiza ciclomotori con targa ubi trecentoventi uno doppia ex di tipo speciale immatricolati in portogallo per un'infrazione commessa il ventisette marzo duemilaventicinque alle ventuno e diciassette l'infrazione e avvenuta in via giuseppe mazzini al numero ventiquattro dov'è il veicolo era in parcheggio in zona a rimozione l'articolo violato è il centocinquantotto comma due del codice penale verranno tolti otto punti dalla patente stampa questo verbale via blu tutti in italiano non stampare anche la comunicazione",
+            "reference": "Attenzione, sto generando un verbale per il veicolo Seat Ibiza, ciclomotore con targa UV321WX di tipo speciale, immatricolato in portogallo, per un'infrazione commessa il 27/03/2025 alle 21:17. L'infrazione è avvenuta in via Giuseppe Mazzini, al numero 24, dove il veicolo era in parcheggio in zona rimozione.  L'articolo violato è il 158, comma 2 del codice penale. Verranno tolti 8 punti dalla patente. Stampa questo verbale via bluetooth in italiano, non stampare anche la comunicazione.",
+            "time": 1.3927910327911377,
+            "wer": 0.5135135135135135,
+            "cer": 0.3142857142857143,
+            "bleu_avg": 0.26453742712862466,
+            "rouge1_avg_f1": 0.7804878048780488,
+            "rougeL_avg_f1": 0.7804878048780488,
+            "levenshtein_avg": 154.0
+        }
+    },
+    {
+        "dataset": "google_synthetic",
+        "file_path": "data/synthetic_datasets/GoogleTTS/audio/clean/clean_86.wav",
+        "original_sentence": "Sto emettendo un verbale per il veicolo Peugeot 208 rimorchio, targa FG234LM di tipo copertura, immatricolato in portogallo, per infrazione commessa in data 16/04/2025, ore 11:22. In via della Repubblica, civico 20, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 157, comma 5, del codice penale.Contestazione immediata eseguita dall'agente Francesco Rizzo. La violazione comporta la decurtazione di 3 punti. Richiesta stampa in italiano via wifi, stampa anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "sto emettendo un verbale per il veicolo peggio duecentotto rimorchio targa jeff duecentotrentaquattro di tipo copertura immatricolati portogallo per infrazione commessa in data sedici aprile duemilaventicinque ore undici e ventidue in via della repubblica civico venti è stato rilevato parcheggio in zona a rimozione ai sensi dell'articolo centocinquantasette comma cinque del codice penale contestazione immediata eseguita dall'agente francesco rizzo la violazione comporta la decurtazione di tre punti richiesta stampa in italiano via hawaii fai stampa anche la comunicazione",
+            "reference": "Sto emettendo un verbale per il veicolo Peugeot 208 rimorchio, targa FG234LM di tipo copertura, immatricolato in portogallo, per infrazione commessa in data 16/04/2025, ore 11:22. In via della Repubblica, civico 20, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 157, comma 5, del codice penale.Contestazione immediata eseguita dall'agente Francesco Rizzo. La violazione comporta la decurtazione di 3 punti. Richiesta stampa in italiano via wifi, stampa anche la comunicazione.",
+            "time": 1.4327738285064697,
+            "wer": 0.4788732394366197,
+            "cer": 0.302,
+            "bleu_avg": 0.3029641891556878,
+            "rouge1_avg_f1": 0.7870967741935484,
+            "rougeL_avg_f1": 0.7870967741935484,
+            "levenshtein_avg": 151.0
+        }
+    },
+    {
+        "dataset": "azure_synthetic",
+        "file_path": "data/synthetic_datasets/AzureTTS/audio/clean/clean_81.wav",
+        "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato UV123WX di tipo prova proveniente da italia, marca Skoda Fabia. La violazione, ovvero transito in zona accesso vietato, si è verificata in data 21/04/2025 alle ore 23:49 in via del Corso, al numero 12. L'infrazione rientra nell'articolo 6, comma 1a(1-12) del codice penale. Contestazione immediata da parte dell'agente Mario Rossi. La sanzione prevede la perdita di 1 punti. Si richiede la stampa in lingua italiano, tramite wifi, non stampare anche la comunicazione. ",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "si notifica un preavviso relativo al veicolo autovettura targato vuoi centoventitre doppia wings di tipo prova proveniente da italia manca skoda fabia la violazione ovvero transito in zona accesso vietato si e verificata in data ventuno aprile duemilaventicinque alle ore ventitré quarantanove in via del corso al numero dodici l'infrazione rientra nell'articolo sei con ma uno a è uno a dodici i del codice penale contestazioni immediata da parte della gente mario rossi la sanzione prevede la perdita di un punti si richiede la stampa in lingua italiano tramite wifi non stampare anche la comunicazione",
+            "reference": "Si notifica un preavviso relativo al veicolo autovettura targato UV123WX di tipo prova proveniente da italia, marca Skoda Fabia. La violazione, ovvero transito in zona accesso vietato, si è verificata in data 21/04/2025 alle ore 23:49 in via del Corso, al numero 12. L'infrazione rientra nell'articolo 6, comma 1a(1-12) del codice penale. Contestazione immediata da parte dell'agente Mario Rossi. La sanzione prevede la perdita di 1 punti. Si richiede la stampa in lingua italiano, tramite wifi, non stampare anche la comunicazione. ",
+            "time": 1.3882274627685547,
+            "wer": 0.5432098765432098,
+            "cer": 0.2744360902255639,
+            "bleu_avg": 0.2980299228192013,
+            "rouge1_avg_f1": 0.7717391304347826,
+            "rougeL_avg_f1": 0.7717391304347826,
+            "levenshtein_avg": 147.0
+        }
+    },
+    {
+        "dataset": "azure_synthetic",
+        "file_path": "data/synthetic_datasets/AzureTTS/audio/clean/clean_14.wav",
+        "original_sentence": "Si sta redigendo verbale per violazione accertata il 24/03/2025 alle ore 04:41 in viale dei Giardini, al civico 8, a carico del veicolo Nissan Micra, macchina operatrice con targa QR456ST di tipo ufficiale, immatricolato in grecia. La violazione contestata è transito in zona accesso vietato, in base all'articolo 3, comma 1 del codice stradale. La contestazione è avvenuta immediatamente da parte dell'agente Carlo Bruni. Sono previsti 10 punti di decurtazione. Si richiede la stampa in lingua italiano via bluetooth, non stampare anche la comunicazione. ",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "si stare dicendo verbale per violazione accertata il ventiquattro marzo duemilaventicinque alle ore quattro e quarantuno in viale dei giardini al civic otto a carico del veicolo nis amica macchina operatrici e con targa guerra e quattrocentocinquanta sei siti di tipo ufficiali immatricolati in grecia la violazioni contestata e transito in zona accesso vietato invasi all'articolo tre coma uno del codice stradale la contestazione avvenuta immediatamente da parte della gente carlo bruni sono previsti dieci punti di decurtazione si richiede la stampa in lingua italiano via blu tutte non stampare anche la comunicazione",
+            "reference": "Si sta redigendo verbale per violazione accertata il 24/03/2025 alle ore 04:41 in viale dei Giardini, al civico 8, a carico del veicolo Nissan Micra, macchina operatrice con targa QR456ST di tipo ufficiale, immatricolato in grecia. La violazione contestata è transito in zona accesso vietato, in base all'articolo 3, comma 1 del codice stradale. La contestazione è avvenuta immediatamente da parte dell'agente Carlo Bruni. Sono previsti 10 punti di decurtazione. Si richiede la stampa in lingua italiano via bluetooth, non stampare anche la comunicazione. ",
+            "time": 1.415363073348999,
+            "wer": 0.5595238095238095,
+            "cer": 0.2810810810810811,
+            "bleu_avg": 0.2410645612709699,
+            "rouge1_avg_f1": 0.6850828729281768,
+            "rougeL_avg_f1": 0.6850828729281768,
+            "levenshtein_avg": 157.0
+        }
+    },
+    {
+        "dataset": "azure_synthetic",
+        "file_path": "data/synthetic_datasets/AzureTTS/audio/clean/clean_3.wav",
+        "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato QR987ST di tipo ufficiale proveniente da olanda, marca Kia Picanto. La violazione, ovvero parcheggio in doppia fila, si è verificata in data 17/04/2025 alle ore 21:54 in corso Vittorio Emanuele, al numero 15. L'infrazione rientra nell'articolo 3, comma 1 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, motivo mancata contestazione: assenza del trasgressore. La sanzione prevede la perdita di 2 punti. Si richiede la stampa in lingua italiano, tramite bluetooth, stampa anche la comunicazione. ",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "si notifica un preavviso relativo al veicolo autovettura targato guerra novecento ottantasette a se ti di tipo ufficiali provenienti da olanda marca chi ha canto la violazione ovvero parcheggia in doppia fila sia verificata in data diciassette aprile duemilaventicinque alle ore ventuno e cinquantaquattro in corso vittorio emanuele al numero quindici l'infrazione rientra nei l'articolo tre comma uno del codice civile non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori motivo mancata contestazione assenza del trasgressori la sanzioni prevede la perdita di due punti si richiede la stampa in lingua italiano tramite blu tutte stampa anche la comunicazione",
+            "reference": "Si notifica un preavviso relativo al veicolo autovettura targato QR987ST di tipo ufficiale proveniente da olanda, marca Kia Picanto. La violazione, ovvero parcheggio in doppia fila, si è verificata in data 17/04/2025 alle ore 21:54 in corso Vittorio Emanuele, al numero 15. L'infrazione rientra nell'articolo 3, comma 1 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, motivo mancata contestazione: assenza del trasgressore. La sanzione prevede la perdita di 2 punti. Si richiede la stampa in lingua italiano, tramite bluetooth, stampa anche la comunicazione. ",
+            "time": 1.5608458518981934,
+            "wer": 0.5280898876404494,
+            "cer": 0.2564935064935065,
+            "bleu_avg": 0.27311255071707935,
+            "rouge1_avg_f1": 0.7384615384615385,
+            "rougeL_avg_f1": 0.7384615384615385,
+            "levenshtein_avg": 159.0
+        }
+    },
+    {
+        "dataset": "azure_synthetic",
+        "file_path": "data/synthetic_datasets/AzureTTS/audio/clean/clean_94.wav",
+        "original_sentence": "Sto emettendo un verbale per il veicolo Nissan Micra, rimorchio immatricolato in austria con targa MN321OP di tipo prova. L'infrazione è avvenuta in corso Vittorio Emanuele, civico 15: parcheggio in zona rimozione. Si applica l'articolo 7, comma 15 del codice civile. A seguito della violazione verranno decurtati 3 punti. Il verbale è stato contestato immediatamente dall'agente Matteo Gallo. Si prega di procedere con la stampa in italiano tramite wifi, stampa anche la comunicazione. ",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "sto emettendo un verbale per il veicolo nissan amica rimorchio immatricolati in austria con targa jimmy trecentoventi uno o più di tipo prova l'infrazione avvenuta in corso vittorio emanuele civico quindici parcheggio in zona a rimozione si applica l'articolo sette ma quindici del codice civile a seguito della violazione verranno decurtati tre punti il verbale è stato contestato immediatamente dall'agente matteo gallo si prega di procedere con la stampa in italiano tramite vuoi fai stampa anche la comunicazione",
+            "reference": "Sto emettendo un verbale per il veicolo Nissan Micra, rimorchio immatricolato in austria con targa MN321OP di tipo prova. L'infrazione è avvenuta in corso Vittorio Emanuele, civico 15: parcheggio in zona rimozione. Si applica l'articolo 7, comma 15 del codice civile. A seguito della violazione verranno decurtati 3 punti. Il verbale è stato contestato immediatamente dall'agente Matteo Gallo. Si prega di procedere con la stampa in italiano tramite wifi, stampa anche la comunicazione. ",
+            "time": 1.263397216796875,
+            "wer": 0.4383561643835616,
+            "cer": 0.17901234567901234,
+            "bleu_avg": 0.3562328140763603,
+            "rouge1_avg_f1": 0.8441558441558441,
+            "rougeL_avg_f1": 0.8441558441558441,
+            "levenshtein_avg": 88.0
+        }
+    },
+    {
+        "dataset": "azure_synthetic",
+        "file_path": "data/synthetic_datasets/AzureTTS/audio/clean/clean_35.wav",
+        "original_sentence": "Sto procedendo con la redazione di un verbale per motoveicolo, marca Nissan Micra, targa XY123ZA di tipo ufficiale, immatricolato in croazia. In data 04/04/2025 alle ore 06:10, in via Roma, al civico 77, è stata commessa la seguente violazione: parcheggio in divieto di sosta (articolo 5, comma 3 del codice stradale). Dalla violazione consegue la perdita di 2 punti. Stampa in modalità bluetooth e in lingua italiano, stampa anche la comunicazione. ",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "sto procedendo con la redazione di un verbale per motoveicoli marca nissan mira targa icsi non centoventitre zza di tipo ufficiali immatricolati in croazia in data quattro aprile duemilaventicinque alle ore sei dieci invia roma al civico settantasette e stata commessa la seguente violazione parcheggiato in divieto di sosta l'articolo cinque con ma tre del codice stradale dalla violazione con segue la perdita di due punti stampa in modalità blu tutte in lingua italiano stampa anche la comunicazione",
+            "reference": "Sto procedendo con la redazione di un verbale per motoveicolo, marca Nissan Micra, targa XY123ZA di tipo ufficiale, immatricolato in croazia. In data 04/04/2025 alle ore 06:10, in via Roma, al civico 77, è stata commessa la seguente violazione: parcheggio in divieto di sosta (articolo 5, comma 3 del codice stradale). Dalla violazione consegue la perdita di 2 punti. Stampa in modalità bluetooth e in lingua italiano, stampa anche la comunicazione. ",
+            "time": 1.2269623279571533,
+            "wer": 0.5492957746478874,
+            "cer": 0.2873051224944321,
+            "bleu_avg": 0.21932225313506176,
+            "rouge1_avg_f1": 0.6973684210526316,
+            "rougeL_avg_f1": 0.6842105263157894,
+            "levenshtein_avg": 130.0
+        }
+    },
+    {
+        "dataset": "azure_synthetic",
+        "file_path": "data/synthetic_datasets/AzureTTS/audio/clean/clean_31.wav",
+        "original_sentence": "Si notifica un preavviso per il veicolo Kia Picanto macchina agricola, targa XY321ZA di tipo copertura, proveniente da italia. Il giorno 02/04/2025, alle ore 11:22, in corso Vittorio Emanuele, al numero civico 15, è stata commessa l'infrazione di transito in zona accesso vietato, come previsto dall'articolo 3, comma 1, del codice penale. Per questa violazione sono previsti 4 punti di decurtazione. Chiedo la stampa del preavviso in italiano via bluetooth, non stampare anche la comunicazione. ",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "si notifica un preavviso per il veicolo ciampi canto macchina agricola targa è ypsilon trecentoventi uno di tipo copertura proveniente da italia il giorno due aprile duemilaventicinque alle ore undici e ventidue in corso vittorio emanuele al numero civico quindi è stata commessa l'infrazione di transito in zona accesso vietato come previsto dall'articolo tre comma uno del codice penale per questa violazione sono previsti quattro punti di decurtazione chiedo la stampa del preavviso in italiano via blu tutta non stampare anche la comunicazione",
+            "reference": "Si notifica un preavviso per il veicolo Kia Picanto macchina agricola, targa XY321ZA di tipo copertura, proveniente da italia. Il giorno 02/04/2025, alle ore 11:22, in corso Vittorio Emanuele, al numero civico 15, è stata commessa l'infrazione di transito in zona accesso vietato, come previsto dall'articolo 3, comma 1, del codice penale. Per questa violazione sono previsti 4 punti di decurtazione. Chiedo la stampa del preavviso in italiano via bluetooth, non stampare anche la comunicazione. ",
+            "time": 1.31693434715271,
+            "wer": 0.41333333333333333,
+            "cer": 0.23232323232323232,
+            "bleu_avg": 0.34160922831158924,
+            "rouge1_avg_f1": 0.8148148148148148,
+            "rougeL_avg_f1": 0.8148148148148148,
+            "levenshtein_avg": 116.0
+        }
+    },
+    {
+        "dataset": "azure_synthetic",
+        "file_path": "data/synthetic_datasets/AzureTTS/audio/clean/clean_28.wav",
+        "original_sentence": "Alle 10:08 del 13/04/2025, sto redigendo un verbale per il veicolo macchina operatrice targato TR098YU con targa copertura, immatricolato in austriaL'infrazione è stata accertata in via della Repubblica, al civico 20, con violazione del codice civile, articolo 8,comma 6 per parcheggio in divieto di sosta Sono previsti 7 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in italiano, stampa anche la comunicazione. ",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "alle dieci e otto del tredici aprile duemilaventicinque storie dicendo un verbale per il veicolo macchina operatrice targato ti a zero nove otto i ypsilon con targa copertura immatricolati in austria l'infrazione e stata accertata in via della repubblica al civico venti con violazione del codice civile articolo otto come sei per parcheggio in divieto di sosta sono previsti sette punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite blu tutte in italiano stampa anche la comunicazione",
+            "reference": "Alle 10:08 del 13/04/2025, sto redigendo un verbale per il veicolo macchina operatrice targato TR098YU con targa copertura, immatricolato in austriaL'infrazione è stata accertata in via della Repubblica, al civico 20, con violazione del codice civile, articolo 8,comma 6 per parcheggio in divieto di sosta Sono previsti 7 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in italiano, stampa anche la comunicazione. ",
+            "time": 1.3251287937164307,
+            "wer": 0.5064935064935064,
+            "cer": 0.2255083179297597,
+            "bleu_avg": 0.338301616787332,
+            "rouge1_avg_f1": 0.7441860465116279,
+            "rougeL_avg_f1": 0.7441860465116279,
+            "levenshtein_avg": 123.0
+        }
+    },
+    {
+        "dataset": "azure_synthetic",
+        "file_path": "data/synthetic_datasets/AzureTTS/audio/clean/clean_17.wav",
+        "original_sentence": "Attenzione, sto generando un verbale per il veicolo Dacia Sandero, ciclomotore con targa XY654ZA di tipo copertura, immatricolato in germania, per un'infrazione commessa il 22/04/2025 alle 02:03. L'infrazione è avvenuta in via Etnea, al numero 45, dove il veicolo era in parcheggio davanti a passo carrabile. L'articolo violato è il 158, comma 2 del codice civile. Verranno tolti 3 punti dalla patente. Stampa questo verbale via bluetooth in italiano, non stampare anche la comunicazione. ",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "attenzione sto generando un verbale per il veicolo da cassandra ero ciclomotori con targa icsi ypsilon si centocinquantaquattro già di tipo copertura immatricolati in germania per un'infrazione commessa il ventidue aprile duemilaventicinque alle due e tre l'infrazione avvenuta in via nea al numero quarantacinque dove il veicolo era in parcheggio davanti a passo carabine l'articolo violato è il centocinquantotto coma due del codice civile verranno tolti tra i punti dalla patente stampa questo verbale via piu tutti in italiano non stampare anche la comunicazione",
+            "reference": "Attenzione, sto generando un verbale per il veicolo Dacia Sandero, ciclomotore con targa XY654ZA di tipo copertura, immatricolato in germania, per un'infrazione commessa il 22/04/2025 alle 02:03. L'infrazione è avvenuta in via Etnea, al numero 45, dove il veicolo era in parcheggio davanti a passo carrabile. L'articolo violato è il 158, comma 2 del codice civile. Verranno tolti 3 punti dalla patente. Stampa questo verbale via bluetooth in italiano, non stampare anche la comunicazione. ",
+            "time": 1.2362523078918457,
+            "wer": 0.5,
+            "cer": 0.32991803278688525,
+            "bleu_avg": 0.2910278408518107,
+            "rouge1_avg_f1": 0.7317073170731708,
+            "rougeL_avg_f1": 0.7317073170731708,
+            "levenshtein_avg": 162.0
+        }
+    },
+    {
+        "dataset": "azure_synthetic",
+        "file_path": "data/synthetic_datasets/AzureTTS/audio/clean/clean_13.wav",
+        "original_sentence": "Si notifica un preavviso per il veicolo Opel Corsa autovettura, targa MN456OP di tipo prova, proveniente da slovenia. Il giorno 27/03/2025, alle ore 04:49, in via del Corso, al numero civico 12, è stata commessa l'infrazione di parcheggio su strisce pedonali, come previsto dall'articolo 7, comma 15, del codice stradale. Per questa violazione sono previsti 10 punti di decurtazione. Chiedo la stampa del preavviso in italiano via bluetooth, stampa anche la comunicazione. ",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "si notifica un preavviso per il veicolo hope il corsa autovettura targa e me ne quattrocentocinquanta sei oh piedi tipo prova proveniente da slovenia il giorno ventisette marzo duemilaventicinque alle ore quattro i quarantanove in via del corso al numero civico dodici e stata commessa l'infrazione di parcheggio su strisce pedonali come previsto dall'articolo sette comma quindici del codice stradale per questa violazione sono previsti dieci punti di decurtazione chiedo la stampa del preavviso in italiano via blu tutte stampa anche la comunicazione",
+            "reference": "Si notifica un preavviso per il veicolo Opel Corsa autovettura, targa MN456OP di tipo prova, proveniente da slovenia. Il giorno 27/03/2025, alle ore 04:49, in via del Corso, al numero civico 12, è stata commessa l'infrazione di parcheggio su strisce pedonali, come previsto dall'articolo 7, comma 15, del codice stradale. Per questa violazione sono previsti 10 punti di decurtazione. Chiedo la stampa del preavviso in italiano via bluetooth, stampa anche la comunicazione. ",
+            "time": 1.2318930625915527,
+            "wer": 0.4861111111111111,
+            "cer": 0.3050847457627119,
+            "bleu_avg": 0.3023666419300378,
+            "rouge1_avg_f1": 0.782608695652174,
+            "rougeL_avg_f1": 0.782608695652174,
+            "levenshtein_avg": 145.0
+        }
+    },
+    {
+        "dataset": "azure_synthetic",
+        "file_path": "data/synthetic_datasets/AzureTTS/audio/clean/clean_86.wav",
+        "original_sentence": "Procedo con la stesura di un verbale per il veicolo ciclomotore, marca Seat Ibiza, targato GH789IJ (di tipo prova), proveniente da croazia. L'infrazione è stata rilevata il 05/04/2025 alle ore 09:15. Il veicolo si trovava in via della Repubblica, al civico 20, in parcheggio in divieto di sosta, violando l'articolo 8, comma 6, del codice civile. L'agente Elena Fontana ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 7 punti. Richiedo la stampa del verbale in italiano tramite bluetooth, stampa anche la comunicazione. ",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "procedo con la stesura di un verbale per il veicolo ciclomotori marca seat ibiza targato gia cassette centottantanove di tipo prova proveniente da croazia l'infrazione e stata rilevata il cinque aprile duemilaventicinque alle ore nove quindici il veicolo si trovava in via della repubblica al civico venti in parcheggio individuato di sosta violando l'articolo otto comma sei del codice civile l'agente elena fontana provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di sette punti richiedo la stampa del verbale in italiano tramite blu tutta stampa anche la comunicazione",
+            "reference": "Procedo con la stesura di un verbale per il veicolo ciclomotore, marca Seat Ibiza, targato GH789IJ (di tipo prova), proveniente da croazia. L'infrazione è stata rilevata il 05/04/2025 alle ore 09:15. Il veicolo si trovava in via della Repubblica, al civico 20, in parcheggio in divieto di sosta, violando l'articolo 8, comma 6, del codice civile. L'agente Elena Fontana ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 7 punti. Richiedo la stampa del verbale in italiano tramite bluetooth, stampa anche la comunicazione. ",
+            "time": 1.4798567295074463,
+            "wer": 0.4418604651162791,
+            "cer": 0.22183098591549297,
+            "bleu_avg": 0.32864528777484864,
+            "rouge1_avg_f1": 0.8279569892473119,
+            "rougeL_avg_f1": 0.8279569892473119,
+            "levenshtein_avg": 127.0
+        }
+    },
+    {
+        "dataset": "coqui",
+        "file_path": "data/coqui_output/male/sample_81_male.wav",
+        "original_sentence": "Il giorno 02/04/2025, alle ore 07:50, è stato redatto un verbale per il veicolo Audi A3, motoveicolo immatricolato in olanda con targa ZA456QP di tipo speciale.L'infrazione è avvenuta in viale dei Giardini, al civico 8. È stata riscontrata una violazione del codice penale, articolo 185, comma 2 ovvero parcheggio davanti a passo carrabileNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 3 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in italiano tramite wifi, non stampare anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "giorno tuo furto enti tu enti five alle ore seven fitti è stato redatto un verbale per è il veicolo audi sarei motoveicoli immatricolati in olanda con targa zaha furia un tre fitti si fidi tipo speciale infrazione avvenuta in viale dei giardini il civico e e stata riscontrata una violazione del codice penale articolo ne un tre dei gatti five con ma tu povero parcheggio davanti a passo carabine non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti terra e punti da decurtare e non è stata applicata alcuna sanzione accessoria stata in italiano tramite wifi non stampare anche la comunicazione",
+            "reference": "Il giorno 02/04/2025, alle ore 07:50, è stato redatto un verbale per il veicolo Audi A3, motoveicolo immatricolato in olanda con targa ZA456QP di tipo speciale.L'infrazione è avvenuta in viale dei Giardini, al civico 8. È stata riscontrata una violazione del codice penale, articolo 185, comma 2 ovvero parcheggio davanti a passo carrabileNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 3 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in italiano tramite wifi, non stampare anche la comunicazione.",
+            "time": 1.6670997142791748,
+            "wer": 0.5568181818181818,
+            "cer": 0.24394463667820068,
+            "bleu_avg": 0.33647840930542555,
+            "rouge1_avg_f1": 0.7046632124352331,
+            "rougeL_avg_f1": 0.694300518134715,
+            "levenshtein_avg": 141.0
+        }
+    },
+    {
+        "dataset": "coqui",
+        "file_path": "data/coqui_output/female/sample_14_female.wav",
+        "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa IJ123KL di tipo ufficiale, marca Volkswagen Golf, proveniente da grecia. L'infrazione, nello specifico parcheggio in doppia fila, si è verificata in data 18/03/2025 alle ore 21:23 in via della Repubblica, al numero 20 (articolo 14, comma 1 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 8 punti.Si richiede la stampa in lingua italiano, modalità wifi, non stampare anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "si avvisa è in corso l'assessora di un preavviso di violazione per il veicolo rimorchio contare i one tenti torelli litico ufficiale vacca volkswagen golf a proveniente da grecia l'infrazione nello specifico parcheggia in doppia fila si verificate andata essere pensi tenti si e le ore tensione enti prendi a della repubblica al numero pensi articolo forse con money del codice ci si comunita e dall'aviazione conseguire una reputazione di si richiede la sappia lingua italiano modalita hi fi non sa fare anche la comunicazione",
+            "reference": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa IJ123KL di tipo ufficiale, marca Volkswagen Golf, proveniente da grecia. L'infrazione, nello specifico parcheggio in doppia fila, si è verificata in data 18/03/2025 alle ore 21:23 in via della Repubblica, al numero 20 (articolo 14, comma 1 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 8 punti.Si richiede la stampa in lingua italiano, modalità wifi, non stampare anche la comunicazione.",
+            "time": 1.869598150253296,
+            "wer": 0.6746987951807228,
+            "cer": 0.2832699619771863,
+            "bleu_avg": 0.15570121861525504,
+            "rouge1_avg_f1": 0.5664739884393063,
+            "rougeL_avg_f1": 0.5549132947976879,
+            "levenshtein_avg": 149.0
+        }
+    },
+    {
+        "dataset": "coqui",
+        "file_path": "data/coqui_output/female/sample_3_female.wav",
+        "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina agricola, marca Fiat Panda, targato CD123AB (di tipo speciale), proveniente da portogallo.  L'infrazione è stata rilevata il 17/04/2025 alle ore 06:33. Il veicolo si trovava in corso Buenos Aires, al civico 98, in parcheggio in doppia fila, violando l'articolo 4, comma 2, del codice stradale. L'agente Alessandro Moretti ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 9 punti.  Richiedo la stampa del verbale in italiano tramite wifi, stampa anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "procedo con l'assessora di un verbale per il veicolo macchina ricola a cafiero panda targato sono presenti tre di tipo speciale proveniente da portogallo infrazione e stata rilevata il senza impotenti tenti si e alle ore si il fissare il veicolo si trovava in corso buenos aires si a ci con inetti deità in parcheggia in doppia fila violando l'articolo foto con matto l'ascoli c'è stradale l'agente alessandro moretti ha provveduto alla contestazione immediata dell'infrazione l'aviazione comporta la perdita di nine ti chiedo la stampa del verbale italiano tramite i fi stampa anche la comunicazione",
+            "reference": "Procedo con la stesura di un verbale per il veicolo macchina agricola, marca Fiat Panda, targato CD123AB (di tipo speciale), proveniente da portogallo.  L'infrazione è stata rilevata il 17/04/2025 alle ore 06:33. Il veicolo si trovava in corso Buenos Aires, al civico 98, in parcheggio in doppia fila, violando l'articolo 4, comma 2, del codice stradale. L'agente Alessandro Moretti ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 9 punti.  Richiedo la stampa del verbale in italiano tramite wifi, stampa anche la comunicazione.",
+            "time": 2.0608932971954346,
+            "wer": 0.6162790697674418,
+            "cer": 0.2564991334488735,
+            "bleu_avg": 0.23213161855675138,
+            "rouge1_avg_f1": 0.6735751295336788,
+            "rougeL_avg_f1": 0.6632124352331605,
+            "levenshtein_avg": 148.0
+        }
+    },
+    {
+        "dataset": "coqui",
+        "file_path": "data/coqui_output/male/sample_94_male.wav",
+        "original_sentence": "Si sta redigendo verbale per violazione accertata il 23/03/2025 alle ore 12:17 in corso Buenos Aires, al civico 98, a carico del veicolo BMW Serie 1, ciclomotore con targa QR987ST di tipo ufficiale, immatricolato in slovenia. La violazione contestata è parcheggio davanti a passo carrabile, in base all'articolo 158, comma 2 del codice civile.Non è stato possibile contestare immediatamente, motivo: assenza del trasgressore. Sono previsti 1 punti di decurtazione. Si richiede la stampa in lingua italiano via wifi, non stampare anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "si stare dicendo verbale per violazione accertata il tu enti reiter jet venti tu enti five alle ore tu è il vero seventeen in corso buenos aires al civico un'inedita carico del veicolo boom serie one ciclomotori con targa crimine un tre dei di se festa di tipo ufficiale immatricolati slovenia la violazione contestata parcheggia davanti a passo carabine invase all'articolo neon trees fitti età con ma tuo del codice civile non è stato possibile contestare immediatamente motivo assenza del trasgressori sopra visione ponti di decurtazione si richiede la stampa in lingua italiano via wifi non stampare anche la comunicazione",
+            "reference": "Si sta redigendo verbale per violazione accertata il 23/03/2025 alle ore 12:17 in corso Buenos Aires, al civico 98, a carico del veicolo BMW Serie 1, ciclomotore con targa QR987ST di tipo ufficiale, immatricolato in slovenia. La violazione contestata è parcheggio davanti a passo carrabile, in base all'articolo 158, comma 2 del codice civile.Non è stato possibile contestare immediatamente, motivo: assenza del trasgressore. Sono previsti 1 punti di decurtazione. Si richiede la stampa in lingua italiano via wifi, non stampare anche la comunicazione.",
+            "time": 1.7897305488586426,
+            "wer": 0.7349397590361446,
+            "cer": 0.31521739130434784,
+            "bleu_avg": 0.19678359520944658,
+            "rouge1_avg_f1": 0.6344086021505376,
+            "rougeL_avg_f1": 0.6344086021505376,
+            "levenshtein_avg": 174.0
+        }
+    },
+    {
+        "dataset": "coqui",
+        "file_path": "data/coqui_output/female/sample_35_female.wav",
+        "original_sentence": "In data 25/03/2025, alle ore 17:36, si eleva verbale al veicolo Mercedes Classe A, ciclomotore con targa XY321ZA di tipo copertura, immatricolato in spagna, per violazione dell'articolo 158, comma 2 del codice penale, ovvero parcheggio su strisce pedonali, rilevata in via Giuseppe Mazzini, al civico 24.La contestazione è stata immediata, effettuata dall'agente Elena Fontana. Dalla violazione derivano 3 punti di decurtazione. Stampa necessaria in lingua italiano via wifi, non stampare anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "attenti attenti attenti fine alle ore sergente che sia si aveva verbale dal veicolo mettere essere casse la contestazione state mediata effettuata dalla gente helena bontà dall'aviazione derivano fare punti di decurtazione stampa necessaria lingua italia ero via di non sa fare anche la comunicazione",
+            "reference": "In data 25/03/2025, alle ore 17:36, si eleva verbale al veicolo Mercedes Classe A, ciclomotore con targa XY321ZA di tipo copertura, immatricolato in spagna, per violazione dell'articolo 158, comma 2 del codice penale, ovvero parcheggio su strisce pedonali, rilevata in via Giuseppe Mazzini, al civico 24.La contestazione è stata immediata, effettuata dall'agente Elena Fontana. Dalla violazione derivano 3 punti di decurtazione. Stampa necessaria in lingua italiano via wifi, non stampare anche la comunicazione.",
+            "time": 1.2101941108703613,
+            "wer": 0.8493150684931506,
+            "cer": 0.55078125,
+            "bleu_avg": 0.01043083636323701,
+            "rouge1_avg_f1": 0.3709677419354839,
+            "rougeL_avg_f1": 0.3387096774193548,
+            "levenshtein_avg": 282.0
+        }
+    },
+    {
+        "dataset": "coqui",
+        "file_path": "data/coqui_output/female/sample_31_female.wav",
+        "original_sentence": "Emissione di preavviso per il veicolo autovettura, marca Mercedes Classe A, targato GH789IJ di tipo prova, proveniente da grecia. In data 23/03/2025 alle ore 06:37, è stata rilevata la violazione di transito in zona accesso vietato in via Etnea, al numero 45, in base all'articolo 3, comma 1 del codice civile.Per tale infrazione sono previsti 4 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua italiano, stampa anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "missione di preavviso per il veicolo autovettura vacca james usasse ha cambiato la se non deve finire di tipo prova proveniente da cresce in data attenti terrestre pensi tenti sia alle ore si il ti sei stata rilevata da violazione di transito zona accesso vietato in via al numero forti fine invase per lattico lottare con molle del codice per tale infrazione sono previsti fu un si di decurtazione si richiede la stampa del preavviso tramite i figli lingua italiano sa anche la comunicazione",
+            "reference": "Emissione di preavviso per il veicolo autovettura, marca Mercedes Classe A, targato GH789IJ di tipo prova, proveniente da grecia. In data 23/03/2025 alle ore 06:37, è stata rilevata la violazione di transito in zona accesso vietato in via Etnea, al numero 45, in base all'articolo 3, comma 1 del codice civile.Per tale infrazione sono previsti 4 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua italiano, stampa anche la comunicazione.",
+            "time": 1.9564268589019775,
+            "wer": 0.6216216216216216,
+            "cer": 0.32905982905982906,
+            "bleu_avg": 0.2203644821253883,
+            "rouge1_avg_f1": 0.6049382716049383,
+            "rougeL_avg_f1": 0.5925925925925927,
+            "levenshtein_avg": 154.0
+        }
+    },
+    {
+        "dataset": "coqui",
+        "file_path": "data/coqui_output/female/sample_28_female.wav",
+        "original_sentence": "Verbale redatto in data 11/04/2025 alle ore 11:48 per la violazione riscontrata al veicolo macchina operatrice, marca Audi A3, targato EF123GH (tipo copertura) proveniente da svizzera. In particolare, in piazza Venezia, civico 1, è stato accertato parcheggio in zona rimozione, in violazione dell'articolo 8, comma 6 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 3 punti dalla patente. Richiedo la stampa in italiano via wifi, non stampare anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "verbale per attentato forfait tenti le ore fossi eta per violazione di scontrata al veicolo macchina operatrice ma saro li per targato fogna un tenti trenta tipo copertura proveniente da size in particolare in piazza bene sia ci vuole è stato accettato parcheggio solari emozione in violazione dell'articolo vita con ma sia del codice ci stata all'assenza del conducente la contestazione non è state maiali si prevede la deportazione di tre punti dalla patente richiedo la sapendo italiano via di qui non so fare anche la comunicazione",
+            "reference": "Verbale redatto in data 11/04/2025 alle ore 11:48 per la violazione riscontrata al veicolo macchina operatrice, marca Audi A3, targato EF123GH (tipo copertura) proveniente da svizzera. In particolare, in piazza Venezia, civico 1, è stato accertato parcheggio in zona rimozione, in violazione dell'articolo 8, comma 6 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 3 punti dalla patente. Richiedo la stampa in italiano via wifi, non stampare anche la comunicazione.",
+            "time": 2.004230499267578,
+            "wer": 0.6962025316455697,
+            "cer": 0.27425373134328357,
+            "bleu_avg": 0.08028959453184255,
+            "rouge1_avg_f1": 0.5647058823529413,
+            "rougeL_avg_f1": 0.5411764705882354,
+            "levenshtein_avg": 147.0
+        }
+    },
+    {
+        "dataset": "coqui",
+        "file_path": "data/coqui_output/female/sample_17_female.wav",
+        "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo autovettura, marca Dacia Sandero, targa MN789OP di tipo speciale, immatricolato in olanda. La violazione è avvenuta il 11/04/2025 alle ore 05:21 in via Roma, al numero civico 77, ed è relativa a parcheggio in divieto di sosta, in base all'articolo 158, comma 2 del codice stradale.Per tale violazione sono previsti 2 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua italiano tramite wifi, non stampare anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "notifica la presenza di un preavviso di violazione per il veicolo autovettura vacca dacia sandalo tara sera serve non i ti nine di tipo speciale immatricolati nolan la violazione è avvenuta deve info pensi tenti si e le ore fire zone inviarlo al numero civico senti se è il relativa parcheggiata in divieto di sosta invase la l'articolo ne congressisti verita con matto del codice strada per tale violazione sono previsto un si di decurtazione si richiede la stampa digitale preavviso in lingua italiano tramite i fi non so fare anche la comunicazione",
+            "reference": "Si notifica la presenza di un preavviso di violazione per il veicolo autovettura, marca Dacia Sandero, targa MN789OP di tipo speciale, immatricolato in olanda. La violazione è avvenuta il 11/04/2025 alle ore 05:21 in via Roma, al numero civico 77, ed è relativa a parcheggio in divieto di sosta, in base all'articolo 158, comma 2 del codice stradale.Per tale violazione sono previsti 2 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua italiano tramite wifi, non stampare anche la comunicazione.",
+            "time": 1.976719856262207,
+            "wer": 0.6746987951807228,
+            "cer": 0.2915057915057915,
+            "bleu_avg": 0.2303730201465984,
+            "rouge1_avg_f1": 0.5842696629213482,
+            "rougeL_avg_f1": 0.5617977528089888,
+            "levenshtein_avg": 151.0
+        }
+    },
+    {
+        "dataset": "coqui",
+        "file_path": "data/coqui_output/female/sample_13_female.wav",
+        "original_sentence": "Attenzione, sto generando un verbale per il veicolo Seat Ibiza, ciclomotore con targa UV321WX di tipo speciale, immatricolato in portogallo, per un'infrazione commessa il 27/03/2025 alle 21:17. L'infrazione è avvenuta in via Giuseppe Mazzini, al numero 24, dove il veicolo era in parcheggio in zona rimozione.  L'articolo violato è il 158, comma 2 del codice penale. Verranno tolti 8 punti dalla patente. Stampa questo verbale via bluetooth in italiano, non stampare anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "attenzione sto generando un verbale per il veicolo serie b itzhak ciclomotori raccontarla tenso lei di tipo speciale immatricolati imposto dallo per un'infrazione commessa il senti se intermittenti tenti field detenzione sente infrazione avvenuta in via giuseppe mazzini al numero tenti foro dov'è il veicolo jeremy parcheggio zona a rimozione l'articolo violato e io non graffiti età con ma tua del codice penale verranno totti età punti dalla patente sappi questo verbale di avuto italiano non so fare anche la comunicazione",
+            "reference": "Attenzione, sto generando un verbale per il veicolo Seat Ibiza, ciclomotore con targa UV321WX di tipo speciale, immatricolato in portogallo, per un'infrazione commessa il 27/03/2025 alle 21:17. L'infrazione è avvenuta in via Giuseppe Mazzini, al numero 24, dove il veicolo era in parcheggio in zona rimozione.  L'articolo violato è il 158, comma 2 del codice penale. Verranno tolti 8 punti dalla patente. Stampa questo verbale via bluetooth in italiano, non stampare anche la comunicazione.",
+            "time": 2.004800796508789,
+            "wer": 0.7027027027027027,
+            "cer": 0.3326530612244898,
+            "bleu_avg": 0.156184321090433,
+            "rouge1_avg_f1": 0.5838509316770186,
+            "rougeL_avg_f1": 0.5714285714285715,
+            "levenshtein_avg": 163.0
+        }
+    },
+    {
+        "dataset": "coqui",
+        "file_path": "data/coqui_output/male/sample_86_male.wav",
+        "original_sentence": "Sto emettendo un verbale per il veicolo Peugeot 208 rimorchio, targa FG234LM di tipo copertura, immatricolato in portogallo, per infrazione commessa in data 16/04/2025, ore 11:22. In via della Repubblica, civico 20, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 157, comma 5, del codice penale.Contestazione immediata eseguita dall'agente Francesco Rizzo. La violazione comporta la decurtazione di 3 punti. Richiesta stampa in italiano via wifi, stampa anche la comunicazione.",
+        "transcribed_sentence": {
+            "model": "Vosk STT (Small IT)",
+            "text": "sto mettendo un verbale per è il veicolo per gettato un re dei rimorchio targa ho un tre terry ti furono di tipo copertura immatricolati importo dallo per infrazione commessa in data sistema fortuna enti tu enti five ora è l'evento aventi tu in via della repubblica civico tu enti è stato rilevato parcheggio in zona a rimozione ai sensi dell'articolo ne un tre fitti seven con ma five del codice penale contestazione immediata eseguita dalla gente francesco horizon la violazione comporta la decurtazione di tara i punti richiesta stampa in italiano via wifi stampa anche la comunicazione",
+            "reference": "Sto emettendo un verbale per il veicolo Peugeot 208 rimorchio, targa FG234LM di tipo copertura, immatricolato in portogallo, per infrazione commessa in data 16/04/2025, ore 11:22. In via della Repubblica, civico 20, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 157, comma 5, del codice penale.Contestazione immediata eseguita dall'agente Francesco Rizzo. La violazione comporta la decurtazione di 3 punti. Richiesta stampa in italiano via wifi, stampa anche la comunicazione.",
+            "time": 1.556699275970459,
+            "wer": 0.8028169014084507,
+            "cer": 0.334,
+            "bleu_avg": 0.19904460606543697,
+            "rouge1_avg_f1": 0.6358381502890174,
+            "rougeL_avg_f1": 0.6358381502890174,
+            "levenshtein_avg": 167.0
+        }
+    }
+]

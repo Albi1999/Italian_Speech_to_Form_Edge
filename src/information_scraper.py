@@ -38,7 +38,7 @@ class InformationScraper:
         payload = self.load_json_payload()
         if not payload:
             print("Payload is empty or invalid.")
-            return
+            return None
 
         response = requests.post(self.url, headers=headers, data=payload)
         if response.ok:
@@ -73,19 +73,114 @@ def load_texts(file_path: str):
         print("Error decoding JSON from the file.")
         return []
 
-texts_file_path = "data/synthetic_datasets/metadata/samples.json"
-texts = load_texts(texts_file_path)
+def load_transcribed_texts(file_path: str):
+    """
+    Loads transcribed texts from a JSON file.
 
-macros = ["macro_complete.json", "macro_general_info.json", "macro_vehicle_info.json", "macro_violation_info.json"]
+    Args:
+        file_path (str): Path to the JSON file.
 
-for document_text in texts:
-    for macro in macros:
-        scraper = InformationScraper(
-            api_key_env_var="APIM_AI_DEV_KEY",
-            base_url_env_var="AI_DEV_BASE_URL",
-            json_dir="json",
-            json_filename=macro,
-            document_text=document_text
-        )
-        scraper.extract_information()
-        print(f"Processed {macro} with document '{document_text[:30]}...' successfully.")
+    Returns:
+        list: A list of transcribed text strings, or an empty list on error.
+    """
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return [item.get('transcribed_sentence', {}).get('text', '') for item in data]
+    except FileNotFoundError:
+        print(f"File {file_path} not found.")
+        return []
+    except json.JSONDecodeError:
+        print("Error decoding JSON from the file.")
+        return []
+    except AttributeError:
+        print(f"Error: 'transcribed_sentence' or 'text' key not found in JSON data.")
+        return []
+
+def load_original_texts(file_path: str):
+    """
+    Loads original texts from a JSON file.
+
+    Args:
+        file_path (str): Path to the JSON file.
+
+    Returns:
+        list: A list of original text strings, or an empty list on error.
+    """
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return [item.get('original_sentence', '') for item in data]
+    except FileNotFoundError:
+        print(f"File {file_path} not found.")
+        return []
+    except json.JSONDecodeError:
+        print("Error decoding JSON from the file.")
+        return []
+    except KeyError:
+        print(f"Error: 'original_sentence' key not found in JSON data.")
+        return []
+
+def main(all_macros=False, transcribed_texts=False):
+    # Load macros
+    if all_macros:
+        # Load all macros to compare the performance between a complete and a partial macro
+        macros = ["macro_complete.json", "macro_general_info.json", "macro_vehicle_info.json", "macro_violation_info.json"]
+    else:
+        # Load only the complete macro for the benchmark
+        macros = ["macro_complete.json"]
+
+    if transcribed_texts:
+        # Load transcribed texts
+        transcribed_texts_path = "output/stt/vosk_transcription/all_transcriptions.json"
+        transcribed_texts_list = load_transcribed_texts(transcribed_texts_path)
+        original_texts_list = load_original_texts(transcribed_texts_path) # Load original sentences
+        if not transcribed_texts_list or not original_texts_list or len(transcribed_texts_list) != len(original_texts_list):
+            print("Error: Could not load transcribed or original texts, or lists have different lengths. Exiting.")
+            return
+
+        # Process both transcribed and original texts
+        for transcribed_text, original_text in zip(transcribed_texts_list, original_texts_list): #Iterate both lists in parallel
+            for macro in macros:
+                # Scrape with transcribed text
+                scraper_transcribed = InformationScraper(
+                    api_key_env_var="APIM_AI_DEV_KEY",
+                    base_url_env_var="AI_DEV_BASE_URL",
+                    json_dir="json",
+                    json_filename=macro,
+                    document_text=transcribed_text
+                )
+                print(f"Processing {macro} with transcribed text: '{transcribed_text[:30]}...'")
+                scraper_transcribed.extract_information()
+
+                # Scrape with original text
+                scraper_original = InformationScraper( # New scraper for original text
+                    api_key_env_var="APIM_AI_DEV_KEY",
+                    base_url_env_var="AI_DEV_BASE_URL",
+                    json_dir="json",
+                    json_filename=macro,
+                    document_text=original_text
+                )
+                print(f"Processing {macro} with original text: '{original_text[:30]}...'")
+                scraper_original.extract_information()
+    else:
+        # Load regular texts
+        texts_file_path = "data/synthetic_datasets/metadata/samples.json"
+        texts = load_texts(texts_file_path)
+        for document_text in texts:
+            for macro in macros:
+                scraper = InformationScraper(
+                    api_key_env_var="APIM_AI_DEV_KEY",
+                    base_url_env_var="AI_DEV_BASE_URL",
+                    json_dir="json",
+                    json_filename=macro,
+                    document_text=document_text
+                )
+                scraper.extract_information()
+                print(f"Processed {macro} with document text: '{document_text[:30]}...'")
+
+
+
+if __name__ == "__main__":
+    main(transcribed_texts=True)
+    
