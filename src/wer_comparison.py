@@ -17,7 +17,7 @@ def load_gemini_data(results_dir="output/stt/gemini_only"):
     
     return df_gemini_mean
 
-def load_other_models_data(results_dir="output/stt", filename="model_comparison_summary.csv"):
+def load_other_models_data(results_dir="output/stt/comparison", filename="model_comparison_summary.csv"):
     summary_path = os.path.join(results_dir, filename)
     if not os.path.exists(summary_path):
         print(f"Error: Summary results file not found at {summary_path}")
@@ -71,7 +71,9 @@ def plot_wer_comparison(combined_df):
     plt.xticks(rotation=45, ha="right")
     plt.tight_layout()
     
-    plot_path = "output/stt/final_wer_comparison.png"
+    plot_path = "output/stt/comparison/final_wer_comparison.png"
+    if not os.path.exists(os.path.dirname(plot_path)):
+        os.makedirs(os.path.dirname(plot_path))
     plt.savefig(plot_path)
     plt.close()
     print(f"Saved final WER comparison plot to {plot_path}")
