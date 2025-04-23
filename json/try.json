@@ -1,0 +1,415 @@
+{
+    "requested_informations": [
+
+        {
+            "title": "Modulo",
+            "description": "Quale modulo vuole redigere l'agente",
+            "union" : [
+                {   
+                    "type": "verbale",
+                    "group": [
+                    {
+                        "title": "data_violazione",
+                        "description": "Date of the violation",
+                        "type": "date",
+                        "accepted_values": null,
+                        "example": "09/04/2025"
+                    },
+                    {
+                        "title": "ora_violazione",
+                        "description": "Time of the violation",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "14:30"
+                    },
+                    {
+                        "title": "data_verbalizzazione",
+                        "description": "Date of verbalization (same as the violation if not else specified)",
+                        "type": "date",
+                        "accepted_values": null,
+                        "example": "09/04/2025"
+                    },
+                    {
+                        "title": "ora_verbalizzazione",
+                        "description": "Time of verbalization (same as the violation if not else specified)",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "14:45"
+                    },
+                    {
+                        "title": "luogo_verbalizzazione",
+                        "description": "Place of verbalization (same as the violation if not else specified)",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "piazza maggiore, bologna"
+                    },
+                    {
+                        "title": "Strada_1",
+                        "description": "Address of the violation",
+                        "type": "address",
+                        "accepted_values": null,
+                        "example": "via roma"
+                    },
+                    {
+                        "title": "Civico_1",
+                        "description": "Street number of the violation",
+                        "type": "address",
+                        "accepted_values": null,
+                        "example": "10"
+                    },
+                    {
+                        "title": "lista_veicoli",
+                        "description": "Vehicles details",
+                        "list": {
+                            "title": "veicolo",
+                            "description": "Vehicle details",
+                            "group":[
+                                {
+                                    "title": "tipologia",
+                                    "description": "Type of vehicle",
+                                    "type": "text",
+                                    "accepted_values": ["ciclomotore", "motoveicolo", "autovettura", "rimorchio", "macchina agricola", "macchina operatrice"],
+                                    "example": "autovettura"
+                                },
+                                {
+                                    "title": "nazione",
+                                    "description": "Country of the license plate",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "italia"
+                                },
+                                {
+                                    "title": "targa",
+                                    "description": "License plate of the vehicle",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "AB123CD"
+                                },
+                                {
+                                    "title": "tipologia_targa",
+                                    "description": "Type of license plate",
+                                    "type": "text",
+                                    "accepted_values": ["ufficiale", "speciale", "prova", "copertura"],
+                                    "example": "ufficiale"
+                                },
+                                {
+                                    "title": "marca_modello",
+                                    "description": "Brand and/or model of the vehicle",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "fiat panda"
+                                },
+                                {
+                                    "title": "colore",
+                                    "description": "Color of the vehicle",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "rosso"
+                                },
+                                {
+                                    "title": "telaio",
+                                    "description": "Chassis number of the vehicle",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "12345678901234567"
+                                },
+                                {
+                                    "title": "massa",
+                                    "description": "Mass of the vehicle",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "1200 kg"
+                                },
+                                {
+                                    "title": "note_veicolo",
+                                    "description": "Notes on the vehicle",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "veicolo in sosta"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "contestazione_immediata",
+                        "description": "Immediate contestation (default true)",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "contestazione immediata"
+                    },
+                    {
+                        "title": "violazioni",
+                        "description": "Details of the violations",
+                        "list": {
+                                "title": "violazione",
+                                "description": "Details of the violation",
+                                "group":[
+                                {
+                                    "title": "codice",
+                                    "description": "Law code violated",
+                                    "type": "text",
+                                    "accepted_values": ["civile", "penale", "stradale"],
+                                    "example": "stradale"
+                                },
+                                {
+                                    "title": "articolo",
+                                    "description": "Article violated",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "6"
+                                },
+                                {
+                                    "title": "comma",
+                                    "description": "Comma of the article",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "1a(1-12)"
+                                },
+                                {
+                                    "title": "sanzione_accessoria",
+                                    "description": "Accessory sanction (true/false)",
+                                    "type": "text",
+                                    "accepted_values": ["con sanzione accessoria", "senza sanzione accessoria"],
+                                    "example": "con sanzione accessoria"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "punti",
+                        "description": "Points deducted",
+                        "type": "number",
+                        "accepted_values": null,
+                        "example": "5"
+                    },
+                    {
+                        "title": "dichiarazioni",
+                        "description": "Declarations made by the violator",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "Ho rispettato il codice della strada"
+                    },
+                    {
+                        "title": "tipo_stampa",
+                        "description": "How he wants to print (Bluetooth/WIFI)",
+                        "type": "text",
+                        "accepted_values": ["bluetooth", "wifi"],
+                        "example": "bluetooth"
+                    },
+                    {
+                        "title": "lingua_stampa",
+                        "description": "Print language",
+                        "type": "text",
+                        "accepted_values": ["italiano"],
+                        "example": "italiano"
+                    },
+                    {
+                        "title": "stampa_anche_comunicazione",
+                        "description": "Print also communication (true/false)",
+                        "type": "text",
+                        "accepted_values": ["stampa anche la comunicazione", "non stampare anche la comunicazione"],
+                        "example": "non stampare anche la comunicazione"
+                    }
+
+                    ]
+                },
+                {
+                    "type": "preavviso",
+                    "group": [
+                    {
+                        "title": "data_violazione",
+                        "description": "Date of the violation",
+                        "type": "date",
+                        "accepted_values": null,
+                        "example": "09/04/2025"
+                    },
+                    {
+                        "title": "ora_violazione",
+                        "description": "Time of the violation",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "14:30"
+                    },
+                    {
+                        "title": "Strada_1",
+                        "description": "Address of the violation",
+                        "type": "address",
+                        "accepted_values": null,
+                        "example": "via roma"
+                    },
+                    {
+                        "title": "Civico_1",
+                        "description": "Street number of the violation",
+                        "type": "address",
+                        "accepted_values": null,
+                        "example": "10"
+                    },
+                    {
+                        "title": "lista_veicoli",
+                        "description": "Vehicles details",
+                        "list": {
+                            "title": "veicolo",
+                            "description": "Vehicle details",
+                            "group":[
+                                {
+                                    "title": "tipologia",
+                                    "description": "Type of vehicle",
+                                    "type": "text",
+                                    "accepted_values": ["ciclomotore", "motoveicolo", "autovettura", "rimorchio", "macchina agricola", "macchina operatrice"],
+                                    "example": "autovettura"
+                                },
+                                {
+                                    "title": "nazione",
+                                    "description": "Country of the license plate",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "italia"
+                                },
+                                {
+                                    "title": "targa",
+                                    "description": "License plate of the vehicle",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "AB123CD"
+                                },
+                                {
+                                    "title": "tipologia_targa",
+                                    "description": "Type of license plate",
+                                    "type": "text",
+                                    "accepted_values": ["ufficiale", "speciale", "prova", "copertura"],
+                                    "example": "ufficiale"
+                                },
+                                {
+                                    "title": "marca_modello",
+                                    "description": "Brand and/or model of the vehicle",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "fiat panda"
+                                },
+                                {
+                                    "title": "colore",
+                                    "description": "Color of the vehicle",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "rosso"
+                                },
+                                {
+                                    "title": "telaio",
+                                    "description": "Chassis number of the vehicle",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "12345678901234567"
+                                },
+                                {
+                                    "title": "massa",
+                                    "description": "Mass of the vehicle",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "1200 kg"
+                                },
+                                {
+                                    "title": "note_veicolo",
+                                    "description": "Notes on the vehicle",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "veicolo in sosta"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "contestazione_immediata",
+                        "description": "Immediate contestation (default false)",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "mancata contestazione"
+                    },
+                    {
+                        "title": "motivo_mancata_contestazione",
+                        "description": "Reason for missed contestation",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "assenza del trasgressore"
+                    },
+                    {
+                        "title": "violazioni",
+                        "description": "Details of the violations",
+                        "list": {
+                                "title": "violazione",
+                                "description": "Details of the violation",
+                                "group":[
+                                {
+                                    "title": "codice",
+                                    "description": "Law code violated",
+                                    "type": "text",
+                                    "accepted_values": ["civile", "penale", "stradale"],
+                                    "example": "stradale"
+                                },
+                                {
+                                    "title": "articolo",
+                                    "description": "Article violated",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "6"
+                                },
+                                {
+                                    "title": "comma",
+                                    "description": "Comma of the article",
+                                    "type": "text",
+                                    "accepted_values": null,
+                                    "example": "1a(1-12)"
+                                },
+                                {
+                                    "title": "sanzione_accessoria",
+                                    "description": "Accessory sanction (true/false)",
+                                    "type": "text",
+                                    "accepted_values": ["con sanzione accessoria", "senza sanzione accessoria"],
+                                    "example": "con sanzione accessoria"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "punti",
+                        "description": "Points deducted",
+                        "type": "number",
+                        "accepted_values": null,
+                        "example": "5"
+                    },
+                    {
+                        "title": "dichiarazioni",
+                        "description": "Declarations made by the violator",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "Ho rispettato il codice della strada"
+                    },
+                    {
+                        "title": "tipo_stampa",
+                        "description": "How he wants to print (Bluetooth/WIFI)",
+                        "type": "text",
+                        "accepted_values": ["bluetooth", "wifi"],
+                        "example": "bluetooth"
+                    },
+                    {
+                        "title": "lingua_stampa",
+                        "description": "Print language",
+                        "type": "text",
+                        "accepted_values": ["italiano"],
+                        "example": "italiano"
+                    },
+                    {
+                        "title": "stampa_anche_comunicazione",
+                        "description": "Print also communication (true/false)",
+                        "type": "text",
+                        "accepted_values": ["stampa anche la comunicazione", "non stampare anche la comunicazione"],
+                        "example": "non stampare anche la comunicazione"
+                    }
+
+                ]
+                }
+            ]
+        }
+    ],
+    "topic": "Parsing filtro. Estrai dal testo le informazioni per impostare un filtro di ricerca",
+    "language": "Italian"
+}

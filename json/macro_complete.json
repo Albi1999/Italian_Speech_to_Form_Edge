@@ -2,10 +2,10 @@
     "requested_informations": [
         {
             "title": "verbale_preavviso",
-            "description": "Indicates whether it is a verbale or preavviso",
+            "description": "Indicates whether the officier has to do a verbale or preavviso",
             "type": "text",
-            "accepted_values": ["verbale", "preavviso"],
-            "example": "verbale"
+            "accepted_values": null,
+            "example": "preavviso"
         },
         {
             "title": "data_violazione",
@@ -23,21 +23,21 @@
         },
         {
             "title": "data_verbalizzazione",
-            "description": "Date of verbalization (if contested on site)",
+            "description": "Date of verbalization (if the officier is preparing a verbare use the date of the violation, else null)",
             "type": "date",
             "accepted_values": null,
             "example": "09/04/2025"
         },
         {
             "title": "ora_verbalizzazione",
-            "description": "Time of verbalization (if contested on site)",
+            "description": "Time of verbalization (if the officier is preparing a verbare use the date of the violation, else null)",
             "type": "text",
             "accepted_values": null,
             "example": "14:45"
         },
         {
             "title": "luogo_verbalizzazione",
-            "description": "Place of verbalization",
+            "description": "Place of verbalization (if the officier is preparing a verbare use the date of the violation, else null)",
             "type": "text",
             "accepted_values": null,
             "example": "piazza maggiore, bologna"
