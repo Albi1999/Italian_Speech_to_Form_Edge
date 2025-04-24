@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive una violazione relativa a un veicolo immatricolato in Croazia, con targa di tipo prova. La violazione è avvenuta in via della Repubblica, al numero civico 23, per parcheggio davanti a passo carraio, violando l'articolo 6 del codice civile. Sono previsti 7 punti di decurtazione. Si richiede la stampa digitale del preavviso in lingua italiana tramite Bluetooth, senza stampare anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "preavviso",
+        "data_violazione": "05/05/2023",
+        "ora_violazione": "15:00",
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": "via della Repubblica",
+        "Civico_1": "23",
+        "lista_veicoli": [
+            {
+                "tipologia": "macchina agricola",
+                "nazione": "Croazia",
+                "targa": "NEON3",
+                "tipologia_targa": "prova",
+                "marca_modello": null,
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "civile",
+                "articolo": "6",
+                "comma": "1",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 7,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive un verbale redatto il giorno 25 alle ore 14:00 per un veicolo Bon Serie One, una macchina agricola immatricolata in Croazia con targa ufficiale. L'infrazione è avvenuta in via Roma, civico 27, per violazione del codice stradale, articolo 7, comma 5, ovvero parcheggio davanti a passo carrabile. Il verbale è stato eseguito sul posto con contestazione immediata da parte dell'agente Bellini. Sono previsti 6 punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è stata effettuata in italiano tramite Bluetooth, includendo anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "25",
+        "ora_violazione": "14:00",
+        "data_verbalizzazione": "25",
+        "ora_verbalizzazione": "14:00",
+        "luogo_verbalizzazione": "via roma",
+        "Strada_1": "via roma",
+        "Civico_1": "27",
+        "lista_veicoli": [
+            {
+                "tipologia": "macchina agricola",
+                "nazione": "croazia",
+                "targa": "sebbene un tre dei",
+                "tipologia_targa": "ufficiale",
+                "marca_modello": "bon serie one",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "contestazione immediata",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "7",
+                "comma": "5",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 6,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

@@ -199,7 +199,7 @@ def main(num_sentences=None, all_macros=False, transcribed_texts=False):
                     document_text=transcribed_text,
                     output_dir=output_dir
                 )
-                print(f"Processing {macro} with transcribed text: '{transcribed_text[:30]}...'")
+                print(f"\nProcessing {macro} with transcribed text: '{transcribed_text[:30]}...'")
                 scraper_transcribed.extract_information(output_filename=f"transcript_scraped_{str(original_index)}.json")
 
                 # Scrape with original text
@@ -234,4 +234,4 @@ def main(num_sentences=None, all_macros=False, transcribed_texts=False):
                 print(f"Processed {macro} with document text: '{document_text[:30]}...'")
 
 if __name__ == "__main__":
-    main(num_sentences=10, transcribed_texts=True, all_macros=False)
+    main(num_sentences=2, transcribed_texts=True, all_macros=False)

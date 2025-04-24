@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive l'emissione di un verbale per un veicolo Kia Picanto, classificato come macchina agricola, immatricolato in Grecia con targa ufficiale AB789CD. L'infrazione è avvenuta in via della Repubblica, civico 20, per parcheggio in divieto di sosta, violando l'articolo 14, comma 1 del codice civile. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. Verranno decurtati 7 punti. La stampa del verbale deve essere effettuata in italiano tramite wifi, senza stampare anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": null,
+        "ora_violazione": null,
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": "via della Repubblica",
+        "Civico_1": "20",
+        "lista_veicoli": [
+            {
+                "tipologia": "macchina agricola",
+                "nazione": "grecia",
+                "targa": "AB789CD",
+                "tipologia_targa": "ufficiale",
+                "marca_modello": "Kia Picanto",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "civile",
+                "articolo": "14",
+                "comma": "1",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": 7,
+        "dichiarazioni": null,
+        "tipo_stampa": "wifi",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

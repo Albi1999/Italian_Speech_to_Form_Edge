@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive la generazione di un verbale per un veicolo Peugeot 208, rimorchio con targa UV123WX di tipo prova, immatricolato in Grecia. L'infrazione è avvenuta il 25/03/2025 alle 08:33 in via del Corso, numero 12, per transito in zona accesso vietato. L'articolo violato è il 6, comma 1a(1-12) del codice penale, con una detrazione di 4 punti dalla patente. Il verbale sarà stampato via wifi in italiano, senza includere la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "25/03/2025",
+        "ora_violazione": "08:33",
+        "data_verbalizzazione": "25/03/2025",
+        "ora_verbalizzazione": "08:33",
+        "luogo_verbalizzazione": "via del Corso, 12",
+        "Strada_1": "via del Corso",
+        "Civico_1": "12",
+        "lista_veicoli": [
+            {
+                "tipologia": "rimorchio",
+                "nazione": "grecia",
+                "targa": "UV123WX",
+                "tipologia_targa": "prova",
+                "marca_modello": "Peugeot 208",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": "veicolo in transito in zona accesso vietato"
+            }
+        ],
+        "contestazione_immediata": "contestazione immediata",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "penale",
+                "articolo": "6",
+                "comma": "1a(1-12)",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 4,
+        "dichiarazioni": null,
+        "tipo_stampa": "wifi",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

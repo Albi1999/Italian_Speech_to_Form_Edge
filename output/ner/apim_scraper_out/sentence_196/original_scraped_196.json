@@ -1,0 +1,42 @@
+{
+    "summary": "Il verbale è stato redatto il 17/04/2025 alle ore 05:12 per una violazione riscontrata su un veicolo autovettura, marca Nissan Micra, targato CD123AB, proveniente dalla Croazia. La violazione è avvenuta in via Giuseppe Mazzini, civico 24, per parcheggio su strisce pedonali, in violazione dell'articolo 9, comma 1 del codice stradale. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di 5 punti dalla patente. La stampa è richiesta in italiano via Bluetooth, con inclusione della comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "17/04/2025",
+        "ora_violazione": "05:12",
+        "data_verbalizzazione": "17/04/2025",
+        "ora_verbalizzazione": "05:12",
+        "luogo_verbalizzazione": "via Giuseppe Mazzini, civico 24",
+        "Strada_1": "via Giuseppe Mazzini",
+        "Civico_1": "24",
+        "lista_veicoli": [
+            {
+                "tipologia": "autovettura",
+                "nazione": "croazia",
+                "targa": "CD123AB",
+                "tipologia_targa": "ufficiale",
+                "marca_modello": "Nissan Micra",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "9",
+                "comma": "1",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": 5,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

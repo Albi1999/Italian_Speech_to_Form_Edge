@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive un verbale redatto il 21/03/2025 alle ore 04:00 per una violazione del codice stradale. Il veicolo coinvolto è una BMW Serie 1, macchina agricola con targa croata EP789GH. L'infrazione è avvenuta in via Roma, civico 77, per parcheggio davanti a passo carrabile. L'agente Sara Bellini ha effettuato una contestazione immediata sul posto. Sono previsti 6 punti da decurtare, senza sanzioni accessorie. La stampa del verbale è in italiano tramite Bluetooth, con inclusione della comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "21/03/2025",
+        "ora_violazione": "04:00",
+        "data_verbalizzazione": "21/03/2025",
+        "ora_verbalizzazione": "04:00",
+        "luogo_verbalizzazione": "via Roma, 77",
+        "Strada_1": "via Roma",
+        "Civico_1": "77",
+        "lista_veicoli": [
+            {
+                "tipologia": "macchina agricola",
+                "nazione": "croazia",
+                "targa": "EP789GH",
+                "tipologia_targa": "ufficiale",
+                "marca_modello": "BMW Serie 1",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "contestazione immediata",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "7",
+                "comma": "5",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 6,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

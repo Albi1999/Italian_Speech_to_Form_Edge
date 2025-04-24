@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive un verbale per una violazione accertata il 7 aprile 2025 alle ore 00:01 in via del Corso, civico 12. La violazione riguarda un veicolo Seat Ibiza, motoveicolo con targa ufficiale immatricolato in Grecia, per parcheggio su strisce pedonali secondo l'articolo 158, comma 2 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. Sono previsti 9 punti di decurtazione. Si richiede la stampa in lingua italiana via Bluetooth, includendo anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "07/04/2025",
+        "ora_violazione": "00:01",
+        "data_verbalizzazione": "07/04/2025",
+        "ora_verbalizzazione": "00:01",
+        "luogo_verbalizzazione": "via del corso, civico 12",
+        "Strada_1": "via del corso",
+        "Civico_1": "12",
+        "lista_veicoli": [
+            {
+                "tipologia": "motoveicolo",
+                "nazione": "grecia",
+                "targa": "E123JK",
+                "tipologia_targa": "ufficiale",
+                "marca_modello": "seat ibiza",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "158",
+                "comma": "2",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 9,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

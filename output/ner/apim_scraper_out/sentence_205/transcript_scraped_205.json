@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive una missione di preavviso per un veicolo autovettura con targa di tipo prova, proveniente da Cresce. La violazione riguarda il transito in una zona di accesso vietato. Sono previsti punti di decurtazione per l'infrazione. Si richiede la stampa del preavviso tramite Bluetooth, in lingua italiana, e anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "preavviso",
+        "data_violazione": "attenti terrestre",
+        "ora_violazione": "pensi tenti",
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": null,
+        "Civico_1": null,
+        "lista_veicoli": [
+            {
+                "tipologia": "autovettura",
+                "nazione": null,
+                "targa": "la se non deve finire",
+                "tipologia_targa": "prova",
+                "marca_modello": "vacca james usasse",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": null,
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": null,
+                "comma": null,
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": null,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

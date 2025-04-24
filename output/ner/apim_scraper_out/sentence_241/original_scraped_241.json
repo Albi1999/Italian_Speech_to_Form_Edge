@@ -1,0 +1,42 @@
+{
+    "summary": "Il verbale è stato redatto il 26/03/2025 alle ore 21:43 per una violazione riscontrata su un motoveicolo Hyundai i20, targato GH789IJ, proveniente dalla Croazia. La violazione riguarda il parcheggio in doppia fila in corso Buenos Aires, civico 98, in violazione dell'articolo 7, comma 15 del codice civile. L'agente Alessandro Moretti ha effettuato una contestazione immediata e si prevede la decurtazione di 2 punti dalla patente. La stampa è richiesta in italiano via Bluetooth, senza includere la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "26/03/2025",
+        "ora_violazione": "21:43",
+        "data_verbalizzazione": "26/03/2025",
+        "ora_verbalizzazione": "21:43",
+        "luogo_verbalizzazione": "corso Buenos Aires, civico 98",
+        "Strada_1": "corso Buenos Aires",
+        "Civico_1": "98",
+        "lista_veicoli": [
+            {
+                "tipologia": "motoveicolo",
+                "nazione": "croazia",
+                "targa": "GH789IJ",
+                "tipologia_targa": "copertura",
+                "marca_modello": "Hyundai i20",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "contestazione immediata",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "civile",
+                "articolo": "7",
+                "comma": "15",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": 2,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

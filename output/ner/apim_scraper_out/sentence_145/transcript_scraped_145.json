@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive la preparazione di un verbale per un veicolo immatricolato in Grecia, con targa ufficiale, coinvolto in un'infrazione di parcheggio in divieto di sosta. L'infrazione è avvenuta in via della Repubblica, civico 20, e riguarda l'articolo 14, comma 1 del codice civile. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. Verranno decurtati 7 punti. La stampa del verbale deve essere effettuata in italiano tramite WiFi, senza includere la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": null,
+        "ora_violazione": null,
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": "via della repubblica",
+        "Civico_1": "20",
+        "lista_veicoli": [
+            {
+                "tipologia": "macchina agricola",
+                "nazione": "grecia",
+                "targa": "789CD",
+                "tipologia_targa": "ufficiale",
+                "marca_modello": null,
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "civile",
+                "articolo": "14",
+                "comma": "1",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": 7,
+        "dichiarazioni": null,
+        "tipo_stampa": "wifi",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

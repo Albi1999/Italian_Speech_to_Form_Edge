@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive un verbale per una violazione accertata il 14 aprile 2025 alle ore 4:31 in via del Corso, civico 12. La violazione riguarda un veicolo rimorchio con targa AD4506CD di tipo prova, immatricolato in Slovenia, per parcheggio in zona a rimozione secondo l'articolo 6, comma 1a(1-12) del codice stradale. Non è stata possibile la contestazione immediata per assenza del trasgressore. Sono previsti 8 punti di decurtazione. La stampa è richiesta in lingua italiana via WiFi, senza includere la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "14/04/2025",
+        "ora_violazione": "04:31",
+        "data_verbalizzazione": "14/04/2025",
+        "ora_verbalizzazione": "04:31",
+        "luogo_verbalizzazione": "via del corso, civico 12",
+        "Strada_1": "via del corso",
+        "Civico_1": "12",
+        "lista_veicoli": [
+            {
+                "tipologia": "rimorchio",
+                "nazione": "slovenia",
+                "targa": "AD4506CD",
+                "tipologia_targa": "prova",
+                "marca_modello": null,
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "6",
+                "comma": "1a(1-12)",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 8,
+        "dichiarazioni": null,
+        "tipo_stampa": "wifi",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

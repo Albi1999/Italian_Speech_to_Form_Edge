@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è una BMW Serie 1, targato UV987WX, proveniente dalla Grecia. L'infrazione è stata rilevata il 30/03/2025 alle ore 14:09 in via Etnea, civico 45, per parcheggio in zona rimozione, violando l'articolo 5, comma 3, del codice civile. L'agente Anna Bianchi ha effettuato la contestazione immediata. La violazione comporta la perdita di 3 punti. Si richiede la stampa del verbale in italiano tramite wifi, includendo anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "30/03/2025",
+        "ora_violazione": "14:09",
+        "data_verbalizzazione": "30/03/2025",
+        "ora_verbalizzazione": "14:09",
+        "luogo_verbalizzazione": "via Etnea, 45",
+        "Strada_1": "via Etnea",
+        "Civico_1": "45",
+        "lista_veicoli": [
+            {
+                "tipologia": "autovettura",
+                "nazione": "grecia",
+                "targa": "UV987WX",
+                "tipologia_targa": "ufficiale",
+                "marca_modello": "BMW Serie 1",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "contestazione immediata",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "civile",
+                "articolo": "5",
+                "comma": "3",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": 3,
+        "dichiarazioni": null,
+        "tipo_stampa": "wifi",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

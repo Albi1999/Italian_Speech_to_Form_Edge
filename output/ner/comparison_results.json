@@ -1,0 +1,741 @@
+[
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_109\\original_scraped_109.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_109\\transcript_scraped_109.json",
+        "differences": {
+            "report.violazioni[0]": {
+                "report.violazioni[0].sanzione_accessoria": {
+                    "original": null,
+                    "transcript": "senza sanzione accessoria"
+                }
+            },
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'Seat Ibiza', Transcript: 'seat ibiza'",
+                "report.lista_veicoli[0].note_veicolo": {
+                    "original": null,
+                    "transcript": "veicolo in sosta"
+                },
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'GH789IJ', Transcript: 'gia cassette centottantanove'"
+            },
+            "report.luogo_verbalizzazione": "Difference starts at position 10. Original: 'Repubblica, 20', Transcript: 'repubblica, civico 20'",
+            "report.Strada_1": "Difference starts at position 10. Original: 'Repubblica', Transcript: 'repubblica'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_135\\original_scraped_135.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_135\\transcript_scraped_135.json",
+        "differences": {
+            "report.violazioni[0]": {
+                "report.violazioni[0].sanzione_accessoria": {
+                    "original": null,
+                    "transcript": "senza sanzione accessoria"
+                }
+            },
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'Seat Ibiza', Transcript: 'seat ibiza'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 1. Original: 'F123GH', Transcript: '123JK'"
+            },
+            "report.luogo_verbalizzazione": "Difference starts at position 8. Original: 'Corso, civico 12', Transcript: 'corso, civico 12'",
+            "report.Strada_1": "Difference starts at position 8. Original: 'Corso', Transcript: 'corso'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_145\\original_scraped_145.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_145\\transcript_scraped_145.json",
+        "differences": {
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": {
+                    "original": "Kia Picanto",
+                    "transcript": null
+                },
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'AB789CD', Transcript: '789CD'"
+            },
+            "report.Strada_1": "Difference starts at position 10. Original: 'Repubblica', Transcript: 'repubblica'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_147\\original_scraped_147.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_147\\transcript_scraped_147.json",
+        "differences": {
+            "report.violazioni[0]": {
+                "report.violazioni[0].sanzione_accessoria": {
+                    "original": null,
+                    "transcript": "senza sanzione accessoria"
+                }
+            },
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'Opel Corsa', Transcript: 'hope il corsa'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'QR987ST', Transcript: 'guerra e novecentottanta sette'"
+            }
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_15\\original_scraped_15.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_15\\transcript_scraped_15.json",
+        "differences": {
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'BMW Serie 1', Transcript: 'bmw serie uno'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'UV987WX', Transcript: 'ubi987xx'"
+            },
+            "report.luogo_verbalizzazione": "Difference starts at position 4. Original: 'Etnea, 45', Transcript: 'etna, civico 45'",
+            "report.Strada_1": "Difference starts at position 4. Original: 'Etnea', Transcript: 'etna'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_188\\original_scraped_188.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_188\\transcript_scraped_188.json",
+        "differences": {
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": {
+                    "original": "Opel Corsa",
+                    "transcript": null
+                },
+                "report.lista_veicoli[0].targa": "Difference starts at position 1. Original: 'B456CD', Transcript: 'D4506CD'"
+            },
+            "report.luogo_verbalizzazione": "Difference starts at position 8. Original: 'Corso, 12', Transcript: 'corso, civico 12'",
+            "report.Strada_1": "Difference starts at position 8. Original: 'Corso', Transcript: 'corso'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_19\\original_scraped_19.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_19\\transcript_scraped_19.json",
+        "differences": {
+            "report.motivo_mancata_contestazione": "Difference starts at position 23. Original: 'e', Transcript: 'i'",
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'Peugeot 208', Transcript: 'peugeot 208'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'XY321ZA', Transcript: 'icsi ypsilon trecentoventi uno sa'"
+            },
+            "report.luogo_verbalizzazione": "Difference starts at position 6. Original: 'Vittorio Emanuele, civico 15', Transcript: 'vittorio emanuele, civico 15'",
+            "report.Strada_1": "Difference starts at position 6. Original: 'Vittorio Emanuele', Transcript: 'vittorio emanuele'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_196\\original_scraped_196.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_196\\transcript_scraped_196.json",
+        "differences": {
+            "report.ora_verbalizzazione": "Difference starts at position 0. Original: '05:12', Transcript: '12:05'",
+            "report.ora_violazione": "Difference starts at position 0. Original: '05:12', Transcript: '12:05'",
+            "report.motivo_mancata_contestazione": "Difference starts at position 12. Original: 'trasgressore', Transcript: 'conducente'",
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].nazione": "Difference starts at position 0. Original: 'croazia', Transcript: 'Croazia'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 5. Original: 'AB', Transcript: ''"
+            }
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_205\\original_scraped_205.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_205\\transcript_scraped_205.json",
+        "differences": {
+            "report.ora_violazione": "Difference starts at position 0. Original: '06:37', Transcript: 'pensi tenti'",
+            "report.Civico_1": {
+                "original": "45",
+                "transcript": null
+            },
+            "report.tipo_stampa": "Difference starts at position 0. Original: 'wifi', Transcript: 'bluetooth'",
+            "report.violazioni[0]": {
+                "report.violazioni[0].codice": "Difference starts at position 0. Original: 'civile', Transcript: 'stradale'",
+                "report.violazioni[0].articolo": {
+                    "original": "3",
+                    "transcript": null
+                },
+                "report.violazioni[0].comma": {
+                    "original": "1",
+                    "transcript": null
+                }
+            },
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].nazione": {
+                    "original": "grecia",
+                    "transcript": null
+                },
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'Mercedes Classe A', Transcript: 'vacca james usasse'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'GH789IJ', Transcript: 'la se non deve finire'"
+            },
+            "report.punti": {
+                "original": 4,
+                "transcript": null
+            },
+            "report.contestazione_immediata": {
+                "original": "mancata contestazione",
+                "transcript": null
+            },
+            "report.data_violazione": "Difference starts at position 0. Original: '23/03/2025', Transcript: 'attenti terrestre'",
+            "report.Strada_1": {
+                "original": "via Etnea",
+                "transcript": null
+            }
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_208\\original_scraped_208.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_208\\transcript_scraped_208.json",
+        "differences": {
+            "report.ora_verbalizzazione": "Difference starts at position 0. Original: '21:17', Transcript: ''",
+            "report.ora_violazione": "Difference starts at position 0. Original: '21:17', Transcript: ''",
+            "report.Civico_1": "Difference starts at position 0. Original: '24', Transcript: '10'",
+            "report.tipo_stampa": {
+                "original": "bluetooth",
+                "transcript": null
+            },
+            "report.violazioni[0]": {
+                "report.violazioni[0].articolo": "Difference starts at position 0. Original: '158', Transcript: ''",
+                "report.violazioni[0].comma": "Difference starts at position 0. Original: '2', Transcript: ''",
+                "report.violazioni[0].sanzione_accessoria": {
+                    "original": "senza sanzione accessoria",
+                    "transcript": null
+                }
+            },
+            "report.motivo_mancata_contestazione": {
+                "original": null,
+                "transcript": ""
+            },
+            "report.data_verbalizzazione": "Difference starts at position 0. Original: '27/03/2025', Transcript: ''",
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'Seat Ibiza', Transcript: ''",
+                "report.lista_veicoli[0].note_veicolo": "Difference starts at position 0. Original: 'veicolo in parcheggio in zona rimozione', Transcript: 'parcheggio zona a rimozione'",
+                "report.lista_veicoli[0].telaio": {
+                    "original": null,
+                    "transcript": ""
+                },
+                "report.lista_veicoli[0].colore": {
+                    "original": null,
+                    "transcript": ""
+                },
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'UV321WX', Transcript: ''",
+                "report.lista_veicoli[0].massa": {
+                    "original": null,
+                    "transcript": ""
+                }
+            },
+            "report.punti": {
+                "original": 8,
+                "transcript": null
+            },
+            "report.luogo_verbalizzazione": "Difference starts at position 0. Original: 'via Giuseppe Mazzini, 24', Transcript: ''",
+            "report.contestazione_immediata": "Difference starts at position 0. Original: 'contestazione immediata', Transcript: 'mancata contestazione'",
+            "report.data_violazione": "Difference starts at position 0. Original: '27/03/2025', Transcript: ''",
+            "report.Strada_1": "Difference starts at position 4. Original: 'Giuseppe Mazzini', Transcript: 'giuseppe mazzini'",
+            "report.dichiarazioni": {
+                "original": null,
+                "transcript": ""
+            }
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_210\\original_scraped_210.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_210\\transcript_scraped_210.json",
+        "differences": {
+            "report.ora_verbalizzazione": {
+                "original": "08:33",
+                "transcript": null
+            },
+            "report.ora_violazione": {
+                "original": "08:33",
+                "transcript": null
+            },
+            "report.violazioni[0]": {
+                "report.violazioni[0].sanzione_accessoria": "Difference starts at position 0. Original: 'senza sanzione accessoria', Transcript: 'con sanzione accessoria'"
+            },
+            "report.data_verbalizzazione": "Difference starts at position 4. Original: '3/2025', Transcript: '5/2025'",
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": {
+                    "original": "Peugeot 208",
+                    "transcript": null
+                },
+                "report.lista_veicoli[0].note_veicolo": {
+                    "original": "veicolo in transito in zona accesso vietato",
+                    "transcript": null
+                },
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'UV123WX', Transcript: '320'"
+            },
+            "report.luogo_verbalizzazione": "Difference starts at position 8. Original: 'Corso, 12', Transcript: 'corso'",
+            "report.contestazione_immediata": "Difference starts at position 0. Original: 'contestazione immediata', Transcript: 'mancata contestazione'",
+            "report.data_violazione": "Difference starts at position 4. Original: '3/2025', Transcript: '5/2025'",
+            "report.Strada_1": "Difference starts at position 8. Original: 'Corso', Transcript: 'corso'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_224\\original_scraped_224.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_224\\transcript_scraped_224.json",
+        "differences": {
+            "report.ora_verbalizzazione": "Difference starts at position 0. Original: '04:00', Transcript: '14:00'",
+            "report.ora_violazione": "Difference starts at position 0. Original: '04:00', Transcript: '14:00'",
+            "report.Civico_1": "Difference starts at position 0. Original: '77', Transcript: '27'",
+            "report.data_verbalizzazione": "Difference starts at position 1. Original: '1/03/2025', Transcript: '5'",
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'BMW Serie 1', Transcript: 'bon serie one'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'EP789GH', Transcript: 'sebbene un tre dei'"
+            },
+            "report.luogo_verbalizzazione": "Difference starts at position 4. Original: 'Roma, 77', Transcript: 'roma'",
+            "report.data_violazione": "Difference starts at position 1. Original: '1/03/2025', Transcript: '5'",
+            "report.Strada_1": "Difference starts at position 4. Original: 'Roma', Transcript: 'roma'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_229\\original_scraped_229.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_229\\transcript_scraped_229.json",
+        "differences": {
+            "report.ora_verbalizzazione": {
+                "original": "07:44",
+                "transcript": null
+            },
+            "report.ora_violazione": {
+                "original": "07:44",
+                "transcript": null
+            },
+            "report.Civico_1": {
+                "original": "1",
+                "transcript": null
+            },
+            "report.tipo_stampa": {
+                "original": "bluetooth",
+                "transcript": null
+            },
+            "report.violazioni[0]": {
+                "report.violazioni[0].codice": "Difference starts at position 0. Original: 'civile', Transcript: 'stradale'",
+                "report.violazioni[0].articolo": "Difference starts at position 0. Original: '7', Transcript: '5'",
+                "report.violazioni[0].comma": {
+                    "original": "5",
+                    "transcript": null
+                }
+            },
+            "report.data_verbalizzazione": {
+                "original": "01/04/2025",
+                "transcript": null
+            },
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": {
+                    "original": "Renault Clio",
+                    "transcript": null
+                },
+                "report.lista_veicoli[0].targa": {
+                    "original": "UV654WX",
+                    "transcript": null
+                }
+            },
+            "report.punti": {
+                "original": 6,
+                "transcript": null
+            },
+            "report.luogo_verbalizzazione": "Difference starts at position 7. Original: 'Venezia', Transcript: 'venezia'",
+            "report.data_violazione": {
+                "original": "01/04/2025",
+                "transcript": null
+            },
+            "report.Strada_1": {
+                "original": "piazza Venezia",
+                "transcript": null
+            }
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_241\\original_scraped_241.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_241\\transcript_scraped_241.json",
+        "differences": {
+            "report.ora_verbalizzazione": {
+                "original": "21:43",
+                "transcript": null
+            },
+            "report.ora_violazione": {
+                "original": "21:43",
+                "transcript": null
+            },
+            "report.stampa_anche_comunicazione": "Difference starts at position 0. Original: 'non stampare anche la comunicazione', Transcript: 'stampa anche la comunicazione'",
+            "report.Civico_1": {
+                "original": "98",
+                "transcript": null
+            },
+            "report.tipo_stampa": {
+                "original": "bluetooth",
+                "transcript": null
+            },
+            "report.violazioni[0]": {
+                "report.violazioni[0].codice": "Difference starts at position 0. Original: 'civile', Transcript: 'stradale'",
+                "report.violazioni[0].articolo": "Difference starts at position 0. Original: '7', Transcript: 'se'",
+                "report.violazioni[0].comma": "Difference starts at position 0. Original: '15', Transcript: 'ma si'"
+            },
+            "report.data_verbalizzazione": {
+                "original": "26/03/2025",
+                "transcript": null
+            },
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].nazione": "Difference starts at position 0. Original: 'croazia', Transcript: 'italia'",
+                "report.lista_veicoli[0].marca_modello": {
+                    "original": "Hyundai i20",
+                    "transcript": null
+                },
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'GH789IJ', Transcript: 'se non dei fine si può copertura'"
+            },
+            "report.punti": {
+                "original": 2,
+                "transcript": null
+            },
+            "report.luogo_verbalizzazione": {
+                "original": "corso Buenos Aires, civico 98",
+                "transcript": null
+            },
+            "report.data_violazione": {
+                "original": "26/03/2025",
+                "transcript": null
+            },
+            "report.Strada_1": "Difference starts at position 6. Original: 'Buenos Aires', Transcript: 'buenos aires'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_254\\original_scraped_254.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_254\\transcript_scraped_254.json",
+        "differences": {
+            "report.ora_violazione": "Difference starts at position 4. Original: '6', Transcript: '0'",
+            "report.Civico_1": "Difference starts at position 1. Original: '0', Transcript: '3'",
+            "report.violazioni[0]": {
+                "report.violazioni[0].comma": "Difference starts at position 1. Original: 'a(1-12)', Transcript: ''",
+                "report.violazioni[0].sanzione_accessoria": {
+                    "original": null,
+                    "transcript": "senza sanzione accessoria"
+                }
+            },
+            "report.motivo_mancata_contestazione": {
+                "original": null,
+                "transcript": "assenza del trasgressore"
+            },
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].nazione": "Difference starts at position 0. Original: 'croazia', Transcript: 'Croazia'",
+                "report.lista_veicoli[0].marca_modello": {
+                    "original": "Renault Clio",
+                    "transcript": null
+                },
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'AB123CD', Transcript: 'NEON3'"
+            },
+            "report.data_violazione": "Difference starts at position 1. Original: '1/04/2025', Transcript: '5/05/2023'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_265\\original_scraped_265.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_265\\transcript_scraped_265.json",
+        "differences": {
+            "report.ora_verbalizzazione": "Difference starts at position 1. Original: '3:53', Transcript: '5:50'",
+            "report.ora_violazione": "Difference starts at position 1. Original: '3:53', Transcript: '5:50'",
+            "report.Civico_1": "Difference starts at position 0. Original: '77', Transcript: '27'",
+            "report.violazioni[0]": {
+                "report.violazioni[0].sanzione_accessoria": {
+                    "original": null,
+                    "transcript": "senza sanzione accessoria"
+                }
+            },
+            "report.data_verbalizzazione": "Difference starts at position 0. Original: '12/04/2025', Transcript: '25/05/2025'",
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": {
+                    "original": "Opel Corsa",
+                    "transcript": null
+                },
+                "report.lista_veicoli[0].note_veicolo": {
+                    "original": null,
+                    "transcript": "veicolo in corsa"
+                },
+                "report.lista_veicoli[0].tipologia": "Difference starts at position 0. Original: 'ciclomotore', Transcript: 'motoveicolo'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 1. Original: 'J789KL', Transcript: '7U3D9D'"
+            },
+            "report.luogo_verbalizzazione": "Difference starts at position 4. Original: 'Roma, civico 77', Transcript: 'roma, civico 27'",
+            "report.data_violazione": "Difference starts at position 0. Original: '12/04/2025', Transcript: '25/05/2025'",
+            "report.Strada_1": "Difference starts at position 4. Original: 'Roma', Transcript: 'roma'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_267\\original_scraped_267.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_267\\transcript_scraped_267.json",
+        "differences": {
+            "report.ora_verbalizzazione": "Difference starts at position 3. Original: '58', Transcript: '00'",
+            "report.ora_violazione": "Difference starts at position 3. Original: '58', Transcript: '00'",
+            "report.Civico_1": "Difference starts at position 0. Original: '12', Transcript: '2'",
+            "report.violazioni[0]": {
+                "report.violazioni[0].articolo": "Difference starts at position 1. Original: '85', Transcript: '35'",
+                "report.violazioni[0].comma": {
+                    "original": "2",
+                    "transcript": null
+                },
+                "report.violazioni[0].sanzione_accessoria": {
+                    "original": "senza sanzione accessoria",
+                    "transcript": null
+                }
+            },
+            "report.data_verbalizzazione": "Difference starts at position 0. Original: '04/04/2025', Transcript: '25/04/2025'",
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'Opel Corsa', Transcript: 'hope corsa'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'QR789ST', Transcript: 'cresceva'"
+            },
+            "report.punti": {
+                "original": 1,
+                "transcript": 2
+            },
+            "report.luogo_verbalizzazione": "Difference starts at position 8. Original: 'Corso, numero civico 12', Transcript: 'corso, numero civico 2'",
+            "report.data_violazione": "Difference starts at position 0. Original: '04/04/2025', Transcript: '25/04/2025'",
+            "report.Strada_1": "Difference starts at position 8. Original: 'Corso', Transcript: 'corso'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_269\\original_scraped_269.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_269\\transcript_scraped_269.json",
+        "differences": {
+            "report.ora_verbalizzazione": {
+                "original": "08:34",
+                "transcript": null
+            },
+            "report.ora_violazione": {
+                "original": "08:34",
+                "transcript": null
+            },
+            "report.Civico_1": {
+                "original": "12",
+                "transcript": null
+            },
+            "report.tipo_stampa": {
+                "original": "bluetooth",
+                "transcript": null
+            },
+            "report.violazioni[0]": {
+                "report.violazioni[0].articolo": "Difference starts at position 0. Original: '6', Transcript: 'si'",
+                "report.violazioni[0].comma": "Difference starts at position 0. Original: '1a(1-12)', Transcript: 'mi'"
+            },
+            "report.data_verbalizzazione": {
+                "original": "24/03/2025",
+                "transcript": null
+            },
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].tipologia_targa": {
+                    "original": "prova",
+                    "transcript": null
+                },
+                "report.lista_veicoli[0].marca_modello": {
+                    "original": "Mercedes Classe A",
+                    "transcript": null
+                },
+                "report.lista_veicoli[0].targa": {
+                    "original": "AB456CD",
+                    "transcript": null
+                }
+            },
+            "report.punti": {
+                "original": 7,
+                "transcript": null
+            },
+            "report.luogo_verbalizzazione": {
+                "original": "via del Corso, 12",
+                "transcript": null
+            },
+            "report.contestazione_immediata": {
+                "original": "contestazione immediata",
+                "transcript": null
+            },
+            "report.data_violazione": {
+                "original": "24/03/2025",
+                "transcript": null
+            },
+            "report.Strada_1": "Difference starts at position 8. Original: 'Corso', Transcript: 'corso'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_274\\original_scraped_274.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_274\\transcript_scraped_274.json",
+        "differences": {
+            "report.ora_violazione": {
+                "original": "04:30",
+                "transcript": null
+            },
+            "report.Civico_1": {
+                "original": "8",
+                "transcript": null
+            },
+            "report.tipo_stampa": {
+                "original": "wifi",
+                "transcript": null
+            },
+            "report.violazioni[0]": {
+                "report.violazioni[0].articolo": {
+                    "original": "158",
+                    "transcript": null
+                },
+                "report.violazioni[0].comma": {
+                    "original": "2",
+                    "transcript": null
+                },
+                "report.violazioni[0].sanzione_accessoria": {
+                    "original": "senza sanzione accessoria",
+                    "transcript": null
+                }
+            },
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].nazione": "Difference starts at position 1. Original: 'landa', Transcript: 'ran'",
+                "report.lista_veicoli[0].marca_modello": {
+                    "original": "Peugeot 208",
+                    "transcript": null
+                },
+                "report.lista_veicoli[0].tipologia": {
+                    "original": "rimorchio",
+                    "transcript": null
+                },
+                "report.lista_veicoli[0].targa": {
+                    "original": "UV654WX",
+                    "transcript": null
+                }
+            },
+            "report.punti": {
+                "original": 6,
+                "transcript": null
+            },
+            "report.contestazione_immediata": {
+                "original": "mancata contestazione",
+                "transcript": null
+            },
+            "report.data_violazione": {
+                "original": "01/04/2025",
+                "transcript": null
+            },
+            "report.Strada_1": {
+                "original": "viale dei Giardini",
+                "transcript": null
+            }
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_280\\original_scraped_280.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_280\\transcript_scraped_280.json",
+        "differences": {
+            "report.ora_violazione": "Difference starts at position 0. Original: '23:42', Transcript: 'tenti tre'",
+            "report.Civico_1": {
+                "original": "12",
+                "transcript": null
+            },
+            "report.violazioni[0]": {
+                "report.violazioni[0].articolo": "Difference starts at position 0. Original: '185', Transcript: 'ma tua'",
+                "report.violazioni[0].comma": {
+                    "original": "2",
+                    "transcript": null
+                },
+                "report.violazioni[0].sanzione_accessoria": {
+                    "original": null,
+                    "transcript": "senza sanzione accessoria"
+                }
+            },
+            "report.motivo_mancata_contestazione": {
+                "original": null,
+                "transcript": "assenza del trasgressore"
+            },
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].nazione": "Difference starts at position 1. Original: 'lovenia', Transcript: 'ola'",
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'Mercedes Classe A', Transcript: 'faccia james usasse'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'CD123AB', Transcript: 'sono tenti tre'"
+            },
+            "report.punti": {
+                "original": 5,
+                "transcript": null
+            },
+            "report.data_violazione": "Difference starts at position 0. Original: '15/04/2025', Transcript: 'tenti'",
+            "report.Strada_1": "Difference starts at position 8. Original: 'Corso', Transcript: 'corso'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_50\\original_scraped_50.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_50\\transcript_scraped_50.json",
+        "differences": {
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'Seat Ibiza', Transcript: 'seat ibiza'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'UV321WX', Transcript: 'ubi trecentoventi uno doppia ex'"
+            },
+            "report.luogo_verbalizzazione": "Difference starts at position 4. Original: 'XX Settembre, 5', Transcript: 'venti settembre, civico 5'",
+            "report.Strada_1": "Difference starts at position 4. Original: 'XX Settembre', Transcript: 'venti settembre'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_54\\original_scraped_54.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_54\\transcript_scraped_54.json",
+        "differences": {
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'Renault Clio', Transcript: 'nucleo'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'AB123CD', Transcript: 'centoventitre ci di di'"
+            }
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_55\\original_scraped_55.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_55\\transcript_scraped_55.json",
+        "differences": {
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'Ford Fiesta', Transcript: 'ford fiesta'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 1. Original: 'V321WX', Transcript: 'BI3201XX'"
+            },
+            "report.luogo_verbalizzazione": "Difference starts at position 10. Original: 'Repubblica, civico 20', Transcript: 'repubblica, civico 20'",
+            "report.Strada_1": "Difference starts at position 10. Original: 'Repubblica', Transcript: 'repubblica'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_8\\original_scraped_8.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_8\\transcript_scraped_8.json",
+        "differences": {
+            "report.motivo_mancata_contestazione": {
+                "original": "assenza del trasgressore",
+                "transcript": null
+            },
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].nazione": "Difference starts at position 0. Original: 'portogallo', Transcript: 'Portogallo'",
+                "report.lista_veicoli[0].note_veicolo": "Difference starts at position 30. Original: 'rimozione', Transcript: 'a rimozione'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 1. Original: 'V321WX', Transcript: 'BI3201EX'"
+            },
+            "report.luogo_verbalizzazione": "Difference starts at position 22. Original: '24', Transcript: 'numero 24'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_86\\original_scraped_86.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_86\\transcript_scraped_86.json",
+        "differences": {
+            "report.Civico_1": "Difference starts at position 0. Original: '8', Transcript: ''",
+            "report.violazioni[0]": {
+                "report.violazioni[0].sanzione_accessoria": {
+                    "original": "senza sanzione accessoria",
+                    "transcript": null
+                }
+            },
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 1. Original: 'koda Fabia', Transcript: 'corda Fabia'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'XY654ZA', Transcript: 'ICSI Ypsilon 654 SA'"
+            },
+            "report.contestazione_immediata": {
+                "original": "mancata contestazione",
+                "transcript": null
+            },
+            "report.Strada_1": "Difference starts at position 3. Original: 'le dei Giardini', Transcript: ' dei Giardini'"
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_94\\original_scraped_94.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_94\\transcript_scraped_94.json",
+        "differences": {
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].nazione": "Difference starts at position 0. Original: 'germania', Transcript: 'Germania'",
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'Volkswagen Golf', Transcript: 'Fox Vaga in Golf'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'ZA456QP', Transcript: 'quattrocentocinquanta sei cupi'"
+            }
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_95\\original_scraped_95.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_95\\transcript_scraped_95.json",
+        "differences": {
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].nazione": "Difference starts at position 0. Original: 'croazia', Transcript: 'Croazia'",
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 1. Original: 'koda Fabia', Transcript: 'corda Fabia'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'MN321OP', Transcript: '3201'"
+            }
+        }
+    },
+    {
+        "original_file": "output/ner/apim_scraper_out/sentence_98\\original_scraped_98.json",
+        "transcript_file": "output/ner/apim_scraper_out/sentence_98\\transcript_scraped_98.json",
+        "differences": {
+            "report.lista_veicoli[0]": {
+                "report.lista_veicoli[0].marca_modello": "Difference starts at position 0. Original: 'Audi A3', Transcript: 'audi a tre'",
+                "report.lista_veicoli[0].targa": "Difference starts at position 0. Original: 'ZA456QP', Transcript: 'kazaka'"
+            },
+            "report.Strada_1": "Difference starts at position 10. Original: 'Libertà', Transcript: 'libertà'"
+        }
+    }
+]

@@ -1,20 +1,20 @@
 {
-    "summary": "Il documento riguarda la redazione di un verbale per ciclomotori con targa speciale immatricolati in Italia. La violazione è avvenuta in Piazza Venezia e riguarda passeggeri in doppia fila, violando l'articolo 5 del codice stradale. La stampa del verbale è richiesta in lingua italiana e include la comunicazione.",
+    "summary": "Il documento descrive una violazione stradale accertata dall'agente Alessandro Moretti, che ha proceduto con la contestazione immediata. La violazione riguarda un motoveicolo targato proveniente da Rozze, parcheggiato in doppia fila in corso Buenos Aires, in violazione dell'articolo del codice stradale. Si prevede la decurtazione di punti dalla patente. La stampa della comunicazione è richiesta.",
     "report": {
         "verbale_preavviso": "verbale",
         "data_violazione": null,
         "ora_violazione": null,
         "data_verbalizzazione": null,
         "ora_verbalizzazione": null,
-        "luogo_verbalizzazione": "piazza venezia",
-        "Strada_1": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": "corso buenos aires",
         "Civico_1": null,
         "lista_veicoli": [
             {
-                "tipologia": "ciclomotore",
+                "tipologia": "motoveicolo",
                 "nazione": "italia",
-                "targa": null,
-                "tipologia_targa": "speciale",
+                "targa": "se non dei fine si può copertura",
+                "tipologia_targa": "copertura",
                 "marca_modello": null,
                 "colore": null,
                 "telaio": null,
@@ -22,13 +22,13 @@
                 "note_veicolo": null
             }
         ],
-        "contestazione_immediata": null,
+        "contestazione_immediata": "contestazione immediata",
         "motivo_mancata_contestazione": null,
         "violazioni": [
             {
                 "codice": "stradale",
-                "articolo": "5",
-                "comma": null,
+                "articolo": "se",
+                "comma": "ma si",
                 "sanzione_accessoria": null
             }
         ],
