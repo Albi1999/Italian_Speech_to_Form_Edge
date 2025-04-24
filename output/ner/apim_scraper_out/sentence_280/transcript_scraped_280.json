@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive una missione di preavviso per un veicolo rimorchio con targa di tipo copertura, proveniente da sola. La violazione è stata rilevata in via del Corso, con decurtazione di punti prevista. Si richiede la stampa del preavviso tramite Bluetooth, in lingua italiana, e anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "preavviso",
+        "data_violazione": "tenti",
+        "ora_violazione": "tenti tre",
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": "via del corso",
+        "Civico_1": null,
+        "lista_veicoli": [
+            {
+                "tipologia": "rimorchio",
+                "nazione": "sola",
+                "targa": "sono tenti tre",
+                "tipologia_targa": "copertura",
+                "marca_modello": "faccia james usasse",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "ma tua",
+                "comma": null,
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": null,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

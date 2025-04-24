@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive una notifica di infrazione emessa il 24/03/2025 alle ore 08:34 per un veicolo Mercedes Classe A, motoveicolo immatricolato in Italia con targa AB456CD di tipo prova. L'infrazione è avvenuta in via del Corso, civico 12, violando il codice stradale, articolo 6, comma 1a(1-12), riguardante il parcheggio su strisce pedonali. Sono stati decurtati 7 punti e applicata una sanzione accessoria. La stampa deve avvenire tramite Bluetooth in italiano, includendo anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": null,
+        "data_violazione": "24/03/2025",
+        "ora_violazione": "08:34",
+        "data_verbalizzazione": "24/03/2025",
+        "ora_verbalizzazione": "08:34",
+        "luogo_verbalizzazione": "via del Corso, 12",
+        "Strada_1": "via del Corso",
+        "Civico_1": "12",
+        "lista_veicoli": [
+            {
+                "tipologia": "motoveicolo",
+                "nazione": "italia",
+                "targa": "AB456CD",
+                "tipologia_targa": "prova",
+                "marca_modello": "Mercedes Classe A",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "contestazione immediata",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "6",
+                "comma": "1a(1-12)",
+                "sanzione_accessoria": "con sanzione accessoria"
+            }
+        ],
+        "punti": 7,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

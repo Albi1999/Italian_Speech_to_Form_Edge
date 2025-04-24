@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive un'infrazione di parcheggio in divieto di sosta, con dettagli sul veicolo e sulla violazione. Il veicolo ha una targa ufficiale proveniente da Oran. La violazione è stata commessa in un luogo non specificato, ma si menziona un numero civico. La violazione è in base al codice penale e comporta una decurtazione di punti. Si richiede la stampa del preavviso in italiano e anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "preavviso",
+        "data_violazione": null,
+        "ora_violazione": null,
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": null,
+        "Civico_1": null,
+        "lista_veicoli": [
+            {
+                "tipologia": null,
+                "nazione": "oran",
+                "targa": null,
+                "tipologia_targa": "ufficiale",
+                "marca_modello": null,
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": null,
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "penale",
+                "articolo": null,
+                "comma": null,
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": null,
+        "dichiarazioni": null,
+        "tipo_stampa": null,
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

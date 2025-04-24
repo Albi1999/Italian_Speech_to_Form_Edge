@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento riguarda l'emissione di un verbale per un veicolo Opel Corsa, ciclomotore, con targa IJ789KL di tipo speciale, immatricolato in Spagna. L'infrazione è stata commessa il 12/04/2025 alle ore 13:53 in via Roma, civico 77, per transito in zona accesso vietato secondo l'articolo 6, comma 1a(1-12) del codice stradale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 6 punti. È richiesta la stampa in italiano via wifi, con inclusione della comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "12/04/2025",
+        "ora_violazione": "13:53",
+        "data_verbalizzazione": "12/04/2025",
+        "ora_verbalizzazione": "13:53",
+        "luogo_verbalizzazione": "via Roma, civico 77",
+        "Strada_1": "via Roma",
+        "Civico_1": "77",
+        "lista_veicoli": [
+            {
+                "tipologia": "ciclomotore",
+                "nazione": "spagna",
+                "targa": "IJ789KL",
+                "tipologia_targa": "speciale",
+                "marca_modello": "Opel Corsa",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "6",
+                "comma": "1a(1-12)",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": 6,
+        "dichiarazioni": null,
+        "tipo_stampa": "wifi",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

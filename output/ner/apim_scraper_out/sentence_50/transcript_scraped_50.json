@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive una notifica di infrazione per un veicolo Seat Ibiza con rimorchio, immatricolato in Francia, con targa di tipo prova. L'infrazione è avvenuta il 4 aprile 2025 alle 2:44 in via Venti Settembre, civico 5, violando il codice penale, articolo 6, comma 4, riguardante il parcheggio davanti a passo carabine. Sono stati decurtati 6 punti e applicata una sanzione accessoria. La stampa deve essere effettuata tramite Bluetooth, in italiano, e include anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "preavviso",
+        "data_violazione": "04/04/2025",
+        "ora_violazione": "02:44",
+        "data_verbalizzazione": "04/04/2025",
+        "ora_verbalizzazione": "02:44",
+        "luogo_verbalizzazione": "via venti settembre, civico 5",
+        "Strada_1": "via venti settembre",
+        "Civico_1": "5",
+        "lista_veicoli": [
+            {
+                "tipologia": "rimorchio",
+                "nazione": "francia",
+                "targa": "ubi trecentoventi uno doppia ex",
+                "tipologia_targa": "prova",
+                "marca_modello": "seat ibiza",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "contestazione immediata",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "penale",
+                "articolo": "6",
+                "comma": "4",
+                "sanzione_accessoria": "con sanzione accessoria"
+            }
+        ],
+        "punti": 6,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

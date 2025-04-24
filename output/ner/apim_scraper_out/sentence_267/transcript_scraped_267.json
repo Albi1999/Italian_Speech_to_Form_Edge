@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive un verbale in corso per un'infrazione di parcheggio in doppia fila. Il veicolo coinvolto è una macchina agricola di marca Hope Corsa con targa speciale proveniente dall'Austria. L'infrazione è avvenuta in via del Corso, numero civico 2, alle ore 16:00. La violazione riguarda l'articolo 135 del codice civile, con una decurtazione di 2 punti. Non è stato possibile contestare immediatamente per assenza del trasgressore. La stampa del verbale è richiesta in italiano tramite Bluetooth, includendo anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "25/04/2025",
+        "ora_violazione": "16:00",
+        "data_verbalizzazione": "25/04/2025",
+        "ora_verbalizzazione": "16:00",
+        "luogo_verbalizzazione": "via del corso, numero civico 2",
+        "Strada_1": "via del corso",
+        "Civico_1": "2",
+        "lista_veicoli": [
+            {
+                "tipologia": "macchina agricola",
+                "nazione": "austria",
+                "targa": "cresceva",
+                "tipologia_targa": "speciale",
+                "marca_modello": "hope corsa",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "civile",
+                "articolo": "135",
+                "comma": null,
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": 2,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

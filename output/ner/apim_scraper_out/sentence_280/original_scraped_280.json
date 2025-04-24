@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive l'emissione di un preavviso per un veicolo rimorchio, marca Mercedes Classe A, targato CD123AB di tipo copertura, proveniente dalla Slovenia. La violazione riguarda il parcheggio in zona rimozione, avvenuta il 15/04/2025 alle ore 23:42 in via del Corso, numero 12, secondo l'articolo 185, comma 2 del codice stradale. Sono previsti 5 punti di decurtazione per l'infrazione. Si richiede la stampa del preavviso tramite Bluetooth in lingua italiana, con inclusione della comunicazione.",
+    "report": {
+        "verbale_preavviso": "preavviso",
+        "data_violazione": "15/04/2025",
+        "ora_violazione": "23:42",
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": "via del Corso",
+        "Civico_1": "12",
+        "lista_veicoli": [
+            {
+                "tipologia": "rimorchio",
+                "nazione": "slovenia",
+                "targa": "CD123AB",
+                "tipologia_targa": "copertura",
+                "marca_modello": "Mercedes Classe A",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "185",
+                "comma": "2",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": 5,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

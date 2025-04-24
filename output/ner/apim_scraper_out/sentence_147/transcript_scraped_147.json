@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive un preavviso per un veicolo di tipo motoveicolo con targa di copertura proveniente dalla Germania. L'infrazione è avvenuta il 27 marzo 2025 alle ore 13:58 in via della Libertà, civico 3, per transito in zona accesso vietato, violando l'articolo 14, comma 1 del codice civile. Sono previsti 9 punti di decurtazione. Si richiede la stampa del preavviso in italiano via Bluetooth, includendo anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "preavviso",
+        "data_violazione": "27/03/2025",
+        "ora_violazione": "13:58",
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": "via della Libertà",
+        "Civico_1": "3",
+        "lista_veicoli": [
+            {
+                "tipologia": "motoveicolo",
+                "nazione": "germania",
+                "targa": "guerra e novecentottanta sette",
+                "tipologia_targa": "copertura",
+                "marca_modello": "hope il corsa",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "civile",
+                "articolo": "14",
+                "comma": "1",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 9,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

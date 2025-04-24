@@ -2,10 +2,10 @@ import os
 import json
 import dotenv
 import requests
-from datetime import datetime
+import random
 
 class InformationScraper:
-    def __init__(self, api_key_env_var: str, base_url_env_var: str, json_dir: str, json_filename: str, document_text: str):
+    def __init__(self, api_key_env_var: str, base_url_env_var: str, json_dir: str, json_filename: str, document_text: str, output_dir: str):
         dotenv.load_dotenv()
         self.authorization = os.getenv(api_key_env_var)
         self.base_url = os.getenv(base_url_env_var)
@@ -13,6 +13,7 @@ class InformationScraper:
         self.json_dir = json_dir
         self.json_filename = json_filename
         self.document_text = document_text
+        self.output_dir = output_dir
 
     def load_json_payload(self):
         json_path = os.path.join(self.json_dir, self.json_filename)
@@ -28,7 +29,13 @@ class InformationScraper:
             print("Error decoding JSON from the file.")
             return None
 
-    def extract_information(self):
+    def extract_information(self, output_filename: str):
+        """
+        Extracts information and saves it to a JSON file.
+
+        Args:
+            output_filename (str): The name of the output JSON file.
+        """
         headers = {
             'X-Client-Application': 'speech-to-text-benchmark',
             'X-Client-Tenant': 'ai-team',
@@ -42,75 +49,34 @@ class InformationScraper:
 
         response = requests.post(self.url, headers=headers, data=payload)
         if response.ok:
-            print(response.text)
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            if self.json_filename == "macro_complete.json":
-                output_filename = f"complete_results_{timestamp}.json"
-            elif self.json_filename == "macro_general_info.json":
-                output_filename = f"general_info_results_{timestamp}.json"
-            elif self.json_filename == "macro_vehicle_info.json":
-                output_filename = f"vehicle_info_results_{timestamp}.json"
-            elif self.json_filename == "macro_violation_info.json":
-                output_filename = f"violation_info_results_{timestamp}.json"
-            else:
-                output_filename = f"result_{timestamp}.json"
-
-            with open(os.path.join("json/out", output_filename), 'w', encoding='utf-8') as f:
-                json.dump(response.json(), f, indent=4)
-            print(f"Output saved to {output_filename}")
+            try:
+                with open(os.path.join(self.output_dir, output_filename), 'w', encoding='utf-8') as f:
+                    json.dump(response.json(), f, indent=4, ensure_ascii=False)
+                print(f"Output saved to {os.path.join(self.output_dir, output_filename)}")
+            except Exception as e:
+                print(f"Error saving to JSON: {e}")
         else:
             print(f"Error in the request {response.status_code}, {response.text}")
 
-def load_texts(file_path: str):
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            return [item['text'] for item in data]
-    except FileNotFoundError:
-        print(f"File {file_path} not found.")
-        return []
-    except json.JSONDecodeError:
-        print("Error decoding JSON from the file.")
-        return []
 
-def load_transcribed_texts(file_path: str):
-    """
-    Loads transcribed texts from a JSON file.
+def load_texts(file_path: str, num_sentences: int = None):
+    """Loads texts from a JSON file, with an optional limit.
 
     Args:
         file_path (str): Path to the JSON file.
+        num_sentences (int, optional): Maximum number of sentences to load.
+            Defaults to None (load all).
 
     Returns:
-        list: A list of transcribed text strings, or an empty list on error.
+        list: A list of text strings, or an empty list on error.
     """
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-            return [item.get('transcribed_sentence', {}).get('text', '') for item in data]
-    except FileNotFoundError:
-        print(f"File {file_path} not found.")
-        return []
-    except json.JSONDecodeError:
-        print("Error decoding JSON from the file.")
-        return []
-    except AttributeError:
-        print(f"Error: 'transcribed_sentence' or 'text' key not found in JSON data.")
-        return []
-
-def load_original_texts(file_path: str):
-    """
-    Loads original texts from a JSON file.
-
-    Args:
-        file_path (str): Path to the JSON file.
-
-    Returns:
-        list: A list of original text strings, or an empty list on error.
-    """
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            return [item.get('original_sentence', '') for item in data]
+            all_texts = [(i, item['text']) for i, item in enumerate(data)]
+            if num_sentences is not None and 0 < num_sentences <= len(all_texts):
+                return random.sample(all_texts, num_sentences)
+            return all_texts
     except FileNotFoundError:
         print(f"File {file_path} not found.")
         return []
@@ -118,10 +84,80 @@ def load_original_texts(file_path: str):
         print("Error decoding JSON from the file.")
         return []
     except KeyError:
-        print(f"Error: 'original_sentence' key not found in JSON data.")
+        print("Error: 'text' key not found in JSON data.")
         return []
 
-def main(all_macros=False, transcribed_texts=False):
+
+def helper_load_texts(file_path: str):
+    """Loads texts from a JSON file.  Helper function to avoid code duplication.
+    """
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return [(i, item) for i, item in enumerate(data)]  # Return list of (index, item)
+    except FileNotFoundError:
+        print(f"File {file_path} not found.")
+        return []
+    except json.JSONDecodeError:
+        print("Error decoding JSON from the file.")
+        return []
+
+def load_transcribed_texts(file_path: str, selected_indices: list = None):
+    """Loads transcribed texts from a JSON file, optionally filtered by index.
+
+    Args:
+        file_path (str): Path to the JSON file.
+        selected_indices (list, optional): A list of indices to load. If None, load all.
+
+    Returns:
+        list: A list of tuples (original_index, text), or an empty list on error.
+    """
+    data = helper_load_texts(file_path)
+    if not data:
+        return []
+
+    texts = [(i, item.get('transcribed_sentence', {}).get('text', '')) for i, item in data]
+    valid_texts = [item for item in texts if item[1]]
+
+    if selected_indices:
+        return [item for item in valid_texts if item[0] in selected_indices]
+    return valid_texts
+
+
+def load_original_texts(file_path: str, selected_indices: list = None):
+    """Loads original texts from a JSON file, optionally filtered by index.
+
+    Args:
+        file_path (str): Path to the JSON file.
+        selected_indices (list, optional): A list of indices to load. If None, load all.
+
+    Returns:
+        list: A list of tuples (original_index, text), or an empty list on error.
+    """
+    data = helper_load_texts(file_path)
+    if not data:
+        return []
+
+    texts = [(i, item.get('original_sentence', '')) for i, item in data]
+    valid_texts = [item for item in texts if item[1]]
+
+    if selected_indices:
+        return [item for item in valid_texts if item[0] in selected_indices]
+    return valid_texts
+
+
+def main(num_sentences=None, all_macros=False, transcribed_texts=False):
+    """
+    Main function to run the information scraping process.
+
+    Args:
+        num_sentences (int, optional): Number of sentences to process.
+            If None, process all sentences.
+        all_macros (bool, optional): Flag to indicate whether to process all macros.
+            Defaults to False.
+        transcribed_texts (bool, optional): Flag to indicate whether to use transcribed texts.
+            Defaults to False.
+    """
     # Load macros
     if all_macros:
         # Load all macros to compare the performance between a complete and a partial macro
@@ -132,15 +168,27 @@ def main(all_macros=False, transcribed_texts=False):
 
     if transcribed_texts:
         # Load transcribed texts
-        transcribed_texts_path = "output/stt/vosk_transcription/all_transcriptions.json"
-        transcribed_texts_list = load_transcribed_texts(transcribed_texts_path)
-        original_texts_list = load_original_texts(transcribed_texts_path) # Load original sentences
-        if not transcribed_texts_list or not original_texts_list or len(transcribed_texts_list) != len(original_texts_list):
+        transcribed_texts_path = "output/stt/vosk_transcription/transcriptions.json"
+        all_transcribed_data = load_transcribed_texts(transcribed_texts_path)  # Load all data first
+        all_original_data = load_original_texts(transcribed_texts_path) # Load all original texts
+        
+        if not all_transcribed_data or not all_original_data or len(all_transcribed_data) != len(all_original_data):
             print("Error: Could not load transcribed or original texts, or lists have different lengths. Exiting.")
             return
 
+        if num_sentences is not None and 0 < num_sentences <= len(all_transcribed_data):
+            selected_indices = random.sample(range(len(all_transcribed_data)), num_sentences)
+            transcribed_texts_list = [all_transcribed_data[i] for i in selected_indices]
+            original_texts_list = [all_original_data[i] for i in selected_indices]
+        else:
+            transcribed_texts_list = all_transcribed_data
+            original_texts_list = all_original_data
+
         # Process both transcribed and original texts
-        for transcribed_text, original_text in zip(transcribed_texts_list, original_texts_list): #Iterate both lists in parallel
+        for (transcribed_index, transcribed_text), (original_index, original_text) in zip(transcribed_texts_list, original_texts_list):
+            output_dir = os.path.join("output/ner/apim_scraper_out/", f"sentence_{str(original_index)}")
+            os.makedirs(output_dir, exist_ok=True)
+
             for macro in macros:
                 # Scrape with transcribed text
                 scraper_transcribed = InformationScraper(
@@ -148,39 +196,42 @@ def main(all_macros=False, transcribed_texts=False):
                     base_url_env_var="AI_DEV_BASE_URL",
                     json_dir="json",
                     json_filename=macro,
-                    document_text=transcribed_text
+                    document_text=transcribed_text,
+                    output_dir=output_dir
                 )
                 print(f"Processing {macro} with transcribed text: '{transcribed_text[:30]}...'")
-                scraper_transcribed.extract_information()
+                scraper_transcribed.extract_information(output_filename=f"transcript_scraped_{str(original_index)}.json")
 
                 # Scrape with original text
-                scraper_original = InformationScraper( # New scraper for original text
+                scraper_original = InformationScraper(
                     api_key_env_var="APIM_AI_DEV_KEY",
                     base_url_env_var="AI_DEV_BASE_URL",
                     json_dir="json",
                     json_filename=macro,
-                    document_text=original_text
+                    document_text=original_text,
+                    output_dir=output_dir
                 )
                 print(f"Processing {macro} with original text: '{original_text[:30]}...'")
-                scraper_original.extract_information()
+                scraper_original.extract_information(output_filename=f"original_scraped_{str(original_index)}.json")
     else:
         # Load regular texts
         texts_file_path = "data/synthetic_datasets/metadata/samples.json"
-        texts = load_texts(texts_file_path)
-        for document_text in texts:
+        texts = load_texts(texts_file_path, num_sentences)
+        for original_index, document_text in texts:
+            output_dir = os.path.join("output/ner/apim_scraper_out/", f"sentence_{str(original_index)}")
+            os.makedirs(output_dir, exist_ok=True)
+
             for macro in macros:
                 scraper = InformationScraper(
                     api_key_env_var="APIM_AI_DEV_KEY",
                     base_url_env_var="AI_DEV_BASE_URL",
                     json_dir="json",
                     json_filename=macro,
-                    document_text=document_text
+                    document_text=document_text,
+                    output_dir=output_dir
                 )
-                scraper.extract_information()
+                scraper.extract_information(output_filename=f"original_scraped_{str(original_index)}.json")
                 print(f"Processed {macro} with document text: '{document_text[:30]}...'")
 
-
-
 if __name__ == "__main__":
-    main(transcribed_texts=True)
-    
+    main(num_sentences=10, transcribed_texts=True, all_macros=False)

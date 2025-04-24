@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da un ciclomotore Renault Clio con targa UV654WX, di tipo speciale, immatricolato in Italia. La violazione è avvenuta il 01/04/2025 alle ore 07:44 in piazza Venezia, civico 1, per parcheggio in doppia fila, violando l'articolo 7, comma 5 del codice civile. La sanzione comporta la perdita di 6 punti. La stampa del verbale avviene in modalità Bluetooth e in lingua italiana, includendo anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "01/04/2025",
+        "ora_violazione": "07:44",
+        "data_verbalizzazione": "01/04/2025",
+        "ora_verbalizzazione": "07:44",
+        "luogo_verbalizzazione": "piazza Venezia",
+        "Strada_1": "piazza Venezia",
+        "Civico_1": "1",
+        "lista_veicoli": [
+            {
+                "tipologia": "ciclomotore",
+                "nazione": "italia",
+                "targa": "UV654WX",
+                "tipologia_targa": "speciale",
+                "marca_modello": "Renault Clio",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "contestazione immediata",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "civile",
+                "articolo": "7",
+                "comma": "5",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 6,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

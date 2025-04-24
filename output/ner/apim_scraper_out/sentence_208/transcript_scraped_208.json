@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive la generazione di un verbale per un veicolo di tipo speciale immatricolato in Portogallo, coinvolto in un'infrazione avvenuta in via Giuseppe Mazzini. L'infrazione riguarda l'articolo del codice penale e comporta la detrazione di punti dalla patente. Il verbale sarà redatto in italiano e non include la stampa della comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "",
+        "ora_violazione": "",
+        "data_verbalizzazione": "",
+        "ora_verbalizzazione": "",
+        "luogo_verbalizzazione": "",
+        "Strada_1": "via giuseppe mazzini",
+        "Civico_1": "10",
+        "lista_veicoli": [
+            {
+                "tipologia": "ciclomotore",
+                "nazione": "portogallo",
+                "targa": "",
+                "tipologia_targa": "speciale",
+                "marca_modello": "",
+                "colore": "",
+                "telaio": "",
+                "massa": "",
+                "note_veicolo": "parcheggio zona a rimozione"
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "",
+        "violazioni": [
+            {
+                "codice": "penale",
+                "articolo": "",
+                "comma": "",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": null,
+        "dichiarazioni": "",
+        "tipo_stampa": null,
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

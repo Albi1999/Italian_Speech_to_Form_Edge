@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive un verbale in corso per un veicolo macchina agricola di marca Opel Corsa, con targa speciale QR789ST, proveniente dall'Austria. L'infrazione è avvenuta il 04/04/2025 alle ore 16:58 in via del Corso, numero civico 12, per parcheggio in doppia fila, violando l'articolo 185, comma 2, del codice civile. La decurtazione prevista è di 1 punto. La contestazione immediata non è stata possibile per assenza del trasgressore. La stampa del verbale è richiesta tramite Bluetooth in italiano, con inclusione della comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "04/04/2025",
+        "ora_violazione": "16:58",
+        "data_verbalizzazione": "04/04/2025",
+        "ora_verbalizzazione": "16:58",
+        "luogo_verbalizzazione": "via del Corso, numero civico 12",
+        "Strada_1": "via del Corso",
+        "Civico_1": "12",
+        "lista_veicoli": [
+            {
+                "tipologia": "macchina agricola",
+                "nazione": "austria",
+                "targa": "QR789ST",
+                "tipologia_targa": "speciale",
+                "marca_modello": "Opel Corsa",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "civile",
+                "articolo": "185",
+                "comma": "2",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 1,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

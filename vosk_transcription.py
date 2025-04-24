@@ -8,7 +8,7 @@ from utils import DatasetLoader
 
 OUTPUT_DIR = "output/stt/vosk_transcription"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
-NUM_SAMPLES = 10
+NUM_SAMPLES = 100
 dataset_names = ["google_synthetic", "azure_synthetic", "coqui"]
 
 def transcribe_and_save_results(vosk_model, dataset_name, samples):

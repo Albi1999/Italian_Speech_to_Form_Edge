@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive una notifica di infrazione per un veicolo immatricolato in Italia, avvenuta in via del Corso. L'infrazione riguarda il parcheggio su strisce pedonali, violando il codice stradale, articolo specifico. È prevista una sanzione accessoria. La stampa del verbale è richiesta in italiano, con doppia copia e include anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": null,
+        "data_violazione": null,
+        "ora_violazione": null,
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": "via del corso",
+        "Civico_1": null,
+        "lista_veicoli": [
+            {
+                "tipologia": "motoveicolo",
+                "nazione": "italia",
+                "targa": null,
+                "tipologia_targa": null,
+                "marca_modello": null,
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": null,
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "si",
+                "comma": "mi",
+                "sanzione_accessoria": "con sanzione accessoria"
+            }
+        ],
+        "punti": null,
+        "dichiarazioni": null,
+        "tipo_stampa": null,
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

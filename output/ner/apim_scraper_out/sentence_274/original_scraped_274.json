@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive un preavviso per un'infrazione di parcheggio in divieto di sosta commessa il 01/04/2025 alle ore 04:30 in viale dei Giardini, civico 8. Il veicolo coinvolto è un rimorchio Peugeot 208 con targa UV654WX, di tipo ufficiale, proveniente dall'Olanda. L'infrazione è regolata dall'articolo 158, comma 2, del codice penale e comporta la decurtazione di 6 punti. Si richiede la stampa del preavviso in italiano tramite wifi, con inclusione della comunicazione.",
+    "report": {
+        "verbale_preavviso": "preavviso",
+        "data_violazione": "01/04/2025",
+        "ora_violazione": "04:30",
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": "viale dei Giardini",
+        "Civico_1": "8",
+        "lista_veicoli": [
+            {
+                "tipologia": "rimorchio",
+                "nazione": "olanda",
+                "targa": "UV654WX",
+                "tipologia_targa": "ufficiale",
+                "marca_modello": "Peugeot 208",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "penale",
+                "articolo": "158",
+                "comma": "2",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 6,
+        "dichiarazioni": null,
+        "tipo_stampa": "wifi",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

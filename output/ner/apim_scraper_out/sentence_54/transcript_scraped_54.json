@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento notifica un preavviso di violazione per un veicolo tipo macchina agricola, con targa di prova immatricolata in Croazia. La violazione è avvenuta il 1° aprile 2025 alle ore 15:06 in via della Repubblica, civico 20, per parcheggio davanti a passo carabine, in base all'articolo 6, comma 1a(1-12) del codice civile. Sono previsti 7 punti di decurtazione. Si richiede la stampa del preavviso in lingua italiana tramite Bluetooth, senza stampare anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "preavviso",
+        "data_violazione": "01/04/2025",
+        "ora_violazione": "15:06",
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": "via della Repubblica",
+        "Civico_1": "20",
+        "lista_veicoli": [
+            {
+                "tipologia": "macchina agricola",
+                "nazione": "croazia",
+                "targa": "centoventitre ci di di",
+                "tipologia_targa": "prova",
+                "marca_modello": "nucleo",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": null,
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "civile",
+                "articolo": "6",
+                "comma": "1a(1-12)",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": 7,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

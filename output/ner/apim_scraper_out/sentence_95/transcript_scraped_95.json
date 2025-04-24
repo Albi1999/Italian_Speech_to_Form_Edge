@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento notifica un preavviso di violazione per un veicolo ciclomotore marca Scorda Fabia, targa 3201, di tipo copertura, immatricolato in Croazia. La violazione è avvenuta il 27 marzo 2025 alle ore 9:12 in via della Repubblica, civico 20, per transito in zona accesso vietato, secondo l'articolo 185 comma 2 del codice penale. Sono previsti 9 punti di decurtazione. Si richiede la stampa del preavviso in lingua italiana tramite Bluetooth, con inclusione della comunicazione.",
+    "report": {
+        "verbale_preavviso": "preavviso",
+        "data_violazione": "27/03/2025",
+        "ora_violazione": "09:12",
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": "via della Repubblica",
+        "Civico_1": "20",
+        "lista_veicoli": [
+            {
+                "tipologia": "ciclomotore",
+                "nazione": "Croazia",
+                "targa": "3201",
+                "tipologia_targa": "copertura",
+                "marca_modello": "Scorda Fabia",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": null,
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "penale",
+                "articolo": "185",
+                "comma": "2",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": 9,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive l'emissione di un verbale per un veicolo Audi A3, classificato come macchina agricola, immatricolato in Germania con targa kazaka di tipo prova. L'infrazione è avvenuta in via della Libertà, civico 3, per parcheggio davanti a passo carabine. Si applica l'articolo 6, comma 1a(1-12) del codice stradale, con la decurtazione di 7 punti. Il verbale è stato contestato immediatamente dall'agente Anna Bianchi. La stampa deve essere effettuata in italiano tramite WiFi, senza includere la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": null,
+        "ora_violazione": null,
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": "via della libertà",
+        "Civico_1": "3",
+        "lista_veicoli": [
+            {
+                "tipologia": "macchina agricola",
+                "nazione": "germania",
+                "targa": "kazaka",
+                "tipologia_targa": "prova",
+                "marca_modello": "audi a tre",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "contestazione immediata",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "6",
+                "comma": "1a(1-12)",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": 7,
+        "dichiarazioni": null,
+        "tipo_stampa": "wifi",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+    },
+    "missing_required_infos": []
+}
