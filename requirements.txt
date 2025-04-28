@@ -81,6 +81,9 @@ ipython_pygments_lexers==1.1.1
 ipywidgets==8.1.5
 isodate==0.7.2
 isoduration==20.11.0
+it_core_news_lg @ https://github.com/explosion/spacy-models/releases/download/it_core_news_lg-3.8.0/it_core_news_lg-3.8.0-py3-none-any.whl#sha256=b78582d0b2d05fd6509995f68ab7452efed7a27c6fbc5a071e9a9787a58c1e87
+it_core_news_md @ https://github.com/explosion/spacy-models/releases/download/it_core_news_md-3.8.0/it_core_news_md-3.8.0-py3-none-any.whl#sha256=a731d2d8e7c5a7093ac42f88774ea2a2ad3d5809959eedee65632b3533f804ec
+it_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/it_core_news_sm-3.8.0/it_core_news_sm-3.8.0-py3-none-any.whl#sha256=3f617bf9a8ae0418953cf1fbf014e10272684c4229e882a7fd748b637d0100bf
 jedi==0.19.2
 Jinja2==3.1.6
 jiter==0.9.0
