@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive la redazione di un verbale per un veicolo ciclomotore Mercedes Classe A con targa speciale MN456OP, proveniente dall'Austria. L'infrazione è avvenuta il 24/03/2025 alle 10:49 in piazza Venezia, civico 1, per parcheggio in zona rimozione, violando l'articolo 4, comma 2 del codice stradale. La decurtazione prevista è di 6 punti. La contestazione immediata non è stata possibile per l'assenza del trasgressore. La stampa del verbale è richiesta tramite Bluetooth in italiano, con inclusione della comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "24/03/2025",
+        "ora_violazione": "10:49",
+        "data_verbalizzazione": "24/03/2025",
+        "ora_verbalizzazione": "10:49",
+        "luogo_verbalizzazione": "piazza Venezia",
+        "Strada_1": "piazza Venezia",
+        "Civico_1": "1",
+        "lista_veicoli": [
+            {
+                "tipologia": "ciclomotore",
+                "nazione": "austria",
+                "targa": "MN456OP",
+                "tipologia_targa": "speciale",
+                "marca_modello": "Mercedes Classe A",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "4",
+                "comma": "2",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 6,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

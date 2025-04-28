@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è un motoveicolo marca Folx Wagendolf, targato KL321 Meganeton, di tipo speciale, proveniente dalla Francia. L'infrazione è stata rilevata il 14 aprile 2025 alle ore 18:35 in via Garibaldi, civico 11, per parcheggio davanti a passo carrabile, violando l'articolo 185 comma 2 del codice stradale. Non è stata possibile la contestazione immediata per assenza del trasgressore, comportando la perdita di 1 punto. Si richiede la stampa del verbale in italiano tramite Bluetooth, includendo anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "14/04/2025",
+        "ora_violazione": "18:35",
+        "data_verbalizzazione": "14/04/2025",
+        "ora_verbalizzazione": "18:35",
+        "luogo_verbalizzazione": "via garibaldi, civico 11",
+        "Strada_1": "via garibaldi",
+        "Civico_1": "11",
+        "lista_veicoli": [
+            {
+                "tipologia": "motoveicolo",
+                "nazione": "francia",
+                "targa": "KL321 Meganeton",
+                "tipologia_targa": "speciale",
+                "marca_modello": "folx wagendolf",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "185",
+                "comma": "2",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": 1,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive un verbale in corso per un'infrazione stradale. Il veicolo coinvolto è un ciclomotore di marca Merce Des Classe A con targa speciale proveniente dall'Austria. L'infrazione è avvenuta il 24 marzo 2025 alle 10:49 in Piazza Venezia, civico 1, per parcheggio in zona rimozione, violando l'articolo 4, comma 2 del codice stradale. Sono previsti sei punti di decurtazione. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è richiesta tramite Bluetooth in italiano, con inclusione della comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "24/03/2025",
+        "ora_violazione": "10:49",
+        "data_verbalizzazione": "24/03/2025",
+        "ora_verbalizzazione": "10:49",
+        "luogo_verbalizzazione": "piazza venezia",
+        "Strada_1": "piazza venezia",
+        "Civico_1": "1",
+        "lista_veicoli": [
+            {
+                "tipologia": "ciclomotore",
+                "nazione": "austria",
+                "targa": "mn quattrocento-cinquantasei opi",
+                "tipologia_targa": "speciale",
+                "marca_modello": "merce des classe a",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "4",
+                "comma": "2",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": 6,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento notifica un preavviso di violazione emesso il 25/03/2025 alle ore 13:05 per un ciclomotore Opel Corsa con targa AB456CD, registrato in Austria. L'infrazione è avvenuta in via del Corso, numero 12, per transito in zona accesso vietato, secondo l'articolo 158, comma 2 del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti 8 punti di decurtazione. La stampa della notifica deve avvenire tramite Bluetooth, in lingua italiana, e includere anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "preavviso",
+        "data_violazione": "25/03/2025",
+        "ora_violazione": "13:05",
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": "via del Corso",
+        "Civico_1": "12",
+        "lista_veicoli": [
+            {
+                "tipologia": "ciclomotore",
+                "nazione": "austria",
+                "targa": "AB456CD",
+                "tipologia_targa": "ufficiale",
+                "marca_modello": "Opel Corsa",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "158",
+                "comma": "2",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 8,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

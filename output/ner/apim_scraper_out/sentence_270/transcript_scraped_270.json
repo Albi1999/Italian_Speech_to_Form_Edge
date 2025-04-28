@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive la preparazione di un verbale per una violazione commessa da un veicolo. Il veicolo è una macchina agricola con targa di prova immatricolata in Olanda. La violazione è avvenuta in via del Corso, civico non specificato, per transito in zona ad accesso vietato secondo l'articolo del codice civile. La contestazione è stata immediata, eseguita dall'agente Mario Ros. La violazione comporta la decurtazione di punti non specificati. La stampa del verbale è richiesta in italiano via Bluetooth, senza stampare anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "tirfioni tre tenti tentifile",
+        "ora_violazione": "oretre ttrin",
+        "data_verbalizzazione": "tirfioni tre tenti tentifile",
+        "ora_verbalizzazione": "oretre ttrin",
+        "luogo_verbalizzazione": "via del corso",
+        "Strada_1": "via del corso",
+        "Civico_1": "peve",
+        "lista_veicoli": [
+            {
+                "tipologia": "macchina agricola",
+                "nazione": "olanda",
+                "targa": "sev",
+                "tipologia_targa": "prova",
+                "marca_modello": null,
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "contestazione immediata",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "civile",
+                "articolo": "ondrefitiaità",
+                "comma": "commatto",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": null,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

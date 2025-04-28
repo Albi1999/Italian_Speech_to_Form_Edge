@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento riguarda la redazione di un verbale per un'infrazione stradale. Il veicolo coinvolto è un ciclomotore di marca Maccavol Saingenvolf, targato con una targa di tipo copertura proveniente dall'Olanda. L'infrazione è stata rilevata in via Mettea al civico fortifile, dove il veicolo era parcheggiato in divieto di sosta, violando l'articolo del codice penale. L'agente ha proceduto alla contestazione immediata dell'infrazione, che comporta la perdita di punti. Si richiede la stampa del verbale in italiano tramite Bluetooth, includendo anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "not found",
+        "ora_violazione": "not found",
+        "data_verbalizzazione": "not found",
+        "ora_verbalizzazione": "not found",
+        "luogo_verbalizzazione": "not found",
+        "Strada_1": "via mettea",
+        "Civico_1": "fortifile",
+        "lista_veicoli": [
+            {
+                "tipologia": "ciclomotore",
+                "nazione": "oland",
+                "targa": "i focon drelfiftisisl",
+                "tipologia_targa": "copertura",
+                "marca_modello": "maccavol saingenvolf",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "contestazione immediata",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "penale",
+                "articolo": "zia",
+                "comma": "manminusitelbe",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": null,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

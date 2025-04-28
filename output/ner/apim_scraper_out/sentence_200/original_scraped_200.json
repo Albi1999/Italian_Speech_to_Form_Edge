@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive un verbale redatto il 02/04/2025 alle ore 07:50 per un veicolo Audi A3, immatricolato in Olanda con targa speciale ZA456QP. L'infrazione è avvenuta in viale dei Giardini, civico 8, per violazione del codice penale, articolo 185, comma 2 (parcheggio davanti a passo carrabile). Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 3 punti da decurtare, senza sanzione accessoria. La stampa è in italiano tramite wifi, senza comunicazione aggiuntiva.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "02/04/2025",
+        "ora_violazione": "07:50",
+        "data_verbalizzazione": "02/04/2025",
+        "ora_verbalizzazione": "07:50",
+        "luogo_verbalizzazione": "viale dei Giardini, 8",
+        "Strada_1": "viale dei Giardini",
+        "Civico_1": "8",
+        "lista_veicoli": [
+            {
+                "tipologia": "motoveicolo",
+                "nazione": "olanda",
+                "targa": "ZA456QP",
+                "tipologia_targa": "speciale",
+                "marca_modello": "Audi A3",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "penale",
+                "articolo": "185",
+                "comma": "2",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 3,
+        "dichiarazioni": null,
+        "tipo_stampa": "wifi",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

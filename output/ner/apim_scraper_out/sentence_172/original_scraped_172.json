@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive un preavviso notificato il 31/03/2025 alle ore 00:53 per una macchina agricola con targa prova JK567OP, immatricolata in Slovenia. L'infrazione è avvenuta in via Roma, civico 77, per violazione del codice stradale, articolo 6, comma 1a(1-12), con parcheggio in zona rimozione. La contestazione immediata non è stata possibile per l'assenza del trasgressore, motivo per cui è indicata la mancata contestazione. Sono da decurtare 4 punti. La stampa del preavviso è richiesta tramite Bluetooth, in italiano, con inclusione della comunicazione.",
+    "report": {
+        "verbale_preavviso": "preavviso",
+        "data_violazione": "31/03/2025",
+        "ora_violazione": "00:53",
+        "data_verbalizzazione": null,
+        "ora_verbalizzazione": null,
+        "luogo_verbalizzazione": null,
+        "Strada_1": "via Roma",
+        "Civico_1": "77",
+        "lista_veicoli": [
+            {
+                "tipologia": "macchina agricola",
+                "nazione": "slovenia",
+                "targa": "JK567OP",
+                "tipologia_targa": "prova",
+                "marca_modello": null,
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "stradale",
+                "articolo": "6",
+                "comma": "1a(1-12)",
+                "sanzione_accessoria": null
+            }
+        ],
+        "punti": 4,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

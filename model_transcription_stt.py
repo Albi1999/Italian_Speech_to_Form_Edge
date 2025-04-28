@@ -1,17 +1,18 @@
 import os
 import json
+from pyexpat import model
 import pandas as pd
 from tqdm import tqdm
 
-from models import Vosk
+from models import Vosk, Wav2Vec2Grosman
 from utils import DatasetLoader
 
-OUTPUT_DIR = "output/stt/vosk_transcription"
+OUTPUT_DIR = "output/stt"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 NUM_SAMPLES = 100
 dataset_names = ["google_synthetic", "azure_synthetic", "coqui"]
 
-def transcribe_and_save_results(vosk_model, dataset_name, samples):
+def transcribe_and_save_results(model, dataset_name, samples):
     """
     Transcribes audio samples using the Vosk model and returns the results.
 
@@ -23,7 +24,7 @@ def transcribe_and_save_results(vosk_model, dataset_name, samples):
     results = []
     for s in tqdm(samples, desc=dataset_name):
         try:
-            transcription = vosk_model.transcribe(s['path'], s['sentence'])
+            transcription = model.transcribe(s['path'], s['sentence'])
             results.append({
                 'dataset': dataset_name,
                 'file_path': s['path'],
@@ -33,7 +34,7 @@ def transcribe_and_save_results(vosk_model, dataset_name, samples):
         except Exception as e:
             print(f"Error transcribing {s['path']} from {dataset_name}: {e}")
             results.append({
-                'dataset': dataset_name,  # Add dataset name for clarity
+                'dataset': dataset_name,
                 'file_path': s['path'],
                 'original_sentence': s['sentence'],
                 'transcribed_sentence': "Transcription Failed"
@@ -41,8 +42,18 @@ def transcribe_and_save_results(vosk_model, dataset_name, samples):
     return results
 
 if __name__ == "__main__":
-    vosk_model = Vosk()
+    
+    # Initialize the transcription model
+    #model_name = "vosk"
+    model_name = "wav2vec2"
+    print(f"Loading {model_name} Model...")
+    
+    model = Wav2Vec2Grosman()
+    #model = Vosk()
+
+    # Initialize the dataset loader
     data_loader = DatasetLoader()
+
     all_transcribed_sentences = []
 
     for dataset_name in dataset_names:
@@ -50,11 +61,11 @@ if __name__ == "__main__":
         # Load the dataset
         samples = data_loader.load_dataset(dataset_name, NUM_SAMPLES, use_clean=True)
         # Transcribe and save the results
-        results = transcribe_and_save_results(vosk_model, dataset_name, samples)
+        results = transcribe_and_save_results(model, dataset_name, samples)
         all_transcribed_sentences.extend(results)  # Add to the cumulative list
 
     # Save all transcribed sentences to a single JSON file
-    output_file_path = os.path.join(OUTPUT_DIR, "transcriptions.json")
+    output_file_path = os.path.join(OUTPUT_DIR, f"{model_name}_transcription", "transcriptions.json")
     try:
         with open(output_file_path, 'w', encoding='utf-8') as f:
             json.dump(all_transcribed_sentences, f, indent=4, ensure_ascii=False)

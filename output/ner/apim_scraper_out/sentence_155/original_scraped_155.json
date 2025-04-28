@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive una notifica di infrazione emessa il 26/03/2025 alle ore 03:24 per un veicolo Renault Clio, macchina operatrice con targa speciale IJ123KL immatricolato in Slovenia. L'infrazione è avvenuta in via Giuseppe Mazzini, civico 24, violando il codice penale, articolo 6, comma 1a(1-12), per parcheggio su strisce pedonali. Sono stati decurtati 8 punti senza sanzione accessoria. La stampa deve essere effettuata tramite Bluetooth in italiano, includendo anche la comunicazione.",
+    "report": {
+        "verbale_preavviso": null,
+        "data_violazione": "26/03/2025",
+        "ora_violazione": "03:24",
+        "data_verbalizzazione": "26/03/2025",
+        "ora_verbalizzazione": "03:24",
+        "luogo_verbalizzazione": "via Giuseppe Mazzini, 24",
+        "Strada_1": "via Giuseppe Mazzini",
+        "Civico_1": "24",
+        "lista_veicoli": [
+            {
+                "tipologia": "macchina operatrice",
+                "nazione": "slovenia",
+                "targa": "IJ123KL",
+                "tipologia_targa": "speciale",
+                "marca_modello": "Renault Clio",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "contestazione immediata",
+        "motivo_mancata_contestazione": null,
+        "violazioni": [
+            {
+                "codice": "penale",
+                "articolo": "6",
+                "comma": "1a(1-12)",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 8,
+        "dichiarazioni": null,
+        "tipo_stampa": "bluetooth",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "stampa anche la comunicazione"
+    },
+    "missing_required_infos": []
+}

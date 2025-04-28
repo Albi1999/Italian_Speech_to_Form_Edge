@@ -1,21 +1,21 @@
 {
-    "summary": "Il documento descrive una missione di preavviso per un veicolo rimorchio con targa di tipo copertura, proveniente da sola. La violazione è stata rilevata in via del Corso, con decurtazione di punti prevista. Si richiede la stampa del preavviso tramite Bluetooth, in lingua italiana, e anche la comunicazione.",
+    "summary": "Il documento descrive una violazione di parcheggio in zona rimozione avvenuta in via del Corso. Il veicolo coinvolto è un rimorchio con targa di tipo copertura proveniente da Sloeneain. La violazione è stata rilevata alle ore 23. La stampa del preavviso è richiesta tramite Bluetooth in lingua italiana, con inclusione della comunicazione. La violazione riguarda il codice stradale e comporta sanzioni pecuniarie e punti di decurtazione.",
     "report": {
         "verbale_preavviso": "preavviso",
-        "data_violazione": "tenti",
-        "ora_violazione": "tenti tre",
+        "data_violazione": null,
+        "ora_violazione": "23",
         "data_verbalizzazione": null,
         "ora_verbalizzazione": null,
         "luogo_verbalizzazione": null,
         "Strada_1": "via del corso",
-        "Civico_1": null,
+        "Civico_1": "tembe",
         "lista_veicoli": [
             {
                 "tipologia": "rimorchio",
-                "nazione": "sola",
-                "targa": "sono tenti tre",
+                "nazione": "sloeneain",
+                "targa": "proneon dretenti-trev",
                 "tipologia_targa": "copertura",
-                "marca_modello": "faccia james usasse",
+                "marca_modello": null,
                 "colore": null,
                 "telaio": null,
                 "massa": null,
@@ -23,13 +23,13 @@
             }
         ],
         "contestazione_immediata": "mancata contestazione",
-        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "motivo_mancata_contestazione": null,
         "violazioni": [
             {
                 "codice": "stradale",
-                "articolo": "ma tua",
+                "articolo": null,
                 "comma": null,
-                "sanzione_accessoria": "senza sanzione accessoria"
+                "sanzione_accessoria": null
             }
         ],
         "punti": null,

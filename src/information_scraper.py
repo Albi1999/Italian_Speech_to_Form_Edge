@@ -168,7 +168,7 @@ def main(num_sentences=None, all_macros=False, transcribed_texts=False):
 
     if transcribed_texts:
         # Load transcribed texts
-        transcribed_texts_path = "output/stt/vosk_transcription/transcriptions.json"
+        transcribed_texts_path = "output/stt/wav2vec2_transcription/transcriptions.json"
         all_transcribed_data = load_transcribed_texts(transcribed_texts_path)  # Load all data first
         all_original_data = load_original_texts(transcribed_texts_path) # Load all original texts
         
@@ -234,4 +234,4 @@ def main(num_sentences=None, all_macros=False, transcribed_texts=False):
                 print(f"Processed {macro} with document text: '{document_text[:30]}...'")
 
 if __name__ == "__main__":
-    main(num_sentences=2, transcribed_texts=True, all_macros=False)
+    main(num_sentences=5, transcribed_texts=True, all_macros=False)

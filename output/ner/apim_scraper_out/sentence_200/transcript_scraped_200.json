@@ -1,0 +1,42 @@
+{
+    "summary": "Il documento descrive un verbale emesso per un veicolo Audi, immatricolato in Olanda con targa speciale, per una violazione del codice penale. La violazione è avvenuta in viale dei giardini al civico ei, con l'infrazione di parcheggio davanti a un passo carrabile. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti tre punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa del verbale è prevista in italiano tramite WiFi, senza includere la comunicazione.",
+    "report": {
+        "verbale_preavviso": "verbale",
+        "data_violazione": "25",
+        "ora_violazione": "55",
+        "data_verbalizzazione": "25",
+        "ora_verbalizzazione": "55",
+        "luogo_verbalizzazione": "viale dei giardini",
+        "Strada_1": "viale dei giardini",
+        "Civico_1": "ei",
+        "lista_veicoli": [
+            {
+                "tipologia": "motoveicolo",
+                "nazione": "olanda",
+                "targa": "furundraefittisifi",
+                "tipologia_targa": "speciale",
+                "marca_modello": "audi",
+                "colore": null,
+                "telaio": null,
+                "massa": null,
+                "note_veicolo": null
+            }
+        ],
+        "contestazione_immediata": "mancata contestazione",
+        "motivo_mancata_contestazione": "assenza del trasgressore",
+        "violazioni": [
+            {
+                "codice": "penale",
+                "articolo": "neundre",
+                "comma": "dietifive",
+                "sanzione_accessoria": "senza sanzione accessoria"
+            }
+        ],
+        "punti": 3,
+        "dichiarazioni": null,
+        "tipo_stampa": "wifi",
+        "lingua_stampa": "italiano",
+        "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+    },
+    "missing_required_infos": []
+}
