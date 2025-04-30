@@ -1,6 +1,5 @@
 import spacy
 import time
-import os
 
 class SpacyNERExtractor:
     """

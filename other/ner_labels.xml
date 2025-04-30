@@ -1,0 +1,34 @@
+<View>
+  <Labels name="label" toName="text">
+    <Label value="VERBALE_PREAVVISO" background="#FFA07A"/>
+    <Label value="DATA_VIOLAZIONE" background="#FFD700"/>
+    <Label value="ORA_VIOLAZIONE" background="#FFB6C1"/>
+    <Label value="DATA_VERBALIZZAZIONE" background="#ADFF2F"/>
+    <Label value="ORA_VERBALIZZAZIONE" background="#98FB98"/>
+    <Label value="LUOGO_VERBALIZZAZIONE" background="#AFEEEE"/>
+    <Label value="STRADA_1" background="#87CEFA"/>
+    <Label value="CIVICO_1" background="#B0C4DE"/>
+    <Label value="TIPOLOGIA" background="#F0E68C"/>
+    <Label value="NAZIONE" background="#DDA0DD"/>
+    <Label value="TARGA" background="#FF6347"/>
+    <Label value="TIPOLOGIA_TARGA" background="#FFA500"/>
+    <Label value="MARCA_MODELLO" background="#9ACD32"/>
+    <Label value="COLORE" background="#6495ED"/>
+    <Label value="TELAIO" background="#D2B48C"/>
+    <Label value="MASSA" background="#F5DEB3"/>
+    <Label value="NOTE_VEICOLO" background="#E0FFFF"/>
+    <Label value="CONTESTAZIONE_IMMEDIATA" background="#FFC0CB"/>
+    <Label value="MOTIVO_MANCATA_CONTESTAZIONE" background="#FFE4B5"/>
+    <Label value="CODICE" background="#00FA9A"/>
+    <Label value="ARTICOLO" background="#7FFFD4"/>
+    <Label value="COMMA" background="#40E0D0"/>
+    <Label value="SANZIONE_ACCESSORIA" background="#FF7F50"/>
+    <Label value="PUNTI" background="#DC143C"/>
+    <Label value="DICHIARAZIONI" background="#C0C0C0"/>
+    <Label value="TIPO_STAMPA" background="#ADD8E6"/>
+    <Label value="LINGUA_STAMPA" background="#F08080"/>
+    <Label value="STAMPA_ANCHE_COMUNICAZIONE" background="#FAFAD2"/>
+  </Labels>
+
+  <Text name="text" value="$text"/>
+</View>
