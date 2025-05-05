@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 21 marzo 2025 alle ore 4:00 per un veicolo immatricolato in Croazia, una macchina agricola con targa ufficiale. L'infrazione è avvenuta in via Roma, civico 77, per violazione del codice stradale, articolo 7, comma 5, riguardante il parcheggio davanti a un passo carraio. La contestazione è stata immediata, eseguita dall'agente Sara Bellini, con una decurtazione di sei punti. Non è stata applicata alcuna sanzione accessoria. La stampa è prevista in italiano tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "21/03/2025",
+            "ora_violazione": "04:00",
+            "data_verbalizzazione": "21/03/2025",
+            "ora_verbalizzazione": "04:00",
+            "luogo_verbalizzazione": "via roma, civico 77",
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "croazia",
+                    "targa": "è più sette centottantanove",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "new serie uno",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "7",
+                    "comma": "5",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventuno marzo duemilaventicinque alle ore quattro è stato redatto un verbale per il veicolo b new serie uno macchina agricola immatricolati in croazia con targa è più sette centottantanove giacca di tipo ufficiale l'infrazione avvenuta in via roma al civico settantasette e stata riscontrata una violazione del codice stradale articolo sette con ma cinque ovvero parcheggio davanti a passo carabine kelly verbale è stato eseguito sul posto con contestazione immediata da parte della gente sara bellini sono previsti sei punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in italiano tramite blu tutta stampa anche la comunicazione",
+    "original_sentence": "Il giorno 21/03/2025, alle ore 04:00, è stato redatto un verbale per il veicolo BMW Serie 1, macchina agricola immatricolato in croazia con targa EP789GH di tipo ufficiale.L'infrazione è avvenuta in via Roma, al civico 77. È stata riscontrata una violazione del codice stradale, articolo 7, comma 5 ovvero parcheggio davanti a passo carrabileIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Sara Bellini. Sono previsti 6 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in italiano tramite bluetooth, stampa anche la comunicazione."
+}

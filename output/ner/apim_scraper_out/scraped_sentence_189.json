@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la preparazione di un verbale per una violazione stradale. Il veicolo coinvolto è una Skoda Fabia, classificata come macchina agricola, con targa ufficiale immatricolata in Austria. L'infrazione è avvenuta il 27 marzo 2025 alle ore 16:28 in via dei Giardini, civico 8, per parcheggio in doppia fila, violando l'articolo 158 comma 2 del codice stradale. La contestazione immediata è stata eseguita dall'agente Matteo Gallo, comportando la decurtazione di 6 punti. La stampa del verbale è richiesta in italiano via WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "27/03/2025",
+            "ora_violazione": "16:28",
+            "data_verbalizzazione": "27/03/2025",
+            "ora_verbalizzazione": "16:28",
+            "luogo_verbalizzazione": "via dei Giardini, civico 8",
+            "Strada_1": "via dei Giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "austria",
+                    "targa": "abby789cidi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "skoda fabia",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo skoda fabia macchina agricola targa abby sette centottantanove ci di di tipo ufficiale immatricolati in austria per infrazione commessa in data ventisette marzo duemilaventicinque ore sedici e ventotto inviare dei giardini civico otto è stato rilevato parcheggio in doppia fila ai sensi dell'articolo centocinquantotto comma due del codice stradale contestazione immediata eseguita dall'agente matteo gallo la violazione comporta la decurtazione di sei punti richiesta stampa in italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Skoda Fabia macchina agricola, targa AB789CD di tipo ufficiale, immatricolato in austria, per infrazione commessa in data 27/03/2025, ore 16:28. In viale dei Giardini, civico 8, è stato rilevato parcheggio in doppia fila, ai sensi dell'articolo 158, comma 2, del codice stradale. Contestazione immediata eseguita dall'agente Matteo Gallo. La violazione comporta la decurtazione di 6 punti. Richiesta stampa in italiano via wifi, non stampare anche la comunicazione. "
+}

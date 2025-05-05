@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Dacia Sandy, classificato come macchina agricola con targa ufficiale immatricolata in Austria. L'infrazione è avvenuta l'8 aprile 2025 alle 16:32 in viale dei Giardini, civico 8, per parcheggio in zona a rimozione secondo l'articolo 157, comma 5 del codice stradale. La contestazione immediata è stata eseguita dall'agente Mario Rossi, con una decurtazione di 9 punti. La stampa è richiesta in italiano via WiFi, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "08/04/2025",
+            "ora_violazione": "16:32",
+            "data_verbalizzazione": "08/04/2025",
+            "ora_verbalizzazione": "16:32",
+            "luogo_verbalizzazione": "viale dei giardini, civico 8",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "austria",
+                    "targa": "icsi ypsilon centoventitre",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "dacia sandy",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 9,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo dacia sandy ero macchina agricola targa icsi ypsilon centoventitre zza di tipo ufficiale immatricolati austria per infrazione commessa in data otto aprile duemilaventicinque ore sedici e trentadue in viale dei giardini civico otto è stato rilevato parcheggio in zona a rimozione ai sensi dell'articolo centocinquantasette con ma cinque del codice stradale contestazione immediata eseguita dall'agente mario rossi la violazione comporta la decurtazione di nove punti richiesta stampa in italiano via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Dacia Sandero macchina agricola, targa XY123ZA di tipo ufficiale, immatricolato in austria, per infrazione commessa in data 08/04/2025, ore 16:32. In viale dei Giardini, civico 8, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 157, comma 5, del codice stradale.Contestazione immediata eseguita dall'agente Mario Rossi. La violazione comporta la decurtazione di 9 punti. Richiesta stampa in italiano via wifi, stampa anche la comunicazione."
+}

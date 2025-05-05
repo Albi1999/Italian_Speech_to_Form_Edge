@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a un veicolo autovettura con targa di tipo prova proveniente dall'Italia. La violazione, transito in zona accesso vietato, è avvenuta il 21 aprile 2025 alle 23:49 in via del Corso, numero 12. L'infrazione rientra nell'articolo 6, comma 1a(1-12) del codice penale. La contestazione è stata immediata da parte dell'agente Mario Rossi e prevede la perdita di un punto. Si richiede la stampa in lingua italiana tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "21/04/2025",
+            "ora_violazione": "23:49",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italia",
+                    "targa": "centoventitre doppia wings",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "skoda fabia",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo autovettura targato vuoi centoventitre doppia wings di tipo prova proveniente da italia manca skoda fabia la violazione ovvero transito in zona accesso vietato si e verificata in data ventuno aprile duemilaventicinque alle ore ventitré quarantanove in via del corso al numero dodici l'infrazione rientra nell'articolo sei con ma uno a è uno a dodici i del codice penale contestazioni immediata da parte della gente mario rossi la sanzione prevede la perdita di un punti si richiede la stampa in lingua italiano tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato UV123WX di tipo prova proveniente da italia, marca Skoda Fabia. La violazione, ovvero transito in zona accesso vietato, si è verificata in data 21/04/2025 alle ore 23:49 in via del Corso, al numero 12. L'infrazione rientra nell'articolo 6, comma 1a(1-12) del codice penale. Contestazione immediata da parte dell'agente Mario Rossi. La sanzione prevede la perdita di 1 punti. Si richiede la stampa in lingua italiano, tramite wifi, non stampare anche la comunicazione. "
+}

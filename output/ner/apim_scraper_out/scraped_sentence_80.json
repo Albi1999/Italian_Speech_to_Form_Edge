@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda l'emissione di un preavviso per un veicolo rimorchio Mercedes Classe A con targa di tipo copertura proveniente dalla Slovenia. La violazione è stata rilevata il 15 aprile 2025 alle ore 23:42 per parcheggio in zona a rimozione in via del Corso, numero 12, in base all'articolo 185, comma 2 del codice stradale. Sono previsti cinque punti di decurtazione. Si richiede la stampa del preavviso tramite Bluetooth in lingua italiana, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "15/04/2025",
+            "ora_violazione": "23:42",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "slovenia",
+                    "targa": "ci di centoventitre abby",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "185",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 5,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo rimorchio marca mercedes classe a targato ci di centoventitre abby di tipo copertura proveniente da slovenia in data quindici aprile duemilaventicinque alle ore ventitré quarantadue stata rilevata la violazione di parcheggio in zona a rimozione in via del corso al numero dodici in base all'articolo centottantacinque con ma due del codice stradale per tale infrazione sono previsti cinque punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo rimorchio, marca Mercedes Classe A, targato CD123AB di tipo copertura, proveniente da slovenia. In data 15/04/2025 alle ore 23:42, è stata rilevata la violazione di parcheggio in zona rimozione in via del Corso, al numero 12, in base all'articolo 185, comma 2 del codice stradale.Per tale infrazione sono previsti 5 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua italiano, stampa anche la comunicazione."
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale avvenuta il 16 aprile 2025 alle 19:35 in via del Corso, numero 12. La violazione riguarda il parcheggio davanti a un passo carrabile, secondo l'articolo 5, comma 3 del codice stradale. Il veicolo coinvolto è una macchina operatrice con targa speciale proveniente dalla Slovenia, marca O per Corsa. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, e la sanzione prevede la perdita di 8 punti. Si richiede la stampa in italiano tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "16/04/2025",
+            "ora_violazione": "19:35",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "slovenia",
+                    "targa": "ci di quattrocentocinquanta sei jeff",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "o per corsa",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "5",
+                    "comma": "3",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 8,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrice targato ci di quattrocentocinquanta sei jeff di tipo speciale proveniente da slovenia marca o per corsa la violazione ovvero parcheggio davanti a passo carabine sia e verificata in data sedici aprile duemilaventicinque alle ore diciannove trentacinque in via del corso al numero dodici l'infrazione rientra nell'articolo cinque con ma tre del codice stradale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori motivo mancata contestazione assenza del trasgressori la sanzione prevede la perdita di otto punti si richiede la stampa in lingua italiano tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato CD456EF di tipo speciale proveniente da slovenia, marca Opel Corsa. La violazione, ovvero parcheggio davanti a passo carrabile, si è verificata in data 16/04/2025 alle ore 19:35 in via del Corso, al numero 12. L'infrazione rientra nell'articolo 5, comma 3 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, motivo mancata contestazione: assenza del trasgressore. La sanzione prevede la perdita di 8 punti. Si richiede la stampa in lingua italiano, tramite bluetooth, non stampare anche la comunicazione."
+}

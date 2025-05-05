@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il 22 aprile 2025 alle ore 10:02 per una violazione riscontrata su un motoveicolo di marca non specificata, targato EM3201+, tipo ufficiale, proveniente dalla Germania. La violazione è avvenuta in via Roma, civico 77, per parcheggio davanti a passo carraio, in violazione dell'articolo 9, comma 1 del codice civile. La contestazione non è stata immediata a causa dell'assenza del conducente. Sono previsti 9 punti di decurtazione dalla patente. Si richiede la stampa in italiano via WiFi e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "22/04/2025",
+            "ora_violazione": "10:02",
+            "data_verbalizzazione": "22/04/2025",
+            "ora_verbalizzazione": "10:02",
+            "luogo_verbalizzazione": "via roma, civico 77",
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "germania",
+                    "targa": "EM3201+",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "9",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 9,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data ventidue aprile duemilaventicinque alle ore dieci e due per la violazione riscontrata al veicolo motoveicoli marca chi ha pianto targato e me ne trecentoventi uno più tipo ufficiali proveniente da germania in particolare in via roma civico settantasette è stato accertato parcheggio davanti a passo carabine in violazione dell'articolo nove comma uno del codice civile data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di nove punti dalla patente richiedo la stampa in italiano via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 22/04/2025 alle ore 10:02 per la violazione riscontrata al veicolo motoveicolo, marca Kia Picanto, targato MN321OP (tipo ufficiale) proveniente da germania. In particolare, in via Roma, civico 77, è stato accertato parcheggio davanti a passo carrabile, in violazione dell'articolo 9, comma 1 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 9 punti dalla patente. Richiedo la stampa in italiano via wifi, stampa anche la comunicazione. "
+}

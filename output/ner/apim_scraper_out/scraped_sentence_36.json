@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 23 marzo 2025 alle 05:15 per un'autovettura con targa copertura immatricolata in Germania. L'infrazione è stata rilevata in via della Libertà, civico 3, per violazione del codice civile, articolo 14, comma 1, riguardante il parcheggio in zona di rimozione. La contestazione immediata non è stata possibile per l'assenza del trasgressore, con tre punti da decurtare. La stampa del preavviso è richiesta tramite Bluetooth, in italiano, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "23/03/2025",
+            "ora_violazione": "05:15",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via della libertà",
+            "Civico_1": "3",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "jeff centoventitre giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "14",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventitré marzo duemilaventicinque alle ore cinque un quarto è stato notificato un preavviso per un'autovettura targato jeff centoventitre giacca con targa copertura immatricolati in germania l'infrazione e stata rilevata in via della libertà al civico tre con violazione del codice civile articolo quattordici con ma uno in particolare si e riscontrato un parcheggio in zona a rimozione non è stato possibile contestare per l'assenza del trasgressori è per questo è indicato il motivo di mancata contestazione da decurtare ci sono tre punti ulteriori dettagli sul veicolo non sono necessari necessita alla stampa del preavviso tramite blu tutta in italiano stampa anche la comunicazione",
+    "original_sentence": "In data 23/03/2025, alle ore 05:15, è stato notificato un preavviso per un autovettura targato EF123GH con targa copertura, immatricolato in germania. L'infrazione è stata rilevata in via della Libertà, al civico 3, con violazione del codice civile, articolo 14, comma 1, in particolare si è riscontrato un parcheggio in zona rimozione Non è stato possibile contestare per l'assenza del trasgressore, e per questo è indicato il motivo di mancata contestazione. Da decurtare ci sono 3 punti. Ulteriori dettagli sul veicolo non sono necessari. Necessito la stampa del preavviso tramite bluetooth, in italiano, stampa anche la comunicazione."
+}

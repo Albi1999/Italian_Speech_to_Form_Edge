@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un'infrazione stradale avvenuta il 3 aprile 2025 alle ore 15:59 in via Giuseppe Mazzini, numero civico 24. L'infrazione riguarda un parcheggio in divieto di sosta, violando l'articolo 8, comma 6 del codice stradale, con una decurtazione di 4 punti. Il veicolo coinvolto è un'autovettura di marca Opel Corsa con targa speciale proveniente dall'Italia. La contestazione immediata non è stata possibile per l'assenza del trasgressore. La stampa del verbale è richiesta tramite Bluetooth, in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "03/04/2025",
+            "ora_violazione": "15:59",
+            "data_verbalizzazione": "03/04/2025",
+            "ora_verbalizzazione": "15:59",
+            "luogo_verbalizzazione": "via giuseppe mazzini numero civico ventiquattro",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "24",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italia",
+                    "targa": "cassette centottantanove",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "opel corsa",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "8",
+                    "comma": "6",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo autovettura di marca o il corsa con targa gia cassette centottantanove il tipo speciale proveniente da italia fatto avvenuto il tre aprile duemilaventicinque alle ore quindici e cinquantanove posizione via giuseppe mazzini numero civico ventiquattro infrazione parcheggio in divieto di sosta in violazione dell'articolo otto comma sei del codice stradale decurtazione prevista quattro punti impossibile contestare immediatamente per assenza del trasgressori motivo assenza del trasgressori stampa necessaria tramite blu tutti in italiano non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo autovettura di marca Opel Corsa, con targa GH789IJ (tipo speciale), proveniente da italia. Fatto avvenuto il 03/04/2025 alle ore 15:59. Posizione: via Giuseppe Mazzini, numero civico 24. Infrazione: parcheggio in divieto di sosta, in violazione dell'articolo 8, comma 6, del codice stradale. Decurtazione prevista: 4 punti. Impossibile contestare immediatamente per assenza del trasgressore, motivo: assenza del trasgressore. Stampa necessaria tramite bluetooth in italiano, non stampare anche la comunicazione. "
+}

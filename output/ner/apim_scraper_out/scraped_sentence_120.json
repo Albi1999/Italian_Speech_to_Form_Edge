@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la preparazione di un verbale per un veicolo Mercedes Classe Rimorchio con targa di tipo prova, immatricolato in Svizzera. L'infrazione è stata commessa il 17 aprile 2025 alle ore 24:32 in via dei Giardini, civico non specificato, per parcheggio in zona a rimozione secondo l'articolo 7, comma 15 del codice civile. La contestazione immediata è stata eseguita dall'agente Francesco Rizzo e comporta la decurtazione di un punto. La stampa è richiesta in italiano tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "17/04/2025",
+            "ora_violazione": "24:32",
+            "data_verbalizzazione": "17/04/2025",
+            "ora_verbalizzazione": "24:32",
+            "luogo_verbalizzazione": "via dei giardini",
+            "Strada_1": "via dei giardini",
+            "Civico_1": null,
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "B789CD",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mercedes classe",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo mercedes classe rimorchio targa b settecento ottantanove ci di di tipo prova immatricolati in svizzera per infrazione commessa in data diciassette aprile duemilaventicinque ore ventiquattro i trentadue inviare dei giardini civico è stato rilevato un parcheggio in zona a rimozione ai sensi dell'articolo sette comma quindici del codice civile contestazione immediata eseguita dal agente francesco rizzo la violazione comporta la decurtazione di un punti richiesta stampa in italiano di hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Mercedes Classe A rimorchio, targa AB789CD di tipo prova, immatricolato in svizzera, per infrazione commessa in data 17/04/2025, ore 00:32. In viale dei Giardini, civico 8, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 7, comma 15, del codice civile. Contestazione immediata eseguita dall'agente Francesco Rizzo. La violazione comporta la decurtazione di 1 punti. Richiesta stampa in italiano via wifi, non stampare anche la comunicazione. "
+}

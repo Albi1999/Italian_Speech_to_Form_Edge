@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo tipo macchina agricola, marca da Cassandra, targato Yemen, proveniente dalla Grecia. L'infrazione è stata rilevata il 26 marzo 2025 alle ore 6:47 in via del Corso, civico 12, per transito in zona accesso vietato, violando l'articolo 4, comma 2 del codice penale. Non è stata possibile la contestazione immediata per assenza del trasgressore, comportando la perdita di 8 punti. Si richiede la stampa del verbale in italiano tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "26/03/2025",
+            "ora_violazione": "06:47",
+            "data_verbalizzazione": "26/03/2025",
+            "ora_verbalizzazione": "06:47",
+            "luogo_verbalizzazione": "via del corso, civico 12",
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "grecia",
+                    "targa": "yemen",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "da cassandra",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "4",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 8,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina agricola marca da cassandra ero targato yemen trecentoventi uno o più di tipo ufficiale proveniente da grecia l'infrazione e stata rilevata il ventisei marzo duemilaventicinque alle ore sei e quarantasette il veicolo si trovava in via del corso al civico dodici in transito in zona accesso vietato violando l'articolo quattro coma due del codice penale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori quindi motivo mancata contestazione assenza del trasgressori la violazione comporta la perdita di otto punti richiedo la stampa del verbale in italiano tramite wifi stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina agricola, marca Dacia Sandero, targato MN321OP (di tipo ufficiale), proveniente da grecia. L'infrazione è stata rilevata il 26/03/2025 alle ore 06:47. Il veicolo si trovava in via del Corso, al civico 12, in transito in zona accesso vietato, violando l'articolo 4, comma 2, del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore, quindi motivo mancata contestazione: assenza del trasgressore. La violazione comporta la perdita di 8 punti. Richiedo la stampa del verbale in italiano tramite wifi, stampa anche la comunicazione. "
+}

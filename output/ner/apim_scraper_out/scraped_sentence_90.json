@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il 9 aprile 2025 alle ore 17:44 per un veicolo autovettura di marca Skoda Fabia con targa di prova registrata in Austria. L'infrazione è avvenuta in viale dei Giardini, numero 8, per parcheggio in doppia fila, come previsto dall'articolo 6, comma 1a(1-12) del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti tre punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua italiana, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "09/04/2025",
+            "ora_violazione": "17:44",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "gia cassette centottantanove",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "scorda fabia",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data a nove aprile duemilaventicinque alle ore diciassette quarantaquattro è stato emesso un preavviso di violazione per il veicolo autovettura di marca scorda fabia con targa gia cassette centottantanove tipo prova registrato in austria l'infrazione avvenuta in viale dei giardini al numero otto è consiste in parcheggia in doppia fila come previsto dall'articolo sei con ma prima uno dodici del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti tre punti di decurtazione si prega di stampare la presente notifica tramite blu in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 09/04/2025, alle ore 17:44, è stato emesso un preavviso di violazione per il veicolo autovettura di marca Skoda Fabia, con targa GH789IJ (tipo prova), registrato in austria. L'infrazione è avvenuta in viale dei Giardini, al numero 8, e consiste in parcheggio in doppia fila, come previsto dall'articolo 6, comma 1a(1-12) del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 3 punti di decurtazione.  Si prega di stampare la presente notifica tramite bluetooth, in lingua italiano, non stampare anche la comunicazione."
+}

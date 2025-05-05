@@ -1,11 +1,8 @@
 <View>
   <Labels name="label" toName="text">
-    <Label value="VERBALE_PREAVVISO" background="#FFA07A"/>
+    <Label value="VERBALE_PREAVVISO" background="#fb7d4b"/>
     <Label value="DATA_VIOLAZIONE" background="#FFD700"/>
     <Label value="ORA_VIOLAZIONE" background="#FFB6C1"/>
-    <Label value="DATA_VERBALIZZAZIONE" background="#ADFF2F"/>
-    <Label value="ORA_VERBALIZZAZIONE" background="#98FB98"/>
-    <Label value="LUOGO_VERBALIZZAZIONE" background="#AFEEEE"/>
     <Label value="STRADA_1" background="#87CEFA"/>
     <Label value="CIVICO_1" background="#B0C4DE"/>
     <Label value="TIPOLOGIA" background="#F0E68C"/>
@@ -18,7 +15,7 @@
     <Label value="MASSA" background="#F5DEB3"/>
     <Label value="NOTE_VEICOLO" background="#E0FFFF"/>
     <Label value="CONTESTAZIONE_IMMEDIATA" background="#FFC0CB"/>
-    <Label value="MOTIVO_MANCATA_CONTESTAZIONE" background="#FFE4B5"/>
+    <Label value="MOTIVO_MANCATA_CONTESTAZIONE" background="#aa8b55"/>
     <Label value="CODICE" background="#00FA9A"/>
     <Label value="ARTICOLO" background="#7FFFD4"/>
     <Label value="COMMA" background="#40E0D0"/>
@@ -27,7 +24,7 @@
     <Label value="DICHIARAZIONI" background="#C0C0C0"/>
     <Label value="TIPO_STAMPA" background="#ADD8E6"/>
     <Label value="LINGUA_STAMPA" background="#F08080"/>
-    <Label value="STAMPA_ANCHE_COMUNICAZIONE" background="#FAFAD2"/>
+    <Label value="STAMPA_ANCHE_COMUNICAZIONE" background="#f1f11e"/>
   </Labels>
 
   <Text name="text" value="$text"/>

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo tipo macchina operatrice con targa di prova, marca Skoda Fabia, proveniente dalla Grecia. L'infrazione è avvenuta il 22 marzo 2025 alle ore 22:08 in via Roma, numero 77, per transito in zona ad accesso vietato. La violazione è classificata sotto l'articolo 6, comma 1a(1-12) del codice penale e comporterà una decurtazione di 4 punti. Si richiede la stampa in lingua italiana, modalità WiFi, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "22/03/2025",
+            "ora_violazione": "22:08",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "scorda fabia",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa guerre novecentottanta sette se ti di tipo prova marca scorda fabia proveniente da grecia l'infrazione nello specifico transito in zona accesso vietato sia e verificata in data ventidue marzo duemilaventicinque alle ore ventidue otto minuti in via roma al numero settantasette articolo sei con ma prima uno dodici del codice penale si comunica che dalla violazione conseguirà una decurtazione di quattro punti si richiede la stampa in lingua italiano modalità hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa QR987ST di tipo prova, marca Skoda Fabia, proveniente da grecia. L'infrazione, nello specifico transito in zona accesso vietato, si è verificata in data 22/03/2025 alle ore 22:08 in via Roma, al numero 77 (articolo 6, comma 1a(1-12) del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 4 punti.Si richiede la stampa in lingua italiano, modalità wifi, stampa anche la comunicazione."
+}

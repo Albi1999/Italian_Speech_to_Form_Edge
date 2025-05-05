@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo BMW, una macchina operatrice con targa di tipo copertura immatricolata in Olanda. L'infrazione è avvenuta il 25 marzo 2025 alle ore 23:38 in Piazza Venezia, civico 1, per transito in zona di accesso vietato ai sensi dell'articolo 6, comma 4 del codice stradale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 10 punti. È richiesta la stampa in italiano via Bluetooth, inclusa la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "25/03/2025",
+            "ora_violazione": "23:38",
+            "data_verbalizzazione": "25/03/2025",
+            "ora_verbalizzazione": "23:38",
+            "luogo_verbalizzazione": "piazza venezia",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "1",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "olanda",
+                    "targa": "HOW3201WW",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "bmw serie",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "6",
+                    "comma": "4",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo bmw serie una macchina operatrice targa how trecentoventi uno doppia wings di tipo copertura immatricolati in olanda per infrazione commessa in data venticinque marzo duemilaventicinque ore ventitré trentotto in piazza venezia civico uno è stato rilevato transito in zona accesso vietato ai sensi dell'articolo sei con ma quattro del codice stradale impossibile effettuare la contestazione immediata motivo assenza del trasgressori la violazione comporta la decurtazione di dieci punti richiesta stampa in italiano via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo BMW Serie 1 macchina operatrice, targa UV321WX di tipo copertura, immatricolato in olanda, per infrazione commessa in data 25/03/2025, ore 23:38. In piazza Venezia, civico 1, è stato rilevato transito in zona accesso vietato, ai sensi dell'articolo 6, comma 4, del codice stradale. Impossibile effettuare la contestazione immediata, motivo: assenza del trasgressore. La violazione comporta la decurtazione di 10 punti. Richiesta stampa in italiano via bluetooth, stampa anche la comunicazione. "
+}

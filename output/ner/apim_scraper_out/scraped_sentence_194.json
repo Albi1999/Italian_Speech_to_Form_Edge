@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 24 marzo 2025 alle 08:11 per un motoveicolo con targa ufficiale immatricolato in Austria. L'infrazione riguarda il parcheggio in zona a rimozione in via della Repubblica, civico 20, violando il codice stradale, articolo 7, comma 5. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Sono previsti due punti da decurtare e non si applica alcuna sanzione accessoria. La stampa avviene tramite Bluetooth in italiano, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "24/03/2025",
+            "ora_violazione": "08:11",
+            "data_verbalizzazione": "24/03/2025",
+            "ora_verbalizzazione": "08:11",
+            "luogo_verbalizzazione": "via della repubblica, 20",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "20",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "austria",
+                    "targa": "capelli trecentoventi uno yemen",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "7",
+                    "comma": "5",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle otto e undici del ventiquattro marzo duemilaventicinque storie di dicendo un verbale per il veicolo motoveicoli targato capelli trecentoventi uno yemen con targa ufficiale immatricolati in austria l'infrazione è stata accertata in via della repubblica al silico venti con violazione del codice stradale articolo sette comma cinque per parcheggio in zona a rimozione sono previsti due punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non passo applicare alcuna sanzioni accessoria stampa tramite blackout in italiano stampa anche la comunicazione",
+    "original_sentence": "Alle 08:11 del 24/03/2025, sto redigendo un verbale per il veicolo motoveicolo targato KL321MN con targa ufficiale, immatricolato in austriaL'infrazione è stata accertata in via della Repubblica, al civico 20, con violazione del codice stradale, articolo 7,comma 5 per parcheggio in zona rimozione Sono previsti 2 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in italiano, stampa anche la comunicazione. "
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il 27 marzo 2025 alle ore 16:10 per un ciclomotore di marca Fox Vaga in Golf con targa speciale registrata in Portogallo. L'infrazione è avvenuta in via Enea, numero 45, per parcheggio in divieto di sosta, secondo l'articolo 5 del codice civile. Non essendo stato possibile identificare il conducente, la notifica è inviata al proprietario del veicolo. Sono previsti 8 punti di decurtazione. Si richiede la stampa della notifica tramite Wi-Fi in lingua italiana, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "27/03/2025",
+            "ora_violazione": "16:10",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via enea",
+            "Civico_1": "45",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "portogallo",
+                    "targa": "icsi ypsilon novecentottanta sette",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "fox vaga in golf",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "5",
+                    "comma": null,
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 8,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventisette marzo duemilaventicinque alle ore sedici e dieci è stato emesso un preavviso di violazione per il veicolo ciclomotori di marca fox vaga in golf con targa icsi ypsilon novecentottanta sette gettati tipo speciale registrato in portogallo l'infrazione e avvenuta in via enea al numero quarantacinque e consiste in parcheggio in divieto di sosta come previsto dall'articolo cinque con madre del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti otto punti di decurtazione si prega di stampare la presente notifica tramite vuoi fai in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 27/03/2025, alle ore 16:10, è stato emesso un preavviso di violazione per il veicolo ciclomotore di marca Volkswagen Golf, con targa XY987ZT (tipo speciale), registrato in portogallo. L'infrazione è avvenuta in via Etnea, al numero 45, e consiste in parcheggio in divieto di sosta, come previsto dall'articolo 5, comma 3 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 8 punti di decurtazione.  Si prega di stampare la presente notifica tramite wifi, in lingua italiano, stampa anche la comunicazione."
+}

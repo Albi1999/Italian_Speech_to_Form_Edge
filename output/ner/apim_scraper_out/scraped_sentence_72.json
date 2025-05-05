@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il 10 aprile 2025 alle ore 10:09 per un veicolo macchina operatrice di marca Peugeout 208 con targa G4506T, tipo ufficiale, registrato in Svizzera. L'infrazione è avvenuta in viale dei Giardini, numero 8, per parcheggio davanti a passo carabine, violando l'articolo 6, comma 1a(1-12) del codice civile. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti 3 punti di decurtazione. La stampa della notifica è richiesta tramite WiFi in lingua italiana, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "10/04/2025",
+            "ora_violazione": "10:09",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "svizzera",
+                    "targa": "G4506T",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "peggio duecentotto",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data dieci aprile duemilaventicinque alle ore dieci e nove minuti è stato emesso un preavviso di violazione per il veicolo macchina operatrice di marca peggio duecentotto con targa guerre quattrocentocinquanta sei se ti tipo ufficiale registrato in svizzera l'infrazione e avvenuta in viale dei giardini al numero otto è consiste in parcheggio davanti a passo carabine come previsto dall'articolo sei con ma prima uno dodici del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti tre punti di decurtazione si prega di stampare la presente notifica tramite vuoi fai in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 10/04/2025, alle ore 10:09, è stato emesso un preavviso di violazione per il veicolo macchina operatrice di marca Peugeot 208, con targa QR456ST (tipo ufficiale), registrato in svizzera. L'infrazione è avvenuta in viale dei Giardini, al numero 8, e consiste in parcheggio davanti a passo carrabile, come previsto dall'articolo 6, comma 1a(1-12) del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 3 punti di decurtazione.  Si prega di stampare la presente notifica tramite wifi, in lingua italiano, non stampare anche la comunicazione."
+}

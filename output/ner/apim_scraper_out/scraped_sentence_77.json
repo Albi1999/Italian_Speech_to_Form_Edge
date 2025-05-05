@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione per un veicolo Mercedes Classe A con rimorchio, immatricolato in Grecia, targa ICSI Ypsilon 123 ZZA, di tipo copertura. L'infrazione è avvenuta l'11 aprile 2025 alle 00:24 presso Viale dei Giardini, civico 8, violando il codice stradale, articolo 6, comma 4, riguardante il transito in zona accesso vietato. Sono stati decurtati 8 punti e applicata una sanzione accessoria. La stampa deve essere effettuata tramite WiFi in italiano, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "11/04/2025",
+            "ora_violazione": "00:24",
+            "data_verbalizzazione": "11/04/2025",
+            "ora_verbalizzazione": "00:24",
+            "luogo_verbalizzazione": "viale dei giardini, civico 8",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "ICSI Ypsilon 123 ZZA",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "6",
+                    "comma": "4",
+                    "sanzione_accessoria": "con sanzione accessoria"
+                }
+            ],
+            "punti": 8,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "i l'undici aprile duemilaventicinque alle ore mezzanotte e ventiquattro sto mettendo una notifica di infrazione per il veicolo mercedes classe a rimorchio immatricolati in grecia con targa icsi ypsilon centoventitre zza di tipo copertura l'infrazione si e verificata presso viale dei giardini al civico otto violando il codice stradale in particolare l'articolo sei con ma quattro riguardante il transito in zona accesso vietato devo decurtare otto ponti applico una sanzione accessoria in base alle circostanze non sono necessarie ulteriori dettagli sul rimorchio stampa me lo con il vuoi fai in italiano stampa anche la comunicativa",
+    "original_sentence": "Il 11/04/2025, alle ore 00:24, sto emettendo una notifica di infrazione per il veicolo Mercedes Classe A, rimorchio immatricolato in grecia con targa XY123ZA di tipo copertura. L'infrazione si è verificata presso viale dei Giardini, al civico 8, violando il codice stradale, in particolare l'articolo 6, comma 4 riguardante il transito in zona accesso vietato.Devo decurtare 8 punti. Applico una sanzione accessoria in base alle circostanze. Non sono necessari ulteriori dettagli sul rimorchio. Stampamelo con il wifi in italiano, stampa anche la comunicazione."
+}

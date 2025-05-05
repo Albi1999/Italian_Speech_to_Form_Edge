@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo di tipo macchina operatrice con targa di copertura, marca Skoda Fabia, proveniente dalla Germania. L'infrazione è avvenuta il 12 aprile 2025 alle 4:52 in via della Libertà, numero 3, per parcheggio su strisce pedonali. La violazione è in base all'articolo 5, comma 3 del codice penale, con una decurtazione di 2 punti. La stampa richiesta è in lingua italiana, modalità Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "12/04/2025",
+            "ora_violazione": "04:52",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via della Libertà",
+            "Civico_1": "3",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "germania",
+                    "targa": "sette centottantanove ci di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "skoda fabia",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "5",
+                    "comma": "3",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa sette centottantanove ci di di tipo copertura marca skoda fabia proveniente da germania l'infrazione nello specifico parcheggio su strisce pedonali si e verificata in data dodici aprile duemilaventicinque alle ore quattro i cinquantadue in via della libertà al numero tre ci articolo cinque coma tre del codice penale si comunica che dalla violazione conseguirà una decurtazione di due punti si richiede la stampa in lingua italiano modalità blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa AB789CD di tipo copertura, marca Skoda Fabia, proveniente da germania. L'infrazione, nello specifico parcheggio su strisce pedonali, si è verificata in data 12/04/2025 alle ore 04:52 in via della Libertà, al numero 3 (articolo 5, comma 3 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 2 punti. Si richiede la stampa in lingua italiano, modalità bluetooth, non stampare anche la comunicazione. "
+}

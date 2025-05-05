@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione rilevata il 5 aprile 2025 alle ore 9:15. Il veicolo coinvolto è un ciclomotore marca Seat Ibiza, targato 'gia cassette centottantanove', di tipo prova, proveniente dalla Croazia. L'infrazione è avvenuta in via della Repubblica, civico 20, per sosta vietata, violando l'articolo 8 comma 6 del codice civile. L'agente Elena Fontana ha effettuato la contestazione immediata, comportando la perdita di 7 punti. Si richiede la stampa del verbale in italiano tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "05/04/2025",
+            "ora_violazione": "09:15",
+            "data_verbalizzazione": "05/04/2025",
+            "ora_verbalizzazione": "09:15",
+            "luogo_verbalizzazione": "via della repubblica, civico 20",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "20",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "croazia",
+                    "targa": "gia cassette centottantanove",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "seat ibiza",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": "veicolo in sosta"
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "8",
+                    "comma": "6",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo ciclomotori marca seat ibiza targato gia cassette centottantanove di tipo prova proveniente da croazia l'infrazione e stata rilevata il cinque aprile duemilaventicinque alle ore nove quindici il veicolo si trovava in via della repubblica al civico venti in parcheggio individuato di sosta violando l'articolo otto comma sei del codice civile l'agente elena fontana provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di sette punti richiedo la stampa del verbale in italiano tramite blu tutta stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo ciclomotore, marca Seat Ibiza, targato GH789IJ (di tipo prova), proveniente da croazia. L'infrazione è stata rilevata il 05/04/2025 alle ore 09:15. Il veicolo si trovava in via della Repubblica, al civico 20, in parcheggio in divieto di sosta, violando l'articolo 8, comma 6, del codice civile. L'agente Elena Fontana ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 7 punti. Richiedo la stampa del verbale in italiano tramite bluetooth, stampa anche la comunicazione. "
+}

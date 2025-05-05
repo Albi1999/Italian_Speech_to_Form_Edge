@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la generazione di un verbale per un veicolo Mercedes Classe A, immatricolato in Slovenia, con targa speciale SI Y123. L'infrazione è avvenuta il 23 marzo 2025 alle 11:23 in via del Corso, numero 12, per parcheggio in doppia fila. L'articolo violato è il 7 comma 5 del codice civile, con una penalità di 9 punti sulla patente. La stampa del verbale deve avvenire via WiFi, in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "23/03/2025",
+            "ora_violazione": "11:23",
+            "data_verbalizzazione": "23/03/2025",
+            "ora_verbalizzazione": "11:23",
+            "luogo_verbalizzazione": "via del corso, numero 12",
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "SI Y123",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": "veicolo in parcheggio in doppia fila"
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "7",
+                    "comma": "5",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 9,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo mercedes classe a autovettura con targhe si ypsilon centoventitre di tipo speciale immatricolati in slovenia per un'infrazione commessa il ventitré marzo duemilaventicinque alle undici e ventitré l'infrazione avvenuta in via del corso al numero dodici dove il veicolo era in parcheggia in doppia fila l'articolo violato e sette comma cinque del codice civile verranno tolti nove punti dalla patente stampa questo verbale via hawaii fai in italiano non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Mercedes Classe A, autovettura con targa XY123ZA di tipo speciale, immatricolato in slovenia, per un'infrazione commessa il 23/03/2025 alle 11:23. L'infrazione è avvenuta in via del Corso, al numero 12, dove il veicolo era in parcheggio in doppia fila. L'articolo violato è il 7, comma 5 del codice civile. Verranno tolti 9 punti dalla patente. Stampa questo verbale via wifi in italiano, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la notifica di un preavviso per un veicolo tipo macchina agricola con targa di copertura proveniente dall'Italia. L'infrazione è avvenuta il 2 aprile 2025 alle ore 11:22 in Corso Vittorio Emanuele, civico 10, per transito in zona di accesso vietato, violando l'articolo 3, comma 1 del codice penale. Sono previsti 4 punti di decurtazione. La stampa del preavviso è richiesta in italiano via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "02/04/2025",
+            "ora_violazione": "11:22",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "10",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "italia",
+                    "targa": "ypsilon trecentoventi uno",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "3",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo ciampi canto macchina agricola targa è ypsilon trecentoventi uno di tipo copertura proveniente da italia il giorno due aprile duemilaventicinque alle ore undici e ventidue in corso vittorio emanuele al numero civico quindi è stata commessa l'infrazione di transito in zona accesso vietato come previsto dall'articolo tre comma uno del codice penale per questa violazione sono previsti quattro punti di decurtazione chiedo la stampa del preavviso in italiano via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Kia Picanto macchina agricola, targa XY321ZA di tipo copertura, proveniente da italia. Il giorno 02/04/2025, alle ore 11:22, in corso Vittorio Emanuele, al numero civico 15, è stata commessa l'infrazione di transito in zona accesso vietato, come previsto dall'articolo 3, comma 1, del codice penale. Per questa violazione sono previsti 4 punti di decurtazione. Chiedo la stampa del preavviso in italiano via bluetooth, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Volkswagen Golf registrato in Grecia. L'infrazione è avvenuta il 17 aprile 2025 alle 10:09 in via Giuseppe Mazzini, civico 24, per parcheggio davanti a un passo carrabile, violando l'articolo 6, comma 4 del codice civile. La violazione comporta una decurtazione di 7 punti. La stampa dell'avviso è prevista via Bluetooth in italiano, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "17/04/2025",
+            "ora_violazione": "10:09",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via Giuseppe Mazzini",
+            "Civico_1": "24",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "grecia",
+                    "targa": "speciale",
+                    "tipologia_targa": null,
+                    "marca_modello": "volkswagen golf",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "6",
+                    "comma": "4",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo volkswagen golf autovettura tagliato i gia i quattrocentocinquanta sei capelli contea di speciale registrato in grecia piu fatto accaduto il diciassette aprile duemilaventicinque alle dieci e nove il veicolo si trovava in via giuseppe mazzini il civico ventiquattro dove è stato riscontrato parcheggio davanti a passo che arabi in base alla articolo sei come quattro del codice civile questa infrazioni comporta una decurtazione di sette punti genere alla stampa dell'avviso via tutti in italiano stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Volkswagen Golf, autovettura, targato IJ456KL con targa speciale, registrato in grecia, per un fatto accaduto il 17/04/2025 alle 10:09. Il veicolo si trovava in via Giuseppe Mazzini, al civico 24, dove è stato riscontrato parcheggio davanti a passo carrabile, in base all'articolo 6, comma 4, del codice civile. Questa infrazione comporta una decurtazione di 7 punti. Genera la stampa dell'avviso via bluetooth in italiano, stampa anche la comunicazione. "
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il 22 marzo 2025 alle ore 23:07 per un veicolo ciclomotore di marca Idiota Aris con targa JEFF123G registrato in Austria. L'infrazione è avvenuta in Corso Buenos Aires, numero 98, per parcheggio in zona a rimozione, come previsto dall'articolo 158 comma 2 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti sei punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua italiana, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "22/03/2025",
+            "ora_violazione": "23:07",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "98",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "austria",
+                    "targa": "JEFF123G",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "idiota aris",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventidue marzo duemilaventicinque alle ore ventitré sette minuti è stato emesso un preavviso di violazione per il veicolo ciclomotori di marcato idiota aris con targa è jeff centoventitre giacca tipo prova registrato in austria l'infrazione e avvenuta in corso buenos aires al numero novantotto e consiste in parcheggio in zona a rimozione come previsto dall'articolo centocinquantotto comma due del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti sei punti di decurtazione si prega di stampare la presente notifica tramite blood in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 22/03/2025, alle ore 23:07, è stato emesso un preavviso di violazione per il veicolo ciclomotore di marca Toyota Yaris, con targa EF123GH (tipo prova), registrato in austria. L'infrazione è avvenuta in corso Buenos Aires, al numero 98, e consiste in parcheggio in zona rimozione, come previsto dall'articolo 158, comma 2 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 6 punti di decurtazione.  Si prega di stampare la presente notifica tramite bluetooth, in lingua italiano, non stampare anche la comunicazione."
+}

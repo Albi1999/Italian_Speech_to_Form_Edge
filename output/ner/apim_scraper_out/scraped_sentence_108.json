@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un'infrazione stradale commessa il 27 marzo 2025 alle ore 4:49 in via del Corso, civico 12. Il veicolo coinvolto è un'autovettura Opel Corsa con targa di prova proveniente dalla Slovenia. L'infrazione riguarda il parcheggio su strisce pedonali, violando l'articolo 7, comma 15 del codice stradale, con una decurtazione di 10 punti. Si richiede la stampa del preavviso in italiano tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "27/03/2025",
+            "ora_violazione": "04:49",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "E456OP",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "opel corsa",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo hope il corsa autovettura targa e me ne quattrocentocinquanta sei oh piedi tipo prova proveniente da slovenia il giorno ventisette marzo duemilaventicinque alle ore quattro i quarantanove in via del corso al numero civico dodici e stata commessa l'infrazione di parcheggio su strisce pedonali come previsto dall'articolo sette comma quindici del codice stradale per questa violazione sono previsti dieci punti di decurtazione chiedo la stampa del preavviso in italiano via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Opel Corsa autovettura, targa MN456OP di tipo prova, proveniente da slovenia. Il giorno 27/03/2025, alle ore 04:49, in via del Corso, al numero civico 12, è stata commessa l'infrazione di parcheggio su strisce pedonali, come previsto dall'articolo 7, comma 15, del codice stradale. Per questa violazione sono previsti 10 punti di decurtazione. Chiedo la stampa del preavviso in italiano via bluetooth, stampa anche la comunicazione. "
+}

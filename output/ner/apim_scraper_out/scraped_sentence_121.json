@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale. Un motoveicolo con targa di copertura proveniente dalla Svizzera, marca Da Ha Sandy, ha parcheggiato su strisce pedonali. La violazione è avvenuta il 7 aprile 2025 alle 13:33 in via Garibaldi, numero 11. L'infrazione rientra nell'articolo 6, comma 1a(1-12) del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 7 punti. Si richiede la stampa in italiano tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "07/04/2025",
+            "ora_violazione": "13:33",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via garibaldi",
+            "Civico_1": "11",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "svizzera",
+                    "targa": "us i centocinquantaquattro doppia winx",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "da ha sandy",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo motoveicoli targato us i centocinquantaquattro doppia winx di tipo copertura proveniente da svizzera marca da ha sandy ero la violazione ovvero parcheggio su strisce pedonali si e verificata in data sette aprile duemilaventicinque alle ore tredici e trentatré invia garibaldi al numero undici l'infrazione rientra nell'articolo sei comma uno a funo a dodici del codice stradale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori motivo mancata contestazione assenza del trasgressori la sanzione prevede la perdita di sette punti si richiede la stampa in lingua italiano tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo motoveicolo targato UV654WX di tipo copertura proveniente da svizzera, marca Dacia Sandero. La violazione, ovvero parcheggio su strisce pedonali, si è verificata in data 07/04/2025 alle ore 13:33 in via Garibaldi, al numero 11. L'infrazione rientra nell'articolo 6, comma 1a(1-12) del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, motivo mancata contestazione: assenza del trasgressore. La sanzione prevede la perdita di 7 punti. Si richiede la stampa in lingua italiano, tramite bluetooth, stampa anche la comunicazione. "
+}

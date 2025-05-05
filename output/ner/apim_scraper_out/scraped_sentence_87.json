@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo ciclomotore marca Pegeot 208, targato UB123XX, di tipo copertura, proveniente dal Portogallo. L'infrazione è stata rilevata il 5 aprile 2025 alle ore 17:03 in via Venti Settembre, civico 5, davanti a Pasto Carabine, violando l'articolo 7 comma 15 del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore, comportando la perdita di 4 punti. Si richiede la stampa del verbale in italiano tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "05/04/2025",
+            "ora_violazione": "17:03",
+            "data_verbalizzazione": "05/04/2025",
+            "ora_verbalizzazione": "17:03",
+            "luogo_verbalizzazione": "via venti settembre, civico 5",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "5",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "portogallo",
+                    "targa": "UB123XX",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "peggio duecentotto",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo ciclomotori marca peggio duecentotto targato ubi centoventitre doppia ex di tipo copertura proveniente da portogallo l'infrazione e stata rilevata il cinque aprile duemilaventicinque alle ore diciassette tre minuti il veicolo si trovava in via venti settembre al civico cinque in parcheggio davanti a pasto carabine violando l'articolo sette comma quindici del codice civile non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori quindi motivo mancata contestazione assenza del trasgressori la violazione comporta la perdita di quattro punti richiedo la stampa del verbale in italiano tramite blood non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo ciclomotore, marca Peugeot 208, targato UV123WX (di tipo copertura), proveniente da portogallo.  L'infrazione è stata rilevata il 05/04/2025 alle ore 17:03. Il veicolo si trovava in via XX Settembre, al civico 5, in parcheggio davanti a passo carrabile, violando l'articolo 7, comma 15, del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore, quindi motivo mancata contestazione: assenza del trasgressore. La violazione comporta la perdita di 4 punti.  Richiedo la stampa del verbale in italiano tramite bluetooth, non stampare anche la comunicazione."
+}

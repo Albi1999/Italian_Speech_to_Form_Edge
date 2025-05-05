@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a un veicolo autovettura con targa speciale proveniente dall'Italia, marca Idiota Aris. La violazione, parcheggio in divieto di sosta, è avvenuta il 9 aprile 2025 alle 4:21 in via Venti Settembre, numero 5. L'infrazione rientra nell'articolo 7, comma 5 del codice stradale. La contestazione è stata immediata da parte dell'agente Francesco Rizzo e prevede la perdita di un punto. Si richiede la stampa in lingua italiana tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "09/04/2025",
+            "ora_violazione": "04:21",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via venti settembre",
+            "Civico_1": "5",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italia",
+                    "targa": "i xiii ypsilon sei centocinquantaquattro",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "idiota aris",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "7",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo autovettura targato i xiii ypsilon sei centocinquantaquattro di tipo speciale proveniente da italia marcato idiota aris la violazione ovvero parcheggio in divieto di sosta si e verificata in data nove aprile duemilaventicinque alle ore quattro e ventuno in via venti settembre al numero cinque l'infrazione rientra nell'articolo sette coma cinque del codice stradale contestazione immediata da parte della gente francesco rizzo la sanzione prevede la perdita di un punti si richiede la stampa in lingua italiano tramite wifi stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato XY654ZA di tipo speciale proveniente da italia, marca Toyota Yaris. La violazione, ovvero parcheggio in divieto di sosta, si è verificata in data 09/04/2025 alle ore 04:21 in via XX Settembre, al numero 5. L'infrazione rientra nell'articolo 7, comma 5 del codice stradale. Contestazione immediata da parte dell'agente Francesco Rizzo. La sanzione prevede la perdita di 1 punti. Si richiede la stampa in lingua italiano, tramite wifi, stampa anche la comunicazione. "
+}

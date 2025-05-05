@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo registrato in Germania, una macchina agricola con targa ufficiale, per un'infrazione avvenuta il 30 marzo 2025 alle 10:25. Il veicolo era parcheggiato in divieto di sosta in via Roma, civico 77, violando l'articolo 14, comma 1 del codice civile. La violazione comporta la decurtazione di 1 punto. La stampa dell'avviso è richiesta via Bluetooth, in italiano, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "30/03/2025",
+            "ora_violazione": "10:25",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "icsi ypsilon centoventitre zza",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": "veicolo in sosta"
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "14",
+                    "comma": "1",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo un dai venti macchina agricola targato icsi ypsilon centoventitre zza con targa ufficiale registrato in germania per un fatto accaduto il trenta marzo duemilaventicinque alle dieci e venticinque il veicolo si trovava in via roma al civico settantasette dove è stato riscontrato parcheggiato in divieto di sosta in base all'articolo quattordici con ma uno del codice civile questa infrazione comporta una decurtazione di uno punti genera alla stampa dell'avviso via blu tutti in italiano stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Hyundai i20, macchina agricola, targato XY123ZA con targa ufficiale, registrato in germania,  per un fatto accaduto il 30/03/2025 alle 10:25. Il veicolo si trovava in via Roma, al civico 77, dove è stato riscontrato parcheggio in divieto di sosta, in base all'articolo 14, comma 1, del codice civile. Questa infrazione comporta una decurtazione di 1 punti.  Genera la stampa dell'avviso via bluetooth in italiano, stampa anche la comunicazione."
+}

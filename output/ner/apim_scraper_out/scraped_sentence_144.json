@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la notifica di un preavviso per un veicolo Skoda Fabia, macchina operatrice, con targa di tipo copertura proveniente dall'Italia. L'infrazione è avvenuta il 7 aprile 2025 alle 14:17 in via Giardini, numero civico 8. La violazione riguarda il parcheggio in sosta, come previsto dall'articolo 6, comma 1a(1-12) del codice penale, con una decurtazione di 9 punti. La stampa del preavviso è richiesta in italiano via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "07/04/2025",
+            "ora_violazione": "14:17",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via Giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "italia",
+                    "targa": "789",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "skoda fabia",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 9,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo skoda fabia macchina operatrice targa sette centottantanove giacca di tipo copertura proveniente da italia il giorno sette aprile duemilaventicinque alle yuri quattordici e diciassette in le di giardini al numero civic otto e stata commessa l'infrazione di parcheggio indietro di sosta come previsto dall'articolo sei con ma uno a uno ad oggi del codice penale per questa violazioni sono previsti nove i punti di decurtazione chiedo la stampa del preavviso in italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Skoda Fabia macchina operatrice, targa EF789GH di tipo copertura, proveniente da italia. Il giorno 07/04/2025, alle ore 14:17, in viale dei Giardini, al numero civico 8, è stata commessa l'infrazione di parcheggio in divieto di sosta, come previsto dall'articolo 6, comma 1a(1-12), del codice penale. Per questa violazione sono previsti 9 punti di decurtazione. Chiedo la stampa del preavviso in italiano via wifi, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un motoveicolo Audi con targa di tipo prova proveniente dalla Francia. L'infrazione è avvenuta il 21 aprile 2025 alle 18:39 in viale dei Giardini, numero civico non specificato, per parcheggio davanti a passo carabine, violando l'articolo 157 comma 5 del codice civile. La decurtazione prevista è di 9 punti. Non è possibile contestare immediatamente per assenza del trasgressore. La stampa del verbale è richiesta tramite WiFi in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "21/04/2025",
+            "ora_violazione": "18:39",
+            "data_verbalizzazione": "21/04/2025",
+            "ora_verbalizzazione": "18:39",
+            "luogo_verbalizzazione": "viale dei giardini",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": null,
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "francia",
+                    "targa": "guerra quattrocentocinquanta sei",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "audi a tre",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 9,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo motoveicoli di marca audi a tre con targa guerra quattrocentocinquanta sei se ti tipo prova proveniente da francia fatto avvenuto il ventuno aprile duemilaventicinque alle ore diciotto e trentanove posizione viale dei giardini numero civico infrazione parcheggio davanti a passo carabine in violazione dell'articolo centocinquantasette comma cinque del codice civile decurtazione prevista nove punti impossibile contestare immediatamente per assenza del trasgressori motivo assenza del trasgressori stampa necessaria tramite wifi in italiano non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo motoveicolo di marca Audi A3, con targa QR456ST (tipo prova), proveniente da francia. Fatto avvenuto il 21/04/2025 alle ore 18:39. Posizione: viale dei Giardini, numero civico 8. Infrazione: parcheggio davanti a passo carrabile, in violazione dell'articolo 157, comma 5, del codice civile. Decurtazione prevista: 9 punti. Impossibile contestare immediatamente per assenza del trasgressore, motivo: assenza del trasgressore. Stampa necessaria tramite wifi in italiano, non stampare anche la comunicazione. "
+}

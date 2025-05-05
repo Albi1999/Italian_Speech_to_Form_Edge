@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Mercedes Classe A, macchina operatrice, immatricolato in Germania con targa speciale. L'infrazione è avvenuta in via Garibaldi, civico 11, per parcheggio in doppia fila. Si applica l'articolo 157, comma 5 del codice civile, con una decurtazione di 10 punti. Il verbale è stato contestato immediatamente dall'agente Luca Verdi. La stampa deve essere effettuata in italiano tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "",
+            "ora_violazione": "",
+            "data_verbalizzazione": "",
+            "ora_verbalizzazione": "",
+            "luogo_verbalizzazione": "",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "11",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "germania",
+                    "targa": "icsi ypsilon centoventitre sa",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo mercedes classe a macchina operatrice immatricolati in germania con targa icsi ypsilon centoventitre sa di tipo speciale l'infrazione e avvenuta in via garibaldi civico undici parcheggia in doppia fila si applica l'articolo centocinquantasette con ma cinque del codice civile a seguito della violazione verranno decurtati dieci punti il verbale è stato contestato immediatamente dall'agente luca verdi si prega di procedere con la stampa in italiano tramite blu stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Mercedes Classe A, macchina operatrice immatricolato in germania con targa XY123ZA di tipo speciale. L'infrazione è avvenuta in via Garibaldi, civico 11: parcheggio in doppia fila. Si applica l'articolo 157, comma 5 del codice civile. A seguito della violazione verranno decurtati 10 punti.Il verbale è stato contestato immediatamente dall'agente Luca Verdi. Si prega di procedere con la stampa in italiano tramite bluetooth, stampa anche la comunicazione."
+}

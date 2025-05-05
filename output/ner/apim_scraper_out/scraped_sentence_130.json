@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il 19 aprile 2025 alle ore 24:23 per un veicolo macchina agricola Dacia Sandy con targa ufficiale registrata in Belgio. L'infrazione è avvenuta in via Venti Settembre, numero 5, per transito in zona accesso vietato, secondo l'articolo 6, comma 1a(1-12) del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica è inviata al proprietario del veicolo. Sono previsti sei punti di decurtazione. Si richiede la stampa della notifica tramite WiFi in lingua italiana, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "19/04/2025",
+            "ora_violazione": "24:23",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via venti settembre",
+            "Civico_1": "5",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "centoventitre ci",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "dacia sandy ero",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data diciannove aprile duemilaventicinque alle ore ventiquattro i ventitré è stato emesso un preavviso di violazione per il veicolo macchina agricola di marca dacia sandy ero con targa centoventitre ci di tipo ufficiale è registrato in belgio l'infrazione avvenuta in via venti settembre al numero cinque è consiste in transito in zona accesso vietato come previsto dall'articolo sei comma uno a uno a dodici a del codice stradale non essendo stato possibile identificare il conducenti sul posto la notifica viene inviata al proprietario del veicolo sono previsti sei punti di decurtazione si prega di stampare la presenti notifica tramite wifi in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 19/04/2025, alle ore 00:23, è stato emesso un preavviso di violazione per il veicolo macchina agricola di marca Dacia Sandero, con targa AB123CD (tipo ufficiale), registrato in belgio. L'infrazione è avvenuta in via XX Settembre, al numero 5, e consiste in transito in zona accesso vietato, come previsto dall'articolo 6, comma 1a(1-12) del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 6 punti di decurtazione. Si prega di stampare la presente notifica tramite wifi, in lingua italiano, stampa anche la comunicazione. "
+}

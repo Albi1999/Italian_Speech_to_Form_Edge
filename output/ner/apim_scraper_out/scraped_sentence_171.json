@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo rimorchio con targa ICSI Ypsilon SI 154 di tipo prova, proveniente dalla Svizzera. L'infrazione è avvenuta il 1° aprile 2025 alle ore 19:06 in via Roma, civico 77, per parcheggio in divieto di sosta, violando l'articolo 158, comma 2 del codice penale. Sono previsti 4 punti di decurtazione. Si richiede la stampa del preavviso in italiano via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "01/04/2025",
+            "ora_violazione": "19:06",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "ICSI Ypsilon SI 154",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo percorsa rimorchio targa icsi ypsilon si centocinquantaquattro di tipo prova proveniente da svizzera il giorno primo aprile duemilaventicinque alle ore diciannove sei in via roma ha numero civico settantasette e stata commessa l'infrazione di parcheggiato in divieto di sosta come previsto dall'articolo centocinquantotto con ma due del codice penale per questa violazione sono previsti quattro punti di decurtazione chiedo la stampa del preavviso in italiano via blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Opel Corsa rimorchio, targa XY654ZA di tipo prova, proveniente da svizzera. Il giorno 01/04/2025, alle ore 19:06, in via Roma, al numero civico 77, è stata commessa l'infrazione di parcheggio in divieto di sosta, come previsto dall'articolo 158, comma 2, del codice penale. Per questa violazione sono previsti 4 punti di decurtazione. Chiedo la stampa del preavviso in italiano via bluetooth, non stampare anche la comunicazione. "
+}

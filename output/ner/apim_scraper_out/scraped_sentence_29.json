@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da un ciclomotore con targa speciale, immatricolato in Italia. La violazione è avvenuta il 1° aprile 2025 alle ore 07:44 in Piazza Venezia, civico 1, per parcheggio in doppia fila, violando l'articolo 7, comma 5 del codice civile. La sanzione comporta la perdita di 6 punti. La stampa del verbale è richiesta in modalità Bluetooth, in lingua italiana, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "01/04/2025",
+            "ora_violazione": "07:44",
+            "data_verbalizzazione": "01/04/2025",
+            "ora_verbalizzazione": "07:44",
+            "luogo_verbalizzazione": "piazza venezia",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "1",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "italia",
+                    "targa": "ubi vi sei centocinquantaquattro doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "7",
+                    "comma": "5",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per ciclomotori marcare nucleo targa ubi vi sei centocinquantaquattro doppia ex di tipo speciale immatricolati in italia in data primo aprile duemilaventicinque alle ore sette quarantaquattro in piazza venezia al civico uno e stata commessa la seguente violazione parcheggia in doppia fila articolo sette con ma cinque del codice civile dalla violazione con segue la perdita di sei punti stampa in modalità blu tutte in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per ciclomotore, marca Renault Clio, targa UV654WX di tipo speciale, immatricolato in italia. In data 01/04/2025 alle ore 07:44, in piazza Venezia, al civico 1, è stata commessa la seguente violazione: parcheggio in doppia fila (articolo 7, comma 5 del codice civile).Dalla violazione consegue la perdita di 6 punti.Stampa in modalità bluetooth e in lingua italiano, stampa anche la comunicazione."
+}

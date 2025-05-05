@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un'infrazione accertata il 5 aprile 2025 alle 14:38. Il veicolo coinvolto è un motoveicolo con targa ufficiale immatricolato in Francia, targato \"effe centoventitre giacca\". L'infrazione è avvenuta in corso Buenos Aires, civico 98, per parcheggio davanti a passo carabine, violando il codice civile, articolo 9, comma 1. È prevista la decurtazione di un punto. La contestazione immediata è stata effettuata dall'agente Chiara Romano e il verbale è stato redatto sul posto. La stampa avviene tramite Bluetooth in italiano, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "05/04/2025",
+            "ora_violazione": "14:38",
+            "data_verbalizzazione": "05/04/2025",
+            "ora_verbalizzazione": "14:38",
+            "luogo_verbalizzazione": "corso buenos aires",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "98",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "francia",
+                    "targa": "effe centoventitre giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "9",
+                    "comma": "1",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle due e trentotto del cinque aprile duemilaventicinque storie di gendo un verbale per il veicolo motoveicoli targato effe centoventitre giacca con targa ufficiale immatricolati in francia l'infrazione e stata accertata in corso buenos aires al civico novantotto con violazione del codice civile articolo nove coma uno per parcheggio davanti a passo carabine sono previsti un punti da decurtare contestazione immediata effettuata dalla gente chiara romano il verbale è stato redatto sul posto in corso buenos aires non posso applicare alcuna sanzione accessoria stampa tramite blu tutte in italiano stampa anche la comunicazione",
+    "original_sentence": "Alle 02:38 del 05/04/2025, sto redigendo un verbale per il veicolo motoveicolo targato EF123GH con targa ufficiale, immatricolato in franciaL'infrazione è stata accertata in corso Buenos Aires, al civico 98, con violazione del codice civile, articolo 9,comma 1 per parcheggio davanti a passo carrabile Sono previsti 1 punti da decurtare. Contestazione immediata effettuata dall'agente Chiara Romano, il verbale è stato redatto sul posto in corso Buenos Aires. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in italiano, stampa anche la comunicazione. "
+}

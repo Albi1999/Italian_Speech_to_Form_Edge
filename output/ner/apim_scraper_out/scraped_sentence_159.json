@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la notifica di un preavviso per un veicolo Skoda Fabia, autovettura con targa di tipo prova proveniente dalla Francia. L'infrazione è avvenuta il giorno 8 aprile 2025 alle ore 1:45 in via della Libertà, civico 3, per parcheggio in zona a rimozione, come previsto dall'articolo 185 comma 2 del codice civile. Sono previsti punti di decurtazione per questa violazione. La stampa del preavviso è richiesta in italiano via Bluetooth, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "08/04/2025",
+            "ora_violazione": "01:45",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via della libertà",
+            "Civico_1": "3",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "francia",
+                    "targa": "yemen quattrocentocinquanta sei oh piedi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "skoda fabia",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "185",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": null,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo skoda fabia autovettura targa yemen quattrocentocinquanta sei oh piedi tipo prova proveniente da francia il giorno otto aprile duemilaventicinque alle ore una e quarantacinque in via della libertà al numero civico tre e stata commessa l'infrazione di parcheggio in zona a rimozione come previsto dall'articolo centottantacinque coma due del codice civile per questa violazione sono previsti tra i punti di decurtazione chiedo la stampa del preavviso in italiano via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Skoda Fabia autovettura, targa MN456OP di tipo prova, proveniente da francia. Il giorno 08/04/2025, alle ore 01:45, in via della Libertà, al numero civico 3, è stata commessa l'infrazione di parcheggio in zona rimozione, come previsto dall'articolo 185, comma 2, del codice civile. Per questa violazione sono previsti 3 punti di decurtazione. Chiedo la stampa del preavviso in italiano via bluetooth, stampa anche la comunicazione. "
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo Fiat Panda, registrato in Svizzera con targa speciale, per un'infrazione avvenuta il 18 aprile 2025 alle 16:35. Il veicolo era parcheggiato su strisce pedonali in via Roma, civico 77, violando l'articolo 185, comma 2 del codice civile. La violazione comporta una decurtazione di 3 punti. La stampa dell'avviso è richiesta via Bluetooth o WiFi, in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "18/04/2025",
+            "ora_violazione": "16:35",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "svizzera",
+                    "targa": "w trecentoventi uno doppio wings",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "fiat panda",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "185",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": null,
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo fiat panda motoveicoli targato w trecentoventi uno doppio wings con targa speciali registrato in svizzera per un fatto accaduto il diciotto aprile duemilaventicinque alle sedici e trentacinque il veicolo si trovava in via roma al civico settantasette dove è stato riscontrato parcheggio su strisce pedonali in base a l'articolo centottantacinque comma due del codice civile questa infrazione comporta una decurtazioni di tre punti genere alla stampa dell'avviso via o aifa in italiano non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Fiat Panda, motoveicolo, targato UV321WX con targa speciale, registrato in svizzera, per un fatto accaduto il 18/04/2025 alle 16:35. Il veicolo si trovava in via Roma, al civico 77, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 185, comma 2, del codice civile. Questa infrazione comporta una decurtazione di 3 punti. Genera la stampa dell'avviso via wifi in italiano, non stampare anche la comunicazione. "
+}

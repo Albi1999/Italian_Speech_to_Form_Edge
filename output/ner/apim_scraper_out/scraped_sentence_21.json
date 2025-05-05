@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo con targa ufficiale proveniente dalla Slovenia. L'infrazione è avvenuta il 17 aprile 2025 alle 3:59 in via della Libertà, numero 3, per parcheggio su strisce pedonali. La violazione comporta la decurtazione di 2 punti. Si richiede la stampa in italiano, modalità Bluetooth, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "17/04/2025",
+            "ora_violazione": "03:59",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via della Libertà",
+            "Civico_1": "3",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "Slovenia",
+                    "targa": "jeff234",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "nucleo",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo molto veicolo con targa jeff duecentotrentaquattro di tipo ufficiale marcare nucleo proveniente da slovenia l'infrazione nello specifico parcheggio su strisce pedonali sia e verificata in data diciassette aprile duemilaventicinque alle ore tre cinquantanove in via della libertà al numero tre articolo sei con ma prima uno dodici del codice stradale si comunica che dalla violazione conseguirà una decurtazione di due punti si richiede la stampa in lingua italiano modalità blu stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo motoveicolo con targa FG234LM di tipo ufficiale, marca Renault Clio, proveniente da slovenia. L'infrazione, nello specifico parcheggio su strisce pedonali, si è verificata in data 17/04/2025 alle ore 03:59 in via della Libertà, al numero 3 (articolo 6, comma 1a(1-12) del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 2 punti.Si richiede la stampa in lingua italiano, modalità bluetooth, stampa anche la comunicazione."
+}

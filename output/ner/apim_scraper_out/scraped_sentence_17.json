@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo macchina agricola, marca Un Dai Venti, targa HO VI 123 XX, immatricolato in Olanda. La violazione è avvenuta il 29 marzo 2025 alle 12:44 in via del Corso, civico 12, per parcheggio in doppia fila, secondo l'articolo 8, comma 6 del codice penale. Sono previsti 5 punti di decurtazione. Si richiede la stampa del preavviso in lingua italiana tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "29/03/2025",
+            "ora_violazione": "12:44",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "olanda",
+                    "targa": "HO VI 123 XX",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "Un Dai Venti",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "8",
+                    "comma": "6",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 5,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo macchina agricola marca un dai venti targa ho vi centoventitre doppia ex di tipo copertura immatricolati in olanda la violazione è avvenuta il ventinove marzo duemilaventicinque alle ore mezzogiorno e quarantaquattro in via del corso al numero civico dodici ed è relativa a parcheggia in doppia fila in base all'articolo otto con ma sei del codice penale per tale violazione sono previsti cinque punti di decurtazione si richiede la stampa di tale preavviso in lingua italiano tramite blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo macchina agricola, marca Hyundai i20, targa UV123WX di tipo copertura, immatricolato in olanda. La violazione è avvenuta il 29/03/2025 alle ore 12:44 in via del Corso, al numero civico 12, ed è relativa a parcheggio in doppia fila, in base all'articolo 8, comma 6 del codice penale.Per tale violazione sono previsti 5 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua italiano tramite bluetooth, non stampare anche la comunicazione."
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo tipo macchina agricola, marca Dacia Sandy, targato ufficiale proveniente dalla Svizzera. L'infrazione è stata rilevata il 4 aprile 2025 alle ore 17:16 in via della Libertà, civico 3, per parcheggio su strisce pedonali, violando l'articolo 8 comma 6 del codice penale. Non è stata possibile la contestazione immediata per assenza del trasgressore, comportando la perdita di 3 punti. Si richiede la stampa del verbale in italiano tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "04/04/2025",
+            "ora_violazione": "17:16",
+            "data_verbalizzazione": "04/04/2025",
+            "ora_verbalizzazione": "17:16",
+            "luogo_verbalizzazione": "via della libertà, civico 3",
+            "Strada_1": "via della libertà",
+            "Civico_1": "3",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "gia sette centottantanove",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "dacia sandy",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "8",
+                    "comma": "6",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina agricola marca dacia sandy ero targato gia sette centottantanove di tipo ufficiale proveniente da svizzera l'infrazione stata rilevata il quattro aprile duemilaventicinque alle ore diciassette sedici il veicolo si trovava in via della libertà al civico tre in parcheggio su strisce pedonali violando l'articolo otto comma sei del codice penale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori quindi motivo mancata contestazione assenza del trasgressori la violazione comporta la perdita di tre punti richiedo la stampa del verbale in italiano tramite blood non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina agricola, marca Dacia Sandero, targato GH789IJ (di tipo ufficiale), proveniente da svizzera.  L'infrazione è stata rilevata il 04/04/2025 alle ore 17:16. Il veicolo si trovava in via della Libertà, al civico 3, in parcheggio su strisce pedonali, violando l'articolo 8, comma 6, del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore, quindi motivo mancata contestazione: assenza del trasgressore. La violazione comporta la perdita di 3 punti.  Richiedo la stampa del verbale in italiano tramite bluetooth, non stampare anche la comunicazione."
+}

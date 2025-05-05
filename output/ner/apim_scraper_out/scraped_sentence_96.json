@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo macchina agricola marca Ford Fiesta, targa ufficiale immatricolata in Slovenia. La violazione è avvenuta il 29 marzo 2025 alle ore 22:23 in via Giuseppe Mazzini, civico 24, per parcheggio su strisce pedonali, in base all'articolo 157, comma 5 del codice stradale. Sono previsti sei punti di decurtazione. Si richiede la stampa del preavviso in lingua italiana tramite Wi-Fi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "29/03/2025",
+            "ora_violazione": "22:23",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via Giuseppe Mazzini",
+            "Civico_1": "24",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "slovenia",
+                    "targa": "i centoventitre chi lo litri",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "ford fiesta",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo macchina agricola marca ford fiesta targa i centoventitre chi lo litri di tipo ufficiale immatricolati slovenia la violazione è avvenuta il ventinove marzo duemilaventicinque alle ore ventidue ventitré invia giuseppe mazzini al numero civico ventiquattro ed è relativa a parcheggio su strisce pedonali in base all'articolo centocinquantasette con ma cinque del codice stradale per tale violazione sono previsti sei punti di decurtazione si richiede la stampa di tale preavviso in lingua italiano tramite guai fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo macchina agricola, marca Ford Fiesta, targa IJ123KL di tipo ufficiale, immatricolato in slovenia. La violazione è avvenuta il 29/03/2025 alle ore 22:23 in via Giuseppe Mazzini, al numero civico 24, ed è relativa a parcheggio su strisce pedonali, in base all'articolo 157, comma 5 del codice stradale.Per tale violazione sono previsti 6 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua italiano tramite wifi, non stampare anche la comunicazione."
+}

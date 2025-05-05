@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale elevato il 20 aprile 2025 alle ore 14:41 per una violazione del codice penale, articolo 4 comma 2, riguardante il parcheggio in zona a rimozione. La violazione è stata rilevata in via Giuseppe Mazzini, civico 24. Il veicolo coinvolto è una Mercedes Classe A, autovettura con targa di tipo prova immatricolata in Croazia. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta una decurtazione di 4 punti. La stampa del verbale è richiesta in lingua italiana via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "20/04/2025",
+            "ora_violazione": "14:41",
+            "data_verbalizzazione": "20/04/2025",
+            "ora_verbalizzazione": "14:41",
+            "luogo_verbalizzazione": "via Giuseppe Mazzini, civico 24",
+            "Strada_1": "via Giuseppe Mazzini",
+            "Civico_1": "24",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "Croazia",
+                    "targa": "centoventitre giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "Mercedes Classe A",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "4",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data venti aprile duemilaventicinque alle ore quattordici quarantuno si eleva verbale al veicolo mercedes classe a autovettura con targa centoventitre giacca di tipo prova immatricolati in croazia per violazione dell'articolo quattro coma due del codice penale ovvero parcheggio in zona a rimozione rilevata in via giuseppe mazzini al civico ventiquattro non è stato possibile effettuare la contestazione immediata motivo assenza del trasgressori dalla violazione derivano quattro punti di decurtazione stampa necessaria in lingua italiano via wifi non stampare anche la comunicazione",
+    "original_sentence": "In data 20/04/2025, alle ore 14:41, si eleva verbale al veicolo Mercedes Classe A, autovettura con targa EF123GH di tipo prova, immatricolato in croazia, per violazione dell'articolo 4, comma 2 del codice penale, ovvero parcheggio in zona rimozione, rilevata in via Giuseppe Mazzini, al civico 24. Non è stato possibile effettuare la contestazione immediata, motivo: assenza del trasgressore. Dalla violazione derivano 4 punti di decurtazione. Stampa necessaria in lingua italiano via wifi, non stampare anche la comunicazione. "
+}

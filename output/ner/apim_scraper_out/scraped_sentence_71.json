@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il 22 marzo 2025 alle ore 23:38 per un veicolo autovettura di marca Idiota Aris con targa CI123 tipo prova, registrato in Austria. L'infrazione è avvenuta in Corso Vittorio Emanuele, numero 15, per parcheggio su strisce pedonali, violando l'articolo 6, comma 4 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica è inviata al proprietario del veicolo. Sono previsti sei punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua italiana, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "22/03/2025",
+            "ora_violazione": "23:38",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "15",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "CI123",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "idiota aris",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "6",
+                    "comma": "4",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventidue marzo duemilaventicinque alle ore ventitré trentotto è stato emesso un preavviso di violazione per il veicolo autovettura di marcato idiota aris con targa ci di centoventitre tipo prova registrato in austria l'infrazione e avvenuta in corso vittorio emanuele al numero quindici e consiste in parcheggio su strisce pedonali come previsto dall'articolo sei con ma quattro del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti sei punti di decurtazione si prega di stampare la presente notifica tramite blu in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 22/03/2025, alle ore 23:38, è stato emesso un preavviso di violazione per il veicolo autovettura di marca Toyota Yaris, con targa CD123AB (tipo prova), registrato in austria. L'infrazione è avvenuta in corso Vittorio Emanuele, al numero 15, e consiste in parcheggio su strisce pedonali, come previsto dall'articolo 6, comma 4 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 6 punti di decurtazione.  Si prega di stampare la presente notifica tramite bluetooth, in lingua italiano, non stampare anche la comunicazione."
+}

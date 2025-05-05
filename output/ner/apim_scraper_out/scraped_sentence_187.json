@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un motoveicolo con targa ufficiale registrato in Svizzera. L'infrazione è avvenuta il 1° aprile 2025 alle 10:43 in via Roma, civico 77, per parcheggio su strisce pedonali. La violazione riguarda l'articolo 4, comma 2 del codice stradale e comporta la decurtazione di un punto. La stampa dell'avviso è prevista via WiFi in italiano, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "01/04/2025",
+            "ora_violazione": "10:43",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "svizzera",
+                    "targa": "tu sei centocinquantaquattro doppia wings",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "4",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emette un avviso di violazione quindi si tratta di un preavviso per il veicolo d'accesso and ero motoveicoli targa tu sei centocinquantaquattro doppia wings con targa ufficiali registrato in svizzera per un fatto accaduto il primo aprile duemilaventicinque alle dieci e quarantatré il veicolo si trovava in via roma al civico settantasette dove è stato riscontrato parcheggio su strisce pedonali in base alle articolo quattro comma due del codice stradale questa infrazione comporta una decurtazione di un punti genere alla stampa dell'avviso via vai fa in italiano stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Dacia Sandero, motoveicolo, targato UV654WX con targa ufficiale, registrato in svizzera, per un fatto accaduto il 01/04/2025 alle 10:43. Il veicolo si trovava in via Roma, al civico 77, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 4, comma 2, del codice stradale. Questa infrazione comporta una decurtazione di 1 punti. Genera la stampa dell'avviso via wifi in italiano, stampa anche la comunicazione. "
+}

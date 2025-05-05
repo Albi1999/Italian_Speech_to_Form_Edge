@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da una macchina agricola. La violazione è avvenuta il 16 aprile 2025 alle ore 10:16 in via Etna, civico 45. La macchina agricola, di marca Chi ha Piccante, con targa August I 154 doppia Wings di tipo prova, è immatricolata in Svizzera. La violazione riguarda il parcheggio in doppia fila, violando l'articolo 14, comma 1 del codice civile. La violazione comporta la perdita di 10 punti. La stampa del verbale è richiesta in lingua italiana e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "16/04/2025",
+            "ora_violazione": "10:16",
+            "data_verbalizzazione": "16/04/2025",
+            "ora_verbalizzazione": "10:16",
+            "luogo_verbalizzazione": "via etna, 45",
+            "Strada_1": "via etna",
+            "Civico_1": "45",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "august i 154 doppia wings",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "chi ha piccante",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "14",
+                    "comma": "1",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": null,
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina agricola marca chi ha piccante targa august i centocinquantaquattro doppia wings di tipo prova immatricolati in svizzera in data sedici aprile duemilaventicinque alle ore dieci sedici invia etna al civico quarantacinque e stata commessa la seguente violazione parcheggia in doppia fila e articolo quattordici con ma uno del codice civile dalla violazione con segue la perdita di dieci punti stampa in modalità tutte in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina agricola, marca Kia Picanto, targa UV654WX di tipo prova, immatricolato in svizzera. In data 16/04/2025 alle ore 10:16, in via Etnea, al civico 45, è stata commessa la seguente violazione: parcheggio in doppia fila (articolo 14, comma 1 del codice civile). Dalla violazione consegue la perdita di 10 punti. Stampa in modalità bluetooth e in lingua italiano, stampa anche la comunicazione. "
+}

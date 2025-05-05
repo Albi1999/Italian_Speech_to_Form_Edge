@@ -36,22 +36,35 @@ class SyntheticDatasetGenerator:
 
         # Static data for generating sentences
         self.cars = ["Fiat Panda", "Volkswagen Golf", "Renault Clio", "BMW Serie 1", "Opel Corsa", "Toyota Yaris", "Audi A3", "Mercedes Classe A",
-                     "Ford Fiesta", "Peugeot 208", "Nissan Micra", "Kia Picanto", "Hyundai i20", "Seat Ibiza", "Skoda Fabia", "Dacia Sandero"]
+                     "Ford Fiesta", "Peugeot 208", "Nissan Micra", "Kia Picanto", "Hyundai i20", "Seat Ibiza", "Skoda Fabia", "Dacia Sandero",
+                     "Citroen C3", "Mazda 2", "Honda Jazz", "Subaru Impreza", "Mitsubishi Colt", "Suzuki Swift", "Chevrolet Spark",
+                     "Lancia Ypsilon", "Alfa Romeo Giulietta", "Fiat 500", "Volkswagen Polo", "Renault Captur", "Peugeot 2008", "Nissan Juke",
+                     "Kia Stonic", "Hyundai Kona", "Seat Arona", "Skoda Kamiq", "Dacia Duster", "Citroen C4 Cactus", "Mazda CX-3", "Honda HR-V",
+                     "Subaru XV", "Mitsubishi ASX", "Suzuki Vitara", "Chevrolet Trax", "Lancia Delta", "Alfa Romeo Stelvio", "Fiat Tipo"]
         self.plates = ["AB123CD", "CD456EF", "GH789IJ", "KL321MN", "XY987ZT", "ZA456QP", "FG234LM", "TR098YU", "JK567OP", "UV123WX", "QR456ST", "EP789GH", 
                        "CD123AB", "EF456GH", "IJ789KL", "MN321OP", "QR987ST", "UV654WX", "XY321ZA", "AB456CD", "EF789GH", "IJ123KL", "MN456OP",
-                       "QR789ST", "UV321WX", "XY654ZA", "AB789CD", "EF123GH", "IJ456KL", "MN789OP", "QR321ST", "UV987WX", "XY123ZA"]
+                       "QR789ST", "UV321WX", "XY654ZA", "AB789CD", "EF123GH", "IJ456KL", "MN789OP", "QR321ST", "UV987WX", "XY123ZA", "AB654CD",
+                       "EF321GH", "IJ654KL", "MN123OP", "QR456ST", "UV789WX", "XY987ZA", "AB321CD", "EF654GH", "IJ789KL", "MN456OP", "QR123ST",
+                       "UV456WX", "XY321ZA", "AB987CD", "EF123GH", "IJ456KL", "MN789OP", "QR654ST", "UV321WX", "XY987ZA", "AB123CD", "EF456GH",
+                       "IJ789KL", "MN321OP", "QR987ST", "UV654WX", "XY321ZA", "AB456CD", "EF789GH", "IJ123KL", "MN456OP", "QR789ST", "UV321WX"]
         self.agents = ["Mario Rossi", "Anna Bianchi", "Carlo Bruni", "Silvia Neri", "Luca Verdi", "Giulia Costa", "Marco Gentili", "Sara Bellini", 
                        "Francesco Rizzo", "Elena Fontana", "Alessandro Moretti", "Chiara Romano", "Matteo Gallo"]
         self.streets = ["via del Corso, 12", "via Giuseppe Mazzini, 24", "via XX Settembre, 5",
                         "piazza Venezia, 1", "via Garibaldi, 11", "corso Buenos Aires, 98", "via Etnea, 45", "via Roma, 77",
-                        "corso Vittorio Emanuele, 15", "via della Libertà, 3", "viale dei Giardini, 8", "via della Repubblica, 20"]
+                        "corso Vittorio Emanuele, 15", "via della Libertà, 3", "viale dei Giardini, 8", "via della Repubblica, 20"
+                        "via dei Fori Imperiali, 10", "viale della Stazione, 4", "via della Storia, 6", "corso Italia, 30",
+                        "via della Pace, 2", "viale della Vittoria, 9", "via della Concordia, 14", "corso della Libertà, 7",
+                        "via della Speranza, 18", "viale della Libertà, 22", "via della Giustizia, 16", "corso della Repubblica, 19",
+                        "via della Libertà, 21", "viale della Concordia, 13", "via della Speranza, 17", "corso della Giustizia, 23"]
         self.violations = ["parcheggio in divieto di sosta", "parcheggio in doppia fila", "parcheggio su strisce pedonali",
                            "transito in zona accesso vietato", "parcheggio in zona rimozione", "parcheggio davanti a passo carrabile"]
-        self.articles = ["158, 2", "7, 15", "157, 5", "6, 1a(1-12)", "9, 1", "14, 1", "185, 2", "3, 1", "4, 2", "5, 3", "6, 4", "7, 5", "8, 6"]
+        self.articles = ["158, 2", "7, 15", "157, 5", "6, 1a(1-12)", "9, 1", "14, 1", "185, 2", "3, 1", "4, 2", "5, 3", "6, 4", "7, 5", "8, 6",
+                         "9, 7", "10, 8", "121, 9", "12, 10", "13, 11", "14, 12", "3415, 13", "16, 14", "17, 15", "1228, 16", "19, 17", "20, 18",
+                         "21, 19", "22, 20", "23, 21", "24, 22", "2235, 23", "26, 24", "27, 25", "28, 26", "29, 27", "30, 28", "31, 29"]
         self.vehicle_types = ["ciclomotore", "motoveicolo", "autovettura", "rimorchio", "macchina agricola", "macchina operatrice"]
         self.violation_types = ["civile", "penale", "stradale"]
         self.print_methods = ["bluetooth", "wifi"]
-        self.print_languages = ["italiano"]
+        self.print_languages = ["italiano", "inglese", "francese", "spagnolo", "tedesco"]
         self.print_options = ["stampa anche la comunicazione", "non stampare anche la comunicazione"]
 
     def generate_all(self):
@@ -213,7 +226,7 @@ class SyntheticDatasetGenerator:
 
             f"In data {date_violation}, alle ore {time_violation}, è stato notificato un preavviso per un {vehicle_type} targato {plate} con targa {kind_plate}, immatricolato in {nationality}. " +
             f"L'infrazione è stata rilevata in {street}, al civico {civico}, con violazione del codice {violation_type}, articolo {article}, comma {comma}, in particolare si è riscontrato un {violation} " +
-            "Non è stato possibile contestare per l'assenza del trasgressore, e per questo è indicato il motivo di mancata contestazione. " +
+            "Non è stato possibile contestare per l'assenza del trasgressore. " +
             f"Da decurtare ci sono {random.randint(1, 10)} punti. " +
             (f"Il veicolo è un {cars} di colore {color}, con numero di telaio {chassis} e massa {mass}." if random.choice([True, False]) else "Ulteriori dettagli sul veicolo non sono necessari. ") +
             f"Necessito la stampa del preavviso tramite {print_method}, in {print_language}, {print_option}.",
@@ -249,7 +262,7 @@ class SyntheticDatasetGenerator:
 
             f"Procedo con la stesura di un verbale per il veicolo {vehicle_type}, marca {cars}, targato {plate} (di tipo {kind_plate}), proveniente da {nationality}.  L'infrazione è stata rilevata il {date_violation} alle ore {time_violation}. " +
             f"Il veicolo si trovava in {street}, al civico {civico}, in {violation}, violando l'articolo {article}, comma {comma}, del codice {violation_type}. " +
-            (f"L'agente {agent} ha provveduto alla contestazione immediata dell'infrazione. " if immediate_contestation else "Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore, quindi motivo mancata contestazione: assenza del trasgressore. ") +
+            (f"L'agente {agent} ha provveduto alla contestazione immediata dell'infrazione. " if immediate_contestation else "Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. ") +
             f"La violazione comporta la perdita di {random.randint(1, 10)} punti.  Richiedo la stampa del verbale in {print_language} tramite {print_method}, {print_option}.",
 
             f"Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo {cars}, {vehicle_type}, targato {plate} con targa {kind_plate}, registrato in {nationality},  per un fatto accaduto il {date_violation} alle {time_violation}. " +
@@ -260,7 +273,7 @@ class SyntheticDatasetGenerator:
             f"Redazione verbale in corso per il veicolo {vehicle_type} di marca {cars}, con targa {plate} (tipo {kind_plate}), proveniente da {nationality}.  Fatto avvenuto il {date_violation} alle ore {time_violation}. " +
             f"Posizione: {street}, numero civico {civico}. Infrazione: {violation}, in violazione dell'articolo {article}, comma {comma}, del codice {violation_type}. " +
             f"Decurtazione prevista: {random.randint(1, 10)} punti. " +
-            (f"Si applica contestazione immediata da parte dell'agente {agent}. " if immediate_contestation else "Impossibile contestare immediatamente per assenza del trasgressore, motivo: assenza del trasgressore. ") +
+            (f"Si applica contestazione immediata da parte dell'agente {agent}. " if immediate_contestation else "Impossibile contestare immediatamente per assenza del trasgressore. ") +
             f"Stampa necessaria tramite {print_method} in {print_language}, {print_option}.",
 
             f"Sto emettendo un verbale per il veicolo {cars}, {vehicle_type} immatricolato in {nationality} con targa {plate} di tipo {kind_plate}. " +
@@ -272,7 +285,7 @@ class SyntheticDatasetGenerator:
             f"Si notifica un preavviso relativo al veicolo {vehicle_type} targato {plate} di tipo {kind_plate} proveniente da {nationality}, marca {cars}. " +
             f"La violazione, ovvero {violation}, si è verificata in data {date_violation} alle ore {time_violation} in {street}, al numero {civico}. " +
             f"L'infrazione rientra nell'articolo {article}, comma {comma} del codice {violation_type}. " +
-            (f"Contestazione immediata da parte dell'agente {agent}. " if immediate_contestation else "Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, motivo mancata contestazione: assenza del trasgressore. ") +
+            (f"Contestazione immediata da parte dell'agente {agent}. " if immediate_contestation else "Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. ") +
             f"La sanzione prevede la perdita di {random.randint(1, 10)} punti. Si richiede la stampa in lingua {print_language}, tramite {print_method}, {print_option}.",
 
             f"Sto procedendo con la redazione di un verbale per {vehicle_type}, marca {cars}, targa {plate} di tipo {kind_plate}, immatricolato in {nationality}. " +
@@ -286,21 +299,21 @@ class SyntheticDatasetGenerator:
             f"Si richiede la stampa in lingua {print_language}, modalità {print_method}, {print_option}.",
 
             f"In data {date_violation}, alle ore {time_violation}, si eleva verbale al veicolo {cars}, {vehicle_type} con targa {plate} di tipo {kind_plate}, immatricolato in {nationality}, per violazione dell'articolo {article}, comma {comma} del codice {violation_type}, ovvero {violation}, rilevata in {street}, al civico {civico}." +
-            (f"La contestazione è stata immediata, effettuata dall'agente {agent}. " if immediate_contestation else f"Non è stato possibile effettuare la contestazione immediata, motivo: assenza del trasgressore. ") +
+            (f"La contestazione è stata immediata, effettuata dall'agente {agent}. " if immediate_contestation else f"Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. ") +
             f"Dalla violazione derivano {random.randint(1, 10)} punti di decurtazione. Stampa necessaria in lingua {print_language} via {print_method}, {print_option}.",
 
             f"Emissione di preavviso per il veicolo {vehicle_type}, marca {cars}, targato {plate} di tipo {kind_plate}, proveniente da {nationality}. In data {date_violation} alle ore {time_violation}, è stata rilevata la violazione di {violation} in {street}, al numero {civico}, in base all'articolo {article}, comma {comma} del codice {violation_type}." +
             f"Per tale infrazione sono previsti {random.randint(1, 10)} punti di decurtazione. Si richiede la stampa del preavviso tramite {print_method} in lingua {print_language}, {print_option}.",
 
             f"Si sta redigendo verbale per violazione accertata il {date_violation} alle ore {time_violation} in {street}, al civico {civico}, a carico del veicolo {cars}, {vehicle_type} con targa {plate} di tipo {kind_plate}, immatricolato in {nationality}. La violazione contestata è {violation}, in base all'articolo {article}, comma {comma} del codice {violation_type}." +
-            (f"La contestazione è avvenuta immediatamente da parte dell'agente {agent}. " if immediate_contestation else f"Non è stato possibile contestare immediatamente, motivo: assenza del trasgressore. ") +
+            (f"La contestazione è avvenuta immediatamente da parte dell'agente {agent}. " if immediate_contestation else f"Non è stato possibile contestare immediatamente per assenza del trasgressore. ") +
             f"Sono previsti {random.randint(1, 10)} punti di decurtazione. Si richiede la stampa in lingua {print_language} via {print_method}, {print_option}.",
 
             f"Si notifica la presenza di un preavviso di violazione per il veicolo {vehicle_type}, marca {cars}, targa {plate} di tipo {kind_plate}, immatricolato in {nationality}. La violazione è avvenuta il {date_violation} alle ore {time_violation} in {street}, al numero civico {civico}, ed è relativa a {violation}, in base all'articolo {article}, comma {comma} del codice {violation_type}." +
             f"Per tale violazione sono previsti {random.randint(1, 10)} punti di decurtazione. Si richiede la stampa di tale preavviso in lingua {print_language} tramite {print_method}, {print_option}.",
 
             f"Sto emettendo un verbale per il veicolo {cars} {vehicle_type}, targa {plate} di tipo {kind_plate}, immatricolato in {nationality}, per infrazione commessa in data {date_violation}, ore {time_violation}. In {street}, civico {civico}, è stato rilevato {violation}, ai sensi dell'articolo {article}, comma {comma}, del codice {violation_type}." +
-            (f"Contestazione immediata eseguita dall'agente {agent}. " if immediate_contestation else f"Impossibile effettuare la contestazione immediata, motivo: assenza del trasgressore. ") +
+            (f"Contestazione immediata eseguita dall'agente {agent}. " if immediate_contestation else f"Impossibile effettuare la contestazione immediata vista l'assenza del trasgressore. ") +
             f"La violazione comporta la decurtazione di {random.randint(1, 10)} punti. Richiesta stampa in {print_language} via {print_method}, {print_option}.",
 
             f"Si notifica un preavviso per il veicolo {cars} {vehicle_type}, targa {plate} di tipo {kind_plate}, proveniente da {nationality}. Il giorno {date_violation}, alle ore {time_violation}, in {street}, al numero civico {civico}, è stata commessa l'infrazione di {violation}, come previsto dall'articolo {article}, comma {comma}, del codice {violation_type}." +

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il primo aprile 2025 alle ore 13:35 per una violazione riscontrata su un veicolo tipo macchina agricola, targato I4506, proveniente dall'Italia. La violazione è avvenuta in via Giuseppe Mazzini, civico 24, per parcheggio davanti a passo carabine, in violazione dell'articolo 7, comma 15 del codice stradale. L'agente Matteo Gallo ha proceduto con contestazione immediata e si prevede la decurtazione di un punto dalla patente. La stampa è richiesta in italiano via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "01/04/2025",
+            "ora_violazione": "13:35",
+            "data_verbalizzazione": "01/04/2025",
+            "ora_verbalizzazione": "13:35",
+            "luogo_verbalizzazione": "via Giuseppe Mazzini, civico 24",
+            "Strada_1": "via Giuseppe Mazzini",
+            "Civico_1": "24",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "italia",
+                    "targa": "I4506",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "io tariq",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data primo aprile duemilaventicinque alle ore tredici e trentacinque per la violazione riscontrata al veicolo macchina agricola marcato io tariq targato i quattrocentocinquanta sei capelli tipo prova proveniente da italia in particolare invia giuseppe mazzini civico ventiquattro è stato accertato parcheggio davanti a passo carabine in violazione dell'articolo sette coma quindici del codice stradale l'agente matteo gallo a proceduto con contestazione immediata si prevede la decurtazione di un punti dalla patente richiedo la stampa in italiano via blu tute non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 01/04/2025 alle ore 13:35 per la violazione riscontrata al veicolo macchina agricola, marca Toyota Yaris, targato IJ456KL (tipo prova) proveniente da italia. In particolare, in via Giuseppe Mazzini, civico 24, è stato accertato parcheggio davanti a passo carrabile, in violazione dell'articolo 7, comma 15 del codice stradale. L'agente Matteo Gallo ha proceduto con contestazione immediata. Si prevede la decurtazione di 1 punti dalla patente. Richiedo la stampa in italiano via bluetooth, non stampare anche la comunicazione. "
+}

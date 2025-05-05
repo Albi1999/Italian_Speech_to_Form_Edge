@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale emesso il 4 aprile 2025 alle 5:38 per un veicolo rimorchio con targa copertura immatricolato in Francia. L'infrazione è stata accertata in via Garibaldi per violazione del codice penale, articolo 6, comma 1a(1-12), per parcheggio davanti a passo carrabile. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Sono previsti 1 punto da decurtare e non si applica alcuna sanzione accessoria. La stampa del verbale avviene tramite WiFi in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "04/04/2025",
+            "ora_violazione": "05:38",
+            "data_verbalizzazione": "04/04/2025",
+            "ora_verbalizzazione": "05:38",
+            "luogo_verbalizzazione": "via garibaldi",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "conti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "E789G",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle cinque e trentotto del quattro aprile duemilaventicinque storie di dicendo un verbale per il veicolo rimorchio targato e settecento ottantanove giacca con targa copertura immatricolati in francia l'infrazione e stata accertata india garibaldi al ci di conti con violazione del codice penale articolo sei coma uno a uno a dodici per parcheggio davanti a passo carabine sono previsti un punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non passo applicare alcuna sanzioni accessoria stampa tramite wifi in italiano non stampare anche la comunicazione",
+    "original_sentence": "Alle 05:38 del 04/04/2025, sto redigendo un verbale per il veicolo rimorchio targato EF789GH con targa copertura, immatricolato in franciaL'infrazione è stata accertata in via Garibaldi, al civico 11, con violazione del codice penale, articolo 6,comma 1a(1-12) per parcheggio davanti a passo carrabile Sono previsti 1 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in italiano, non stampare anche la comunicazione. "
+}

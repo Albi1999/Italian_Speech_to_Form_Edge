@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Mercedes Classe A, registrato in Francia, con targa ufficiale. L'infrazione è avvenuta il 8 aprile 2025 alle 22:28 in via della Libertà, civico 3, per parcheggio in divieto di sosta secondo l'articolo 157, comma 5 del codice penale. La violazione comporta una decurtazione di 7 punti. La stampa dell'avviso è richiesta via WiFi, in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "08/04/2025",
+            "ora_violazione": "22:28",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via della Libertà",
+            "Civico_1": "3",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "CI123",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo mercedes classe a macchina agricola targato ci di centoventitre con targa ufficiale registrato in francia per un fatto accaduto i lotto aprile duemilaventicinque alle ventidue ventotto il veicolo si trovava in via della libertà al civico tre dove è stato riscontrato parcheggio in divieto di sosta in base all'articolo centocinquantasette con ma cinque del codice penale questa infrazione comporta una decurtazione di sette punti genere alla stampa dell'avviso via hawaii fai in italiano non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Mercedes Classe A, macchina agricola, targato CD123AB con targa ufficiale, registrato in francia,  per un fatto accaduto il 08/04/2025 alle 22:28. Il veicolo si trovava in via della Libertà, al civico 3, dove è stato riscontrato parcheggio in divieto di sosta, in base all'articolo 157, comma 5, del codice penale. Questa infrazione comporta una decurtazione di 7 punti.  Genera la stampa dell'avviso via wifi in italiano, non stampare anche la comunicazione."
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo immatricolato in Austria, una macchina operatrice con targa di tipo copertura. L'infrazione è avvenuta in viale dei giardini, civico 8, in una zona di rimozione. Si applica l'articolo 9, comma 1 del codice civile, con la decurtazione di 5 punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. La stampa del verbale deve essere effettuata in italiano tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "austria",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "follo ex vaga in golf",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "9",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 5,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo follo ex vaga in golf macchina operatrice immatricolati in austria con targa icsi ypsilon trecentoventi uno sa di tipo copertura l'infrazione avvenuta in viale dei giardini civico otto parcheggio in zona a rimozione si applica l'articolo nove con ma uno del codice civile a seguito della violazione verranno decurtati cinque punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in italiano tramite guai fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Volkswagen Golf, macchina operatrice immatricolato in austria con targa XY321ZA di tipo copertura. L'infrazione è avvenuta in viale dei Giardini, civico 8: parcheggio in zona rimozione. Si applica l'articolo 9, comma 1 del codice civile. A seguito della violazione verranno decurtati 5 punti.A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in italiano tramite wifi, stampa anche la comunicazione."
+}

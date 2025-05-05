@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 30 marzo 2025 alle ore 11:01 per una violazione riscontrata su un ciclomotore marca Odia, targato Pelle 3201, tipo ufficiale, proveniente dall'Olanda. Il veicolo è stato trovato parcheggiato in divieto di sosta in via del Corso, civico 12, violando l'articolo 157, comma 5 del codice penale. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di 7 punti dalla patente. La stampa è richiesta in italiano via WiFi, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "30/03/2025",
+            "ora_violazione": "11:01",
+            "data_verbalizzazione": "30/03/2025",
+            "ora_verbalizzazione": "11:01",
+            "luogo_verbalizzazione": "via del corso, civico 12",
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "olanda",
+                    "targa": "pelle trecentoventi uno",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "odia tre",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data trenta marzo duemilaventicinque alle ore undici e un minuto per la violazione riscontrata al veicolo ciclomotori marca odia tre targato pelle trecentoventi uno tipo ufficiale proveniente da olanda in particolare in via del corso civico dodici è stato accertato parcheggiato in divieto di sosta in violazione dell'articolo centocinquantasette coma cinque del codice penale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di sette punti dalla patente richiedo la stampa in italiano via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 30/03/2025 alle ore 11:01 per la violazione riscontrata al veicolo ciclomotore, marca Audi A3, targato KL321MN (tipo ufficiale) proveniente da olanda. In particolare, in via del Corso, civico 12, è stato accertato parcheggio in divieto di sosta, in violazione dell'articolo 157, comma 5 del codice penale. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 7 punti dalla patente. Richiedo la stampa in italiano via wifi, stampa anche la comunicazione. "
+}

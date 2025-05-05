@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è una BMW Serie Uno con targa ufficiale proveniente dalla Grecia. L'infrazione è stata rilevata il 30 marzo 2025 alle 14:09 in via Etna, civico 45, per parcheggio in zona rimozione, violando l'articolo 5, comma 3 del codice civile. L'agente Anna Bianchi ha effettuato la contestazione immediata. La violazione comporta la perdita di 3 punti. Si richiede la stampa del verbale in italiano tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "30/03/2025",
+            "ora_violazione": "14:09",
+            "data_verbalizzazione": "30/03/2025",
+            "ora_verbalizzazione": "14:09",
+            "luogo_verbalizzazione": "via etna, 45",
+            "Strada_1": "via etna",
+            "Civico_1": "45",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "grecia",
+                    "targa": "UBI987XX",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "bmw serie uno",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "5",
+                    "comma": "3",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo autovettura marca bmw serie uno targato ubi novecentottanta sette doppia ex di tipo ufficiale proveniente da grecia l'infrazione stata rilevata il trenta marzo duemilaventicinque alle ore quattordici e nove minuti il veicolo si trovava in via etna al civico quarantacinque in parcheggio in zona a rimozione violando l'articolo cinque comma tre del codice civile l'agente anna bianchi a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di tre punti richiedo la stampa del verbale in italiano tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo autovettura, marca BMW Serie 1, targato UV987WX (di tipo ufficiale), proveniente da grecia.  L'infrazione è stata rilevata il 30/03/2025 alle ore 14:09. Il veicolo si trovava in via Etnea, al civico 45, in parcheggio in zona rimozione, violando l'articolo 5, comma 3, del codice civile. L'agente Anna Bianchi ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 3 punti.  Richiedo la stampa del verbale in italiano tramite wifi, stampa anche la comunicazione."
+}

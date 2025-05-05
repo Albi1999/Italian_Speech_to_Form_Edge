@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 28 marzo 2025 alle 19:20 per un motoveicolo con targa prova immatricolato in Germania. L'infrazione è stata accertata in viale dei giardini, civico 8, per parcheggio in divieto di sosta, violando il codice civile, articolo 158, comma 2. Sono previsti 3 punti da decurtare. La contestazione immediata è stata effettuata dall'agente Carlo Bruni e il verbale è stato redatto sul posto. Non è stata applicata alcuna sanzione accessoria. La stampa è stata effettuata tramite WiFi in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "28/03/2025",
+            "ora_violazione": "19:20",
+            "data_verbalizzazione": "28/03/2025",
+            "ora_verbalizzazione": "19:20",
+            "luogo_verbalizzazione": "viale dei giardini",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "germania",
+                    "targa": "G456AST",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle diciannove venti nave del ventotto marzo duemilaventicinque storie di dicendo un verbale per il veicolo motoveicoli targato guerre quattrocentocinquanta sei a se ti con targa prova immatricolati in germania l'infrazione è stata accertata in viale dei giardini al ci cotto con violazione del codice civile articolo centocinquantotto come due per parcheggio in divieto di sosta sono previsti tra i punti da decurtare contestazione immediata effettuata dalla gente carlo bruni il verbale è stato redatto sul posto in viale dei giardini non passo applicare alcuna sanzioni accessoria stampa tramite wifi in italiano non stampare anche la comunicazione",
+    "original_sentence": "Alle 19:29 del 28/03/2025, sto redigendo un verbale per il veicolo motoveicolo targato QR456ST con targa prova, immatricolato in germaniaL'infrazione è stata accertata in viale dei Giardini, al civico 8, con violazione del codice civile, articolo 158,comma 2 per parcheggio in divieto di sosta Sono previsti 3 punti da decurtare. Contestazione immediata effettuata dall'agente Carlo Bruni, il verbale è stato redatto sul posto in viale dei Giardini. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in italiano, non stampare anche la comunicazione. "
+}

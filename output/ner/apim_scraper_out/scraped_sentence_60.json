@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il 16 aprile 2025 alle ore 18:11 per una violazione riscontrata su un ciclomotore Ford Fiesta con targa speciale proveniente dall'Austria. La violazione è avvenuta in via Roma, civico 77, per parcheggio in doppia fila, violando l'articolo 14, comma 1 del codice stradale. La contestazione non è stata immediata a causa dell'assenza del conducente. Sono previsti 5 punti di decurtazione dalla patente. La stampa è richiesta in italiano via WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "16/04/2025",
+            "ora_violazione": "18:11",
+            "data_verbalizzazione": "16/04/2025",
+            "ora_verbalizzazione": "18:11",
+            "luogo_verbalizzazione": "via roma, civico 77",
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "austria",
+                    "targa": "centoventitre ci",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "ford fiesta",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "14",
+                    "comma": "1",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 5,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data sedici aprile duemilaventicinque alle ore diciotto e undici per la violazione riscontrata al veicolo ciclomotori marca ford fiesta targato centoventitre ci di tipo speciale proveniente da austria in particolare in via roma civico settantasette è stato accertato parcheggia in doppia fila in violazione dell'articolo quattordici con ma uno del codice stradale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di cinque punti dalla patente richiedo la stampa in italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 16/04/2025 alle ore 18:11 per la violazione riscontrata al veicolo ciclomotore, marca Ford Fiesta, targato AB123CD (tipo speciale) proveniente da austria. In particolare, in via Roma, civico 77, è stato accertato parcheggio in doppia fila, in violazione dell'articolo 14, comma 1 del codice stradale. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 5 punti dalla patente. Richiedo la stampa in italiano via wifi, non stampare anche la comunicazione."
+}

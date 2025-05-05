@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo ciclomotore marca Nissa Mira, targato 'guerre trecentoventi uno', di tipo copertura, proveniente dalla Croazia. La violazione è stata rilevata il 15 aprile 2025 alle ore 15:24 per parcheggio in doppia fila in Corso Buenos Aires, numero 98, in base all'articolo 5, comma 3 del codice stradale. Sono previsti 1 punto di decurtazione. Si richiede la stampa del preavviso tramite WiFi in lingua italiana, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "15/04/2025",
+            "ora_violazione": "15:24",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "98",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "croazia",
+                    "targa": "guerre trecentoventi uno",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "nissa mira",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "5",
+                    "comma": "3",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo ciclomotori marca nissa mira targato guerre trecentoventi uno e se ti di tipo copertura proveniente da croazia in data quindici aprile duemilaventicinque alle ore quindici ventiquattro e stata rilevata la violazione di parcheggio in doppia fila in corso buenos aires al numero novantotto in base all'articolo cinque comma tre del codice stradale per tale infrazione sono previsti un punti di decurtazione si richiede la stampa del preavviso tramite wife in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo ciclomotore, marca Nissan Micra, targato QR321ST di tipo copertura, proveniente da croazia. In data 15/04/2025 alle ore 15:24, è stata rilevata la violazione di parcheggio in doppia fila in corso Buenos Aires, al numero 98, in base all'articolo 5, comma 3 del codice stradale. Per tale infrazione sono previsti 1 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua italiano, non stampare anche la comunicazione. "
+}

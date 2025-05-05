@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la preparazione di un verbale per un veicolo Mercedes Classe A con rimorchio, targa BEH123CD, tipo prova, immatricolato in Svizzera. L'infrazione è stata commessa il 29 marzo 2025 alle ore 09:08 in Corso Vittorio Emanuele, civico 15, per parcheggio in doppia fila, violando l'articolo 9, comma 1 del codice penale. La contestazione immediata è stata eseguita dall'agente Luca Verdi, comportando la decurtazione di 9 punti. È richiesta la stampa in italiano via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "29/03/2025",
+            "ora_violazione": "09:08",
+            "data_verbalizzazione": "29/03/2025",
+            "ora_verbalizzazione": "09:08",
+            "luogo_verbalizzazione": "corso vittorio emanuele, civico 15",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "15",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "BEH123CD",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "9",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 9,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo mercedes classe a rimorchio targa beh centoventitre ci di di tipo prova immatricolati in svizzera per infrazione commessa in data ventinove marzo duemilaventicinque ore nove otto in corso vittorio emanuele civico quindici è stato rilevato parcheggio in doppia fila ai sensi dell'articolo nove comma uno del codice penale contestazione immediata eseguita dall'agente luca verdi la violazioni comporta la decurtazioni di nove punti richiesta stampa in italiano vi hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Mercedes Classe A rimorchio, targa AB123CD di tipo prova, immatricolato in svizzera, per infrazione commessa in data 29/03/2025, ore 09:08. In corso Vittorio Emanuele, civico 15, è stato rilevato parcheggio in doppia fila, ai sensi dell'articolo 9, comma 1, del codice penale. Contestazione immediata eseguita dall'agente Luca Verdi. La violazione comporta la decurtazione di 9 punti. Richiesta stampa in italiano via wifi, non stampare anche la comunicazione. "
+}

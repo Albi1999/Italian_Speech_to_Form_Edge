@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo tipo macchina operatrice con targa di prova immatricolata in Spagna. L'infrazione è avvenuta il 27 marzo 2025 alle 17:05 in corso Vittorio Emanuele, numero 15, per parcheggio in divieto di sosta. L'articolo violato è il 7, comma 15 del codice civile, con una penalità di 8 punti sulla patente. Il verbale sarà stampato via Bluetooth in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "27/03/2025",
+            "ora_violazione": "17:05",
+            "data_verbalizzazione": "27/03/2025",
+            "ora_verbalizzazione": "17:05",
+            "luogo_verbalizzazione": "corso vittorio emanuele, numero 15",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "15",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "guerre novecentottanta sette",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": "veicolo in parcheggio in divieto di sosta"
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 8,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo chi ha pianto macchina operatrice con targa guerre novecentottanta sette se ti di tipo prova immatricolati in spagna per un'infrazione commessa il ventisette marzo duemilaventicinque alle diciassette cinque l'infrazione e avvenuta in corso vittorio emanuele al numero quindici dove il veicolo era in parcheggio in divieto di sosta l'articolo violato è il sette comma quindici del codice civile verranno tolti otto punti dalla patente stampa questo verbale via blu tutti in italiano non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Kia Picanto, macchina operatrice con targa QR987ST di tipo prova, immatricolato in spagna, per un'infrazione commessa il 27/03/2025 alle 17:05. L'infrazione è avvenuta in corso Vittorio Emanuele, al numero 15, dove il veicolo era in parcheggio in divieto di sosta. L'articolo violato è il 7, comma 15 del codice civile. Verranno tolti 8 punti dalla patente. Stampa questo verbale via bluetooth in italiano, non stampare anche la comunicazione. "
+}

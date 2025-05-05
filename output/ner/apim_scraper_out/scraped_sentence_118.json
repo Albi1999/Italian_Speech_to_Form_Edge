@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la notifica di un preavviso per un veicolo Volkswagen Golf, con targa speciale proveniente dall'Austria. La violazione è avvenuta il 7 aprile 2025 alle ore 23:00 in Piazza Venezia, civico 1, per parcheggio in doppia fila, secondo l'articolo 4, comma 2 del codice penale. Sono previsti 7 punti di decurtazione. Si richiede la stampa del preavviso in italiano via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "07/04/2025",
+            "ora_violazione": "23:00",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "piazza venezia",
+            "Civico_1": "1",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "TEGA789",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "volkswagen golf",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "4",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo volkswagen golf macchina piccola tega e settecento ottantanove giacca di tipo speciale proveniente da austria il giorno sette aprile duemilaventicinque alle ore ventitré credi in piazza venezia al numero civico uno e stata commessa all'infezione di parcheggio in doppia fila come previsto dall'articolo quattro come due del codice penale per questa violazione sono previsti sette punti di decurtazione chiedo la stampa dei preavviso in italiano via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Volkswagen Golf macchina agricola, targa EF789GH di tipo speciale, proveniente da austria. Il giorno 07/04/2025, alle ore 23:13, in piazza Venezia, al numero civico 1, è stata commessa l'infrazione di parcheggio in doppia fila, come previsto dall'articolo 4, comma 2, del codice penale. Per questa violazione sono previsti 7 punti di decurtazione. Chiedo la stampa del preavviso in italiano via bluetooth, stampa anche la comunicazione. "
+}

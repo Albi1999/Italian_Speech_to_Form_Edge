@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il 21 marzo 2025 alle 10:30 per un veicolo Mercedes Classe A con targa di prova registrato in Belgio. L'infrazione è avvenuta in via della Repubblica, numero 20, per transito in zona accesso vietato, secondo l'articolo 6, comma 1a(1-12) del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti 4 punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua italiana, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "21/03/2025",
+            "ora_violazione": "10:30",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via della repubblica",
+            "Civico_1": "20",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "belgio",
+                    "targa": "ci di centoventitre",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventuno marzo duemilaventicinque alle ore dieci e mezzo è stato emesso un preavviso di violazione per il veicolo autovettura di marca mercedes classe a con targa ci di centoventitre tipo prova registrato in belgio l'infrazione e avvenuta in via della repubblica al numero venti e consiste in transito in zona accesso vietato come previsto dall'articolo sei comma prima uno dodici del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti quattro punti di decurtazione si prega di stampare la presente notifica tramite blu in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 21/03/2025, alle ore 10:30, è stato emesso un preavviso di violazione per il veicolo autovettura di marca Mercedes Classe A, con targa CD123AB (tipo prova), registrato in belgio. L'infrazione è avvenuta in via della Repubblica, al numero 20, e consiste in transito in zona accesso vietato, come previsto dall'articolo 6, comma 1a(1-12) del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 4 punti di decurtazione.  Si prega di stampare la presente notifica tramite bluetooth, in lingua italiano, stampa anche la comunicazione."
+}

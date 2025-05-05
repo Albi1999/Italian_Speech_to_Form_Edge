@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo motoveicolo con targa di tipo copertura proveniente dalla Francia. L'infrazione è stata rilevata il 12 aprile 2025 alle ore 21:00 in via Roma, civico 77, in una zona di rimozione. La violazione riguarda l'articolo 6, comma 4 del codice stradale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore, comportando la perdita di 4 punti. Si richiede la stampa del verbale in italiano tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "12/04/2025",
+            "ora_violazione": "21:00",
+            "data_verbalizzazione": "12/04/2025",
+            "ora_verbalizzazione": "21:00",
+            "luogo_verbalizzazione": "via roma, 77",
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "francia",
+                    "targa": "450 sei occhi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "6",
+                    "comma": "4",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo molto veicolo marcare nucleo targato quattrocentocinquanta sei occhi di tipo copertura proveniente da francia l'infrazione e stata rilevata il dodici aprile duemilaventicinque alle ore ventuno il veicolo si trovava in via roma al civico settantasette in parcheggio in zona a rimozione violando l'articolo sei comma quattro del codice stradale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori quindi motivo mancata contestazione assenza del trasgressori la violazione comporta la perdita di quattro punti richiedo la stampa del verbale in italiano tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo motoveicolo, marca Renault Clio, targato MN456OP (di tipo copertura), proveniente da francia.  L'infrazione è stata rilevata il 12/04/2025 alle ore 21:00. Il veicolo si trovava in via Roma, al civico 77, in parcheggio in zona rimozione, violando l'articolo 6, comma 4, del codice stradale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore, quindi motivo mancata contestazione: assenza del trasgressore. La violazione comporta la perdita di 4 punti.  Richiedo la stampa del verbale in italiano tramite wifi, stampa anche la comunicazione."
+}

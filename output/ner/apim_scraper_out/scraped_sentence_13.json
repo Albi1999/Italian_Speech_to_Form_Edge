@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda l'emissione di un verbale per un veicolo Audi A3, immatricolato in Croazia con targa ICSI Ypsilon 123 SA di tipo prova. L'infrazione è avvenuta in via della Repubblica, civico 20, per parcheggio in divieto di sosta. Si applica l'articolo 7, comma 15 del codice penale, con la decurtazione di 1 punto. Il verbale è stato contestato immediatamente dall'agente Chiara Romano. La stampa deve essere effettuata in italiano tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via della repubblica",
+            "Civico_1": "20",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "croazia",
+                    "targa": "icsi ypsilon centoventitre sa",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "audi a tre",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo audi a tre motoveicoli immatricolati in croazia con targa icsi ypsilon centoventitre sa di tipo prova l'infrazione e avvenuta in via della repubblica civico venti parcheggiato in divieto di sosta si applica l'articolo sette con ma quindici del codice penale a seguito della violazione verranno decurtati uno punti il verbale è stato contestato immediatamente dall'agente chiara romano si prega di procedere con la stampa in italiano tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Audi A3, motoveicolo immatricolato in croazia con targa XY123ZA di tipo prova. L'infrazione è avvenuta in via della Repubblica, civico 20: parcheggio in divieto di sosta. Si applica l'articolo 7, comma 15 del codice penale. A seguito della violazione verranno decurtati 1 punti.Il verbale è stato contestato immediatamente dall'agente Chiara Romano. Si prega di procedere con la stampa in italiano tramite bluetooth, stampa anche la comunicazione."
+}

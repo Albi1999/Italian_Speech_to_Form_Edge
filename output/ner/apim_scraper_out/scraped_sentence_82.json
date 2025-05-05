@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo rimorchio marca Nissan Mica, targa UBI987XX, di tipo ufficiale, immatricolato in Slovenia. La violazione è avvenuta il 5 aprile 2025 alle ore 19:50 in Corso Buenos Aires, civico 98, per parcheggio in zona a rimozione, in base all'articolo 158 comma 2 del codice civile. Sono previsti 3 punti di decurtazione. Si richiede la stampa del preavviso in lingua italiana tramite WiFi, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "05/04/2025",
+            "ora_violazione": "19:50",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "98",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "slovenia",
+                    "targa": "UBI987XX",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "nissan mica",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo rimorchio marca nissan mica targa ubi novecentottanta sette doppia ex di tipo ufficiale immatricolati slovenia la violazione è avvenuta il cinque aprile duemilaventicinque alle ore diciannove cinquanta in corso buenos aires al numero civico novantotto ed è relativa parcheggio in zona a rimozione in base a l'articolo centocinquantotto comma due del codice civile per tale violazione sono previsti tre punti di decurtazione si richiede la stampa di tale preavviso in lingua italiano tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo rimorchio, marca Nissan Micra, targa UV987WX di tipo ufficiale, immatricolato in slovenia. La violazione è avvenuta il 05/04/2025 alle ore 19:50 in corso Buenos Aires, al numero civico 98, ed è relativa a parcheggio in zona rimozione, in base all'articolo 158, comma 2 del codice civile.Per tale violazione sono previsti 3 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua italiano tramite wifi, stampa anche la comunicazione."
+}

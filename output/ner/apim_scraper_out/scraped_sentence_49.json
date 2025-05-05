@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo ciclomotore BMW Serie Uno con targa di tipo copertura proveniente dalla Germania. L'infrazione è stata rilevata il 5 aprile 2025 alle ore 3:26 in via Giuseppe Mazzini, civico 24, per transito in zona ad accesso vietato, violando l'articolo 6, comma 1a(1-12) del codice penale. Non è stata possibile la contestazione immediata per assenza del trasgressore, comportando la perdita di 1 punto. Si richiede la stampa del verbale in italiano tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "05/04/2025",
+            "ora_violazione": "03:26",
+            "data_verbalizzazione": "05/04/2025",
+            "ora_verbalizzazione": "03:26",
+            "luogo_verbalizzazione": "via Giuseppe Mazzini, civico 24",
+            "Strada_1": "via Giuseppe Mazzini",
+            "Civico_1": "24",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "germania",
+                    "targa": "gia sette centottantanove",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "bmw serie uno",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "6",
+                    "comma": "prima uno dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo ciclomotori marca bmw serie uno targato gia sette centottantanove di tipo copertura proveniente da germania l'infrazione e stata rilevata il cinque aprile duemilaventicinque alle ore tre ventisei il veicolo si trovava in via giuseppe mazzini al civico ventiquattro in transito in zona accesso vietato violando l'articolo sei comma prima uno dodici del codice penale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori quindi motivo mancata contestazione assenza del trasgressori la violazione comporta la perdita di uno punti richiedo la stampa del verbale in italiano tramite blood stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo ciclomotore, marca BMW Serie 1, targato GH789IJ (di tipo copertura), proveniente da germania.  L'infrazione è stata rilevata il 05/04/2025 alle ore 03:26. Il veicolo si trovava in via Giuseppe Mazzini, al civico 24, in transito in zona accesso vietato, violando l'articolo 6, comma 1a(1-12), del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore, quindi motivo mancata contestazione: assenza del trasgressore. La violazione comporta la perdita di 1 punti.  Richiedo la stampa del verbale in italiano tramite bluetooth, stampa anche la comunicazione."
+}

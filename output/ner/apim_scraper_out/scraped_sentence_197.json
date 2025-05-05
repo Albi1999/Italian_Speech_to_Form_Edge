@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo Seat Ibiza con targa di tipo copertura proveniente dalla Svizzera. L'infrazione è avvenuta il 7 aprile 2025 alle 12:41 in via Venti Settembre, civico 5, per parcheggio su strisce pedonali, violando l'articolo 157, comma 5 del codice penale. Sono previsti 7 punti di decurtazione. Si richiede la stampa del preavviso in italiano via WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "07/04/2025",
+            "ora_violazione": "12:41",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via venti settembre",
+            "Civico_1": "5",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "svizzera",
+                    "targa": "cinquecento sessantasette occhi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "seat ibiza",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo seat ibiza ciclomotori targa già cinquecento sessantasette occhi di tipo copertura provenienti da svizzera il giorno sette aprile duemilaventicinque alle ore dodici quarantuno invia venti settembre al numero civico cinque e stata commessa l'infrazione di parcheggio su strisce pedonali come previsto dall'articolo centocinquantasette comba cinque del codice penale per questa violazioni sono previsti sette punti di decurtazione chiedo la stampa del preavviso in italiano via weiwei stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Seat Ibiza ciclomotore, targa JK567OP di tipo copertura, proveniente da svizzera. Il giorno 07/04/2025, alle ore 12:41, in via XX Settembre, al numero civico 5, è stata commessa l'infrazione di parcheggio su strisce pedonali, come previsto dall'articolo 157, comma 5, del codice penale. Per questa violazione sono previsti 7 punti di decurtazione. Chiedo la stampa del preavviso in italiano via wifi, stampa anche la comunicazione. "
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a un'autovettura con targa di prova proveniente dal Portogallo, marca non specificata. La violazione, parcheggio in doppia fila, è avvenuta il 31 marzo 2025 alle 11:49 in via Venti Settembre, numero civico 5. L'infrazione rientra nell'articolo 7, comma 5 del codice penale. La contestazione è stata immediata da parte dell'agente Alessandro Moretti e prevede la perdita di un punto. Si richiede la stampa in lingua italiana tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "31/03/2025",
+            "ora_violazione": "11:49",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via venti settembre",
+            "Civico_1": "5",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "portogallo",
+                    "targa": "me4506oh",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "7",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo autovettura targato me ne quattrocentocinquanta sei oh piedi tipo prova proveniente da portogallo marca o percorsa la violazione ovvero parcheggia in doppia fila si e verificata in data trentuno marzo duemilaventicinque alle ore undici e quarantanove in via venti settembre a numero cinque l'infrazione rientra nell'articolo sette con ma cinque del codice penale contestazioni immediata da parte della gente alessandro moretti la sanzione prevede la perdita di un punti si richiede la stampa in lingua italiano tramite guai fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato MN456OP di tipo prova proveniente da portogallo, marca Opel Corsa. La violazione, ovvero parcheggio in doppia fila, si è verificata in data 31/03/2025 alle ore 11:49 in via XX Settembre, al numero 5. L'infrazione rientra nell'articolo 7, comma 5 del codice penale. Contestazione immediata da parte dell'agente Alessandro Moretti. La sanzione prevede la perdita di 1 punti. Si richiede la stampa in lingua italiano, tramite wifi, stampa anche la comunicazione. "
+}

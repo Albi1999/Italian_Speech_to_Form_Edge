@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 4 aprile 2025 alle ore 2:44 per un veicolo Seat Ibiza con rimorchio, immatricolato in Francia, targa UBI3201EX di tipo prova. L'infrazione è avvenuta in via XX Settembre, civico 5, violando il codice penale, articolo 6, comma 4, riguardante il parcheggio davanti a passo carabine. Sono stati decurtati 6 punti e applicata una sanzione accessoria. La stampa deve essere effettuata tramite Bluetooth, in italiano, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "04/04/2025",
+            "ora_violazione": "02:44",
+            "data_verbalizzazione": "04/04/2025",
+            "ora_verbalizzazione": "02:44",
+            "luogo_verbalizzazione": "via venti settembre, civico cinque",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "5",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "UBI3201EX",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "seat ibiza",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "6",
+                    "comma": "4",
+                    "sanzione_accessoria": "con sanzione accessoria"
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il quattro aprile duemilaventicinque alle ore due quarantaquattro sto mettendo una notifica di infrazione per il veicolo seat ibiza rimorchio immatricolati in francia con targa ubi trecentoventi uno doppia ex di tipo prova l'infrazione si e verificata presto via venti settembre al civico cinque violando il codice penale in particolare l'articolo sei con ma quattro riguardante il parcheggio davanti a passo carabine devo decurtare sei punti applico una sanzione accessoria in base alle circostanze non sono necessarie ulteriori dettagli sul rimorchio stampa me lo con il blu tutti in italiano stampa anche la comunicazione",
+    "original_sentence": "Il 04/04/2025, alle ore 02:44, sto emettendo una notifica di infrazione per il veicolo Seat Ibiza, rimorchio immatricolato in francia con targa UV321WX di tipo prova. L'infrazione si è verificata presso via XX Settembre, al civico 5, violando il codice penale, in particolare l'articolo 6, comma 4 riguardante il parcheggio davanti a passo carrabile.Devo decurtare 6 punti. Applico una sanzione accessoria in base alle circostanze. Non sono necessari ulteriori dettagli sul rimorchio. Stampamelo con il bluetooth in italiano, stampa anche la comunicazione."
+}

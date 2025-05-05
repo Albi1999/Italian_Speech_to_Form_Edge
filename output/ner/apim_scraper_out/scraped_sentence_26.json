@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo di tipo macchina operatrice con targa di prova immatricolata in Germania. La violazione è avvenuta il 31 marzo 2025 alle ore 19:49 in via della Repubblica, civico 20, per parcheggio in doppia fila secondo l'articolo 7, comma 15 del codice stradale. Sono previsti due punti di decurtazione. Si richiede la stampa del preavviso in lingua italiana tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "31/03/2025",
+            "ora_violazione": "19:49",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via della repubblica",
+            "Civico_1": "20",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "germania",
+                    "targa": "i sette centottantanove",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo macchina operatrice marcare nucleo targa i sette centottantanove chi lo litri di tipo prova immatricolati in germania la violazione è avvenuta il trentuno marzo duemilaventicinque alle ore diciannove quarantanove in via della repubblica al numero civico venti ed è relativa a parcheggia in doppia fila in base all'articolo sette comma quindici del codice stradale per tale violazione sono previsti due punti di decurtazione si richiede la stampa di tale preavviso in lingua italiano tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo macchina operatrice, marca Renault Clio, targa IJ789KL di tipo prova, immatricolato in germania. La violazione è avvenuta il 31/03/2025 alle ore 19:49 in via della Repubblica, al numero civico 20, ed è relativa a parcheggio in doppia fila, in base all'articolo 7, comma 15 del codice stradale.Per tale violazione sono previsti 2 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua italiano tramite bluetooth, non stampare anche la comunicazione."
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo marca Fox Vaga in Golf, targato speciale, proveniente dalla Francia. L'infrazione è stata rilevata il 14 aprile 2025 alle 18:35 in via Garibaldi, civico 11, per violazione dell'articolo 185 comma 2 del codice stradale. Non è stata possibile la contestazione immediata per assenza del trasgressore, comportando la perdita di 1 punto. Si richiede la stampa del verbale in italiano tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "14/04/2025",
+            "ora_violazione": "18:35",
+            "data_verbalizzazione": "14/04/2025",
+            "ora_verbalizzazione": "18:35",
+            "luogo_verbalizzazione": "via garibaldi, civico 11",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "11",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "francia",
+                    "targa": "cappelle trecentoventi uno megan houston",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "fox vaga in golf",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "185",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo molto veicolo marca fox vaga in golf targato cappelle trecentoventi uno megan houston di tipo speciale proveniente da francia l'infrazione e stata rilevata il quattordici aprile duemilaventicinque alle ore diciotto e trentacinque il veicolo si trovava in via garibaldi al civico undici in parcheggio davanti a pasto carabine violando l'articolo centottantacinque comma due del codice stradale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori quindi motivo mancata contestazione assenza del trasgressori la violazione comporta la perdita di uno punti richiedo la stampa del verbale in italiano tramite blood stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo motoveicolo, marca Volkswagen Golf, targato KL321MN (di tipo speciale), proveniente da francia.  L'infrazione è stata rilevata il 14/04/2025 alle ore 18:35. Il veicolo si trovava in via Garibaldi, al civico 11, in parcheggio davanti a passo carrabile, violando l'articolo 185, comma 2, del codice stradale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore, quindi motivo mancata contestazione: assenza del trasgressore. La violazione comporta la perdita di 1 punti.  Richiedo la stampa del verbale in italiano tramite bluetooth, stampa anche la comunicazione."
+}

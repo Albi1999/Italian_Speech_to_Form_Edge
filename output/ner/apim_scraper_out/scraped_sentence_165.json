@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo macchina operatrice, marca \"tu io tagliare\", targato \"i i settecento ottantanove cappelle\" di tipo copertura, proveniente dalla Grecia. L'infrazione è stata rilevata il 4 aprile 2025 alle ore 5:30 in via della Libertà, civico 3, per transito in zona ad accesso vietato, violando l'articolo 185 comma 2 del codice penale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore, comportando la perdita di 10 punti. Si richiede la stampa del verbale in italiano tramite Wi-Fi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "04/04/2025",
+            "ora_violazione": "05:30",
+            "data_verbalizzazione": "04/04/2025",
+            "ora_verbalizzazione": "05:30",
+            "luogo_verbalizzazione": "via della Libertà, civico 3",
+            "Strada_1": "via della Libertà",
+            "Civico_1": "3",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "i i settecento ottantanove cappelle",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "tu io tagliare",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "185",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina operatrice marca tu io tagliare targato i i settecento ottantanove cappelle di tipo copertura proveniente da grecia l'infrazione stata rilevata il quattro aprile duemilaventicinque alle ore cinque trenta il veicolo si trovava in via della libertà al civico tre in transito in zona accesso vietato violando l'articolo centottantacinque comma due del codice penale non è stato possibile effettuare la contestazioni immediata causa dell'assenza del trasgressori quindi motivo mancata contestazione assenza del trasgressori la violazione comporta la perdita di dieci punti richiedo la stampa del verbale in italiano tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina operatrice, marca Toyota Yaris, targato IJ789KL (di tipo copertura), proveniente da grecia. L'infrazione è stata rilevata il 04/04/2025 alle ore 05:30. Il veicolo si trovava in via della Libertà, al civico 3, in transito in zona accesso vietato, violando l'articolo 185, comma 2, del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore, quindi motivo mancata contestazione: assenza del trasgressore. La violazione comporta la perdita di 10 punti. Richiedo la stampa del verbale in italiano tramite wifi, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un'infrazione stradale. Il veicolo coinvolto è un ciclomotore con targa di tipo copertura immatricolato in Germania. L'infrazione è avvenuta il 22 aprile 2025 alle 2:03 in via Nea, numero 45, dove il veicolo era parcheggiato davanti a passo Carabine. L'articolo violato è il 158 comma 2 del codice civile, con la conseguente detrazione di tre punti dalla patente. Il verbale sarà stampato via Bluetooth in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "22/04/2025",
+            "ora_violazione": "02:03",
+            "data_verbalizzazione": "22/04/2025",
+            "ora_verbalizzazione": "02:03",
+            "luogo_verbalizzazione": "via Nea, numero 45",
+            "Strada_1": "via Nea",
+            "Civico_1": "45",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "Germania",
+                    "targa": "ICSI Ypsilon 154",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": "veicolo in parcheggio"
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "veicolo in parcheggio",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo da cassandra ero ciclomotori con targa icsi ypsilon si centocinquantaquattro già di tipo copertura immatricolati in germania per un'infrazione commessa il ventidue aprile duemilaventicinque alle due e tre l'infrazione avvenuta in via nea al numero quarantacinque dove il veicolo era in parcheggio davanti a passo carabine l'articolo violato è il centocinquantotto coma due del codice civile verranno tolti tra i punti dalla patente stampa questo verbale via piu tutti in italiano non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Dacia Sandero, ciclomotore con targa XY654ZA di tipo copertura, immatricolato in germania, per un'infrazione commessa il 22/04/2025 alle 02:03. L'infrazione è avvenuta in via Etnea, al numero 45, dove il veicolo era in parcheggio davanti a passo carrabile. L'articolo violato è il 158, comma 2 del codice civile. Verranno tolti 3 punti dalla patente. Stampa questo verbale via bluetooth in italiano, non stampare anche la comunicazione. "
+}

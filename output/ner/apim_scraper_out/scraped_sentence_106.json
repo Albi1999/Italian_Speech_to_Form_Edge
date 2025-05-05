@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 13 aprile 2025 alle 10:08 per un veicolo macchina operatrice con targa copertura immatricolato in Austria. L'infrazione è stata accertata in via della Repubblica, civico 20, per parcheggio in divieto di sosta, violando il codice civile, articolo 8, comma 6. Sono previsti sette punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non si applica alcuna sanzione accessoria. La stampa avviene tramite Bluetooth in italiano e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "13/04/2025",
+            "ora_violazione": "10:08",
+            "data_verbalizzazione": "13/04/2025",
+            "ora_verbalizzazione": "10:08",
+            "luogo_verbalizzazione": "via della Repubblica, civico 20",
+            "Strada_1": "via della Repubblica",
+            "Civico_1": "20",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "Austria",
+                    "targa": "TIA098IY",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "8",
+                    "comma": "6",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle dieci e otto del tredici aprile duemilaventicinque storie dicendo un verbale per il veicolo macchina operatrice targato ti a zero nove otto i ypsilon con targa copertura immatricolati in austria l'infrazione e stata accertata in via della repubblica al civico venti con violazione del codice civile articolo otto come sei per parcheggio in divieto di sosta sono previsti sette punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite blu tutte in italiano stampa anche la comunicazione",
+    "original_sentence": "Alle 10:08 del 13/04/2025, sto redigendo un verbale per il veicolo macchina operatrice targato TR098YU con targa copertura, immatricolato in austriaL'infrazione è stata accertata in via della Repubblica, al civico 20, con violazione del codice civile, articolo 8,comma 6 per parcheggio in divieto di sosta Sono previsti 7 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in italiano, stampa anche la comunicazione. "
+}

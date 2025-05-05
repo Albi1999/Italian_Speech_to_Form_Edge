@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a una violazione stradale. La violazione è avvenuta il 16 aprile 2025 alle 22:18 in via della Libertà, numero 3. Il veicolo coinvolto è una macchina agricola con targa speciale proveniente dal Belgio, marca Skoda Fabia. L'infrazione riguarda il parcheggio su strisce pedonali, secondo l'articolo 7, comma 5 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione comporta la perdita di 5 punti. Si richiede la stampa in italiano tramite Wi-Fi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "16/04/2025",
+            "ora_violazione": "22:18",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via della libertà",
+            "Civico_1": "3",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "icsi ypsilon novecentottanta sette",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "skoda fabia",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "7",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 5,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina agricola targato icsi ypsilon novecentottanta sette gettati di tipo speciale proveniente da belgio marca skoda fabia la violazione ovvero vero parcheggio su strisce pedonali sia e verificata in data sedici aprile duemilaventicinque alle ore ventidue diciotto in via della libertà al numero tre l'infrazione rientra nell'articolo sette con ma cinque del codice stradale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori motivo mancata contestazione assenza del trasgressori la sanzione prevede la perdita di cinque punti si richiede la stampa in lingua italiano tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina agricola targato XY987ZT di tipo speciale proveniente da belgio, marca Skoda Fabia. La violazione, ovvero parcheggio su strisce pedonali, si è verificata in data 16/04/2025 alle ore 22:18 in via della Libertà, al numero 3. L'infrazione rientra nell'articolo 7, comma 5 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, motivo mancata contestazione: assenza del trasgressore. La sanzione prevede la perdita di 5 punti. Si richiede la stampa in lingua italiano, tramite wifi, non stampare anche la comunicazione."
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo Fiat Panda, targato ufficiale e registrato in Slovenia. La violazione è avvenuta il 24 marzo 2025 alle 23:37 in via della Libertà, civico 3, per parcheggio in zona a rimozione. La violazione è in base all'articolo 3, comma 1 del codice civile e comporta una decurtazione di 1 punto. La stampa dell'avviso è richiesta via WiFi, in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "24/03/2025",
+            "ora_violazione": "23:37",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via della Libertà",
+            "Civico_1": "3",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "slovenia",
+                    "targa": "EF123JK",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fiat panda",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "3",
+                    "comma": "1",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo fiat panda molto veicolo targato e effe centoventitre giacca con targa ufficiale registrato in slovenia per un fatto accaduto il ventiquattro marzo duemilaventicinque alle ventitré trentasette il veicolo si trovava in via della libertà al civico tre dove è stato riscontrato parcheggio in zona a rimozione in base all'articolo tre con ma uno del codice civile questa infrazione comporta una decurtazione di uno punti genere alla stampa dell'avviso via hawaii fai in italiano non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Fiat Panda, motoveicolo, targato EF123GH con targa ufficiale, registrato in slovenia,  per un fatto accaduto il 24/03/2025 alle 23:37. Il veicolo si trovava in via della Libertà, al civico 3, dove è stato riscontrato parcheggio in zona rimozione, in base all'articolo 3, comma 1, del codice civile. Questa infrazione comporta una decurtazione di 1 punti.  Genera la stampa dell'avviso via wifi in italiano, non stampare anche la comunicazione."
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 22 marzo 2025 alle 12:23 per un ciclomotore con targa copertura immatricolato in Grecia. L'infrazione è stata rilevata in via Etna, civico 45, per violazione del codice civile, articolo 7, comma 15, riguardante il parcheggio davanti a un passo carrabile. La contestazione immediata non è stata possibile per l'assenza del trasgressore, con 10 punti da decurtare. Il veicolo è un Full Ex Vaga in Golf verde, con telaio specificato e massa di 1028 kg. È richiesta la stampa del preavviso tramite Bluetooth in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "22/03/2025",
+            "ora_violazione": "12:23",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via etna",
+            "Civico_1": "45",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "grecia",
+                    "targa": "e e centoventitre giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "full ex vaga in golf",
+                    "colore": "verde",
+                    "telaio": "91738353480327972",
+                    "massa": "1028 kg",
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventidue marzo duemilaventicinque alle ore è mezzogiorno e ventitré è stato notificato un preavviso per un ciclomotori targato e e centoventitre giacca con targa copertura immatricolati in grecia l'infrazione e stata rilevata in via etna al civico quarantacinque con violazione del codice civile articolo sette comma quindici in particolare si e riscontrato un parcheggio davanti a passo arrabbi le non è stato possibile contestare per l'assenza del trasgressori è per questo è indicato il motivo di mancata contestazione da decurtare ci sono dieci punti il veicolo è un full ex vaga in golf di colore verde con numero di telaio novantuno miliardi e settecentotrentotto milioni tre centocinquantatre miliardi quattrocentottanta milioni trecentoventisette mila novecento settantadue massa mille ventotto chilogrammi necessita la stampa del preavviso tramite blu in italiano non stampare anche la comunicazione",
+    "original_sentence": "In data 22/03/2025, alle ore 12:23, è stato notificato un preavviso per un ciclomotore targato EF123GH con targa copertura, immatricolato in grecia. L'infrazione è stata rilevata in via Etnea, al civico 45, con violazione del codice civile, articolo 7, comma 15, in particolare si è riscontrato un parcheggio davanti a passo carrabile Non è stato possibile contestare per l'assenza del trasgressore, e per questo è indicato il motivo di mancata contestazione. Da decurtare ci sono 10 punti. Il veicolo è un Volkswagen Golf di colore verde, con numero di telaio 91728353480327972 e massa 1028 kg.Necessito la stampa del preavviso tramite bluetooth, in italiano, non stampare anche la comunicazione."
+}

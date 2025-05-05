@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo autovettura marca Dacia Sandy, targa 789 occhi, di tipo speciale, immatricolato in Olanda. La violazione è avvenuta l'11 aprile 2025 alle ore 5:21 in via Roma, civico 77, per parcheggio in divieto di sosta secondo l'articolo 158 comma 2 del codice stradale. Sono previsti 2 punti di decurtazione. Si richiede la stampa del preavviso in lingua italiana tramite Wi-Fi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "11/04/2025",
+            "ora_violazione": "05:21",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "olanda",
+                    "targa": "789 occhi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "dacia sandy",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo autovettura marca dacia sandy ero targa sette centottantanove occhi di tipo speciale immatricolati in olanda la violazione è avvenuta hai l'undici aprile duemilaventicinque alle ore cinque ventuno in via roma al numero civico settantasette ed è relativa a parcheggiato in divieto di sosta in base all'articolo centocinquantotto comma due del codice stradale per tale violazione sono previsti due punti di decurtazione si richiede la stampa di tale preavviso in lingua italiano tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo autovettura, marca Dacia Sandero, targa MN789OP di tipo speciale, immatricolato in olanda. La violazione è avvenuta il 11/04/2025 alle ore 05:21 in via Roma, al numero civico 77, ed è relativa a parcheggio in divieto di sosta, in base all'articolo 158, comma 2 del codice stradale.Per tale violazione sono previsti 2 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua italiano tramite wifi, non stampare anche la comunicazione."
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo rimorchio con targa ufficiale proveniente dalla Grecia. L'infrazione, parcheggio in doppia fila, è avvenuta il 18 marzo 2025 alle 21:23 in via della Repubblica, numero 20. La violazione è dell'articolo 14, comma 1 del codice civile, con una decurtazione di 8 punti. Si richiede la stampa in lingua italiana, modalità WiFi, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "18/03/2025",
+            "ora_violazione": "21:23",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via della Repubblica",
+            "Civico_1": "20",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "i centoventitre chi lo litri",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fox vaga in golf",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "14",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 8,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa i centoventitre chi lo litri di tipo ufficiale marca fox vaga in golf proveniente da grecia l'infrazione nello specifico parcheggia in doppia fila sia e verificata in data diciotto marzo duemilaventicinque alle ore ventuno e ventitré in via della repubblica al numero venti articolo quattordici con ma uno del codice civile si comunica che dalla violazione conseguirà una decurtazione di otto punti si richiede la stampa in lingua italiano modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa IJ123KL di tipo ufficiale, marca Volkswagen Golf, proveniente da grecia. L'infrazione, nello specifico parcheggio in doppia fila, si è verificata in data 18/03/2025 alle ore 21:23 in via della Repubblica, al numero 20 (articolo 14, comma 1 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 8 punti.Si richiede la stampa in lingua italiano, modalità wifi, non stampare anche la comunicazione."
+}

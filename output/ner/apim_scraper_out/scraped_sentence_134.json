@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale avvenuta il 26 marzo 2025 alle 10:27 in viale dei Giardini, numero 8. La violazione riguarda un parcheggio in zona a rimozione, secondo l'articolo 6, comma 4 del codice stradale. Il veicolo coinvolto è una macchina operatrice con targa speciale proveniente dalla Spagna, marca BMW Serie Uno. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, e la sanzione prevede la perdita di 10 punti. Si richiede la stampa in italiano tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "26/03/2025",
+            "ora_violazione": "10:27",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "icsi ypsilon centoventitre",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "bmw serie uno",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "6",
+                    "comma": "4",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo mattina operatrice targato icsi ypsilon centoventitre di tipo speciale proveniente da spagna marca bmw serie uno la violazione ovvero parcheggio in zona a rimozione si e verificata in data ventisei marzo duemilaventicinque alle ore dieci ventisette in viale dei giardini al numero otto l'infrazione rientra nell'articolo sei con ma quattro del codice stradale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori motivo mancata contestazione assenza del trasgressori la sanzione prevede la perdita di dieci punti si richiede la stampa in lingua italiano tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato XY123ZA di tipo speciale proveniente da spagna, marca BMW Serie 1. La violazione, ovvero parcheggio in zona rimozione, si è verificata in data 26/03/2025 alle ore 10:27 in viale dei Giardini, al numero 8. L'infrazione rientra nell'articolo 6, comma 4 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, motivo mancata contestazione: assenza del trasgressore. La sanzione prevede la perdita di 10 punti. Si richiede la stampa in lingua italiano, tramite wifi, non stampare anche la comunicazione. "
+}

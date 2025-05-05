@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 26 marzo 2025 alle ore 3:24 per un veicolo Renault, una macchina operatrice immatricolata in Slovenia con targa speciale. L'infrazione è avvenuta in via Giuseppe Mazzini, civico 24, violando il codice penale, articolo 6, comma 1a(1-12), riguardante il parcheggio su strisce pedonali. Sono stati decurtati 8 punti e non è necessaria alcuna sanzione accessoria. La stampa deve essere effettuata tramite Bluetooth, in italiano, e deve includere anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "26/03/2025",
+            "ora_violazione": "03:24",
+            "data_verbalizzazione": "26/03/2025",
+            "ora_verbalizzazione": "03:24",
+            "luogo_verbalizzazione": "via Giuseppe Mazzini, civico 24",
+            "Strada_1": "via Giuseppe Mazzini",
+            "Civico_1": "24",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "slovenia",
+                    "targa": "HAI123CAPELLI",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "reno",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 8,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "i ventisei marzo duemilaventicinque alle ore tre ventiquattro sto mettendo una notifica di infrazione per il veicolo reno io macchina operatrice immatricolati in slovenia con targa hai gia centoventitre capelli di tipo speciale l'infrazione si e verificata presso via giuseppe mazzini al civico ventiquattro violando il codice penale in particolare l'articolo sei comma uno a funo a dodici riguardante il parcheggio su strisce pedonali devo decurtare otto punti non è necessaria alcuna sanzione accessoria non sono necessarie ulteriori dettagli sul macchina operatrice stampa me lo con il blu tutti in italiano stampa anche la comunicazione",
+    "original_sentence": "Il 26/03/2025, alle ore 03:24, sto emettendo una notifica di infrazione per il veicolo Renault Clio, macchina operatrice immatricolato in slovenia con targa IJ123KL di tipo speciale. L'infrazione si è verificata presso via Giuseppe Mazzini, al civico 24, violando il codice penale, in particolare l'articolo 6, comma 1a(1-12) riguardante il parcheggio su strisce pedonali. Devo decurtare 8 punti. Non è necessaria alcuna sanzione accessoria. Non sono necessari ulteriori dettagli sul macchina operatrice. Stampamelo con il bluetooth in italiano, stampa anche la comunicazione. "
+}

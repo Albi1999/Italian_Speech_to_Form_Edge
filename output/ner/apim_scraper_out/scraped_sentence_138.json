@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un motoveicolo con targa di tipo copertura, marca Mercedes Classe A, proveniente dalla Croazia. L'infrazione è avvenuta il 13 aprile 2025 alle ore 11:34 in via Venti Settembre, numero civico 5, per transito in zona di accesso vietato. La violazione comporterà una decurtazione di 10 punti. Si richiede la stampa in lingua italiana, modalità Bluetooth, e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "13/04/2025",
+            "ora_violazione": "11:34",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via venti settembre",
+            "Civico_1": "5",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "croazia",
+                    "targa": "capelli trecentoventi uno yemen",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che in corso la stesura di un preavviso di violazione per il veicolo motoveicoli con targa capelli trecentoventi uno yemen di tipo copertura marca mercedes classe a proveniente da croazia l'infrazione nello specifico transito in zona accesso vietato sia verificata in data tredici aprile duemilaventicinque alle ore undici e trentaquattro in via venti settembre al numero cinque articolo sette come quindici del codice stradale si comunica che dalla violazione conseguirà una decurtazione di dieci punti si richiede la stampa in lingua italiano modalità blu tutta stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo motoveicolo con targa KL321MN di tipo copertura, marca Mercedes Classe A, proveniente da croazia. L'infrazione, nello specifico transito in zona accesso vietato, si è verificata in data 13/04/2025 alle ore 11:34 in via XX Settembre, al numero 5 (articolo 7, comma 15 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 10 punti. Si richiede la stampa in lingua italiano, modalità bluetooth, stampa anche la comunicazione. "
+}

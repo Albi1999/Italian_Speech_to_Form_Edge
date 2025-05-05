@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo ciclomotore di marca Mercedes Classe A con targa speciale proveniente dall'Austria. L'infrazione è avvenuta il 24 marzo 2025 alle ore 10:49 in Piazza Venezia, numero civico 1, per parcheggio in zona a rimozione, violando l'articolo 4 comma 2 del codice stradale. La decurtazione prevista è di sei punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è richiesta tramite Bluetooth in italiano, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "24/03/2025",
+            "ora_violazione": "10:49",
+            "data_verbalizzazione": "24/03/2025",
+            "ora_verbalizzazione": "10:49",
+            "luogo_verbalizzazione": "piazza venezia",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "1",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "austria",
+                    "targa": "quattrocentocinquanta sei occhi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "4",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazioni verbale in corso per il veicolo ciclomotori di marca mercedes classe a con targa quattrocentocinquanta sei occhi tipo speciale proveniente da austria fatto avvenuto il ventiquattro marzo duemilaventicinque alle ore dieci e quarantanove posizione piazza venezia numero civico uno infrazione parcheggio in zona a rimozione in violazione dell'articolo quattro comma due del codice stradale decurtazione prevista sei punti impossibile contestare immediatamente per assenza del trasgressori motivo assenza del trasgressori stampa necessaria tramite blu tutti in italiano stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo ciclomotore di marca Mercedes Classe A, con targa MN456OP (tipo speciale), proveniente da austria. Fatto avvenuto il 24/03/2025 alle ore 10:49. Posizione: piazza Venezia, numero civico 1. Infrazione: parcheggio in zona rimozione, in violazione dell'articolo 4, comma 2, del codice stradale. Decurtazione prevista: 6 punti. Impossibile contestare immediatamente per assenza del trasgressore, motivo: assenza del trasgressore. Stampa necessaria tramite bluetooth in italiano, stampa anche la comunicazione. "
+}

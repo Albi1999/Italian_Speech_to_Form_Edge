@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo con targa UBI3201EX, di tipo copertura, proveniente dalla Slovenia. L'infrazione è avvenuta il 17 aprile 2025 alle 08:06 in via Etna, civico 45, per transito in zona accesso vietato, violando l'articolo 7, comma 15 del codice civile. Sono previsti 10 punti di decurtazione. La stampa del preavviso è in italiano via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "17/04/2025",
+            "ora_violazione": "08:06",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via etna",
+            "Civico_1": "45",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "slovenia",
+                    "targa": "UBI3201EX",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "peugeot 208",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo peggio duecentotto molto veicolo targa ubi trecentoventi uno doppia ex di tipo copertura proveniente da slovenia il giorno a diciassette aprile duemilaventicinque alle otto e sei minuti in via etna al numero civico quarantacinque stata commessa l'infrazione di transito in zona accesso vietato come previsto dall'articolo sette comma quindici del codice civile per questa violazione sono previsti dieci punti di decurtazione cedola stampa del preavviso in italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Peugeot 208 motoveicolo, targa UV321WX di tipo copertura, proveniente da slovenia. Il giorno 17/04/2025, alle ore 08:06, in via Etnea, al numero civico 45, è stata commessa l'infrazione di transito in zona accesso vietato, come previsto dall'articolo 7, comma 15, del codice civile.Per questa violazione sono previsti 10 punti di decurtazione. Chiedo la stampa del preavviso in italiano via wifi, non stampare anche la comunicazione."
+}

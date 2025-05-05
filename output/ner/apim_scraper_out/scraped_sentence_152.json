@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale elevato il 21 aprile 2025 alle ore 15:18 per una violazione del codice penale. Il veicolo coinvolto è una Volkswagen Golf, classificata come macchina agricola con targa speciale immatricolata in Belgio. La violazione riguarda il transito in zona ad accesso vietato, rilevata in Piazza Venezia al civico 1. La contestazione è stata immediata, effettuata dall'agente Marco Gentili, e comporta una decurtazione di cinque punti. La stampa del verbale è richiesta in lingua italiana, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "21/04/2025",
+            "ora_violazione": "15:18",
+            "data_verbalizzazione": "21/04/2025",
+            "ora_verbalizzazione": "15:18",
+            "luogo_verbalizzazione": "piazza venezia",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "1",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "jeffrey quattrocentocinquanta sei",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "volkswagen golf",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "7",
+                    "comma": "ma quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 5,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventuno aprile duemilaventicinque alle ore quindici diciotto si eleva verbale al veicolo volkswagen golf macchina agricola con targa jeffrey quattrocentocinquanta sei gia di tipo speciale immatricolati in belgio per violazione dell'articolo sette con ma quindici del codice penale ovvero transito in zona accesso vietato rilevata in piazza venezia al civico uno la contestazione e stata immediata effettuata dalla gente marco gentili dalla violazione derivano cinque punti di decurtazione stampa necessari e in lingua italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "In data 21/04/2025, alle ore 15:18, si eleva verbale al veicolo Volkswagen Golf, macchina agricola con targa EF456GH di tipo speciale, immatricolato in belgio, per violazione dell'articolo 7, comma 15 del codice penale, ovvero transito in zona accesso vietato, rilevata in piazza Venezia, al civico 1. La contestazione è stata immediata, effettuata dall'agente Marco Gentili. Dalla violazione derivano 5 punti di decurtazione. Stampa necessaria in lingua italiano via wifi, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo rimorchio BMW Serie Uno con targa ICSI Ypsilon 987 GT, di tipo copertura, immatricolato in Portogallo. La violazione è avvenuta il 30 marzo 2025 alle ore 20:32 in viale dei Giardini, numero civico 8, per parcheggio in doppia fila, in base all'articolo 3 comma 1 del codice stradale. Sono previsti 10 punti di decurtazione. Si richiede la stampa del preavviso in lingua italiana tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "30/03/2025",
+            "ora_violazione": "20:32",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "viale dei Giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "portogallo",
+                    "targa": "ICSI Ypsilon 987 GT",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "BMW Serie Uno",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "3",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo rimorchio marca bmw serie uno targa icsi ypsilon novecentottanta sette getta ti di tipo copertura immatricolati un portogallo la violazione è avvenuta il trenta marzo duemilaventicinque alle ore venti e trentadue in viale dei giardini al numero civic otto ed è relativa parcheggio in doppia fila in base a all'articolo tre comma uno del codice stradale per tali violazioni sono previsti dieci punti di decurtazione si richiede la stampa di tale preavviso in lingua italiano tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo rimorchio, marca BMW Serie 1, targa XY987ZT di tipo copertura, immatricolato in portogallo. La violazione è avvenuta il 30/03/2025 alle ore 20:32 in viale dei Giardini, al numero civico 8, ed è relativa a parcheggio in doppia fila, in base all'articolo 3, comma 1 del codice stradale. Per tale violazione sono previsti 10 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua italiano tramite bluetooth, non stampare anche la comunicazione. "
+}

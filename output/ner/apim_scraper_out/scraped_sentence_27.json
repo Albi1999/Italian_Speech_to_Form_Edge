@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un'infrazione commessa il 17 aprile 2025 alle 13:25 in via Venti Settembre, civico 5. Il veicolo coinvolto è una Dacia Sandy, macchina operatrice, con targa ufficiale JEFF456 proveniente dalla Slovenia. L'infrazione riguarda il parcheggio in doppia fila, violando l'articolo 6, comma 1a(1-12) del codice stradale, con una decurtazione di 1 punto. La stampa del preavviso è richiesta in italiano via WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "17/04/2025",
+            "ora_violazione": "13:25",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via venti settembre",
+            "Civico_1": "5",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "slovenia",
+                    "targa": "JEFF456",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "dacia sandy",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo dacia sandy ero macchina operatrice targa è jeff quattrocentocinquanta sei giacca di tipo ufficiale proveniente da slovenia il giorno a diciassette aprile duemilaventicinque alle ore tredici e venticinque in via venti settembre al numero civico cinque stata commessa l'infrazione di parcheggia in doppia fila come previsto dall'articolo sei con ma prima uno dodici del codice stradale per questa violazione sono previsti uno punti di decurtazione cedola stampa del preavviso in italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Dacia Sandero macchina operatrice, targa EF456GH di tipo ufficiale, proveniente da slovenia. Il giorno 17/04/2025, alle ore 13:25, in via XX Settembre, al numero civico 5, è stata commessa l'infrazione di parcheggio in doppia fila, come previsto dall'articolo 6, comma 1a(1-12), del codice stradale.Per questa violazione sono previsti 1 punti di decurtazione. Chiedo la stampa del preavviso in italiano via wifi, non stampare anche la comunicazione."
+}

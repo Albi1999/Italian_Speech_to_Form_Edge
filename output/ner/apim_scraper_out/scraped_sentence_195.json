@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un motoveicolo marca Seat Ibiza, targa CI, immatricolato in Olanda. La violazione è avvenuta il 31 marzo 2025 alle 20:21 in via Garibaldi, civico 11, per transito in zona ad accesso vietato, violando l'articolo 6 comma 1a(1-12) del codice civile. Sono previsti 4 punti di decurtazione. Si richiede la stampa del preavviso in lingua italiana tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "31/03/2025",
+            "ora_violazione": "20:21",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via garibaldi",
+            "Civico_1": "11",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "olanda",
+                    "targa": "CI",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "seat ibiza",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazioni per il veicolo motoveicoli marca seat ibiza targa ci di quattrocentocinquanta sei fedi tipo copertura immatricolati in olanda la violazione è avvenuta il trentuno marzo duemilaventicinque alle i venti e ventuno invia garibaldi al numero civico unici ed è relativa a transito in zona accesso vietato invasi all'articolo sei comma uno a uno a dodici del codice civile per tale violazioni sono previsti quattro punti di decurtazione si richiede la stampa di tale preavviso in lingua italiano tramite aifa stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo motoveicolo, marca Seat Ibiza, targa CD456EF di tipo copertura, immatricolato in olanda. La violazione è avvenuta il 31/03/2025 alle ore 20:21 in via Garibaldi, al numero civico 11, ed è relativa a transito in zona accesso vietato, in base all'articolo 6, comma 1a(1-12) del codice civile. Per tale violazione sono previsti 4 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua italiano tramite wifi, stampa anche la comunicazione. "
+}

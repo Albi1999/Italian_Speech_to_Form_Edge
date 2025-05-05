@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale avvenuta il 18 aprile 2025 alle ore 15:43 in via Giuseppe Mazzini, numero 24. La violazione riguarda il parcheggio in doppia fila di una macchina operatrice con targa ufficiale proveniente dalla Grecia, marca Peugeout 208. L'infrazione rientra nell'articolo 3, comma 1 del codice penale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, e la sanzione prevede la perdita di 10 punti. Si richiede la stampa in lingua italiana tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "18/04/2025",
+            "ora_violazione": "15:43",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via Giuseppe Mazzini",
+            "Civico_1": "24",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "ci di centoventitre abby",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "peggio duecentotto",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "3",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrice targato ci di centoventitre abby di tipo ufficiale proveniente da grecia marca peggio duecentotto la violazione ovvero parcheggia in doppia fila si e verificata in data diciotto aprile duemilaventicinque alle ore quindici e quarantatré invia giuseppe mazzini al numero ventiquattro l'infrazione rientra nell'articolo tre comma uno del codice penale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori motivo mancata contestazione assenza del trasgressori la sanzione prevede la perdita di dieci punti si richiede la stampa in lingua italiano tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato CD123AB di tipo ufficiale proveniente da grecia, marca Peugeot 208. La violazione, ovvero parcheggio in doppia fila, si è verificata in data 18/04/2025 alle ore 15:43 in via Giuseppe Mazzini, al numero 24. L'infrazione rientra nell'articolo 3, comma 1 del codice penale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, motivo mancata contestazione: assenza del trasgressore. La sanzione prevede la perdita di 10 punti. Si richiede la stampa in lingua italiano, tramite bluetooth, stampa anche la comunicazione. "
+}

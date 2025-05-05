@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il 3 aprile 2025 alle ore 2:27 per una violazione riscontrata su un veicolo autovettura marca Fiat Panda, targato 4506 occhi tipo speciali, proveniente dalla Grecia. La violazione è avvenuta in via del Corso, civico d'oggi, per parcheggio in zona a rimozione, violando l'articolo 8 comma 6 del codice penale. L'agente Marco Gentili ha proceduto con contestazione immediata e si prevede la decurtazione di 8 punti dalla patente. La stampa è richiesta in italiano via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "03/04/2025",
+            "ora_violazione": "02:27",
+            "data_verbalizzazione": "03/04/2025",
+            "ora_verbalizzazione": "02:27",
+            "luogo_verbalizzazione": "via del corso",
+            "Strada_1": "via del corso",
+            "Civico_1": "d'oggi",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "grecia",
+                    "targa": "4506 occhi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "fiat panda",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "8",
+                    "comma": "6",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 8,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data tre aprile duemilaventicinque alle ore due ventisette per la violazione riscontrata al veicolo autovettura marca fiat panda targato quattrocentocinquanta sei occhi tipo speciali a proveniente da grecia in particolare in via del corso civico d'oggi è stato accertato parcheggio in zona a rimozione in violazione dell'articolo otto comma sei del codice penale l'agente marco gentili a proceduto con contestazione immediata si prevede la decurtazione di otto punti dalla patente richiedo la stampa in italiano via blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 03/04/2025 alle ore 02:27 per la violazione riscontrata al veicolo autovettura, marca Fiat Panda, targato MN456OP (tipo speciale) proveniente da grecia. In particolare, in via del Corso, civico 12, è stato accertato parcheggio in zona rimozione, in violazione dell'articolo 8, comma 6 del codice penale. L'agente Marco Gentili ha proceduto con contestazione immediata. Si prevede la decurtazione di 8 punti dalla patente. Richiedo la stampa in italiano via bluetooth, non stampare anche la comunicazione. "
+}

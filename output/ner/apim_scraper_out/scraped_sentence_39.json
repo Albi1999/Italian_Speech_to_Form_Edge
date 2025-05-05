@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per una violazione commessa da un veicolo macchina operatrice, marca Fiat Panda, con targa di tipo prova proveniente dalla Spagna. La violazione è avvenuta il 30 marzo 2025 alle ore 07:35, per transito in zona accesso vietato presso i giardini al numero 8, in base all'articolo 157, comma 5 del codice penale. Sono previsti 1 punto di decurtazione. Si richiede la stampa del preavviso tramite Bluetooth in lingua italiana, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "30/03/2025",
+            "ora_violazione": "07:35",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "ABE123CD",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "fiat panda",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo macchina operatrice marca fiat panda targato abe centoventitre ci di di tipo prova proveniente da spagna in data a trenta marzo duemilaventicinque alle ore sette trentacinque e stata rilevata la violazione di transito in zona accesso vietato inviare dei giardini al numero otto in base al l'articolo centocinquantasette con ma cinque del codice penale per tale infrazione sono previsti uno punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina operatrice, marca Fiat Panda, targato AB123CD di tipo prova, proveniente da spagna. In data 30/03/2025 alle ore 07:35, è stata rilevata la violazione di transito in zona accesso vietato in viale dei Giardini, al numero 8, in base all'articolo 157, comma 5 del codice penale.Per tale infrazione sono previsti 1 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua italiano, stampa anche la comunicazione."
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo immatricolato in Olanda, una macchina operatrice con targa di tipo prova, per un'infrazione commessa il 12 aprile 2025 alle ore 11:34 in via della Libertà, civico 3. La violazione riguarda il parcheggio davanti a un passo carraio, ai sensi dell'articolo 157, comma 5 del codice stradale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 7 punti. È richiesta la stampa in italiano via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "12/04/2025",
+            "ora_violazione": "11:34",
+            "data_verbalizzazione": "12/04/2025",
+            "ora_verbalizzazione": "11:34",
+            "luogo_verbalizzazione": "via della libertà, civico 3",
+            "Strada_1": "via della libertà",
+            "Civico_1": "3",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "olanda",
+                    "targa": "icsi ypsilon centoventitre zza",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo peggio duecentotto macchina operatrice targa icsi ypsilon centoventitre zza di tipo prova immatricolati in olanda per infrazione commessa in data dodici aprile duemilaventicinque ore undici e trentaquattro in via della libertà civico tre è stato rilevato parcheggio davanti a passo carabine ai sensi dell'articolo centocinquantasette con ma cinque del codice stradale impossibile effettuare la contestazione immediata motivo assenza del trasgressori la violazione comporta la decurtazione di sette punti richiesta stampa in italiano via about stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Peugeot 208 macchina operatrice, targa XY123ZA di tipo prova, immatricolato in olanda, per infrazione commessa in data 12/04/2025, ore 11:34. In via della Libertà, civico 3, è stato rilevato parcheggio davanti a passo carrabile, ai sensi dell'articolo 157, comma 5, del codice stradale.Impossibile effettuare la contestazione immediata, motivo: assenza del trasgressore. La violazione comporta la decurtazione di 7 punti. Richiesta stampa in italiano via bluetooth, stampa anche la comunicazione."
+}

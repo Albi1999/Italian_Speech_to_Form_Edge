@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un'infrazione di parcheggio in divieto di sosta. Il veicolo coinvolto è una Seat Ibiza con targa di tipo copertura, proveniente dall'Italia. L'infrazione è avvenuta il 14 aprile 2025 alle 18:38 in via Giuseppe Mazzini, numero civico 24. La violazione riguarda l'articolo 6, comma 4 del codice penale, con una decurtazione di 5 punti. La contestazione è immediata e viene effettuata dall'agente Elena Fontana. La stampa del verbale è richiesta tramite WiFi in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "14/04/2025",
+            "ora_violazione": "18:38",
+            "data_verbalizzazione": "14/04/2025",
+            "ora_verbalizzazione": "18:38",
+            "luogo_verbalizzazione": "via giuseppe mazzini numero civico 24",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "24",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italia",
+                    "targa": "guerre trecentoventi uno",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "seat ibiza",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "6",
+                    "comma": "4",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 5,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo autovettura di marca seat ibiza con targa guerre trecentoventi uno e se ti tipo copertura proveniente da italia fatto avvenuto il quattordici aprile duemilaventicinque alle ore diciotto e trentotto posizione via giuseppe mazzini numero civico ventiquattro infrazione parcheggiato in divieto di sosta in violazione dell'articolo sei comma quattro del codice penale decurtazione prevista cinque punti si applica contestazione immediata da parte della gente elena fontana stampa necessaria tramite wife in italiano non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo autovettura di marca Seat Ibiza, con targa QR321ST (tipo copertura), proveniente da italia. Fatto avvenuto il 14/04/2025 alle ore 18:38. Posizione: via Giuseppe Mazzini, numero civico 24. Infrazione: parcheggio in divieto di sosta, in violazione dell'articolo 6, comma 4, del codice penale. Decurtazione prevista: 5 punti. Si applica contestazione immediata da parte dell'agente Elena Fontana. Stampa necessaria tramite wifi in italiano, non stampare anche la comunicazione. "
+}

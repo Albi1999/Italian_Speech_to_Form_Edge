@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da una macchina agricola Mercedes Classe A con targa di tipo copertura, immatricolata in Belgio. La violazione è avvenuta il 17 aprile 2025 alle ore 4:54 in viale dei Giardini, civico 8. La violazione riguarda il parcheggio indietro di sosta, articolo 7 comma 15 del codice penale, e comporta la perdita di 6 punti. La stampa del verbale avviene tramite Bluetooth in lingua italiana, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "17/04/2025",
+            "ora_violazione": "04:54",
+            "data_verbalizzazione": "17/04/2025",
+            "ora_verbalizzazione": "04:54",
+            "luogo_verbalizzazione": "viale dei giardini",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "capelli trecentoventi uno",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina agricola marca mercedes classe a targa capelli trecentoventi uno di tipo copertura immatricolati in belgio in data diciassette aprile duemilaventicinque alle ore quattro e cinquantaquattro in viale dei giardini al civic otto e stata commessa la seguente violazione parcheggio indietro di sosta articolo sette coma quindici del codice penale dalla violazione con segue la perdita di sei punti stampa i modalità blu tutte in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina agricola, marca Mercedes Classe A, targa KL321MN di tipo copertura, immatricolato in belgio. In data 17/04/2025 alle ore 04:54, in viale dei Giardini, al civico 8, è stata commessa la seguente violazione: parcheggio in divieto di sosta (articolo 7, comma 15 del codice penale). Dalla violazione consegue la perdita di 6 punti. Stampa in modalità bluetooth e in lingua italiano, non stampare anche la comunicazione. "
+}

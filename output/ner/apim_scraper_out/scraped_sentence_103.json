@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda l'emissione di un verbale per un veicolo Nissan Amica, un rimorchio immatricolato in Austria con targa di tipo prova. L'infrazione è avvenuta in Corso Vittorio Emanuele, civico 15, per parcheggio in zona a rimozione. Si applica l'articolo 7, comma 15 del codice civile, con la decurtazione di 3 punti. Il verbale è stato contestato immediatamente dall'agente Matteo Gallo. La stampa deve essere effettuata in italiano tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "15",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "jimmy trecentoventi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "nissan amica",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo nissan amica rimorchio immatricolati in austria con targa jimmy trecentoventi uno o più di tipo prova l'infrazione avvenuta in corso vittorio emanuele civico quindici parcheggio in zona a rimozione si applica l'articolo sette ma quindici del codice civile a seguito della violazione verranno decurtati tre punti il verbale è stato contestato immediatamente dall'agente matteo gallo si prega di procedere con la stampa in italiano tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Nissan Micra, rimorchio immatricolato in austria con targa MN321OP di tipo prova. L'infrazione è avvenuta in corso Vittorio Emanuele, civico 15: parcheggio in zona rimozione. Si applica l'articolo 7, comma 15 del codice civile. A seguito della violazione verranno decurtati 3 punti. Il verbale è stato contestato immediatamente dall'agente Matteo Gallo. Si prega di procedere con la stampa in italiano tramite wifi, stampa anche la comunicazione. "
+}

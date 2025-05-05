@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo di tipo macchina operatrice con targa di copertura, marca Mercedes Classe A, proveniente dalla Spagna. L'infrazione è avvenuta il 6 aprile 2025 alle ore 6:35 in via del Corso, numero 12, per parcheggio davanti a passo carabine. La violazione è in base all'articolo 5, comma 3 del codice civile e comporta una decurtazione di 5 punti. Si richiede la stampa in lingua italiana, modalità Bluetooth, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "06/04/2025",
+            "ora_violazione": "06:35",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "cinquecento sessantasette occhi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "5",
+                    "comma": "3",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 5,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice contare dai lunga cappa cinquecento sessantasette occhi di tipo copertura marca mercedes classe a proveniente da spagna l'infrazione nello specifico parcheggio davanti a passo carabine sia e verificata in data sei aprile duemilaventicinque alle ore sei e trentacinque in via del corso al numero dodici articolo cinque con ma tre del codice civile si comunica che dalla violazione conseguirà una decurtazione di cinque punti si richiede la stampa in lingua italiano modalità blu stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa JK567OP di tipo copertura, marca Mercedes Classe A, proveniente da spagna. L'infrazione, nello specifico parcheggio davanti a passo carrabile, si è verificata in data 06/04/2025 alle ore 06:35 in via del Corso, al numero 12 (articolo 5, comma 3 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 5 punti.Si richiede la stampa in lingua italiano, modalità bluetooth, stampa anche la comunicazione."
+}

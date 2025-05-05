@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo rimorchio con targa di tipo prova immatricolato in Grecia. L'infrazione è avvenuta il 25 marzo 2025 alle 08:33 in via del Corso, numero 12, per transito in zona accesso vietato. L'articolo violato è il 6, comma 1a(1-12) del codice penale, con la detrazione di 4 punti dalla patente. La stampa del verbale è richiesta via WiFi, in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "25/03/2025",
+            "ora_violazione": "08:33",
+            "data_verbalizzazione": "25/03/2025",
+            "ora_verbalizzazione": "08:33",
+            "luogo_verbalizzazione": "via del corso, numero 12",
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "UB123XX",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "peugeot 208",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": "veicolo in transito in zona accesso vietato"
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo peggio duecentotto rimorchio con targa ubi centoventitre doppia ex di tipo prova immatricolati in grecia per un'infrazione commessa il venticinque marzo duemilaventicinque alle otto e trentatré l'infrazione è avvenuta in via del corso al numero dodici dove il veicolo era in transito in zona accesso vietato l'articolo violato è il sei con ma prima uno dodici del codice penale verranno tolti quattro punti dalla patente stampa questo verbale via hawaii fai in italiano non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Peugeot 208, rimorchio con targa UV123WX di tipo prova, immatricolato in grecia, per un'infrazione commessa il 25/03/2025 alle 08:33. L'infrazione è avvenuta in via del Corso, al numero 12, dove il veicolo era in transito in zona accesso vietato.  L'articolo violato è il 6, comma 1a(1-12) del codice penale. Verranno tolti 4 punti dalla patente. Stampa questo verbale via wifi in italiano, non stampare anche la comunicazione."
+}

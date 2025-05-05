@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la preparazione di un verbale per una violazione accertata il 23 marzo 2025 alle ore 12:17 in Corso Buenos Aires, civico 98. La violazione coinvolge un veicolo BMW Serie Uno, ciclomotore, con targa ufficiale immatricolata in Slovenia. La violazione contestata è il parcheggio davanti a un passo carrabile, in base all'articolo 158, comma 2 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. Sono previsti 1 punto di decurtazione. Si richiede la stampa in lingua italiana via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "23/03/2025",
+            "ora_violazione": "12:17",
+            "data_verbalizzazione": "23/03/2025",
+            "ora_verbalizzazione": "12:17",
+            "luogo_verbalizzazione": "Corso Buenos Aires, civico 98",
+            "Strada_1": "Corso Buenos Aires",
+            "Civico_1": "98",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "Slovenia",
+                    "targa": "GUERRE987",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "BMW Serie Uno",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il ventitré marzo duemilaventicinque alle ore mezzogiorno e diciassette in corso buenos aires al civico novantotto a carico del veicolo bmw serie uno ciclomotori con targa guerre novecentottanta sette se ti di tipo ufficiale immatricolati slovenia la violazione contestata e parcheggio davanti a passo carabine in base all'articolo centocinquantotto comma due del codice civile non è stato possibile contestare immediatamente motivo assenza del trasgressori sono previsti uno punti di decurtazione si richiede la stampa in lingua italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 23/03/2025 alle ore 12:17 in corso Buenos Aires, al civico 98, a carico del veicolo BMW Serie 1, ciclomotore con targa QR987ST di tipo ufficiale, immatricolato in slovenia. La violazione contestata è parcheggio davanti a passo carrabile, in base all'articolo 158, comma 2 del codice civile.Non è stato possibile contestare immediatamente, motivo: assenza del trasgressore. Sono previsti 1 punti di decurtazione. Si richiede la stampa in lingua italiano via wifi, non stampare anche la comunicazione."
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo ciclomotore con targa speciale proveniente dal Portogallo, marca Fox Ex Vaga in Golf. L'infrazione è avvenuta per parcheggio in divieto di sosta in via del Corso, numero 12, il giorno 11 aprile 2025 alle ore 21:21. La violazione è in base all'articolo 7, comma 5 del codice stradale, con una decurtazione di 2 punti. Si richiede la stampa in lingua italiana tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "11/04/2025",
+            "ora_violazione": "21:21",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "portogallo",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "fox ex vaga in golf",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "7",
+                    "comma": "5",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotori con targa i sette centottantanove chi lo litri di tipo speciale marca fox ex vaga in golf proveniente da portogallo l'infrazione nello specifico parcheggiato in divieto di sosta sia e verificata in data undici aprile duemilaventicinque alle ore ventuno e ventuno in via del corso al numero dodici articolo sette con ma cinque del codice stradale si comunica che dalla violazione conseguirà una decurtazione di due punti si richiede la stampa in lingua italiano modalità blu tu non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotore con targa IJ789KL di tipo speciale, marca Volkswagen Golf, proveniente da portogallo. L'infrazione, nello specifico parcheggio in divieto di sosta, si è verificata in data 11/04/2025 alle ore 21:21 in via del Corso, al numero 12 (articolo 7, comma 5 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 2 punti.Si richiede la stampa in lingua italiano, modalità bluetooth, non stampare anche la comunicazione."
+}

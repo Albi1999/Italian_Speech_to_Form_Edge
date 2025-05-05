@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la notifica di un preavviso per un veicolo Hyundai Venti, macchina operatrice con targa di tipo prova, proveniente dalla Svizzera. L'infrazione è avvenuta il 10 aprile 2025 alle ore 19:04 in via Garibaldi, numero civico 11. La violazione riguarda il transito in zona ad accesso vietato, come previsto dall'articolo 158, comma 2 del codice penale, con una decurtazione di 7 punti. Si richiede la stampa del preavviso in italiano tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "10/04/2025",
+            "ora_violazione": "19:04",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via garibaldi",
+            "Civico_1": "11",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "svizzera",
+                    "targa": "gia cappa cinquecento sessantasette oh più",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "hyundai venti",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo hyundai venti macchina operatrice targa gia cappa cinquecento sessantasette oh più di tipo prova proveniente da svizzera il giorno dieci aprile duemilaventicinque alle ore diciannove quattro invia garibaldi al numero civico undici e stata commessa l'infrazione di transito in zona accesso vietato come previsto dall'articolo centocinquantotto coma due del codice penale per questa violazione sono previsti sette punti di decurtazione chiedo la stampa del preavviso in italiano vi hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Hyundai i20 macchina operatrice, targa JK567OP di tipo prova, proveniente da svizzera. Il giorno 10/04/2025, alle ore 19:04, in via Garibaldi, al numero civico 11, è stata commessa l'infrazione di transito in zona accesso vietato, come previsto dall'articolo 158, comma 2, del codice penale. Per questa violazione sono previsti 7 punti di decurtazione. Chiedo la stampa del preavviso in italiano via wifi, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo Audi con targa ufficiale registrato in Portogallo. La violazione è avvenuta il 18 aprile 2025 alle 3:29 in Corso Buenos Aires, civico 98, per parcheggio in zona a rimozione. La violazione riguarda l'articolo 8, comma 6 del codice stradale e comporta una decurtazione di 6 punti. La stampa dell'avviso è richiesta via WiFi in italiano, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "18/04/2025",
+            "ora_violazione": "03:29",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "98",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "portogallo",
+                    "targa": "icsi ypsilon sei centocinquantaquattro zaha",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "audi",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "8",
+                    "comma": "6",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo audi a tre ciclomotori targato icsi ypsilon sei centocinquantaquattro zaha con targa ufficiale registrato in portogallo per un fatto accaduto il diciotto aprile duemilaventicinque alle tre ventinove il veicolo si trovava in corso buenos aires al civico novantotto dove è stato riscontrato parcheggio in zona a rimozione in base all'articolo otto comma sei del codice stradale questa infrazione comporta una decurtazione di sei punti genera alla stampa dell'avviso via hawaii fai in italiano stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Audi A3, ciclomotore, targato XY654ZA con targa ufficiale, registrato in portogallo,  per un fatto accaduto il 18/04/2025 alle 03:29. Il veicolo si trovava in corso Buenos Aires, al civico 98, dove è stato riscontrato parcheggio in zona rimozione, in base all'articolo 8, comma 6, del codice stradale. Questa infrazione comporta una decurtazione di 6 punti.  Genera la stampa dell'avviso via wifi in italiano, stampa anche la comunicazione."
+}

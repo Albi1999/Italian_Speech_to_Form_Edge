@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 26 marzo 2025 alle 17:43 per una macchina agricola con targa copertura immatricolata in Austria. L'infrazione è stata rilevata in Piazza Venezia, civico 1, per violazione del codice penale, articolo 157, comma 5, riguardante il parcheggio in doppia fila. La contestazione immediata non è stata possibile per l'assenza del trasgressore, con 3 punti da decurtare. Il veicolo è un per corsa di colore rosso, numero di telaio 62231292309549264, massa 3488 kg. La stampa del preavviso è richiesta tramite Bluetooth in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "26/03/2025",
+            "ora_violazione": "17:43",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "piazza venezia",
+            "Civico_1": "1",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "austria",
+                    "targa": "icsi non sei centocinquantaquattro",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": "rosso",
+                    "telaio": "62231292309549264",
+                    "massa": "3488 kg",
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventisei marzo duemilaventicinque alle ore diciassette quarantatré è stato notificato un preavviso per un macchina agricola targato icsi non sei centocinquantaquattro già con targa copertura immatricolati in austria l'infrazione e stata rilevata in piazza venezia al civico uno con violazione del codice penale articolo centocinquantasette ma cinque in particolare si riscontrato un parcheggia in doppia fila non è stato possibile contestare per l'assenza del trasgressori è per questo è indicato il motivo di mancata contestazione da decurtare ci sono tre punti il veicolo è uno per corsa di colore rosso con numero di telaio sei due due tre uno due nove due tre zero nove cinque quattro nove due sei quattro e massa tremilaquattrocento ottantotto chili necessita alla stampa del preavviso tramite brutta in italiano non stampare anche la comunicazione",
+    "original_sentence": "In data 26/03/2025, alle ore 17:43, è stato notificato un preavviso per un macchina agricola targato XY654ZA con targa copertura, immatricolato in austria. L'infrazione è stata rilevata in piazza Venezia, al civico 1, con violazione del codice penale, articolo 157, comma 5, in particolare si è riscontrato un parcheggio in doppia fila Non è stato possibile contestare per l'assenza del trasgressore, e per questo è indicato il motivo di mancata contestazione. Da decurtare ci sono 3 punti. Il veicolo è un Opel Corsa di colore rosso, con numero di telaio 62231292309549264 e massa 3488 kg. Necessito la stampa del preavviso tramite bluetooth, in italiano, non stampare anche la comunicazione. "
+}

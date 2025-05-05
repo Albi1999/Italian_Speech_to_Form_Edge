@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 6 aprile 2025 alle 7:26 per una violazione del codice stradale. La violazione riguarda un parcheggio in divieto di sosta, accertata in via dei Giardini. Il veicolo coinvolto è una macchina operatrice con targa copertura, immatricolata in Croazia. Non è stata possibile una contestazione immediata a causa dell'assenza del trasgressore. Sono previsti cinque punti da decurtare e non si applica alcuna sanzione accessoria. La stampa del verbale avviene tramite Bluetooth in italiano, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "06/04/2025",
+            "ora_violazione": "07:26",
+            "data_verbalizzazione": "06/04/2025",
+            "ora_verbalizzazione": "07:26",
+            "luogo_verbalizzazione": "via dei Giardini",
+            "Strada_1": "via dei Giardini",
+            "Civico_1": "con",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "AB789CD",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "3",
+                    "comma": "1",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 5,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle sette ventisei del sei aprile duemilaventicinque storie di gendo un verbale per il veicolo macchina operatrice targato ab sette centottantanove ci di con targa copertura immatricolati in croazia infrazione e stata accertata inviare dei giardini al civico con violazione del codice stradale articolo tre con ma uno per parcheggio in divieto di sosta sono previsti cinque punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite blu in italiano stampa anche la comunicativa",
+    "original_sentence": "Alle 07:26 del 06/04/2025, sto redigendo un verbale per il veicolo macchina operatrice targato AB789CD con targa copertura, immatricolato in croaziaL'infrazione è stata accertata in viale dei Giardini, al civico 8, con violazione del codice stradale, articolo 3,comma 1 per parcheggio in divieto di sosta Sono previsti 5 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in italiano, stampa anche la comunicazione."
+}

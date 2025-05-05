@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il 25 marzo 2025 alle ore 13:05 per un veicolo ciclomotore di marca Opel Corsa con targa ufficiale registrata in Austria. L'infrazione è avvenuta in via del Corso, numero 12, per transito in zona accesso vietato, secondo l'articolo 158, comma 2 del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti 8 punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua italiana, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "25/03/2025",
+            "ora_violazione": "13:05",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "austria",
+                    "targa": "quattrocentocinquanta sei ci",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "opel corsa",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 8,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data venticinque marzo duemilaventicinque alle ore tredici e cinque è stato emesso un preavviso di violazione per il veicolo ciclomotori di marca opel corsa con targa quattrocentocinquanta sei ci di tipo ufficiale registrato in austria l'infrazione e avvenuta in via del corso al numero dodici e consiste in transito in zona accesso vietato come previsto dall'articolo centocinquantotto comma due del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti otto punti di decurtazione si prega di stampare la presente notifica tramite blu in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 25/03/2025, alle ore 13:05, è stato emesso un preavviso di violazione per il veicolo ciclomotore di marca Opel Corsa, con targa AB456CD (tipo ufficiale), registrato in austria. L'infrazione è avvenuta in via del Corso, al numero 12, e consiste in transito in zona accesso vietato, come previsto dall'articolo 158, comma 2 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 8 punti di decurtazione.  Si prega di stampare la presente notifica tramite bluetooth, in lingua italiano, stampa anche la comunicazione."
+}

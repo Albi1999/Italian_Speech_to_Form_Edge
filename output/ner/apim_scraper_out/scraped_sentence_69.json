@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il 24 marzo 2025 alle 8:34 è stata emessa una notifica di infrazione per un veicolo Mercedes Classe A, immatricolato in Italia con targa BEH4506CD di tipo prova. L'infrazione è avvenuta in via del Corso, civico 12, violando il codice stradale, articolo 6, comma 1a(1-12), riguardante il parcheggio su strisce pedonali. Sono stati decurtati 7 punti e applicata una sanzione accessoria. La stampa è richiesta tramite Bluetooth in italiano, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "24/03/2025",
+            "ora_violazione": "08:34",
+            "data_verbalizzazione": "24/03/2025",
+            "ora_verbalizzazione": "08:34",
+            "luogo_verbalizzazione": "via del corso, civico 12",
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "italia",
+                    "targa": "BEH4506CD",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": "con sanzione accessoria"
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventiquattro marzo duemilaventicinque alle otto e trentaquattro sto mettendo una notifica di infrazione per il veicolo mercedes classe a molto veicolo immatricolati in italia con targa beh quattrocentocinquanta sei ci di di tipo prova l'infrazione si e verificata presso via del corso al civico dodici violando il codice stradale in particolare l'articolo sei con ma prima uno dodici riguardante il parcheggio su strisce pedonali devo decurtare sette punti applico una sanzione accessoria in base alle circostanze non sono necessarie ulteriori dettagli sul motoveicoli stampa me lo con il blu tutti in italiano stampa anche la comunicazione",
+    "original_sentence": "Il 24/03/2025, alle ore 08:34, sto emettendo una notifica di infrazione per il veicolo Mercedes Classe A, motoveicolo immatricolato in italia con targa AB456CD di tipo prova. L'infrazione si è verificata presso via del Corso, al civico 12, violando il codice stradale, in particolare l'articolo 6, comma 1a(1-12) riguardante il parcheggio su strisce pedonali.Devo decurtare 7 punti. Applico una sanzione accessoria in base alle circostanze. Non sono necessari ulteriori dettagli sul motoveicolo. Stampamelo con il bluetooth in italiano, stampa anche la comunicazione."
+}

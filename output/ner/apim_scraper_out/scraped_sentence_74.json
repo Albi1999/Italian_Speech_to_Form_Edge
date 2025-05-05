@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la notifica di un preavviso per un veicolo rimorchio con targa ufficiale proveniente dall'Olanda. L'infrazione è avvenuta il 1° aprile 2025 alle 4:30 in viale dei giardini, per parcheggio in divieto di sosta secondo l'articolo 158, comma 2 del codice penale. Sono previsti sei punti di decurtazione. La stampa del preavviso è richiesta in italiano via WiFi, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "01/04/2025",
+            "ora_violazione": "04:30",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "stato",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "olanda",
+                    "targa": "ho vi sei centocinquantaquattro doppia ex",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "peugeot 208",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo peggio duecentotto rimorchio targa ho vi sei centocinquantaquattro doppia ex di tipo ufficiale proveniente da olanda il giorno primo aprile duemilaventicinque alle ore quattro e mezzo in viale dei giardini al numero civico stata commessa l'infrazione di parcheggiato in divieto di sosta come previsto dall'articolo centocinquantotto comma due del codice penale per questa violazione sono previsti sei punti di decurtazione chiedo stampa del preavviso in italiano via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Peugeot 208 rimorchio, targa UV654WX di tipo ufficiale, proveniente da olanda. Il giorno 01/04/2025, alle ore 04:30, in viale dei Giardini, al numero civico 8, è stata commessa l'infrazione di parcheggio in divieto di sosta, come previsto dall'articolo 158, comma 2, del codice penale.Per questa violazione sono previsti 6 punti di decurtazione. Chiedo la stampa del preavviso in italiano via wifi, stampa anche la comunicazione."
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto l'8 aprile 2025 alle ore 7:18 per una violazione riscontrata su un veicolo rimorchio Ford Fiesta con targa speciale proveniente dall'Italia. La violazione è avvenuta in via della Repubblica, civico 20, per transito in zona ad accesso vietato, violando l'articolo 6, comma 4 del codice civile. La contestazione non è stata immediata a causa dell'assenza del conducente, con una decurtazione di 1 punto dalla patente prevista. La stampa è richiesta in italiano via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "08/04/2025",
+            "ora_violazione": "07:18",
+            "data_verbalizzazione": "08/04/2025",
+            "ora_verbalizzazione": "07:18",
+            "luogo_verbalizzazione": "via della repubblica, civico 20",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "20",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "italia",
+                    "targa": "ubi trecentoventi uno doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "ford fiesta",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "6",
+                    "comma": "4",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data otto aprile duemilaventicinque alle ore sette diciotto per la violazione riscontrata al veicolo rimorchio marca ford fiesta targato ubi trecentoventi uno doppia ex tipo speciale proveniente da italia in particolare in via della repubblica civico venti è stato accertato transito in zona accesso vietato in violazione dell'articolo sei con ma quattro del codice civile data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di uno punti dalla patente richiedo la stampa in italiano via about non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 08/04/2025 alle ore 07:18 per la violazione riscontrata al veicolo rimorchio, marca Ford Fiesta, targato UV321WX (tipo speciale) proveniente da italia. In particolare, in via della Repubblica, civico 20, è stato accertato transito in zona accesso vietato, in violazione dell'articolo 6, comma 4 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 1 punti dalla patente. Richiedo la stampa in italiano via bluetooth, non stampare anche la comunicazione."
+}

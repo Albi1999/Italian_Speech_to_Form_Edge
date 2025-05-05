@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo marca Fox Vaga in Golf, targato UBI3201EX, di tipo ufficiale, proveniente dalla Spagna. La violazione è stata rilevata il 26 marzo 2025 alle ore 14:47 per parcheggio in zona a rimozione in via Etna, numero 45, in base all'articolo 7, comma 15 del codice penale. Sono previsti 7 punti di decurtazione. Si richiede la stampa del preavviso tramite Bluetooth in lingua italiana, con inclusione della comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "26/03/2025",
+            "ora_violazione": "14:47",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via etna",
+            "Civico_1": "45",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "spagna",
+                    "targa": "ubi trecentoventi uno doppia ex",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fox vaga in golf",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo molto veicolo marca fox vaga in golf targato ubi trecentoventi uno doppia ex di tipo ufficiale proveniente da spagna in data ventisei marzo duemilaventicinque alle ore quattordici e quarantasette stata rilevata la violazione di parcheggio in zona a rimozione in via etna al numero quarantacinque in base all'articolo sette comma quindici del codice penale per tale infrazione sono previsti sette punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua italiano stampa anche la comunicativa",
+    "original_sentence": "Emissione di preavviso per il veicolo motoveicolo, marca Volkswagen Golf, targato UV321WX di tipo ufficiale, proveniente da spagna. In data 26/03/2025 alle ore 14:47, è stata rilevata la violazione di parcheggio in zona rimozione in via Etnea, al numero 45, in base all'articolo 7, comma 15 del codice penale.Per tale infrazione sono previsti 7 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua italiano, stampa anche la comunicazione."
+}

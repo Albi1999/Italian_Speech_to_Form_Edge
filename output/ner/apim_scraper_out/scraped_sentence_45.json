@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo di tipo macchina agricola, marca O per Corsa, targato Guerre 987, di tipo prova, proveniente dalla Francia. La violazione è avvenuta il 28 marzo 2025 alle ore 2:37, per parcheggio in doppia fila in via della Repubblica, numero 20, in base all'articolo 158, comma 2 del codice civile. Sono previsti 1 punto di decurtazione. Si richiede la stampa del preavviso tramite WiFi in lingua italiana, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "28/03/2025",
+            "ora_violazione": "02:37",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via della Repubblica",
+            "Civico_1": "20",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "Francia",
+                    "targa": "Guerre 987",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "O per Corsa",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo macchina agricola marca o per corsa targato guerre novecentottanta sette se ti di tipo prova proveniente da francia in data ventotto marzo duemilaventicinque alle ore due trentasette e stata rilevata alla violazione di parcheggia in doppia fila in via della repubblica al numero venti in base all'articolo centocinquantotto comma due del codice civile per tale infrazione sono previsti uno punti di decurtazione si richiede la stampa del preavviso tramite wifi in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina agricola, marca Opel Corsa, targato QR987ST di tipo prova, proveniente da francia. In data 28/03/2025 alle ore 02:37, è stata rilevata la violazione di parcheggio in doppia fila in via della Repubblica, al numero 20, in base all'articolo 158, comma 2 del codice civile.Per tale infrazione sono previsti 1 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua italiano, non stampare anche la comunicazione."
+}

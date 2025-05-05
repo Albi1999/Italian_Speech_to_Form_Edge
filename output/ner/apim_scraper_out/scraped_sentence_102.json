@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un'infrazione di parcheggio in doppia fila. Il veicolo coinvolto è un'autovettura con targa ufficiale proveniente dall'Olanda, marca non specificata. La violazione è avvenuta il 17 aprile 2025 alle 21:54 in Corso Vittorio Emanuele, numero civico 15. L'infrazione rientra nell'articolo 3, comma 1 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 2 punti. Si richiede la stampa in lingua italiana tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "17/04/2025",
+            "ora_violazione": "21:54",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "15",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "olanda",
+                    "targa": "guerra novecento ottantasette a se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "chi ha canto",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "3",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo autovettura targato guerra novecento ottantasette a se ti di tipo ufficiali provenienti da olanda marca chi ha canto la violazione ovvero parcheggia in doppia fila sia verificata in data diciassette aprile duemilaventicinque alle ore ventuno e cinquantaquattro in corso vittorio emanuele al numero quindici l'infrazione rientra nei l'articolo tre comma uno del codice civile non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori motivo mancata contestazione assenza del trasgressori la sanzioni prevede la perdita di due punti si richiede la stampa in lingua italiano tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato QR987ST di tipo ufficiale proveniente da olanda, marca Kia Picanto. La violazione, ovvero parcheggio in doppia fila, si è verificata in data 17/04/2025 alle ore 21:54 in corso Vittorio Emanuele, al numero 15. L'infrazione rientra nell'articolo 3, comma 1 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, motivo mancata contestazione: assenza del trasgressore. La sanzione prevede la perdita di 2 punti. Si richiede la stampa in lingua italiano, tramite bluetooth, stampa anche la comunicazione. "
+}

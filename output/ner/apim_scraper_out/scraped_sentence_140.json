@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il 20 aprile 2025 alle ore 15:55 per una violazione riscontrata su un ciclomotore marca Opel Corsa, targato ICSI Y123, con targa di copertura proveniente dall'Austria. La violazione è avvenuta in Corso Vittorio Emanuele, civico 15, per parcheggio in zona a rimozione, violando l'articolo 3, comma 1 del codice penale. La contestazione non è stata immediata a causa dell'assenza del conducente. Sono previsti 9 punti di decurtazione dalla patente. La stampa è richiesta in italiano via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "data_verbalizzazione": "20/04/2025",
+            "ora_verbalizzazione": "15:55",
+            "luogo_verbalizzazione": "corso vittorio emanuele",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "15",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "austria",
+                    "targa": "ICSI Y123",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "opel corsa",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "3",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 9,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data venti aprile duemilaventicinque alle ore quindici e cinquantacinque per la violazione riscontrata al veicolo ciclomotori marca o il corsa targato icsi ypsilon centoventitre zza stivo copertura proveniente da austria in particolare in corso vittorio emanuele civico quindici è stato accertato parcheggio in zona a rimozione in violazione dell'articolo tre con ma uno del codice penale data l'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di nove punti dalla patente richiedo la stampa in italiano via blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 20/04/2025 alle ore 15:55 per la violazione riscontrata al veicolo ciclomotore, marca Opel Corsa, targato XY123ZA (tipo copertura) proveniente da austria. In particolare, in corso Vittorio Emanuele, civico 15, è stato accertato parcheggio in zona rimozione, in violazione dell'articolo 3, comma 1 del codice penale. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 9 punti dalla patente. Richiedo la stampa in italiano via bluetooth, non stampare anche la comunicazione. "
+}

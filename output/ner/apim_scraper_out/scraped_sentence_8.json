@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la generazione di un verbale per un'infrazione commessa da un veicolo Seat Ibiza, classificato come ciclomotore, con targa speciale immatricolata in Portogallo. L'infrazione è avvenuta il 27 marzo 2025 alle 21:17 in via Giuseppe Mazzini, numero 24, dove il veicolo era parcheggiato in una zona di rimozione. L'articolo violato è il 158, comma 2 del codice penale, e verranno tolti 8 punti dalla patente. Il verbale sarà stampato via Bluetooth, in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "27/03/2025",
+            "ora_violazione": "21:17",
+            "data_verbalizzazione": "27/03/2025",
+            "ora_verbalizzazione": "21:17",
+            "luogo_verbalizzazione": "via Giuseppe Mazzini, numero 24",
+            "Strada_1": "via Giuseppe Mazzini",
+            "Civico_1": "24",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "portogallo",
+                    "targa": "ubi trecentoventi uno doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "seat ibiza",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": "veicolo in parcheggio in zona a rimozione"
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 8,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo seat ibiza ciclomotori con targa ubi trecentoventi uno doppia ex di tipo speciale immatricolati in portogallo per un'infrazione commessa il ventisette marzo duemilaventicinque alle ventuno e diciassette l'infrazione e avvenuta in via giuseppe mazzini al numero ventiquattro dov'è il veicolo era in parcheggio in zona a rimozione l'articolo violato è il centocinquantotto comma due del codice penale verranno tolti otto punti dalla patente stampa questo verbale via blu tutti in italiano non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Seat Ibiza, ciclomotore con targa UV321WX di tipo speciale, immatricolato in portogallo, per un'infrazione commessa il 27/03/2025 alle 21:17. L'infrazione è avvenuta in via Giuseppe Mazzini, al numero 24, dove il veicolo era in parcheggio in zona rimozione.  L'articolo violato è il 158, comma 2 del codice penale. Verranno tolti 8 punti dalla patente. Stampa questo verbale via bluetooth in italiano, non stampare anche la comunicazione."
+}

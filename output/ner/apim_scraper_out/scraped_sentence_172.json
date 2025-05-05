@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 31 marzo 2025 alle 24:53 per una macchina agricola con targa prova immatricolata in Slovenia. L'infrazione è stata rilevata in via Roma, civico 77, per violazione del codice stradale, articolo 6, comma 1a(1-12), riguardante un parcheggio in zona a rimozione. La contestazione immediata non è stata possibile per l'assenza del trasgressore, con 4 punti da decurtare. La stampa del preavviso è richiesta tramite Bluetooth, in italiano, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "31/03/2025",
+            "ora_violazione": "24:53",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "slovenia",
+                    "targa": "cappa cinquecento sessantasette ho qui",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data trentuno marzo duemilaventicinque alle ore ventiquattro e cinquantatré è stato notificato un preavviso per un macchina agricola targato cappa cinquecento sessantasette ho qui con targa prova immatricolati slovenia l'infrazione e stata rilevata in via roma al civico settantasette con violazione del codice stradale articolo sei comma uno a uno a dodici in particolare si e riscontrato un parcheggio in zona a rimozione non è stato possibile contestare per l'assenza del trasgressori è per questo è indicato il motivo di mancata contestazione da decurtare ci sono quattro punti ulteriori dettagli sul veicolo non sono necessari necessita la stampa del preavviso tramite blu tutte in italiano stampa anche la comunicazione",
+    "original_sentence": "In data 31/03/2025, alle ore 00:53, è stato notificato un preavviso per un macchina agricola targato JK567OP con targa prova, immatricolato in slovenia. L'infrazione è stata rilevata in via Roma, al civico 77, con violazione del codice stradale, articolo 6, comma 1a(1-12), in particolare si è riscontrato un parcheggio in zona rimozione Non è stato possibile contestare per l'assenza del trasgressore, e per questo è indicato il motivo di mancata contestazione. Da decurtare ci sono 4 punti. Ulteriori dettagli sul veicolo non sono necessari. Necessito la stampa del preavviso tramite bluetooth, in italiano, stampa anche la comunicazione. "
+}

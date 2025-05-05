@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un'infrazione accertata il 31 marzo 2025 alle 22:14. Il veicolo coinvolto è una macchina agricola con targa speciale immatricolata in Francia. L'infrazione è avvenuta in via Garibaldi, civico 100, per parcheggio in zona a rimozione, violando il codice civile, articolo 7, comma 5. Sono previsti cinque punti da decurtare. La contestazione immediata è stata effettuata dall'agente Francesco Rizzo e il verbale è stato redatto sul posto. Non è prevista alcuna sanzione accessoria. La stampa del verbale è stata effettuata tramite Bluetooth in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "31/03/2025",
+            "ora_violazione": "22:14",
+            "data_verbalizzazione": "31/03/2025",
+            "ora_verbalizzazione": "22:14",
+            "luogo_verbalizzazione": "via garibaldi",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "100",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "ovo sei centocinquantaquattro duce wings",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "7",
+                    "comma": "5",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 5,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "a li ventidue quattordici del trentuno marzo duemilaventicinque storie di gendo un verbale per il veicolo macchina agricola targato ovo sei centocinquantaquattro duce wings con targa speciale immatricolati in francia l'infrazione è stata accertata in via garibaldi al civico conti con violazione del codice civile articolo sette ma cinque per parcheggio in zona a rimozione sono previsti cinque punti da decurtare contestazione immediata effettuata dalla gente francesco rizzo il verbale è stato redatto sul posto in via garibaldi non passo applicare alcuna sanzioni accessoria stampa tramite blu blackout in italiano non stampare anche la comunicazione",
+    "original_sentence": "Alle 22:14 del 31/03/2025, sto redigendo un verbale per il veicolo macchina agricola targato UV654WX con targa speciale, immatricolato in franciaL'infrazione è stata accertata in via Garibaldi, al civico 11, con violazione del codice civile, articolo 7,comma 5 per parcheggio in zona rimozione Sono previsti 5 punti da decurtare. Contestazione immediata effettuata dall'agente Francesco Rizzo, il verbale è stato redatto sul posto in via Garibaldi. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in italiano, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 2 aprile 2025 alle 07:50 per un veicolo Audi A3 immatricolato in Olanda con targa speciale kazaka. L'infrazione è avvenuta in viale dei Giardini, con violazione del codice penale articolo 185 comma 2, per parcheggio davanti a passo carabine. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 3 punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è in italiano tramite WiFi e non include la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "02/04/2025",
+            "ora_violazione": "07:50",
+            "data_verbalizzazione": "02/04/2025",
+            "ora_verbalizzazione": "07:50",
+            "luogo_verbalizzazione": "viale dei giardini",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": null,
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "olanda",
+                    "targa": "4506CUPI",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "audi a3",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "185",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno due aprile duemilaventicinque alle otto meno dieci è stato redatto un verbale per il veicolo audi a tre molto veicolo immatricolati in olanda con targa kazaka quattrocentocinquanta sei cupi di tipo speciale l'infrazione e avvenuta in viale dei giardini al civico e stata riscontrata una violazione del codice penale articolo centottantacinque comma due ovvero parcheggio davanti a passo carabine non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti tre punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in italiano tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 02/04/2025, alle ore 07:50, è stato redatto un verbale per il veicolo Audi A3, motoveicolo immatricolato in olanda con targa ZA456QP di tipo speciale.L'infrazione è avvenuta in viale dei Giardini, al civico 8. È stata riscontrata una violazione del codice penale, articolo 185, comma 2 ovvero parcheggio davanti a passo carrabileNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 3 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in italiano tramite wifi, non stampare anche la comunicazione."
+}

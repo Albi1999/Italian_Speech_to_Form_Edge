@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il 26 marzo 2025 alle ore 21:43 per una violazione riscontrata su un motoveicolo marca \"Un Dai Venti\" targato \"GIA789\", tipo copertura, proveniente dalla Croazia. La violazione è avvenuta in Corso Buenos Aires, civico 98, per parcheggio in doppia fila, violando l'articolo 7, comma 15 del codice civile. L'agente Alessandro Moretti ha proceduto con contestazione immediata e si prevede la decurtazione di 2 punti dalla patente. La stampa è richiesta in italiano via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "26/03/2025",
+            "ora_violazione": "21:43",
+            "data_verbalizzazione": "26/03/2025",
+            "ora_verbalizzazione": "21:43",
+            "luogo_verbalizzazione": "Corso Buenos Aires, civico 98",
+            "Strada_1": "Corso Buenos Aires",
+            "Civico_1": "98",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "Croazia",
+                    "targa": "GIA789",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "Un Dai Venti",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data ventisei marzo duemilaventicinque alle ore ventuno e quarantatré per la violazione riscontrata al veicolo molto veicolo marca un dai venti targato gia sette centottantanove tipo copertura proveniente da croazia in particolare in corso buenos aires civico novantotto è stato accertato parcheggia in doppia fila in violazione dell'articolo sette con ma quindici del codice civile l'agente alessandro moretti ha proceduto con contestazione immediata si prevede la decurtazione di due punti dalla patente richiedo la stampa in italiano via about non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 26/03/2025 alle ore 21:43 per la violazione riscontrata al veicolo motoveicolo, marca Hyundai i20, targato GH789IJ (tipo copertura) proveniente da croazia. In particolare, in corso Buenos Aires, civico 98, è stato accertato parcheggio in doppia fila, in violazione dell'articolo 7, comma 15 del codice civile. L'agente Alessandro Moretti ha proceduto con contestazione immediata. Si prevede la decurtazione di 2 punti dalla patente. Richiedo la stampa in italiano via bluetooth, non stampare anche la comunicazione."
+}

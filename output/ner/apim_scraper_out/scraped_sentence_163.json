@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 29 marzo 2025 alle ore 24:00 per una violazione avvenuta in Corso Buenos Aires, civico 98. La violazione riguarda il codice civile, articolo 6, comma 1a(1-12), per parcheggio su strisce pedonali. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 8 punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è in italiano tramite Bluetooth e non include la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "29/03/2025",
+            "ora_violazione": "24:00",
+            "data_verbalizzazione": "29/03/2025",
+            "ora_verbalizzazione": "24:00",
+            "luogo_verbalizzazione": "corso buenos aires",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "98",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": null,
+                    "targa": "987wwx",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 8,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventinove marzo duemilaventicinque alle ore ventiquattro ed oggi è stato redatte un verbale per il veicolo d'accesso and ero ciclomotori immatricolati invece contenga ho novecentottanta sette doppia v w x di tipo copertura l'inflazione è avvenuta in corso buenos aires hai civico novantotto e stata riscontrata una violazione del codice civile articolo sei come a uno a uno a dodici io vero parcheggio su strisce pedonali non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti otto punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in italiano tramite blu tutta non stampa è anche la comunicazione",
+    "original_sentence": "Il giorno 29/03/2025, alle ore 00:12, è stato redatto un verbale per il veicolo Dacia Sandero, ciclomotore immatricolato in grecia con targa UV987WX di tipo copertura. L'infrazione è avvenuta in corso Buenos Aires, al civico 98. È stata riscontrata una violazione del codice civile, articolo 6, comma 1a(1-12) ovvero parcheggio su strisce pedonaliNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 8 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in italiano tramite bluetooth, non stampare anche la comunicazione. "
+}

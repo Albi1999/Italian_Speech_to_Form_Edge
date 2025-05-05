@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo macchina operatrice con targa prova registrato in Grecia. L'infrazione è avvenuta il 31 marzo 2025 alle 14:14 in via Garibaldi, civico 11, per parcheggio in doppia fila. La violazione è in base all'articolo 185, comma 2 del codice civile e comporta la decurtazione di 1 punto. La stampa dell'avviso è prevista via Bluetooth in italiano e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "31/03/2025",
+            "ora_violazione": "14:14",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via Garibaldi",
+            "Civico_1": "11",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "Grecia",
+                    "targa": "EM3201",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "185",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emette un avviso di violazione quindi si tratta di un preavviso per il veicolo un dei venti mattina operatrice targato e me ne trecentoventi uno qui con targa prova registrato in grecia per un fatto accaduto il trentuno marzo duemilaventicinque alle un ehi quattordici il veicolo si trovava in via garibaldi al civico undici dove è stato riscontrato parcheggia in doppia fila in base alla articolo centottantacinque coma due del codice civile questa infrazione comporta una decurtazione di un punti genere alla stampa dell'avviso via piu tutti in italiano stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Hyundai i20, macchina operatrice, targato MN321OP con targa prova, registrato in grecia, per un fatto accaduto il 31/03/2025 alle 01:14. Il veicolo si trovava in via Garibaldi, al civico 11, dove è stato riscontrato parcheggio in doppia fila, in base all'articolo 185, comma 2, del codice civile. Questa infrazione comporta una decurtazione di 1 punti. Genera la stampa dell'avviso via bluetooth in italiano, stampa anche la comunicazione. "
+}

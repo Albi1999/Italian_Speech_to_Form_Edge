@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione rilevata il 23 marzo 2025 alle 08:02. Il veicolo coinvolto è un motoveicolo marca \"O il Corsa\" con targa \"Capelli 320 Yemen\", di tipo speciale, proveniente dalla Grecia. L'infrazione è avvenuta in via Roma, civico 77, violando l'articolo 14, comma 1 del codice penale. L'agente Silvia Neri ha effettuato la contestazione immediata, che comporta la perdita di un punto. Si richiede la stampa del verbale in italiano tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "23/03/2025",
+            "ora_violazione": "08:02",
+            "data_verbalizzazione": "23/03/2025",
+            "ora_verbalizzazione": "08:02",
+            "luogo_verbalizzazione": "via roma, civico 77",
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "grecia",
+                    "targa": "capelli 320 yemen",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "o il corsa",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "14",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per i veicolo motoveicoli marca o il corsa targato capelli trecentoventi uno yemen e di tipo speciale proveniente da grecia l'infrazione e stata rilevata il ventitré marzo duemilaventicinque alle otto e due i veicolo si trovava in via roma al civico settantasette in parcheggio davanti a passo carabine violando l'articolo quattordici ma uno del codice penale l'agente silvia neri a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di un punti richiedo la stampa del verbale in italiano tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo motoveicolo, marca Opel Corsa, targato KL321MN (di tipo speciale), proveniente da grecia. L'infrazione è stata rilevata il 23/03/2025 alle ore 08:02. Il veicolo si trovava in via Roma, al civico 77, in parcheggio davanti a passo carrabile, violando l'articolo 14, comma 1, del codice penale. L'agente Silvia Neri ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 1 punti. Richiedo la stampa del verbale in italiano tramite bluetooth, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un motoveicolo con targa speciale, immatricolato in Nolan. La violazione è avvenuta il 25 marzo 2025 alle ore 22:18 in via Garibaldi, civico 11, per parcheggio in doppia fila, violando l'articolo 158, comma 2 del codice civile. La violazione comporta la perdita di 3 punti. La stampa è richiesta in modalità WiFi, lingua italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "25/03/2025",
+            "ora_violazione": "22:18",
+            "data_verbalizzazione": "25/03/2025",
+            "ora_verbalizzazione": "22:18",
+            "luogo_verbalizzazione": "via garibaldi, civico 11",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "11",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "nolan",
+                    "targa": "cappelle trecentoventi uno",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "un dai venti",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per motoveicoli marca un dai venti targa cappelle trecentoventi uno e me ne di tipo speciale immatricolati nolan da in data venticinque marzo duemilaventicinque alle ore ventidue diciotto invia garibaldi al civico undici e stata commessa la seguente violazione parcheggia in doppia fila di articolo centocinquantotto con ma due del codice civile dalla violazione con segue la perdita di tre punti stampa in modalita hawaii fai lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per motoveicolo, marca Hyundai i20, targa KL321MN di tipo speciale, immatricolato in olanda. In data 25/03/2025 alle ore 22:18, in via Garibaldi, al civico 11, è stata commessa la seguente violazione: parcheggio in doppia fila (articolo 158, comma 2 del codice civile). Dalla violazione consegue la perdita di 3 punti. Stampa in modalità wifi e in lingua italiano, non stampare anche la comunicazione. "
+}

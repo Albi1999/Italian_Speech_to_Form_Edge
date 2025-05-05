@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la preparazione di un verbale per una violazione accertata il 22 marzo 2025 alle ore 11:20 in via della Repubblica, civico 20. La violazione riguarda un veicolo Dai venti autovettura con targa di tipo prova immatricolato in Svizzera, per parcheggio in zona a rimozione secondo l'articolo 185, comma 2 del codice stradale. La contestazione è stata immediata da parte dell'agente Carlo Bruni, con una decurtazione di 1 punto. Si richiede la stampa in lingua italiana via WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "22/03/2025",
+            "ora_violazione": "11:20",
+            "data_verbalizzazione": "22/03/2025",
+            "ora_verbalizzazione": "11:20",
+            "luogo_verbalizzazione": "via della repubblica, civico 20",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "20",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "svizzera",
+                    "targa": "3201+",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "dai venti",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "185",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il ventidue marzo duemilaventicinque alle ore undici eventi in via della repubblica al civico venti a carico del veicolo un dai venti autovettura con targa trecentoventi uno più di tipo prova immatricolati in svizzera la violazione contestata e parcheggio in zona a rimozione in base all'articolo centottantacinque con ma due del codice stradale la contestazione e avvenuta immediatamente da parte della gente carlo bruni sono previsti uno punti di decurtazione si richiede la stampa in lingua italiano via hawaii fai stampa anche la comunicativa",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 22/03/2025 alle ore 11:20 in via della Repubblica, al civico 20, a carico del veicolo Hyundai i20, autovettura con targa MN321OP di tipo prova, immatricolato in svizzera. La violazione contestata è parcheggio in zona rimozione, in base all'articolo 185, comma 2 del codice stradale.La contestazione è avvenuta immediatamente da parte dell'agente Carlo Bruni. Sono previsti 1 punti di decurtazione. Si richiede la stampa in lingua italiano via wifi, stampa anche la comunicazione."
+}

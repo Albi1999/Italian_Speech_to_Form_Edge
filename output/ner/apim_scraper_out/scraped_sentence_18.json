@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un'infrazione accertata il 15 aprile 2025 alle 19:48. L'infrazione riguarda un motoveicolo con targa prova immatricolato in Svizzera, parcheggiato in doppia fila in via Giuseppe Mazzini, civico 24. La violazione è del codice penale, articolo 8, comma 6, con 8 punti da decurtare. La contestazione immediata è stata effettuata dall'agente Giulia Costa. Il verbale è stato redatto sul posto e non prevede sanzioni accessorie. La stampa è stata effettuata tramite Bluetooth in italiano, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "15/04/2025",
+            "ora_violazione": "19:48",
+            "data_verbalizzazione": "15/04/2025",
+            "ora_verbalizzazione": "19:48",
+            "luogo_verbalizzazione": "via giuseppe mazzini",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "24",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "svizzera",
+                    "targa": "guerre sette centottantanove",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 8,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle diciannove quarantotto del quindici aprile duemilaventicinque storie di gendo un verbale per il veicolo molto veicolo targato guerre sette centottantanove se ti con targa prova immatricolati in svizzera l'infrazione stata accertata in via giuseppe mazzini al civico ventiquattro con violazione del codice penale articolo otto con ma sei per parcheggia in doppia fila sono previsti otto punti da decurtare contestazione immediata effettuata dalla gente giulia costa il verbale è stato redatto sul posto in via giuseppe mazzini non posso applicare alcuna sanzione accessoria stampa tramite blu in italiano stampa anche la comunicazione",
+    "original_sentence": "Alle 19:48 del 15/04/2025, sto redigendo un verbale per il veicolo motoveicolo targato QR789ST con targa prova, immatricolato in svizzeraL'infrazione è stata accertata in via Giuseppe Mazzini, al civico 24, con violazione del codice penale, articolo 8,comma 6 per parcheggio in doppia fila Sono previsti 8 punti da decurtare. Contestazione immediata effettuata dall'agente Giulia Costa, il verbale è stato redatto sul posto in via Giuseppe Mazzini. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in italiano, stampa anche la comunicazione."
+}

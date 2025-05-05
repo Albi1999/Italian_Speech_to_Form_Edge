@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 21 marzo 2025 alle ore 3:21 per un'autovettura con targa copertura immatricolata in Olanda. L'infrazione è stata rilevata in Viale dei Giardini al civico 2, con violazione del codice civile, articolo 14, comma 1. La contestazione immediata non è stata possibile per l'assenza del trasgressore, motivo per cui è indicata la mancata contestazione. Sono da decurtare 4 punti. La stampa del preavviso è richiesta tramite Bluetooth, in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "21/03/2025",
+            "ora_violazione": "03:21",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "Viale dei Giardini",
+            "Civico_1": "2",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "Olanda",
+                    "targa": "3201+",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "14",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventuno marzo duemilaventicinque alle ore tre ventuno è stato notificato un preavviso per un'autovettura targato trecentoventi uno più con targa copertura immatricolati in olanda l'infrazione è stata rilevata inviare dei giardini al civico to con violazione del codice civile articolo quattordici con ma uno in particolare si e riscontrato un parcheggio davanti a passo carabine non è stato possibile contestare per l'assenza del trasgressori è per questo è indicato il motivo di mancata contestazione da decurtare ci sono quattro punti ulteriori dettagli sul veicolo non sono necessari necessita alla stampa del preavviso tramite blu tutta in italiano non stampare anche la comunicazione",
+    "original_sentence": "In data 21/03/2025, alle ore 03:21, è stato notificato un preavviso per un autovettura targato MN321OP con targa copertura, immatricolato in olanda. L'infrazione è stata rilevata in viale dei Giardini, al civico 8, con violazione del codice civile, articolo 14, comma 1, in particolare si è riscontrato un parcheggio davanti a passo carrabile Non è stato possibile contestare per l'assenza del trasgressore, e per questo è indicato il motivo di mancata contestazione. Da decurtare ci sono 4 punti. Ulteriori dettagli sul veicolo non sono necessari. Necessito la stampa del preavviso tramite bluetooth, in italiano, non stampare anche la comunicazione."
+}

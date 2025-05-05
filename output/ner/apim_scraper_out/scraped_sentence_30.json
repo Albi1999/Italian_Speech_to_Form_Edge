@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 4 aprile 2025 alle ore 2:22 per un ciclomotore con targa speciale immatricolato in Olanda. L'infrazione riguarda il codice stradale, articolo 158, comma 2, per parcheggio in zona a rimozione in Piazza Venezia, civico 1. La contestazione immediata non è stata possibile per l'assenza del trasgressore, con 7 punti da decurtare. La stampa del preavviso è richiesta tramite Bluetooth, in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "04/04/2025",
+            "ora_violazione": "02:22",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "piazza venezia",
+            "Civico_1": "1",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "olanda",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data quattro aprile duemilaventicinque alle ore due ventidue è stato notificato un preavviso per un ciclo motore targato icsi ypsilon trecentoventi uno sa con targa speciale immatricolati in olanda l'infrazione e stata rilevata in piazza venezia al civico uno con violazione del codice stradale articolo centocinquantotto comma due in particolare si e riscontrato un parcheggio in zona a rimozione non è stato possibile contestare per l'assenza del trasgressori è per questo è indicato il motivo di mancata contestazione da decurtare ci sono sette punti ulteriori dettagli sul veicolo non sono necessari necessita alla stampa del preavviso tramite blu tutta in italiano non stampare anche la comunicazione",
+    "original_sentence": "In data 04/04/2025, alle ore 02:22, è stato notificato un preavviso per un ciclomotore targato XY321ZA con targa speciale, immatricolato in olanda. L'infrazione è stata rilevata in piazza Venezia, al civico 1, con violazione del codice stradale, articolo 158, comma 2, in particolare si è riscontrato un parcheggio in zona rimozione Non è stato possibile contestare per l'assenza del trasgressore, e per questo è indicato il motivo di mancata contestazione. Da decurtare ci sono 7 punti. Ulteriori dettagli sul veicolo non sono necessari. Necessito la stampa del preavviso tramite bluetooth, in italiano, non stampare anche la comunicazione."
+}

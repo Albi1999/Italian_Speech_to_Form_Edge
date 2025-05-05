@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per una violazione stradale. La violazione è stata rilevata il 30 marzo 2025 alle ore 5:43 in via del Corso, civico 12, in una zona di rimozione. Il veicolo coinvolto è una macchina operatrice con targa di copertura proveniente dalla Spagna. La violazione riguarda l'articolo 158, comma 2 del codice stradale e comporta la perdita di 8 punti. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. Si richiede la stampa del verbale in italiano tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "30/03/2025",
+            "ora_violazione": "05:43",
+            "data_verbalizzazione": "30/03/2025",
+            "ora_verbalizzazione": "05:43",
+            "luogo_verbalizzazione": "via del corso, civico 12",
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "quelli settecento ottantanove",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 8,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina operatrice mercato corsa targato quelli settecento ottantanove siti di tipo copertura proveniente da spagna l'inflazione è stata rilevata i trenta marzo duemilaventicinque all'eur orecchie cinque quarantatré il veicolo si trovava in via del corso a il civico doti in parcheggio in zona a rimozione violando l'articolo centocinquantotto coma due del codice stradale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori quindi motivo mancata contestazione assenza del trasgressori la violazioni comporta la perdita di otto punti richiedo la stampa del verbale in italiano tramite blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina operatrice, marca Opel Corsa, targato QR789ST (di tipo copertura), proveniente da spagna. L'infrazione è stata rilevata il 30/03/2025 alle ore 05:43. Il veicolo si trovava in via del Corso, al civico 12, in parcheggio in zona rimozione, violando l'articolo 158, comma 2, del codice stradale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore, quindi motivo mancata contestazione: assenza del trasgressore. La violazione comporta la perdita di 8 punti. Richiedo la stampa del verbale in italiano tramite bluetooth, non stampare anche la comunicazione. "
+}

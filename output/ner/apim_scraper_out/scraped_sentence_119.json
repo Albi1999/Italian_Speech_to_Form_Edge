@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il 22 aprile 2025 alle ore 24:01 per una violazione riscontrata su un veicolo tipo macchina operatrice, marca Idiota Aris, targa Guerra 987A, proveniente dalla Slovenia. La violazione è avvenuta in via Garibaldi, civico Conti, per parcheggio in doppia fila, violando l'articolo 6, comma 4 del codice penale. L'agente Alessandro Moretti ha proceduto con contestazione immediata, prevedendo la decurtazione di 1 punto dalla patente. È richiesta la stampa in italiano via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "22/04/2025",
+            "ora_violazione": "24:01",
+            "data_verbalizzazione": "22/04/2025",
+            "ora_verbalizzazione": "24:01",
+            "luogo_verbalizzazione": "via garibaldi, conti",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "conti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "slovenia",
+                    "targa": "guerra novecento ottantasette a",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "idiota aris",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data ventidue aprile duemilaventicinque alle ore ventiquattro è un minuto per la violazione riscontrata al veicolo macchina operatrice marcato idiota aris targato guerra novecento ottantasette a siti tipo ufficiale provenienti da slovenia in particolare in via garibaldi civico conti è stato accertato parcheggio in doppia fila in violazione dell'articolo sei come quattro del codice penale l'agente alessandro moretti ha proceduto con contestazioni immediata si prevede la decurtazione di un punti dalla patente richiedo la stampa in italiano via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 22/04/2025 alle ore 00:01 per la violazione riscontrata al veicolo macchina operatrice, marca Toyota Yaris, targato QR987ST (tipo ufficiale) proveniente da slovenia. In particolare, in via Garibaldi, civico 11, è stato accertato parcheggio in doppia fila, in violazione dell'articolo 6, comma 4 del codice penale. L'agente Alessandro Moretti ha proceduto con contestazione immediata. Si prevede la decurtazione di 1 punti dalla patente. Richiedo la stampa in italiano via bluetooth, stampa anche la comunicazione. "
+}

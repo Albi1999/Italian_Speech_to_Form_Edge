@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è una macchina operatrice marca Dacia Sandy, con targa di tipo copertura proveniente dalla Francia. L'infrazione è stata rilevata il 6 aprile 2025 alle ore 17:45, in via Venti Settembre al civico 5, per parcheggio su strisce pedonali, violando l'articolo 6, comma 1a(1-12) del codice penale. L'agente Carlo Bruni ha effettuato la contestazione immediata, comportando la perdita di 3 punti. Si richiede la stampa del verbale in italiano tramite Bluetooth, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "06/04/2025",
+            "ora_violazione": "17:45",
+            "data_verbalizzazione": "06/04/2025",
+            "ora_verbalizzazione": "17:45",
+            "luogo_verbalizzazione": "via venti settembre, civico 5",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "5",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "francia",
+                    "targa": "cappelle trecentoventi uno megan houston",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "dacia sandy",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina operatrice marca dacia sandy ero targato cappelle trecentoventi uno megan houston di tipo copertura proveniente da francia l'infrazione e stata rilevata il sei aprile duemilaventicinque alle ore diciassette quarantacinque il veicolo si trovava in via venti settembre al civico cinque in parcheggio su strisce pedonali violando l'articolo sei con ma prima uno dodici del codice penale l'agente carlo bruni a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di tre punti richiedo la stampa del verbale in italiano tramite blu stampa anche la comunicativa",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina operatrice, marca Dacia Sandero, targato KL321MN (di tipo copertura), proveniente da francia.  L'infrazione è stata rilevata il 06/04/2025 alle ore 17:45. Il veicolo si trovava in via XX Settembre, al civico 5, in parcheggio su strisce pedonali, violando l'articolo 6, comma 1a(1-12), del codice penale. L'agente Carlo Bruni ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 3 punti.  Richiedo la stampa del verbale in italiano tramite bluetooth, stampa anche la comunicazione."
+}

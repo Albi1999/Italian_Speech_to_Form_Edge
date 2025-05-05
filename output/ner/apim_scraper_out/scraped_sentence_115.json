@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a una violazione stradale. La violazione è avvenuta il 21 aprile 2025 alle ore 6:54 in via del Corso, numero 12. Il veicolo coinvolto è una macchina agricola con targa di tipo copertura proveniente dalla Slovenia, marca d'accesso \"and ero\". L'infrazione riguarda l'articolo 185, comma 2 del codice penale, con contestazione immediata da parte dell'agente Francesco Rizzo. La sanzione prevede la perdita di 10 punti. Si richiede la stampa in lingua italiana tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "21/04/2025",
+            "ora_violazione": "06:54",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "slovenia",
+                    "targa": "i ypsilon centoventitre",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "and ero",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "185",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina agricola targato i ypsilon centoventitre già di tipo copertura proveniente da slovenia marca d'accesso and ero la violazione ovvero parcheggio davanti a passo carabine si e verificata in data ventuno aprile duemilaventicinque alle ore sei cinquantaquattro in via del corso al numero dodici l'infrazione rientra nei l'articolo centottantacinque ma due del codice penale contestazione immediata da parte della gente francesco rizzo la sanzione prevede la perdita di dieci punti si richiede la stampa in lingua italiano tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina agricola targato XY123ZA di tipo copertura proveniente da slovenia, marca Dacia Sandero. La violazione, ovvero parcheggio davanti a passo carrabile, si è verificata in data 21/04/2025 alle ore 06:54 in via del Corso, al numero 12. L'infrazione rientra nell'articolo 185, comma 2 del codice penale. Contestazione immediata da parte dell'agente Francesco Rizzo. La sanzione prevede la perdita di 10 punti. Si richiede la stampa in lingua italiano, tramite bluetooth, non stampare anche la comunicazione. "
+}

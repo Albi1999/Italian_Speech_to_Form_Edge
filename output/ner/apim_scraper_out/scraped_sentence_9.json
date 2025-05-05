@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo rimorchio con targa JEFF234, immatricolato in Portogallo, per un'infrazione commessa il 16 aprile 2025 alle ore 11:22 in via della Repubblica, civico 20. L'infrazione riguarda il parcheggio in zona a rimozione, ai sensi dell'articolo 157 comma 5 del codice penale. La contestazione immediata è stata eseguita dall'agente Francesco Rizzo e comporta la decurtazione di 3 punti. È richiesta la stampa in italiano via WIFI, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "16/04/2025",
+            "ora_violazione": "11:22",
+            "data_verbalizzazione": "16/04/2025",
+            "ora_verbalizzazione": "11:22",
+            "luogo_verbalizzazione": "via della repubblica, civico 20",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "20",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "portogallo",
+                    "targa": "JEFF234",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo peggio duecentotto rimorchio targa jeff duecentotrentaquattro di tipo copertura immatricolati portogallo per infrazione commessa in data sedici aprile duemilaventicinque ore undici e ventidue in via della repubblica civico venti è stato rilevato parcheggio in zona a rimozione ai sensi dell'articolo centocinquantasette comma cinque del codice penale contestazione immediata eseguita dall'agente francesco rizzo la violazione comporta la decurtazione di tre punti richiesta stampa in italiano via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Peugeot 208 rimorchio, targa FG234LM di tipo copertura, immatricolato in portogallo, per infrazione commessa in data 16/04/2025, ore 11:22. In via della Repubblica, civico 20, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 157, comma 5, del codice penale.Contestazione immediata eseguita dall'agente Francesco Rizzo. La violazione comporta la decurtazione di 3 punti. Richiesta stampa in italiano via wifi, stampa anche la comunicazione."
+}

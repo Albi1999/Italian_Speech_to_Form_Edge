@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda l'emissione di un preavviso per un motoveicolo con targa ufficiale proveniente dall'Olanda. La violazione, avvenuta il 17 aprile 2025 alle ore 23:43, riguarda il parcheggio in doppia fila in viale dei Giardini, numero 8, secondo l'articolo 8 comma 6 del codice penale. Sono previsti due punti di decurtazione. Si richiede la stampa del preavviso tramite WiFi in lingua italiana, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "17/04/2025",
+            "ora_violazione": "23:43",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "olanda",
+                    "targa": "icsi ypsilon novecentottanta sette zitta ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "nucleo",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "8",
+                    "comma": "6",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo motoveicoli marcare nucleo targato icsi ypsilon novecentottanta sette zitta ti di tipo ufficiale proveniente da olanda in data diciassette aprile duemilaventicinque alle ore ventiquattro i tre e stata rilevata la violazione di parcheggio in doppia fila in viale dei giardini al numero otto in base all'articolo otto comma sei del codice penale per tale infrazione sono previsti due punti di decurtazione si richiede la stampa del preavviso tramite wife in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo motoveicolo, marca Renault Clio, targato XY987ZT di tipo ufficiale, proveniente da olanda. In data 17/04/2025 alle ore 00:03, è stata rilevata la violazione di parcheggio in doppia fila in viale dei Giardini, al numero 8, in base all'articolo 8, comma 6 del codice penale. Per tale infrazione sono previsti 2 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua italiano, non stampare anche la comunicazione. "
+}

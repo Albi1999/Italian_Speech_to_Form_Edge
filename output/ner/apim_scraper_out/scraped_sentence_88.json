@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Renault Clio, immatricolato in Germania con targa JEFF789, di tipo prova. L'infrazione è avvenuta in Piazza Venezia, civico 1, per transito in zona ad accesso vietato. Si applica l'articolo 185, comma 2 del codice civile, con la decurtazione di 1 punto. Il verbale è stato contestato immediatamente dall'agente Francesco Rizzo. La stampa deve essere effettuata in italiano tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": "piazza venezia",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "1",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "germania",
+                    "targa": "JEFF789",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "reno clio",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "185",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo reno clio molto veicolo immatricolati in germania con targa è jeff sette centottantanove giacca di tipo prova l'infrazione e avvenuta in piazza venezia civico uno transito in zona accesso vietato si applica l'articolo centottantacinque con ma due del codice civile a seguito della violazione verranno decurtati uno punti il verbale è stato contestato immediatamente dalla gente francesco rizzo si prega di procedere con la stampa in italiano tramite guai fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Renault Clio, motoveicolo immatricolato in germania con targa EF789GH di tipo prova. L'infrazione è avvenuta in piazza Venezia, civico 1: transito in zona accesso vietato. Si applica l'articolo 185, comma 2 del codice civile. A seguito della violazione verranno decurtati 1 punti.Il verbale è stato contestato immediatamente dall'agente Francesco Rizzo. Si prega di procedere con la stampa in italiano tramite wifi, stampa anche la comunicazione."
+}

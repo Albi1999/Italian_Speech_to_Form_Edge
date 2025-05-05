@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per una violazione accertata il 31 marzo 2025 alle ore 19:50 in Corso Buenos Aires, civico 98. La violazione riguarda un veicolo Toyota Aris, ciclomotore con targa copertura immatricolato in Germania. La contestazione è avvenuta immediatamente da parte dell'agente Anna Bianchi per parcheggio in zona a rimozione, in base all'articolo 157 comma 5 del codice civile. Sono previsti sei punti di decurtazione. Si richiede la stampa in lingua italiana via WiFi e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "31/03/2025",
+            "ora_violazione": "19:50",
+            "data_verbalizzazione": "31/03/2025",
+            "ora_verbalizzazione": "19:50",
+            "luogo_verbalizzazione": "Corso Buenos Aires, civico 98",
+            "Strada_1": "Corso Buenos Aires",
+            "Civico_1": "98",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "Germania",
+                    "targa": "G3201",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "Toyota Aris",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbale per violazione accertata il trentuno marzo duemilaventicinque alle ore diciannove cinquanta in corso buenos aires al civico novantotto a carico del veicolo toyota aris ciclomotori con targa guerre trecentoventi uno e se ti di tipo copertura immatricolati in germania la violazione contestata hai parcheggio in zona a rimozione in base all'articolo centocinquantasette comma cinque del codice civile la contestazione avvenuta immediatamente da parte della gente anna bianchi sono previsti sei punti di decurtazione si richiede la stampa in lingua italiano via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 31/03/2025 alle ore 19:50 in corso Buenos Aires, al civico 98, a carico del veicolo Toyota Yaris, ciclomotore con targa QR321ST di tipo copertura, immatricolato in germania. La violazione contestata è parcheggio in zona rimozione, in base all'articolo 157, comma 5 del codice civile. La contestazione è avvenuta immediatamente da parte dell'agente Anna Bianchi. Sono previsti 6 punti di decurtazione. Si richiede la stampa in lingua italiano via wifi, stampa anche la comunicazione. "
+}

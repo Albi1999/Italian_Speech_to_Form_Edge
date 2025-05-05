@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per una violazione accertata il 15 aprile 2025 alle ore 17:51 in Piazza Venezia, civico 1. La violazione riguarda un veicolo Audi A3 con targa speciale immatricolato in Croazia, per parcheggio in doppia fila secondo l'articolo 9, comma 1 del codice civile. Non è stata possibile la contestazione immediata per assenza del trasgressore. Sono previsti 4 punti di decurtazione. Si richiede la stampa in lingua italiana via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "15/04/2025",
+            "ora_violazione": "17:51",
+            "data_verbalizzazione": "15/04/2025",
+            "ora_verbalizzazione": "17:51",
+            "luogo_verbalizzazione": "piazza venezia",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "1",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "croazia",
+                    "targa": "guerre novecentottanta sette a se",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "audi a tre",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "9",
+                    "comma": "1",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stai dicendo verbale per violazioni accertata il quindici aprile duemilaventicinque alle ore diciassette cinquantuno in piazza venezia al civico una a carico del veicolo audi a tre motoveicoli con targa guerre novecentottanta sette a se ti di tipo speciale immatricolati in croazia la violazione contestata e parcheggio in doppia fila in base a l'articolo nove ma uno del codice civile non è stato possibile contestare immediatamente motivo assenza del trasgressori sono previsti quattro punti di decurtazione si richiede la stampa in lingua italiano via fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 15/04/2025 alle ore 17:51 in piazza Venezia, al civico 1, a carico del veicolo Audi A3, motoveicolo con targa QR987ST di tipo speciale, immatricolato in croazia. La violazione contestata è parcheggio in doppia fila, in base all'articolo 9, comma 1 del codice civile. Non è stato possibile contestare immediatamente, motivo: assenza del trasgressore. Sono previsti 4 punti di decurtazione. Si richiede la stampa in lingua italiano via wifi, non stampare anche la comunicazione. "
+}

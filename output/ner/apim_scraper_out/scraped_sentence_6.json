@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto l'11 aprile 2025 alle ore 11:48 per una violazione riscontrata su un veicolo macchina operatrice marca Audi A3, targato EF123JK, tipo copertura, proveniente dalla Svizzera. La violazione è avvenuta in Piazza Venezia, civico 1, per parcheggio in zona a rimozione, violando l'articolo 8, comma 6 del codice civile. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di 3 punti dalla patente. La stampa è richiesta in italiano via WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "11/04/2025",
+            "ora_violazione": "11:48",
+            "data_verbalizzazione": "11/04/2025",
+            "ora_verbalizzazione": "11:48",
+            "luogo_verbalizzazione": "piazza venezia",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "1",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "svizzera",
+                    "targa": "EF123JK",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "audi a3",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "8",
+                    "comma": "6",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 3,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data undici aprile duemilaventicinque alle ore undici e quarantotto per la violazione riscontrata al veicolo macchina operatrice marca audi a tre targato e effe centoventitre giacca tipo copertura proveniente da svizzera in particolare in piazza venezia civico uno è stato accertato parcheggio in zona a rimozione in violazione dell'articolo otto con ma sei del codice civile data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di tre punti dalla patente richiedo la stampa in italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 11/04/2025 alle ore 11:48 per la violazione riscontrata al veicolo macchina operatrice, marca Audi A3, targato EF123GH (tipo copertura) proveniente da svizzera. In particolare, in piazza Venezia, civico 1, è stato accertato parcheggio in zona rimozione, in violazione dell'articolo 8, comma 6 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 3 punti dalla patente. Richiedo la stampa in italiano via wifi, non stampare anche la comunicazione."
+}

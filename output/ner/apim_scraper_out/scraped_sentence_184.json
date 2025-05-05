@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il 25 marzo 2025 alle 13:23 è stata notificata un'infrazione per un veicolo immatricolato in Germania, una macchina operatrice con targa di tipo prova. L'infrazione è avvenuta presso Corso Vittorio Emanuele, civico 15, violando il codice penale, articolo 4, comma 2, riguardante il parcheggio in zona a rimozione. Sono stati decurtati 7 punti e applicata una sanzione accessoria. La stampa è richiesta tramite Wi-Fi in italiano, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "25/03/2025",
+            "ora_violazione": "13:23",
+            "data_verbalizzazione": "25/03/2025",
+            "ora_verbalizzazione": "13:23",
+            "luogo_verbalizzazione": "corso vittorio emanuele, civico 15",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "15",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "germania",
+                    "targa": "icsi ypsilon novecento ottantasette zitta ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "4",
+                    "comma": "2",
+                    "sanzione_accessoria": "con sanzione accessoria"
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il venticinque marzo duemilaventicinque alle ore tredici e ventitré sto mettendo una notifica di infrazione per il veicolo tooth aris macchina operatrice immatricolati in germania con targa icsi ypsilon novecento ottantasette zitta ti di tipo prova l'infrazione si e verificata presso corso vittorio emanuele al civico quindici violando il codice penale in particolare l'articolo quattro coma due riguardante il parcheggio in zona a rimozione devo decurtare sette punti applico una sanzione accessoria in base alle circostanze non sono necessarie ulteriori dettagli sul macchina operatrice stampa me lo con il wi fi in italiano stampa anche la comunicazione",
+    "original_sentence": "Il 25/03/2025, alle ore 13:23, sto emettendo una notifica di infrazione per il veicolo Toyota Yaris, macchina operatrice immatricolato in germania con targa XY987ZT di tipo prova. L'infrazione si è verificata presso corso Vittorio Emanuele, al civico 15, violando il codice penale, in particolare l'articolo 4, comma 2 riguardante il parcheggio in zona rimozione. Devo decurtare 7 punti. Applico una sanzione accessoria in base alle circostanze. Non sono necessari ulteriori dettagli sul macchina operatrice. Stampamelo con il wifi in italiano, stampa anche la comunicazione. "
+}

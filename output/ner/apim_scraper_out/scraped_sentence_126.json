@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 13 aprile 2025 alle 5:12 per un'infrazione accertata in via Roma, civico 77. Il veicolo coinvolto è un'autovettura con targa ufficiale immatricolata in Austria, targata E789+. La violazione riguarda il codice penale, articolo 4, comma 2, per parcheggio in doppia fila, con una decurtazione di 4 punti. Non è stata possibile una contestazione immediata a causa dell'assenza del trasgressore.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "13/04/2025",
+            "ora_violazione": "05:12",
+            "data_verbalizzazione": "13/04/2025",
+            "ora_verbalizzazione": "05:12",
+            "luogo_verbalizzazione": "via roma, civico 77",
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "E789+",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "4",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": null,
+            "lingua_stampa": null,
+            "stampa_anche_comunicazione": null
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle cinque dodici del tredici aprile duemilaventicinque storie di gendo un verbale per il veicolo autovettura targato e sette centottantanove più con targa ufficiale immatricolati in austria l'infrazione è stata accertata in via roma al civico settantasette con violazione del codice penale articolo quattro con ma due per parcheggio in doppia fila sono previsti quattro punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori",
+    "original_sentence": "Si notifica un preavviso per il veicolo Opel Corsa macchina operatrice, targa CD456EF di tipo prova, proveniente da portogallo. Il giorno 05/04/2025, alle ore 04:13, in via della Libertà, al numero civico 3, è stata commessa l'infrazione di parcheggio in zona rimozione, come previsto dall'articolo 185, comma 2, del codice civile. Per questa violazione sono previsti 5 punti di decurtazione. Chiedo la stampa del preavviso in italiano via wifi, stampa anche la comunicazione. "
+}

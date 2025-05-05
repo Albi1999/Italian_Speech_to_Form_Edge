@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è una macchina agricola, marca Fiat Panda, con targa speciale proveniente dal Portogallo. L'infrazione è stata rilevata il 17 aprile 2025 alle ore 6:33 in corso Buenos Aires, civico 98, per parcheggio in doppia fila, violando l'articolo 4 comma 2 del codice stradale. L'agente Alessandro Moretti ha effettuato la contestazione immediata, comportando la perdita di 9 punti. Si richiede la stampa del verbale in italiano tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "17/04/2025",
+            "ora_violazione": "06:33",
+            "data_verbalizzazione": "17/04/2025",
+            "ora_verbalizzazione": "06:33",
+            "luogo_verbalizzazione": "corso buenos aires, 98",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "98",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "portogallo",
+                    "targa": "CI123",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "fiat panda",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "4",
+                    "comma": "2",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 9,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina agricola marca fiat panda targato ci di centoventitre di tipo speciale proveniente da portogallo l'infrazione e stata rilevata il diciassette aprile duemilaventicinque alle ore sei e trentatré il veicolo si trovava in corso buenos aires al civico novantotto in parcheggia in doppia fila violando l'articolo quattro comma due del codice stradale l'agente alessandro moretti ha provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di nove punti richiedo la stampa del verbale in italiano tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina agricola, marca Fiat Panda, targato CD123AB (di tipo speciale), proveniente da portogallo.  L'infrazione è stata rilevata il 17/04/2025 alle ore 06:33. Il veicolo si trovava in corso Buenos Aires, al civico 98, in parcheggio in doppia fila, violando l'articolo 4, comma 2, del codice stradale. L'agente Alessandro Moretti ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 9 punti.  Richiedo la stampa del verbale in italiano tramite wifi, stampa anche la comunicazione."
+}

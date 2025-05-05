@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo autovettura marca Dacia Sandero, targa JEFF789, di tipo speciale, immatricolato in Slovenia. La violazione è avvenuta l'11 aprile 2025 alle ore 19:35 in via Giuseppe Mazzini, numero civico 24, per parcheggio davanti a passo carrabile, in base all'articolo 157, comma 5 del codice penale. Sono previsti 10 punti di decurtazione. Si richiede la stampa del preavviso in lingua italiana tramite WiFi, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "11/04/2025",
+            "ora_violazione": "19:35",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via Giuseppe Mazzini",
+            "Civico_1": "24",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "Slovenia",
+                    "targa": "JEFF789",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "Dacia Sandero",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo autovettura marca dacia sandy ero targa è jeff sette centottantanove giacca di tipo speciale immatricolati slovenia la violazione è avvenuta hai l'undici aprile duemilaventicinque alle ore diciannove trentacinque invia giuseppe mazzini al numero civico ventiquattro ed è relativa a parcheggio davanti a passo carabine in base all'articolo centocinquantasette con ma cinque del codice penale per tale violazione sono previsti dieci punti di decurtazione si richiede la stampa di tale preavviso in lingua italiano tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo autovettura, marca Dacia Sandero, targa EF789GH di tipo speciale, immatricolato in slovenia. La violazione è avvenuta il 11/04/2025 alle ore 19:35 in via Giuseppe Mazzini, al numero civico 24, ed è relativa a parcheggio davanti a passo carrabile, in base all'articolo 157, comma 5 del codice penale.Per tale violazione sono previsti 10 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua italiano tramite wifi, stampa anche la comunicazione."
+}

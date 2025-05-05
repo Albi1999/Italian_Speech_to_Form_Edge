@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 28 marzo 2025 alle 22:20 per una violazione del codice penale, articolo 3, riguardante il transito in zona ad accesso vietato. La violazione è avvenuta in via della Libertà, civico 3. Il veicolo coinvolto è una macchina agricola Seat Ibiza immatricolata in Germania con targa di tipo copertura. La contestazione è stata immediata, eseguita dall'agente Silvia Neri, e prevede la decurtazione di due punti senza sanzione accessoria. La stampa del verbale è in italiano tramite Bluetooth e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "28/03/2025",
+            "ora_violazione": "22:20",
+            "data_verbalizzazione": "28/03/2025",
+            "ora_verbalizzazione": "22:20",
+            "luogo_verbalizzazione": "via della libertà, civico 3",
+            "Strada_1": "via della libertà",
+            "Civico_1": "3",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "un trecentottantasette doppia with",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "seat ibiza",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "3",
+                    "comma": "ma un",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventotto marzo duemilaventicinque alle ore ventidue venti è stato redatto un verbale per il veicolo seat ibiza macchina agricola immatricolati in germania con targa un trecentottantasette doppia with di tipo copertura l'infrazione avvenuta in via della libertà al civico tre e stata riscontrata una violazione del codice penale articolo tre con ma un ovvero transito in zona accesso vietato il verbale è stato eseguito sul posto con contestazione immediata da parte della gente silvia neri sono previsti due punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in italiano tramite piu tutte stampa anche la comunicazione",
+    "original_sentence": "Il giorno 28/03/2025, alle ore 22:20, è stato redatto un verbale per il veicolo Seat Ibiza, macchina agricola immatricolato in germania con targa UV987WX di tipo copertura. L'infrazione è avvenuta in via della Libertà, al civico 3. È stata riscontrata una violazione del codice penale, articolo 3, comma 1 ovvero transito in zona accesso vietatoIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Silvia Neri. Sono previsti 2 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in italiano tramite bluetooth, stampa anche la comunicazione. "
+}

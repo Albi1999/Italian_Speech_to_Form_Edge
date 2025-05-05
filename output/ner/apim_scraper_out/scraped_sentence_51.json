@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a una violazione di parcheggio in divieto di sosta. Il veicolo coinvolto è una macchina agricola con targa di tipo prova proveniente dalla Grecia, marca BMW Serie Uno. La violazione è avvenuta il 27 marzo 2025 alle 4:17 in via dei Giardini al numero 8. L'infrazione rientra nell'articolo 157, comma 5 del codice penale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 9 punti. Si richiede la stampa in lingua italiana tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "27/03/2025",
+            "ora_violazione": "04:17",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via dei Giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "grecia",
+                    "targa": "centoventitre ci di di",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "bmw serie uno",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 9,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina agricola targato centoventitre ci di di tipo prova proveniente da grecia marca bmw serie uno la violazione ovvero parcheggio in divieto di sosta sia e verificata in data ventisette marzo duemilaventicinque alle ore quattro e diciassette inviare dei giardini al numero otto l'infrazione rientra nell'articolo centocinquantasette con ma cinque del codice penale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori motivo mancata contestazione assenza del trasgressori la sanzione prevede la perdita di nove punti si richiede la stampa in lingua italiano tramite fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina agricola targato AB123CD di tipo prova proveniente da grecia, marca BMW Serie 1. La violazione, ovvero parcheggio in divieto di sosta, si è verificata in data 27/03/2025 alle ore 04:17 in viale dei Giardini, al numero 8. L'infrazione rientra nell'articolo 157, comma 5 del codice penale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, motivo mancata contestazione: assenza del trasgressore. La sanzione prevede la perdita di 9 punti. Si richiede la stampa in lingua italiano, tramite wifi, stampa anche la comunicazione."
+}

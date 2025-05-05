@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il 25 marzo 2025 alle ore 01:57 per un veicolo ciclomotore marca Seat Ibiza con targa JEFF789, tipo prova, registrato in Croazia. L'infrazione è avvenuta in Corso Buenos Aires, numero 98, per parcheggio in divieto di sosta, secondo l'articolo 3, comma 1 del codice stradale. Non essendo stato possibile identificare il conducente, la notifica è inviata al proprietario del veicolo. Sono previsti due punti di decurtazione. Si richiede la stampa della notifica tramite WiFi in lingua italiana, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "25/03/2025",
+            "ora_violazione": "01:57",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "98",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "croazia",
+                    "targa": "JEFF789",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "seat ibiza",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "3",
+                    "comma": "1",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data venticinque marzo duemilaventicinque alle ore una e cinquantasette è stato emesso un preavviso di violazione per il veicolo ciclomotori di marca seat ibiza con targa è jeff e sette centottantanove giacca tipo prova registrato in croazia l'infrazione avvenuta in corso buenos aires al numero novantotto e consiste in parcheggio in divieto di sosta come previsto dall'articolo tre con ma uno del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti due punti di decurtazione si prega di stampare la presente notifica tramite guai fai in lingua italiano stampa anche la comunicativa",
+    "original_sentence": "Si notifica che in data 25/03/2025, alle ore 01:57, è stato emesso un preavviso di violazione per il veicolo ciclomotore di marca Seat Ibiza, con targa EF789GH (tipo prova), registrato in croazia. L'infrazione è avvenuta in corso Buenos Aires, al numero 98, e consiste in parcheggio in divieto di sosta, come previsto dall'articolo 3, comma 1 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 2 punti di decurtazione.  Si prega di stampare la presente notifica tramite wifi, in lingua italiano, stampa anche la comunicazione."
+}

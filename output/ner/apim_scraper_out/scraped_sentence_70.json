@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo BMW Serie Uno, classificato come macchina agricola con targa di tipo prova, immatricolato in Olanda. L'infrazione è avvenuta il 31 marzo 2025 alle ore 03:23 in via del Corso, civico 12, per transito in zona ad accesso vietato secondo l'articolo 158, comma 2 del codice civile. La contestazione immediata è stata eseguita dall'agente Mario Rossi e comporta la decurtazione di sei punti. La stampa è richiesta in italiano via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "31/03/2025",
+            "ora_violazione": "03:23",
+            "data_verbalizzazione": "31/03/2025",
+            "ora_verbalizzazione": "03:23",
+            "luogo_verbalizzazione": "via del corso, civico 12",
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "olanda",
+                    "targa": "icsi ypsilon sei centocinquantaquattro sa",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "bmw serie uno",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo bmw serie uno macchina agricola targa icsi ypsilon sei centocinquantaquattro sa di tipo prova immatricolati in olanda per infrazione commessa in data trentuno marzo duemilaventicinque ore tre ventitre in via del corso civico dodici è stato rilevato transito in zona accesso vietato ai sensi dell'articolo centocinquantotto comma due del codice civile contestazione immediata eseguita dall'agente mario rossi la violazione comporta la decurtazione di sei punti richiesta stampa in italiano via about non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo BMW Serie 1 macchina agricola, targa XY654ZA di tipo prova, immatricolato in olanda, per infrazione commessa in data 31/03/2025, ore 03:23. In via del Corso, civico 12, è stato rilevato transito in zona accesso vietato, ai sensi dell'articolo 158, comma 2, del codice civile.Contestazione immediata eseguita dall'agente Mario Rossi. La violazione comporta la decurtazione di 6 punti. Richiesta stampa in italiano via bluetooth, non stampare anche la comunicazione."
+}

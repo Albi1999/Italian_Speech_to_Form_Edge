@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da una macchina agricola marca Dacia, con targa di tipo copertura immatricolata in Olanda. La violazione è avvenuta il 11 aprile 2025 alle 20:48 in via Ventisette Settembre al civico 5. La violazione riguarda il parcheggio davanti a un passo carraio, violando l'articolo 14, comma 1 del codice stradale, con conseguente perdita di 4 punti. La stampa del verbale è richiesta in modalità WiFi, in lingua italiana, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "11/04/2025",
+            "ora_violazione": "20:48",
+            "data_verbalizzazione": "11/04/2025",
+            "ora_verbalizzazione": "20:48",
+            "luogo_verbalizzazione": "via Ventisette Settembre, civico 5",
+            "Strada_1": "via Ventisette Settembre",
+            "Civico_1": "5",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "Olanda",
+                    "targa": "quattrocentocinquanta sei cupi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "Dacia san ero",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "14",
+                    "comma": "1",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina agricola marca dacia san ero target quattrocentocinquanta sei cupi di tipo copertura immatricolati o in olanda in data undici aprile duemilaventicinque alle ora i venti e quarantotto invia venti settembre al civico cinque e stata commessa la seguente violazione parcheggio davanti a passo carabine articolo quattordici con ma uno del codice stradale dalla violazioni con segue la perdita di quattro punti stampa in modalità hawaii fai in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina agricola, marca Dacia Sandero, targa ZA456QP di tipo copertura, immatricolato in olanda. In data 11/04/2025 alle ore 20:48, in via XX Settembre, al civico 5, è stata commessa la seguente violazione: parcheggio davanti a passo carrabile (articolo 14, comma 1 del codice stradale). Dalla violazione consegue la perdita di 4 punti. Stampa in modalità wifi e in lingua italiano, stampa anche la comunicazione. "
+}

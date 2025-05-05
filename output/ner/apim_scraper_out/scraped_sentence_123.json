@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale emesso il 20 aprile 2025 alle ore 15:01 per una violazione del codice stradale. La violazione è avvenuta in Corso Vittorio Emanuele, civico 15, e riguarda un parcheggio davanti a passo carabine. Il veicolo coinvolto è una Ford Fiesta, macchina operatrice, immatricolata in Belgio con targa speciale UBU3201BUX. La contestazione è stata immediata, eseguita dall'agente Chiara Romano, con una decurtazione di 5 punti. Non è stata applicata alcuna sanzione accessoria. La stampa del verbale è in italiano tramite Bluetooth, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "20/04/2025",
+            "ora_violazione": "15:01",
+            "data_verbalizzazione": "20/04/2025",
+            "ora_verbalizzazione": "15:01",
+            "luogo_verbalizzazione": "Corso Vittorio Emanuele, civico 15",
+            "Strada_1": "Corso Vittorio Emanuele",
+            "Civico_1": "15",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "Belgio",
+                    "targa": "UBU3201BUX",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "Ford Fiesta",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "5",
+                    "comma": "3",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 5,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno venti aprile duemilaventicinque alle ore quindici è un minuto è stato dato un verbale per il veicolo ford fiesta macchina operatrice immatricolati in belgio con targa ubu trecentoventi uno doppia bux di tipo speciale l'infrazione avvenuta in corso vittorio emanuele al civico quindici e stata riscontrata una violazione del codice stradale articolo cinque con ma tre ovvero parcheggio davanti a passo carabine il verbale è stato eseguito sul posto con contestazione immediata da parte della gente chiara romano sono previsti cinque punti da decurtare e non è stata applicata e alcuna sanzioni accessoria stampa in italiano un tramite blackout stampa anche la comunicazione",
+    "original_sentence": "Il giorno 20/04/2025, alle ore 15:01, è stato redatto un verbale per il veicolo Ford Fiesta, macchina operatrice immatricolato in belgio con targa UV321WX di tipo speciale. L'infrazione è avvenuta in corso Vittorio Emanuele, al civico 15. È stata riscontrata una violazione del codice stradale, articolo 5, comma 3 ovvero parcheggio davanti a passo carrabileIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Chiara Romano. Sono previsti 5 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in italiano tramite bluetooth, stampa anche la comunicazione. "
+}

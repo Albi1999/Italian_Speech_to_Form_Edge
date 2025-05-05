@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo rimorchio immatricolato in Portogallo con targa di tipo prova. L'infrazione è avvenuta in via Giuseppe Mazzini, civico 24, per parcheggio su strisce pedonali. Si applica l'articolo 158, comma 2 del codice penale, con una decurtazione di 10 punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. La stampa del verbale deve essere effettuata in italiano tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "24",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "portogallo",
+                    "targa": "hugo trecentoventi uno doppia west",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo chi ha pianto rimorchio immatricolati in portogallo con targa hugo trecentoventi uno doppia west di tipo prova l'infrazione avvenuta in via giuseppe mazzini civico ventiquattro parcheggio su strisce pedonali si applica l'articolo centocinquantotto con ma due del codice penale a seguito della violazione verranno decurtati dieci punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in italiano tramite brutus non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Kia Picanto, rimorchio immatricolato in portogallo con targa UV321WX di tipo prova. L'infrazione è avvenuta in via Giuseppe Mazzini, civico 24: parcheggio su strisce pedonali. Si applica l'articolo 158, comma 2 del codice penale. A seguito della violazione verranno decurtati 10 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in italiano tramite bluetooth, non stampare anche la comunicazione. "
+}

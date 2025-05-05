@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il 12 aprile 2025 alle ore 13:51 per un veicolo Nissan Micra con targa yemen, tipo prova, registrato in Italia. L'infrazione è avvenuta in via della Libertà, numero 3, per parcheggio in doppia fila, secondo l'articolo 3, comma 1 del codice penale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. È prevista la decurtazione di un punto. La stampa della notifica deve avvenire tramite Bluetooth, in lingua italiana, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "12/04/2025",
+            "ora_violazione": "13:51",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via della libertà",
+            "Civico_1": "3",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italia",
+                    "targa": "yemen trecentoventi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "nissan mica",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "3",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data dodici aprile duemilaventicinque alle ore tredici e cinquantuno è stato emesso un preavviso di violazioni per il veicolo autovettura di marca nissan mica con targa yemen trecentoventi uno o piu tipo prova registrato in italia l'infrazione è avvenuta in via della libertà al numero tre è consiste in parcheggio in doppia fila come previsto dall'articolo tre con ma uno del codice penale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti un punti di decurtazione si prega di stampare la presente notifica tramite blu tutte in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 12/04/2025, alle ore 13:51, è stato emesso un preavviso di violazione per il veicolo autovettura di marca Nissan Micra, con targa MN321OP (tipo prova), registrato in italia. L'infrazione è avvenuta in via della Libertà, al numero 3, e consiste in parcheggio in doppia fila, come previsto dall'articolo 3, comma 1 del codice penale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 1 punti di decurtazione. Si prega di stampare la presente notifica tramite bluetooth, in lingua italiano, stampa anche la comunicazione. "
+}

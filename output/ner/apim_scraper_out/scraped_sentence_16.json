@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 14 aprile 2025 alle ore 01:34 per una macchina agricola con targa ufficiale slovena. L'infrazione è stata rilevata in via del Corso, civico 12, per violazione del codice stradale, articolo 9, comma 1, riguardante il parcheggio in zona a rimozione. Non è stato possibile contestare immediatamente per l'assenza del trasgressore, con una decurtazione di 6 punti. Il veicolo è un Folle Ex Vaga in Golf di colore giallo, con numero di telaio specificato e massa di 2702 kg. È richiesta la stampa del preavviso tramite Bluetooth in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "14/04/2025",
+            "ora_violazione": "01:34",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "slovenia",
+                    "targa": "zaha 450 6 cupi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "folle ex vaga in golf",
+                    "colore": "giallo",
+                    "telaio": "167832764859300053",
+                    "massa": "2702 kg",
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "9",
+                    "comma": "1",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data a quattordici aprile duemilaventicinque alle ore una e trentaquattro è stato notificato un preavviso per un macchina agricola targato zaha quattrocentocinquanta sei cupi con targa ufficiale immatricolati slovenia l'infrazione stata rilevata in via del corso al civico dodici con violazione del codice stradale articolo nove con ma uno in particolare si e riscontrato un parcheggio in zona a rimozione non è stato possibile contestare per l'assenza del trasgressori è per questo è indicato il motivo di mancata contestazione da decurtare ci sono sei punti il veicolo è un folle ex vaga in golf di colore giallo con numero di telaio sedici miliardi e sette centottantatre milioni duecentosettantasei miliardi quattrocentottanta cinque milioni novecento trentamila cinquantatré massa duemilasettecento due chilogrammi necessita la stampa del preavviso tramite blu in italiano non stampare anche la comunicazione",
+    "original_sentence": "In data 14/04/2025, alle ore 01:34, è stato notificato un preavviso per un macchina agricola targato ZA456QP con targa ufficiale, immatricolato in slovenia. L'infrazione è stata rilevata in via del Corso, al civico 12, con violazione del codice stradale, articolo 9, comma 1, in particolare si è riscontrato un parcheggio in zona rimozione Non è stato possibile contestare per l'assenza del trasgressore, e per questo è indicato il motivo di mancata contestazione. Da decurtare ci sono 6 punti. Il veicolo è un Volkswagen Golf di colore giallo, con numero di telaio 16783286485930053 e massa 2702 kg.Necessito la stampa del preavviso tramite bluetooth, in italiano, non stampare anche la comunicazione."
+}

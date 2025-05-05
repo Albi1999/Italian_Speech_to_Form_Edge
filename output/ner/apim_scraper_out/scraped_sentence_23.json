@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo rimorchio Mercedes Classe A con targa di tipo prova, proveniente dall'Italia. L'infrazione è avvenuta il 5 aprile 2025 alle ore 2:18 in via Roma, civico 77, per parcheggio in doppia fila, violando l'articolo 7, comma 5 del codice civile. La decurtazione prevista è di 8 punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è richiesta tramite Wi-Fi in italiano, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "05/04/2025",
+            "ora_violazione": "02:18",
+            "data_verbalizzazione": "05/04/2025",
+            "ora_verbalizzazione": "02:18",
+            "luogo_verbalizzazione": "via roma numero civico settantasette",
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "italia",
+                    "targa": "gia cassette centottantanove",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "7",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 8,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo rimorchio di marca mercedes classe a con targa gia cassette centottantanove tipo prova proveniente da italia fatto avvenuto il cinque aprile duemilaventicinque alle ore due diciotto posizione via roma numero civico settantasette infrazione parcheggia in doppia fila in violazione dell'articolo sette con ma cinque del codice civile decurtazione prevista otto punti impossibile contestare immediatamente per assenza del trasgressori motivo assenza del trasgressori stampa necessaria tramite vuoi fai in italiano stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo rimorchio di marca Mercedes Classe A, con targa GH789IJ (tipo prova), proveniente da italia.  Fatto avvenuto il 05/04/2025 alle ore 02:18. Posizione: via Roma, numero civico 77. Infrazione: parcheggio in doppia fila, in violazione dell'articolo 7, comma 5, del codice civile. Decurtazione prevista: 8 punti. Impossibile contestare immediatamente per assenza del trasgressore, motivo: assenza del trasgressore. Stampa necessaria tramite wifi in italiano, stampa anche la comunicazione."
+}

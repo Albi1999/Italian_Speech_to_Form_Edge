@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un veicolo rimorchio di marca Peggio Duecentotto con targa E789G, tipo prova, proveniente dalla Germania. L'infrazione è avvenuta il 19 aprile 2025 alle ore 22:28 in Corso Buenos Aires, numero civico 98, per parcheggio su strisce pedonali, violando l'articolo 5, comma 3 del codice penale. La decurtazione prevista è di sei punti. Non è stato possibile contestare immediatamente per assenza del trasgressore. La stampa del verbale è richiesta tramite WiFi in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "19/04/2025",
+            "ora_violazione": "22:28",
+            "data_verbalizzazione": "19/04/2025",
+            "ora_verbalizzazione": "22:28",
+            "luogo_verbalizzazione": "Corso Buenos Aires, 98",
+            "Strada_1": "Corso Buenos Aires",
+            "Civico_1": "98",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "Germania",
+                    "targa": "E789G",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "Peggio Duecentotto",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "5",
+                    "comma": "3",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo rimorchio di marca peggio duecentotto con targa è sette centottantanove giacca tipo prova proveniente da germania fatto avvenuto il diciannove aprile duemilaventicinque alle ore ventidue ventotto posizione corso buenos aires numero civico novantotto infrazione parcheggio su strisce pedonali in violazione dell'articolo cinque comma tre del codice penale decurtazione prevista sei punti impossibile contestare immediatamente per assenza del trasgressori motivo assenza del trasgressori stampa necessaria tramite wifi in italiano non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo rimorchio di marca Peugeot 208, con targa EF789GH (tipo prova), proveniente da germania. Fatto avvenuto il 19/04/2025 alle ore 22:28. Posizione: corso Buenos Aires, numero civico 98. Infrazione: parcheggio su strisce pedonali, in violazione dell'articolo 5, comma 3, del codice penale. Decurtazione prevista: 6 punti. Impossibile contestare immediatamente per assenza del trasgressore, motivo: assenza del trasgressore. Stampa necessaria tramite wifi in italiano, non stampare anche la comunicazione. "
+}

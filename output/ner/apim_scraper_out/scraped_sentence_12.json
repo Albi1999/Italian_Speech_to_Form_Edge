@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo motoveicolo di marca Dacia Sandy con targa kazaka, tipo prova, proveniente dalla Croazia. L'infrazione è avvenuta il 14 aprile 2025 alle ore 13:51 in via Garibaldi, numero civico 11, per transito in zona di accesso vietato, violando l'articolo 158 comma 2 del codice civile. La decurtazione prevista è di quattro punti. La contestazione è immediata e viene effettuata dall'agente Chiara Romano. La stampa del verbale è richiesta tramite Wi-Fi in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "14/04/2025",
+            "ora_violazione": "13:51",
+            "data_verbalizzazione": "14/04/2025",
+            "ora_verbalizzazione": "13:51",
+            "luogo_verbalizzazione": "via garibaldi, numero civico 11",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "11",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "kazaka",
+                    "targa": "quattrocentocinquanta sei cupi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "dacia sandy ero",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo motoveicoli di marca dacia sandy ero con targa kazaka quattrocentocinquanta sei cupi tipo prova proveniente da croazia fatto avvenuto il quattordici aprile duemilaventicinque alle ore tredici e cinquantuno posizione via garibaldi numero civico undici infrazione transito in zona accesso vietato in violazione dell'articolo centocinquantotto comma due del codice civile decurtazione prevista quattro punti si applica contestazione immediata da parte della gente chiara romano stampa necessaria tramite vuoi fai in italiano non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo motoveicolo di marca Dacia Sandero, con targa ZA456QP (tipo prova), proveniente da croazia.  Fatto avvenuto il 14/04/2025 alle ore 13:51. Posizione: via Garibaldi, numero civico 11. Infrazione: transito in zona accesso vietato, in violazione dell'articolo 158, comma 2, del codice civile. Decurtazione prevista: 4 punti. Si applica contestazione immediata da parte dell'agente Chiara Romano. Stampa necessaria tramite wifi in italiano, non stampare anche la comunicazione."
+}

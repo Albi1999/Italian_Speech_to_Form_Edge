@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per una violazione accertata il 20 aprile 2025 alle ore 17:58 in Corso Buenos Aires, civico 98. La violazione riguarda un veicolo Seat Ibiza con rimorchio, targa BEH123CD, immatricolato in Belgio, per parcheggio su strisce pedonali. La contestazione è stata immediata da parte dell'agente Alessandro Moretti. Sono previsti due punti di decurtazione. Si richiede la stampa in lingua italiana tramite WiFi, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "20/04/2025",
+            "ora_violazione": "17:58",
+            "data_verbalizzazione": "20/04/2025",
+            "ora_verbalizzazione": "17:58",
+            "luogo_verbalizzazione": "Corso Buenos Aires, civico 98",
+            "Strada_1": "Corso Buenos Aires",
+            "Civico_1": "98",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "Belgio",
+                    "targa": "BEH123CD",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "Seat Ibiza",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "185",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbale per violazione accertata il venti aprile duemilaventicinque alle ore diciassette cinquantotto in corso buenos aires al civico novantotto a carico del veicolo seat ibiza rimorchio con targa beh centoventitre ci di di tipo speciale immatricolati in belgio la violazione contestata e parcheggio su strisce pedonali in base al l'articolo centottantacinque comma due del codice civile la contestazione avvenuta immediatamente da parte della gente alessandro moretti sono previsti due punti di decurtazione si richiede la stampa in lingua italiano vi hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 20/04/2025 alle ore 17:58 in corso Buenos Aires, al civico 98, a carico del veicolo Seat Ibiza, rimorchio con targa AB123CD di tipo speciale, immatricolato in belgio. La violazione contestata è parcheggio su strisce pedonali, in base all'articolo 185, comma 2 del codice civile. La contestazione è avvenuta immediatamente da parte dell'agente Alessandro Moretti. Sono previsti 2 punti di decurtazione. Si richiede la stampa in lingua italiano via wifi, stampa anche la comunicazione. "
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per una violazione accertata il 22 marzo 2025 alle ore 11:47 in via del Corso, civico 12. La violazione riguarda un veicolo Toyota Aris, macchina operatrice con targa di prova immatricolata in Portogallo, per parcheggio su strisce pedonali. La contestazione è avvenuta immediatamente da parte dell'agente Anna Bianchi. Sono previsti sette punti di decurtazione. Si richiede la stampa in lingua italiana tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "22/03/2025",
+            "ora_violazione": "11:47",
+            "data_verbalizzazione": "22/03/2025",
+            "ora_verbalizzazione": "11:47",
+            "luogo_verbalizzazione": "via del corso, civico 12",
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "CI123ABBY",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "toyota aris",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 7,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbale per violazione accertata il ventidue marzo duemilaventicinque alle ore undici e quarantasette in via del corso al civico dodici a carico del veicolo toyota aris macchina operatrice con targa ci di centoventitre abby di tipo prova immatricolati in portogallo la violazione contestata e parcheggio su strisce pedonali in base all'articolo l'articolo centocinquantotto comma due del codice civile la contestazione e avvenuta immediatamente da parte della gente anna bianchi sono previsti sette punti di decurtazione si richiede la stampa in lingua italiano vi hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 22/03/2025 alle ore 11:47 in via del Corso, al civico 12, a carico del veicolo Toyota Yaris, macchina operatrice con targa CD123AB di tipo prova, immatricolato in portogallo. La violazione contestata è parcheggio su strisce pedonali, in base all'articolo 158, comma 2 del codice civile. La contestazione è avvenuta immediatamente da parte dell'agente Anna Bianchi. Sono previsti 7 punti di decurtazione. Si richiede la stampa in lingua italiano via wifi, non stampare anche la comunicazione. "
+}

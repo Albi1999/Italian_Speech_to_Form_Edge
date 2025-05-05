@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il 3 aprile 2025 alle 17:12 è stata emessa una notifica di infrazione per un veicolo Ford Fiesta, ciclomotore immatricolato in Francia con targa UBI987EX di tipo prova. L'infrazione è avvenuta in viale dei Giardini, civico 8, violando il codice stradale, articolo 7, comma 15, riguardante il parcheggio in doppia fila. Sono stati decurtati 4 punti, senza sanzione accessoria. Il ciclomotore è di colore nero, con numero di telaio 174252744654609892 e massa di 1180 kg. La stampa è richiesta via Bluetooth, in italiano, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "03/04/2025",
+            "ora_violazione": "17:12",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "francia",
+                    "targa": "UBI987EX",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "ford fiesta",
+                    "colore": "nero",
+                    "telaio": "174252744654609892",
+                    "massa": "1180 kg",
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "7",
+                    "comma": "15",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il tre aprile duemilaventicinque alle ore diciassette dodici sto mettendo una notifica di infrazione per il veicolo ford fiesta ciclomotori immatricolati in francia con targa ubi novecentottanta sette doppia ex di tipo prova l'infrazione si e verificata presso viale dei giardini al civico otto violando il codice stradale in particolare l'articolo sette con ma quindici riguardante il parcheggio in doppia fila devo decurtare quattro punti non è necessaria alcuna sanzione accessoria il ciclo motore di colore nero con numero di telaio diciassette miliardi e quattrocentoventicinque milioni duecentosettantaquattro miliardi quattrocentosessanta cinque milioni sessanta novemila ottocento novantadue massa mille centottanta chilogrammi stampa me lo con il blu tutti in italiano stampa anche la comunicazione",
+    "original_sentence": "Il 03/04/2025, alle ore 17:12, sto emettendo una notifica di infrazione per il veicolo Ford Fiesta, ciclomotore immatricolato in francia con targa UV987WX di tipo prova. L'infrazione si è verificata presso viale dei Giardini, al civico 8, violando il codice stradale, in particolare l'articolo 7, comma 15 riguardante il parcheggio in doppia fila.Devo decurtare 4 punti. Non è necessaria alcuna sanzione accessoria. Il ciclomotore è di colore nero, con numero di telaio 17425284465069892 e massa 1180 kg.Stampamelo con il bluetooth in italiano, stampa anche la comunicazione."
+}

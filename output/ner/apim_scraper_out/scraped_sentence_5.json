@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo Mercedes Classe A con targa di tipo prova proveniente dalla Grecia. La violazione è avvenuta il 23 marzo 2025 alle 6:37 per transito in zona accesso vietato in via Etna, numero 45, secondo l'articolo 3, comma 1 del codice civile. Sono previsti quattro punti di decurtazione. Si richiede la stampa del preavviso tramite WiFi in lingua italiana, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "23/03/2025",
+            "ora_violazione": "06:37",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via etna",
+            "Civico_1": "45",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "grecia",
+                    "targa": "gia789i",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "3",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo autovettura marca mercedes classe a targato gia sette centottantanove i di tipo prova proveniente da grecia in data ventitré marzo duemilaventicinque alle ore sei e trentasette stata rilevata la violazione di transito in zona accesso vietato in via etna al numero quarantacinque in base all'articolo tre comma uno del codice civile per tale infrazione sono previsti quattro punti di decurtazione si richiede la stampa del preavviso tramite wifi in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo autovettura, marca Mercedes Classe A, targato GH789IJ di tipo prova, proveniente da grecia. In data 23/03/2025 alle ore 06:37, è stata rilevata la violazione di transito in zona accesso vietato in via Etnea, al numero 45, in base all'articolo 3, comma 1 del codice civile.Per tale infrazione sono previsti 4 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua italiano, stampa anche la comunicazione."
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale elevato il 5 aprile 2025 alle ore 17:05 per una violazione del codice penale, articolo 158, comma 2, riguardante il transito in zona accesso vietato. La violazione è stata rilevata in Piazza Venezia, civico 1. Il veicolo coinvolto è una macchina operatrice con targa di prova immatricolata in Croazia. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 2 punti. La stampa del verbale è richiesta in lingua italiana, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "05/04/2025",
+            "ora_violazione": "17:05",
+            "data_verbalizzazione": "05/04/2025",
+            "ora_verbalizzazione": "17:05",
+            "luogo_verbalizzazione": "piazza venezia",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "1",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "cappelle trecentoventi uno megan new tony",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "158",
+                    "comma": "2",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data cinque aprile duemilaventicinque alle ore diciassette cinque si eleva verbale al veicolo un dai venti macchina operatrice con targa cappelle trecentoventi uno megan new tony di tipo prova immatricolati in croazia per violazione dell'articolo centocinquantotto comma due del codice penale ovvero transito in zona accesso vietato rilevata in piazza venezia al civico uno non è stato possibile effettuare la contestazione immediata motivo assenza del trasgressori dalla violazione derivano due punti di decurtazione stampa necessaria in lingua italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "In data 05/04/2025, alle ore 17:05, si eleva verbale al veicolo Hyundai i20, macchina operatrice con targa KL321MN di tipo prova, immatricolato in croazia, per violazione dell'articolo 158, comma 2 del codice penale, ovvero transito in zona accesso vietato, rilevata in piazza Venezia, al civico 1.Non è stato possibile effettuare la contestazione immediata, motivo: assenza del trasgressore. Dalla violazione derivano 2 punti di decurtazione. Stampa necessaria in lingua italiano via wifi, non stampare anche la comunicazione."
+}

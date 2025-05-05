@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo ciclomotore marca Fox Ex Vaga in Golf, targato con tipo di copertura, proveniente dall'Olanda. L'infrazione è stata rilevata il 1° aprile 2025 alle ore 07:57, in via Etna al civico 45, per parcheggio in divieto di sosta, violando l'articolo 6, comma 1a(1-12) del codice penale. L'agente Silvia Neri ha provveduto alla contestazione immediata, comportando la perdita di 2 punti. Si richiede la stampa del verbale in italiano tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "01/04/2025",
+            "ora_violazione": "07:57",
+            "data_verbalizzazione": "01/04/2025",
+            "ora_verbalizzazione": "07:57",
+            "luogo_verbalizzazione": "via etna, civico 45",
+            "Strada_1": "via etna",
+            "Civico_1": "45",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "olanda",
+                    "targa": "i che quattrocentocinquanta sei chi lo litri",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "fox ex vaga in golf",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "6",
+                    "comma": "1a(1-12)",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo ciclomotori marca fox ex vaga in golf targato i che quattrocentocinquanta sei chi lo litri di tipo copertura proveniente da olanda l'infrazione e stata rilevata il primo aprile duemilaventicinque alle ore sette cinquantasette il veicolo si trovava in via etna al civico quarantacinque in parcheggiato in divieto di sosta violando l'articolo sei con ma prima uno dodici del codice penale l'agente silvia neri a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di due punti richiedo la stampa del verbale in italiano tramite blood stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo ciclomotore, marca Volkswagen Golf, targato IJ456KL (di tipo copertura), proveniente da olanda.  L'infrazione è stata rilevata il 01/04/2025 alle ore 07:57. Il veicolo si trovava in via Etnea, al civico 45, in parcheggio in divieto di sosta, violando l'articolo 6, comma 1a(1-12), del codice penale. L'agente Silvia Neri ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 2 punti.  Richiedo la stampa del verbale in italiano tramite bluetooth, stampa anche la comunicazione."
+}

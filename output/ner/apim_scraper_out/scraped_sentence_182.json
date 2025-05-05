@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il 21 aprile 2025 alle ore 9:17 per una violazione riscontrata su un veicolo autovettura marca Fiat Panda, targato CI123AB, tipo ufficiale, proveniente dalla Croazia. La violazione è avvenuta in Corso Vittorio Emanuele, civico 15, per parcheggio davanti a passo carabine, in violazione dell'articolo 7, comma 5 del codice civile. La contestazione non è stata immediata a causa dell'assenza del conducente. È prevista la decurtazione di un punto dalla patente. Si richiede la stampa in italiano via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "21/04/2025",
+            "ora_violazione": "09:17",
+            "data_verbalizzazione": "21/04/2025",
+            "ora_verbalizzazione": "09:17",
+            "luogo_verbalizzazione": "corso vittorio emanuele, civico 15",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "15",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "croazia",
+                    "targa": "CI123AB",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fiat panda",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "7",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 1,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data ventuno aprile duemilaventicinque alle ore nove e diciassette per la violazione riscontrata al veicolo autovettura marca fiat panda targato ci di centoventitre abby tipo ufficiale proveniente da croazia in particolare in corso vittorio emanuele civico quindici è stato accertato parcheggia davanti a passo carabine in violazione dell'articolo sette comma cinque del codice civile data l'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di un punti dalla patente richiedo la stampa in italiano via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 21/04/2025 alle ore 09:17 per la violazione riscontrata al veicolo autovettura, marca Fiat Panda, targato CD123AB (tipo ufficiale) proveniente da croazia. In particolare, in corso Vittorio Emanuele, civico 15, è stato accertato parcheggio davanti a passo carrabile, in violazione dell'articolo 7, comma 5 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 1 punti dalla patente. Richiedo la stampa in italiano via bluetooth, stampa anche la comunicazione. "
+}

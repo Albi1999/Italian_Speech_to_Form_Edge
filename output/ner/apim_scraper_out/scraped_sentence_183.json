@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a un motoveicolo con targa 'un novecentottanta sette doppia wings', di tipo prova, proveniente dalla Spagna e marca 'chi'. La violazione riguarda il parcheggio in zona a rimozione, verificata il 26 marzo 2025 alle ore 12:04 in via Venti Settembre, numero civico 5. L'infrazione rientra nell'articolo 3, comma 1 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 10 punti. Si richiede la stampa in lingua italiana tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "26/03/2025",
+            "ora_violazione": "12:04",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via Venti Settembre",
+            "Civico_1": "5",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "Spagna",
+                    "targa": "un novecentottanta sette doppia wings",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "chi",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "3",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo motoveicoli targato un novecentottanta sette doppia wings di tipo prova proveniente da spagna marca chi appiccando la violazione ovvero parcheggio in zona a rimozione se verificata in data ventisei marzo duemilaventicinque alle ore dodici quattro in via venti settembre al numero cinque l'infrazione rientra nell'articolo tre comma uno del codice civile non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori motivo mancata contestazione assenza del trasgressori la sanzione prevede la perdita di dieci punti si richiede la stampa in lingua italiano tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo motoveicolo targato UV987WX di tipo prova proveniente da spagna, marca Kia Picanto. La violazione, ovvero parcheggio in zona rimozione, si è verificata in data 26/03/2025 alle ore 12:04 in via XX Settembre, al numero 5. L'infrazione rientra nell'articolo 3, comma 1 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, motivo mancata contestazione: assenza del trasgressore. La sanzione prevede la perdita di 10 punti. Si richiede la stampa in lingua italiano, tramite wifi, non stampare anche la comunicazione. "
+}

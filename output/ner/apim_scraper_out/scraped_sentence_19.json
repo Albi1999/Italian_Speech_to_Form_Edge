@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è un'autovettura Peugeot 208 con targa di copertura proveniente dalla Francia. L'infrazione è stata rilevata il 7 aprile 2025 alle 4:45 in corso Vittorio Emanuele, civico 15, per transito in zona ad accesso vietato, violando l'articolo 8, comma 6 del codice civile. Non è stata possibile la contestazione immediata per assenza del trasgressore, comportando la perdita di 10 punti. Si richiede la stampa del verbale in italiano tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "07/04/2025",
+            "ora_violazione": "04:45",
+            "data_verbalizzazione": "07/04/2025",
+            "ora_verbalizzazione": "04:45",
+            "luogo_verbalizzazione": "corso vittorio emanuele, civico 15",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "15",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "francia",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "peugeot 208",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "8",
+                    "comma": "6",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo autovettura marca peggio duecentotto targato icsi ypsilon trecentoventi uno sa di tipo copertura proveniente da francia l'infrazione stata rilevata il sette aprile duemilaventicinque alle ore cinque meno un quarto il veicolo si trovava in corso vittorio emanuele al civico quindici in transito in zona accesso vietato violando l'articolo otto comma sei del codice civile non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori quindi motivo mancata contestazione assenza del trasgressori la violazione comporta la perdita di dieci punti richiedo la stampa del verbale in italiano tramite vuoi fai stampa anche la comunicativa",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo autovettura, marca Peugeot 208, targato XY321ZA (di tipo copertura), proveniente da francia.  L'infrazione è stata rilevata il 07/04/2025 alle ore 04:45. Il veicolo si trovava in corso Vittorio Emanuele, al civico 15, in transito in zona accesso vietato, violando l'articolo 8, comma 6, del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore, quindi motivo mancata contestazione: assenza del trasgressore. La violazione comporta la perdita di 10 punti.  Richiedo la stampa del verbale in italiano tramite wifi, stampa anche la comunicazione."
+}

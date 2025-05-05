@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 28 marzo 2025 alle 8:51 per un veicolo Mercedes Classe A, macchina operatrice immatricolata in Germania con targa di tipo copertura. L'infrazione è avvenuta in via Enea, civico 45, per violazione del codice civile, articolo 157, comma 5, ovvero parcheggio in divieto di sosta. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti due punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è in italiano tramite WiFi e non include la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "28/03/2025",
+            "ora_violazione": "08:51",
+            "data_verbalizzazione": "28/03/2025",
+            "ora_verbalizzazione": "08:51",
+            "luogo_verbalizzazione": "via Enea, civico 45",
+            "Strada_1": "via Enea",
+            "Civico_1": "45",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "Germania",
+                    "targa": "capelli trecentoventi uno yemen",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "Mercedes Classe A",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 2,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventotto marzo duemilaventicinque alle otto e cinquantuno è stato redatto un verbale per il veicolo mercedes classe a macchina operatrice immatricolati in germania con targa capelli trecentoventi uno yemen di tipo copertura l'infrazione e avvenuta in via enea al civico quarantacinque e stata riscontrata una violazione del codice civile articolo centocinquantasette con ma cinque ovvero parcheggio in divieto di sosta non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti due punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in italiano tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 28/03/2025, alle ore 08:51, è stato redatto un verbale per il veicolo Mercedes Classe A, macchina operatrice immatricolato in germania con targa KL321MN di tipo copertura. L'infrazione è avvenuta in via Etnea, al civico 45. È stata riscontrata una violazione del codice civile, articolo 157, comma 5 ovvero parcheggio in divieto di sostaNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 2 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in italiano tramite wifi, non stampare anche la comunicazione. "
+}

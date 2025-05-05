@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il 30 marzo 2025 alle ore 07:54 per una violazione riscontrata su un veicolo macchina operatrice marca Odia Tre, targato IXIIIY123ZZA, tipo speciale, proveniente dal Portogallo. La violazione riguarda il parcheggio in doppia fila in via della Libertà, civico 3, in violazione dell'articolo 157 comma 5 del codice penale. L'agente Matteo Gallo ha proceduto con contestazione immediata e si prevede la decurtazione di 6 punti dalla patente. La stampa è richiesta in italiano via WiFi, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "30/03/2025",
+            "ora_violazione": "07:54",
+            "data_verbalizzazione": "30/03/2025",
+            "ora_verbalizzazione": "07:54",
+            "luogo_verbalizzazione": "via della libertà civico 3",
+            "Strada_1": "via della libertà",
+            "Civico_1": "3",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "IXIIIY123ZZA",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "odia tre",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 6,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data trenta marzo duemilaventicinque alle ore sette cinquantaquattro per la violazione riscontrata al veicolo macchina operatrice marca odia tre targato i xiii ypsilon centoventitre zza tipo speciale proveniente da portogallo in particolare in via della libertà civico tre è stato accertato parcheggio in doppia fila in violazione dell'articolo centocinquantasette comma cinque del codice penale l'agente matteo gallo a proceduto con contestazioni immediata si prevede la decurtazione di sei punti dalla patente richiedo la stampa in italiano via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 30/03/2025 alle ore 07:54 per la violazione riscontrata al veicolo macchina operatrice, marca Audi A3, targato XY123ZA (tipo speciale) proveniente da portogallo. In particolare, in via della Libertà, civico 3, è stato accertato parcheggio in doppia fila, in violazione dell'articolo 157, comma 5 del codice penale. L'agente Matteo Gallo ha proceduto con contestazione immediata. Si prevede la decurtazione di 6 punti dalla patente. Richiedo la stampa in italiano via wifi, stampa anche la comunicazione. "
+}

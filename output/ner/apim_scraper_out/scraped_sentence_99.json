@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a una violazione stradale. La violazione riguarda un veicolo di tipo \"macchina operatrice\" con targa di prova proveniente dalla Croazia, marca Mercedes Classe A. L'infrazione, parcheggio in divieto di sosta, è avvenuta il 23 marzo 2025 alle ore 9:47 in via Roma, numero 77. La contestazione è immediata e gestita dall'agente Bellini. La sanzione comporta la perdita di 9 punti. Si richiede la stampa in lingua italiana tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "23/03/2025",
+            "ora_violazione": "09:47",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via roma",
+            "Civico_1": "77",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "ho viste i centocinquantaquattro doppia ex",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "3",
+                    "comma": "1",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 9,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrice targato ho viste i centocinquantaquattro doppia ex di tipo prova proveniente da croazia marca mercedes classe a la violazione ovvero parcheggio in divieto di sosta sia e verificata in data ventitré marzo duemilaventicinque alle ore nove quarantasette in via roma al numero settantasette l'infrazione rientra nell'articolo tre con ma uno del codice stradale contestazione immediata da parte della gente sarà bellini la sanzione prevede la perdita di nove punti si richiede la stampa in lingua italiano tramite blu stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato UV654WX di tipo prova proveniente da croazia, marca Mercedes Classe A. La violazione, ovvero parcheggio in divieto di sosta, si è verificata in data 23/03/2025 alle ore 09:47 in via Roma, al numero 77. L'infrazione rientra nell'articolo 3, comma 1 del codice stradale. Contestazione immediata da parte dell'agente Sara Bellini. La sanzione prevede la perdita di 9 punti. Si richiede la stampa in lingua italiano, tramite bluetooth, stampa anche la comunicazione."
+}

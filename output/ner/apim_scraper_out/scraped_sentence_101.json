@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per una violazione accertata il 24 marzo 2025 alle 04:41 in viale dei giardini, civico 8. La violazione riguarda un veicolo tipo macchina operatrice con targa ufficiale immatricolata in Grecia, per transito in zona ad accesso vietato, articolo 3 comma 1 del codice stradale. La contestazione è stata immediata da parte dell'agente Carlo Bruni, con una decurtazione di 10 punti. Si richiede la stampa in italiano via Bluetooth, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "24/03/2025",
+            "ora_violazione": "04:41",
+            "data_verbalizzazione": "24/03/2025",
+            "ora_verbalizzazione": "04:41",
+            "luogo_verbalizzazione": "viale dei giardini, civico 8",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "8",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "guerra e quattrocentocinquanta sei",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "nis amica",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "3",
+                    "comma": "1",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 10,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbale per violazione accertata il ventiquattro marzo duemilaventicinque alle ore quattro e quarantuno in viale dei giardini al civic otto a carico del veicolo nis amica macchina operatrici e con targa guerra e quattrocentocinquanta sei siti di tipo ufficiali immatricolati in grecia la violazioni contestata e transito in zona accesso vietato invasi all'articolo tre coma uno del codice stradale la contestazione avvenuta immediatamente da parte della gente carlo bruni sono previsti dieci punti di decurtazione si richiede la stampa in lingua italiano via blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 24/03/2025 alle ore 04:41 in viale dei Giardini, al civico 8, a carico del veicolo Nissan Micra, macchina operatrice con targa QR456ST di tipo ufficiale, immatricolato in grecia. La violazione contestata è transito in zona accesso vietato, in base all'articolo 3, comma 1 del codice stradale. La contestazione è avvenuta immediatamente da parte dell'agente Carlo Bruni. Sono previsti 10 punti di decurtazione. Si richiede la stampa in lingua italiano via bluetooth, non stampare anche la comunicazione. "
+}

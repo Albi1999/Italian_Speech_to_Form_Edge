@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a un veicolo rimorchio con targa di tipo prova proveniente dal Portogallo, marca \"un dei venti\". La violazione, ovvero parcheggio in divieto di sosta, si è verificata il 17 aprile 2025 alle ore 04:05 in Corso Vittorio Emanuele, numero civico 15. L'infrazione rientra nell'articolo 6, comma 4 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 9 punti. Si richiede la stampa in lingua italiana tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "17/04/2025",
+            "ora_violazione": "04:05",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "15",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "portogallo",
+                    "targa": "i sette centottantanove capelli",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "un dei venti",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "6",
+                    "comma": "4",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 9,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo rimorchio targato i sette centottantanove capelli di tipo prova proveniente da portogallo marca un dei venti la violazione ovvero parcheggiato in divieto di sosta si e verificata in data diciassette aprile duemilaventicinque alle ore quattro e cinque in corso vittorio emanuele al numero quindi l'infrazione rientra nell'articolo sei con ma quattro del codice civile non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori motivo mancata contestazione assenza del trasgressori la sanzione prevede la perdita di nove punti si richiede la stampa in lingua italiano tramite guai fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo rimorchio targato IJ789KL di tipo prova proveniente da portogallo, marca Hyundai i20. La violazione, ovvero parcheggio in divieto di sosta, si è verificata in data 17/04/2025 alle ore 04:05 in corso Vittorio Emanuele, al numero 15. L'infrazione rientra nell'articolo 6, comma 4 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, motivo mancata contestazione: assenza del trasgressore. La sanzione prevede la perdita di 9 punti. Si richiede la stampa in lingua italiano, tramite wifi, stampa anche la comunicazione. "
+}

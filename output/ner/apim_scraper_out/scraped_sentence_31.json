@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la preparazione di un verbale per una violazione accertata il 12 aprile 2025 alle ore 4:43 in via Giuseppe Mazzini, civico 24. La violazione riguarda un ciclomotore con targa speciale immatricolato in Croazia, accusato di parcheggio davanti a passo carraio, secondo l'articolo 157, comma 5 del codice penale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. Sono previsti nove punti di decurtazione. La stampa del verbale è richiesta in lingua italiana via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "12/04/2025",
+            "ora_violazione": "04:43",
+            "data_verbalizzazione": "12/04/2025",
+            "ora_verbalizzazione": "04:43",
+            "luogo_verbalizzazione": "via Giuseppe Mazzini, civico 24",
+            "Strada_1": "via Giuseppe Mazzini",
+            "Civico_1": "24",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "Croazia",
+                    "targa": "I123CHI",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "157",
+                    "comma": "5",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 9,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il dodici aprile duemilaventicinque alle ore quattro e quarantatré in via giuseppe mazzini al civico ventiquattro a carico del veicolo un dai venti ciclomotori e con targa i centoventitre chi lo litri di tipo speciale immatricolati in croazia la violazione contestata e parcheggio davanti a passo carabine in base all'articolo centocinquantasette con ma cinque del codice penale non è stato possibile contestare immediatamente motivo assenza del trasgressori sono previsti nove punti di decurtazione si richiede la stampa in lingua italiano via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 12/04/2025 alle ore 04:43 in via Giuseppe Mazzini, al civico 24, a carico del veicolo Hyundai i20, ciclomotore con targa IJ123KL di tipo speciale, immatricolato in croazia. La violazione contestata è parcheggio davanti a passo carrabile, in base all'articolo 157, comma 5 del codice penale.Non è stato possibile contestare immediatamente, motivo: assenza del trasgressore. Sono previsti 9 punti di decurtazione. Si richiede la stampa in lingua italiano via bluetooth, non stampare anche la comunicazione."
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo rimorchio di marca Nucleo con targa 'guerra e quattrocentocinquanta sei', tipo prova, proveniente dall'Italia. L'infrazione è avvenuta il 1° aprile 2025 alle ore 20:30 in via Garibaldi, numero civico 11, per parcheggio davanti a passo carabine, violando l'articolo 8, comma 6 del codice stradale. La decurtazione prevista è di quattro punti. La contestazione immediata è stata applicata dall'agente Anna Bianchi. La stampa del verbale è necessaria tramite Bluetooth in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "01/04/2025",
+            "ora_violazione": "20:30",
+            "data_verbalizzazione": "01/04/2025",
+            "ora_verbalizzazione": "20:30",
+            "luogo_verbalizzazione": "via garibaldi numero civico undici",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "11",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "italia",
+                    "targa": "guerra e quattrocentocinquanta sei",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "nucleo",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "8",
+                    "comma": "6",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo rimorchio di marcare nucleo con targa guerra e quattrocentocinquanta sei e se ti tipo prova proveniente da italia fatto avvenuto il primo aprile duemilaventicinque alle ore venti e trenta posizione via garibaldi numero civico undici infrazione parcheggio davanti a passo carabine in violazione dell'articolo otto coma sei del codice stradale decurtazione prevista quattro punti si applica contestazione immediata da parte della gente anna bianchi stampa necessaria tramite piu tutti in italiano non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo rimorchio di marca Renault Clio, con targa QR456ST (tipo prova), proveniente da italia. Fatto avvenuto il 01/04/2025 alle ore 20:30. Posizione: via Garibaldi, numero civico 11. Infrazione: parcheggio davanti a passo carrabile, in violazione dell'articolo 8, comma 6, del codice stradale. Decurtazione prevista: 4 punti. Si applica contestazione immediata da parte dell'agente Anna Bianchi. Stampa necessaria tramite bluetooth in italiano, non stampare anche la comunicazione. "
+}

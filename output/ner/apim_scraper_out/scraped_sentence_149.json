@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a un veicolo autovettura con targa speciale proveniente dall'Olanda, marca Odia. La violazione riguarda il parcheggio davanti a un passo carrabile, avvenuta il 9 aprile 2025 alle ore 12:29 in via del Corso, numero 12. L'infrazione rientra nell'articolo 8, comma 6 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 9 punti. Si richiede la stampa in lingua italiana tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "09/04/2025",
+            "ora_violazione": "12:29",
+            "data_verbalizzazione": null,
+            "ora_verbalizzazione": null,
+            "luogo_verbalizzazione": null,
+            "Strada_1": "via del corso",
+            "Civico_1": "12",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "olanda",
+                    "targa": "guerre novecentottanta sette",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "odia tre",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": null
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "8",
+                    "comma": "6",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": 9,
+            "dichiarazioni": null,
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo autovettura targato guerre novecentottanta sette se tipi tipo speciale proveniente da olanda marca odia tre la violazione ovvero parcheggio davanti a passo cary abile sia verificata in data nove aprile duemilaventicinque alle ore dodici e ventinove in via del corso al numero dodici l'infrazione rientra nell'articolo otto comma sei del codice civile non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori motivo mancata contestazione assenza del trasgressori la sanzioni prevede la perdita di nove punti si richiede la stampa in lingua italiano tramite weiwei stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato QR987ST di tipo speciale proveniente da olanda, marca Audi A3. La violazione, ovvero parcheggio davanti a passo carrabile, si è verificata in data 09/04/2025 alle ore 12:29 in via del Corso, al numero 12. L'infrazione rientra nell'articolo 8, comma 6 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore, motivo mancata contestazione: assenza del trasgressore. La sanzione prevede la perdita di 9 punti. Si richiede la stampa in lingua italiano, tramite wifi, stampa anche la comunicazione. "
+}

@@ -1,0 +1,46 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la preparazione di un verbale per un veicolo Audi A3 con rimorchio, immatricolato in Slovenia e con targa di tipo prova. L'infrazione è avvenuta in Corso Buenos Aires, civico 98, davanti a un passo carabine. Si applica l'articolo 9, comma 1 del codice stradale, con la decurtazione di 4 punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. La stampa del verbale deve essere effettuata in italiano tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "",
+            "ora_violazione": "",
+            "data_verbalizzazione": "",
+            "ora_verbalizzazione": "",
+            "luogo_verbalizzazione": "corso buenos aires, civico 98",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "98",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "icsi ypsilon novecentottanta sette",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "audi a3",
+                    "colore": null,
+                    "telaio": null,
+                    "massa": null,
+                    "note_veicolo": "rimorchio"
+                }
+            ],
+            "contestazione_immediata": "mancata contestazione",
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "9",
+                    "comma": "1",
+                    "sanzione_accessoria": "senza sanzione accessoria"
+                }
+            ],
+            "punti": 4,
+            "dichiarazioni": null,
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo audi a tre rimorchio immatricolati slovenia con targa icsi ypsilon novecentottanta sette gettati di tipo prova l'infrazione e avvenuta in corso buenos aires civico novantotto parcheggio davanti a passo carabine si applica l'articolo nove con ma uno del codice stradale a seguito della violazione verranno decurtati quattro punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in italiano tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Audi A3, rimorchio immatricolato in slovenia con targa XY987ZT di tipo prova. L'infrazione è avvenuta in corso Buenos Aires, civico 98: parcheggio davanti a passo carrabile. Si applica l'articolo 9, comma 1 del codice stradale. A seguito della violazione verranno decurtati 4 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in italiano tramite bluetooth, non stampare anche la comunicazione. "
+}
