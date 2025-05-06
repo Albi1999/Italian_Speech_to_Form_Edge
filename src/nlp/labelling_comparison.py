@@ -99,7 +99,6 @@ LABEL_STUDIO_TEXT_TO_CANONICAL = {
     ('SANZIONE_ACCESSORIA', 'non è stata applicata alcuna sanzione accessoria'): 'senza sanzione accessoria',
     ('SANZIONE_ACCESSORIA', 'non è stato applicata una sanzione accessoria'): 'senza sanzione accessoria',
     ('SANZIONE_ACCESSORIA', 'applico una sanzione accessoria'): 'con sanzione accessoria',
-    ('SANZIONE_ACCESSORIA', 'il verbale è stato contestato immediatamente'): 'con sanzione accessoria',
 
     ('MOTIVO_MANCATA_CONTESTAZIONE', 'assenza del trasgressori'): 'assenza del trasgressore',
     ('MOTIVO_MANCATA_CONTESTAZIONE', 'assenza del conducente'): 'assenza del trasgressore',

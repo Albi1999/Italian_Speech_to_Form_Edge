@@ -12,7 +12,7 @@ from gtts import gTTS
 class SyntheticDatasetGenerator:
     def __init__(
         self,
-        output_dir="data/synthetic_datasets/GoogleTTS",
+        output_dir="data/synthetic_datasets/new_data/GoogleTTS",
         num_samples=100,
         lang="it",
         seed=42
@@ -40,8 +40,11 @@ class SyntheticDatasetGenerator:
                      "Citroen C3", "Mazda 2", "Honda Jazz", "Subaru Impreza", "Mitsubishi Colt", "Suzuki Swift", "Chevrolet Spark",
                      "Lancia Ypsilon", "Alfa Romeo Giulietta", "Fiat 500", "Volkswagen Polo", "Renault Captur", "Peugeot 2008", "Nissan Juke",
                      "Kia Stonic", "Hyundai Kona", "Seat Arona", "Skoda Kamiq", "Dacia Duster", "Citroen C4 Cactus", "Mazda CX-3", "Honda HR-V",
-                     "Subaru XV", "Mitsubishi ASX", "Suzuki Vitara", "Chevrolet Trax", "Lancia Delta", "Alfa Romeo Stelvio", "Fiat Tipo"]
-        self.plates = ["AB123CD", "CD456EF", "GH789IJ", "KL321MN", "XY987ZT", "ZA456QP", "FG234LM", "TR098YU", "JK567OP", "UV123WX", "QR456ST", "EP789GH", 
+                     "Subaru XV", "Mitsubishi ASX", "Suzuki Vitara", "Chevrolet Trax", "Lancia Delta", "Alfa Romeo Stelvio", "Fiat Tipo",
+                     "Ducati Monster", "Yamaha MT-07", "Kawasaki Z650", "Honda CB650R", "BMW F 900 R", "Suzuki SV650", "Triumph Street Triple",
+                     "KTM 790 Duke", "Harley-Davidson Street 750", "Moto Guzzi V7", "Royal Enfield Interceptor 650", "Benelli Leoncino 500",
+                     "Kawasaki Ninja 650", "Yamaha YZF-R7", "Honda CBR650R", "BMW F 900 XR", "Ducati Multistrada V2", "Triumph Tiger 850 Sport"]
+        self.plates = ["AB123CD", "CD456EF", "GH789IJ", "KL321MN", "XY987ZT", "ZA456QP", "FG234LM", "TR098YU", "JK567OP", "UV123WX", "QR456ST", "EP789GH",
                        "CD123AB", "EF456GH", "IJ789KL", "MN321OP", "QR987ST", "UV654WX", "XY321ZA", "AB456CD", "EF789GH", "IJ123KL", "MN456OP",
                        "QR789ST", "UV321WX", "XY654ZA", "AB789CD", "EF123GH", "IJ456KL", "MN789OP", "QR321ST", "UV987WX", "XY123ZA", "AB654CD",
                        "EF321GH", "IJ654KL", "MN123OP", "QR456ST", "UV789WX", "XY987ZA", "AB321CD", "EF654GH", "IJ789KL", "MN456OP", "QR123ST",
@@ -53,6 +56,7 @@ class SyntheticDatasetGenerator:
                         "piazza Venezia, 1", "via Garibaldi, 11", "corso Buenos Aires, 98", "via Etnea, 45", "via Roma, 77",
                         "corso Vittorio Emanuele, 15", "via della Libertà, 3", "viale dei Giardini, 8", "via della Repubblica, 20"
                         "via dei Fori Imperiali, 10", "viale della Stazione, 4", "via della Storia, 6", "corso Italia, 30",
+                        "via della Cultura, 9", "viale della Scienza, 14", "via della Musica, 18", "corso della Storia, 22",
                         "via della Pace, 2", "viale della Vittoria, 9", "via della Concordia, 14", "corso della Libertà, 7",
                         "via della Speranza, 18", "viale della Libertà, 22", "via della Giustizia, 16", "corso della Repubblica, 19",
                         "via della Libertà, 21", "viale della Concordia, 13", "via della Speranza, 17", "corso della Giustizia, 23"]
@@ -60,11 +64,13 @@ class SyntheticDatasetGenerator:
                            "transito in zona accesso vietato", "parcheggio in zona rimozione", "parcheggio davanti a passo carrabile"]
         self.articles = ["158, 2", "7, 15", "157, 5", "6, 1a(1-12)", "9, 1", "14, 1", "185, 2", "3, 1", "4, 2", "5, 3", "6, 4", "7, 5", "8, 6",
                          "9, 7", "10, 8", "121, 9", "12, 10", "13, 11", "14, 12", "3415, 13", "16, 14", "17, 15", "1228, 16", "19, 17", "20, 18",
-                         "21, 19", "22, 20", "23, 21", "24, 22", "2235, 23", "26, 24", "27, 25", "28, 26", "29, 27", "30, 28", "31, 29"]
+                         "21, 19", "22, 20", "23, 21", "24, 22", "2235, 23", "26, 24", "27, 25", "28, 26", "29, 27", "30, 28", "31, 29"
+                         "32, 30", "33, 31", "34, 32", "35, 33", "36, 34", "37, 35", "38, 36", "39, 37", "40, 38", "41, 39", "42, 40",
+                         "43, 41", "44, 42", "45, 43", "46, 44", "47, 45", "48, 46", "49, 47", "50, 48", "51, 49", "52, 50", "53, 51"]
         self.vehicle_types = ["ciclomotore", "motoveicolo", "autovettura", "rimorchio", "macchina agricola", "macchina operatrice"]
         self.violation_types = ["civile", "penale", "stradale"]
         self.print_methods = ["bluetooth", "wifi"]
-        self.print_languages = ["italiano", "inglese", "francese", "spagnolo", "tedesco"]
+        self.print_languages = ["italiano", "inglese", "francese", "spagnolo", "tedesco", "portoghese", "olandese"]
         self.print_options = ["stampa anche la comunicazione", "non stampare anche la comunicazione"]
 
     def generate_all(self):
@@ -206,8 +212,8 @@ class SyntheticDatasetGenerator:
         
         # Details specific to the vehicle
         cars = random.choice(self.cars)
-        color = random.choice(['rosso', 'blu', 'verde', 'nero', 'grigio', 'giallo', 'bianco', 'viola', 'arancione'])
-        chassis = f"{random.randint(10000000000000000, 99999999999999999)}"
+        color = random.choice(['rosso', 'blu', 'verde', 'nero', 'grigio', 'giallo', 'bianco', 'viola', 'arancione', 'argento', 'marrone', 'oro'])
+        chassis = f"{random.randint(100000000, 1000000000)}"
         mass = f"{random.randint(1000, 4000)} kg"
         # Additional details
         print_method = random.choice(self.print_methods)
@@ -228,14 +234,14 @@ class SyntheticDatasetGenerator:
             f"L'infrazione è stata rilevata in {street}, al civico {civico}, con violazione del codice {violation_type}, articolo {article}, comma {comma}, in particolare si è riscontrato un {violation} " +
             "Non è stato possibile contestare per l'assenza del trasgressore. " +
             f"Da decurtare ci sono {random.randint(1, 10)} punti. " +
-            (f"Il veicolo è un {cars} di colore {color}, con numero di telaio {chassis} e massa {mass}." if random.choice([True, False]) else "Ulteriori dettagli sul veicolo non sono necessari. ") +
+            (f"Il veicolo è un {cars} di colore {color}, con numero di telaio {chassis} e massa {mass}.") +
             f"Necessito la stampa del preavviso tramite {print_method}, in {print_language}, {print_option}.",
 
             f"Il {date_violation}, alle ore {time_violation}, sto emettendo una notifica di infrazione per il veicolo {cars}, {vehicle_type} immatricolato in {nationality} con targa {plate} di tipo {kind_plate}. " +
             f"L'infrazione si è verificata presso {street}, al civico {civico}, violando il codice {violation_type}, in particolare l'articolo {article}, comma {comma} riguardante il {violation}." +
             f"Devo decurtare {random.randint(1, 10)} punti. " +
             ("Applico una sanzione accessoria in base alle circostanze. " if random.choice([True, False]) else "Non è necessaria alcuna sanzione accessoria. ") +
-            (f"Il {vehicle_type} è di colore {color}, con numero di telaio {chassis} e massa {mass}." if random.choice([True, False]) else f"Non sono necessari ulteriori dettagli sul {vehicle_type}. ") +
+            (f"Il {vehicle_type} è di colore {color}, con numero di telaio {chassis} e massa {mass}.") +
             f"Stampamelo con il {print_method} in {print_language}, {print_option}.",
 
             f"Alle {time_violation} del {date_violation}, sto redigendo un verbale per il veicolo {vehicle_type} targato {plate} con targa {kind_plate}, immatricolato in {nationality}" +
@@ -321,7 +327,7 @@ class SyntheticDatasetGenerator:
         ]
 
         selected_sentence = random.choice(templates)
-        print(f"Generated sentence: {selected_sentence}")
+        #print(f"Generated sentence: {selected_sentence}")
         return selected_sentence, date_violation, time_violation
 
 
@@ -396,7 +402,7 @@ class SyntheticDatasetGenerator:
             print(f"Failed to save sentences to {sentences_path}: {e}")
 
 if __name__ == "__main__":
-    generator = SyntheticDatasetGenerator(num_samples=100)
+    generator = SyntheticDatasetGenerator(num_samples=500)
     generator.generate_all()
 
     # Regenerate specific corrupted samples

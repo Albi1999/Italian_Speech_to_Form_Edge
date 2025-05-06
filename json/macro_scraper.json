@@ -1,0 +1,173 @@
+{
+    "requested_informations": [
+        {
+            "title": "verbale_preavviso",
+            "description": "Indicates whether the officier has to do a verbale or preavviso",
+            "type": "text",
+            "accepted_values": null,
+            "example": "preavviso"
+        },
+        {
+            "title": "data_violazione",
+            "description": "Date of the violation, keep the original text format",
+            "type": "text",
+            "accepted_values": null,
+            "example": "venti aprile duemilaventicinque"
+        },
+        {
+            "title": "ora_violazione",
+            "description": "Time of the violation, keep the original text format",
+            "type": "text",
+            "accepted_values": null,
+            "example": "quattordici quarantuno"
+        },
+        {
+            "title": "Strada_1",
+            "description": "Address of the violation",
+            "type": "address",
+            "accepted_values": null,
+            "example": "via roma"
+        },
+        {
+            "title": "Civico_1",
+            "description": "Street number of the violation, keep the original text format",
+            "type": "text",
+            "accepted_values": null,
+            "example": "dieci"
+        },
+        {
+            "title": "lista_veicoli",
+            "description": "Vehicles details",
+            "list": {
+                "title": "veicolo",
+                "description": "Vehicle details",
+                "group":[
+                    {
+                        "title": "tipologia",
+                        "description": "Type of vehicle",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "ciclomotore"
+                    },
+                    {
+                        "title": "nazione",
+                        "description": "Country of the license plate",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "italia"
+                    },
+                    {
+                        "title": "targa",
+                        "description": "License plate of the vehicle, keep the original text format",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "gi bi cinquecento ventitre ci effe"
+                    },
+                    {
+                        "title": "tipologia_targa",
+                        "description": "Type of license plate",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "ufficiale"
+                    },
+                    {
+                        "title": "marca_modello",
+                        "description": "Brand and/or model of the vehicle, keep the original text format",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "fiat panda"
+                    },
+                    {
+                        "title": "colore",
+                        "description": "Color of the vehicle",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "rosso"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "contestazione_immediata",
+            "description": "Immediate contestation",
+            "type": "text",
+            "accepted_values": null,
+            "example": "contestazione eseguita immediatamente"
+        },
+        {
+            "title": "motivo_mancata_contestazione",
+            "description": "Reason for missed contestation",
+            "type": "text",
+            "accepted_values": null,
+            "example": "assenza del trasgressore"
+        },
+        {
+            "title": "violazioni",
+            "description": "Details of the violations",
+            "list": {
+                    "title": "violazione",
+                    "description": "Details of the violation",
+                    "group":[
+                    {
+                        "title": "codice",
+                        "description": "Law code violated",
+                        "type": "text",
+                        "accepted_values": ["civile", "penale", "stradale"],
+                        "example": "stradale"
+                    },
+                    {
+                        "title": "articolo",
+                        "description": "Article violated, keep the original text format",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "sei"
+                    },
+                    {
+                        "title": "comma",
+                        "description": "Comma of the article, keep the original text format",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "tre"
+                    },
+                    {
+                        "title": "sanzione_accessoria",
+                        "description": "Accessory sanction",
+                        "type": "text",
+                        "accepted_values": null,
+                        "example": "applico una sanzione accessoria"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "punti",
+            "description": "Points deducted, keep the original text format",
+            "type": "text",
+            "accepted_values": null,
+            "example": "cinque"
+        },
+        {
+            "title": "tipo_stampa",
+            "description": "How he wants to print (Bluetooth/WIFI), keep the original text format",
+            "type": "text",
+            "accepted_values": null,
+            "example": "wifi"
+        },
+        {
+            "title": "lingua_stampa",
+            "description": "Print language",
+            "type": "text",
+            "accepted_values": null,
+            "example": "italiano"
+        },
+        {
+            "title": "stampa_anche_comunicazione",
+            "description": "Print also communication (true/false)",
+            "type": "text",
+            "accepted_values": null,
+            "example": "non stampare anche la comunicazione"
+        }
+    ],
+    "topic": "Parsing filtro. Estrai dal testo le informazioni per impostare un filtro di ricerca",
+    "language": "Italian"
+}
