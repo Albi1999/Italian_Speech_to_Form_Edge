@@ -3,14 +3,16 @@ import json
 import dotenv
 import requests
 import sys
+from tqdm import tqdm
 
 dotenv.load_dotenv()
 API_KEY_ENV_VAR = "APIM_AI_DEV_KEY"
 BASE_URL_ENV_VAR = "AI_DEV_BASE_URL"
-TRANSCRIPTIONS_FILE_PATH = "output/stt/vosk_transcription/transcriptions.json"
+TRANSCRIPTIONS_FILE_PATH = "output/stt/train_transcription/train_transcriptions.json"
 MACRO_JSON_DIR = "json"
-MACRO_JSON_FILENAME = "macro_complete.json"
-OUTPUT_DIR = "output/ner/apim_scraper_out/"
+MACRO_JSON_FILENAME = "macro_scraper.json"
+OUTPUT_DIR = "output/ner/apim_scraper_out/train"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 class InformationScraper:
     """Handles interaction with the document analysis API."""
@@ -87,7 +89,6 @@ class InformationScraper:
 
             with open(output_path, 'w', encoding='utf-8') as f:
                 json.dump(output_data, f, indent=4, ensure_ascii=False)
-            print(f"Output successfully saved to {output_path}")
 
         except requests.exceptions.RequestException as e:
             print(f"Error during API request for document '{document_text[:30]}...': {e}")
@@ -188,9 +189,7 @@ def main():
     print(f"\nFound {len(transcription_entries)} entries to process.")
 
     # Process each entry
-    for index, transcribed_text, original_text in transcription_entries:
-        print(f"\nProcessing sentence index: {index}")
-        print(f"  Transcribed: '{transcribed_text[:50]}...'")
+    for index, transcribed_text, original_text in tqdm(transcription_entries, desc="Processing entries"):
 
         output_filename = f"scraped_sentence_{index}.json"
 

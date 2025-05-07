@@ -4,7 +4,7 @@ import glob
 from collections import defaultdict
 import re
 
-LLM_OUTPUT_DIR = "output/ner/apim_scraper_out/"
+LLM_OUTPUT_DIR = "output/ner/apim_scraper_out/validation"
 LABEL_STUDIO_FILE = "other/label_studio_output_refined.json"
 
 LABELS_TO_IGNORE = {

@@ -30,7 +30,7 @@ class AzureSyntheticDatasetGenerator:
         voice_names=None,
         azure_key=None,
         azure_region=None,
-        seed=42
+        seed=456734
     ):
         """
         Initializes the generator for Azure Standard TTS voices.
@@ -180,8 +180,8 @@ class AzureSyntheticDatasetGenerator:
 
         clean_audio_dir = os.path.join(audio_subdir, "clean")
         os.makedirs(clean_audio_dir, exist_ok=True)
-        base_path = os.path.join(clean_audio_dir, f"clean_{idx}.wav")
-        final_path = os.path.join(audio_subdir, f"sample_{idx}.wav")
+        base_path = os.path.join(clean_audio_dir, f"clean_{idx + 449}.wav")
+        final_path = os.path.join(audio_subdir, f"sample_{idx + 449}.wav")
 
         # Azure Voice Synthesis
         try:
@@ -264,7 +264,7 @@ class AzureSyntheticDatasetGenerator:
 
 
         metadata = {
-            "id": idx,
+            "id": idx + 449,
             "text": sentence,
             "audio_path": os.path.relpath(final_path, self.output_dir).replace("\\", "/"),
             "clean_audio_path": os.path.relpath(base_path, self.output_dir).replace("\\", "/"),
@@ -492,7 +492,7 @@ class AzureSyntheticDatasetGenerator:
 
 
 if __name__ == "__main__":
-    NUM_SAMPLES = 255
+    NUM_SAMPLES = 51
     OUTPUT_BASE = "data/synthetic_datasets/new_data/AzureTTS"
     LANG = "it-IT"
 
@@ -542,7 +542,7 @@ if __name__ == "__main__":
                     voice_names=standard_italian_voices,
                     azure_key=cognitive_svc_key,
                     azure_region=cognitive_svc_location,
-                    seed=42
+                    seed=456734
                 )
                 generator.generate_all()
                 logger.info(f"Finished dataset generation for {config_name}")

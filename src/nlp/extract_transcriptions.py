@@ -24,8 +24,8 @@ def extract_transcriptions(input_file, output_file):
     
     print(f"Transcriptions extracted and saved to {output_file}")
 
-input_file = 'output/stt/vosk_transcription/transcriptions.json'
-output_file = 'output/stt/vosk_transcription/transcription_plain.json'
+input_file = 'output/stt/train_transcription/train_transcriptions.json'
+output_file = 'output/stt/train_transcription/transcription_plain.json'
 
 extract_transcriptions(input_file, output_file)
 
@@ -79,8 +79,8 @@ def extract_transcriptions_to_txt(input_file, output_file_txt):
     except Exception as e:
         print(f"An unexpected error occurred while writing to {output_file_txt}: {e}")
 
-input_file = 'output/stt/vosk_transcription/transcriptions.json'
-output_file = 'output/stt/vosk_transcription/transcription_plain.txt'
+input_file = 'output/stt/train_transcription/train_transcriptions.json'
+output_file = 'output/stt/train_transcription/transcription_plain.txt'
 
 extract_transcriptions_to_txt(input_file, output_file)
 

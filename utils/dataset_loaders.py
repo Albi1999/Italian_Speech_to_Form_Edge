@@ -74,9 +74,12 @@ class DatasetLoader:
         METADATA_FILE = os.path.join(DATA_DIR, "all_samples_coqui.json")
         return self._load_json_metadata(METADATA_FILE, DATA_DIR, "coqui_audio_path", "text", max_samples)
 
-    def load_google_synthetic_dataset(self, max_samples=100, use_clean=False):
+    def load_google_synthetic_dataset(self, max_samples=100, use_clean=False, use_train=False):
         """Loads the Google synthetic dataset from a JSON file."""
-        DATA_DIR = os.path.join("data", "synthetic_datasets", "GoogleTTS")
+        if use_train:
+            DATA_DIR = os.path.join("data", "synthetic_datasets", "new_data", "GoogleTTS")
+        else:
+            DATA_DIR = os.path.join("data", "synthetic_datasets", "GoogleTTS")
         METADATA_FILE = os.path.join(DATA_DIR, "meta", "samples.json")
         if use_clean:
              audio_key = "google_clean"
@@ -124,9 +127,12 @@ class DatasetLoader:
             })
         return formatted_samples
     
-    def load_azure_synthetic_dataset(self, max_samples=100, use_clean=False):
+    def load_azure_synthetic_dataset(self, max_samples=100, use_clean=False, use_train=False):
         """Loads the Azure synthetic dataset from a JSON file."""
-        DATA_DIR = os.path.join("data", "synthetic_datasets", "AzureTTS")
+        if use_train:
+            DATA_DIR = os.path.join("data", "synthetic_datasets", "new_data", "AzureTTS")
+        else:
+            DATA_DIR = os.path.join("data", "synthetic_datasets", "AzureTTS")
         METADATA_FILE = os.path.join(DATA_DIR, "meta", "samples.json")
         if use_clean:
             audio_key = "clean_audio_path"
@@ -134,16 +140,16 @@ class DatasetLoader:
             audio_key = "audio_path"
         return self._load_json_metadata(METADATA_FILE, DATA_DIR, audio_key, "text", max_samples)
 
-    def load_dataset(self, name, samples_per_dataset, use_clean=False):
+    def load_dataset(self, name, samples_per_dataset, use_clean=False, use_train=False):
         if name == "common_voice":
             return self.load_commonvoice_subset(samples_per_dataset)
         elif name == "coqui":
             return self.load_coqui_dataset(samples_per_dataset)
         elif name == "google_synthetic":
-            return self.load_google_synthetic_dataset(samples_per_dataset, use_clean=use_clean)
+            return self.load_google_synthetic_dataset(samples_per_dataset, use_clean=use_clean, use_train=use_train)
         elif name == "ITALIC":
             return self.load_ITALIC_dataset(samples_per_dataset)
         elif name == "azure_synthetic":
-            return self.load_azure_synthetic_dataset(samples_per_dataset, use_clean=use_clean)
+            return self.load_azure_synthetic_dataset(samples_per_dataset, use_clean=use_clean, use_train=use_train)
         else:
             raise ValueError(f"Unknown dataset: {name}")

@@ -15,7 +15,7 @@ class SyntheticDatasetGenerator:
         output_dir="data/synthetic_datasets/new_data/GoogleTTS",
         num_samples=100,
         lang="it",
-        seed=42
+        seed=3546
     ):
         self.output_dir = output_dir
         self.num_samples = num_samples
@@ -109,8 +109,8 @@ class SyntheticDatasetGenerator:
         os.makedirs(audio_dir, exist_ok=True)
         clean_dir = os.path.join(audio_dir, "clean")
         os.makedirs(clean_dir, exist_ok=True)
-        base_path = os.path.join(clean_dir, f"clean_{idx}.wav")
-        final_path = os.path.join(audio_dir, f"sample_{idx}.wav")
+        base_path = os.path.join(clean_dir, f"clean_{idx + 449}.wav")
+        final_path = os.path.join(audio_dir, f"sample_{idx + 449}.wav")
 
         # Voice synthesis
         tts = gTTS(sentence, lang=self.lang)
@@ -149,7 +149,7 @@ class SyntheticDatasetGenerator:
             original_clean.export(final_path, format="wav")
 
         return {
-            "id": idx,
+            "id": idx + 449,
             "text": sentence,
             "audio_path": os.path.basename(final_path),
             "noise_type": noise_type,
@@ -402,7 +402,7 @@ class SyntheticDatasetGenerator:
             print(f"Failed to save sentences to {sentences_path}: {e}")
 
 if __name__ == "__main__":
-    generator = SyntheticDatasetGenerator(num_samples=500)
+    generator = SyntheticDatasetGenerator(num_samples=51)
     generator.generate_all()
 
     # Regenerate specific corrupted samples
