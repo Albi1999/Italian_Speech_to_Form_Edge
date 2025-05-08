@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Audi A3 con targa austriaca, per un'infrazione commessa il 17 aprile 2025 alle ore 21:29 in Piazza Venezia, civico 1. La violazione riguarda il parcheggio in zona a rimozione, ai sensi dell'articolo 27, comma 25 del codice penale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 10 punti. È richiesta la stampa in spagnolo via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "ventuno e ventinove",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno, before: venezia, after: è",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "austria",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "audi a tre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventisette, before: articolo, after: con",
+                    "comma": "venticinque, before: con ma, after: del",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo audi a tre ciclomotori targa i sette centottantanove chi lo litri di tipo prova immatricolati austria per infrazione commessa in data diciassette aprile duemilaventicinque ore e ventuno e ventinove in piazza venezia civico uno è stato rilevato parcheggio in zona a rimozione ai sensi dell'articolo ventisette con ma venticinque del codice penale impossibile effettuare la contestazione immediata vista all'assenza del trasgressori la violazione comporta la decurtazione di dieci punti richiesta stampa in spagnolo via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Audi A3 ciclomotore, targa IJ789KL di tipo prova, immatricolato in austria, per infrazione commessa in data 17/04/2025, ore 21:29. In piazza Venezia, civico 1, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 27, comma 25, del codice penale.Impossibile effettuare la contestazione immediata vista l'assenza del trasgressore. La violazione comporta la decurtazione di 10 punti. Richiesta stampa in spagnolo via bluetooth, non stampare anche la comunicazione."
+}

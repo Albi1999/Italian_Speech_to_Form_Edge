@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo Lancia Ypsilon, macchina agricola, con targa ufficiale registrata in Francia. La violazione è avvenuta il 9 aprile 2025 alle 10:24 in viale della Concordia, civico 13, per transito in zona di accesso vietato secondo l'articolo 28, comma 26 del codice stradale. La sanzione comporta una decurtazione di 5 punti. La stampa dell'avviso è prevista via Bluetooth, in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "dieci e ventiquattro",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici, before: al, after: dove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "i e quattrocentocinquanta sei chilometri",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "lancia i ypsilon",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventotto, before: articolo, after: comma",
+                    "comma": "ventisei, before: comma, after: del",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: di, after: punti",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo lancia i ypsilon macchina agricola targato i e quattrocentocinquanta sei chilometri con targa ufficiale registrato in francia per un fatto accaduto il nove aprile duemilaventicinque alle dieci e ventiquattro il veicolo si trovava in viale della concordia al civico tredici dove è stato riscontrato transito in zona accesso vietato in base al l'articolo ventotto comma ventisei del codice stradale questa infrazione comporta una decurtazione di cinque punti genera alla stampa dell'avviso via blu tutti in italiano non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Lancia Ypsilon, macchina agricola, targato IJ456KL con targa ufficiale, registrato in francia,  per un fatto accaduto il 09/04/2025 alle 10:24. Il veicolo si trovava in viale della Concordia, al civico 13, dove è stato riscontrato transito in zona accesso vietato, in base all'articolo 28, comma 26, del codice stradale. Questa infrazione comporta una decurtazione di 5 punti.  Genera la stampa dell'avviso via bluetooth in italiano, non stampare anche la comunicazione."
+}

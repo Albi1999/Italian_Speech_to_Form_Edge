@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo Subaru, immatricolato in Portogallo, che ha commesso un'infrazione il 23 aprile 2025 alle ore 20:57 in via Venti Settembre, civico cinque. Il veicolo era parcheggiato in doppia fila, violando l'articolo 8, comma 6 del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di otto punti. È richiesta la stampa in olandese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "venti e cinquantasette",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque, before: civico, after: è",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "portogallo",
+                    "targa": "quattrocentocinquanta sei ci di di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "subaru impresa",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "otto, before: articolo, after: con",
+                    "comma": "sei, before: con ma, after: del",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "about",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo subaru impresa macchina agricola targa quattrocentocinquanta sei ci di di tipo copertura immatricolati in portogallo per infrazione commessa in data ventitré aprile duemilaventicinque ore venti e cinquantasette in via venti settembre civico cinque è stato rilevato parcheggia in doppia fila ai sensi dell'articolo otto con ma sei del codice civile impossibile effettuare la contestazione immediata vista all'assenza del trasgressori la violazione comporta la decurtazione di otto punti richiesta stampa in olandese via about stampa anche la comunicativa",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Subaru Impreza macchina agricola, targa AB456CD di tipo copertura, immatricolato in portogallo, per infrazione commessa in data 23/04/2025, ore 20:57. In via XX Settembre, civico 5, è stato rilevato parcheggio in doppia fila, ai sensi dell'articolo 8, comma 6, del codice civile.Impossibile effettuare la contestazione immediata vista l'assenza del trasgressore. La violazione comporta la decurtazione di 8 punti. Richiesta stampa in olandese via bluetooth, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un'infrazione di parcheggio davanti a passo carabine. L'infrazione è stata commessa il sei maggio duemilaventicinque alle ore sei e otto minuti in via della cultura, numero civico nove. Il veicolo coinvolto è un'autovettura con targa ufficiale proveniente dalla Svizzera. La violazione riguarda l'articolo diciassette, comma quindici del codice stradale, con una decurtazione di cinque punti. Si richiede la stampa del preavviso in olandese via Hawaii, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "sei otto minuti",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove, before: numero, after: e",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "svizzera",
+                    "targa": "sa quattrocentocinquanta sei cupi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "diciassette, before: articolo, after: comma",
+                    "comma": "quindici, before: comma, after: del",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: previsti, after: di",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "true"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo scesero le sbarca autovettura targa sa quattrocentocinquanta sei cupi di tipo ufficiale proveniente da svizzera il giorno sei maggio duemilaventicinque alle ore sei otto minuti in via della cultura al numero civico nove e stata commessa l'infrazione di parcheggio davanti a passo carabine come previsto dall'articolo diciassette comma quindici del codice stradale per questa violazione sono previsti cinque punti di decurtazione chiedo alla stampa del preavviso in olandese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Chevrolet Spark autovettura, targa ZA456QP di tipo ufficiale, proveniente da svizzera. Il giorno 06/05/2025, alle ore 06:08, in via della Cultura, al numero civico 9, è stata commessa l'infrazione di parcheggio davanti a passo carrabile, come previsto dall'articolo 17, comma 15, del codice stradale.Per questa violazione sono previsti 5 punti di decurtazione. Chiedo la stampa del preavviso in olandese via wifi, stampa anche la comunicazione."
+}

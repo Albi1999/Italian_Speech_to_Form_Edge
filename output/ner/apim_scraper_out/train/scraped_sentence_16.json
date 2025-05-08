@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo Alfa Romeo Stelvio con rimorchio, targa \"i lunga cappa cinquecento sessantasette occhi\", immatricolato in Spagna. L'infrazione è avvenuta il 12 aprile 2025 alle ore 6:16 in via della Pace, civico 2, per parcheggio in doppia fila, violando l'articolo 35, comma 33 del codice civile. Non è stata possibile la contestazione immediata per l'assenza del trasgressore. La violazione comporta la decurtazione di 8 punti. È richiesta la stampa in spagnolo via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "sei e sedici",
+            "Strada_1": "via della pace",
+            "Civico_1": "due, before: civico, after: è",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "spagna",
+                    "targa": "i lunga cappa cinquecento sessantasette occhi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "alfa romeo stelvio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentacinque, before: articolo, after: comma",
+                    "comma": "trentatre, before: comma, after: del",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo alfa romeo stelvio rimorchio targa i lunga cappa cinquecento sessantasette occhi di tipo prova immatricolati in spagna per infrazione commessa in data dodici aprile duemilaventicinque ore sei e sedici in via della pace civico due è stato rilevato parcheggia in doppia fila ai sensi dell'articolo trentacinque comma trentatre del codice civile impossibile effettuare la contestazione immediata vista l'assenza del trasgressori la violazione comporta la decurtazione di otto punti richiesta stampa in spagnolo via blu tutta stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Alfa Romeo Stelvio rimorchio, targa JK567OP di tipo prova, immatricolato in spagna, per infrazione commessa in data 12/04/2025, ore 06:16. In via della Pace, civico 2, è stato rilevato parcheggio in doppia fila, ai sensi dell'articolo 35, comma 33, del codice civile.Impossibile effettuare la contestazione immediata vista l'assenza del trasgressore. La violazione comporta la decurtazione di 8 punti. Richiesta stampa in spagnolo via bluetooth, stampa anche la comunicazione."
+}

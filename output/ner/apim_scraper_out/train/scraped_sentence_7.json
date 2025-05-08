@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo immatricolato in Spagna con targa \"guerre sette centottantanove se ti\". L'infrazione è avvenuta in corso Italia, civico trenta, per parcheggio in zona a rimozione. Si applica l'articolo ventiquattro comma ventidue del codice penale e verranno decurtati cinque punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. La stampa deve essere effettuata in inglese tramite Wi-Fi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta, before: italia, after: parcheggio",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "guerre sette centottantanove se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "moto gozzi vi sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventiquattro, before: articolo, after: comma",
+                    "comma": "ventidue, before: comma, after: del",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: decurtati, after: punti",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo moto gozzi vi sette macchina agricola immatricolati in spagna con targa guerre sette centottantanove se ti di tipo copertura l'infrazione è avvenuta in corso italia civico trenta parcheggio in zona a rimozione si applica l'articolo ventiquattro comma ventidue del codice penale a seguito della violazione verranno decurtati cinque punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in inglese tramite guai fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Moto Guzzi V7, macchina agricola immatricolato in spagna con targa QR789ST di tipo copertura. L'infrazione è avvenuta in corso Italia, civico 30: parcheggio in zona rimozione. Si applica l'articolo 24, comma 22 del codice penale. A seguito della violazione verranno decurtati 5 punti.A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in inglese tramite wifi, non stampare anche la comunicazione."
+}

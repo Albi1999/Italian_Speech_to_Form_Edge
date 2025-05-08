@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo autovettura con targa 'quattrocentocinquanta sei ho piedi tipo prova', proveniente dalla Croazia, marca 'se akhtar jona'. La violazione riguarda il parcheggio in zona a rimozione, avvenuta il 14 aprile 2025 alle ore 10:14 in via della stazione al numero 4. L'infrazione rientra nell'articolo 23 comma 21 del codice stradale. La contestazione è stata immediata da parte dell'agente Elena Fontana. La sanzione prevede la perdita di 1 punto. Si richiede la stampa in lingua francese tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "dieci e quattordici",
+            "Strada_1": "via della stazione",
+            "Civico_1": "quattro, before: numero, after: l'infrazione",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "croazia",
+                    "targa": "quattrocentocinquanta sei ho piedi tipo prova",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "se akhtar jona",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventitre, before: articolo, after: comma",
+                    "comma": "ventuno, before: comma, after: del",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: perdita, after: punti",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo autovettura targato quattrocentocinquanta sei ho piedi tipo prova a proveniente da croazia marca se akhtar jona la violazione ovvero parcheggio in zona a rimozione sia e verificata in data a quattordici aprile duemilaventicinque alle ore dieci e quattordici inviare della stazione al numero quattro l'infrazione rientra nell'articolo ventitre comma ventuno del codice stradale contestazione immediata da parte della gente elena fontana la sanzione prevede la perdita di uno punti si richiede la stampa in lingua francese tramite blu non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato MN456OP di tipo prova proveniente da croazia, marca Seat Arona. La violazione, ovvero parcheggio in zona rimozione, si è verificata in data 14/04/2025 alle ore 10:14 in viale della Stazione, al numero 4. L'infrazione rientra nell'articolo 23, comma 21 del codice stradale. Contestazione immediata da parte dell'agente Elena Fontana. La sanzione prevede la perdita di 1 punti. Si richiede la stampa in lingua francese, tramite bluetooth, non stampare anche la comunicazione."
+}

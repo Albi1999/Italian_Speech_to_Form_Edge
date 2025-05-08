@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo BMW con rimorchio immatricolato in Olanda, targa ufficiale. L'infrazione è avvenuta in via della Speranza, civico 18, per parcheggio in zona a rimozione. Si applica l'articolo 49, comma 47 del codice stradale, con la decurtazione di 3 punti. La contestazione immediata non è stata possibile per l'assenza del trasgressore. La stampa deve essere effettuata in olandese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto, before: speranza, after: parcheggio",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "olanda",
+                    "targa": "icsi ypsilon trecentoventi uno sadik",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "bmw jeff",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantanove, before: articolo, after: con",
+                    "comma": "quarantasette, before: ma, after: del",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: decurtati, after: punti",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo bmw jeff e novecento rimorchio immatricolati in olanda con targa icsi ypsilon trecentoventi uno sadik tipo ufficiale l'infrazione è avvenuta in via della speranza civico diciotto parcheggio in zona a rimozione si applica l'articolo quarantanove con ma quarantasette del codice stradale a seguito della violazione verranno decurtati tre punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in olandese tramite blood non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo BMW F 900 R, rimorchio immatricolato in olanda con targa XY321ZA di tipo ufficiale. L'infrazione è avvenuta in via della Speranza, civico 18: parcheggio in zona rimozione. Si applica l'articolo 49, comma 47 del codice stradale. A seguito della violazione verranno decurtati 3 punti.A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in olandese tramite bluetooth, non stampare anche la comunicazione."
+}

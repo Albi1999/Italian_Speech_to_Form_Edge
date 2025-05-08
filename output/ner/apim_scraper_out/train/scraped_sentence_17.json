@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 26 aprile 2025 alle ore 4:05 per un veicolo immatricolato in Spagna con targa JEFF 654. L'infrazione è avvenuta in via della Repubblica 20 e via dei Fori Imperiali al civico 10, riguardante il codice stradale, articolo 46, comma 44, per parcheggio in divieto di sosta. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 8 punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è richiesta in inglese tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "quattro e cinque",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti, before: repubblica, after: e",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "jeff sei centocinquantaquattro",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "tooth aris",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantasei, before: articolo, after: comma",
+                    "comma": "quarantaquattro, before: comma, after: vero",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventisei aprile duemilaventicinque alle ore quattro e cinque è stato redatto un verbale per il veicolo tooth aris macchina operatrice immatricolati in spagna con targa è jeff sei centocinquantaquattro giacca di tipo prova l'infrazione e avvenuta in via della repubblica venti via dei fori imperiali al civico dieci stata riscontrata una violazione del codice stradale articolo quarantasei comma quarantaquattro vero parcheggio in divieto di sosta non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti otto punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in inglese tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 26/04/2025, alle ore 04:05, è stato redatto un verbale per il veicolo Toyota Yaris, macchina operatrice immatricolato in spagna con targa EF654GH di tipo prova.L'infrazione è avvenuta in via della Repubblica, 20via dei Fori Imperiali, al civico 10. È stata riscontrata una violazione del codice stradale, articolo 46, comma 44 ovvero parcheggio in divieto di sostaNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 8 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in inglese tramite wifi, non stampare anche la comunicazione."
+}

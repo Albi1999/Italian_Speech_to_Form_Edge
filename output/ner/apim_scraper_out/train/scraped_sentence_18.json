@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il dodici aprile duemilaventicinque alle ore ventuno e quattordici. L'infrazione riguarda un veicolo onda jets, macchina operatrice immatricolata in Olanda con targa speciale, presso viale della stazione al civico quattro. La violazione è del codice civile, articolo quattordici, comma uno, per parcheggio in zona a rimozione. Sono decurtati due punti, senza sanzione accessoria. Il veicolo è di colore verde. La stampa è richiesta via Wi-Fi in portoghese, includendo la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "ventuno e quattordici",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro, before: al, after: violando",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "olanda",
+                    "targa": "è effe centoventitre giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "onda jets",
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattordici, before: articolo, after: con",
+                    "comma": "uno, before: ma, after: riguardante",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il dodici aprile duemilaventicinque alle ore ventuno e quattordici sto mettendo una notifica di infrazione per il veicolo onda jets macchina operatrice immatricolati in olanda con targa è effe centoventitre giacca di tipo speciale l'infrazione si e verificata presso viale della stazione al civico quattro violando il codice civile in particolare l'articolo quattordici con ma uno riguardante il parcheggio in zona a rimozione devo decurtare due punti non è necessaria alcuna sanzione accessoria il macchina operatrice di colore verde con numero di telaio settecentotrenta quattro milioni e sessantatremila seicentoventi uno e massa duemiladue trentuno chilogrammi stampa me lo con il vuoi fa in portoghese stampa anche la comunicazione",
+    "original_sentence": "Il 12/04/2025, alle ore 21:14, sto emettendo una notifica di infrazione per il veicolo Honda Jazz, macchina operatrice immatricolato in olanda con targa EF123GH di tipo speciale. L'infrazione si è verificata presso viale della Stazione, al civico 4, violando il codice civile, in particolare l'articolo 14, comma 1 riguardante il parcheggio in zona rimozione.Devo decurtare 2 punti. Non è necessaria alcuna sanzione accessoria. Il macchina operatrice è di colore verde, con numero di telaio 734063621 e massa 2031 kg.Stampamelo con il wifi in portoghese, stampa anche la comunicazione."
+}

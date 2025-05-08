@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il venticinque aprile duemilaventicinque alle ore ventuno e quarantuno per un veicolo macchina agricola di marca Chi Api Canto con targa I654KM, registrato in Slovenia. L'infrazione è avvenuta in Corso della Libertà al numero sette, consistente nel parcheggio in doppia fila, violando l'articolo 48, comma 46 del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti tre punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua italiana, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "ventuno e quarantuno",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette, before: numero, after: è",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "slovenia",
+                    "targa": "i sei centocinquantaquattro chilometri",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "chi api canto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantotto, before: articolo, after: con",
+                    "comma": "quarantasei, before: con ma, after: del",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: di",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data venticinque aprile duemilaventicinque alle ore ventuno e quarantuno è stato emesso un preavviso di violazione per il veicolo macchina agricola di marca chi api canto con targa i sei centocinquantaquattro chilometri tipo copertura registrato in slovenia l'infrazione avvenuta in corso della libertà al numero sette è consiste in parcheggia in doppia fila come previsto dall'articolo quarantotto con ma quarantasei del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti tre punti di decurtazione si prega di stampare la presente notifica tramite blu in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 25/04/2025, alle ore 21:41, è stato emesso un preavviso di violazione per il veicolo macchina agricola di marca Kia Picanto, con targa IJ654KL (tipo copertura), registrato in slovenia. L'infrazione è avvenuta in corso della Libertà, al numero 7, e consiste in parcheggio in doppia fila, come previsto dall'articolo 48, comma 46 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 3 punti di decurtazione.  Si prega di stampare la presente notifica tramite bluetooth, in lingua italiano, stampa anche la comunicazione."
+}

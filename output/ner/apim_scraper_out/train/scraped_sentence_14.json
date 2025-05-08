@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso emesso per una violazione di parcheggio in zona a rimozione. La violazione è stata rilevata il 27 aprile 2025 alle ore 23:42 in via Garibaldi, numero 11. Il veicolo coinvolto è una macchina agricola marca Peggio 2008, targata ABE 123 CD, di tipo ufficiale, proveniente dalla Svizzera. La violazione riguarda l'articolo 7, comma 15 del codice penale, con una decurtazione di sette punti. Si richiede la stampa del preavviso tramite Bluetooth in lingua portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "ventitré quarantadue",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici, before: numero, after: invase",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "abe centoventitre ci di di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "peggio duemilaotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sette, before: articolo, after: comma",
+                    "comma": "quindici, before: comma, after: del",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: previsti, after: di",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo macchina agricola marca peggio duemilaotto targato abe centoventitre ci di di tipo ufficiale proveniente da svizzera in data ventisette aprile duemilaventicinque alle ore ventitré quarantadue stata rilevata alla violazione di parcheggio in zona a rimozione in via garibaldi al numero undici invase all'articolo sette comma quindici del codice penale per tale infrazione sono previsti sette punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua portoghese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina agricola, marca Peugeot 2008, targato AB123CD di tipo ufficiale, proveniente da svizzera. In data 27/04/2025 alle ore 23:42, è stata rilevata la violazione di parcheggio in zona rimozione in via Garibaldi, al numero 11, in base all'articolo 7, comma 15 del codice penale.Per tale infrazione sono previsti 7 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua portoghese, stampa anche la comunicazione."
+}

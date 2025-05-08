@@ -12,14 +12,14 @@
             "description": "Date of the violation, keep the original text format",
             "type": "text",
             "accepted_values": null,
-            "example": "venti aprile duemilaventicinque"
+            "example": "ventisei aprile duemilaventicinque"
         },
         {
             "title": "ora_violazione",
             "description": "Time of the violation, keep the original text format",
             "type": "text",
             "accepted_values": null,
-            "example": "quattordici quarantuno"
+            "example": "tredici e trenta"
         },
         {
             "title": "Strada_1",
@@ -30,10 +30,10 @@
         },
         {
             "title": "Civico_1",
-            "description": "Street number of the violation, keep the original text format",
+            "description": "Street number of the violation, keep the original text format, return also the word before and the word after",
             "type": "text",
             "accepted_values": null,
-            "example": "dieci"
+            "example": "dieci, before: roma, after: violando"
         },
         {
             "title": "lista_veicoli",
@@ -47,14 +47,14 @@
                         "description": "Type of vehicle",
                         "type": "text",
                         "accepted_values": null,
-                        "example": "ciclomotore"
+                        "example": "motoveicolo"
                     },
                     {
                         "title": "nazione",
                         "description": "Country of the license plate",
                         "type": "text",
                         "accepted_values": null,
-                        "example": "italia"
+                        "example": "croazia"
                     },
                     {
                         "title": "targa",
@@ -117,17 +117,17 @@
                     },
                     {
                         "title": "articolo",
-                        "description": "Article violated, keep the original text format",
+                        "description": "Article violated, keep the original text format, return also the word before and the word after",
                         "type": "text",
                         "accepted_values": null,
-                        "example": "sei"
+                        "example": "cinque, before: articolo, after: comma"
                     },
                     {
                         "title": "comma",
-                        "description": "Comma of the article, keep the original text format",
+                        "description": "Comma of the article, keep the original text format, return also the word before and the word after",
                         "type": "text",
                         "accepted_values": null,
-                        "example": "tre"
+                        "example": "trenta, before: comma, after: del"
                     },
                     {
                         "title": "sanzione_accessoria",
@@ -141,10 +141,10 @@
         },
         {
             "title": "punti",
-            "description": "Points deducted, keep the original text format",
+            "description": "Points deducted, keep the original text format, return also the word before and the word after",
             "type": "text",
             "accepted_values": null,
-            "example": "cinque"
+            "example": "sette, before: decurtati, after: punti"
         },
         {
             "title": "tipo_stampa",
@@ -158,7 +158,7 @@
             "description": "Print language",
             "type": "text",
             "accepted_values": null,
-            "example": "italiano"
+            "example": "inglese"
         },
         {
             "title": "stampa_anche_comunicazione",
