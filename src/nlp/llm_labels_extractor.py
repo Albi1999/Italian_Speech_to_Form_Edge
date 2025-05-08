@@ -1,202 +1,267 @@
 import json
 import os
 import re
+from tqdm import tqdm
+from collections import Counter
 
-def load_json_files(directory):
-    """Load all JSON files from the given directory."""
-    files = [f for f in os.listdir(directory) if f.endswith('.json')]
-    data = []
-    for file in files:
-        file_path = os.path.join(directory, file)
+processing_issues = []
+
+def find_entity_positions(text, entity_text, label, before_word=None, after_word=None):
+    """
+    Finds start and end positions of an entity in the text.
+    Uses before and after words for more precise matching if available.
+    Returns positions (tuple) or a reason (str) if not found.
+    """
+    positions = None
+    reason_not_found = None
+
+    normalized_text = text.lower()
+    normalized_entity_text = entity_text.lower()
+
+    if before_word and after_word:
+        norm_before = before_word.lower()
+        norm_after = after_word.lower()
+        for match in re.finditer(re.escape(normalized_entity_text), normalized_text):
+            s, e = match.start(), match.end()
+            prefix_end = s
+            prefix_start = max(0, s - (len(norm_before) + 30))
+            prefix_text = normalized_text[prefix_start:prefix_end]
+            suffix_start = e
+            suffix_end = min(len(normalized_text), e + (len(norm_after) + 30))
+            suffix_text = normalized_text[suffix_start:suffix_end]
+            if norm_before in prefix_text and norm_after in suffix_text:
+                idx_before_in_prefix = prefix_text.rfind(norm_before)
+                idx_after_in_suffix = suffix_text.find(norm_after)
+                if idx_before_in_prefix != -1 and idx_after_in_suffix != -1:
+                    positions = (s, e)
+                    break
+        if not positions:
+            reason_not_found = "context_mismatch"
+    else:
         try:
-            with open(file_path, 'r', encoding='utf-8') as f:
-                loaded_data = json.load(f)
-                if isinstance(loaded_data, list):
-                    for item in loaded_data:
-                        if isinstance(item, dict):
-                            data.append(item)
-                        else:
-                            print(f"Warning: Unexpected item type within list in {file_path}: {type(item)}. Skipping.")
-                elif isinstance(loaded_data, dict):
-                    data.append(loaded_data)
-                else:
-                    print(f"Warning: Unexpected data type in {file_path}: {type(loaded_data)}. Skipping file.")
-        except json.JSONDecodeError:
-            print(f"Warning: Invalid JSON in {file_path}. Skipping file.")
-        except Exception as e:
-            print(f"Warning: Error loading {file_path}: {e}. Skipping file.")
-    return data
-
-def find_all_entity_spans(text, entity_value, entity_label):
-    """Helper function to find *all* entity spans in the text (case-insensitive, whitespace tolerant)."""
-    spans = []
-    if entity_value and isinstance(entity_value, str):
-        normalized_text = re.sub(r'\s+', ' ', text.lower())
-        normalized_value = re.sub(r'\s+', ' ', entity_value.lower())
+            for match in re.finditer(r'\b' + re.escape(normalized_entity_text) + r'\b', normalized_text):
+                positions = (match.start(), match.end())
+                break
+            if not positions:
+                start_pos = normalized_text.find(normalized_entity_text)
+                if start_pos != -1:
+                    positions = (start_pos, start_pos + len(normalized_entity_text))
+        except re.error:
+            start_pos = normalized_text.find(normalized_entity_text)
+            if start_pos != -1:
+                positions = (start_pos, start_pos + len(normalized_entity_text))
         
-        start_index = 0
-        while True:
-            start_index = normalized_text.find(normalized_value, start_index)
-            if start_index == -1:
-                break
+        if not positions:
+            reason_not_found = "not_found"
             
-            # Map normalized index back to original text index
-            original_start = -1
-            temp_index = 0
-            normalized_index = 0
-            for i, char in enumerate(text.lower()):
-                if not char.isspace():
-                    if normalized_index == start_index:
-                        original_start = i
-                        break
-                    normalized_index += 1
-            
-            if original_start != -1:
-                original_end = original_start + len(entity_value)
-                spans.append((original_start, original_end, entity_label))
-                start_index += len(normalized_value) # Move past the found occurrence
-            else:
-                break # Should not happen, but safety check
-    return spans
+    if positions:
+        return positions, None
+    else:
+        return None, reason_not_found
 
-def is_overlapping(new_start, new_end, existing_spans):
-    """Checks if a span (start, end) overlaps with any existing spans."""
-    for existing_start, existing_end, _ in existing_spans:
-        if new_start < existing_end and new_end > existing_start:
-            return True
-    return False
 
-def extract_entities(scraped_data, transcribed_sentence):
-    """Extract entities from 'scraped_data' and find their positions in 'transcribed_sentence'."""
-    entities = []
-    report = scraped_data.get('report', {})
-    
-    # Define entities to extract from the report with corresponding labels
-    entity_mappings = {
-        'verbale_preavviso': 'REPORT_TYPE',
-        'data_violazione': 'DATE',
-        'ora_violazione': 'TIME',
-        'Strada_1': 'STREET',
-        'Civico_1': 'HOUSE_NUMBER',
-        'contestazione_immediata': 'CONTESTATION_STATUS',
-        'motivo_mancata_contestazione': 'NO_CONTESTATION_REASON',
-        'punti': 'POINTS',
-        'tipo_stampa': 'PRINT_MODE',
-        'lingua_stampa': 'LANGUAGE',
-        'stampa_anche_comunicazione': 'PRINT_REQUEST'
-    }
-    
-    # Create a "working copy" of the transcribed sentence
-    working_sentence = transcribed_sentence
-    offset_mapping = []  # Keep track of how the indices shift as we "delete" parts of the sentence
+def process_report_item(transcribed_sentence, key, value, entities_list, filepath_for_logging):
+    """
+    Processes a single item from the report, finds its position, and adds to entities_list.
+    Logs issues to the global processing_issues list.
+    """
+    global processing_issues
+    if value is None or not str(value).strip():
+        return
 
-    def map_to_original_indices(start, end):
-        """Maps indices from the working sentence to the original transcribed sentence."""
-        original_indices = []
-        current_offset = 0
-        for original_start, deleted_length in offset_mapping:
-            if start >= original_start:
-                start += deleted_length
-                end += deleted_length
-            else:
-                break
-        return start, end
+    entity_text_to_find = None
+    before_word = None
+    after_word = None
+    current_value_str = str(value).strip()
+    current_label = key
 
-    # Extract simple entities from the report
-    for key, label in entity_mappings.items():
-        entity_value = report.get(key)
-        if entity_value:
-            search_value = str(entity_value).lower()
-            spans = find_all_entity_spans(working_sentence, search_value, label)
-            if spans:
-                start, end, _ = spans[0]  # Take only the first span
-                original_start, original_end = map_to_original_indices(start, end)
-                entities.append((original_start, original_end, label))
-
-                # "Delete" the found entity from the working sentence
-                working_sentence = working_sentence[:start] + " " * (end - start) + working_sentence[end:]
-                offset_mapping.append((start, end - start))
-
-    # Extract entities from 'lista_veicoli'
-    for vehicle in report.get('lista_veicoli', []):
-        vehicle_entity_map = {
-            'tipologia': 'VEHICLE',
-            'nazione': 'COUNTRY',
-            'targa': 'LICENSE_PLATE',
-            'tipologia_targa': 'LICENSE_PLATE_TYPE',
-            'marca_modello': 'VEHICLE_MODEL',
-            'colore': 'COLOR'
-        }
-        for key, label in vehicle_entity_map.items():
-            value = vehicle.get(key)
-            if value:
-                search_value = str(value).lower()
-                if label == 'LICENSE_PLATE':
-                    cleaned_targa = search_value.replace(' ', '')
-                    spans = find_all_entity_spans(working_sentence, cleaned_targa, label)
-                    if not spans:
-                        spans = find_all_entity_spans(working_sentence, search_value, label)
-                else:
-                    spans = find_all_entity_spans(working_sentence, search_value, label)
-                if spans:
-                    start, end, _ = spans[0]
-                    original_start, original_end = map_to_original_indices(start, end)
-                    entities.append((original_start, original_end, label))
-
-                    working_sentence = working_sentence[:start] + " " * (end - start) + working_sentence[end:]
-                    offset_mapping.append((start, end - start))
-
-    # Extract entities from 'violazioni'
-    for violation in report.get('violazioni', []):
-        violation_mappings = {
-            'codice': 'LAW_CODE',
-            'articolo': 'LAW_ARTICLE',
-            'comma': 'LAW_COMMA',
-            'sanzione_accessoria': 'PENALTY'
-        }
-        for key, label in violation_mappings.items():
-            value = violation.get(key)
-            if value:
-                search_value = str(value).lower()
-                if key in ['articolo', 'comma', 'codice']:
-                    search_value = f'{key} {search_value}'
-                else:
-                    spans = find_all_entity_spans(working_sentence, search_value, label)
-                if spans:
-                    start, end, _ = spans[0]
-                    original_start, original_end = map_to_original_indices(start, end)
-                    entities.append((original_start, original_end, label))
-
-                    working_sentence = working_sentence[:start] + " " * (end - start) + working_sentence[end:]
-                    offset_mapping.append((start, end - start))
-    return entities
-
-def create_spacy_train_data(directory, output_directory):
-    """Create spaCy training data from JSON files and save to a new file."""
-    data = load_json_files(directory)
-    training_data = []
-
-    for item in data:
-        if isinstance(item, dict):
-            scraped_data = item.get('scraped_data', {})
-            transcribed_sentence = item.get('original_transcribed_sentence')
-            if not transcribed_sentence:
-                continue
-
-            entities = extract_entities(scraped_data, transcribed_sentence)
-            training_data.append((transcribed_sentence, {'entities': entities}))
+    if isinstance(current_value_str, str) and ', before:' in current_value_str and ', after:' in current_value_str:
+        match = re.match(r"^(.*?),\s*before:\s*(.*?),\s*after:\s*(.*?)$", current_value_str, re.IGNORECASE)
+        if match:
+            entity_text_to_find = match.group(1).strip()
+            before_word = match.group(2).strip()
+            after_word = match.group(3).strip()
         else:
-            print(f"Warning: Unexpected data type in training data: {type(item)}. Skipping.")
-            continue
-    
-    # Save the training data to a file in the specified output directory
-    os.makedirs(output_directory, exist_ok=True)
-    output_file = os.path.join(output_directory, 'spacy_train_data.json')
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(training_data, f, ensure_ascii=False, indent=4)
-    print(f"Saved spaCy training data to: {output_file}")
+            entity_text_to_find = current_value_str.split(',', 1)[0].strip()
+            
+    else:
+        entity_text_to_find = current_value_str
 
-if __name__ == "__main__":
-    directory_path = 'output/ner/apim_scraper_out/train'  # Your input directory
-    output_directory = 'output/ner/spacy_data'  # Your desired output directory
-    create_spacy_train_data(directory_path, output_directory)
+    if not entity_text_to_find:
+        return
+
+    positions, reason_not_found = find_entity_positions(transcribed_sentence, entity_text_to_find, current_label, before_word, after_word)
+    
+    if positions:
+        entity_tuple = (positions[0], positions[1], current_label)
+        if entity_tuple not in entities_list:
+            entities_list.append(entity_tuple)
+    elif reason_not_found:
+        processing_issues.append({
+            "file": os.path.basename(filepath_for_logging),
+            "label": current_label,
+            "entity_text": entity_text_to_find,
+            "reason": reason_not_found,
+            "context": f"before: '{before_word}', after: '{after_word}'" if before_word else "N/A"
+        })
+
+
+def process_json_file(filepath):
+    """ Processes a single JSON file and returns spaCy formatted data. """
+    global processing_issues
+    try:
+        with open(filepath, "r", encoding="utf-8") as file:
+            data = json.load(file)
+    except json.JSONDecodeError as e:
+        print(f"CRITICAL: Error decoding JSON from file {filepath}: {e}")
+        processing_issues.append({"file": os.path.basename(filepath), "label": "FILE_IO_ERROR", "entity_text": "JSONDecodeError", "reason": str(e), "context": "File Reading"})
+        return None
+    except Exception as e:
+        print(f"CRITICAL: Error reading file {filepath}: {e}")
+        processing_issues.append({"file": os.path.basename(filepath), "label": "FILE_IO_ERROR", "entity_text": "FileReadError", "reason": str(e), "context": "File Reading"})
+        return None
+
+    transcribed_sentence = data.get("original_transcribed_sentence")
+    report = data.get("scraped_data", {}).get("report", {})
+
+    if not transcribed_sentence:
+        print(f"CRITICAL: Missing 'original_transcribed_sentence' in {filepath}. Skipping.")
+        processing_issues.append({"file": os.path.basename(filepath), "label": "DATA_MISSING", "entity_text": "original_transcribed_sentence", "reason": "Field not found", "context": "File Structure"})
+        return None
+    if not report:
+        print(f"CRITICAL: Missing 'report' data in {filepath}. Processing with empty report, but this might indicate a problem.")
+        processing_issues.append({"file": os.path.basename(filepath), "label": "DATA_MISSING", "entity_text": "report", "reason": "Field not found", "context": "File Structure"})
+        return (transcribed_sentence, {'entities': []})
+
+    entities = []
+ 
+    desired_labels = {
+        "verbale_preavviso": "VERBALE_PREAVVISO",
+        "data_violazione": "DATA_VIOLAZIONE",
+        "ora_violazione": "ORA_VIOLAZIONE",
+        "Strada_1": "STRADA_1",
+        "Civico_1": "CIVICO_1",
+        "contestazione_immediata": "CONTESTAZIONE_IMMEDIATA",
+        "motivo_mancata_contestazione": "MOTIVO_MANCATA_CONTESTAZIONE",
+        "punti": "PUNTI",
+        "tipo_stampa": "TIPO_STAMPA",
+        "lingua_stampa": "LINGUA_STAMPA",
+        "stampa_anche_comunicazione": "STAMPA_ANCHE_COMUNICAZIONE",
+        "tipologia": "TIPOLOGIA",
+        "nazione": "NAZIONE",
+        "targa": "TARGA",
+        "tipologia_targa": "TIPOLOGIA_TARGA",
+        "marca_modello": "MARCA_MODELLO",
+        "colore": "COLORE",
+        "codice": "CODICE",
+        "articolo": "ARTICOLO",
+        "comma": "COMMA",
+        "sanzione_accessoria": "SANZIONE_ACCESSORIA"
+    }
+
+    for key, value in report.items():
+        if value is None:
+            continue
+        if key == "lista_veicoli" and isinstance(value, list):
+            for item_dict in value:
+                if isinstance(item_dict, dict):
+                    for sub_key, sub_value in item_dict.items():
+                        final_label = desired_labels.get(sub_key, sub_key.upper())
+                        process_report_item(transcribed_sentence, final_label, sub_value, entities, filepath)
+        elif key == "violazioni" and isinstance(value, list):
+            for item_dict in value:
+                if isinstance(item_dict, dict):
+                    for sub_key, sub_value in item_dict.items():
+                        final_label = desired_labels.get(sub_key, sub_key.upper())
+                        process_report_item(transcribed_sentence, final_label, sub_value, entities, filepath)
+        else:
+            final_label = desired_labels.get(key, key.upper())
+            process_report_item(transcribed_sentence, final_label, value, entities, filepath)
+
+    if entities:
+        entities.sort(key=lambda x: (x[0], -x[1]))
+        final_entities = []
+        for current_ent in entities:
+            is_subsumed = False
+            for existing_ent in final_entities:
+                if current_ent[2] == existing_ent[2] and \
+                   existing_ent[0] <= current_ent[0] and existing_ent[1] >= current_ent[1] and \
+                   current_ent != existing_ent:
+                    is_subsumed = True
+                    break
+            if not is_subsumed:
+                final_entities = [e for e in final_entities if not (
+                    e[2] == current_ent[2] and
+                    current_ent[0] <= e[0] and current_ent[1] >= e[1] and
+                    e != current_ent
+                )]
+                final_entities.append(current_ent)
+        entities = sorted(final_entities, key=lambda x: x[0])
+    return (transcribed_sentence, {'entities': entities})
+
+def save_spacy_data(spacy_data, output_filepath):
+    valid_data = [item for item in spacy_data if item is not None and item[0] is not None]
+    if not valid_data:
+        print("CRITICAL: No valid spaCy data was generated to save.")
+        return
+    with open(output_filepath, 'w', encoding='utf-8') as file:
+        json.dump(valid_data, file, ensure_ascii=False, indent=4)
+    print(f"spaCy training data saved to {output_filepath}")
+
+
+def main(input_directory, output_filepath):
+    global processing_issues
+    processing_issues = []
+    all_spacy_data = []
+    
+    if not os.path.isdir(input_directory):
+        print(f"CRITICAL: Input directory '{input_directory}' not found.")
+        return
+
+    filenames = [f for f in os.listdir(input_directory) if f.endswith(".json")]
+    if not filenames:
+        print(f"CRITICAL: No JSON files found in '{input_directory}'.")
+        return
+        
+    print(f"Found {len(filenames)} JSON files to process.")
+
+    for filename in tqdm(filenames, desc="Processing files"):
+        filepath = os.path.join(input_directory, filename)
+        processed_data = process_json_file(filepath)
+        if processed_data:
+            all_spacy_data.append(processed_data)
+    
+    if all_spacy_data:
+        save_spacy_data(all_spacy_data, output_filepath)
+    else:
+        print("CRITICAL: No data was successfully processed. Output file will not be created.")
+
+    print("\n--- Processing Summary ---")
+    if not processing_issues:
+        print("All entities in all files processed successfully!")
+    else:
+        total_issues = len(processing_issues)
+        print(f"Encountered {total_issues} issues during processing:")
+
+        # Count issues by label
+        issues_by_label = Counter(issue['label'] for issue in processing_issues)
+        print("\nIssues by Label:")
+        for label, count in issues_by_label.items():
+            print(f"  - {label}: {count} issue(s)")
+
+        # Count issues by reason (not_found, context_mismatch, etc.)
+        issues_by_reason = Counter(issue['reason'] for issue in processing_issues)
+        print("\nIssues by Reason:")
+        for reason, count in issues_by_reason.items():
+            print(f"  - {reason}: {count} issue(s)")
+        
+        # Count issues by file
+        issues_by_file = Counter(issue['file'] for issue in processing_issues)
+        print("\nFiles with Issues:")
+        for file_name, count in issues_by_file.items():
+            print(f"  - {file_name}: {count} issue(s)")
+
+if __name__ == '__main__':
+    input_directory = 'output/ner/apim_scraper_out/train'
+    output_filepath = 'output/ner/spacy_data/spacy_training_data.json'
+    main(input_directory, output_filepath)

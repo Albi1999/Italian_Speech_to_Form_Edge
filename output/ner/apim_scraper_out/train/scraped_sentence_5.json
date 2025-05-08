@@ -1,18 +1,18 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive un preavviso di violazione per un veicolo rimorchio con targa UBI 4506 EX, registrato in Croazia. La violazione è avvenuta il 29 aprile 2025 alle 10:25 in Corso della Giustizia, civico 23, per parcheggio in zona a rimozione. La violazione è in base all'articolo 31 del codice civile, comma 30, e comporta una decurtazione di 1 punto. La stampa dell'avviso è richiesta via Bluetooth in spagnolo, senza stampare la comunicazione.",
+        "summary": "Il documento descrive un avviso di violazione per un veicolo rimorchio targato UBI 4506 EX, registrato in Croazia. L'infrazione è avvenuta il 29 aprile 2025 alle 10:25 in corso della Giustizia, civico 23, per parcheggio in zona a rimozione. La violazione è in base all'articolo 31 del codice civile, comma 30, e comporta una decurtazione di 1 punto. La stampa dell'avviso è prevista via Bluetooth in spagnolo, senza stampare anche la comunicazione.",
         "report": {
             "verbale_preavviso": "preavviso",
             "data_violazione": "ventinove aprile duemilaventicinque",
             "ora_violazione": "dieci e venticinque",
             "Strada_1": "corso della giustizia",
-            "Civico_1": "ventitre, before: al, after: dove",
+            "Civico_1": "ventitre",
             "lista_veicoli": [
                 {
-                    "tipologia": "rimorchio",
+                    "tipologia": null,
                     "nazione": "croazia",
                     "targa": "ubi quattrocentocinquanta sei doppia ex",
-                    "tipologia_targa": "copertura",
+                    "tipologia_targa": null,
                     "marca_modello": null,
                     "colore": null
                 }
@@ -22,12 +22,12 @@
             "violazioni": [
                 {
                     "codice": "civile",
-                    "articolo": "trentuno, before: articolo, after: duemilanovecento",
-                    "comma": "trenta, before: comma, after: del",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
                     "sanzione_accessoria": null
                 }
             ],
-            "punti": "uno, before: di, after: punti",
+            "punti": "uno",
             "tipo_stampa": "blu tutti",
             "lingua_stampa": "spagnolo",
             "stampa_anche_comunicazione": "non stampare anche la comunicazione"

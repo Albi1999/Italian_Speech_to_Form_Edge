@@ -2,7 +2,7 @@
     "requested_informations": [
         {
             "title": "verbale_preavviso",
-            "description": "Indicates whether the officier has to do a verbale or preavviso",
+            "description": "Indicates whether the officier has to do a verbale or preavviso, keep the original text format",
             "type": "text",
             "accepted_values": null,
             "example": "preavviso"
@@ -23,14 +23,14 @@
         },
         {
             "title": "Strada_1",
-            "description": "Address of the violation",
+            "description": "Address of the violation, keep the original text format",
             "type": "address",
             "accepted_values": null,
             "example": "via roma"
         },
         {
             "title": "Civico_1",
-            "description": "Street number of the violation, keep the original text format, return also the word before and the word after",
+            "description": "Street number of the violation, keep the original text format",
             "type": "text",
             "accepted_values": null,
             "example": "dieci, before: roma, after: violando"
@@ -44,14 +44,14 @@
                 "group":[
                     {
                         "title": "tipologia",
-                        "description": "Type of vehicle",
+                        "description": "Type of vehicle, keep the original text format",
                         "type": "text",
                         "accepted_values": null,
                         "example": "motoveicolo"
                     },
                     {
                         "title": "nazione",
-                        "description": "Country of the license plate",
+                        "description": "Country of the license plate, keep the original text format",
                         "type": "text",
                         "accepted_values": null,
                         "example": "croazia"
@@ -65,7 +65,7 @@
                     },
                     {
                         "title": "tipologia_targa",
-                        "description": "Type of license plate",
+                        "description": "Type of license plate, keep the original text format",
                         "type": "text",
                         "accepted_values": null,
                         "example": "ufficiale"
@@ -79,7 +79,7 @@
                     },
                     {
                         "title": "colore",
-                        "description": "Color of the vehicle",
+                        "description": "Color of the vehicle, keep the original text format",
                         "type": "text",
                         "accepted_values": null,
                         "example": "rosso"
@@ -89,21 +89,21 @@
         },
         {
             "title": "contestazione_immediata",
-            "description": "Immediate contestation",
+            "description": "Immediate contestation, keep the original text format",
             "type": "text",
             "accepted_values": null,
             "example": "contestazione eseguita immediatamente"
         },
         {
             "title": "motivo_mancata_contestazione",
-            "description": "Reason for missed contestation",
+            "description": "Reason for missed contestation, keep the original text format",
             "type": "text",
             "accepted_values": null,
             "example": "assenza del trasgressore"
         },
         {
             "title": "violazioni",
-            "description": "Details of the violations",
+            "description": "Details of the violations, keep the original text format",
             "list": {
                     "title": "violazione",
                     "description": "Details of the violation",
@@ -131,7 +131,7 @@
                     },
                     {
                         "title": "sanzione_accessoria",
-                        "description": "Accessory sanction",
+                        "description": "Accessory sanction, keep the original text format",
                         "type": "text",
                         "accepted_values": null,
                         "example": "applico una sanzione accessoria"
@@ -155,14 +155,14 @@
         },
         {
             "title": "lingua_stampa",
-            "description": "Print language",
+            "description": "Print language, keep the original text format",
             "type": "text",
             "accepted_values": null,
             "example": "inglese"
         },
         {
             "title": "stampa_anche_comunicazione",
-            "description": "Print also communication (true/false)",
+            "description": "Print also communication (true/false), keep the original text format",
             "type": "text",
             "accepted_values": null,
             "example": "non stampare anche la comunicazione"

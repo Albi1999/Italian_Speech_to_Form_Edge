@@ -1,12 +1,12 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive un verbale redatto il 26 aprile 2025 alle ore 4:05 per un veicolo immatricolato in Spagna con targa JEFF 654. L'infrazione è avvenuta in via della Repubblica 20 e via dei Fori Imperiali al civico 10, riguardante il codice stradale, articolo 46, comma 44, per parcheggio in divieto di sosta. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 8 punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è richiesta in inglese tramite WiFi, senza includere la comunicazione.",
+        "summary": "Il documento descrive un verbale redatto il ventisei aprile duemilaventicinque alle ore quattro e cinque per un veicolo immatricolato in Spagna con targa JEFF 654. L'infrazione è avvenuta in via della Repubblica 20 e via dei Fori Imperiali al civico 10, per parcheggio in divieto di sosta. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti otto punti da decurtare, senza sanzione accessoria. La stampa è richiesta in inglese tramite WiFi, senza comunicazione aggiuntiva.",
         "report": {
             "verbale_preavviso": "verbale",
             "data_violazione": "ventisei aprile duemilaventicinque",
             "ora_violazione": "quattro e cinque",
             "Strada_1": "via della repubblica",
-            "Civico_1": "venti, before: repubblica, after: e",
+            "Civico_1": "dieci",
             "lista_veicoli": [
                 {
                     "tipologia": "macchina operatrice",
@@ -18,16 +18,16 @@
                 }
             ],
             "contestazione_immediata": null,
-            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
             "violazioni": [
                 {
                     "codice": "stradale",
-                    "articolo": "quarantasei, before: articolo, after: comma",
-                    "comma": "quarantaquattro, before: comma, after: vero",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
                     "sanzione_accessoria": null
                 }
             ],
-            "punti": "otto, before: previsti, after: da",
+            "punti": "otto",
             "tipo_stampa": "vuoi fai",
             "lingua_stampa": "inglese",
             "stampa_anche_comunicazione": "non stampare anche la comunicazione"

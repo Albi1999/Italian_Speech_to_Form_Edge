@@ -1,19 +1,19 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive la generazione di un verbale per un'infrazione stradale. Il veicolo coinvolto è un ciclomotore immatricolato in Svizzera. L'infrazione è avvenuta il 17 aprile 2025 alle 2:12 in via della Pace, numero 2, per transito in zona accesso vietato. L'articolo violato è il 6, comma 1, del codice stradale. Verranno tolti 3 punti dalla patente. Il verbale sarà stampato via Bluetooth in spagnolo e includerà anche la comunicazione.",
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo immatricolato in Svizzera, che ha commesso un'infrazione il 17 aprile 2025 alle 2:12. L'infrazione è avvenuta in via della Pace al numero 2, dove il veicolo era in transito in una zona di accesso vietato. L'articolo violato è il 6 comma 1 del codice stradale, e verranno tolti 3 punti dalla patente. Il verbale deve essere stampato via Bluetooth in spagnolo e include anche la comunicazione.",
         "report": {
             "verbale_preavviso": "verbale",
             "data_violazione": "diciassette aprile duemilaventicinque",
             "ora_violazione": "due dodici",
             "Strada_1": "via della pace",
-            "Civico_1": "due, before: numero, after: dov'è",
+            "Civico_1": "due",
             "lista_veicoli": [
                 {
                     "tipologia": "ciclomotori",
                     "nazione": "svizzera",
                     "targa": "ragazza quattrocentocinquanta sei cupi",
                     "tipologia_targa": "prova",
-                    "marca_modello": "un venti",
+                    "marca_modello": null,
                     "colore": null
                 }
             ],
@@ -22,15 +22,15 @@
             "violazioni": [
                 {
                     "codice": "stradale",
-                    "articolo": "sei, before: articolo, after: comma",
-                    "comma": "prima uno dodici, before: comma, after: del",
+                    "articolo": "sei",
+                    "comma": "uno",
                     "sanzione_accessoria": null
                 }
             ],
-            "punti": "tre, before: tolti, after: dalla",
-            "tipo_stampa": "blu",
+            "punti": "tre",
+            "tipo_stampa": "blu tutti",
             "lingua_stampa": "spagnolo",
-            "stampa_anche_comunicazione": "true"
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
         },
         "missing_required_infos": []
     },

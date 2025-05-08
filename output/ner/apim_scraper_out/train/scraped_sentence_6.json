@@ -1,12 +1,12 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive una violazione notificata il sette aprile duemilaventicinque alle ore nove e ventiquattro. È stato emesso un preavviso per un rimorchio con targa ufficiale immatricolato in Portogallo. L'infrazione è avvenuta in corso della storia al civico ventidue, violando il codice stradale, articolo tredici, comma undici, per parcheggio in doppia fila. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare sei punti. Il veicolo è un Mercedes Classe A bianco. La stampa del preavviso è richiesta tramite Bluetooth in tedesco, con inclusione della comunicazione.",
+        "summary": "Il documento descrive un preavviso notificato il sette aprile duemilaventicinque alle ore nove e ventiquattro per un rimorchio con targa ufficiale immatricolato in Portogallo. L'infrazione è stata rilevata in corso della storia al civico ventidue, violando il codice stradale articolo tredici comma undici, per parcheggio in doppia fila. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare sei punti. Il veicolo è un Mercedes Classe A di colore bianco. È richiesta la stampa del preavviso tramite Bluetooth in tedesco, stampando anche la comunicazione.",
         "report": {
             "verbale_preavviso": "preavviso",
             "data_violazione": "sette aprile duemilaventicinque",
             "ora_violazione": "nuove ventiquattro",
             "Strada_1": "corso della storia",
-            "Civico_1": "ventidue, before: al, after: con",
+            "Civico_1": "ventidue",
             "lista_veicoli": [
                 {
                     "tipologia": "rimorchio",
@@ -18,12 +18,12 @@
                 }
             ],
             "contestazione_immediata": null,
-            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
             "violazioni": [
                 {
                     "codice": "stradale",
-                    "articolo": "tredici, before: articolo, after: comma",
-                    "comma": "undici, before: comma, after: in",
+                    "articolo": "tredici",
+                    "comma": "undici",
                     "sanzione_accessoria": null
                 }
             ],

@@ -1,12 +1,12 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive un verbale per un veicolo Alfa Romeo Stelvio con rimorchio, targa \"i lunga cappa cinquecento sessantasette occhi\", immatricolato in Spagna. L'infrazione è avvenuta il 12 aprile 2025 alle ore 6:16 in via della Pace, civico 2, per parcheggio in doppia fila, violando l'articolo 35, comma 33 del codice civile. Non è stata possibile la contestazione immediata per l'assenza del trasgressore. La violazione comporta la decurtazione di 8 punti. È richiesta la stampa in spagnolo via Bluetooth, includendo anche la comunicazione.",
+        "summary": "Il documento descrive un verbale per un veicolo Alfa Romeo Stelvio con rimorchio, targa di tipo prova immatricolato in Spagna. L'infrazione è stata commessa il 12 aprile 2025 alle ore 6:16 in via della Pace, civico 2, per parcheggio in doppia fila. La violazione è ai sensi dell'articolo 35, comma 33 del codice civile. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 8 punti. È richiesta la stampa in spagnolo via Bluetooth, includendo anche la comunicazione.",
         "report": {
             "verbale_preavviso": "verbale",
             "data_violazione": "dodici aprile duemilaventicinque",
             "ora_violazione": "sei e sedici",
             "Strada_1": "via della pace",
-            "Civico_1": "due, before: civico, after: è",
+            "Civico_1": "due",
             "lista_veicoli": [
                 {
                     "tipologia": "rimorchio",
@@ -17,13 +17,13 @@
                     "colore": null
                 }
             ],
-            "contestazione_immediata": null,
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
             "motivo_mancata_contestazione": "assenza del trasgressori",
             "violazioni": [
                 {
                     "codice": "civile",
-                    "articolo": "trentacinque, before: articolo, after: comma",
-                    "comma": "trentatre, before: comma, after: del",
+                    "articolo": "trentacinque",
+                    "comma": "trentatre",
                     "sanzione_accessoria": null
                 }
             ],

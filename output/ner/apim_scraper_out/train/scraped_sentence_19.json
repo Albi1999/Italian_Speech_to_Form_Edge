@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un motoveicolo marca Ebbro con targa speciale immatricolato in Slovenia. La violazione è avvenuta il 12 aprile 2025 alle ore 7:24 in via Roma, civico 77, per parcheggio in divieto di sosta. La violazione riguarda l'articolo 9, comma 7 del codice stradale e comporta la perdita di 7 punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua italiana, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "sette ventiquattro",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "slovenia",
+                    "targa": "ubi trecentoventi uno doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "ebbro",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per motoveicoli marca ebbro lettera targa ubi trecentoventi uno doppia ex di tipo speciale immatricolati slovenia in data dodici aprile duemilaventicinque alle ore sette ventiquattro in via roma al civico settantasette e stata commessa la seguente violazione parcheggiato in divieto di sosta articolo nove con ma sette del codice stradale dalla violazione con segue la perdita di sette punti stampa in modalità blu tutte in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per motoveicolo, marca Chevrolet Trax, targa UV321WX di tipo speciale, immatricolato in slovenia. In data 12/04/2025 alle ore 07:24, in via Roma, al civico 77, è stata commessa la seguente violazione: parcheggio in divieto di sosta (articolo 9, comma 7 del codice stradale).Dalla violazione consegue la perdita di 7 punti.Stampa in modalità bluetooth e in lingua italiano, non stampare anche la comunicazione."
+}

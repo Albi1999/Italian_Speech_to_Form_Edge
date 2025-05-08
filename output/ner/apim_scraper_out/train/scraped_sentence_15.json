@@ -1,12 +1,12 @@
 {
     "scraped_data": {
-        "summary": "Il documento riguarda la redazione di un verbale per un motoveicolo Nissan Mica con targa 'guerre sei centocinquantaquattro e se ti', di tipo prova, immatricolato in Grecia. La violazione è avvenuta il primo maggio 2025 alle ore 17:44 in via Etna, civico 45, per parcheggio in divieto di sosta, violando l'articolo 46 comma 44 del codice penale. La violazione comporta la perdita di tre punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua inglese, includendo anche la comunicazione.",
+        "summary": "Il documento descrive la redazione di un verbale per un motoveicolo Nissan Mica con targa \"guerre sei centocinquantaquattro e se ti\" di tipo prova, immatricolato in Grecia. La violazione è avvenuta il primo maggio 2025 alle ore 17:44 in via Etna, civico 45, per parcheggio in divieto di sosta, violando l'articolo 46 comma 44 del codice penale. La violazione comporta la perdita di tre punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua inglese, con inclusione della comunicazione.",
         "report": {
             "verbale_preavviso": "verbale",
             "data_violazione": "primo maggio duemilaventicinque",
             "ora_violazione": "diciassette quarantaquattro",
             "Strada_1": "via etna",
-            "Civico_1": "quarantacinque, before: al, after: stata",
+            "Civico_1": "quarantacinque",
             "lista_veicoli": [
                 {
                     "tipologia": "motoveicolo",
@@ -22,15 +22,15 @@
             "violazioni": [
                 {
                     "codice": "penale",
-                    "articolo": "quarantasei, before: articolo, after: comma",
-                    "comma": "quarantaquattro, before: comma, after: del",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
                     "sanzione_accessoria": null
                 }
             ],
-            "punti": "tre, before: perdita, after: punti",
+            "punti": "tre",
             "tipo_stampa": "blu tutte",
             "lingua_stampa": "inglese",
-            "stampa_anche_comunicazione": "true"
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
         },
         "missing_required_infos": []
     },

@@ -1,12 +1,12 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive l'emissione di un verbale per un veicolo immatricolato in Spagna con targa \"guerre sette centottantanove se ti\". L'infrazione è avvenuta in corso Italia, civico trenta, per parcheggio in zona a rimozione. Si applica l'articolo ventiquattro comma ventidue del codice penale e verranno decurtati cinque punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. La stampa deve essere effettuata in inglese tramite Wi-Fi, senza includere la comunicazione.",
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo immatricolato in Spagna con targa \"guerre sette centottantanove se ti\". L'infrazione è avvenuta in corso Italia, civico trenta, per parcheggio in zona a rimozione. Si applica l'articolo ventiquattro comma ventidue del codice penale e verranno decurtati cinque punti. A causa dell'assenza del trasgressore, non è stato possibile effettuare la contestazione immediata. La stampa deve essere effettuata in inglese tramite Wi-Fi, senza includere la comunicazione.",
         "report": {
             "verbale_preavviso": "verbale",
             "data_violazione": null,
             "ora_violazione": null,
             "Strada_1": "corso italia",
-            "Civico_1": "trenta, before: italia, after: parcheggio",
+            "Civico_1": "trenta",
             "lista_veicoli": [
                 {
                     "tipologia": "macchina agricola",
@@ -22,12 +22,12 @@
             "violazioni": [
                 {
                     "codice": "penale",
-                    "articolo": "ventiquattro, before: articolo, after: comma",
-                    "comma": "ventidue, before: comma, after: del",
+                    "articolo": "ventiquattro",
+                    "comma": "ventidue",
                     "sanzione_accessoria": null
                 }
             ],
-            "punti": "cinque, before: decurtati, after: punti",
+            "punti": "cinque",
             "tipo_stampa": "guai fai",
             "lingua_stampa": "inglese",
             "stampa_anche_comunicazione": "non stampare anche la comunicazione"

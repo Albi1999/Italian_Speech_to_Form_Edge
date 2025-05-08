@@ -1,12 +1,12 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive un verbale per un veicolo Subaru, immatricolato in Portogallo, che ha commesso un'infrazione il 23 aprile 2025 alle ore 20:57 in via Venti Settembre, civico cinque. Il veicolo era parcheggiato in doppia fila, violando l'articolo 8, comma 6 del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di otto punti. È richiesta la stampa in olandese tramite Bluetooth, includendo anche la comunicazione.",
+        "summary": "Il documento descrive un verbale per un veicolo Subaru Impresa Macchina Agricola con targa immatricolata in Portogallo. L'infrazione è stata commessa il 23 aprile 2025 alle ore 20:57 in via Venti Settembre, civico 5, per parcheggio in doppia fila. La violazione è ai sensi dell'articolo 8, comma 6 del codice civile. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 8 punti. È richiesta la stampa in olandese via Bluetooth e anche la comunicazione.",
         "report": {
             "verbale_preavviso": "verbale",
             "data_violazione": "ventitré aprile duemilaventicinque",
             "ora_violazione": "venti e cinquantasette",
             "Strada_1": "via venti settembre",
-            "Civico_1": "cinque, before: civico, after: è",
+            "Civico_1": "cinque",
             "lista_veicoli": [
                 {
                     "tipologia": "macchina agricola",
@@ -17,13 +17,13 @@
                     "colore": null
                 }
             ],
-            "contestazione_immediata": null,
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
             "motivo_mancata_contestazione": "assenza del trasgressori",
             "violazioni": [
                 {
                     "codice": "civile",
-                    "articolo": "otto, before: articolo, after: con",
-                    "comma": "sei, before: con ma, after: del",
+                    "articolo": "otto",
+                    "comma": "sei",
                     "sanzione_accessoria": null
                 }
             ],

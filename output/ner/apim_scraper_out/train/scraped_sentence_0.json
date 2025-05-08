@@ -1,12 +1,12 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive un verbale redatto il ventinove aprile duemilaventicinque alle ore mezzanotte cinquantaquattro per un'infrazione avvenuta in via della musica al civico diciotto. Il veicolo coinvolto è un'autovettura immatricolata in Portogallo con targa speciale. La violazione riguarda il codice stradale, articolo cinquantadue comma cinquanta, per parcheggio in doppia fila. La contestazione è stata immediata e sono previsti tre punti da decurtare. La stampa del verbale è in tedesco tramite Wi-Fi, senza comunicazione aggiuntiva.",
+        "summary": "Il documento descrive un verbale redatto il 29 aprile 2025 alle ore 00:54 per un'infrazione stradale. Il veicolo coinvolto è un'autovettura immatricolata in Portogallo con targa speciale. L'infrazione è avvenuta in via della Musica, civico 18, per parcheggio in doppia fila. La contestazione è stata immediata e sono previsti tre punti da decurtare. La stampa del verbale è in tedesco tramite Wi-Fi, senza comunicazione aggiuntiva.",
         "report": {
             "verbale_preavviso": "verbale",
             "data_violazione": "ventinove aprile duemilaventicinque",
             "ora_violazione": "mezzanotte cinquantaquattro",
             "Strada_1": "via della musica",
-            "Civico_1": "diciotto, before: musica, after: stata",
+            "Civico_1": "diciotto",
             "lista_veicoli": [
                 {
                     "tipologia": "autovettura",
@@ -22,8 +22,8 @@
             "violazioni": [
                 {
                     "codice": "stradale",
-                    "articolo": "cinquantadue, before: articolo, after: comma",
-                    "comma": "cinquanta, before: comma, after: ovvero",
+                    "articolo": "cinquantadue",
+                    "comma": "cinquanta",
                     "sanzione_accessoria": null
                 }
             ],

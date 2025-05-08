@@ -1,12 +1,12 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Audi A3 con targa austriaca, per un'infrazione commessa il 17 aprile 2025 alle ore 21:29 in Piazza Venezia, civico 1. La violazione riguarda il parcheggio in zona a rimozione, ai sensi dell'articolo 27, comma 25 del codice penale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 10 punti. È richiesta la stampa in spagnolo via Bluetooth, senza stampare anche la comunicazione.",
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Audi A3 con targa austriaca, per un'infrazione avvenuta il 17 aprile 2025 alle ore 21:29 in Piazza Venezia, civico 1. La violazione riguarda il parcheggio in zona di rimozione, ai sensi dell'articolo 27, comma 25 del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 10 punti. È richiesta la stampa in spagnolo via Bluetooth, senza stampare anche la comunicazione.",
         "report": {
             "verbale_preavviso": "verbale",
             "data_violazione": "diciassette aprile duemilaventicinque",
             "ora_violazione": "ventuno e ventinove",
             "Strada_1": "piazza venezia",
-            "Civico_1": "uno, before: venezia, after: è",
+            "Civico_1": "uno",
             "lista_veicoli": [
                 {
                     "tipologia": "ciclomotori",
@@ -17,13 +17,13 @@
                     "colore": null
                 }
             ],
-            "contestazione_immediata": null,
-            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
             "violazioni": [
                 {
                     "codice": "penale",
-                    "articolo": "ventisette, before: articolo, after: con",
-                    "comma": "venticinque, before: con ma, after: del",
+                    "articolo": "ventisette",
+                    "comma": "venticinque",
                     "sanzione_accessoria": null
                 }
             ],

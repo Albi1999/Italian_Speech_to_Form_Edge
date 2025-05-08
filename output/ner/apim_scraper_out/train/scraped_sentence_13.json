@@ -1,17 +1,17 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive un verbale per un veicolo Seat Ibiza immatricolato in Austria con targa speciale JEFF 654. L'infrazione è avvenuta in via Venti Settembre, civico cinque, per parcheggio su strisce pedonali. Si applica l'articolo 35, comma 33 del codice civile, con la decurtazione di sei punti. Il verbale è stato contestato immediatamente dall'agente Marco Gentili. La stampa deve essere effettuata in tedesco tramite Brutus, includendo anche la comunicazione.",
+        "summary": "Il documento descrive un verbale per un veicolo Seat Ibiza immatricolato in Austria con targa JEFF 654. L'infrazione è avvenuta in via Venti Settembre, civico cinque, per parcheggio su strisce pedonali. Si applica l'articolo 35, comma 33 del codice civile. Verranno decurtati sei punti. Il verbale è stato contestato immediatamente dall'agente Marco Gentili. La stampa deve essere effettuata in tedesco tramite Bluetooth, includendo anche la comunicazione.",
         "report": {
             "verbale_preavviso": "verbale",
             "data_violazione": null,
             "ora_violazione": null,
             "Strada_1": "via venti settembre",
-            "Civico_1": "cinque, before: settembre, after: parcheggio",
+            "Civico_1": "cinque",
             "lista_veicoli": [
                 {
                     "tipologia": "molto veicolo",
                     "nazione": "austria",
-                    "targa": "jeff sei centocinquantaquattro giacca",
+                    "targa": "jeff sei centocinquantaquattro",
                     "tipologia_targa": "speciale",
                     "marca_modello": "seat ibiza",
                     "colore": null
@@ -22,8 +22,8 @@
             "violazioni": [
                 {
                     "codice": "civile",
-                    "articolo": "trentacinque, before: articolo, after: con",
-                    "comma": "trentatré, before: con, after: del",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
                     "sanzione_accessoria": null
                 }
             ],

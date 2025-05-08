@@ -1,12 +1,12 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive un preavviso di violazione per un veicolo Lancia Ypsilon, macchina agricola, con targa ufficiale registrata in Francia. La violazione è avvenuta il 9 aprile 2025 alle 10:24 in viale della Concordia, civico 13, per transito in zona di accesso vietato secondo l'articolo 28, comma 26 del codice stradale. La sanzione comporta una decurtazione di 5 punti. La stampa dell'avviso è prevista via Bluetooth, in italiano, senza includere la comunicazione.",
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Lancia Ypsilon, registrato in Francia, con targa ufficiale. L'infrazione è avvenuta il 9 aprile 2025 alle 10:24 in viale della Concordia, civico 13, per transito in zona accesso vietato. La violazione è in base all'articolo 28, comma 26 del codice stradale e comporta una decurtazione di 5 punti. La stampa dell'avviso è prevista via Bluetooth, in italiano, senza includere la comunicazione.",
         "report": {
             "verbale_preavviso": "preavviso",
             "data_violazione": "nove aprile duemilaventicinque",
             "ora_violazione": "dieci e ventiquattro",
             "Strada_1": "viale della concordia",
-            "Civico_1": "tredici, before: al, after: dove",
+            "Civico_1": "tredici",
             "lista_veicoli": [
                 {
                     "tipologia": "macchina agricola",
@@ -22,13 +22,13 @@
             "violazioni": [
                 {
                     "codice": "stradale",
-                    "articolo": "ventotto, before: articolo, after: comma",
-                    "comma": "ventisei, before: comma, after: del",
+                    "articolo": "ventotto",
+                    "comma": "ventisei",
                     "sanzione_accessoria": null
                 }
             ],
-            "punti": "cinque, before: di, after: punti",
-            "tipo_stampa": "blu",
+            "punti": "cinque",
+            "tipo_stampa": "bluetooth",
             "lingua_stampa": "italiano",
             "stampa_anche_comunicazione": "non stampare anche la comunicazione"
         },
