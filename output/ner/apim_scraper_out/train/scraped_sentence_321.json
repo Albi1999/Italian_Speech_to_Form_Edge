@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un'infrazione stradale. Il veicolo coinvolto è una macchina agricola con targa immatricolata in Spagna. L'infrazione è avvenuta il sei maggio duemilaventicinque alle ventuno e due minuti in via della Concordia, numero quattordici, dove il veicolo era parcheggiato in una zona di rimozione. L'articolo violato è il dodici, comma dieci del codice stradale, e verranno tolti due punti dalla patente. Il verbale sarà stampato via Bluetooth in francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "ventuno e due minuti",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "trecentoventi uno piedi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: tolti, after: dalla",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo chi ha storiche macchina agricola con targa trecentoventi uno piedi tipo prova immatricolati in spagna per un'infrazione commessa il sei maggio duemilaventicinque alle ventuno e due minuti l'infrazione e avvenuta in via della concordia al numero quattordici dov'è il veicolo era in parcheggio in zona a rimozione l'articolo violato è il dodici con ma dieci del codice stradale verranno tolti due punti dalla patente stampa questo verbale via blu tutti in francese non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Kia Stonic, macchina agricola con targa MN321OP di tipo prova, immatricolato in spagna, per un'infrazione commessa il 06/05/2025 alle 21:02. L'infrazione è avvenuta in via della Concordia, al numero 14, dove il veicolo era in parcheggio in zona rimozione.  L'articolo violato è il 12, comma 10 del codice stradale. Verranno tolti 2 punti dalla patente. Stampa questo verbale via bluetooth in francese, non stampare anche la comunicazione."
+}

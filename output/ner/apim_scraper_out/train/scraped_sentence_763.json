@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo con targa ufficiale in Germania. L'infrazione è avvenuta in via della Libertà, civico 21, per parcheggio in zona a rimozione. Si applica l'articolo 3, comma 1 del codice civile. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. Verranno decurtati un punto. La stampa deve essere effettuata in inglese tramite WiFi e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "germania",
+                    "targa": "gia cassette centottantanove i jedi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtati, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per i veicolo stata rona ciclomotori matricola in germania con targa gia cassette centottantanove i jedi tipo ufficiale l'infrazione avvenuta in via della libertà civico ventuno parcheggio in zona a rimozione si applica l'articolo tre coma uno del codice civile a seguito della violazione verranno decurtati un punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in inglese tramite wifi stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Seat Arona, ciclomotore immatricolato in germania con targa GH789IJ di tipo ufficiale. L'infrazione è avvenuta in via della Libertà, civico 21: parcheggio in zona rimozione. Si applica l'articolo 3, comma 1 del codice civile. A seguito della violazione verranno decurtati 1 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in inglese tramite wifi, stampa anche la comunicazione. "
+}

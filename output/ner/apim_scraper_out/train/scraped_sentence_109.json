@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Mercedes Classe A, registrato in Portogallo, con targa \"guerre trecentoventi uno\". L'infrazione è avvenuta il 17 aprile 2025 alle 18:51 in Piazza Venezia, civico 1, per parcheggio su strisce pedonali. La violazione è in base all'articolo 157, comma 5 del codice penale e comporta una decurtazione di 9 punti. La stampa dell'avviso è prevista via \"hawaii\" in lingua portoghese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "diciotto e cinquantuno",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "guerre trecentoventi uno",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo mercedes classe a macchina operatrice targato guerre trecentoventi uno e se ti con targa copertura registrato in portogallo per un fatto accaduto il diciassette aprile duemilaventicinque alle diciotto e cinquantuno il veicolo si trovava in piazza venezia al civico uno dove è stato riscontrato parcheggio su strisce pedonali in base all'articolo centocinquantasette con ma cinque del codice penale questa infrazione comporta una decurtazione di nove punti genere alla stampa dell'avviso via hawaii fahim portoghese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Mercedes Classe A, macchina operatrice, targato QR321ST con targa copertura, registrato in portogallo,  per un fatto accaduto il 17/04/2025 alle 18:51. Il veicolo si trovava in piazza Venezia, al civico 1, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 157, comma 5, del codice penale. Questa infrazione comporta una decurtazione di 9 punti.  Genera la stampa dell'avviso via wifi in portoghese, stampa anche la comunicazione."
+}

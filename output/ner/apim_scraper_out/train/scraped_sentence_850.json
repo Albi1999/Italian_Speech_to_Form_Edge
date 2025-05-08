@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo proveniente dall'Olanda, avvenuto il 18 aprile 2025 alle ore 6:28 in Corso Buenos Aires, civico 98. L'infrazione riguarda il parcheggio in zona a rimozione, violando l'articolo 16, comma 14 del codice civile. È prevista la decurtazione di sette punti e la contestazione immediata da parte dell'agente Mario Rossi. La stampa necessaria è tramite WiFi in lingua finlandese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "sei e ventotto",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrici",
+                    "nazione": "olanda",
+                    "targa": "centocinquantaquattro doppia with sei",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "mac seta rona",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sedici",
+                    "comma": "quattordici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: decurtazione, after: punti",
+            "tipo_stampa": "vuoi",
+            "lingua_stampa": "finlandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazioni verbale in corso per il veicolo macchina operatrici e di mac seta rona contenga usi i centocinquantaquattro doppia with sei tipo copertura proveniente da olanda fatto avvenuto il diciotto aprile duemilaventicinque alle ore sei e ventotto posizione corso buenos aires numero civico novantotto infrazione parcheggio in zona a rimozione in violazione dell'articolo sedici come a quattordici del codice civile decurtazione prevista sette punti si applica contestazione immediata da parte della gente mario rossi stampa necessarie tramite vuoi finlandese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo macchina operatrice di marca Seat Arona, con targa UV654WX (tipo copertura), proveniente da olanda. Fatto avvenuto il 18/04/2025 alle ore 06:28. Posizione: corso Buenos Aires, numero civico 98. Infrazione: parcheggio in zona rimozione, in violazione dell'articolo 16, comma 14, del codice civile. Decurtazione prevista: 7 punti. Si applica contestazione immediata da parte dell'agente Mario Rossi. Stampa necessaria tramite wifi in olandese, stampa anche la comunicazione. "
+}

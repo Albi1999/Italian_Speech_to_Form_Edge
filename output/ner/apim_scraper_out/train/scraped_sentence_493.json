@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo proveniente dalla Spagna, con marca 'mas' e targa 'ci di quattrocentocinquanta sei'. L'infrazione è stata rilevata il 25 aprile 2025 alle ore 3:43 in via della Libertà, civico 21, per parcheggio in zona a rimozione. La violazione riguarda l'articolo 36, comma 34 del codice civile. L'agente Marco Gentili ha effettuato la contestazione immediata, comportando la perdita di 3 punti. Si richiede la stampa del verbale in spagnolo tramite Wi-Fi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "tre quarantatré",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "spagna",
+                    "targa": "ci di quattrocentocinquanta sei",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mas",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentasei",
+                    "comma": "trentaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo molto veicolo marca mas da due targato ci di quattrocentocinquanta sei di tipo prova proveniente da spagna l'infrazione e stata rilevata il venticinque aprile duemilaventicinque alle ore tre quarantatré il veicolo si trovava in via della libertà al civico ventuno in parcheggio in zona a rimozione violando l'articolo trentasei comma trentaquattro del codice civile l'agente marco gentili a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di tre punti richiedo la stampa del verbale in spagnolo tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo motoveicolo, marca Mazda 2, targato CD456EF (di tipo prova), proveniente da spagna.  L'infrazione è stata rilevata il 25/04/2025 alle ore 03:43. Il veicolo si trovava in via della Libertà, al civico 21, in parcheggio in zona rimozione, violando l'articolo 36, comma 34, del codice civile. L'agente Marco Gentili ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 3 punti.  Richiedo la stampa del verbale in spagnolo tramite wifi, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un'infrazione commessa da un veicolo immatricolato in Belgio. L'infrazione è avvenuta il quattro maggio duemilaventicinque alle ore quattordici e trentatré in viale della scienza, civico quattordici. Il veicolo coinvolto è una macchina agricola di tipo ufficiale con targa belga. La violazione riguarda il parcheggio davanti a un passo carabine, ai sensi dell'articolo centottantacinque comma due del codice penale. La contestazione è stata eseguita immediatamente dall'agente Carlo Bruni e comporta la decurtazione di nove punti. È richiesta la stampa in francese via Bluetooth, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro omaggio duemilaventicinque",
+            "ora_violazione": "quattordici e trentatre",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "i lunga cappa cinquecentosessantadue sette",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "amai ypsilon seta e ferre sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazione, after: punti",
+            "tipo_stampa": "about",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo amai ypsilon seta e ferre sette macchina agricola targa i lunga cappa cinquecentosessantadue sette più di tipo ufficiale immatricolati in belgio per infrazione commessa in data quattro omaggio duemilaventicinque ore quattordici e trentatre in viale della scienza civico quattordici è stato rilevato parcheggio davanti a passo carabine ai sensi dell'articolo centottantacinque comma due del codice penale contestazione immediata eseguita dall'agente carlo bruni la violazione comporta la decurtazione di nove punti richiesta stampa in francese via about stampa anche la comunicativa",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Yamaha YZF-R7 macchina agricola, targa JK567OP di tipo ufficiale, immatricolato in belgio, per infrazione commessa in data 04/05/2025, ore 14:33. In viale della Scienza, civico 14, è stato rilevato parcheggio davanti a passo carrabile, ai sensi dell'articolo 185, comma 2, del codice penale.Contestazione immediata eseguita dall'agente Carlo Bruni. La violazione comporta la decurtazione di 9 punti. Richiesta stampa in francese via bluetooth, stampa anche la comunicazione."
+}

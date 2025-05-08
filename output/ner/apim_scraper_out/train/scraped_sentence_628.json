@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Subaru registrato in Portogallo, avvenuto il 30 aprile 2025 alle 7:56. Il veicolo era parcheggiato in doppia fila in via della Musica, civico 18, violando l'articolo 36, comma 34 del codice civile. La violazione comporta la decurtazione di un punto. L'avviso sarà stampato via Bluetooth in olandese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "sette e cinquantasei",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "portogallo",
+                    "targa": "quattrocentocinquanta sei ci di",
+                    "tipologia_targa": null,
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentasei",
+                    "comma": "trentaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: di, after: punti",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo subaru quindicesimo motoveicoli tagliato ad quattrocentocinquanta sei ci di contenga prova registrato in portogallo per un fatto accaduto il trenta aprile duemilaventicinque alle sette e cinquantasei il veicolo si trovava in via della musica al civico diciotto dove è stato riscontrato parcheggiato in doppia fila in base a l'articolo trentasei come trentaquattro del codice civile questa infrazioni comporta una decurtazioni di un punti genere alla stampa dell'avviso via blu in olandese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Subaru XV, motoveicolo, targato AB456CD con targa prova, registrato in portogallo, per un fatto accaduto il 30/04/2025 alle 07:56. Il veicolo si trovava in via della Musica, al civico 18, dove è stato riscontrato parcheggio in doppia fila, in base all'articolo 36, comma 34, del codice civile. Questa infrazione comporta una decurtazione di 1 punti. Genera la stampa dell'avviso via bluetooth in olandese, stampa anche la comunicazione. "
+}

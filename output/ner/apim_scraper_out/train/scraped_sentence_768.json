@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo ciclomotore marca Giamai Metti Sette, targa Già 450 6 Cupi, di tipo prova, immatricolato in Croazia. La violazione è avvenuta il 20 aprile 2025 alle ore 15:37 in Corso della Giustizia, civico 23, per parcheggio su strisce pedonali, violando l'articolo 4, comma 2 del codice civile. Sono previsti 10 punti di decurtazione. Si richiede la stampa del preavviso in lingua inglese tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "quindici e trentasette",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "già quattrocentocinquanta sei cupi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "giamai metti sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazioni per il veicolo ciclomotori marca giamai metti sette targa già quattrocentocinquanta sei cupi di tipo prova immatricolati in croazia la violazione è avvenuta i venti aprile duemilaventicinque alle ore quindici e trentasette in corso della giustizia al numero civico ventitré ed è relativa parcheggio su strisce pedonali invasi all'articolo quattro ma due del codice civile per tale violazione sono previsti dieci punti di decurtazione si richiede la stampa tale preavviso in lingua inglese tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo ciclomotore, marca Yamaha MT-07, targa ZA456QP di tipo prova, immatricolato in croazia. La violazione è avvenuta il 20/04/2025 alle ore 15:37 in corso della Giustizia, al numero civico 23, ed è relativa a parcheggio su strisce pedonali, in base all'articolo 4, comma 2 del codice civile. Per tale violazione sono previsti 10 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua inglese tramite wifi, non stampare anche la comunicazione. "
+}

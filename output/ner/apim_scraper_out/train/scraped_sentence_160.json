@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per una violazione di parcheggio in divieto di sosta. La violazione è stata rilevata il 20 aprile 2025 alle ore 21:03 in via della Libertà, numero civico 3. Il veicolo coinvolto è una macchina agricola di marca Nucleo, targata 'guerre quattrocentocinquanta sei se ti', di tipo ufficiale e proveniente dalla Spagna. La violazione è in base all'articolo 50, comma 48 del codice stradale, con una decurtazione di 2 punti. Si richiede la stampa del preavviso tramite WiFi in lingua portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "ventuno e tre minuti",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "guerre quattrocentocinquanta sei se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "nucleo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquanta",
+                    "comma": "quarantotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo macchina agricola marcare nucleo targato guerre quattrocentocinquanta sei se ti di tipo ufficiale proveniente da spagna in data venti aprile duemilaventicinque alle ore ventuno e tre minuti e stata rilevata la violazione di parcheggio in divieto di sosta in via della libertà al numero tre in base all'articolo cinquanta comma quarantotto del codice stradale per tale infrazione sono previsti due punti di decurtazione si richiede la stampa del preavviso tramite wifi in lingua portoghese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina agricola, marca Renault Clio, targato QR456ST di tipo ufficiale, proveniente da spagna. In data 20/04/2025 alle ore 21:03, è stata rilevata la violazione di parcheggio in divieto di sosta in via della Libertà, al numero 3, in base all'articolo 50, comma 48 del codice stradale.Per tale infrazione sono previsti 2 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua portoghese, stampa anche la comunicazione."
+}

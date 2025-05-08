@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo rimorchio marca Dacia d'Aste, targa 3201, immatricolato in Germania. La violazione è avvenuta il 12 aprile 2025 alle ore 22:44 in via Giuseppe Mazzini, civico 24, per transito in zona accesso vietato secondo l'articolo 30, comma 28 del codice civile. Sono previsti 3 punti di decurtazione. Si richiede la stampa del preavviso in lingua olandese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "ventidue quarantaquattro",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "trecentoventi uno",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "dacia d'aste",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trenta",
+                    "comma": "ventotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: di",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo rimorchio marca dacia d'aste targa trecentoventi uno più di tipo copertura immatricolati in germania la violazione è avvenuta il dodici aprile duemilaventicinque alle ore ventidue quarantaquattro in via giuseppe mazzini al numero civico ventiquattro ed è relativa transito in zona accesso vietato in base al l'articolo trenta comma ventotto del codice civile per tale violazione sono previsti tre punti di decurtazione si richiede la stampa di tale preavviso in lingua olandese tramite guai fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo rimorchio, marca Dacia Duster, targa MN321OP di tipo copertura, immatricolato in germania. La violazione è avvenuta il 12/04/2025 alle ore 22:44 in via Giuseppe Mazzini, al numero civico 24, ed è relativa a transito in zona accesso vietato, in base all'articolo 30, comma 28 del codice civile.Per tale violazione sono previsti 3 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua olandese tramite wifi, stampa anche la comunicazione."
+}

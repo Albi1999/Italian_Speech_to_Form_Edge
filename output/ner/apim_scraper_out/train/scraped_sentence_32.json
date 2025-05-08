@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo immatricolato in Austria con targa di tipo prova. L'infrazione è avvenuta in viale dei giardini, civico non specificato, per transito in zona ad accesso vietato. Si applica l'articolo cinque, comma tre del codice stradale, con la decurtazione di tre punti. La contestazione è stata immediata e l'agente responsabile è Luca Verdi. La stampa del verbale deve essere effettuata in tedesco tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "transito",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "austria",
+                    "targa": "guerre sette centottantanove estetico",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mit subisci colte",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo mit subisci colte macchina agricola immatricolati in austria con targa guerre sette centottantanove estetico di tipo prova l'infrazione avvenuta in viale dei giardini civico transito in zona accesso vietato si applica l'articolo cinque con ma tre del codice stradale a seguito della violazione verranno decurtati tre punti il verbale è stato contestato immediatamente dall'agente luca verdi si prega di procedere con la stampa in tedesco tramite blu stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Mitsubishi Colt, macchina agricola immatricolato in austria con targa QR789ST di tipo prova. L'infrazione è avvenuta in viale dei Giardini, civico 8: transito in zona accesso vietato. Si applica l'articolo 5, comma 3 del codice stradale. A seguito della violazione verranno decurtati 3 punti.Il verbale è stato contestato immediatamente dall'agente Luca Verdi. Si prega di procedere con la stampa in tedesco tramite bluetooth, stampa anche la comunicazione."
+}

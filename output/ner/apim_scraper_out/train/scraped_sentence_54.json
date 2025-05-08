@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 29 aprile 2025 alle ore 3:19 per un veicolo Audi A3 immatricolato in Grecia con targa ufficiale. L'infrazione è avvenuta presso viale della Concordia, civico 13, violando il codice stradale, articolo 6, comma 4, riguardante il transito in zona accesso vietato. Sono stati decurtati 9 punti, senza sanzioni accessorie. Il veicolo è di colore verde. La stampa deve essere effettuata tramite WiFi in spagnolo, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "tre diciannove",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "audi a tre",
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nuove, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fi",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventinove aprile duemilaventicinque alle ore tre diciannove sto mettendo una notifica di infrazione per il veicolo audi a tre macchina operatrice immatricolati in grecia con targa i sette centottantanove chi lo litri di tipo ufficiale l'infrazione si e verificata presso viale della concordia al civico tredici violando il codice stradale in particolare l'articolo sei con ma quattro riguardante il transito in zona accesso vietato devo decurtare nuove punti non è necessaria alcuna sanzione accessoria il macchina operatrice di colore verde con numero di telaio trecentotrentotto milioni e ottantatre milleottocento quattordici e massa millequattrocento quarantasei chilogrammi stampa me lo con il vuoi fi in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Il 29/04/2025, alle ore 03:19, sto emettendo una notifica di infrazione per il veicolo Audi A3, macchina operatrice immatricolato in grecia con targa IJ789KL di tipo ufficiale. L'infrazione si è verificata presso viale della Concordia, al civico 13, violando il codice stradale, in particolare l'articolo 6, comma 4 riguardante il transito in zona accesso vietato.Devo decurtare 9 punti. Non è necessaria alcuna sanzione accessoria. Il macchina operatrice è di colore verde, con numero di telaio 328083814 e massa 1446 kg.Stampamelo con il wifi in spagnolo, non stampare anche la comunicazione."
+}

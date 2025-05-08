@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo macchina operatrice di marca \"mi subisci colte\" con targa \"ad sei centocinquantaquattro ci\" di tipo ufficiale, proveniente dalla Spagna. L'infrazione è avvenuta il 18 aprile 2025 alle ore 13:01 in corso Italia, numero civico 30, per parcheggio davanti a passo carabine, violando l'articolo 13 comma 11 del codice penale. La decurtazione prevista è di quattro punti. La contestazione immediata è impossibile per assenza del trasgressore. È necessaria la stampa tramite WiFi in portoghese, e si deve stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "tredici è un minuto",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "ad sei centocinquantaquattro ci",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mi subisci colte",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tredici",
+                    "comma": "undici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per veicolo macchina operatrice di marca mi subisci colte con targa ad sei centocinquantaquattro ci di tipo ufficiale proveniente da spagna fatto avvenuto il diciotto aprile duemilaventicinque alle ore tredici è un minuto posizione corso italia numero civico trenta infrazione parcheggio davanti a passo carabine in violazione dell'articolo tredici comma undici del codice penale decurtazione prevista quattro punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite wifi in portoghese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo macchina operatrice di marca Mitsubishi Colt, con targa AB654CD (tipo ufficiale), proveniente da spagna. Fatto avvenuto il 18/04/2025 alle ore 13:01. Posizione: corso Italia, numero civico 30. Infrazione: parcheggio davanti a passo carrabile, in violazione dell'articolo 13, comma 11, del codice penale. Decurtazione prevista: 4 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in portoghese, stampa anche la comunicazione. "
+}

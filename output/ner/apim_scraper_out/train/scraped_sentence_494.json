@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il cinque maggio duemilaventicinque alle ore ventitré ventisei per un veicolo registrato in Portogallo. L'infrazione è avvenuta in via della Speranza al numero diciassette, per parcheggio davanti a passo carabine, violando l'articolo trentacinque comma trentatré del codice penale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti sei punti di decurtazione. La stampa della notifica deve avvenire tramite Wi-Fi in lingua spagnola, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "ventitré ventisei",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "portogallo",
+                    "targa": "quattrocentocinquanta sei ci",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "chi api canto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: di",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data cinque maggio duemilaventicinque alle ore ventitré ventisei è stato emesso un preavviso di violazione per il veicolo autovettura di marca chi api canto con targa quattrocentocinquanta sei ci di tipo copertura registrato in portogallo l'infrazione avvenuta in via della speranza al numero diciassette e consiste in parcheggio davanti a passo carabine come previsto dall'articolo trentacinque comma trentatré del codice penale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti sei punti di decurtazione si prega di stampare la presente notifica tramite guai fai in lingua spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 05/05/2025, alle ore 23:26, è stato emesso un preavviso di violazione per il veicolo autovettura di marca Kia Picanto, con targa AB456CD (tipo copertura), registrato in portogallo. L'infrazione è avvenuta in via della Speranza, al numero 17, e consiste in parcheggio davanti a passo carrabile, come previsto dall'articolo 35, comma 33 del codice penale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 6 punti di decurtazione.  Si prega di stampare la presente notifica tramite wifi, in lingua spagnolo, non stampare anche la comunicazione."
+}

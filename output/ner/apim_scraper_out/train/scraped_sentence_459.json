@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 24 aprile 2025 alle ore 22:09 per un veicolo Nissan immatricolato in Croazia con targa 789. L'infrazione è avvenuta in viale della Libertà, civico 22, per parcheggio in divieto di sosta. La violazione riguarda il codice stradale, articolo 45, comma 43. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti sette punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è in francese tramite Wi-Fi e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "ventidue nove minuti",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "veicolo",
+                    "nazione": "croazia",
+                    "targa": "sette centottantanove ho piedi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "nissan gioca molto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventiquattro aprile duemilaventicinque alle ore ventidue nove minuti è stato redatto un verbale per il veicolo nissan gioca molto veicolo immatricolati in croazia con targa sette centottantanove ho piedi tipo prova l'infrazione e avvenuta in viale della libertà al civico ventidue stata riscontrata una violazione del codice stradale articolo quarantacinque comma quarantatré ovvero parcheggio in divieto di sosta non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti sette punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in francese tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Il giorno 24/04/2025, alle ore 22:09, è stato redatto un verbale per il veicolo Nissan Juke, motoveicolo immatricolato in croazia con targa MN789OP di tipo prova.L'infrazione è avvenuta in viale della Libertà, al civico 22. È stata riscontrata una violazione del codice stradale, articolo 45, comma 43 ovvero parcheggio in divieto di sostaNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 7 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in francese tramite wifi, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo ciclomotore con targa \"icsi ypsilon novecento ottantasette zitta ti\" di tipo prova, marca Onda, proveniente dalla Germania. L'infrazione, specificamente un parcheggio in zona a rimozione, è avvenuta l'undici aprile duemilaventicinque alle ore ventitré e sedici in corso della Libertà al numero sette. La violazione è in riferimento all'articolo trentaquattro comma trentadue del codice penale e comporterà una decurtazione di cinque punti. Si richiede la stampa in lingua francese, modalità WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "ventitré sedici",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "germania",
+                    "targa": "icsi ypsilon novecento ottantasette zitta ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "onda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentaquattro",
+                    "comma": "trentadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazioni per il veicolo ciclomotori con targa icsi ypsilon novecento ottantasette zitta ti di tipo prova marca onda proveniente da germania l'infrazione nello specifico parcheggio in zona a rimozione sia verificata in data undici aprile duemilaventicinque alle ore ventitré sedici in corso della libertà al numero sette articolo trentaquattro comma trentadue del codice penale si comunica che dalla violazione conseguirà una decurtazione di cinque punti si richiede la stampa in lingua francese modalità wifi non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotore con targa XY987ZT di tipo prova, marca Honda Jazz, proveniente da germania. L'infrazione, nello specifico parcheggio in zona rimozione, si è verificata in data 11/04/2025 alle ore 23:16 in corso della Libertà, al numero 7 (articolo 34, comma 32 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 5 punti. Si richiede la stampa in lingua francese, modalità wifi, non stampare anche la comunicazione. "
+}

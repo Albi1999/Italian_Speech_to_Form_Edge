@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo macchina agricola Mercedes Classe A, targa UBI VI 654 XX, immatricolato in Germania. La violazione è avvenuta il 12 aprile 2025 alle 23:41 in Viale della Vittoria, civico 9, per parcheggio in zona a rimozione. La violazione riguarda l'articolo 7, comma 5 del codice penale, con una decurtazione di 6 punti. Si richiede la stampa del preavviso in lingua tedesca tramite fax, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "ventitré quarantuno",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "ubi vi sei centocinquantaquattro doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo macchina agricola marca mercedes classe a targa ubi vi sei centocinquantaquattro doppia ex di tipo speciale immatricolati in germania la violazione è avvenuta il dodici aprile duemilaventicinque alle ore ventitré quarantuno inviarle della vittoria al numero civico nove ed è relativa parcheggio in zona a rimozione invase all'articolo sette con ma cinque del codice penale per tale violazione sono previsti sei punti di decurtazione si richiede la stampa di tale preavviso in lingua tedesco tramite fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo macchina agricola, marca Mercedes Classe A, targa UV654WX di tipo speciale, immatricolato in germania. La violazione è avvenuta il 12/04/2025 alle ore 23:41 in viale della Vittoria, al numero civico 9, ed è relativa a parcheggio in zona rimozione, in base all'articolo 7, comma 5 del codice penale.Per tale violazione sono previsti 6 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua tedesco tramite wifi, stampa anche la comunicazione."
+}

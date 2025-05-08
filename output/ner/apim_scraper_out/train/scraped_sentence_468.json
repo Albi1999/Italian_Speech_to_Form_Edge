@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo macchina operatrice con targa ufficiale proveniente dall'Austria. L'infrazione è avvenuta il 24 aprile 2025 alle ore 2 in via della Concordia, numero 14, per parcheggio in divieto di sosta. La violazione è in base all'articolo 157, comma 5 del codice stradale, e comporta una decurtazione di sette punti. Si richiede la stampa in lingua inglese, modalità Hawaii, e di non stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "due",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "austria",
+                    "targa": "jeff centoventitre giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "onda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa è jeff centoventitre giacca di tipo ufficiale marca onda proveniente da austria l'infrazione nello specifico parcheggio in divieto di sosta sia e verificata in data ventiquattro aprile duemilaventicinque alle ore due in via della concordia al numero quattordici articolo centocinquantasette con ma cinque del codice stradale si comunica che dalla violazione conseguirà una decurtazione di sette punti si richiede la stampa in lingua inglese modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa EF123GH di tipo ufficiale, marca Honda Jazz, proveniente da austria. L'infrazione, nello specifico parcheggio in divieto di sosta, si è verificata in data 24/04/2025 alle ore 02:00 in via della Concordia, al numero 14 (articolo 157, comma 5 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 7 punti.Si richiede la stampa in lingua inglese, modalità wifi, non stampare anche la comunicazione."
+}

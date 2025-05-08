@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un ciclomotore marca Fiat, targa \"how trecentoventi uno doppia wings\", immatricolato in Italia. La violazione è avvenuta l'otto aprile duemilaventicinque alle ore quattro e cinquantasei in viale della Libertà, civico ventidue. La violazione riguarda il parcheggio in divieto di sosta, articolo venti ma diciotto del codice stradale, con conseguente perdita di tre punti. La stampa del verbale è richiesta in modalità \"vuoi fai\" e in lingua spagnola, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "quattro e cinquantasei",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "italia",
+                    "targa": "how trecentoventi uno doppia wings",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "fiat",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per ciclomotori marca fiat tipo targa how trecentoventi uno doppia wings di tipo copertura immatricolati in italia in data otto aprile duemilaventicinque alle ore quattro e cinquantasei in viale della libertà al civico ventidue e stata commessa la seguente violazione parcheggiato in divieto di sosta articolo venti ma diciotto del codice stradale dalla violazione con segue la perdita di tre punti stampa in modalità vuoi fai in lingua spagnolo stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per ciclomotore, marca Fiat Tipo, targa UV321WX di tipo copertura, immatricolato in italia. In data 08/04/2025 alle ore 04:56, in viale della Libertà, al civico 22, è stata commessa la seguente violazione: parcheggio in divieto di sosta (articolo 20, comma 18 del codice stradale). Dalla violazione consegue la perdita di 3 punti. Stampa in modalità wifi e in lingua spagnolo, stampa anche la comunicazione. "
+}

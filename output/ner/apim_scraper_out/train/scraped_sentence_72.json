@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta l'undici aprile 2025 alle ore 20:04 in via Roma, civico 77. È stato emesso un verbale per un veicolo immatricolato in Olanda, marca Chevrolet Spark, con targa BEH 123 CD. La violazione riguarda il codice penale, articolo 46, comma 44, per transito in zona vietata. Non è stato possibile contestare sul posto per assenza del trasgressore. Sono previsti dieci punti da decurtare, senza sanzioni accessorie. La stampa del verbale è richiesta in spagnolo tramite Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "venti e quattro minuti",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "olanda",
+                    "targa": "beh centoventitre ci di di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "lei spark",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: da",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno undici aprile duemilaventicinque alle ore venti e quattro minuti e statore dato un verbale per il veicolo cipro lei spark molto veicolo immatricolati in olanda con targa beh centoventitre ci di di tipo copertura l'infrazione è avvenuta in via roma al civico settantasette e stata riscontrata una violazione del codice penale articolo quarantasei comma quarantaquattro vero transito in zona accesso vietato non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti dieci punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in spagnolo tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 11/04/2025, alle ore 20:04, è stato redatto un verbale per il veicolo Chevrolet Spark, motoveicolo immatricolato in olanda con targa AB123CD di tipo copertura.L'infrazione è avvenuta in via Roma, al civico 77. È stata riscontrata una violazione del codice penale, articolo 46, comma 44 ovvero transito in zona accesso vietatoNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 10 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in spagnolo tramite bluetooth, non stampare anche la comunicazione."
+}

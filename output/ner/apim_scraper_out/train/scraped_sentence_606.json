@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il sedici aprile duemilaventicinque alle ore ventuno e cinquantadue. È stato elevato un verbale al veicolo Ducati Monster, un motoveicolo con targa yemen quattrocentocinquanta sei, immatricolato in Grecia. La violazione riguarda l'articolo trentotto con ma trentasei del codice civile per parcheggio in zona a rimozione, rilevata in viale della libertà al civico ventidue. La contestazione è stata immediata, effettuata dall'agente Silvia Neri, e ha comportato la decurtazione di otto punti. La stampa è necessaria in lingua spagnola via hawaii fai, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "ventuno e cinquantadue",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "grecia",
+                    "targa": "yemen quattrocentocinquanta sei",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "ducati monster",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentotto",
+                    "comma": "trentasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: derivano, after: decurtazione",
+            "tipo_stampa": "via hawaii fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "intatta sedici aprile duemilaventicinque alle ore ventuno e cinquantadue si eleva verbale al veicolo ducati monster motoveicoli con targa yemen quattrocentocinquanta sei oppido piedi tipo ufficiale immatricolati in grecia per violazione dell'articolo trentotto con ma trentasei del codice civile ovvero parcheggio in zona a rimozione rilevata in viale della libertà al civico ventidue la contestazione e stata immediata effettuata dalla gente silvia neri dalla violazione derivano otto punti di decurtazione stampa necessaria in lingua spagnolo via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "In data 16/04/2025, alle ore 21:52, si eleva verbale al veicolo Ducati Monster, motoveicolo con targa MN456OP di tipo ufficiale, immatricolato in grecia, per violazione dell'articolo 38, comma 36 del codice civile, ovvero parcheggio in zona rimozione, rilevata in viale della Libertà, al civico 22. La contestazione è stata immediata, effettuata dall'agente Silvia Neri. Dalla violazione derivano 8 punti di decurtazione. Stampa necessaria in lingua spagnolo via wifi, non stampare anche la comunicazione. "
+}

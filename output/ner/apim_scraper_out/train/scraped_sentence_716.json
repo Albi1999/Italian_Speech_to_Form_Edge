@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il quindici aprile duemilaventicinque alle ore venti e cinquantasei per un veicolo Onda, motoveicoli immatricolati in Grecia con targa \"guerre centoventitre se ti\" di tipo speciale. L'infrazione è avvenuta in via della Speranza al civico diciotto, con violazione del codice civile articolo trentasette comma trentacinque, ovvero parcheggio su strisce pedonali. La contestazione è stata immediata da parte dell'agente Alessandro Moretti. È previsto un punto da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è in portoghese tramite WiFi e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "venti e cinquantasei",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "grecia",
+                    "targa": "guerre centoventitre se ti",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "onda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentasette",
+                    "comma": "trentacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: da",
+            "tipo_stampa": "fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno quindici aprile duemilaventicinque alle ore venti e cinquantasei è stato redatto un verbale per il veicolo onda motoveicoli immatricolati in grecia con targa guerre centoventitre se ti di tipo speciale l'infrazione avvenuta in via della speranza al civico diciotto e stata riscontrata una violazione del codice civile articolo trentasette come trentacinque ovvero parcheggio su strisce pedonali il verbale è stato eseguito sul posto con contestazione immediata da parte della gente alessandro moretti sono previsti un punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in portoghese tramite fai stampa anche la comunicazione",
+    "original_sentence": "Il giorno 15/04/2025, alle ore 20:56, è stato redatto un verbale per il veicolo Honda Jazz, motoveicolo immatricolato in grecia con targa QR123ST di tipo speciale. L'infrazione è avvenuta in via della Speranza, al civico 18. È stata riscontrata una violazione del codice civile, articolo 37, comma 35 ovvero parcheggio su strisce pedonaliIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Alessandro Moretti. Sono previsti 1 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in portoghese tramite wifi, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il ventisei aprile duemilaventicinque alle ore diciannove. La violazione riguarda un veicolo rimorchio di marca Lancia Delta con targa registrata in Svizzera, avvenuta in via della Musica al numero diciotto. L'infrazione consiste nel parcheggio davanti a passo carabine, secondo l'articolo diciannove comma diciassette del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti nove punti di decurtazione. La notifica deve essere stampata tramite Bluetooth in lingua portoghese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "diciannove",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "yemen quattrocentocinquanta sei hop",
+                    "tipologia_targa": null,
+                    "marca_modello": "lancia delta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "diciannove",
+                    "comma": "diciassette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventisei aprile duemilaventicinque alle ore diciannove un è stato emesso un preavviso di violazioni per il veicolo rimorchio di marca lancia delta con targa yemen quattrocentocinquanta sei hop il tipo copertura registrato in svizzera l'infrazione è avvenuta in via della musica al numero diciotto e consiste in parcheggio davanti a passo carabine come previsto dall'articolo diciannove comma diciassette del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti nove i punti di decurtazione si prega di stampare la presente notifica tramite blu tutte in lingua portoghese stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 26/04/2025, alle ore 19:11, è stato emesso un preavviso di violazione per il veicolo rimorchio di marca Lancia Delta, con targa MN456OP (tipo copertura), registrato in svizzera. L'infrazione è avvenuta in via della Musica, al numero 18, e consiste in parcheggio davanti a passo carrabile, come previsto dall'articolo 19, comma 17 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 9 punti di decurtazione. Si prega di stampare la presente notifica tramite bluetooth, in lingua portoghese, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione per un veicolo Subaru, immatricolato in Portogallo, con targa ufficiale. L'infrazione è avvenuta il 23 aprile 2025 alle ore 1:58 presso viale della Vittoria, civico 9, violando il codice penale, articolo 39, comma 37, per parcheggio in doppia fila. Non è necessaria alcuna sanzione accessoria e vengono decurtati due punti. Il veicolo è una macchina operatrice di colore grigia. La stampa deve essere effettuata tramite Wi-Fi in lingua tedesca, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "una e cinquantotto",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "ubi sei centocinquantaquattro doppia ex",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "subaru quindicesimo",
+                    "colore": "grigia"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventitré aprile duemilaventicinque alle ore una e cinquantotto sto mettendo una notifica di infrazione per il veicolo subaru quindicesimo macchina operatrice immatricolati portogallo con targa ubi sei centocinquantaquattro doppia ex di tipo ufficiale l'infrazione si e verificata presso viale della vittoria al civico nove violando il codice penale in particolare l'articolo trentanove comma trentasette riguardante il parcheggio in doppia fila devo decurtare due punti non è necessaria alcuna sanzione accessoria il macchina operatrice di colore grigia con numero di telaio duecentosettantanove milioni e cinquecentodieci mila sette centoquattordici e massa tremilaseicento quarantadue chilogrammi stampa me lo con il vuoi fa in tedesco stampa anche la comunicazione",
+    "original_sentence": "Il 23/04/2025, alle ore 01:58, sto emettendo una notifica di infrazione per il veicolo Subaru XV, macchina operatrice immatricolato in portogallo con targa UV654WX di tipo ufficiale. L'infrazione si è verificata presso viale della Vittoria, al civico 9, violando il codice penale, in particolare l'articolo 39, comma 37 riguardante il parcheggio in doppia fila.Devo decurtare 2 punti. Non è necessaria alcuna sanzione accessoria. Il macchina operatrice è di colore grigio, con numero di telaio 279510714 e massa 3642 kg.Stampamelo con il wifi in tedesco, stampa anche la comunicazione."
+}

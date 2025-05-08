@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale. Il veicolo coinvolto è una macchina operatrice targata \"jeff sette centottantanove giacca\", proveniente dalla Grecia, marca Fiat Panda. La violazione, parcheggio in divieto di sosta, è avvenuta il 14 aprile 2025 alle 10:18 in Corso Vittorio Emanuele, numero 15. L'infrazione rientra nell'articolo 39, comma 37 del codice stradale. La contestazione è stata immediata da parte dell'agente Anna Bianchi. La sanzione prevede la perdita di uno punto. Si richiede la stampa in lingua inglese tramite Bluetooth, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "dieci e diciotto",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "jeff sette centottantanove giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "fiat panda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrice targato jeff sette centottantanove giacca di tipo copertura proveniente da grecia marca fiat panda la violazione ovvero parcheggiato in divieto di sosta sia e verificata in data quattordici aprile duemilaventicinque alle ore dieci e diciotto in corso vittorio emanuele al numero quindici l'infrazione rientra nell'articolo trentanove comma trentasette del codice stradale contestazione immediata da parte della gente anna bianchi la sanzione prevede la perdita di uno punti si richiede la stampa in lingua inglese tramite blu stampa anche la comunicativa",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato EF789GH di tipo copertura proveniente da grecia, marca Fiat Panda. La violazione, ovvero parcheggio in divieto di sosta, si è verificata in data 14/04/2025 alle ore 10:18 in corso Vittorio Emanuele, al numero 15. L'infrazione rientra nell'articolo 39, comma 37 del codice stradale. Contestazione immediata da parte dell'agente Anna Bianchi. La sanzione prevede la perdita di 1 punti. Si richiede la stampa in lingua inglese, tramite bluetooth, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata il ventiquattro aprile duemilaventicinque alle quindici e sei, in viale della stazione al civico quattro. Il veicolo coinvolto è un ciclomotore con targa ufficiale immatricolato in Croazia. La violazione riguarda il codice civile, articolo tre, comma uno, per parcheggio in divieto di sosta, con quattro punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. La stampa del verbale avviene tramite Bluetooth in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "quindici sei",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "i sei centocinquantaquattro capelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle quindici sei del ventiquattro aprile duemilaventicinque storie di gendo un verbale per il veicolo ciclomotori targato i sei centocinquantaquattro capelli con targa ufficiale immatricolati in croazia l'infrazione stata accertata in viale della stazione al civico quattro con violazione del codice civile articolo tre comma uno per parcheggio in divieto di sosta sono previsti quattro punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite blu tutte in italiano non stampare anche la comunicazione",
+    "original_sentence": "Alle 15:06 del 24/04/2025, sto redigendo un verbale per il veicolo ciclomotore targato IJ654KL con targa ufficiale, immatricolato in croaziaL'infrazione è stata accertata in viale della Stazione, al civico 4, con violazione del codice civile, articolo 3,comma 1 per parcheggio in divieto di sosta Sono previsti 4 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in italiano, non stampare anche la comunicazione. "
+}

@@ -1,6 +1,6 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive un'infrazione di parcheggio davanti a passo carabine commessa il sei maggio duemilaventicinque alle ore sei e otto minuti in via della cultura, numero civico nove. Il veicolo coinvolto è un'autovettura con targa ufficiale proveniente dalla Svizzera. La violazione è regolata dall'articolo diciassette, comma quindici del codice stradale, con una decurtazione di cinque punti. Si richiede la stampa del preavviso in olandese tramite Hawaii, includendo anche la comunicazione.",
+        "summary": "Il documento descrive un'infrazione di parcheggio davanti a passo carabine commessa il sei maggio duemilaventicinque alle ore sei e otto minuti in via della cultura, civico nove. Il veicolo coinvolto è un'autovettura con targa ufficiale proveniente dalla Svizzera. La violazione è regolata dall'articolo diciassette comma quindici del codice stradale e comporta la decurtazione di cinque punti. Si richiede la stampa del preavviso in olandese tramite Hawaii, includendo anche la comunicazione.",
         "report": {
             "verbale_preavviso": "preavviso",
             "data_violazione": "sei maggio duemilaventicinque",
@@ -27,7 +27,7 @@
                     "sanzione_accessoria": null
                 }
             ],
-            "punti": "cinque, before: previsti, after: di",
+            "punti": "cinque",
             "tipo_stampa": "hawaii",
             "lingua_stampa": "olandese",
             "stampa_anche_comunicazione": "fai stampa anche la comunicazione"

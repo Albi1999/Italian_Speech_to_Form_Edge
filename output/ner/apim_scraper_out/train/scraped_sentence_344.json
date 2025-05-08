@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo ciclomotore di marca Fiat Panda con targa JEFF 789 proveniente dalla Grecia. L'infrazione è avvenuta il 30 aprile 2025 alle 8:47 in via del Corso, numero civico 12, per parcheggio in divieto di sosta, violando l'articolo 21 comma 19 del codice penale. La decurtazione prevista è tra i punti. La contestazione immediata è impossibile per assenza del trasgressore. È necessaria la stampa tramite Bluetooth in portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "otto e quarantasette",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "grecia",
+                    "targa": "jeff sette centottantanove giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "fiat panda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tra i punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo ciclomotori di marca fiat panda con targa è jeff sette centottantanove giacca tipo copertura proveniente da grecia fatto avvenuto il trenta aprile duemilaventicinque alle otto e quarantasette posizione via del corso numero civico dodici infrazione parcheggiato in divieto di sosta in violazione dell'articolo ventuno comma diciannove del codice penale decurtazione prevista tra i punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite blu tutti in portoghese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo ciclomotore di marca Fiat Panda, con targa EF789GH (tipo copertura), proveniente da grecia.  Fatto avvenuto il 30/04/2025 alle ore 08:47. Posizione: via del Corso, numero civico 12. Infrazione: parcheggio in divieto di sosta, in violazione dell'articolo 21, comma 19, del codice penale. Decurtazione prevista: 3 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite bluetooth in portoghese, stampa anche la comunicazione."
+}

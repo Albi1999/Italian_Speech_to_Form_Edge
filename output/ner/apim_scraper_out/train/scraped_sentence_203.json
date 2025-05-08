@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un preavviso di violazione per un veicolo proveniente dal Portogallo, parcheggiato in zona a rimozione. La violazione è avvenuta il 2 maggio 2025 alle ore 1:48 in via Enea, numero 45. L'infrazione riguarda l'articolo 131, comma 9 del codice stradale, con una decurtazione di 10 punti. Si richiede la stampa in lingua portoghese, modalità Hawaii, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "una e quarantotto",
+            "Strada_1": "via enea",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "portogallo",
+                    "targa": "quattrocentocinquanta sei",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "si troy incitare",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centotrentuno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa quattrocentocinquanta sei occupi di tipo copertura marca si troy incitare proveniente da portogallo l'infrazione nello specifico parcheggio in zona a rimozione sia e verificata è andata a due maggio duemilaventicinque alle ore una e quarantotto in via enea al numero quarantacinque articolo centotrentuno con ma nove del codice stradale si comunica che dalla violazione conseguirà una decurtazione di dieci punti si richiede la stampa in lingua portoghese modalità hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa MN456OP di tipo copertura, marca Citroen C3, proveniente da portogallo. L'infrazione, nello specifico parcheggio in zona rimozione, si è verificata in data 02/05/2025 alle ore 01:48 in via Etnea, al numero 45 (articolo 121, comma 9 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 10 punti.Si richiede la stampa in lingua portoghese, modalità wifi, stampa anche la comunicazione."
+}

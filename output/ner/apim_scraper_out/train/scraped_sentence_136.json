@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo Ducati Monster con targa 'curry sei centocinquantaquattro e se ti', proveniente dalla Grecia. L'infrazione è avvenuta il 24 aprile 2025 alle 13:32 in via della Cultura, numero civico 9. La violazione riguarda il parcheggio in doppia fila, secondo l'articolo 53, comma 51 del codice civile. La conseguenza della violazione sarà la decurtazione di uno punto. La stampa richiesta è in lingua inglese, modalità 'hawaii', e non si desidera stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "tredici e trentadue",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "grecia",
+                    "targa": "curry sei centocinquantaquattro e se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "ducati monster",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo molto veicolo con targa curry sei centocinquantaquattro e se ti di tipo copertura marca ducati monster proveniente da grecia l'infrazione nello specifico parcheggia in doppia fila sia e verificata in data ventiquattro aprile duemilaventicinque alle ore tredici e trentadue in via della cultura al numero nove articolo cinquantatré comma cinquantuno del codice civile si comunica che dalla violazione conseguirà una decurtazione di uno punti si richiede la stampa in lingua inglese modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo motoveicolo con targa QR654ST di tipo copertura, marca Ducati Monster, proveniente da grecia. L'infrazione, nello specifico parcheggio in doppia fila, si è verificata in data 24/04/2025 alle ore 13:32 in via della Cultura, al numero 9 (articolo 53, comma 51 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 1 punti.Si richiede la stampa in lingua inglese, modalità wifi, non stampare anche la comunicazione."
+}

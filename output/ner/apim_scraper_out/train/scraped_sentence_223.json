@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è una macchina agricola marca Mai Ypsilon e Ferre Sette, targato I 450 6, proveniente dalla Germania. L'infrazione è stata rilevata il 7 aprile 2025 alle 22:04 in via del Corso, civico 12, per divieto di sosta. La violazione riguarda l'articolo 41, comma 39 del codice penale. L'agente Silvia Neri ha effettuato la contestazione immediata. La violazione comporta la perdita di 7 punti. Si richiede la stampa del verbale in olandese tramite Wi-Fi, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "ventidue quattro minuti",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "i quattrocentocinquanta sei",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "mai ypsilon e ferre sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantuno",
+                    "comma": "trentanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina agricola marca mai ypsilon e ferre sette targato i quattrocentocinquanta sei chilometri di tipo copertura proveniente da germania l'infrazione e stata rilevata il sette aprile duemilaventicinque alle ore ventidue quattro minuti il veicolo si trovava in via del corso al civico dodici in parcheggiato in divieto di sosta violando l'articolo quarantuno comma trentanove del codice penale l'agente silvia neri a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di sette punti richiedo la stampa del verbale in olandese tramite guai fai non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina agricola, marca Yamaha YZF-R7, targato IJ456KL (di tipo copertura), proveniente da germania.  L'infrazione è stata rilevata il 07/04/2025 alle ore 22:04. Il veicolo si trovava in via del Corso, al civico 12, in parcheggio in divieto di sosta, violando l'articolo 41, comma 39, del codice penale. L'agente Silvia Neri ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 7 punti.  Richiedo la stampa del verbale in olandese tramite wifi, non stampare anche la comunicazione."
+}

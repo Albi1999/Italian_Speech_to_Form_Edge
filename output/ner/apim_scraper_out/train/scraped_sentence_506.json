@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo Fiat Cinquecento, macchina operatrice, con targa ufficiale immatricolata in Slovenia. L'infrazione è avvenuta il 18 aprile 2025 alle ore 3:28 in via della Speranza, civico 18, per parcheggio in zona a rimozione. La violazione è ai sensi dell'articolo 49, comma 47 del codice civile. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di due punti. È richiesta la stampa in francese via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "tre ventotto",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "slovenia",
+                    "targa": "i sette centottantanove capelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fiat cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantanove",
+                    "comma": "quarantasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "via brutus",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per i veicolo fiat cinquecento macchina operatrice targa i sette centottantanove capelli di tipo ufficiale immatricolati in slovenia per infrazione commessa in data diciotto aprile duemilaventicinque ore tre ventotto in via della speranza civico diciotto è stato rilevato parcheggio in zona a rimozione ai sensi dell'articolo quarantanove con ma quarantasette del codice civile impossibile effettuare la contestazione immediata assenza del trasgressori la violazione comporta la decurtazione di due punti richiesta stampa in francese via brutus non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Fiat 500 macchina operatrice, targa IJ789KL di tipo ufficiale, immatricolato in slovenia, per infrazione commessa in data 18/04/2025, ore 03:28. In via della Speranza, civico 18, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 49, comma 47, del codice civile. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 2 punti. Richiesta stampa in francese via bluetooth, non stampare anche la comunicazione. "
+}

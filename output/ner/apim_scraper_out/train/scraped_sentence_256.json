@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un'infrazione stradale. Il veicolo coinvolto è una macchina agricola di marca Trans Stai 850 Sport, con targa ufficiale proveniente dalla Spagna. L'infrazione è avvenuta il 20 aprile 2025 alle ore 3:48 in viale della Scienza, numero civico 14. La violazione riguarda il parcheggio in doppia fila, in violazione dell'articolo 27, comma 25 del codice stradale, con una decurtazione di 8 punti. La contestazione immediata è impossibile per l'assenza del trasgressore. La stampa del verbale è richiesta tramite Wi-Fi in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "tre quarantotto",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "ci di quattrocentocinquanta sei",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "trans stai ottocentocinquanta sport",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventisette",
+                    "comma": "venticinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo macchina agricola di marca trans stai ottocentocinquanta sport con targa ci di quattrocentocinquanta sei tipo ufficiale proveniente da spagna fatto avvenuto il venti aprile duemilaventicinque alle ore tre quarantotto posizione viale della scienza numero civico quattordici infrazione parcheggia in doppia fila in violazione dell'articolo ventisette con ma venticinque del codice stradale decurtazione prevista otto punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite vuoi fai in italiano non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo macchina agricola di marca Triumph Tiger 850 Sport, con targa CD456EF (tipo ufficiale), proveniente da spagna.  Fatto avvenuto il 20/04/2025 alle ore 03:48. Posizione: viale della Scienza, numero civico 14. Infrazione: parcheggio in doppia fila, in violazione dell'articolo 27, comma 25, del codice stradale. Decurtazione prevista: 8 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in italiano, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo autovettura marca Dacia, immatricolato in Svizzera, con targa di tipo prova. La violazione è avvenuta il 7 aprile 2025 alle ore 14:51 in via della Repubblica 20 e via dei Fori Imperiali al numero civico 10, relativa al parcheggio davanti a passo carabine. La violazione è in base all'articolo 40, comma 38 del codice stradale, con una decurtazione di 8 punti. Si richiede la stampa del preavviso in lingua olandese tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "quattordici cinquantuno",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "svizzera",
+                    "targa": "ex filo un trecentoventi uno",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "dacia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per veicolo autovettura marca dacia da aster targa ex filo un trecentoventi uno già di tipo prova immatricolati in svizzera la violazione è avvenuta il sette aprile duemilaventicinque alle ore quattordici cinquantuno in via della repubblica venti via dei fori imperiali al numero civico dieci ed è relativa parcheggio davanti a passo carabine in base all'articolo quaranta con ma trentotto del codice stradale per tale violazione sono previsti otto punti di decurtazione si richiede la stampa di tale preavviso in lingua olandese tramite wifi stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo autovettura, marca Dacia Duster, targa XY321ZA di tipo prova, immatricolato in svizzera. La violazione è avvenuta il 07/04/2025 alle ore 14:51 in via della Repubblica, 20via dei Fori Imperiali, al numero civico 10, ed è relativa a parcheggio davanti a passo carrabile, in base all'articolo 40, comma 38 del codice stradale. Per tale violazione sono previsti 8 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua olandese tramite wifi, stampa anche la comunicazione. "
+}

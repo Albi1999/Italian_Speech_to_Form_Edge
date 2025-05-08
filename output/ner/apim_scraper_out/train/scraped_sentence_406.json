@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo ciclomotore marca Peggio, targato E Jeff 320 1 Giacca, proveniente dall'Olanda. La violazione è avvenuta il 15 aprile 2025 alle ore 3:37, per parcheggio su strisce pedonali in via della Repubblica 20 e via dei Fori Imperiali 10. La violazione è in base all'articolo 36 comma 34 del codice civile, con una decurtazione di 9 punti. Si richiede la stampa del preavviso tramite WiFi in lingua tedesca, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "tre trentasette",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "olanda",
+                    "targa": "e jeff trecentoventi uno giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "peggio duemilaotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentasei",
+                    "comma": "trentaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo ciclomotori marca peggio duemilaotto targato e jeff trecentoventi uno giacca di tipo speciale proveniente da olanda in data quindici aprile duemilaventicinque alle ore tre trentasette e stata rilevata la violazione di parcheggio su strisce pedonali in via della repubblica venti via dei fori imperiali al numero dieci in base all'articolo trentasei comma trentaquattro del codice civile per tale infrazione sono previsti nove punti di decurtazione si richiede la stampa del preavviso tramite wifi in lingua tedesco stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo ciclomotore, marca Peugeot 2008, targato EF321GH di tipo speciale, proveniente da olanda. In data 15/04/2025 alle ore 03:37, è stata rilevata la violazione di parcheggio su strisce pedonali in via della Repubblica, 20via dei Fori Imperiali, al numero 10, in base all'articolo 36, comma 34 del codice civile.Per tale infrazione sono previsti 9 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua tedesco, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il 20 aprile 2025 alle ore 16:08. È stato emesso un verbale per un veicolo Suzuki, un motoveicolo con targa speciale immatricolato in Grecia, per violazione dell'articolo 4, comma 2 del codice stradale. La violazione riguarda il parcheggio davanti a un passo carabine, rilevata in Corso della Storia al civico 22. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di sei punti. La stampa del verbale è richiesta in lingua olandese via Bluetooth, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "sedici otto",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "grecia",
+                    "targa": "house i centocinquantaquattro doppio mix",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "suzuki",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: derivano, after: decurtazione",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data venti aprile duemilaventicinque alle ore sedici otto si leva verbale al veicolo suzuki evitare motoveicoli con targa house i centocinquantaquattro doppio mix di tipo speciale immatricolati in grecia per violazione dell'articolo quattro con ma due del codice stradale ovvero parcheggio davanti a passo carabine rilevata in corso della storia al civico ventidue non è stato possibile effettuare la contestazione immediata per assenza del trasgressori dalla violazione derivano sei punti di decurtazione stampa necessaria in lingua olandese via blu tutte non stampare anche la comunicazione",
+    "original_sentence": "In data 20/04/2025, alle ore 16:08, si eleva verbale al veicolo Suzuki Vitara, motoveicolo con targa UV654WX di tipo speciale, immatricolato in grecia, per violazione dell'articolo 4, comma 2 del codice stradale, ovvero parcheggio davanti a passo carrabile, rilevata in corso della Storia, al civico 22. Non è stato possibile effettuare la contestazione immediata, per assenza del trasgressore. Dalla violazione derivano 6 punti di decurtazione. Stampa necessaria in lingua olandese via bluetooth, non stampare anche la comunicazione. "
+}

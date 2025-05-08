@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il ventuno aprile duemilaventicinque alle ore nove cinquantuno per una violazione del codice penale, articolo diciannove comma diciassette, riguardante un parcheggio in zona a rimozione. La violazione è stata rilevata in via della concordia al civico quattordici. Il veicolo coinvolto è una macchina operatrice Toyota Aris di colore verde, targato guerre novecentottanta sette se ti, immatricolato in Portogallo. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare nove punti. La stampa del preavviso è richiesta tramite Bluetooth, in spagnolo, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "nove cinquantuno",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "toyota aris",
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "diciannove",
+                    "comma": "diciassette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventuno aprile duemilaventicinque alle ore nove cinquantuno è stato notificato un preavviso per un macchina operatrice targato guerre novecentottanta sette se ti con targa ufficiale immatricolati portogallo l'infrazione e stata rilevata in via della concordia al civico quattordici con violazione del codice penale articolo diciannove comma diciassette in particolare si e riscontrato un parcheggio in zona a rimozione non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono nove punti il veicolo è un toyota aris di colore verde con numero di telaio settecentosessantacinque milioni e novecento cinquantaduemila duecentodiciannove massa millecento otto chilogrammi necessita la stampa del preavviso tramite blu tutta in spagnolo stampa anche la comunicazione",
+    "original_sentence": "In data 21/04/2025, alle ore 09:51, è stato notificato un preavviso per un macchina operatrice targato QR987ST con targa ufficiale, immatricolato in portogallo. L'infrazione è stata rilevata in via della Concordia, al civico 14, con violazione del codice penale, articolo 19, comma 17, in particolare si è riscontrato un parcheggio in zona rimozione Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 9 punti. Il veicolo è un Toyota Yaris di colore verde, con numero di telaio 765952219 e massa 1108 kg.Necessito la stampa del preavviso tramite bluetooth, in spagnolo, stampa anche la comunicazione."
+}

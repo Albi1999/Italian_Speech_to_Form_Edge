@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo autovettura marca \"un dai cona\" con targa \"i lunga cappa cinquecento sessantasette occhi\" di tipo \"prova\" proveniente dal Portogallo. La violazione è avvenuta il quattro maggio duemilaventicinque alle ore ventidue e cinquantadue, per transito in zona accesso vietato in corso Buenos Aires al numero novantotto. La violazione è in base all'articolo trentuno duemilanovecento trentadue comma trenta del codice penale, con cinque punti di decurtazione. Si richiede la stampa del preavviso tramite Bluetooth in lingua inglese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattro omaggio duemilaventicinque",
+            "ora_violazione": "ventidue cinquantadue",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "portogallo",
+                    "targa": "i lunga cappa cinquecento sessantasette occhi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "un dai cona",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: previsti, after: di",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo autovettura marca un dai cona targato i lunga cappa cinquecento sessantasette occhi di tipo prova proveniente da portogallo in data quattro omaggio duemilaventicinque alle ore ventidue cinquantadue e stata rilevata alla violazione di transito in zona accesso vietato in corso buenos aires al numero novantotto in base all'articolo trentuno duemilanovecento trentadue comma trenta del codice penale per tale infrazione sono previsti cinque punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua inglese non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo autovettura, marca Hyundai Kona, targato JK567OP di tipo prova, proveniente da portogallo. In data 04/05/2025 alle ore 22:52, è stata rilevata la violazione di transito in zona accesso vietato in corso Buenos Aires, al numero 98, in base all'articolo 31, 2932, comma 30 del codice penale.Per tale infrazione sono previsti 5 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua inglese, non stampare anche la comunicazione."
+}

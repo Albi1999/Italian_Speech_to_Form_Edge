@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il ventinove aprile duemilaventicinque alle ore quattro i tredici per un veicolo Renault Captur immatricolato in Austria con targa guerre novecentottanta sette se. L'infrazione è avvenuta in viale della stazione al civico quattro, con violazione del codice civile articolo sei comma uno a uno a dodici per parcheggio in doppia fila. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti un punto da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è in italiano tramite wifi e non include la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "quattro i tredici",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "austria",
+                    "targa": "guerre novecentottanta sette se",
+                    "tipologia_targa": null,
+                    "marca_modello": "reno catture",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sei",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventinove aprile duemilaventicinque alle ore quattro i tredici è stato redatto un verbale per il veicolo reno catture motoveicoli immatricolati in austria con targa guerre novecentottanta sette se tipo copertura l'infrazione e avvenuta in viale della stazione al civico quattro e stata riscontrata una violazione del codice civile articolo sei comma uno a uno a dodici ovvero parcheggia in doppia fila non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti un punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in italiano tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 29/04/2025, alle ore 04:13, è stato redatto un verbale per il veicolo Renault Captur, motoveicolo immatricolato in austria con targa QR987ST di tipo copertura. L'infrazione è avvenuta in viale della Stazione, al civico 4. È stata riscontrata una violazione del codice civile, articolo 6, comma 1a(1-12) ovvero parcheggio in doppia filaNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 1 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in italiano tramite wifi, non stampare anche la comunicazione. "
+}

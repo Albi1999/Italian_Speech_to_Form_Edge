@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo registrato in Francia, accaduto il sei aprile duemilaventicinque alle undici e mezzo. Il veicolo, un moto gozzi vi sette rimorchio, si trovava in via Garibaldi al civico undici, parcheggiato su strisce pedonali. La violazione è in base all'articolo ventitre comma ventuno del codice civile e comporta una decurtazione di nove punti. La stampa dell'avviso è prevista via Bluetooth in spagnolo e include anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "undici e mezzo",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "moto gozzi vi sette rimorchio",
+                    "nazione": "francia",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventitre",
+                    "comma": "ventuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo moto gozzi vi sette rimorchio targato i sette centottantanove chi lo litri con targa copertura registrato in francia per un fatto accaduto il sei aprile duemilaventicinque alle undici e mezzo il veicolo si trovava in via garibaldi al civico undici dove è stato riscontrato parcheggio su strisce pedonali in base all'articolo ventitre comma ventuno del codice civile questa infrazione comporta una decurtazione di nove punti genere alla stampa dell'avviso via blu tutti in spagnolo stampa anche la comunicativa",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Moto Guzzi V7, rimorchio, targato IJ789KL con targa copertura, registrato in francia,  per un fatto accaduto il 06/04/2025 alle 11:30. Il veicolo si trovava in via Garibaldi, al civico 11, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 23, comma 21, del codice civile. Questa infrazione comporta una decurtazione di 9 punti.  Genera la stampa dell'avviso via bluetooth in spagnolo, stampa anche la comunicazione."
+}

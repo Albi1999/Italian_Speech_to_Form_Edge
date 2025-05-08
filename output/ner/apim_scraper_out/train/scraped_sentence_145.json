@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale avvenuta il 26 aprile 2025 alle ore 00:36 in Piazza Venezia, numero civico 1. La violazione riguarda un parcheggio davanti a un passo carraio, commessa da un veicolo rimorchio targato \"trecentoventi uno piedi\", proveniente dalla Croazia, marca Benelli Leoncino 500. L'infrazione è stata contestata immediatamente dall'agente Francesco Rizzo e rientra nell'articolo 6, comma 1, del codice stradale. La sanzione prevede la perdita di due punti. La stampa del documento è richiesta in lingua olandese tramite Wi-Fi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte trentasei",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "trecentoventi uno piedi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "ben elli leoncino cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo rimorchio targato trecentoventi uno piedi tipo speciale proveniente da croazia marca ben elli leoncino cinquecento la violazione ovvero parcheggio davanti a passo carabine sia e verificata in data ventisei aprile duemilaventicinque alle ore mezzanotte trentasei in piazza venezia al numero uno l'infrazione rientra nell'articolo sei con ma prima uno dodici del codice stradale contestazione immediata da parte della gente francesco rizzo la sanzione prevede la perdita di due punti si richiede la stampa in lingua olandese tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo rimorchio targato MN321OP di tipo speciale proveniente da croazia, marca Benelli Leoncino 500. La violazione, ovvero parcheggio davanti a passo carrabile, si è verificata in data 26/04/2025 alle ore 00:36 in piazza Venezia, al numero 1. L'infrazione rientra nell'articolo 6, comma 1a(1-12) del codice stradale. Contestazione immediata da parte dell'agente Francesco Rizzo. La sanzione prevede la perdita di 2 punti. Si richiede la stampa in lingua olandese, tramite wifi, non stampare anche la comunicazione."
+}

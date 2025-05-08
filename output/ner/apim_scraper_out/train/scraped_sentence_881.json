@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento informa che è in corso la stesura di un preavviso di violazione per un veicolo macchina agricola con targa ufficiale proveniente dalla Svizzera. L'infrazione riguarda un parcheggio in divieto di sosta avvenuto il primo maggio 2025 alle ore 24:17 in via della Libertà, numero civico 3. La violazione è relativa all'articolo 14, comma 12 del codice civile e comporterà una decurtazione di nove punti. Si richiede la stampa in lingua tedesca con modalità Hawaii e di non stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "ventiquattro e diciassette",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "è sei centocinquantaquattro giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "nucleo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattordici",
+                    "comma": "dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa è sei centocinquantaquattro giacca di tipo ufficiale marcare nucleo provenienti da svizzera l'infrazione nello specifico parcheggio indietro di sosta sia verificata in data primo maggio duemilaventicinque alle ore ventiquattro e diciassette in via della libertà al numero tre articolo quattordici coma dodici del codice civile si comunica che dalla violazioni conseguirà una decurtazione di nove punti si richiede la stampa in lingua tedesco modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa EF654GH di tipo ufficiale, marca Renault Clio, proveniente da svizzera. L'infrazione, nello specifico parcheggio in divieto di sosta, si è verificata in data 01/05/2025 alle ore 00:17 in via della Libertà, al numero 3 (articolo 14, comma 12 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 9 punti. Si richiede la stampa in lingua tedesco, modalità wifi, non stampare anche la comunicazione. "
+}

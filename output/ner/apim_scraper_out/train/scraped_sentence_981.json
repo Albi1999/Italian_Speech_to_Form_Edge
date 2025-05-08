@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo ciclomotore marca Subaru, targato ICSI Ypsilon 3201, di tipo prova, proveniente dalla Francia. La violazione è stata rilevata il 17 aprile 2025 alle ore 17:24 per parcheggio davanti a passo carabine in Piazza Venezia, numero civico 1. La violazione è in base all'articolo 10 del codice stradale, con una decurtazione di 5 punti. Si richiede la stampa del preavviso tramite WiFi in lingua tedesca, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "diciassette ventiquattro",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "icsi ypsilon trecentoventi uno",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dieci",
+                    "comma": null,
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo ciclomotori marca subaru impresa targato icsi ypsilon trecentoventi uno di tipo prova proveniente da francia in data diciassette aprile duemilaventicinque alle ore diciassette ventiquattro e stata rilevata la violazione di parcheggio davanti a passo carabine in piazza venezia al numero uno in base all'articolo dieci con motto del codice stradale per tale infrazione sono previsti cinque punti di decurtazione si richiede la stampa del preavviso tramite wifi in lingua tedesco non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo ciclomotore, marca Subaru Impreza, targato XY321ZA di tipo prova, proveniente da francia. In data 17/04/2025 alle ore 17:24, è stata rilevata la violazione di parcheggio davanti a passo carrabile in piazza Venezia, al numero 1, in base all'articolo 10, comma 8 del codice stradale. Per tale infrazione sono previsti 5 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua tedesco, non stampare anche la comunicazione. "
+}

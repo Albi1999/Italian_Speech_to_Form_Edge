@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 17 aprile 2025 alle ore 20:05 per un veicolo immatricolato in Germania con targa UBI 320 1 XX. L'infrazione si è verificata presso viale dei giardini al civico 8, violando il codice civile, articolo 46, comma 44, riguardante il parcheggio su strisce pedonali. È prevista la decurtazione di 1 punto, senza sanzioni accessorie. Il veicolo è un motoveicolo di colore verde. La stampa deve essere effettuata tramite Bluetooth in lingua tedesca, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "venti e cinque",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "germania",
+                    "targa": "ubi trecentoventi uno doppia ex",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il diciassette aprile duemilaventicinque alle ore venti e cinque sto mettendo una notifica di infrazione per il veicolo chi ha pianto molto veicolo immatricolati in germania con targa ubi trecentoventi uno doppia ex di tipo copertura l'infrazione si e verificata presso viale dei giardini al civico otto violando il codice civile in particolare l'articolo quarantasei con ma quarantaquattro riguardante il parcheggio su strisce pedonali devo decurtare uno punti non è necessaria alcuna sanzione accessoria il molto veicolo e di colore verde con numero di telaio duecentosessanta tre milioni e cinquecento trentacinquemila sei centotrentacinque massa tremilaseicento trentaquattro chilogrammi stampa me lo con il blu tutti in tedesco non stampare anche la comunicazione",
+    "original_sentence": "Il 17/04/2025, alle ore 20:05, sto emettendo una notifica di infrazione per il veicolo Kia Picanto, motoveicolo immatricolato in germania con targa UV321WX di tipo copertura. L'infrazione si è verificata presso viale dei Giardini, al civico 8, violando il codice civile, in particolare l'articolo 46, comma 44 riguardante il parcheggio su strisce pedonali.Devo decurtare 1 punti. Non è necessaria alcuna sanzione accessoria. Il motoveicolo è di colore verde, con numero di telaio 263535635 e massa 3634 kg.Stampamelo con il bluetooth in tedesco, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il tre maggio duemilaventicinque alle ore sette e quattordici. La violazione riguarda il transito in zona accesso vietato, rilevata in via della giustizia al civico sedici. La contestazione è stata immediata, effettuata dall'agente Elena Fontana. Il veicolo coinvolto è una macchina operatrice immatricolata in Belgio con targa 'guerra e sette centottantanove'. La violazione comporta la decurtazione di due punti. La stampa necessaria è in lingua tedesca tramite WiFi e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "sette quattordici",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "belgio",
+                    "targa": "guerra e sette centottantanove",
+                    "tipologia_targa": null,
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: derivano, after: di",
+            "tipo_stampa": "vi hawaii",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data tre maggio duemilaventicinque alle ore sette quattordici se leva verbale al veicolo se akhtar una macchina operatrice e con targa guerra e sette centottantanove se ti di tipo copertura immatricolati in belgio per violazione dell'articolo trentacinque ma trentatré del codice penale ovvero transito in zona accesso vietato rilevata in via della giustizia al civico sedici la contestazione stata immediata effettuata dalla gente elena fontana dalla violazione derivano due punti di decurtazione stampa necessaria in lingua tedesco vi hawaii fai stampa anche la comunicativa",
+    "original_sentence": "In data 03/05/2025, alle ore 07:14, si eleva verbale al veicolo Seat Arona, macchina operatrice con targa QR789ST di tipo copertura, immatricolato in belgio, per violazione dell'articolo 35, comma 33 del codice penale, ovvero transito in zona accesso vietato, rilevata in via della Giustizia, al civico 16. La contestazione è stata immediata, effettuata dall'agente Elena Fontana. Dalla violazione derivano 2 punti di decurtazione. Stampa necessaria in lingua tedesco via wifi, stampa anche la comunicazione. "
+}

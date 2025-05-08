@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il diciotto aprile duemilaventicinque alle ore tre e mezzo per un motoveicolo di marca Prigione 2008 con targa ICSI Ypsilon 123 ZZA, tipo ufficiale, registrato in Slovenia. L'infrazione è avvenuta in corso della giustizia al numero 23, per parcheggio su strisce pedonali, secondo l'articolo 3, comma 1 del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario. Sono previsti uno punti di decurtazione. Si richiede la stampa tramite Bluetooth in lingua portoghese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "tre e mezzo",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "slovenia",
+                    "targa": "icsi ypsilon centoventitre zza",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "prigione duemilaotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: previsti, after: di",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data diciotto aprile duemilaventicinque alle ore tre e mezzo è stato emesso un preavviso di violazione per il veicolo motoveicoli di marca prigione duemilaotto con targa icsi ypsilon centoventitre zza tipo ufficiale registrato in slovenia l'infrazione avvenuta in corso della giustizia al numero ventitré e consiste in parcheggio su strisce pedonali come previsto dall'articolo tre con ma uno del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti uno punti di decurtazione si prega di stampare la presente notifica tramite blood in lingua portoghese non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 18/04/2025, alle ore 03:30, è stato emesso un preavviso di violazione per il veicolo motoveicolo di marca Peugeot 2008, con targa XY123ZA (tipo ufficiale), registrato in slovenia. L'infrazione è avvenuta in corso della Giustizia, al numero 23, e consiste in parcheggio su strisce pedonali, come previsto dall'articolo 3, comma 1 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 1 punti di decurtazione.  Si prega di stampare la presente notifica tramite bluetooth, in lingua portoghese, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo con targa francese, coinvolto in un'infrazione il 4 maggio 2025 alle 14:08 in via della Libertà, civico 21. Il veicolo ha parcheggiato in doppia fila, violando l'articolo 33, comma 31 del codice stradale. La contestazione è stata eseguita immediatamente dall'agente Elena Fontana, comportando la decurtazione di 8 punti. La stampa è richiesta in tedesco via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "quattordici otto",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "i ypsilon novecento ottantasette gettati",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "sballo impresa",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazioni immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentatré",
+                    "comma": "trentuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "via piu",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo sballo impresa ciclomotori targa i ypsilon novecento ottantasette gettati di tipo prova immatricolati in francia per infrazione commessa in data quattro maggio duemilaventicinque ore quattordici otto in via della libertà civico ventuno è stato rilevato parcheggia in doppia fila ai sensi dell'articolo trentatré ma trentuno del codice stradale contestazioni immediata eseguita dall'agente elena fontana la violazione comporta la decurtazione di otto punti richiesta stampa in tedesco via piu tutte non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Subaru Impreza ciclomotore, targa XY987ZT di tipo prova, immatricolato in francia, per infrazione commessa in data 04/05/2025, ore 14:08. In via della Libertà, civico 21, è stato rilevato parcheggio in doppia fila, ai sensi dell'articolo 33, comma 31, del codice stradale. Contestazione immediata eseguita dall'agente Elena Fontana. La violazione comporta la decurtazione di 8 punti. Richiesta stampa in tedesco via bluetooth, non stampare anche la comunicazione. "
+}

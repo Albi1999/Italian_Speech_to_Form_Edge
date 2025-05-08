@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo rimorchio con targa svizzera, marca Si Tronchi, modello Cat Josh. La violazione riguarda il parcheggio davanti a un passo carraio, avvenuta il 26 aprile 2025 alle 8:32 in via Roma, numero 77. L'infrazione è classificata sotto l'articolo 131, comma 9 del codice penale. La contestazione immediata non è stata possibile per l'assenza del trasgressore. La sanzione comporta la perdita di cinque punti. Si richiede la stampa in lingua francese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "otto e trentadue",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "svizzera",
+                    "targa": "ubi trecentoventi uno doppia ex",
+                    "tipologia_targa": null,
+                    "marca_modello": "si tronchi quattro cat josh",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centotrentuno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo rimorchio targato ubi trecentoventi uno doppia ex di tipo speciale proveniente da svizzera marca si tronchi quattro cat josh la violazione ovvero parcheggio davanti a passo carabine sia e verificata in data ventisei aprile duemilaventicinque alle otto e trentadue in via roma al numero settantasette l'infrazione rientra nell'articolo centotrentuno con ma nove del codice penale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzione prevede la perdita di cinque punti si richiede la stampa in lingua francese tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo rimorchio targato UV321WX di tipo speciale proveniente da svizzera, marca Citroen C4 Cactus. La violazione, ovvero parcheggio davanti a passo carrabile, si è verificata in data 26/04/2025 alle ore 08:32 in via Roma, al numero 77. L'infrazione rientra nell'articolo 121, comma 9 del codice penale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 5 punti. Si richiede la stampa in lingua francese, tramite wifi, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione di parcheggio in zona a rimozione avvenuta il 6 aprile 2025 alle ore 5:16 in viale della Scienza, civico 14. Il veicolo coinvolto è un rimorchio speciale proveniente dalla Francia, con targa ICSI Y3201SA. L'infrazione è regolata dall'articolo 9, comma 1 del codice stradale, con una decurtazione di 7 punti. È stato emesso un preavviso, stampato in tedesco via Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "cinque sedici",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "nove",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo chi ha stoner rimorchio targa icsi ypsilon trecentoventi uno sa di tipo speciale proveniente da francia il giorno sei aprile duemilaventicinque alle ore cinque sedici in viale della scienza al numero civico quattordici e stata commessa l'infrazione di parcheggio in zona a rimozione come previsto dall'articolo nove con ma uno del codice stradale per questa violazione sono previsti sette punti di decurtazione cedola stampa del preavviso in tedesco via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Kia Stonic rimorchio, targa XY321ZA di tipo speciale, proveniente da francia. Il giorno 06/04/2025, alle ore 05:16, in viale della Scienza, al numero civico 14, è stata commessa l'infrazione di parcheggio in zona rimozione, come previsto dall'articolo 9, comma 1, del codice stradale.Per questa violazione sono previsti 7 punti di decurtazione. Chiedo la stampa del preavviso in tedesco via bluetooth, non stampare anche la comunicazione."
+}

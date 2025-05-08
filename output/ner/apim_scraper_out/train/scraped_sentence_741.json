@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il ventidue aprile duemilaventicinque alle sette. È stato elevato un verbale per un veicolo di tipo macchina piccola con targa svizzera, per violazione dell'articolo duemiladue centotrentacinque, comma ventitré del codice civile, ovvero parcheggio in doppia fila. La contestazione è stata immediata, effettuata dall'agente Anna Bianchi. La violazione comporta la decurtazione di sette punti. La stampa del verbale è richiesta in lingua spagnola tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbali",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "sette",
+            "Strada_1": null,
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina piccola",
+                    "nazione": "svizzera",
+                    "targa": "centosessanta sette oh piedi",
+                    "tipologia_targa": null,
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "duemiladue centotrentacinque",
+                    "comma": "ventitré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "wife",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventidue aprile duemilaventicinque alle e quattro i sette si eleva verbali al veicolo in corsa macchina piccola contenga gia i in di centosessanta sette oh piedi tipo prova i matricola tu in svizzera per violazione dell'articolo duemiladue centotrentacinque come ventitré del codice civile ovvero parcheggio in doppia fila rilevata invierò ma hai civico settantasette la contestazione stata immediata effettuata dalla gente anna bianchi dalla violazioni derivano sette i punti di decurtazione stampa necessaria in lingua spagnolo via wife ehi non stampare anche la comunicazione",
+    "original_sentence": "In data 22/04/2025, alle ore 04:07, si eleva verbale al veicolo Opel Corsa, macchina agricola con targa JK567OP di tipo prova, immatricolato in svizzera, per violazione dell'articolo 2235, comma 23 del codice civile, ovvero parcheggio in doppia fila, rilevata in via Roma, al civico 77. La contestazione è stata immediata, effettuata dall'agente Anna Bianchi. Dalla violazione derivano 7 punti di decurtazione. Stampa necessaria in lingua spagnolo via wifi, non stampare anche la comunicazione. "
+}

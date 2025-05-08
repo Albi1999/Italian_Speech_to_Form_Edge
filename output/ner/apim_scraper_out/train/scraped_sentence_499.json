@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 17 aprile 2025 alle ore 7:38 per un veicolo BMW Serie Uno, immatricolato in Austria con targa G789ST, di tipo speciale. L'infrazione è avvenuta presso Corso della Storia, civico 22, violando il codice stradale, articolo 44, comma 42, riguardante il parcheggio in zona a rimozione. Sono stati decurtati 7 punti, senza sanzione accessoria. Il veicolo è un ciclomotore di colore nero. La stampa deve essere effettuata tramite Bluetooth in inglese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "settecentotrentotto",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "austria",
+                    "targa": "guerre sette centottantanove se ti",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "bmw serie uno",
+                    "colore": "nero"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il diciassette aprile duemilaventicinque alle ore settecentotrentotto sto mettendo una notifica di infrazione per il veicolo bmw serie uno ciclomotori e immatricolati austria con targa guerre sette centottantanove se ti di tipo speciale l'infrazione si e verificata presso corso della storia al civico ventidue violando il codice stradale in particolare l'articolo quarantaquattro con ma quarantadue riguardante il parcheggio in zona a rimozione devo decurtare sette punti non è necessaria alcuna sanzione accessoria il ciclo motore e di colore nero con numero di telaio cinquecento trentatre milioni e centoquattordicimila altre centonovantanove massa duemilatrecento nove chilogrammi stampa me lo con il blu tutti in inglese non stampare anche la comunicazione",
+    "original_sentence": "Il 17/04/2025, alle ore 07:38, sto emettendo una notifica di infrazione per il veicolo BMW Serie 1, ciclomotore immatricolato in austria con targa QR789ST di tipo speciale. L'infrazione si è verificata presso corso della Storia, al civico 22, violando il codice stradale, in particolare l'articolo 44, comma 42 riguardante il parcheggio in zona rimozione.Devo decurtare 7 punti. Non è necessaria alcuna sanzione accessoria. Il ciclomotore è di colore nero, con numero di telaio 533114399 e massa 2309 kg.Stampamelo con il bluetooth in inglese, non stampare anche la comunicazione."
+}

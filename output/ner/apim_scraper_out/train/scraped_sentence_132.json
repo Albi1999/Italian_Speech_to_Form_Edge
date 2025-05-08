@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo rimorchio di marca 'un da icona' con targa 'icsi ypsilon trecentoventi uno', proveniente dalla Croazia. L'infrazione è avvenuta l'undici aprile duemilaventicinque alle ore diciotto e ventitré in viale della Libertà, numero civico ventidue, per parcheggio in doppia fila, violando l'articolo quarantasette comma quarantacinque del codice civile. La decurtazione prevista è di quattro punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è necessaria tramite 'vuoi fa' in olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "diciotto e ventitre",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "icsi ypsilon trecentoventi uno",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "un da icona",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo rimorchio di marca un da icona con targa icsi ypsilon trecentoventi uno tipo copertura proveniente da croazia fatto avvenuto i l'undici aprile duemilaventicinque alle ore diciotto e ventitre posizione viale della libertà numero civico ventidue infrazione parcheggia in doppia fila in violazione dell'articolo quarantasette comma quarantacinque del codice civile decurtazione prevista quattro punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite vuoi fa in olandese non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo rimorchio di marca Hyundai Kona, con targa XY321ZA (tipo copertura), proveniente da croazia.  Fatto avvenuto il 11/04/2025 alle ore 18:23. Posizione: viale della Libertà, numero civico 22. Infrazione: parcheggio in doppia fila, in violazione dell'articolo 47, comma 45, del codice civile. Decurtazione prevista: 4 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in olandese, non stampare anche la comunicazione."
+}

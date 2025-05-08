@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto alle venti e cinquantacinque dell'otto aprile 2025 per un'infrazione accertata in via Roma, civico 77. Il veicolo coinvolto è un'autovettura con targa prova immatricolata in Italia, targata ABE 123 CD. La violazione riguarda il codice stradale, articolo 10, comma 8, per parcheggio in zona a rimozione, con la decurtazione di uno punto. Non è stata possibile una contestazione immediata per l'assenza del trasgressore e non si applica alcuna sanzione accessoria. La stampa del verbale avviene tramite Bluetooth in francese, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "venti e cinquantacinque",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italian",
+                    "targa": "abe centoventitre ci di",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dieci",
+                    "comma": "otto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle venti e cinquantacinque dell'otto aprile duemilaventicinque storie di gendo un verbale per il veicolo autovettura targato abe centoventitre ci di con targa prova immatricolati in italian infrazione stata accertata in via roma al civico settantasette con violazione del codice stradale articolo dieci con ma otto per parcheggio in zona a rimozione sono previsti uno punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite blu in francese non stampare anche la comunicazione",
+    "original_sentence": "Alle 20:55 del 08/04/2025, sto redigendo un verbale per il veicolo autovettura targato AB123CD con targa prova, immatricolato in italiaL'infrazione è stata accertata in via Roma, al civico 77, con violazione del codice stradale, articolo 10,comma 8 per parcheggio in zona rimozione Sono previsti 1 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in francese, non stampare anche la comunicazione."
+}

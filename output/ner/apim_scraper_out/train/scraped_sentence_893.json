@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per una violazione accertata il 16 aprile 2025 alle ore 7:09 in via Giuseppe Mazzini, civico 24. La violazione riguarda un veicolo tipo ciclomotore, marca \"Gara 850 Sport\", con targa \"Guerra 450 6\", immatricolato in Slovenia. La violazione contestata è il transito in zona accesso vietato, secondo l'articolo 23, comma 21 del codice civile. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti 8 punti di decurtazione. Si richiede la stampa in lingua tedesca via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "sette nove",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "slovenia",
+                    "targa": "guerra e quattrocentocinquanta sei",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "gara ottocentocinquanta sport",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventitré",
+                    "comma": "ventuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: di",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stai dicendo verbale per violazione accertata il sedici aprile duemilaventicinque alle ore sette nove in via giuseppe mazzini al civico ventiquattro a carico del vicolo tra i un gara ottocentocinquanta sport ciclomotori con targa guerra e quattrocentocinquanta sei e se ti di tipo prova immatricolati in slovenia la violazione contestata e transito in zona accesso vietato in base al l'articolo ventitré con ma ventuno del codice civile non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti otto punti di decurtazione si richiede la stampa in lingua tedesco via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 16/04/2025 alle ore 07:09 in via Giuseppe Mazzini, al civico 24, a carico del veicolo Triumph Tiger 850 Sport, ciclomotore con targa QR456ST di tipo prova, immatricolato in slovenia. La violazione contestata è transito in zona accesso vietato, in base all'articolo 23, comma 21 del codice civile. Non è stato possibile contestare immediatamente, per assenza del trasgressore. Sono previsti 8 punti di decurtazione. Si richiede la stampa in lingua tedesco via bluetooth, stampa anche la comunicazione. "
+}

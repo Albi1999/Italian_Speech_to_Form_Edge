@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta il 8 aprile 2025 alle 21:36. L'infrazione riguarda un veicolo Lancia Ypsilon immatricolato in Slovenia con targa speciale. La violazione è avvenuta in Corso della Repubblica, civico 19, violando il codice penale, articolo 8, comma 6, per parcheggio in doppia fila. Sono stati decurtati 10 punti e applicata una sanzione accessoria. Il veicolo è verde, con numero di telaio 160827164 e massa 2698 kg. La stampa è richiesta in Bluetooth e in spagnolo, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "ventuno e trentasei",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "slovenia",
+                    "targa": "quattrocentocinquanta sei oh",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "lancia i ypsilon",
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "i lotto aprile duemilaventicinque alle ore ventuno e trentasei sto mettendo una notifica di infrazione per il veicolo lancia i ypsilon molto veicolo immatricolati slovenia con targa quattrocentocinquanta sei oh di tipo speciale l'infrazione si e verificata presto corso della repubblica al civico diciannove violando il codice penale in particolare l'articolo otto con ma sei riguardante il parcheggio in doppia fila devo decurtare dieci punti applico una sanzione accessoria in base alle circostanze il molto veicolo e di colore verde con numero di telaio centosessanta milioni e ottocento ventisettemila cento sessantaquattro e massa duemilaseicento novantotto chilogrammi stampa me lo con il blu tutti in spagnolo stampa anche la comunicazione",
+    "original_sentence": "Il 08/04/2025, alle ore 21:36, sto emettendo una notifica di infrazione per il veicolo Lancia Ypsilon, motoveicolo immatricolato in slovenia con targa MN456OP di tipo speciale. L'infrazione si è verificata presso corso della Repubblica, al civico 19, violando il codice penale, in particolare l'articolo 8, comma 6 riguardante il parcheggio in doppia fila.Devo decurtare 10 punti. Applico una sanzione accessoria in base alle circostanze. Il motoveicolo è di colore verde, con numero di telaio 160827164 e massa 2698 kg.Stampamelo con il bluetooth in spagnolo, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo immatricolato in Germania con targa speciale. L'infrazione è avvenuta in viale della Concordia, civico 13, per parcheggio in zona a rimozione. Si applica l'articolo 12, comma 10 del codice stradale, con la decurtazione di 9 punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. La stampa deve essere effettuata in italiano tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "germania",
+                    "targa": "beh centoventitre ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo cappa ti sette centonovantadue macchina operatrice immatricolati in germania con targa beh centoventitre ci di di tipo speciale l'infrazione e avvenuta in viale della concordia civico tredici parcheggio in zona a rimozione si applica l'articolo dodici comma dieci del codice stradale a seguito della violazione verranno decurtati nove punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in italiano tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo KTM 790 Duke, macchina operatrice immatricolato in germania con targa AB123CD di tipo speciale. L'infrazione è avvenuta in viale della Concordia, civico 13: parcheggio in zona rimozione. Si applica l'articolo 12, comma 10 del codice stradale. A seguito della violazione verranno decurtati 9 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in italiano tramite wifi, non stampare anche la comunicazione. "
+}

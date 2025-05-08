@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione notificata l'undici aprile 2025 alle dodici e dodici. È stato emesso un preavviso per un'autovettura con targa belga, rilevata in via della musica al civico diciotto. La violazione riguarda il codice civile, articolo dieci, per parcheggio in zona rimozione. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare sette punti. Il veicolo è una Lancia Delta gialla. La stampa del preavviso è richiesta tramite WiFi in inglese, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "dodici e doti",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "belgio",
+                    "targa": "trecentoventi uno ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "lancia delta",
+                    "colore": "giallo"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "dieci",
+                    "comma": null,
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: decurtare, after: punti",
+            "tipo_stampa": "weiwei",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data undici aprile duemilaventicinque alle dodici e doti è stato notificato un preavviso per un'autovettura targato trecentoventi uno ci di contee di speciale immatricolati in belgio l'inflazione è stata rilevata in via della musica a il civico diciotto con violazione del codice civile articolo dieci amato in particolare si e riscontrato un parcheggio in zona a rimozione non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono sette punti il veicolo è un lancia delta di colore giallo con numero di telaio due due due tre sette zero zero zero cinque massa tremilaquattrocento sessantaquattro chi li necessita la stampa dei preavviso tramite weiwei in inglese non stampare anche la comunicazione",
+    "original_sentence": "In data 11/04/2025, alle ore 12:12, è stato notificato un preavviso per un autovettura targato AB321CD con targa speciale, immatricolato in belgio. L'infrazione è stata rilevata in via della Musica, al civico 18, con violazione del codice civile, articolo 10, comma 8, in particolare si è riscontrato un parcheggio in zona rimozione Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 7 punti. Il veicolo è un Lancia Delta di colore giallo, con numero di telaio 222370005 e massa 3464 kg. Necessito la stampa del preavviso tramite wifi, in inglese, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale avvenuta l'undici aprile duemilaventicinque alle ore ventitré sedici in piazza Venezia, numero uno. La violazione riguarda un parcheggio in zona a rimozione e coinvolge un veicolo macchina agricola targato cappelle trecentoventi uno, di tipo prova, proveniente dalla Croazia, marca Basarci. L'infrazione rientra nell'articolo quattordici comma uno del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di sette punti. Si richiede la stampa in lingua olandese tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "ventitré sedici",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "croazia",
+                    "targa": "cappelle trecentoventi uno",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "basarci",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattordici",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina agricola targato cappelle trecentoventi uno di tipo prova proveniente da croazia marca basarci in in già seicentocinquanta la violazione ovvero parcheggio in zona a rimozione sia verificata è andata undici aprile duemilaventicinque alle ore ventitré sedici in piazza venezia al numero uno l'infrazione rientra nell'articolo quattordici con uno del codice civile non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzioni e prevede la perdita di sette punti si richiede la stampa in lingua olandese tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina agricola targato KL321MN di tipo prova proveniente da croazia, marca Kawasaki Ninja 650. La violazione, ovvero parcheggio in zona rimozione, si è verificata in data 11/04/2025 alle ore 23:16 in piazza Venezia, al numero 1. L'infrazione rientra nell'articolo 14, comma 1 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 7 punti. Si richiede la stampa in lingua olandese, tramite bluetooth, non stampare anche la comunicazione. "
+}

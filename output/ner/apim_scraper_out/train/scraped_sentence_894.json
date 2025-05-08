@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta il 17 aprile 2025 alle ore 24:00. Un veicolo BMW Serie Uno, immatricolato in Austria con targa TI JERRY 098 I Y, ha violato il codice civile parcheggiando su strisce pedonali in viale della Libertà, civico 22. Sono stati decurtati 8 punti, senza sanzioni accessorie. Il veicolo è di colore viola. La stampa deve essere effettuata tramite WiFi in portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "ventiquattro",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "ti jerry zero nove otto i ypsilon",
+                    "tipologia_targa": null,
+                    "marca_modello": "bmw serie uno",
+                    "colore": "viola"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "portoghesi",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il diciassette aprile duemilaventicinque alle ore ventiquattro i sei stai mettendo una notifica di infrazioni per il veicolo bmw serie uno autovettura immatricolati in austria con targa ti jerry zero nove otto i ypsilon nudi tipo copertura l'infrazione si e verificata presto viale della libertà al civico ventidue violando il codice civile in particolare l'articolo tre comma uno riguardante il parcheggio su strisce pedonali devo decurtare otto punti non è necessaria alcuna sanzione accessoria il autovettura e di colore viola con numero di telaio otto uno uno zero otto otto sei uno sette massa duemilaseicento quindici chi li stampa me lo con il vuoi fai in portoghesi stampa anche la comunicazione",
+    "original_sentence": "Il 17/04/2025, alle ore 00:06, sto emettendo una notifica di infrazione per il veicolo BMW Serie 1, autovettura immatricolato in austria con targa TR098YU di tipo copertura. L'infrazione si è verificata presso viale della Libertà, al civico 22, violando il codice civile, in particolare l'articolo 3, comma 1 riguardante il parcheggio su strisce pedonali. Devo decurtare 8 punti. Non è necessaria alcuna sanzione accessoria. Il autovettura è di colore viola, con numero di telaio 811088617 e massa 2615 kg. Stampamelo con il wifi in portoghese, stampa anche la comunicazione. "
+}

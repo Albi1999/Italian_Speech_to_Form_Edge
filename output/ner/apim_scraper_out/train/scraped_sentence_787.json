@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo, una Seat Ibiza, con targa speciale proveniente dalla Germania. La violazione è avvenuta il sette maggio duemilaventicinque alle ore due, per transito in zona accesso vietato. L'infrazione è stata rilevata in via della Repubblica venti e via dei Fori Imperiali numero dieci, in base all'articolo sei comma quattro del codice stradale. Sono previsti un punto di decurtazione. Si richiede la stampa del preavviso tramite Bluetooth in lingua inglese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette maggio duemilaventicinque",
+            "ora_violazione": "due",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "ad quattrocentocinquanta sei ci di di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "seat ibiza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: di",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo autovettura mai set ibiza targato ad quattrocentocinquanta sei ci di di tipo speciale proveniente da germania in data sette maggio duemilaventicinque alle ore due quindi è stata rilevata la violazione di transito in zona accesso vietato in via della repubblica venti via dei fori imperiali il numero dieci in base a articolo sei coma quattro dei codice stradale per tale infrazione sono previsti un punti di decurtazione si richiede la stampa dei preavviso tramite blu tutti in lingua inglese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo autovettura, marca Seat Ibiza, targato AB456CD di tipo speciale, proveniente da germania. In data 07/05/2025 alle ore 02:15, è stata rilevata la violazione di transito in zona accesso vietato in via della Repubblica, 20via dei Fori Imperiali, al numero 10, in base all'articolo 6, comma 4 del codice stradale. Per tale infrazione sono previsti 1 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua inglese, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 3 maggio 2025 alle ore 21:34 in viale della Scienza, civico 14. La violazione riguarda un veicolo SU CHI VI 650, macchina agricola con targa JEFF 123, immatricolata in Francia. La violazione contestata è il parcheggio in divieto di sosta secondo l'articolo 6, comma 1, del codice civile. La contestazione è avvenuta immediatamente da parte dell'agente Francesco Rizzo. Sono previsti nove punti di decurtazione. Si richiede la stampa in lingua inglese via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "ventuno e trentaquattro",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "jeff centoventitre",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sei",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il tre maggio duemilaventicinque alle ore ventuno e trentaquattro in viale della scienza al civico quattordici a carico del veicolo su chi è vi seicentocinquanta macchina agricola con targa è jeff centoventitre giacca di tipo ufficiale immatricolati in francia la violazione contestata e parcheggio in divieto di sosta in base all'articolo sei con ma prima uno dodici del codice civile la contestazione e avvenuta immediatamente da parte della gente francesco rizzo sono previsti nove punti di decurtazione si richiede la stampa in lingua inglese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 03/05/2025 alle ore 21:34 in viale della Scienza, al civico 14, a carico del veicolo Suzuki SV650, macchina agricola con targa EF123GH di tipo ufficiale, immatricolato in francia. La violazione contestata è parcheggio in divieto di sosta, in base all'articolo 6, comma 1a(1-12) del codice civile.La contestazione è avvenuta immediatamente da parte dell'agente Francesco Rizzo. Sono previsti 9 punti di decurtazione. Si richiede la stampa in lingua inglese via wifi, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il nove aprile duemilaventicinque alle ore diciassette e trentacinque per un veicolo registrato in Svizzera. L'infrazione è avvenuta in viale della Vittoria al numero nove, per parcheggio in doppia fila, violando l'articolo mille duecentoventotto comma sedici del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti nove punti di decurtazione. La stampa della notifica deve avvenire tramite fai in lingua tedesco, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "diciassette trentacinque",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "svizzera",
+                    "targa": "gia cappa cinquecento sessantasette hope",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "forma di dei street settecentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "mille duecentoventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: previsti, after: punti",
+            "tipo_stampa": "fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data nove aprile duemilaventicinque alle ore diciassette trentacinque è stato emesso un preavviso di violazione per il veicolo autovettura di marca forma di dei street settecentocinquanta con targa gia cappa cinquecento sessantasette hope tipo ufficiale registrato in svizzera l'infrazione avvenuta in viale della vittoria al numero nove e consiste in parcheggia in doppia fila come previsto dall'articolo mille duecentoventotto comma sedici del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica vieni inviata al proprietario del veicolo sono previsti nove punti di decurtazione si prega di stampare la presente notifica tramite fai in lingua tedesco non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 09/04/2025, alle ore 17:35, è stato emesso un preavviso di violazione per il veicolo autovettura di marca Harley-Davidson Street 750, con targa JK567OP (tipo ufficiale), registrato in svizzera. L'infrazione è avvenuta in viale della Vittoria, al numero 9, e consiste in parcheggio in doppia fila, come previsto dall'articolo 1228, comma 16 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 9 punti di decurtazione. Si prega di stampare la presente notifica tramite wifi, in lingua tedesco, non stampare anche la comunicazione. "
+}

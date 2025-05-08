@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo macchina agricola marca Meticce, targa I789C, immatricolato in Croazia. La violazione è avvenuta il 7 aprile 2025 alle ore 6:45 in via della Musica, numero civico 18, per parcheggio in zona a rimozione. La violazione è in base all'articolo 41 comma 39 del codice penale, con una decurtazione di 7 punti. Si richiede la stampa del preavviso in lingua inglese tramite Bluetooth, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "sei e quarantacinque",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "croazia",
+                    "targa": "i sette centottantanove cappello",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "meticce sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantuno",
+                    "comma": "trentanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "brutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo macchina agricola marca ma è meticce sette targa i sette centottantanove cappello di tipo prova immatricolati croazia la violazione è avvenuta il sette aprile duemilaventicinque alle ore sei e quarantacinque in via della musica al numero civico diciotto ed è relativa parcheggio in zona a rimozione in base al l'articolo quarantuno comma trentanove del codice penale per tale violazione sono previsti sette punti di decurtazione si richiede la stampa di tale preavviso in lingua inglese tramite brutte stampa anche la comunicativa",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo macchina agricola, marca Yamaha MT-07, targa IJ789KL di tipo prova, immatricolato in croazia. La violazione è avvenuta il 07/04/2025 alle ore 06:45 in via della Musica, al numero civico 18, ed è relativa a parcheggio in zona rimozione, in base all'articolo 41, comma 39 del codice penale. Per tale violazione sono previsti 7 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua inglese tramite bluetooth, stampa anche la comunicazione. "
+}

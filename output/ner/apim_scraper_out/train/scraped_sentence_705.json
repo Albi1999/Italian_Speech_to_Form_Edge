@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo autovettura marca Successo Seicentocinquanta, targato JEFF 320 1 Giacca, di tipo ufficiale, proveniente dal Portogallo. La violazione è stata rilevata il sei aprile duemilaventicinque alle ore undici e quarantasette per parcheggio su strisce pedonali in via della Stazione al numero quattro, in base all'articolo 1228 comma 16 del codice stradale. Sono previsti cinque punti di decurtazione. Si richiede la stampa del preavviso tramite WiFi in lingua inglese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "undici quarantasette",
+            "Strada_1": "inviarle della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "portogallo",
+                    "targa": "jeff trecentoventi uno giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "successo seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "milleduecento ventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: previsti, after: punti",
+            "tipo_stampa": "guai fa",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo autovettura marca successo seicentocinquanta targato jeff trecentoventi uno giacca di tipo ufficiale proveniente da portogallo in data sei aprile duemilaventicinque alle ore undici quarantasette e stata rilevata la violazione di parcheggio su strisce pedonali inviarle della stazione al numero quattro in base all'articolo milleduecento ventotto comma sedici del codice stradale per tale infrazione sono previsti cinque punti di decurtazione si richiede la stampa del preavviso tramite guai fa in lingua inglese non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo autovettura, marca Suzuki SV650, targato EF321GH di tipo ufficiale, proveniente da portogallo. In data 06/04/2025 alle ore 11:47, è stata rilevata la violazione di parcheggio su strisce pedonali in viale della Stazione, al numero 4, in base all'articolo 1228, comma 16 del codice stradale. Per tale infrazione sono previsti 5 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua inglese, non stampare anche la comunicazione. "
+}

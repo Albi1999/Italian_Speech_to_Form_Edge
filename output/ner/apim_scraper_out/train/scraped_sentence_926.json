@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento informa che è in corso la stesura di un preavviso di violazione per un veicolo macchina agricola con targa \"trecentoventi uno ci di\" di tipo prova, marca \"dacci hassan vero\", proveniente dalla Spagna. L'infrazione riguarda il parcheggio su strisce pedonali, verificatasi il sette maggio duemilaventicinque alle ore due e quarantanove in corso Italia al numero trenta. La violazione è relativa all'articolo ventinove, comma ventisette del codice penale, e comporterà una decurtazione di cinque punti. Si richiede la stampa in lingua tedesca, modalità \"hawaii fai\", e di non stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette maggio duemilaventicinque",
+            "ora_violazione": "due i quarantanove",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "trecentoventi uno ci di",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "dacci hassan vero",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa trecentoventi uno ci di di tipo prova marca dacci hassan vero proveniente da spagna l'infrazione nello specifico parcheggio su strisce pedonali si e verificata in data sette maggio duemilaventicinque alle ore due i quarantanove in corso italia al numero trenta articolo ventinove coma ventisette del codice penale si comunica che dalla violazione conseguirà una decurtazione di cinque punti si richiede la stampa in lingua tedesco modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa AB321CD di tipo prova, marca Dacia Sandero, proveniente da spagna. L'infrazione, nello specifico parcheggio su strisce pedonali, si è verificata in data 07/05/2025 alle ore 02:49 in corso Italia, al numero 30 (articolo 29, comma 27 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 5 punti. Si richiede la stampa in lingua tedesco, modalità wifi, non stampare anche la comunicazione. "
+}

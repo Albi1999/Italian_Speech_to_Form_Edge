@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo immatricolato in Francia, targa \"i centoventitre capelli\", per un'infrazione commessa il 30 aprile 2025 alle ore 17:54. La violazione è avvenuta in via della Repubblica 20 e via dei Fori Imperiali civico 10, per parcheggio su strisce pedonali, ai sensi dell'articolo 26 comma 24 del codice stradale. Non è stato possibile effettuare la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di sette punti. È richiesta la stampa in inglese via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "diciassette cinquantaquattro",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "i centoventitre capelli",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventisei",
+                    "comma": "ventiquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "wife ehi",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo che basarci in in già seicentocinquanta ciclomotori targa i centoventitre capelli di tipo speciale immatricolati in francia per infrazione commessa in data trenta aprile duemilaventicinque ore diciassette cinquantaquattro in via della repubblica venti via dei fori imperiali civico dieci è stato rilevato parcheggio su strisce pedonali ai sensi dell'articolo ventisei come ventiquattro del codice stradale impossibile effettuare la contestazione immediata assenza del trasgressori la violazione comporta la decurtazione di sette punti richiesta stampa in inglese via wife ehi non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Kawasaki Ninja 650 ciclomotore, targa IJ123KL di tipo speciale, immatricolato in francia, per infrazione commessa in data 30/04/2025, ore 17:54. In via della Repubblica, 20via dei Fori Imperiali, civico 10, è stato rilevato parcheggio su strisce pedonali, ai sensi dell'articolo 26, comma 24, del codice stradale. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 7 punti. Richiesta stampa in inglese via wifi, non stampare anche la comunicazione. "
+}

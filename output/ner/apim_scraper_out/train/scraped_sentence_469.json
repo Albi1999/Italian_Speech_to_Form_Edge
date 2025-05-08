@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 2 maggio 2025 alle ore 3:10 in via della Repubblica 20 e via dei Fori Imperiali al civico 10. La violazione riguarda un veicolo Subaru, macchina operatrice, con targa 987 C di tipo ufficiale, immatricolato in Slovenia. La violazione contestata è il parcheggio davanti a passo carabine, in base all'articolo 7, comma 5 del codice penale. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti 9 punti di decurtazione. Si richiede la stampa in lingua francese via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "tre e dieci",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "slovenia",
+                    "targa": "novecentottanta sette c",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: previsti, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il due maggio duemilaventicinque alle ore tre e dieci in via della repubblica venti via dei fori imperiali al civico dieci a carico del veicolo subaru quindicesimo macchina operatrice con targa novecentottanta sette c di tipo ufficiale immatricolati slovenia la violazione contestata e parcheggio davanti a passo carabine in base all'articolo sette con ma cinque del codice penale non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti nove punti di decurtazione si richiede la stampa in lingua francese via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 02/05/2025 alle ore 03:10 in via della Repubblica, 20via dei Fori Imperiali, al civico 10, a carico del veicolo Subaru XV, macchina operatrice con targa AB987CD di tipo ufficiale, immatricolato in slovenia. La violazione contestata è parcheggio davanti a passo carrabile, in base all'articolo 7, comma 5 del codice penale.Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti 9 punti di decurtazione. Si richiede la stampa in lingua francese via bluetooth, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo, una macchina agricola con targa di tipo prova, marca Ducati Monster, proveniente dall'Italia. L'infrazione è avvenuta il 2 maggio 2025 alle 17:37 in Corso della Giustizia, numero civico 23. La violazione riguarda il parcheggio in doppia fila, violando l'articolo 5, comma 3 del codice civile. La conseguenza della violazione sarà la decurtazione di sette punti. Si richiede la stampa in lingua olandese, modalità Bluetooth, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "diciassette trentasette",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "italia",
+                    "targa": "un vi sei centocinquantaquattro doppia ex",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "ducati monster",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa un vi sei centocinquantaquattro doppia ex di tipo prova marca ducati monster proveniente da italia l'infrazione nello specifico parcheggia in doppia fila sia e verificata in data due maggio duemilaventicinque alle ore diciassette trentasette in corso della giustizia al numero ventitré articolo cinque con ma tre del codice civile si comunica che dalla violazione conseguirà una decurtazione di sette punti si richiede la stampa in lingua olandese modalità blu stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa UV654WX di tipo prova, marca Ducati Monster, proveniente da italia. L'infrazione, nello specifico parcheggio in doppia fila, si è verificata in data 02/05/2025 alle ore 17:37 in corso della Giustizia, al numero 23 (articolo 5, comma 3 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 7 punti.Si richiede la stampa in lingua olandese, modalità bluetooth, stampa anche la comunicazione."
+}

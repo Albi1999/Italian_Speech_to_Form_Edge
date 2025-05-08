@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo con targa ufficiale immatricolato in Belgio, per un'infrazione commessa il 21 aprile 2025 alle ore 19:40 in Corso Vittorio Emanuele, civico 15. La violazione riguarda il parcheggio davanti a un passo carraio, ai sensi dell'articolo 40, comma 38 del codice stradale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di tre punti. È richiesta la stampa in portoghese via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "diciannove i quaranta",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": null,
+                    "nazione": "belgio",
+                    "targa": "icsi ypsilon novecentottanta sette mezza",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo chi ha in macchina operatrice targa icsi ypsilon novecentottanta sette mezza di tipo ufficiale immatricolati in belgio per infrazione commessa in data ventuno aprile duemilaventicinque ore diciannove i quaranta in corso vittorio emanuele civico quindici è stato rilevato parcheggia davanti a passo carabine ai sensi dell'articolo quaranta con ma trentotto del codice stradale impossibile effettuare la contestazione immediata assenza del trasgressori la violazione comporta la decurtazione di tre punti richiesta stampa in portoghese via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Kia Stonic macchina operatrice, targa XY987ZA di tipo ufficiale, immatricolato in belgio, per infrazione commessa in data 21/04/2025, ore 19:40. In corso Vittorio Emanuele, civico 15, è stato rilevato parcheggio davanti a passo carrabile, ai sensi dell'articolo 40, comma 38, del codice stradale. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 3 punti. Richiesta stampa in portoghese via bluetooth, non stampare anche la comunicazione. "
+}

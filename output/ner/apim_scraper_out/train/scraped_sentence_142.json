@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da un veicolo agricolo, marca Seat Ibiza, con targa novecentottanta sette C, di tipo speciale, immatricolato in Italia. La violazione è avvenuta il diciotto aprile duemilaventicinque alle otto e quarantatré in corso Italia, civico trenta. La violazione riguarda il transito in zona accesso vietato, articolo quarantasei, comma quarantaquattro del codice civile, con conseguente perdita di sei punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua francese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "otto e quarantatré",
+            "Strada_1": "corso Italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "italia",
+                    "targa": "novecentottanta sette c",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "seat ibiza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: perdita, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina agricola marca seat ibiza targa novecentottanta sette c di tipo speciale immatricolati in italia in data diciotto aprile duemilaventicinque alle otto e quarantatré in corso italia al civico trenta e stata commessa la seguente violazione transito in zona accesso vietato articolo quarantasei con ma quarantaquattro del codice civile dalla violazione con segue la perdita di sei punti stampa in modalità blu tutte in lingua francese non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina agricola, marca Seat Ibiza, targa AB987CD di tipo speciale, immatricolato in italia. In data 18/04/2025 alle ore 08:43, in corso Italia, al civico 30, è stata commessa la seguente violazione: transito in zona accesso vietato (articolo 46, comma 44 del codice civile).Dalla violazione consegue la perdita di 6 punti.Stampa in modalità bluetooth e in lingua francese, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata il diciotto aprile duemilaventicinque alle quattordici e quaranta. Un verbale è stato redatto per un ciclomotore con targa JEFF 789 immatricolato in Portogallo, per parcheggio su strisce pedonali in via della Concordia, civico quattordici. La violazione riguarda il codice penale, articolo tredici, comma undici. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Sono previsti dieci punti da decurtare. La stampa avviene tramite Wi-Fi in italiano e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "quattordici e quaranta",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "portogallo",
+                    "targa": "jeff sette centottantanove giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tredici",
+                    "comma": "undici",
+                    "sanzione_accessoria": "non posso applicare alcuna sanzione accessoria"
+                }
+            ],
+            "punti": "dieci, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle quattordici e quaranta del diciotto aprile duemilaventicinque storie di gendo un verbale per il veicolo ciclomotori targato jeff sette centottantanove giacca con targa copertura immatricolati in portogallo l'infrazione stata accertata in via della concordia al civico quattordici con violazione del codice penale articolo tredici con ma undici per parcheggio su strisce pedonali sono previsti dieci punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite vuoi fai in italiano stampa anche la comunicazione",
+    "original_sentence": "Alle 14:40 del 18/04/2025, sto redigendo un verbale per il veicolo ciclomotore targato EF789GH con targa copertura, immatricolato in portogalloL'infrazione è stata accertata in via della Concordia, al civico 14, con violazione del codice penale, articolo 13,comma 11 per parcheggio su strisce pedonali Sono previsti 10 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in italiano, stampa anche la comunicazione."
+}

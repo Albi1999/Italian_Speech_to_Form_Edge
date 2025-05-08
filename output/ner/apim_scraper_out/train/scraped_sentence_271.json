@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 10 aprile 2025 alle ore 6:29 in Corso Buenos Aires, civico 98. La violazione riguarda un veicolo con targa croata, parcheggiato in zona a rimozione, in base all'articolo 36, comma 34 del codice penale. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti sei punti di decurtazione. Si richiede la stampa in lingua francese via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "sei e ventinove",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "novecentottanta sette ci di di",
+                    "tipologia_targa": "tipo speciale",
+                    "marca_modello": "null",
+                    "colore": "null"
+                }
+            ],
+            "contestazione_immediata": "null",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentasei",
+                    "comma": "trentaquattro",
+                    "sanzione_accessoria": "null"
+                }
+            ],
+            "punti": "sei, before: previsti, after: di",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il dieci aprile duemilaventicinque alle ore sei e ventinove in corso buenos aires al civico novantotto a carico del veicolo si tronchi quattro cat josh macchina operatrice con targa novecentottanta sette ci di di tipo speciale immatricolati in croazia la violazione contestata e parcheggio in zona a rimozione in base all'articolo trentasei comma trentaquattro del codice penale non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti sei punti di decurtazione si richiede la stampa in lingua francese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 10/04/2025 alle ore 06:29 in corso Buenos Aires, al civico 98, a carico del veicolo Citroen C4 Cactus, macchina operatrice con targa AB987CD di tipo speciale, immatricolato in croazia. La violazione contestata è parcheggio in zona rimozione, in base all'articolo 36, comma 34 del codice penale.Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti 6 punti di decurtazione. Si richiede la stampa in lingua francese via wifi, non stampare anche la comunicazione."
+}

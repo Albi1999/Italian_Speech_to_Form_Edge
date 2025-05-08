@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo BMW con targa ufficiale proveniente dalla Slovenia, che ha commesso una violazione parcheggiando su strisce pedonali. La violazione è avvenuta il 7 maggio 2025 alle 11:14 in viale dei Giardini, numero 8. L'infrazione rientra nell'articolo 185, comma 2 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di un punto. Si richiede la stampa in lingua tedesca tramite Bluetooth e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette maggio duemilaventicinque",
+            "ora_violazione": "undici e quattordici",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "a duecentoventitre ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "bmw jeff novecento jerry",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: perdita, after: punti",
+            "tipo_stampa": "piu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo autovettura targato a duecentoventitre ci di di tipo ufficiale proveniente da slovenia marca bmw jeff novecento jerry la violazione ovvero parcheggio su strisce pedonali si e verificata in data sette maggio duemilaventicinque alle ore undici e quattordici in viale dei giardini al numero otto l'infrazione rientra nell'articolo centottantacinque coma due del codice stradale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzione prevede la perdita di un punti si richiede la stampa in lingua tedesco tramite piu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato AB123CD di tipo ufficiale proveniente da slovenia, marca BMW F 900 R. La violazione, ovvero parcheggio su strisce pedonali, si è verificata in data 07/05/2025 alle ore 11:14 in viale dei Giardini, al numero 8. L'infrazione rientra nell'articolo 185, comma 2 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 1 punti. Si richiede la stampa in lingua tedesco, tramite bluetooth, stampa anche la comunicazione. "
+}

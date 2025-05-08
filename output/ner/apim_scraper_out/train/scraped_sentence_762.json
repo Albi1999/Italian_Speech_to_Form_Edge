@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione stradale avvenuta il 13 aprile 2025 alle ore 21:04. Un veicolo macchina operatrice marca Onda Gesto, targato Abby 987 CD, proveniente dall'Austria, è stato trovato parcheggiato su strisce pedonali in via Settembre, civico 5. La violazione riguarda l'articolo 40, comma 38 del codice stradale. La contestazione non è stata immediata a causa dell'assenza del conducente. Sono previsti otto punti di decurtazione dalla patente. Si richiede la stampa in inglese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "e quattro i ventuno",
+            "Strada_1": "via settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "austria",
+                    "targa": "abby novecentottanta sette ci",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "onda gesto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazioni, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data tredici aprile duemilaventicinque alle ore e quattro i ventuno per la violazione riscontrata al veicolo macchina operatrice marca onda gesto targato abby novecentottanta sette ci di tipo prova un proveniente da austria in particolare in via settembre civico cinque è stato accertato parcheggio su strisce pedonali in violazione dell'articolo quaranta come trentotto del codice stradale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazioni di otto punti dalla patente richiedo la stampa in inglese via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 13/04/2025 alle ore 04:21 per la violazione riscontrata al veicolo macchina operatrice, marca Honda Jazz, targato AB987CD (tipo prova) proveniente da austria. In particolare, in via XX Settembre, civico 5, è stato accertato parcheggio su strisce pedonali, in violazione dell'articolo 40, comma 38 del codice stradale. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 8 punti dalla patente. Richiedo la stampa in inglese via bluetooth, stampa anche la comunicazione. "
+}

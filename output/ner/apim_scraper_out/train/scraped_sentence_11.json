@@ -1,6 +1,6 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive un avviso di violazione per un veicolo Lancia Ypsilon, registrato in Francia, con targa ufficiale. L'infrazione è avvenuta il 9 aprile 2025 alle 10:24 in viale della Concordia, civico 13, per transito in zona accesso vietato. La violazione è in base all'articolo 28, comma 26 del codice stradale e comporta una decurtazione di 5 punti. La stampa dell'avviso è prevista via Bluetooth, in italiano, senza includere la comunicazione.",
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Lancia Ypsilon, registrato in Francia, con targa ufficiale. L'infrazione è avvenuta il 9 aprile 2025 alle 10:24 in viale della Concordia, civico 13, per transito in zona accesso vietato. La violazione è in base all'articolo 28, comma 26 del codice stradale e comporta una decurtazione di 5 punti. La stampa dell'avviso è richiesta via Bluetooth, in italiano, senza stampare la comunicazione.",
         "report": {
             "verbale_preavviso": "preavviso",
             "data_violazione": "nove aprile duemilaventicinque",
@@ -28,7 +28,7 @@
                 }
             ],
             "punti": "cinque",
-            "tipo_stampa": "bluetooth",
+            "tipo_stampa": "blu tutti",
             "lingua_stampa": "italiano",
             "stampa_anche_comunicazione": "non stampare anche la comunicazione"
         },

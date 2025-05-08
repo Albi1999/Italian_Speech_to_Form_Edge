@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo rimorchio marca Alfa Romeo Giulietta, targato \"a me ne trecentoventi uno\", di tipo prova, proveniente dall'Olanda. La violazione è avvenuta il 28 aprile 2025 alle ore 11:08, per transito in zona accesso vietato in Corso della Storia al numero 22. La violazione è in base all'articolo 3415 comma 13 del codice penale, con una decurtazione di 8 punti. Si richiede la stampa del preavviso tramite Wi-Fi, in lingua inglese, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "undici otto",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "olanda",
+                    "targa": "a me ne trecentoventi uno",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "alfa romeo e giulietta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tremilaquattrocento quindici",
+                    "comma": "tredici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: di",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo rimorchio marca alfa romeo e giulietta targato a me ne trecentoventi uno o più di tipo prova proveniente da olanda in data ventotto aprile duemilaventicinque alle ore undici otto e stata rilevata alla violazione di transito in zona accesso vietato in corso della storia al numero ventidue in base al l'articolo tremilaquattrocento quindici comma tredici del codice penale per tale infrazione sono previsti otto punti di decurtazione si richiede la stampa del preavviso tramite vuoi fai lingua inglese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo rimorchio, marca Alfa Romeo Giulietta, targato MN321OP di tipo prova, proveniente da olanda. In data 28/04/2025 alle ore 11:08, è stata rilevata la violazione di transito in zona accesso vietato in corso della Storia, al numero 22, in base all'articolo 3415, comma 13 del codice penale. Per tale infrazione sono previsti 8 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua inglese, stampa anche la comunicazione. "
+}

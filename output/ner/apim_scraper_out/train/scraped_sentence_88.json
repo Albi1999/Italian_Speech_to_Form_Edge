@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione di parcheggio in zona a rimozione avvenuta il 29 aprile 2025 alle 23:09 in Piazza Venezia, civico 1. Il veicolo coinvolto è un ciclomotore Cedro Lei Spark con targa 4506 CDD, proveniente dal Portogallo. La violazione è regolata dall'articolo 3, comma 1 del codice civile, con una decurtazione di 9 punti. Il preavviso è stampato in italiano via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "ventitré nove minuti",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "portogallo",
+                    "targa": "quattrocentocinquanta sei ci di di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "cedro lei spark",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: previsti, after: di",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo cedro lei spark ciclomotori targa quattrocentocinquanta sei ci di di tipo copertura proveniente da portogallo il giorno ventinove aprile duemilaventicinque alle ore ventitré nove minuti in piazza venezia al numero civico uno stata commessa l'infrazione di parcheggio in zona a rimozione come previsto dall'articolo tre con ma uno del codice civile per questa violazione sono previsti nove punti di decurtazione cedola stampa del preavviso in italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Chevrolet Spark ciclomotore, targa AB456CD di tipo copertura, proveniente da portogallo. Il giorno 29/04/2025, alle ore 23:09, in piazza Venezia, al numero civico 1, è stata commessa l'infrazione di parcheggio in zona rimozione, come previsto dall'articolo 3, comma 1, del codice civile.Per questa violazione sono previsti 9 punti di decurtazione. Chiedo la stampa del preavviso in italiano via wifi, non stampare anche la comunicazione."
+}

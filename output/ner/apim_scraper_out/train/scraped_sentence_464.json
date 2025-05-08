@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il quindici aprile duemilaventicinque alle ore diciannove cinquantatré per una violazione riscontrata su un veicolo proveniente dall'Olanda. Il veicolo, un'autovettura marca Dai venti, targato guerre trecentoventi uno e se ti tipo copertura, è stato trovato parcheggiato in doppia fila in corso della giustizia civico ventitre. La violazione riguarda l'articolo ventidue comma venti del codice penale. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di otto punti dalla patente. La stampa è richiesta in portoghese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "diciannove cinquantatré",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "olanda",
+                    "targa": "guerre trecentoventi uno e se ti",
+                    "tipologia_targa": "tipo copertura",
+                    "marca_modello": "dai venti",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventidue",
+                    "comma": "venti",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data quindici aprile duemilaventicinque alle ore diciannove cinquantatré per la violazione riscontrata al veicolo autovettura marca un dai venti targato guerre trecentoventi uno e se ti tipo copertura proveniente da olanda in particolare in corso della giustizia civico ventitre è stato accertato parcheggia in doppia fila in violazione dell'articolo ventidue con ma venti del codice penale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di otto punti dalla patente richiedo la stampa in portoghese via blu tutta stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 15/04/2025 alle ore 19:53 per la violazione riscontrata al veicolo autovettura, marca Hyundai i20, targato QR321ST (tipo copertura) proveniente da olanda. In particolare, in corso della Giustizia, civico 23, è stato accertato parcheggio in doppia fila, in violazione dell'articolo 22, comma 20 del codice penale. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 8 punti dalla patente. Richiedo la stampa in portoghese via bluetooth, stampa anche la comunicazione."
+}

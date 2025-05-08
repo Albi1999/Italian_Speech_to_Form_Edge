@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento informa che è in corso la stesura di un preavviso di violazione per un veicolo rimorchio con targa BEH 4506 CDI, di tipo speciale, marca Mi Subisci, proveniente dalla Francia. L'infrazione riguarda il parcheggio in doppia fila, verificatasi l'11 aprile 2025 alle ore 5:57 in viale della stazione, numero 4. La violazione è in base all'articolo 39, comma 37 del codice penale, e comporterà una decurtazione di sei punti. Si richiede la stampa in lingua portoghese, modalità Bluetooth, e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "cinque cinquantasette",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "beh quattrocentocinquanta sei ci di di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "mi subisci",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione in per il veicolo rimorchio con targa beh quattrocentocinquanta sei ci di di tipo speciale marca mi subisci proveniente da francia l'infrazione nello specifico parcheggio in doppia fila sia verificata in data undici aprile duemilaventicinque alle ore cinque cinquantasette in viale della stazione al numero quattro articolo trentanove comma trentasette del codice penale si comunica che dalla violazione conseguirà una decurtazione di sei punti si richiede la stampa in lingua portoghese modalità blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa AB456CD di tipo speciale, marca Mitsubishi ASX, proveniente da francia. L'infrazione, nello specifico parcheggio in doppia fila, si è verificata in data 11/04/2025 alle ore 05:57 in viale della Stazione, al numero 4 (articolo 39, comma 37 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 6 punti. Si richiede la stampa in lingua portoghese, modalità bluetooth, stampa anche la comunicazione. "
+}

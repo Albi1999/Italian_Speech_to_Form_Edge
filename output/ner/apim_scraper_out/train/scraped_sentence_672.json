@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo Dacia con targa speciale proveniente dall'Italia. L'infrazione riguarda il parcheggio in doppia fila, avvenuta il 20 aprile 2025 alle 23:16 in viale della Scienza, numero civico 14. La violazione è dell'articolo 10 del codice stradale, con una decurtazione di 10 punti. La contestazione immediata è impossibile per l'assenza del trasgressore. È richiesta la stampa tramite WiFi in spagnolo, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "ventitré sedici",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "italia",
+                    "targa": "def trecentoventi uno giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "dacia d'aste",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dieci",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "vuoi",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicative"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo molto veicolo di marca dacia d'aste con targa def trecentoventi uno giacca tipo speciale proveniente da italia fatto avvenuto il venti aprile duemilaventicinque alle ore ventitré sedici posizione viale della scienza numero civico quattordici infrazione parcheggio in doppia fila in violazione dell'articolo d'oggi ci comma dieci del codice stradale decurtazione prevista dieci punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite vuoi in spagnolo stampa anche la comunicative",
+    "original_sentence": "Redazione verbale in corso per il veicolo motoveicolo di marca Dacia Duster, con targa EF321GH (tipo speciale), proveniente da italia. Fatto avvenuto il 20/04/2025 alle ore 23:16. Posizione: viale della Scienza, numero civico 14. Infrazione: parcheggio in doppia fila, in violazione dell'articolo 12, comma 10, del codice stradale. Decurtazione prevista: 10 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in spagnolo, stampa anche la comunicazione. "
+}

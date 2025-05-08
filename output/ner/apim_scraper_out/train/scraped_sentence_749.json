@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo Lancia Ypsilon con targa croata, notificato il 15 aprile 2025 alle 7:30 in viale della Concordia, civico 13. La violazione riguarda il parcheggio in doppia fila, secondo l'articolo 41, comma 39 del codice stradale, con una decurtazione di sette punti. La stampa del preavviso è richiesta in tedesco via Hawaii, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "sette e trenta",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "croazia",
+                    "targa": "hugo trecentoventi uno doppia wings",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "lancia i ypsilon",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantuno",
+                    "comma": "trentanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo lancia i ypsilon autovettura targa hugo trecentoventi uno doppia wings di tipo copertura proveniente da croazia il giorno quindici aprile duemilaventicinque alle ore sette e trenta in viale della concordia al numero civico tredici e stata come se all'inflazione di parcheggia in doppia fila come previsto dall'articolo quarantuno coma trentanove del codice stradale per questa violazione sono previsti sette punti di decurtazione cedola stampa del preavviso in tedesco via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Lancia Ypsilon autovettura, targa UV321WX di tipo copertura, proveniente da croazia. Il giorno 15/04/2025, alle ore 07:30, in viale della Concordia, al numero civico 13, è stata commessa l'infrazione di parcheggio in doppia fila, come previsto dall'articolo 41, comma 39, del codice stradale. Per questa violazione sono previsti 7 punti di decurtazione. Chiedo la stampa del preavviso in tedesco via wifi, non stampare anche la comunicazione. "
+}

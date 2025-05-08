@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un'infrazione commessa da un veicolo con targa slovena. L'infrazione è avvenuta il 30 aprile 2025 alle 4:18 presso la stazione civico 4, per parcheggio in doppia fila. La contestazione è stata eseguita immediatamente dall'agente Bellini. La violazione comporta la decurtazione di sei punti. È richiesta la stampa in olandese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "quattro e diciotto",
+            "Strada_1": "stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "fai trecentoventi uno giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "campati settecento novanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazioni immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: di, after: punti",
+            "tipo_stampa": "via about",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo campati settecento novanta di un'autovettura targa fai trecentoventi uno giacca di tipo prova immatricolati in slovenia per infrazione commessa in data trenta aprile duemilaventicinque ore i quattro e diciotto invia le della stazione civico quattro è stato rilevato parcheggia in doppia fila ai sensi dell'articolo quattro comma due del codice civile contestazioni immediata eseguita dal agente sarà bellini la violazione comporta da decurtazione di sei punti richiesta stampa in olandese via about stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo KTM 790 Duke autovettura, targa EF321GH di tipo prova, immatricolato in slovenia, per infrazione commessa in data 30/04/2025, ore 04:18. In viale della Stazione, civico 4, è stato rilevato parcheggio in doppia fila, ai sensi dell'articolo 4, comma 2, del codice civile. Contestazione immediata eseguita dall'agente Sara Bellini. La violazione comporta la decurtazione di 6 punti. Richiesta stampa in olandese via bluetooth, stampa anche la comunicazione. "
+}

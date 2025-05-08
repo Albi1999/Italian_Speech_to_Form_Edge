@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il 26 aprile 2025 alle ore 7:08, con un verbale emesso per un veicolo Skoda Fabia con rimorchio, targa francese, per violazione dell'articolo 2235 comma 23 del codice penale. La violazione è stata rilevata in Piazza Venezia, civico 1, e non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di 4 punti. La stampa è richiesta in lingua spagnola e deve includere anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "sette e otto",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "ci di quattrocentocinquanta sei fedi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "skoda fabia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "duemiladuecento trentacinque",
+                    "comma": "ventitré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: derivano, after: decurtazione",
+            "tipo_stampa": "via hawaii",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventisei aprile duemilaventicinque alle ore sette e otto si leva verbale al veicolo skoda fabia rimorchio con targa ci di quattrocentocinquanta sei fedi tipo speciale immatricolati in francia per violazione dell'articolo duemiladuecento trentacinque come ventitré del codice penale ovvero parcheggio davanti a passo carabine rilevata in piazza venezia al civico uno non è stato possibile effettuare la contestazione immediata per assenza del trasgressori dalla violazione derivano quattro punti di decurtazione stampa necessaria in lingua spagnolo via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "In data 26/04/2025, alle ore 07:08, si eleva verbale al veicolo Skoda Fabia, rimorchio con targa CD456EF di tipo speciale, immatricolato in francia, per violazione dell'articolo 2235, comma 23 del codice penale, ovvero parcheggio davanti a passo carrabile, rilevata in piazza Venezia, al civico 1. Non è stato possibile effettuare la contestazione immediata, per assenza del trasgressore. Dalla violazione derivano 4 punti di decurtazione. Stampa necessaria in lingua spagnolo via wifi, stampa anche la comunicazione. "
+}

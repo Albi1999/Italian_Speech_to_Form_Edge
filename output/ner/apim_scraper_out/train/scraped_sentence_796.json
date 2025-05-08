@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo, una macchina agricola con targa \"jeff settecento ottantanove giacca\", di tipo \"copertura\", marca \"Skoda Fabia\", proveniente dall'Italia. L'infrazione è avvenuta il 17 aprile 2025 alle ore 9:42 in Corso della Libertà, numero civico 7. La violazione riguarda l'articolo 43, comma 41 del codice civile, e comporterà una decurtazione di tre punti. Si richiede la stampa in lingua olandese, modalità \"hawaii fai\", e non stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "nove quarantadue",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "italia",
+                    "targa": "jeff settecento ottantanove giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "skoda fabia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa jeff settecento ottantanove giacca di tipo copertura marca skoda fabia proveniente da italia l'infrazione nello specifico parcheggio davanti a passo carabine si e verificata in data diciassette aprile duemilaventicinque alle ore nove quarantadue in corso della libertà al numero sette è articolo quarantatré con ma quarantuno del codice civile si comunica che dalla violazione conseguirà una decurtazione di tre punti si richiede la stampa in lingua olandese modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa EF789GH di tipo copertura, marca Skoda Fabia, proveniente da italia. L'infrazione, nello specifico parcheggio davanti a passo carrabile, si è verificata in data 17/04/2025 alle ore 09:42 in corso della Libertà, al numero 7 (articolo 43, comma 41 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 3 punti. Si richiede la stampa in lingua olandese, modalità wifi, non stampare anche la comunicazione. "
+}

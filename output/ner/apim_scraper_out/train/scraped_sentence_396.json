@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sei maggio duemilaventicinque alle ore mezzogiorno e cinquanta per un veicolo immatricolato in Grecia con targa BEH 450 6 CD di tipo ufficiale. L'infrazione è avvenuta in via della Libertà al civico tre, con violazione del codice civile articolo 120 comma 9 per parcheggio in doppia fila. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti sei punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è in inglese tramite Bluetooth e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "mezzogiorno e cinquanta",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "grecia",
+                    "targa": "beh quattrocentocinquanta sei ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centoventi uno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: da",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno sei maggio duemilaventicinque alle ore è mezzogiorno e cinquanta è stato redatto un verbale per il veicolo per corsa macchina agricola immatricolati in grecia con targa beh quattrocentocinquanta sei ci di di tipo ufficiale l'infrazione avvenuta in via della libertà al civico tre stata riscontrata una violazione del codice civile articolo centoventi uno comma nove ovvero parcheggia in doppia fila non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti sei punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in inglese tramite blu stampa anche la comunicazione",
+    "original_sentence": "Il giorno 06/05/2025, alle ore 12:50, è stato redatto un verbale per il veicolo Opel Corsa, macchina agricola immatricolato in grecia con targa AB456CD di tipo ufficiale.L'infrazione è avvenuta in via della Libertà, al civico 3. È stata riscontrata una violazione del codice civile, articolo 121, comma 9 ovvero parcheggio in doppia filaNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 6 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in inglese tramite bluetooth, stampa anche la comunicazione."
+}

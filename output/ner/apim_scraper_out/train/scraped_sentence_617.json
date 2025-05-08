@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo agricolo registrato in Croazia, con targa prova, coinvolto in un'infrazione il 27 aprile 2025 alle 20:46. Il veicolo era parcheggiato in una zona di rimozione in corso della Repubblica, civico 19, violando l'articolo 44, comma 42 del codice civile. La violazione comporta la decurtazione di 4 punti. L'avviso sarà stampato via Bluetooth in spagnolo e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "venti e quarantasei",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "croazia",
+                    "targa": "wow trecentoventi uno",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "gary ottocentocinquanta sport",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo tra un gary ottocentocinquanta sport macchina agricola targato wow trecentoventi uno dopo winx con targa prova registrato in croazia per un fatto accaduto il ventisette aprile duemilaventicinque alle venti e quarantasei il veicolo si trovava in corso della repubblica al civico diciannove dove è stato riscontrato parcheggio in zona a rimozione in base all'articolo quarantaquattro comma quarantadue del codice civile questa infrazione comporta una decurtazione di quattro punti genera alla stampa dell'avviso via blu tutti in spagnolo stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Triumph Tiger 850 Sport, macchina agricola, targato UV321WX con targa prova, registrato in croazia, per un fatto accaduto il 27/04/2025 alle 20:46. Il veicolo si trovava in corso della Repubblica, al civico 19, dove è stato riscontrato parcheggio in zona rimozione, in base all'articolo 44, comma 42, del codice civile. Questa infrazione comporta una decurtazione di 4 punti. Genera la stampa dell'avviso via bluetooth in spagnolo, stampa anche la comunicazione. "
+}

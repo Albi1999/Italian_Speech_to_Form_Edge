@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il quindici aprile duemilaventicinque alle sette e trentatré per una macchina agricola con targa greca. La violazione è avvenuta in via ventisettenne, civico cinque, per parcheggio in divieto di sosta. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. Sono stati decurtati quattro punti. La stampa del preavviso è richiesta tramite Bluetooth in tedesco, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "sette e trentatré",
+            "Strada_1": "via ventisettenne",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "grecia",
+                    "targa": "ad quattrocentocinquanta sei ci di",
+                    "tipologia_targa": null,
+                    "marca_modello": null,
+                    "colore": "marrone"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentasei",
+                    "comma": "trentaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data quindici aprile duemilaventicinque alle sette e trentatré è stato notificate un preavviso per un macchina agricola targato ad quattrocentocinquanta sei ci di contenga prova immatricolati in grecia l'infezione è stata rilevata invia ventisettenne il civico cinque con violazioni del codice penale articolo trentasei come trentaquattro in particolare si riscontrato un parcheggio in divieto di sosta non è stato possibile contestare dell'assenza del trasgressori da decurtare ci sono quattro punti il veicolo è un dei venti di quello che marrone quel numero di telaio nave uno sei uno quattro zero nove e cinque i massa milleduecento novantotto chi li necessita la stampa dei preavviso tramite blu tutte in tedesco stampa anche la comunicazione",
+    "original_sentence": "In data 15/04/2025, alle ore 07:33, è stato notificato un preavviso per un macchina agricola targato AB456CD con targa prova, immatricolato in grecia. L'infrazione è stata rilevata in via XX Settembre, al civico 5, con violazione del codice penale, articolo 36, comma 34, in particolare si è riscontrato un parcheggio in divieto di sosta Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 4 punti. Il veicolo è un Hyundai i20 di colore marrone, con numero di telaio 916134095 e massa 1298 kg. Necessito la stampa del preavviso tramite bluetooth, in tedesco, stampa anche la comunicazione. "
+}

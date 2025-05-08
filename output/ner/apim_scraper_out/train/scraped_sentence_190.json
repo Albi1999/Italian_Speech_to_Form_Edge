@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 3 maggio 2025 alle 1:08 per un veicolo ciclomotore con targa speciale immatricolato in Germania. L'infrazione è stata accertata in via della Giustizia, civico 16, per parcheggio in doppia fila, violando il codice civile, articolo 52, comma 50. Sono previsti tre punti da decurtare. La contestazione immediata è stata effettuata dall'agente Sara Bellini. La stampa del verbale è stata effettuata tramite Wi-Fi in lingua olandese, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "una e otto minuti",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "germania",
+                    "targa": "i sette centottantanove chilometri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantadue",
+                    "comma": "cinquanta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle una e otto minuti del tre maggio duemilaventicinque storie di gendo un verbale per il veicolo ciclomotori targato i sette centottantanove chilometri con targa speciale immatricolati in germania infrazione stata accertata in via della giustizia al civico sedici con violazione del codice civile articolo cinquantadue con ma cinquanta per parcheggia in doppia fila sono previsti tre punti da decurtare contestazione immediata effettuata dalla gente sara bellini il verbale è stato redatto sul posto in via della giustizia non posso applicare alcuna sanzione accessoria stampa tramite vuoi fai in olandese stampa anche la comunicativa",
+    "original_sentence": "Alle 01:08 del 03/05/2025, sto redigendo un verbale per il veicolo ciclomotore targato IJ789KL con targa speciale, immatricolato in germaniaL'infrazione è stata accertata in via della Giustizia, al civico 16, con violazione del codice civile, articolo 52,comma 50 per parcheggio in doppia fila Sono previsti 3 punti da decurtare. Contestazione immediata effettuata dall'agente Sara Bellini, il verbale è stato redatto sul posto in via della Giustizia. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in olandese, stampa anche la comunicazione."
+}

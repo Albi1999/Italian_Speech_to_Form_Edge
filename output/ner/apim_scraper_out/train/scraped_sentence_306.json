@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione notificata il quattro maggio duemilaventicinque alle ore diciotto e trentacinque. Un preavviso è stato emesso per un veicolo Suzuki di colore grigio, immatricolato in Belgio, con targa ufficiale. L'infrazione è avvenuta in via della Libertà, civico ventidue, per parcheggio su strisce pedonali, violando il codice penale, articolo trentotto, comma trentasei. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. Sono da decurtare cinque punti. La stampa del preavviso è richiesta tramite WiFi in lingua tedesca, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattro omaggio duemilaventicinque",
+            "ora_violazione": "diciotto e trentacinque",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "belgio",
+                    "targa": "guerre trecentoventi uno se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "suzuki",
+                    "colore": "grigio"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentotto",
+                    "comma": "trentasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data quattro omaggio duemilaventicinque alle ore diciotto e trentacinque è stato notificato un preavviso per un molto veicolo targato guerre trecentoventi uno se ti con targa ufficiale immatricolati in belgio l'infrazione è stata rilevata inviarle della libertà al civico ventidue con violazione del codice penale articolo trentotto comma trentasei in particolare si e riscontrato un parcheggio su strisce pedonali non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono cinque punti il veicolo è un suzuki evitare di colore grigio con numero di telaio cinquecento novantaquattro milioni e duecentonovanta settemilaottocento novantotto e massa duemilasettecento uno chilogrammi necessita alla stampa del preavviso tramite vuoi fai in tedesco non stampare anche la comunicazione",
+    "original_sentence": "In data 04/05/2025, alle ore 18:35, è stato notificato un preavviso per un motoveicolo targato QR321ST con targa ufficiale, immatricolato in belgio. L'infrazione è stata rilevata in viale della Libertà, al civico 22, con violazione del codice penale, articolo 38, comma 36, in particolare si è riscontrato un parcheggio su strisce pedonali Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 5 punti. Il veicolo è un Suzuki Vitara di colore grigio, con numero di telaio 594297898 e massa 2701 kg.Necessito la stampa del preavviso tramite wifi, in tedesco, non stampare anche la comunicazione."
+}

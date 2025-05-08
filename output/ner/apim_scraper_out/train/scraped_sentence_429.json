@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un ciclomotore marcato Idiota Aris, targa centoventitre chi lo litri, immatricolato in Grecia. La violazione è avvenuta il 17 aprile 2025 alle ore 13:01 in via Giuseppe Mazzini, numero civico 24, per parcheggio davanti a passo carabine. La violazione è in base all'articolo 44, comma 42 del codice penale, con una decurtazione di uno punto. Si richiede la stampa del preavviso in lingua tedesca tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "tredici è un minuto",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "grecia",
+                    "targa": "centoventitre chi lo litri",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "idiota aris",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: previsti, after: punti",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo ciclomotori marcato idiota aris targa è centoventitre chi lo litri di tipo prova immatricolati in grecia la violazione è avvenuta il diciassette aprile duemilaventicinque alle ore tredici è un minuto in via giuseppe mazzini al numero civico ventiquattro ed è relativa parcheggio davanti a passo carabine in base all'articolo quarantaquattro comma quarantadue del codice penale per tale violazione sono previsti uno punti di decurtazione si richiede la stampa di tale preavviso in lingua tedesco tramite guai fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo ciclomotore, marca Toyota Yaris, targa IJ123KL di tipo prova, immatricolato in grecia. La violazione è avvenuta il 17/04/2025 alle ore 13:01 in via Giuseppe Mazzini, al numero civico 24, ed è relativa a parcheggio davanti a passo carrabile, in base all'articolo 44, comma 42 del codice penale.Per tale violazione sono previsti 1 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua tedesco tramite wifi, stampa anche la comunicazione."
+}

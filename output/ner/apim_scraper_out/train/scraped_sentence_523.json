@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il tre maggio duemilaventicinque alle ventitré e trentuno per un'infrazione accertata in via della cultura, civico nove. Il veicolo coinvolto è un rimorchio con targa prova immatricolato in Italia. La violazione riguarda il transito in zona accesso vietato, secondo il codice civile, articolo trentuno, comma trenta. Sono previsti otto punti da decurtare. La contestazione è stata immediata, effettuata dall'agente Luca Verdi. La stampa del verbale è stata effettuata tramite WiFi in francese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "ventitré trentuno",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "italia",
+                    "targa": "e novecentottanta sette a se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: da",
+            "tipo_stampa": "weiwei",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle ventitré trentuno del tre maggio duemilaventicinque storie di gendo un verbale per il veicolo rimorchio targato e novecentottanta sette a se ti con targa prova immatricolati in italia l'infrazione è stata accertata in via della cultura al civico nove con violazione del codice civile articolo trentuno due nove tre due coma trenta per transito in zona accesso vietato sono previsti otto punti da decurtare contestazione immediata effettuata dalla gente luca verdi il verbale è stato redatto sul posto in via della cultura non posso applicare alcuna sanzione accessoria stampa tramite weiwei in francese stampa anche la comunicazione",
+    "original_sentence": "Alle 23:31 del 03/05/2025, sto redigendo un verbale per il veicolo rimorchio targato QR987ST con targa prova, immatricolato in italiaL'infrazione è stata accertata in via della Cultura, al civico 9, con violazione del codice civile, articolo 31, 2932,comma 30 per transito in zona accesso vietato Sono previsti 8 punti da decurtare. Contestazione immediata effettuata dall'agente Luca Verdi, il verbale è stato redatto sul posto in via della Cultura. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in francese, stampa anche la comunicazione. "
+}

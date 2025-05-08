@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 26 aprile 2025 alle ore 22:29 per un veicolo immatricolato in Francia con targa \"episodio sette centottantanove giacca\". L'infrazione è avvenuta in via \"viene a\" al civico 45, violando il codice civile, articolo 31, comma 30, riguardante il parcheggio in zona a rimozione. Sono stati decurtati cinque punti e applicata una sanzione accessoria. Il veicolo è un'autovettura di colore verde, tipo ufficiale, con numero di telaio \"quattro due due sette tre nove e sette due tre\". La stampa è richiesta in tedesco e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "ventidue ventinove",
+            "Strada_1": "viene a",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "francia",
+                    "targa": "episodio sette centottantanove giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": "applico una sanzione accessori è"
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "con il due",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventisei aprile duemilaventicinque alle ore ventidue ventinove sto mettendo una notifica di infrazione per il veicolo mi subisci colte autovettura immatricolati in francia con targa episodio sette centottantanove giacca di tipo ufficiale l'infrazione si e verificata presso viene a al civico quarantacinque violando il codice civile in particolare l'articolo trentuno duemilanovecento trentadue con ma trenta riguardante il parcheggio in zona a rimozione devo decurtare cinque punti applico una sanzione accessori è in base alle circostanze il autovettura e di colore verde con numero di telaio quattro due due sette tre nove e sette due tre massa milleduecento trentuno chi li stampa me lo con il due tutti in tedesco stampa anche la comunicazione",
+    "original_sentence": "Il 26/04/2025, alle ore 22:29, sto emettendo una notifica di infrazione per il veicolo Mitsubishi Colt, autovettura immatricolato in francia con targa EP789GH di tipo ufficiale. L'infrazione si è verificata presso via Etnea, al civico 45, violando il codice civile, in particolare l'articolo 31, 2932, comma 30 riguardante il parcheggio in zona rimozione. Devo decurtare 5 punti. Applico una sanzione accessoria in base alle circostanze. Il autovettura è di colore verde, con numero di telaio 422739723 e massa 1231 kg. Stampamelo con il bluetooth in tedesco, stampa anche la comunicazione. "
+}

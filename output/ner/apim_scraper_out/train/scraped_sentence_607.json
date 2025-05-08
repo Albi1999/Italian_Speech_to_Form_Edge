@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione stradale avvenuta il tre maggio duemilaventicinque alle ore ventidue quarantotto. Un verbale è stato emesso per un veicolo rimorchio con targa immatricolata in Slovenia, per violazione dell'articolo ventidue comma venti del codice stradale, ovvero parcheggio in doppia fila. La violazione è stata rilevata in via della giustizia al civico sedici. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di quattro punti. La stampa del verbale è richiesta in lingua portoghese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbali",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "ventidue quarantotto",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "slovenia",
+                    "targa": "i ehi centoventitre capelli",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventidue",
+                    "comma": "venti",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: derivano, after: di",
+            "tipo_stampa": "about",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data tre maggio duemilaventicinque alle ore ventidue quarantotto si leva verbali al veicolo un dei venti rimorchio con targa i ehi centoventitre capelli di tipo prova immatricolati in slovenia per violazione dell'articolo ventidue coma venti del codice stradale ovvero parcheggia in doppia fila rilevata in via della giustizia al civico sedici non è stato possibile effettuare la contestazione immediata per assenza del trasgressori dalla violazione derivano quattro punti di decurtazione stampa necessaria in lingua portoghese di about stampa anche la comunicazione",
+    "original_sentence": "In data 03/05/2025, alle ore 22:48, si eleva verbale al veicolo Hyundai i20, rimorchio con targa IJ123KL di tipo prova, immatricolato in slovenia, per violazione dell'articolo 22, comma 20 del codice stradale, ovvero parcheggio in doppia fila, rilevata in via della Giustizia, al civico 16. Non è stato possibile effettuare la contestazione immediata, per assenza del trasgressore. Dalla violazione derivano 4 punti di decurtazione. Stampa necessaria in lingua portoghese via bluetooth, stampa anche la comunicazione. "
+}

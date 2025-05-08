@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo macchina agricola marca Suzuki Swift, targa 789 OP, tipo ufficiale, immatricolato in Francia. La violazione è avvenuta il 15 aprile 2025 alle ore 9:08 in viale della Concordia, civico 13, per parcheggio in doppia fila. La violazione è in base all'articolo 3415 comma 13 del codice penale, con una decurtazione di 4 punti. Si richiede la stampa del preavviso in lingua francese tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "nove otto",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "sette centottantanove oh piedi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "su chi swift",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tremilaquattrocento quindici",
+                    "comma": "tredici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo macchina agricola marca su chi swift targa è sette centottantanove oh piedi tipo ufficiale immatricolati in francia la violazione è avvenuta il quindici aprile duemilaventicinque alle ore nove otto in viale della concordia al numero civico tredici ed è relativa parcheggia in doppia fila in base all'articolo tremilaquattrocento quindici comma tredici del codice penale per tale violazione sono previsti quattro punti di decurtazione si richiede la stampa di tale preavviso in lingua francese tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo macchina agricola, marca Suzuki Swift, targa MN789OP di tipo ufficiale, immatricolato in francia. La violazione è avvenuta il 15/04/2025 alle ore 09:08 in viale della Concordia, al numero civico 13, ed è relativa a parcheggio in doppia fila, in base all'articolo 3415, comma 13 del codice penale. Per tale violazione sono previsti 4 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua francese tramite bluetooth, non stampare anche la comunicazione. "
+}

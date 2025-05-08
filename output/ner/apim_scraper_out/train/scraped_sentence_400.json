@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da un veicolo agricolo marca Seat Ibiza, targa sette centottantanove giacca, di tipo ufficiale, immatricolato in Croazia. La violazione è avvenuta il diciassette aprile duemilaventicinque alle ore due e mezzo in corso Italia, civico trenta. La violazione riguarda il parcheggio in zona a rimozione, articolo quarantanove comma quarantasette del codice penale, con conseguente perdita di sei punti. La stampa del verbale è richiesta in modalità hawaii fai e in lingua francese, con inclusione della comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "due e mezzo",
+            "Strada_1": "corso Italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "croazia",
+                    "targa": "sette centottantanove giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "seat ibiza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantanove",
+                    "comma": "quarantasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: perdita, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina agricola marca seat ibiza targa è sette centottantanove giacca di tipo ufficiale immatricolati in croazia in data a diciassette aprile duemilaventicinque alle ore due e mezzo in corso italia al civico trenta e stata commessa la seguente violazione parcheggio in zona a rimozione articolo quarantanove comma quarantasette del codice penale dalla violazione con segue la perdita di sei punti stampa in modalità hawaii fai è in lingua francese stampa anche la comunicativa",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina agricola, marca Seat Ibiza, targa EP789GH di tipo ufficiale, immatricolato in croazia. In data 17/04/2025 alle ore 02:30, in corso Italia, al civico 30, è stata commessa la seguente violazione: parcheggio in zona rimozione (articolo 49, comma 47 del codice penale).Dalla violazione consegue la perdita di 6 punti.Stampa in modalità wifi e in lingua francese, stampa anche la comunicazione."
+}

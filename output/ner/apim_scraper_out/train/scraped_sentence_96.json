@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 22 aprile 2025 alle ore 11:04 in Corso Buenos Aires, civico 98. La violazione riguarda un veicolo con targa IP 789G, immatricolato in Croazia, che ha parcheggiato in doppia fila. La contestazione è avvenuta immediatamente da parte dell'agente Luca Verdi. Sono previsti sette punti di decurtazione. Si richiede la stampa in lingua tedesca via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "undici e quattro minuti",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "croazia",
+                    "targa": "ip sette centottantanove giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: previsti, after: punti",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il ventidue aprile duemilaventicinque alle ore undici e quattro minuti in corso buenos aires al civico novantotto a carico del veicolo cappa ti sette centonovanta di ok autovettura con targa ip sette centottantanove giacca di tipo ufficiale immatricolati in croazia la violazione contestata e parcheggia in doppia fila in base all'articolo trentacinque comma trentatré del codice penale la contestazione e avvenuta immediatamente da parte della gente luca verdi sono previsti sette punti di decurtazione si richiede la stampa in lingua tedesco via blu tu non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 22/04/2025 alle ore 11:04 in corso Buenos Aires, al civico 98, a carico del veicolo KTM 790 Duke, autovettura con targa EP789GH di tipo ufficiale, immatricolato in croazia. La violazione contestata è parcheggio in doppia fila, in base all'articolo 35, comma 33 del codice penale.La contestazione è avvenuta immediatamente da parte dell'agente Luca Verdi. Sono previsti 7 punti di decurtazione. Si richiede la stampa in lingua tedesco via bluetooth, non stampare anche la comunicazione."
+}

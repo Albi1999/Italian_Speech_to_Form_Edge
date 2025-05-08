@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto alle 21:09 del 16 aprile 2025 per un veicolo immatricolato in Grecia, targato \"icsi ypsilon trecentoventi uno sa\". L'infrazione è stata accertata in via della Libertà, civico 3, per parcheggio in doppia fila, violando il codice civile, articolo 31, comma 30. Sono previsti quattro punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. La stampa del verbale avviene tramite Wi-Fi in inglese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "ventuno e nove minuti",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "grecia",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle ventuno e nove minuti del sedici aprile duemilaventicinque storie di gendo un verbale per il veicolo molto veicolo targato icsi ypsilon trecentoventi uno sa con targa copertura immatricolati in grecia l'infrazione stata accertata in via della libertà al civico tre con violazione del codice civile articolo trentuno duemilanovecento trentadue con ma trenta per parcheggia in doppia fila sono previsti quattro punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite vuoi fai in inglese non stampare anche la comunicazione",
+    "original_sentence": "Alle 21:09 del 16/04/2025, sto redigendo un verbale per il veicolo motoveicolo targato XY321ZA con targa copertura, immatricolato in greciaL'infrazione è stata accertata in via della Libertà, al civico 3, con violazione del codice civile, articolo 31, 2932,comma 30 per parcheggio in doppia fila Sono previsti 4 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in inglese, non stampare anche la comunicazione."
+}

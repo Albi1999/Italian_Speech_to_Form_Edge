@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un motoveicolo marca Onda C dire 650 Jerry, targato 320 1, di tipo ufficiale proveniente dalla Spagna. La violazione è stata rilevata il 29 aprile 2025 alle ore 15:36 per parcheggio su strisce pedonali in Piazza Venezia, numero civico 1. La violazione è in base all'articolo 20, comma 18 del codice stradale, con una decurtazione di 9 punti. Si richiede la stampa del preavviso tramite AIFA in lingua tedesca, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "quindici trentasei",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "spagna",
+                    "targa": "trecentoventi uno",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "onda c dire seicentocinquanta jerry",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "aifa",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo motoveicoli marca onda c dire seicentocinquanta jerry targato trecentoventi uno che di tipo ufficiale proveniente da spagna in data ventinove aprile duemilaventicinque alle ore quindici trentasei e stata rilevata la violazione di parcheggio su strisce pedonali in piazza venezia al numero uno in base alle articolo venti ma diciotto del codice stradali per tale infrazione sono previsti nove punti di decurtazione si richiede la stampa del preavviso tramite aifa in lingua tedesco non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo motoveicolo, marca Honda CBR650R, targato MN321OP di tipo ufficiale, proveniente da spagna. In data 29/04/2025 alle ore 15:36, è stata rilevata la violazione di parcheggio su strisce pedonali in piazza Venezia, al numero 1, in base all'articolo 20, comma 18 del codice stradale. Per tale infrazione sono previsti 9 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua tedesco, non stampare anche la comunicazione. "
+}

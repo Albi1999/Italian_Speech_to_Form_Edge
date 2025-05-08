@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il tredici aprile duemilaventicinque alle ore dieci e cinquanta per un ciclomotore con targa ufficiale immatricolato in Croazia. L'infrazione è stata rilevata in via della Speranza al civico diciotto, violando il codice stradale articolo duemiladue centotrentacinque comma ventitré. La contestazione immediata non è stata possibile per l'assenza del trasgressore. Sono da decurtare quattro punti. Il veicolo è un Mercedes Classe A di colore nero. È richiesta la stampa del preavviso tramite Bluetooth in inglese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "dieci e cinquanta",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "capelli trecentoventi uno",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mercedes classe a",
+                    "colore": "nero"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "duemiladue centotrentacinque",
+                    "comma": "ventitré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data tredici aprile duemilaventicinque alle ore dieci e cinquanta è stato notificato un preavviso per un ciclomotori targato capelli trecentoventi uno con targa ufficiale immatricolati in croazia l'infrazione e stata rilevata in via della speranza al civico diciotto con violazione del codice stradale articolo duemiladue centotrentacinque con ma ventitré in particolare si e riscontrato un parcheggio individuato di sosta non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono quattro punti il veicolo è un mercedes classe a di colore nero con numero di telaio otto sette sette quattro tre quattro sei otto e massa duemila centocinquantadue chili necessita la stampa del preavviso tramite blu tutte in inglese stampa anche la comunicazione",
+    "original_sentence": "In data 13/04/2025, alle ore 10:50, è stato notificato un preavviso per un ciclomotore targato KL321MN con targa ufficiale, immatricolato in croazia. L'infrazione è stata rilevata in via della Speranza, al civico 18, con violazione del codice stradale, articolo 2235, comma 23, in particolare si è riscontrato un parcheggio in divieto di sosta Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 4 punti. Il veicolo è un Mercedes Classe A di colore nero, con numero di telaio 877434608 e massa 2152 kg. Necessito la stampa del preavviso tramite bluetooth, in inglese, stampa anche la comunicazione. "
+}

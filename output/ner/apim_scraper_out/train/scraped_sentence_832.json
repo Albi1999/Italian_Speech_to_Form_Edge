@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo macchina agricola di marca Ducati Multistrada con targa proveniente dalla Francia. L'infrazione è avvenuta il 23 aprile 2025 alle ore 7:57 in viale dei Giardini, numero civico 8, per parcheggio davanti a passo carabine, violando l'articolo 44 comma 42 del codice penale. La decurtazione prevista è di un punto. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è necessaria tramite AIFA in olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "sette cinquantasette",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "yemen quattrocentocinquanta sei ho più tipo prova",
+                    "tipologia_targa": null,
+                    "marca_modello": "ducati molti strada due",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: prevista, after: punti",
+            "tipo_stampa": "tramite aifa",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo macchina agricola di marca ducati molti strada due con targa yemen quattrocentocinquanta sei ho più tipo prova proveniente da francia fatto avvenuto il ventitré aprile duemilaventicinque alle ore sette cinquantasette posizione viale dei giardini numero civic otto infrazione parcheggio davanti a passo carabine in violazione dell'articolo quarantaquattro comma quarantadue del codice penale decurtazione prevista un punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite aifa in olandese non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo macchina agricola di marca Ducati Multistrada V2, con targa MN456OP (tipo prova), proveniente da francia. Fatto avvenuto il 23/04/2025 alle ore 07:57. Posizione: viale dei Giardini, numero civico 8. Infrazione: parcheggio davanti a passo carrabile, in violazione dell'articolo 44, comma 42, del codice penale. Decurtazione prevista: 1 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in olandese, non stampare anche la comunicazione. "
+}

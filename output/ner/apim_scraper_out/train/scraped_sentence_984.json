@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un motoveicolo marca Peugeout 208, targa FED 234, immatricolato in Francia. La violazione è avvenuta il 12 aprile 2025 alle ore 14:59 in via della Speranza, numero civico 18, per parcheggio su strisce pedonali. La violazione è in base all'articolo 52 comma 50 del codice civile, con una decurtazione di 10 punti. Si richiede la stampa del preavviso in lingua spagnola tramite WiFi e la stampa anche della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "quattordici e cinquantanove",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "francia",
+                    "targa": "fed duecentotrentaquattro",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "peggio duecentotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantadue",
+                    "comma": "cinquanta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "wife ehi",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo motoveicoli marca peggio duecentotto targa fed duecentotrentaquattro di tipo speciale immatricolati in francia la violazione è avvenuta il dodici aprile duemilaventicinque alle ore quattordici e cinquantanove in via della speranza al numero civico diciotto ed è relativa parcheggio strisce pedonali in base a all'articolo cinquantadue comma cinquanta del codice civile per tale violazione sono previsti dieci punti di decurtazione si richiede la stampa d'italia preavviso in lingua spagnolo tramite wife ehi stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo motoveicolo, marca Peugeot 208, targa FG234LM di tipo speciale, immatricolato in francia. La violazione è avvenuta il 12/04/2025 alle ore 14:59 in via della Speranza, al numero civico 18, ed è relativa a parcheggio su strisce pedonali, in base all'articolo 52, comma 50 del codice civile. Per tale violazione sono previsti 10 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua spagnolo tramite wifi, stampa anche la comunicazione. "
+}

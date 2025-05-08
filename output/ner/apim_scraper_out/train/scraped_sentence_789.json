@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale commessa da un veicolo macchina agricola con targa ufficiale proveniente dalla Grecia. La violazione, transito in zona accesso vietato, è avvenuta il 12 aprile 2025 alle 22:57 in Piazza Venezia, numero civico 1. L'infrazione rientra nell'articolo 12, comma 10 del codice penale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di un punto. Si richiede la stampa in lingua olandese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "ventidue cinquantasette",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "grecia",
+                    "targa": "jeff trecentottantuno giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "chi ha stone",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: perdita, after: punti",
+            "tipo_stampa": "brutta",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina agricola targato jeff trecentottantuno giacca di tipo ufficiale proveniente da grecia marca chi ha stone la violazione ovvero transito in zona accesso vietato se verificata in data a dodici aprile duemilaventicinque alle ore ventidue cinquantasette in piazza venezia al numero uno l'infrazione rientra nell'articolo dodici comma dieci del codice penale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzione prevede la perdita di un punti si richiede la stampa e lingua olandese tramite brutta stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina agricola targato EF321GH di tipo ufficiale proveniente da grecia, marca Kia Stonic. La violazione, ovvero transito in zona accesso vietato, si è verificata in data 12/04/2025 alle ore 22:57 in piazza Venezia, al numero 1. L'infrazione rientra nell'articolo 12, comma 10 del codice penale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 1 punti. Si richiede la stampa in lingua olandese, tramite bluetooth, stampa anche la comunicazione. "
+}

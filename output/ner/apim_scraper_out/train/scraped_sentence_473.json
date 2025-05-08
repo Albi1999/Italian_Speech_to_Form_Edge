@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un motoveicolo marca Chi con targa JEFF 234, di tipo ufficiale, immatricolato in Olanda. La violazione è avvenuta il 13 aprile 2025 alle ore 21:35 in viale dei Giardini, civico 8. La violazione riguarda il parcheggio in doppia fila, violando l'articolo 2235, comma 23 del codice civile, con conseguente perdita di cinque punti. La stampa del verbale è richiesta in modalità Hawaii e in lingua inglese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "ventuno e trentacinque",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "olanda",
+                    "targa": "jeff duecentotrentaquattro",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "chi",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "duemiladue centotrentacinque",
+                    "comma": "ventitré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: perdita, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per motoveicoli marca chi appiccando targa jeff duecentotrentaquattro di tipo ufficiale immatricolati in olanda in data tredici aprile duemilaventicinque alle ore ventuno e trentacinque in viale dei giardini al civico otto e stata commessa la seguente violazione parcheggia in doppia fila articolo duemiladue centotrentacinque comma ventitré del codice civile dalla violazione con segue la perdita di cinque punti stampa in modalità hawaii fai è in lingua inglese stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per motoveicolo, marca Kia Picanto, targa FG234LM di tipo ufficiale, immatricolato in olanda. In data 13/04/2025 alle ore 21:35, in viale dei Giardini, al civico 8, è stata commessa la seguente violazione: parcheggio in doppia fila (articolo 2235, comma 23 del codice civile).Dalla violazione consegue la perdita di 5 punti.Stampa in modalità wifi e in lingua inglese, stampa anche la comunicazione."
+}

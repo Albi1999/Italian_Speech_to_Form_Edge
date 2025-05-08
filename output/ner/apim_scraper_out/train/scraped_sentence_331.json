@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta l'undici aprile 2025 alle ore 21:29 per un veicolo Seat Ibiza immatricolato in Olanda con targa ufficiale. L'infrazione è avvenuta in via del Corso, civico 12, violando il codice stradale, articolo 14, comma 1, riguardante il parcheggio in divieto di sosta. Sono stati decurtati cinque punti, senza sanzioni accessorie. Il veicolo è di colore verde, con numero di telaio 439.430.746 e massa 3.474 kg. La stampa è richiesta via WiFi in portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "ventuno e ventinove",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "olanda",
+                    "targa": "sette centottantanove occhi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "seat ibiza",
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattordici",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "vuoi fi",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "i l'undici aprile duemilaventicinque alle ore ventuno e ventinove sto mettendo una notifica di infrazione per il veicolo seat ibiza macchina operatrice immatricolati in olanda con targa sette centottantanove occhi di tipo ufficiale l'infrazione si e verificata presso via del corso al civico dodici violando il codice stradale in particolare l'articolo quattordici con ma uno riguardante il parcheggio in divieto di sosta devo decurtare cinque punti non è necessaria alcuna sanzione accessoria il macchina operatrice di colore verde con numero di telaio quattrocentotrenta nove milioni e quattrocentotrenta settemila centoquarantasei e massa tremilaquattrocento settantaquattro chilogrammi stampa me lo con il vuoi fi in portoghese stampa anche la comunicazione",
+    "original_sentence": "Il 11/04/2025, alle ore 21:29, sto emettendo una notifica di infrazione per il veicolo Seat Ibiza, macchina operatrice immatricolato in olanda con targa MN789OP di tipo ufficiale. L'infrazione si è verificata presso via del Corso, al civico 12, violando il codice stradale, in particolare l'articolo 14, comma 1 riguardante il parcheggio in divieto di sosta.Devo decurtare 5 punti. Non è necessaria alcuna sanzione accessoria. Il macchina operatrice è di colore verde, con numero di telaio 439437146 e massa 3474 kg.Stampamelo con il wifi in portoghese, stampa anche la comunicazione."
+}

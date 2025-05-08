@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo registrato in Croazia, targato \"settecento ottantanove ci di con targa copertura\". L'infrazione è avvenuta il 17 aprile 2025 alle 15:44 in viale dei giardini, civico otto, per parcheggio davanti a passo carrabile. La violazione è in base all'articolo 39, comma 37 del codice stradale e comporta una decurtazione di tre punti. La stampa dell'avviso è richiesta via Bluetooth in tedesco, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "quindici quarantaquattro",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": null,
+                    "nazione": "croazia",
+                    "targa": "settecento ottantanove ci di con targa copertura",
+                    "tipologia_targa": null,
+                    "marca_modello": "onda carrefour rimorchio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo onda carrefour rimorchio targato settecento ottantanove ci di con targa copertura registrato in croazia per un fatto accaduto il diciassette aprile duemilaventicinque alle quindici quarantaquattro il veicolo si trovava in viale dei giardini al cilic otto dove è stato riscontrato parcheggio davanti a passo cary abile in base a l'articolo trentanove comma trentasette del codice stradali questa infrazioni comporta una decurtazione di tre punti genere alla stampa dell'avviso via blu tutti in tedesco non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Honda HR-V, rimorchio, targato AB789CD con targa copertura, registrato in croazia, per un fatto accaduto il 17/04/2025 alle 15:44. Il veicolo si trovava in viale dei Giardini, al civico 8, dove è stato riscontrato parcheggio davanti a passo carrabile, in base all'articolo 39, comma 37, del codice stradale. Questa infrazione comporta una decurtazione di 3 punti. Genera la stampa dell'avviso via bluetooth in tedesco, non stampare anche la comunicazione. "
+}

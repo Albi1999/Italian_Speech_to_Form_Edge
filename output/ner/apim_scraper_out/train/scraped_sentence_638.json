@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta il 26 aprile 2025 alle ore 3:10, in viale dei giardini, civico 8. Un verbale è stato emesso per un veicolo Suzuki Swift, ciclomotore immatricolato in Belgio con targa JEFF234, di tipo ufficiale. La violazione riguarda il codice civile, articolo 158, comma 2, per parcheggio su strisce pedonali. La contestazione è stata immediata, eseguita dall'agente Elena Fontana, con la decurtazione di sette punti. Non è stata applicata alcuna sanzione accessoria. La stampa è prevista in spagnolo tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "tre dieci",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "belgio",
+                    "targa": "jeff duecentotrentaquattro",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "swift",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "brutus",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventisei aprile duemilaventicinque alle ore tre dieci e statore dato un verbale per il veicolo chi swift ciclomotori immatricolati in belgio con targa jeff duecentotrentaquattro di tipo ufficiale l'infrazione avvenuta in viale dei giardini al civic otto e stata riscontrata una violazione del codice civile articolo centocinquantotto coma due ovvero parcheggio su strisce pedonali il verbale è stato eseguito sul posto con contestazione immediata da parte della gente elena fontana sono previsti sette punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in spagnolo tramite brutus stampa anche la comunicazione",
+    "original_sentence": "Il giorno 26/04/2025, alle ore 03:10, è stato redatto un verbale per il veicolo Suzuki Swift, ciclomotore immatricolato in belgio con targa FG234LM di tipo ufficiale. L'infrazione è avvenuta in viale dei Giardini, al civico 8. È stata riscontrata una violazione del codice civile, articolo 158, comma 2 ovvero parcheggio su strisce pedonaliIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Elena Fontana. Sono previsti 7 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in spagnolo tramite bluetooth, stampa anche la comunicazione. "
+}

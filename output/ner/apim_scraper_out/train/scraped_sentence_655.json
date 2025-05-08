@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un'infrazione commessa da un veicolo agricolo con targa italiana. L'infrazione è avvenuta il 7 maggio 2025 alle 6:34 in corso Buenos Aires, numero 98, per divieto di sosta. L'articolo violato è il 3 comma 1 del codice penale, con la decurtazione di 4 punti dalla patente. Il verbale deve essere stampato via Bluetooth in portoghese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette maggio duemilaventicinque",
+            "ora_violazione": "sei trentaquattro",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "italia",
+                    "targa": "guerra sei centocinquantaquattro",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo si ruba una macchina agricola con targa guerra sei centocinquantaquattro e se ti di tipo copertura immatricolati in italia per un'infrazione commessa il sette maggio duemilaventicinque alle sei trentaquattro l'infrazione avvenuta in corso buenos aires al numero novantotto dove il veicolo era in parcheggiato in divieto di sosta l'articolo violato è il tre comma uno del codice penale verranno tolti quattro punti dalla patente stampa questo verbale via blu tutti in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Seat Arona, macchina agricola con targa QR654ST di tipo copertura, immatricolato in italia, per un'infrazione commessa il 07/05/2025 alle 06:34. L'infrazione è avvenuta in corso Buenos Aires, al numero 98, dove il veicolo era in parcheggio in divieto di sosta. L'articolo violato è il 3, comma 1 del codice penale. Verranno tolti 4 punti dalla patente. Stampa questo verbale via bluetooth in portoghese, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un'infrazione stradale. Il veicolo coinvolto è un'autovettura speciale targata \"i miei settecento ottantanove capelli\", proveniente dall'Olanda, marca Ducati, modello \"molti strada due\". La violazione, parcheggio in doppia fila, è avvenuta il 2 maggio 2025 alle 11:19 in via Etna, numero 45. L'infrazione rientra nell'articolo 9, comma 1 del codice penale. La contestazione è stata immediata da parte dell'agente Luca Verdi e prevede la perdita di sette punti. Si richiede la stampa in lingua olandese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "undici e diciannove",
+            "Strada_1": "etna",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "olanda",
+                    "targa": "i miei settecento ottantanove capelli",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "ducati molti strada due",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata da parte della gente luca verdi",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "nove",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo autovettura targato i miei settecento ottantanove capelli di tipo speciale proveniente da olanda marca ducati molti strada due la violazione ovvero parcheggia in doppia fila si verificata in data due maggio duemilaventicinque alle ore undici e diciannove in etna al numero quarantacinque l'infrazione rientra nell'articolo nove comma uno del codice penale contestazione immediata da parte della gente luca verdi la sanzione prevede la perdita di sette punti si richiede la stampa in lingua olandese tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato IJ789KL di tipo speciale proveniente da olanda, marca Ducati Multistrada V2. La violazione, ovvero parcheggio in doppia fila, si è verificata in data 02/05/2025 alle ore 11:19 in via Etnea, al numero 45. L'infrazione rientra nell'articolo 9, comma 1 del codice penale. Contestazione immediata da parte dell'agente Luca Verdi. La sanzione prevede la perdita di 7 punti. Si richiede la stampa in lingua olandese, tramite bluetooth, stampa anche la comunicazione. "
+}

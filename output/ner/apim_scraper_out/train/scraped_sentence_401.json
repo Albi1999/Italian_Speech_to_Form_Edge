@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale emesso il sedici aprile duemilaventicinque alle venti e quarantuno per una violazione accertata in corso Vittorio Emanuele, civico quindici. La violazione riguarda il codice civile, articolo trenta, comma ventotto, per parcheggio in zona a rimozione. Il veicolo coinvolto è una macchina agricola con targa prova immatricolata Nolan, targato Zaha 450 6 Cupi. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Sono previsti nove punti da decurtare. La stampa del verbale avviene tramite Bluetooth in italiano, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "venti e quarantuno",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "nolan",
+                    "targa": "zaha quattrocentocinquanta sei cupi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trenta",
+                    "comma": "ventotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle venti e quarantuno del sedici aprile duemilaventicinque storie di gendo un verbale per il veicolo macchina agricola targato zaha quattrocentocinquanta sei cupi con targa prova immatricolati nolan dalle infrazione stata accertata in corso vittorio emanuele al civico quindici con violazione del codice civile articolo trenta con ma ventotto per parcheggio in zona a rimozione sono previsti nove punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite blu in italiano non stampare anche la comunicazione",
+    "original_sentence": "Alle 20:41 del 16/04/2025, sto redigendo un verbale per il veicolo macchina agricola targato ZA456QP con targa prova, immatricolato in olandaL'infrazione è stata accertata in corso Vittorio Emanuele, al civico 15, con violazione del codice civile, articolo 30,comma 28 per parcheggio in zona rimozione Sono previsti 9 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in italiano, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il ventidue aprile duemilaventicinque alle quattro e venticinque per un'infrazione stradale. Il veicolo coinvolto è un'autovettura con targa speciale icsi ypsilon novecentottanta sette sa. L'infrazione è stata accertata in viale della scienza al civico quattordici, violando il codice stradale articolo centoventi comma nove per parcheggio su strisce pedonali. Sono previsti sette punti da decurtare. La contestazione è stata effettuata immediatamente dall'agente Alessandro Moretti. La stampa del verbale è stata effettuata tramite Wi-Fi in olandese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "quattro e venticinque",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": null,
+                    "targa": "icsi ypsilon novecentottanta sette sa",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centoventi",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle quattro e venticinque del ventidue aprile duemilaventicinque storie di gendo un verbale per il veicolo autovettura targato icsi ypsilon novecentottanta sette sa con targa speciale immatricolati non l'andare infrazione stata accertata in viale della scienza al civico quattordici con violazione del codice stradale articolo centoventi uno con ma nove per parcheggio su strisce pedonali sono previsti sette punti da decurtare contestazione immediata effettuata dalla gente alessandro moretti il verbale e statore d'atto sul posto in viale della scienza non posso applicare alcuna sanzione accessoria stampa tramite vuoi fai in olandese stampa anche la comunicazione",
+    "original_sentence": "Alle 04:25 del 22/04/2025, sto redigendo un verbale per il veicolo autovettura targato XY987ZA con targa speciale, immatricolato in olandaL'infrazione è stata accertata in viale della Scienza, al civico 14, con violazione del codice stradale, articolo 121,comma 9 per parcheggio su strisce pedonali Sono previsti 7 punti da decurtare. Contestazione immediata effettuata dall'agente Alessandro Moretti, il verbale è stato redatto sul posto in viale della Scienza. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in olandese, stampa anche la comunicazione."
+}

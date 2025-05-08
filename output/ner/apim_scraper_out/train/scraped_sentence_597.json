@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è un'autovettura di marca 'mai ti sette', con targa 'jeff trecentoventi uno', di tipo ufficiale e proveniente dall'Italia. L'infrazione è stata rilevata il primo maggio 2025 alle ore 17:56 in via della Libertà, civico 21. La violazione riguarda l'articolo 22 comma 20 del codice penale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di un punto. Si richiede la stampa del verbale in inglese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "diciassette cinquantasei",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italia",
+                    "targa": "jeff trecentoventi uno",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mai ti sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventidue",
+                    "comma": "venti",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: perdita, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo autovettura marca mai ti sette targato jeff trecentoventi uno gia di tipo ufficiale proveniente da italia l'infrazione e stata rilevata il primo maggio duemilaventicinque alle ore diciassette cinquantasei il veicolo si trovava in via della libertà al civico ventuno in parcheggio davanti a passo cary abile violando l'articolo ventidue comma venti del codice penale non è stato possibile effettuare la contestazione immediata causa dell'assenza del trasgressori la violazione comporta la perdita di un punti richiedo la stampa del verbale in inglese tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo autovettura, marca Yamaha MT-07, targato EF321GH (di tipo ufficiale), proveniente da italia. L'infrazione è stata rilevata il 01/05/2025 alle ore 17:56. Il veicolo si trovava in via della Libertà, al civico 21, in parcheggio davanti a passo carrabile, violando l'articolo 22, comma 20, del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 1 punti. Richiedo la stampa del verbale in inglese tramite bluetooth, stampa anche la comunicazione. "
+}

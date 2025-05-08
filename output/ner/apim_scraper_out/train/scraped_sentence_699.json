@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un'infrazione commessa da un veicolo immatricolato in Belgio. L'infrazione è avvenuta il sette aprile duemilaventicinque alle ore quattordici e cinquantacinque in viali della libertà, civico ventidue. Il veicolo, un'autovettura di tipo speciale con targa sei centocinquantaquattro giacca, è stato trovato parcheggiato su strisce pedonali. La violazione è stata contestata immediatamente dall'agente Giulia Costa e comporta la decurtazione di sei punti. È richiesta la stampa in francese e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "quattordici cinquantacinque",
+            "Strada_1": "viali della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "belgio",
+                    "targa": "sei centocinquantaquattro giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "onda arrivo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "diciannove",
+                    "comma": "diciassette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "about",
+            "lingua_stampa": "francesi",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo onda arrivo autovettura targa è sei centocinquantaquattro giacca di tipo speciale immatricolati in belgio per infrazioni commessa in data sette aprile duemilaventicinque ore quattordici cinquantacinque in viali della libertà civico ventidue è stato rilevato parcheggio su strisce pedonali ai sensi dell'articolo diciannove comma diciassette del codice penale contestazione immediata eseguita dal agente giulia costa la violazione comporta la decurtazione di sei punti richiesta stampa in francesi di about stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Honda HR-V autovettura, targa EF654GH di tipo speciale, immatricolato in belgio, per infrazione commessa in data 07/04/2025, ore 14:55. In viale della Libertà, civico 22, è stato rilevato parcheggio su strisce pedonali, ai sensi dell'articolo 19, comma 17, del codice penale. Contestazione immediata eseguita dall'agente Giulia Costa. La violazione comporta la decurtazione di 6 punti. Richiesta stampa in francese via bluetooth, stampa anche la comunicazione. "
+}

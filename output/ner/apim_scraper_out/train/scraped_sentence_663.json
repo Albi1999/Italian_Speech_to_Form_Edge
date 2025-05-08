@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo immatricolato in Spagna, parcheggiato in doppia fila in via della Libertà, civico 21. L'infrazione riguarda l'articolo 34, comma 32 del codice civile. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. Verrà decurtato un punto. La stampa deve essere effettuata in tedesco tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "spagna",
+                    "targa": "quattrocentocinquanta sei ci di",
+                    "tipologia_targa": "tipo copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentaquattro",
+                    "comma": "trentadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtati, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo mas da due ciclomotori immatricolati in spagna con targato quattrocentocinquanta sei ci di di tipo copertura l'infrazione e avvenuta in via della libertà civico ventuno parcheggia in doppia fila si applica l'articolo trentaquattro con ma trentadue del codice civile a seguito della violazione verranno decurtati un punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in tedesco tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Mazda 2, ciclomotore immatricolato in spagna con targa AB456CD di tipo copertura. L'infrazione è avvenuta in via della Libertà, civico 21: parcheggio in doppia fila. Si applica l'articolo 34, comma 32 del codice civile. A seguito della violazione verranno decurtati 1 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in tedesco tramite bluetooth, non stampare anche la comunicazione. "
+}

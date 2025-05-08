@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo ciclomotore marcato Idiota Aris, targato I e centoventitre chi lo litri, proveniente dalla Francia. L'infrazione è stata rilevata il venticinque aprile duemilaventicinque alle ore dieci e un quarto in piazza Venezia, civico uno, in zona a rimozione. La violazione riguarda l'articolo cinquantadue comma cinquanta del codice civile. L'agente Matteo Gallo ha provveduto alla contestazione immediata dell'infrazione, che comporta la perdita di due punti. Si richiede la stampa del verbale in olandese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "dieci e un quarto",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "i e centoventitre chi lo litri",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "idiota aris",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantadue",
+                    "comma": "cinquanta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: perdita, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo ciclomotori marcato idiota aris targato i e centoventitre chi lo litri di tipo copertura proveniente da francia l'infrazione e stata rilevata il venticinque aprile duemilaventicinque alle ore dieci e un quarto il veicolo si trovava in piazza venezia al civico uno in parcheggio in zona a rimozione violando l'articolo cinquantadue comma cinquanta del codice civile l'agente matteo gallo a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di due punti richiedo la stampa del verbale in olandese tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo ciclomotore, marca Toyota Yaris, targato IJ123KL (di tipo copertura), proveniente da francia.  L'infrazione è stata rilevata il 25/04/2025 alle ore 10:15. Il veicolo si trovava in piazza Venezia, al civico 1, in parcheggio in zona rimozione, violando l'articolo 52, comma 50, del codice civile. L'agente Matteo Gallo ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 2 punti.  Richiedo la stampa del verbale in olandese tramite wifi, stampa anche la comunicazione."
+}

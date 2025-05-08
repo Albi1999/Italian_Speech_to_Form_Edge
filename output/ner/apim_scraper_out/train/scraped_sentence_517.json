@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la redazione di un verbale per un ciclomotore immatricolato in Spagna, con targa \"icsi ypsilon novecentottanta sette giza\". La violazione è avvenuta il 15 aprile 2025 alle ore 17:49 in via della Vittoria, civico \"nave\". La violazione consiste nel parcheggio in divieto di sosta, violando l'articolo 53, comma 51 del codice stradale, con conseguente perdita di due punti. La stampa del verbale è richiesta in modalità \"hawaii fai\" e in lingua inglese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "diciassette quarantanove",
+            "Strada_1": "vittoria",
+            "Civico_1": "nave",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "spagna",
+                    "targa": "icsi ypsilon novecentottanta sette giza",
+                    "tipologia_targa": null,
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: perdita, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per ciclomotori marcare no catture targa icsi ypsilon novecentottanta sette giza di tipo speciale immatricolati in spagna in data quindici aprile duemilaventicinque alle ore diciassette quarantanove inviarle della vittoria al civico nave è stata commessa la seguente violazione parcheggio in divieto di sosta ti articolo cinquantatré coma cinquantuno del codice stradale dalla violazione con segue la perdita di due punti stampa in modalità hawaii fai è in lingua inglese stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per ciclomotore, marca Renault Captur, targa XY987ZA di tipo speciale, immatricolato in spagna. In data 15/04/2025 alle ore 17:49, in viale della Vittoria, al civico 9, è stata commessa la seguente violazione: parcheggio in divieto di sosta (articolo 53, comma 51 del codice stradale). Dalla violazione consegue la perdita di 2 punti. Stampa in modalità wifi e in lingua inglese, stampa anche la comunicazione. "
+}

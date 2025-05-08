@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo rimorchio di marca \"mai ypsilon zetas ferre sette\" con targa \"un vi centoventitre doppia ex\" tipo speciale, proveniente dalla Germania. L'infrazione è avvenuta il 12 aprile 2025 alle ore 21:30 in via Garibaldi, numero civico 11, per parcheggio davanti a passo carabine, violando l'articolo 47 comma 45 del codice stradale. La decurtazione prevista è di sette punti. La contestazione è immediata da parte dell'agente Carlo Bruni. La stampa del verbale è necessaria tramite Wi-Fi in inglese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "ventuno e trenta",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "un vi centoventitre doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "mai ypsilon zetas ferre sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo rimorchio di marca mai ypsilon zetas ferre sette con targa un vi centoventitre doppia ex tipo speciale proveniente da germania fatto avvenuto il dodici aprile duemilaventicinque alle ore ventuno e trenta posizione via garibaldi numero civico undici infrazione parcheggio davanti a passo carabine in violazione dell'articolo quarantasette comma quarantacinque del codice stradale decurtazione prevista sette punti si applica contestazione immediata da parte della gente carlo bruni stampa necessaria tramite vuoi fa in inglese non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo rimorchio di marca Yamaha YZF-R7, con targa UV123WX (tipo speciale), proveniente da germania.  Fatto avvenuto il 12/04/2025 alle ore 21:30. Posizione: via Garibaldi, numero civico 11. Infrazione: parcheggio davanti a passo carrabile, in violazione dell'articolo 47, comma 45, del codice stradale. Decurtazione prevista: 7 punti. Si applica contestazione immediata da parte dell'agente Carlo Bruni. Stampa necessaria tramite wifi in inglese, non stampare anche la comunicazione."
+}

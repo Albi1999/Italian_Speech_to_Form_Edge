@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo motoveicolo di marca Scivolo le Tracce con targa Guerre 987, tipo ufficiale, proveniente dal Belgio. L'infrazione è avvenuta il 21 aprile 2025 alle ore 24:33 in Corso della Giustizia, numero civico 23, per parcheggio davanti a passo carrabile, violando l'articolo 7 comma 5 del codice penale. La decurtazione prevista è di 7 punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa è necessaria tramite fax in olandese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "ventiquattro e trentatré",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "belgio",
+                    "targa": "guerre novecento ottantasette",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "scivolo le tracce",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "fa",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo motoveicoli di marca scivolo le tracce con targa guerre novecento ottantasette se ti tipo ufficiale proveniente da belgio fatto avvenuto il ventuno aprile duemilaventicinque alle ore ventiquattro e trentatré posizione corso della giustizia numero civico ventitré infrazione parcheggio davanti a passo cary abile in violazione dell'articolo sette comma cinque del codice penale decurtazione prevista sette punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite fa in olandese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo motoveicolo di marca Chevrolet Trax, con targa QR987ST (tipo ufficiale), proveniente da belgio. Fatto avvenuto il 21/04/2025 alle ore 00:33. Posizione: corso della Giustizia, numero civico 23. Infrazione: parcheggio davanti a passo carrabile, in violazione dell'articolo 7, comma 5, del codice penale. Decurtazione prevista: 7 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in olandese, stampa anche la comunicazione. "
+}

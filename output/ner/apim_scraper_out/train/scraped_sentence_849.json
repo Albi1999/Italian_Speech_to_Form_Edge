@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo con targa ufficiale proveniente dal Portogallo, che ha commesso un'infrazione di parcheggio in zona a rimozione. L'infrazione è avvenuta il primo maggio 2025 alle ore 6:30 in Corso Italia, civico 30. La violazione riguarda l'articolo 49, comma 47 del codice civile, con una decurtazione di 8 punti. Si richiede la stampa del preavviso in spagnolo via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "sei e trenta",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "portogallo",
+                    "targa": "beh quattrocentocinquanta sei ci di di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "chapas a chi zetas seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantanove",
+                    "comma": "quarantasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: punti",
+            "tipo_stampa": "brutus",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo chapas a chi zetas seicentocinquanta motoveicoli targa beh quattrocentocinquanta sei ci di di tipo ufficiale proveniente da portogallo il giorno primo maggio duemilaventicinque alle ore sei e trenta in corso italia al numero civico trenta e stata commessa l'infrazione di parcheggio in zona a rimozione come previsto dall'articolo quarantanove coma quarantasette del codice civile per questa violazione sono previsti otto punti di decurtazione chiedo la stampa del preavviso in spagnolo via brutus non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Kawasaki Z650 motoveicolo, targa AB456CD di tipo ufficiale, proveniente da portogallo. Il giorno 01/05/2025, alle ore 06:30, in corso Italia, al numero civico 30, è stata commessa l'infrazione di parcheggio in zona rimozione, come previsto dall'articolo 49, comma 47, del codice civile. Per questa violazione sono previsti 8 punti di decurtazione. Chiedo la stampa del preavviso in spagnolo via bluetooth, non stampare anche la comunicazione. "
+}

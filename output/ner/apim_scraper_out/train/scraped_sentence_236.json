@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo autovettura marca Masi, immatricolato in Francia, con targa ufficiale \"sei centocinquantaquattro c\". La violazione è avvenuta il 15 aprile 2025 alle ore 2:35 in via dei Giardini, senza specificare il numero civico, per parcheggio in doppia fila. La violazione è in base all'articolo 157, comma 5 del codice penale, con una decurtazione di 3 punti. Si richiede la stampa del preavviso in lingua portoghese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "due trentacinque",
+            "Strada_1": "dei giardini",
+            "Civico_1": null,
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "francia",
+                    "targa": "sei centocinquantaquattro c",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "masi",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo autovettura marca masi da chips tre targa sei centocinquantaquattro c di tipo ufficiale immatricolati in francia la violazione è avvenuta il quindici aprile duemilaventicinque alle ore due trentacinque inviare dei giardini al numero civico ed è relativa a parcheggia in doppia fila in base al l'articolo centocinquantasette con ma cinque del codice penale per tale violazione sono previsti tre punti di decurtazione si richiede la stampa di tale preavviso in lingua portoghese tramite blu tutta stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo autovettura, marca Mazda CX-3, targa AB654CD di tipo ufficiale, immatricolato in francia. La violazione è avvenuta il 15/04/2025 alle ore 02:35 in viale dei Giardini, al numero civico 8, ed è relativa a parcheggio in doppia fila, in base all'articolo 157, comma 5 del codice penale.Per tale violazione sono previsti 3 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua portoghese tramite bluetooth, stampa anche la comunicazione."
+}

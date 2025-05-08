@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata il venti aprile 2025 alle dieci e quarantaquattro in viale della libertà, civico ventidue. Il veicolo coinvolto è una macchina agricola con targa spagnola. La violazione riguarda il codice civile, articolo trentanove, comma trentasette, per parcheggio in doppia fila. La contestazione è stata immediata e effettuata dall'agente Silvia Neri, con redazione del verbale sul posto. Non è prevista alcuna sanzione accessoria. La stampa del verbale è tramite Bluetooth in italiano, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "dieci e quarantaquattro",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "abby sei centocinquantaquattro ci di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": "non posso applicare alcuna sanzione accessoria"
+                }
+            ],
+            "punti": "tra i punti da decurtare",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle dieci e quarantaquattro del venti aprile duemilaventicinque storie di gendo un verbale per il veicolo macchina agricola targato abby sei centocinquantaquattro ci di con targa copertura immatricolati in spagna l'infrazione e stata accertata in viale della libertà al civico ventidue con violazione del codice civile articolo trentanove coma trentasette per parcheggio in doppia fila sono previsti tra i punti da decurtare contestazione immediata effettuata dalla gente silvia neri il verbale è stato redatto sul posto in viale della libertà non posso applicare alcuna sanzione accessoria stampa tramite blu tutte in italiano non stampare anche la comunicazione",
+    "original_sentence": "Alle 10:44 del 20/04/2025, sto redigendo un verbale per il veicolo macchina agricola targato AB654CD con targa copertura, immatricolato in spagnaL'infrazione è stata accertata in viale della Libertà, al civico 22, con violazione del codice civile, articolo 39,comma 37 per parcheggio in doppia fila Sono previsti 3 punti da decurtare. Contestazione immediata effettuata dall'agente Silvia Neri, il verbale è stato redatto sul posto in viale della Libertà. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in italiano, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il ventidue aprile duemilaventicinque alle ore mezzogiorno e cinquanta. Un verbale è stato elevato al veicolo Renault Clio, immatricolato in Francia, per violazione dell'articolo ventisei, comma ventiquattro del codice stradale, per parcheggio davanti a passo carabine. La violazione è stata rilevata in via della giustizia al civico sedici. La contestazione è stata immediata e ha portato alla decurtazione di otto punti. La stampa del verbale è richiesta in lingua italiana via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "mezzogiorno e cinquanta",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "ubi novecentottanta sette doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "reno clio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventisei",
+                    "comma": "ventiquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: derivano, after: punti",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventidue aprile duemilaventicinque alle ore è mezzogiorno e cinquanta si eleva verbale al veicolo reno clio macchina agricola con targa ubi novecentottanta sette doppia ex di tipo speciale immatricolati in francia per violazione dell'articolo ventisei con ma ventiquattro del codice stradale ovvero parcheggio davanti a passo carabine rilevata in via della giustizia al civico sedici la contestazione stata immediata effettuata dalla gente carlo bruni dalla violazione derivano otto punti di decurtazione stampa necessaria in lingua italiano via blu tutta stampa anche la comunicazione",
+    "original_sentence": "In data 22/04/2025, alle ore 12:50, si eleva verbale al veicolo Renault Clio, macchina agricola con targa UV987WX di tipo speciale, immatricolato in francia, per violazione dell'articolo 26, comma 24 del codice stradale, ovvero parcheggio davanti a passo carrabile, rilevata in via della Giustizia, al civico 16.La contestazione è stata immediata, effettuata dall'agente Carlo Bruni. Dalla violazione derivano 8 punti di decurtazione. Stampa necessaria in lingua italiano via bluetooth, stampa anche la comunicazione."
+}

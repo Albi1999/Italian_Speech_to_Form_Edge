@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un'infrazione di parcheggio in zona a rimozione, commessa il 7 aprile 2025 alle 7:58 in Corso della Libertà, civico 7. Il veicolo coinvolto è un rimorchio Onda Jets, targa ICSI Ypsilon 320 1 SA, di tipo speciale, proveniente dall'Italia. La violazione riguarda l'articolo 35, comma 33 del codice stradale, con una decurtazione di 7 punti. La stampa del preavviso è richiesta in olandese via Bluetooth, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "sette cinquantotto",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "italia",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "onda jets",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo onda jets rimorchio targa icsi ypsilon trecentoventi uno sa di tipo speciale proveniente da italia il giorno sette aprile duemilaventicinque alle ore sette cinquantotto in corso della libertà al numero civico sette stata commessa l'infrazione di parcheggio in zona a rimozione come previsto dall'articolo trentacinque comma trentatré del codice stradale per questa violazione sono previsti sette punti di decurtazione cedola stampa del preavviso in olandese via blu about non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Honda Jazz rimorchio, targa XY321ZA di tipo speciale, proveniente da italia. Il giorno 07/04/2025, alle ore 07:58, in corso della Libertà, al numero civico 7, è stata commessa l'infrazione di parcheggio in zona rimozione, come previsto dall'articolo 35, comma 33, del codice stradale.Per questa violazione sono previsti 7 punti di decurtazione. Chiedo la stampa del preavviso in olandese via bluetooth, non stampare anche la comunicazione."
+}

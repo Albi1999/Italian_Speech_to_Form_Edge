@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un'autovettura Suzuki con targa di prova immatricolata in Germania. La violazione è avvenuta il 26 aprile 2025 alle 14:06 in Piazza Venezia, civico 1, per parcheggio su strisce pedonali, violando l'articolo 21 comma 19 del codice stradale. La violazione comporta la perdita di quattro punti. La stampa del verbale è richiesta in modalità Hawaii e in lingua portoghese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "quattordici e sei minuti",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "centoventitre ci di di",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "suzuki",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: perdita, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per autovettura marca suzuki invitare targa centoventitre ci di di tipo prova immatricolati in germania in data ventisei aprile duemilaventicinque alle ore quattordici e sei minuti in piazza venezia al civico uno e stata commessa la seguente violazione parcheggio su strisce pedonali articolo ventuno comma diciannove del codice stradale dalla violazione con segue la perdita di quattro punti stampa in modalità hawaii fai è in lingua portoghese non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per autovettura, marca Suzuki Vitara, targa AB123CD di tipo prova, immatricolato in germania. In data 26/04/2025 alle ore 14:06, in piazza Venezia, al civico 1, è stata commessa la seguente violazione: parcheggio su strisce pedonali (articolo 21, comma 19 del codice stradale).Dalla violazione consegue la perdita di 4 punti.Stampa in modalità wifi e in lingua portoghese, non stampare anche la comunicazione."
+}

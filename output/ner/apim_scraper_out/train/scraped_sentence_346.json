@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 22 aprile 2025 alle ore 13:33 in via della Storia, civico 6. La violazione riguarda un veicolo Cedro Le Spark con targa 789 occhi, immatricolato in Italia, per parcheggio davanti a passo carabine, secondo l'articolo 51 comma 49 del codice stradale. La contestazione è avvenuta immediatamente da parte dell'agente Matteo Gallo, con una decurtazione di 7 punti. Si richiede la stampa in lingua inglese via Hawaii, con inclusione della comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "tredici e trentatré",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "italia",
+                    "targa": "sette centottantanove occhi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "cedro le spark",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantuno",
+                    "comma": "quarantanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il ventidue aprile duemilaventicinque alle ore tredici e trentatré in via della storia al civico sei a carico del veicolo cedro le spark molto veicolo con targa sette centottantanove occhi di tipo speciale immatricolati in italia la violazione contestata e parcheggio davanti a passo carabine in base all'articolo cinquantuno comma quarantanove del codice stradale la contestazione e avvenuta immediatamente da parte della gente matteo gallo sono previsti sette punti di decurtazione si richiede la stampa in lingua inglese via hawaii fai stampa anche la comunicativa",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 22/04/2025 alle ore 13:33 in via della Storia, al civico 6, a carico del veicolo Chevrolet Spark, motoveicolo con targa MN789OP di tipo speciale, immatricolato in italia. La violazione contestata è parcheggio davanti a passo carrabile, in base all'articolo 51, comma 49 del codice stradale.La contestazione è avvenuta immediatamente da parte dell'agente Matteo Gallo. Sono previsti 7 punti di decurtazione. Si richiede la stampa in lingua inglese via wifi, stampa anche la comunicazione."
+}

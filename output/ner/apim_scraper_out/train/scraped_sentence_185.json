@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il ventuno aprile duemilaventicinque alle ore quindici e quattordici per un veicolo immatricolato in Germania. L'infrazione è stata rilevata in via Venti Settembre, civico cinque, per violazione del codice penale, articolo trentasei, comma trentaquattro, riguardante un parcheggio in zona a rimozione. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare sette punti. Il veicolo è un Ford Fiesta bianco. La stampa del preavviso è richiesta tramite Wi-Fi in olandese, con inclusione della comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "quindici quattordici",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "germania",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "ford fiesta",
+                    "colore": "bianco"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentasei",
+                    "comma": "trentaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventuno aprile duemilaventicinque alle ore quindici quattordici è stato notificato un preavviso per un molto veicolo targato icsi ypsilon trecentoventi uno sa con targa copertura immatricolati in germania l'infrazione e stata rilevata in via venti settembre al civico cinque con violazione del codice penale articolo trentasei comma trentaquattro in particolare si riscontrato un parcheggio in zona a rimozione non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono sette punti il veicolo è un ford fiesta di colore bianco con numero di telaio novecento trentotto milioni e quattrocentottanta quattromila cinquecento novantotto e massa duemilaottocento ventiquattro chilogrammi necessita la stampa del preavviso tramite vuoi fai in olandese stampa anche la comunicativa",
+    "original_sentence": "In data 21/04/2025, alle ore 15:14, è stato notificato un preavviso per un motoveicolo targato XY321ZA con targa copertura, immatricolato in germania. L'infrazione è stata rilevata in via XX Settembre, al civico 5, con violazione del codice penale, articolo 36, comma 34, in particolare si è riscontrato un parcheggio in zona rimozione Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 7 punti. Il veicolo è un Ford Fiesta di colore bianco, con numero di telaio 938484598 e massa 2824 kg.Necessito la stampa del preavviso tramite wifi, in olandese, stampa anche la comunicazione."
+}

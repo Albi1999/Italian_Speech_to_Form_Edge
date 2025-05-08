@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un'infrazione commessa da un veicolo \"moto gustibus sette macchina agricola\" con targa \"i gia quattrocentocinquanta sei capelli\" immatricolato in Belgio. L'infrazione è avvenuta il quattro maggio duemilaventicinque alle ore uno in via Giuseppe Mazzini, civico ventiquattro, per parcheggio in zona a rimozione. La violazione è ai sensi dell'articolo sette comma quindici del codice penale. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di due punti. È richiesta la stampa in tedesco via \"hawaii fai\" e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "un",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "moto gustibus sette macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "i gia quattrocentocinquanta sei capelli",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo moto gustibus sette macchina agricola targa i gia quattrocentocinquanta sei capelli di tipo speciale immatricolati in belgio per infrazione commessa in data quattro maggio duemilaventicinque ore un e quindi in via giuseppe mazzini civico ventiquattro è stato rilevato parcheggio in zona a rimozione ai sensi dell'articolo sette comma quindici del codice penale impossibile effettuare la contestazione immediata assenza del trasgressori la violazione comporta la decurtazione di due punti richiesta stampa in tedesco via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Moto Guzzi V7 macchina agricola, targa IJ456KL di tipo speciale, immatricolato in belgio, per infrazione commessa in data 04/05/2025, ore 01:15. In via Giuseppe Mazzini, civico 24, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 7, comma 15, del codice penale. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 2 punti. Richiesta stampa in tedesco via wifi, stampa anche la comunicazione. "
+}

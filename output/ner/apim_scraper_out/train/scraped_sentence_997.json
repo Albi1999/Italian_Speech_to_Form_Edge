@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione stradale avvenuta il 23 aprile 2025 alle ore 15:33. Un verbale è stato elevato al veicolo \"tooth aris\", un'autovettura con targa \"guerre 450 6 e se ti\" di tipo prova, immatricolata in Slovenia. La violazione riguarda l'articolo 1228 comma 16 del codice stradale per parcheggio in zona a rimozione, rilevata in corso Italia al civico 30. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di 10 punti. È richiesta la stampa in lingua inglese e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "quindici trentatré",
+            "Strada_1": "corso Italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "guerre quattrocentocinquanta sei e se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "mille e duecentoventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: derivano, after: decurtazione",
+            "tipo_stampa": null,
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventitré aprile duemilaventicinque alle ore quindici trentatré si eleva verbale al veicolo tooth aris autovettura con targa guerre quattrocentocinquanta sei e se ti di tipo prova immatricolati in slovenia per violazione dell'articolo mille e duecentoventotto coma sedici del codice stradale ovvero parcheggio in zona a rimozione rilevata in corso italia al civico trenta non è stato possibile effettuare la contestazione immediata per assenza del trasgressori dalla violazione derivano dieci punti di decurtazione stampa necessaria in lingua inglese di about stampa anche la comunicazione",
+    "original_sentence": "In data 23/04/2025, alle ore 15:33, si eleva verbale al veicolo Toyota Yaris, autovettura con targa QR456ST di tipo prova, immatricolato in slovenia, per violazione dell'articolo 1228, comma 16 del codice stradale, ovvero parcheggio in zona rimozione, rilevata in corso Italia, al civico 30. Non è stato possibile effettuare la contestazione immediata, per assenza del trasgressore. Dalla violazione derivano 10 punti di decurtazione. Stampa necessaria in lingua inglese via bluetooth, stampa anche la comunicazione. "
+}

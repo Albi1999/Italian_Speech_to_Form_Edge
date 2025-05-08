@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 22 aprile 2025 alle 8:39 per un veicolo con targa austriaca, tipo prova, in via Roma al civico 77. L'infrazione riguarda il codice stradale, articolo 51, comma 49, per parcheggio in zona a rimozione. Sono decurtati 9 punti e applicata una sanzione accessoria. Il veicolo è un rimorchio di colore oro. La stampa è richiesta in portoghese tramite Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "otto e trentanove",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "quattrocentocinquanta sei occhi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": "oro"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantuno",
+                    "comma": "quarantanove",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventidue aprile duemilaventicinque alle otto e trentanove sto mettendo una notifica di infrazione per il veicolo si tronchi quattro cat rimorchio immatricolati austria con targa quattrocentocinquanta sei occhi di tipo prova l'infrazione si e verificata presto via roma al civico settantasette violando il codice stradale in particolare l'articolo cinquantuno con ma quarantanove riguardante il parcheggio in zona a rimozione devo decurtare nove punti applico una sanzione accessoria in base alle circostanze il rimorchio e di colore oro con numero di telaio trecentotrentasei milioni e novecentosessanta seimilasettecento novantacinque massa millesettecento quarantacinque chilogrammi stampa me lo con il blu tutti in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Il 22/04/2025, alle ore 08:39, sto emettendo una notifica di infrazione per il veicolo Citroen C4 Cactus, rimorchio immatricolato in austria con targa MN456OP di tipo prova. L'infrazione si è verificata presso via Roma, al civico 77, violando il codice stradale, in particolare l'articolo 51, comma 49 riguardante il parcheggio in zona rimozione.Devo decurtare 9 punti. Applico una sanzione accessoria in base alle circostanze. Il rimorchio è di colore oro, con numero di telaio 336966795 e massa 1745 kg.Stampamelo con il bluetooth in portoghese, non stampare anche la comunicazione."
+}

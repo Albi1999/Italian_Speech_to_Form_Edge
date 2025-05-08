@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo macchina operatrice marca Onda Cibi Jerry 650, targato I che 654, proveniente dalla Spagna. L'infrazione è stata rilevata il 17 aprile 2025 alle ore 2:04. Il veicolo era parcheggiato in divieto di sosta in viale della Libertà, civico 22, violando l'articolo 40 comma 38 del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 5 punti. Si richiede la stampa del verbale in tedesco tramite Wi-Fi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "due quattro minuti",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "i che sei centocinquantaquattro",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "onda cibi jerry seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: perdita, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina operatrice marca onda cibi jerry seicentocinquanta targato i che sei centocinquantaquattro chilometri di tipo copertura proveniente da spagna l'infrazione e stata rilevata il diciassette aprile duemilaventicinque alle ore due quattro minuti il veicolo si trovava in viale della libertà al civico ventidue in parcheggiato in divieto di sosta violando l'articolo quaranta comma trentotto del codice penale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazione comporta la perdita di cinque punti richiedo la stampa del verbale in tedesco tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina operatrice, marca Honda CBR650R, targato IJ654KL (di tipo copertura), proveniente da spagna.  L'infrazione è stata rilevata il 17/04/2025 alle ore 02:04. Il veicolo si trovava in viale della Libertà, al civico 22, in parcheggio in divieto di sosta, violando l'articolo 40, comma 38, del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 5 punti.  Richiedo la stampa del verbale in tedesco tramite wifi, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un'infrazione stradale. Il veicolo coinvolto è un'autovettura di marca Piaceva 208 con targa speciale proveniente dalla Svizzera. L'infrazione è avvenuta il 27 aprile 2025 alle ore 9:25 in via Giuseppe Mazzini, numero civico 24. La violazione riguarda il parcheggio davanti a un passo carraio, in violazione dell'articolo 21, comma 19 del codice stradale, con una decurtazione di 8 punti. La contestazione è immediata e viene eseguita dall'agente Marco Gentili. La stampa del verbale è richiesta tramite Bluetooth e in lingua tedesca, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "nove venticinque",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "svizzera",
+                    "targa": "icsi ypsilon trecentoventi uno",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "piaceva duecentotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo autovettura di marca piaceva duecentotto con targa icsi ypsilon trecentoventi uno tipo speciale proveniente da svizzera fatto avvenuto il ventisette aprile duemilaventicinque alle ore nove venticinque posizione via giuseppe mazzini numero civico ventiquattro infrazione parcheggio davanti a passo carabine in violazione dell'articolo ventuno comma diciannove del codice stradale decurtazione prevista otto punti si applica contestazione immediata da parte della gente marco gentili stampa necessaria tramite blu tutti in tedesco non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo autovettura di marca Peugeot 208, con targa XY321ZA (tipo speciale), proveniente da svizzera.  Fatto avvenuto il 27/04/2025 alle ore 09:25. Posizione: via Giuseppe Mazzini, numero civico 24. Infrazione: parcheggio davanti a passo carrabile, in violazione dell'articolo 21, comma 19, del codice stradale. Decurtazione prevista: 8 punti. Si applica contestazione immediata da parte dell'agente Marco Gentili. Stampa necessaria tramite bluetooth in tedesco, non stampare anche la comunicazione."
+}

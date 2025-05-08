@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo rimorchio marca Lancia Ypsilon, targato 'guerre novecentottanta sette se ti', proveniente dalla Spagna. L'infrazione è stata rilevata il 2 maggio 2025 alle ore 15:34 in via della Pace, civico 2, per parcheggio in divieto di sosta, violando l'articolo 38 comma 36 del codice stradale. L'agente Carlo Bruni ha provveduto alla contestazione immediata dell'infrazione, che comporta la perdita di tre punti. Si richiede la stampa del verbale in olandese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "quindici e trentaquattro",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "spagna",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "lancia i ypsilon",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentotto",
+                    "comma": "trentasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo rimorchio marca lancia i ypsilon targato guerre novecentottanta sette se ti di tipo copertura proveniente da spagna l'infrazione e stata rilevata il due maggio duemilaventicinque alle ore quindici e trentaquattro il veicolo si trovava in via della pace al civico due in parcheggiato in divieto di sosta violando l'articolo trentotto comma trentasei del codice stradale l'agente carlo bruni a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di tre punti richiedo la stampa del verbale in olandese tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo rimorchio, marca Lancia Ypsilon, targato QR987ST (di tipo copertura), proveniente da spagna.  L'infrazione è stata rilevata il 02/05/2025 alle ore 15:34. Il veicolo si trovava in via della Pace, al civico 2, in parcheggio in divieto di sosta, violando l'articolo 38, comma 36, del codice stradale. L'agente Carlo Bruni ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 3 punti.  Richiedo la stampa del verbale in olandese tramite wifi, stampa anche la comunicazione."
+}

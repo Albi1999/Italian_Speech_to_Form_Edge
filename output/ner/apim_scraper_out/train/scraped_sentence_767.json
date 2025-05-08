@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo operatore con matricola in Spagna, per infrazioni avvenute il quattro maggio duemilaventicinque. La violazione riguarda il transito in zona ad accesso vietato, ai sensi dell'articolo quarantasette del codice civile. Non è possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di nove punti. È richiesta la stampa in tedesco via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": null,
+            "Strada_1": null,
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": null,
+                    "tipologia_targa": null,
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazioni immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazioni, after: punti",
+            "tipo_stampa": "via blackout",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo chi ha pianto macchina operatrice te che hai gia settecento ottantanove capelli di tipo copertura i matricola tu in spagna per infrazioni come sei andata quattro maggio duemilaventicinque un hai cinque invierò ma civico settantasette è stato rilevato transito in zona accesso vietato ai sensi dell'articolo quarantasette come quarantacinque del codice civile è impossibile effettuare la contestazioni immediata assenza del trasgressori la violazioni comporta la decurtazioni di nove punti richiesta stampa in tedesco via blackout non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Kia Picanto macchina operatrice, targa IJ789KL di tipo copertura, immatricolato in spagna, per infrazione commessa in data 04/05/2025, ore 01:05. In via Roma, civico 77, è stato rilevato transito in zona accesso vietato, ai sensi dell'articolo 47, comma 45, del codice civile. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 9 punti. Richiesta stampa in tedesco via bluetooth, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la redazione di un verbale per un ciclomotore marca Moto Gozzi, targa ME 789, immatricolato in Croazia. La violazione è avvenuta l'11 aprile 2025 alle 19:35 in via dei Giardini, civico 8, per parcheggio in divieto di sosta, articolo 9, comma 7 del codice civile. La violazione comporta la perdita di cinque punti. La stampa del verbale è richiesta in modalità WiFi e in lingua portoghese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "diciannove trentacinque",
+            "Strada_1": "via dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "me ne sette centottantanove",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "moto gozzi fu sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: perdita, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per ciclomotori marca moto gozzi fu sette targa me ne sette centottantanove ho più di tipo ufficiale immatricolati in croazia in data undici aprile duemilaventicinque alle ore diciannove trentacinque inviare dei giardini al civic otto e stata commessa la seguente violazione parcheggio in divieto di sosta articolo nove con ma sette del codice civile dalla violazioni con segue la perdita di cinque punti stampa in modalita wifi è in lingua portoghese stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per ciclomotore, marca Moto Guzzi V7, targa MN789OP di tipo ufficiale, immatricolato in croazia. In data 11/04/2025 alle ore 19:35, in viale dei Giardini, al civico 8, è stata commessa la seguente violazione: parcheggio in divieto di sosta (articolo 9, comma 7 del codice civile). Dalla violazione consegue la perdita di 5 punti. Stampa in modalità wifi e in lingua portoghese, stampa anche la comunicazione. "
+}

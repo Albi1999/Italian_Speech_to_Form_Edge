@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il dodici aprile duemilaventicinque alle ore quindici e quarantacinque per un'infrazione stradale. L'infrazione è avvenuta in corso Italia al civico trenta, con una violazione del codice stradale articolo centottantacinque, comma due, per parcheggio in divieto di sosta. Il veicolo coinvolto è un'autovettura immatricolata in Olanda con targa guerra e novecentottanta sette, di tipo prova. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti un punto da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è richiesta in spagnolo tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "quindici e quarantacinque",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "olanda",
+                    "targa": "guerra e novecentottanta sette",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: da",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno dodici aprile duemilaventicinque alle ore quindici e quarantacinque è stato redatto un verbale per il veicolo tra un street ripley autovettura immatricolati in olanda con targa guerra e novecentottanta sette se ti di tipo prova l'infrazione e avvenuta in corso italia al civico trenta e stata riscontrata una violazione del codice stradale articolo centottantacinque con ma due ovvero parcheggio in divieto di sosta non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti un punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in spagnolo tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 12/04/2025, alle ore 15:45, è stato redatto un verbale per il veicolo Triumph Street Triple, autovettura immatricolato in olanda con targa QR987ST di tipo prova. L'infrazione è avvenuta in corso Italia, al civico 30. È stata riscontrata una violazione del codice stradale, articolo 185, comma 2 ovvero parcheggio in divieto di sostaNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 1 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in spagnolo tramite bluetooth, non stampare anche la comunicazione. "
+}

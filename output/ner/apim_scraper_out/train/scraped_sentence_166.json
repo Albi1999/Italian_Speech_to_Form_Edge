@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il venticinque aprile duemilaventicinque alle ore diciotto e quarantacinque per un veicolo macchina operatrice di marca storica con targa speciale registrato in Spagna. L'infrazione è avvenuta in via della Repubblica venti e via dei Fori Imperiali al numero dieci, per parcheggio in divieto di sosta secondo l'articolo venti comma diciotto del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario. Sono previsti quattro punti di decurtazione. Si richiede la stampa tramite Bluetooth in lingua portoghese, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "diciotto i quarantacinque",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "ubi quattrocentocinquanta sei doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "storiche",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: previsti, after: di",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data venticinque aprile duemilaventicinque alle ore diciotto i quarantacinque stato emesso un preavviso di violazione per il veicolo macchina operatrice di marca chi ha storiche con targa ubi quattrocentocinquanta sei doppia ex tipo speciale registrato in spagna l'infrazione avvenuta in via della repubblica venti via dei fori imperiali al numero dieci e consiste in parcheggio in divieto di sosta come previsto dall'articolo venti comma diciotto del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti quattro punti di decurtazione si prega di stampare la presente notifica tramite blu in lingua portoghese stampa anche la comunicativa",
+    "original_sentence": "Si notifica che in data 25/04/2025, alle ore 18:45, è stato emesso un preavviso di violazione per il veicolo macchina operatrice di marca Kia Stonic, con targa UV456WX (tipo speciale), registrato in spagna. L'infrazione è avvenuta in via della Repubblica, 20via dei Fori Imperiali, al numero 10, e consiste in parcheggio in divieto di sosta, come previsto dall'articolo 20, comma 18 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 4 punti di decurtazione.  Si prega di stampare la presente notifica tramite bluetooth, in lingua portoghese, stampa anche la comunicazione."
+}

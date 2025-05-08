@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il 26 aprile 2025 alle ore 3:30. È stato elevato un verbale al veicolo Benelli Leoncino 500, immatricolato in Germania, per violazione dell'articolo 10, comma 8 del codice penale, per parcheggio in doppia fila. La violazione è stata rilevata in via della Repubblica 20 e via dei Fori Imperiali al civico 10. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 2 punti. La stampa è richiesta in lingua italiana tramite Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "tre e mezzo",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "dieci",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "i quattrocentocinquanta sei chi lo litri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "ben elli leoncino cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "dieci",
+                    "comma": "otto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: derivano, after: di",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventisei aprile duemilaventicinque alle ore tre e mezzo si eleva verbale al veicolo ben elli leoncino cinquecento autovettura con targa i quattrocentocinquanta sei chi lo litri di tipo speciale immatricolati in germania per violazione dell'articolo dieci con ma otto del codice penale o vero parcheggia in doppia fila rilevata in via della repubblica venti via dei fori imperiali al civico dieci non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano due punti di decurtazione stampa necessaria in lingua italiano via blood non stampare anche la comunicazione",
+    "original_sentence": "In data 26/04/2025, alle ore 03:30, si eleva verbale al veicolo Benelli Leoncino 500, autovettura con targa IJ456KL di tipo speciale, immatricolato in germania, per violazione dell'articolo 10, comma 8 del codice penale, ovvero parcheggio in doppia fila, rilevata in via della Repubblica, 20via dei Fori Imperiali, al civico 10.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 2 punti di decurtazione. Stampa necessaria in lingua italiano via bluetooth, non stampare anche la comunicazione."
+}

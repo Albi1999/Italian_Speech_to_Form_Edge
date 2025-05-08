@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta il 3 maggio 2025 alle 14:11, riguardante un veicolo Audi A3 immatricolato in Olanda con targa speciale. L'infrazione si è verificata in via della Libertà, civico 3, violando il codice penale, articolo 24, comma 22, per parcheggio su strisce pedonali. Sono stati decurtati 6 punti, senza sanzioni accessorie. Il veicolo è un ciclomotore viola con numero di telaio 970467168 e massa 3818 kg. La stampa è richiesta in spagnolo tramite Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "quattordici e undici",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "olanda",
+                    "targa": "guerra e settecento ottantanove",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "audi a tre",
+                    "colore": "viola"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventiquattro",
+                    "comma": "ventidue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: decurtare, after: punti",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il tre maggio duemilaventicinque alle ora i quattordici e undici sto mettendo una notifica di infrazione per il veicolo audi a tre ciclomotori immatricolati in olanda con targa guerra e settecento ottantanove se ti di tipo speciale l'infrazione si e verificata presso via della libertà al civico tre violando il codice penale in particolare l'articolo ventiquattro con ma ventidue riguardante il parcheggio su strisce pedonali devo decurtare sei punti non è necessaria alcuna sanzione accessoria il ciclo motore di colore viola con numero di telaio nove e sette zero quattro sei sette uno sei otto e massa tremila ottocento diciotto chi li stampa me lo con il blu tutti in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Il 03/05/2025, alle ore 14:11, sto emettendo una notifica di infrazione per il veicolo Audi A3, ciclomotore immatricolato in olanda con targa QR789ST di tipo speciale. L'infrazione si è verificata presso via della Libertà, al civico 3, violando il codice penale, in particolare l'articolo 24, comma 22 riguardante il parcheggio su strisce pedonali. Devo decurtare 6 punti. Non è necessaria alcuna sanzione accessoria. Il ciclomotore è di colore viola, con numero di telaio 970467168 e massa 3818 kg. Stampamelo con il bluetooth in spagnolo, non stampare anche la comunicazione. "
+}

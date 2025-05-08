@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo ciclomotore di marca MAS con targa proveniente dalla Francia. L'infrazione è avvenuta il 10 aprile 2025 alle ore 3:04 in viale della Vittoria, numero civico 9, per transito in zona di accesso vietato, violando l'articolo 6, comma 4 del codice stradale. La decurtazione prevista è tra i punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è richiesta tramite Wi-Fi in lingua spagnola, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "tre quattro minuti",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "guerra sei centocinquantaquattro",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "mas da chips stare",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tra i punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo ciclomotori di marca mas da chips stare con targa guerra sei centocinquantaquattro e se ti tipo copertura proveniente da francia fatto avvenuto il dieci aprile duemilaventicinque alle ore tre quattro minuti posizione viale della vittoria numero civico nove infrazione transito in zona accesso vietato in violazione dell'articolo sei comma quattro del codice stradale decurtazione prevista tra i punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite vuoi fai in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo ciclomotore di marca Mazda CX-3, con targa QR654ST (tipo copertura), proveniente da francia.  Fatto avvenuto il 10/04/2025 alle ore 03:04. Posizione: viale della Vittoria, numero civico 9. Infrazione: transito in zona accesso vietato, in violazione dell'articolo 6, comma 4, del codice stradale. Decurtazione prevista: 3 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in spagnolo, non stampare anche la comunicazione."
+}

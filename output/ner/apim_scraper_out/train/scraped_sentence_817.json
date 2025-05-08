@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il cinque maggio duemilaventicinque alle tre quarantasei per un veicolo ciclomotore di marca Camac, registrato in Italia. La violazione è avvenuta in via della Speranza al numero diciotto, per parcheggio davanti a passo carrabile, secondo l'articolo cinque comma tre del codice stradale. Non essendo stato possibile identificare il conducente, la notifica è inviata al proprietario del veicolo. Sono previsti dieci punti di decurtazione. Si richiede la stampa della notifica tramite WiFi in lingua italiana, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "tre quarantasei",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "italia",
+                    "targa": "ubu sei centocinquantaquattro doppia x i",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "camac tre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: di",
+            "tipo_stampa": "wife ehi",
+            "lingua_stampa": "italiana",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data cinque maggio duemilaventicinque alle tre quarantasei è stato emesso un preavviso di violazioni per il veicolo ciclomotori di marca camac tre contenga ubu sei centocinquantaquattro doppia x i tipo copertura registrato in italia l'inflazione è avvenuta in via della speranza al numero diciotto e consiste in parcheggio davanti a passo arabi come previsto dall'articolo cinque come tre del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti dieci punti di decurtazione si prega di stampare la presente notifica tramite wife ehi in lingua italiana non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 05/05/2025, alle ore 03:46, è stato emesso un preavviso di violazione per il veicolo ciclomotore di marca Mazda CX-3, con targa UV654WX (tipo copertura), registrato in italia. L'infrazione è avvenuta in via della Speranza, al numero 18, e consiste in parcheggio davanti a passo carrabile, come previsto dall'articolo 5, comma 3 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 10 punti di decurtazione. Si prega di stampare la presente notifica tramite wifi, in lingua italiano, non stampare anche la comunicazione. "
+}

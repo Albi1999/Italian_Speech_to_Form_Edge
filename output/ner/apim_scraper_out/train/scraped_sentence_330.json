@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo immatricolato in Grecia, parcheggiato in divieto di sosta in viale della Libertà, civico 22, il 2 maggio 2025 alle ore 1:48. La violazione è ai sensi dell'articolo 12, comma 10 del codice penale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di un punto. La stampa è richiesta in inglese via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "una e quarantotto",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "nucleo rimorchio",
+                    "nazione": "grecia",
+                    "targa": "quattrocentocinquanta sei occhi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: decurtazione, after: ponti",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo re nucleo rimorchio targa quattrocentocinquanta sei occhi di tipo prova immatricolati in grecia per infrazione commessa in data due maggio duemilaventicinque ore una e quarantotto in viale della libertà civico ventidue è stato rilevato parcheggiato in divieto di sosta ai sensi dell'articolo dodici comma dieci del codice penale impossibile effettuare la contestazione immediata vista all'assenza del trasgressori la violazione comporta la decurtazione di uno ponti richiesta stampa in inglese via blu tu non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Renault Clio rimorchio, targa MN456OP di tipo prova, immatricolato in grecia, per infrazione commessa in data 02/05/2025, ore 01:48. In viale della Libertà, civico 22, è stato rilevato parcheggio in divieto di sosta, ai sensi dell'articolo 12, comma 10, del codice penale.Impossibile effettuare la contestazione immediata vista l'assenza del trasgressore. La violazione comporta la decurtazione di 1 punti. Richiesta stampa in inglese via bluetooth, non stampare anche la comunicazione."
+}

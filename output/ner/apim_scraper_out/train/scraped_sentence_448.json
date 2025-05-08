@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 20 aprile 2025 alle ore 22:41 per una violazione riscontrata su un veicolo macchina agricola marca Ebbro, targato ICSI Ypsilon 987, proveniente dalla Spagna. La violazione è avvenuta in corso Italia, civico 30, per parcheggio in divieto di sosta, violando l'articolo 3, comma 1 del codice penale. L'agente Francesco Rizzo ha proceduto con contestazione immediata e si prevede la decurtazione di quattro punti dalla patente. La stampa è richiesta in spagnolo via Hawaii, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "ventidue quarantuno",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "icsi ypsilon novecentottanta sette",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "ebbro lettera",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "via hawaii",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data venti aprile duemilaventicinque alle ore ventidue quarantuno per la violazione riscontrata al veicolo macchina agricola marca ebbro lettera targato icsi ypsilon novecentottanta sette tipo prova proveniente da spagna in particolare in corso italia civico trenta è stato accertato parcheggio in divieto di sosta in violazione dell'articolo tre con ma uno del codice penale l'agente francesco rizzo a proceduto con contestazione immediata si prevede la decurtazione di quattro punti dalla patente richiedo la stampa in spagnolo via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 20/04/2025 alle ore 22:41 per la violazione riscontrata al veicolo macchina agricola, marca Chevrolet Trax, targato XY987ZA (tipo prova) proveniente da spagna. In particolare, in corso Italia, civico 30, è stato accertato parcheggio in divieto di sosta, in violazione dell'articolo 3, comma 1 del codice penale. L'agente Francesco Rizzo ha proceduto con contestazione immediata. Si prevede la decurtazione di 4 punti dalla patente. Richiedo la stampa in spagnolo via wifi, stampa anche la comunicazione."
+}

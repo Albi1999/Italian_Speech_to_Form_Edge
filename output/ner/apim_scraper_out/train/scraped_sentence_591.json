@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo ciclomotore proveniente dall'Austria, con targa \"trecentoventi uno ci di di tipo speciale\". La violazione riguarda il parcheggio su strisce pedonali in via Roma, numero civico 77, avvenuta il 15 aprile 2025 alle ore 7:59. La violazione è in base all'articolo 17, comma 15 del codice stradale, con una decurtazione di 9 punti. Si richiede la stampa del preavviso tramite AIFA in lingua spagnola, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "sette cinquantanove",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "austria",
+                    "targa": "trecentoventi uno ci di di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "mary charlie devi street settecentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "aifa",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo ciclomotori mary charlie devi street settecentocinquanta targato trecentoventi uno ci di di tipo speciale proveniente da austria in data quindici aprile duemilaventicinque alle ore sette cinquantanove e stata rilevata la violazione di parcheggio su strisce pedonali in via roma al numero settantasette in base a l'articolo diciassette coma quindici del codice stradali per tale infrazione sono previsti nove punti di decurtazione si richiede la stampa del preavviso tramite aifa in lingua spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo ciclomotore, marca Harley-Davidson Street 750, targato AB321CD di tipo speciale, proveniente da austria. In data 15/04/2025 alle ore 07:59, è stata rilevata la violazione di parcheggio su strisce pedonali in via Roma, al numero 77, in base all'articolo 17, comma 15 del codice stradale. Per tale infrazione sono previsti 9 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua spagnolo, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo Alfa Romeo Giulietta con rimorchio, immatricolato in Francia, che ha commesso un'infrazione il 29 aprile 2025 alle 7:53. L'infrazione è avvenuta in Corso Vittorio Emanuele, numero 15, dove il veicolo era parcheggiato in zona a rimozione. L'articolo violato è il 27, comma 25 del codice civile, e verranno tolti 10 punti dalla patente. Il verbale deve essere stampato via Hawaii in lingua francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "sette cinquantatré",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "è men centoventitre oh piedi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "alfa romeo e giulietta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventisette",
+                    "comma": "venticinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo alfa romeo e giulietta rimorchio con targa è men centoventitre oh piedi tipo copertura immatricolati in francia per un'infrazione commessa il ventinove aprile duemilaventicinque alle sette cinquantatré l'infrazione e avvenuta in corso vittorio emanuele al numero quindici dove il veicolo era in parcheggio in zona a rimozione l'articolo violato è il ventisette comma venticinque del codice civile verranno tolti dieci punti dalla patente stampa questo verbale via hawaii fai in francese non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Alfa Romeo Giulietta, rimorchio con targa MN123OP di tipo copertura, immatricolato in francia, per un'infrazione commessa il 29/04/2025 alle 07:53. L'infrazione è avvenuta in corso Vittorio Emanuele, al numero 15, dove il veicolo era in parcheggio in zona rimozione. L'articolo violato è il 27, comma 25 del codice civile. Verranno tolti 10 punti dalla patente. Stampa questo verbale via wifi in francese, non stampare anche la comunicazione. "
+}

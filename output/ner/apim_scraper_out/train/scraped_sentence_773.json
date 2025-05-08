@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sei maggio duemilaventicinque alle ore sedici e quarantanove per una violazione riscontrata su un veicolo ciclomotore marca Si Roba, targato sette centottantanove occhi, proveniente dal Belgio. La violazione è avvenuta in viale della Concordia, civico tredici, per parcheggio su strisce pedonali, violando l'articolo venti ma diciotto del codice penale. La contestazione non è stata immediata a causa dell'assenza del conducente. Sono previsti cinque punti di decurtazione dalla patente. La stampa è richiesta in olandese, tramite vi hawaii fai, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "sedici e quarantanove",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "belgio",
+                    "targa": "sette centottantanove occhi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "si roba",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: decurtazioni, after: punti",
+            "tipo_stampa": "vi hawaii fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data sei maggio duemilaventicinque alle ore sedici e quarantanove per la violazione riscontrata al veicolo ciclomotori marca si roba una targato sette centottantanove occhi tipo copertura proveniente da belgio in particolare in viale della concordia civico tredici è stato accertato parcheggio su strisce pedonali in violazione dell'articolo venti ma diciotto del codice penale data l'assenza del conducente la contestazioni non è stata immediata si prevede la decurtazioni di cinque punti dalla patente richiedo la stampa in olandese vi hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 06/05/2025 alle ore 16:49 per la violazione riscontrata al veicolo ciclomotore, marca Seat Arona, targato MN789OP (tipo copertura) proveniente da belgio. In particolare, in viale della Concordia, civico 13, è stato accertato parcheggio su strisce pedonali, in violazione dell'articolo 20, comma 18 del codice penale. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 5 punti dalla patente. Richiedo la stampa in olandese via wifi, non stampare anche la comunicazione. "
+}

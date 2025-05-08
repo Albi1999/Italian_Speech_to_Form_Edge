@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo macchina operatrice targato \"vuoi centoventitre doppia west\" di tipo speciale proveniente dalla Grecia. La violazione riguarda il parcheggio in divieto di sosta, verificata il dodici aprile duemilaventicinque alle ore quattordici e quarantasette in corso Buenos Aires al numero novantotto. L'infrazione rientra nell'articolo quarantacinque come quarantatré del codice penale. La contestazione è stata immediata da parte dell'agente Sara Bellini e la sanzione prevede la perdita di sette punti. Si richiede la stampa in lingua italiana tramite \"fai\" e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "quattordici e quarantasette",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "grecia",
+                    "targa": "vuoi centoventitre doppia west",
+                    "tipologia_targa": null,
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrice targato vuoi centoventitre doppia west di tipo speciale proveniente da grecia manca un dai con la violazione ovvero parcheggiata in divieto di sosta sia verificata in data dodici aprile duemilaventicinque alle ore quattordici e quarantasette in corso buenos aires al numero novantotto l'infrazione rientra nell'articolo quarantacinque come quarantatré del codice penale contestazione immediata da parte della gente sara bellini la sanzione prevede la perdita di sette punti si richiede la stampa in lingua italiano tramite fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato UV123WX di tipo speciale proveniente da grecia, marca Hyundai Kona. La violazione, ovvero parcheggio in divieto di sosta, si è verificata in data 12/04/2025 alle ore 14:47 in corso Buenos Aires, al numero 98. L'infrazione rientra nell'articolo 45, comma 43 del codice penale. Contestazione immediata da parte dell'agente Sara Bellini. La sanzione prevede la perdita di 7 punti. Si richiede la stampa in lingua italiano, tramite wifi, stampa anche la comunicazione. "
+}

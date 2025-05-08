@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo motoveicolo di marca \"mi subisci hai\" con targa \"è me ne quattrocentocinquanta sei hope\" proveniente dalla Germania. L'infrazione è avvenuta l'undici aprile duemilaventicinque alle ore nove undici in via della Concordia, numero civico quattordici. Il veicolo era parcheggiato in divieto di sosta, violando l'articolo venti comma diciotto del codice penale. La decurtazione prevista è di otto punti. La contestazione è stata eseguita immediatamente dall'agente Mario Rossi. La stampa del verbale è necessaria tramite \"fa\" in olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "nove undici",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "germania",
+                    "targa": "è me ne quattrocentocinquanta sei hope",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "mi subisci hai",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "fa",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo motoveicoli di marca mi subisci hai con targa è me ne quattrocentocinquanta sei hope tipo copertura proveniente da germania fatto avvenuto i l'undici aprile duemilaventicinque alle ore nove undici posizione via della concordia numero civico quattordici infrazione parcheggiato in divieto di sosta in violazione dell'articolo venti comma diciotto del codice penale decurtazione prevista otto punti si applica contestazione immediata da parte della gente mario rossi stampa necessaria tramite fa in olandese non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo motoveicolo di marca Mitsubishi ASX, con targa MN456OP (tipo copertura), proveniente da germania. Fatto avvenuto il 11/04/2025 alle ore 09:11. Posizione: via della Concordia, numero civico 14. Infrazione: parcheggio in divieto di sosta, in violazione dell'articolo 20, comma 18, del codice penale. Decurtazione prevista: 8 punti. Si applica contestazione immediata da parte dell'agente Mario Rossi. Stampa necessaria tramite wifi in olandese, non stampare anche la comunicazione. "
+}

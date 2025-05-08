@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un rimorchio marca Peggio 208, targa JEFF 234, di tipo speciale, immatricolato in Spagna. La violazione è avvenuta il 6 aprile 2025 alle 18:39 in Corso della Storia, civico 22, per transito in zona accesso vietato, violando l'articolo 6, comma 1, del codice penale. La violazione comporta la perdita di 4 punti. La stampa è richiesta in modalità Hawaii WiFi e in lingua tedesca, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "diciotto e trentanove",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "spagna",
+                    "targa": "jeff duecentotrentaquattro",
+                    "tipologia_targa": null,
+                    "marca_modello": "peggio duecentotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sei",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: perdita, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per rimorchio marca peggio duecentotto targa jeff duecentotrentaquattro di tipo speciale immatricolati in spagna in data sei aprile duemilaventicinque alle ore diciotto e trentanove in corso della storia al civico ventidue e stata commessa la seguente violazione transito in zona accesso vietato articolo sei con ma prima uno dodici del codice penale dalla violazione con segue la perdita di quattro punti stampa in modalità hawaii fai è in lingua tedesco non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per rimorchio, marca Peugeot 208, targa FG234LM di tipo speciale, immatricolato in spagna. In data 06/04/2025 alle ore 18:39, in corso della Storia, al civico 22, è stata commessa la seguente violazione: transito in zona accesso vietato (articolo 6, comma 1a(1-12) del codice penale).Dalla violazione consegue la perdita di 4 punti.Stampa in modalità wifi e in lingua tedesco, non stampare anche la comunicazione."
+}

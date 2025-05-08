@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 8 aprile 2025 alle 22:46 per una violazione riscontrata su un veicolo macchina operatrice marca Amico Subisci Colte, targato AB 789 CD, di tipo speciale proveniente dalla Francia. La violazione è avvenuta in corso della Storia, civico 22, per parcheggio in zona a rimozione, violando l'articolo 157, comma 5 del codice civile. L'agente Matteo Gallo ha proceduto con contestazione immediata e si prevede la decurtazione di 4 punti dalla patente. La stampa è richiesta in portoghese via Hawaii, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "ventidue quarantasei",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "francia",
+                    "targa": "ab sette centottantanove ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "amico subisci colte",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data otto aprile duemilaventicinque alle ore ventidue quarantasei per la violazione riscontrata al veicolo macchina operatrice marca amico subisci colte targato ab sette centottantanove ci di tipo speciale proveniente da francia in particolare in corso della storia civico ventidue è stato accertato parcheggio in zona a rimozione in violazione dell'articolo centocinquantasette con ma cinque del codice civile l'agente matteo gallo a proceduto con contestazione immediata si prevede la decurtazione di quattro punti dalla patente richiedo la stampa in portoghese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 08/04/2025 alle ore 22:46 per la violazione riscontrata al veicolo macchina operatrice, marca Mitsubishi Colt, targato AB789CD (tipo speciale) proveniente da francia. In particolare, in corso della Storia, civico 22, è stato accertato parcheggio in zona rimozione, in violazione dell'articolo 157, comma 5 del codice civile. L'agente Matteo Gallo ha proceduto con contestazione immediata. Si prevede la decurtazione di 4 punti dalla patente. Richiedo la stampa in portoghese via wifi, non stampare anche la comunicazione."
+}

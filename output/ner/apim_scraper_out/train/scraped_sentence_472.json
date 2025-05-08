@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la notifica di un preavviso per un veicolo Seat Ibiza, macchina operatrice, con targa ufficiale proveniente dalla Francia. L'infrazione è avvenuta il 4 maggio 2025 alle ore 1:55 in via Roma, civico 77, per parcheggio in zona a rimozione, violando l'articolo 28 comma 26 del codice penale. Sono previsti sei punti di decurtazione. Si richiede la stampa del preavviso in inglese via Hawaii e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattro omaggio duemilaventicinque",
+            "ora_violazione": "due meno cinque",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "francia",
+                    "targa": "guerra sette centottantanove se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "seat ibiza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventotto",
+                    "comma": "ventisei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo seat ibiza macchina operatrice targa guerra sette centottantanove se ti di tipo ufficiale proveniente da francia il giorno quattro omaggio duemilaventicinque alle ore due meno cinque in via roma al numero civico settantasette stata commessa l'infrazione di parcheggio in zona a rimozione come previsto dall'articolo ventotto comma ventisei del codice penale per questa violazione sono previsti sei punti di decurtazione chiedo stampa del preavviso in inglese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Seat Ibiza macchina operatrice, targa QR789ST di tipo ufficiale, proveniente da francia. Il giorno 04/05/2025, alle ore 01:55, in via Roma, al numero civico 77, è stata commessa l'infrazione di parcheggio in zona rimozione, come previsto dall'articolo 28, comma 26, del codice penale.Per questa violazione sono previsti 6 punti di decurtazione. Chiedo la stampa del preavviso in inglese via wifi, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 15 aprile 2025 alle ore 8:07 in Corso della Storia, civico 22. La violazione riguarda un veicolo Mercedes Classe A, macchina agricola, con targa belga di tipo prova. La violazione contestata è il transito in zona accesso vietato, secondo l'articolo 49, comma 47 del codice penale. La contestazione è avvenuta immediatamente da parte dell'agente Carlo Bruni. Sono previsti sei punti di decurtazione. Si richiede la stampa in lingua portoghese via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "otto sette minuti",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantanove",
+                    "comma": "quarantasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il quindici aprile duemilaventicinque alle ore otto sette minuti in corso della storia al civico ventidue a carico del veicolo mercedes classe a macchina agricola con targa guerre novecentottanta sette se ti di tipo prova immatricolati in belgio la violazione contestata e transito in zona accesso vietato in base all'articolo quarantanove comma quarantasette del codice penale la contestazione e avvenuta immediatamente da parte della gente carlo bruni sono previsti sei punti di decurtazione si richiede la stampa in lingua portoghese via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 15/04/2025 alle ore 08:07 in corso della Storia, al civico 22, a carico del veicolo Mercedes Classe A, macchina agricola con targa QR987ST di tipo prova, immatricolato in belgio. La violazione contestata è transito in zona accesso vietato, in base all'articolo 49, comma 47 del codice penale.La contestazione è avvenuta immediatamente da parte dell'agente Carlo Bruni. Sono previsti 6 punti di decurtazione. Si richiede la stampa in lingua portoghese via bluetooth, non stampare anche la comunicazione."
+}

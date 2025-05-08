@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo ciclomotore di marca Chapas con targa proveniente dalla Croazia. L'infrazione è avvenuta il 14 aprile 2025 alle ore 10:02 in Corso della Storia, numero civico 22. La violazione riguarda il parcheggio in zona a rimozione, in violazione dell'articolo 45, comma 43 del codice civile, con una decurtazione di 7 punti. La contestazione è stata eseguita immediatamente dall'agente Marco Gentili. La stampa del verbale è necessaria tramite Bluetooth in portoghese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "dieci e due",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "i sette centottantanove capelli",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "chapas a in in già seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazioni immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo ciclomotori di marca chapas a in in già seicentocinquanta con targa i sette centottantanove capelli tipo copertura proveniente da croazia fatto avvenuto il quattordici aprile duemilaventicinque alle ore dieci e due posizione corso della storia numero civico ventidue infrazione parcheggia in zona a rimozione in violazione dell'articolo quarantacinque con ma quarantatré del codice civile decurtazione prevista sette punti si applica contestazioni immediata da parte della gente marco gentili stampa necessaria tramite blu tutti in portoghese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo ciclomotore di marca Kawasaki Ninja 650, con targa IJ789KL (tipo copertura), proveniente da croazia. Fatto avvenuto il 14/04/2025 alle ore 10:02. Posizione: corso della Storia, numero civico 22. Infrazione: parcheggio in zona rimozione, in violazione dell'articolo 45, comma 43, del codice civile. Decurtazione prevista: 7 punti. Si applica contestazione immediata da parte dell'agente Marco Gentili. Stampa necessaria tramite bluetooth in portoghese, stampa anche la comunicazione. "
+}

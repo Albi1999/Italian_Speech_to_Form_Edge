@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Yamaha Meticce con rimorchio, immatricolato in Slovenia, con targa speciale. L'infrazione è avvenuta in via della Speranza, civico 18, per transito in zona accesso vietato. Si applica l'articolo 45, comma 43 del codice stradale, con la decurtazione di uno punto. Il verbale è stato contestato immediatamente dall'agente Chiara Romano. La stampa deve essere effettuata in inglese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "slovenia",
+                    "targa": "quattrocentocinquanta sei più",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "yamaha meticce",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo yamaha meticce sette rimorchio immatricolati slovenia con targa quattrocentocinquanta sei più di tipo speciale l'infrazione avvenuta in via della speranza civico diciotto transito in zona accesso vietato si applica l'articolo quarantacinque comma quarantatré del codice stradale a seguito della violazione verranno decurtati uno punti il verbale è stato contestato immediatamente dall'agente chiara romano si prega di procedere con la stampa in inglese tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Yamaha MT-07, rimorchio immatricolato in slovenia con targa MN456OP di tipo speciale. L'infrazione è avvenuta in via della Speranza, civico 18: transito in zona accesso vietato. Si applica l'articolo 45, comma 43 del codice stradale. A seguito della violazione verranno decurtati 1 punti.Il verbale è stato contestato immediatamente dall'agente Chiara Romano. Si prega di procedere con la stampa in inglese tramite bluetooth, non stampare anche la comunicazione."
+}

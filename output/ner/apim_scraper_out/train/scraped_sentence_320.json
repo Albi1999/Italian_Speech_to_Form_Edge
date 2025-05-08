@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo speciale proveniente dalla Spagna, con targa I Ypsilon 320 1 SA. L'infrazione è stata rilevata il 26 aprile 2025 alle 00:47 in Corso Italia, civico 30, per violazione dell'articolo 39, comma 37 del codice civile. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 8 punti. Si richiede la stampa del verbale in italiano tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte e quarantasette",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "spagna",
+                    "targa": "i ypsilon trecentoventi uno sa",
+                    "tipologia_targa": null,
+                    "marca_modello": "idiota aris",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: perdita, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo molto veicolo marcato idiota aris targato i ypsilon trecentoventi uno sa di tipo speciale proveniente da spagna l'infrazione e stata rilevata il ventisei aprile duemilaventicinque alle ore mezzanotte e quarantasette il veicolo si trovava in corso italia al civico trenta in parcheggio davanti a passo carabine violando l'articolo trentanove comma trentasette del codice civile non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazione comporta la perdita di otto punti richiedo la stampa del verbale in italiano tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo motoveicolo, marca Toyota Yaris, targato XY321ZA (di tipo speciale), proveniente da spagna.  L'infrazione è stata rilevata il 26/04/2025 alle ore 00:47. Il veicolo si trovava in corso Italia, al civico 30, in parcheggio davanti a passo carrabile, violando l'articolo 39, comma 37, del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 8 punti.  Richiedo la stampa del verbale in italiano tramite wifi, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un'infrazione stradale. Il veicolo coinvolto è un Renault Captur con rimorchio, targa ICSI Ypsilon 387, di tipo prova, immatricolato in Francia. L'infrazione è avvenuta il 7 aprile 2025 alle 1:10 in via della Musica, numero 18, dove il veicolo era parcheggiato su strisce pedonali. L'articolo violato è il 49, comma 47 del codice stradale, con la conseguente decurtazione di 10 punti dalla patente. La stampa del verbale è richiesta via Hawaii e in lingua portoghese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "una e dieci",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "icsi ypsilon trecentottantasette",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "reno cattura",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantanove",
+                    "comma": "quarantasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo reno cattura rimorchio con targa icsi ypsilon trecentottantasette di tipo prova immatricolati in francia per un'infrazione commessa il sette aprile duemilaventicinque alle una e dieci l'infrazione avvenuta in via della musica al numero diciotto dove il veicolo era in parcheggio su strisce pedonali l'articolo violato è il quarantanove comma quarantasette del codice stradale verranno tolti dieci punti dalla patente stampa questo verbale via hawaii fai in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Renault Captur, rimorchio con targa XY987ZA di tipo prova, immatricolato in francia, per un'infrazione commessa il 07/04/2025 alle 01:10. L'infrazione è avvenuta in via della Musica, al numero 18, dove il veicolo era in parcheggio su strisce pedonali.  L'articolo violato è il 49, comma 47 del codice stradale. Verranno tolti 10 punti dalla patente. Stampa questo verbale via wifi in portoghese, non stampare anche la comunicazione."
+}

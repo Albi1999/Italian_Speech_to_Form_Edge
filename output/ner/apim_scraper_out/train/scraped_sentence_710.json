@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da un veicolo agricolo. La violazione è avvenuta il 2 maggio 2025 alle 14:32 in Corso della Giustizia, civico 23. Il veicolo, una macchina agricola immatricolata in Belgio, ha parcheggiato davanti a un passo carabine, violando l'articolo 38, comma 36 del codice civile. La violazione comporta la perdita di sei punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua italiana, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "quattordici e trentadue",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "zia quattrocentocinquanta sei cupi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "si roba",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentotto",
+                    "comma": "trentasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: perdita, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina agricola marca si roba una targa zia quattrocentocinquanta sei cupi di tipo copertura immatricolati in belgio in data due maggio duemilaventicinque alle ore quattordici e trentadue in corso della giustizia al civico ventitré e stata commessa la seguente violazione parcheggio davanti a passo carabine articolo trentotto comma trentasei del codice civile dalla violazione con segue la perdita di sei punti stampa i modalità blu tutte in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina agricola, marca Seat Arona, targa ZA456QP di tipo copertura, immatricolato in belgio. In data 02/05/2025 alle ore 14:32, in corso della Giustizia, al civico 23, è stata commessa la seguente violazione: parcheggio davanti a passo carrabile (articolo 38, comma 36 del codice civile). Dalla violazione consegue la perdita di 6 punti. Stampa in modalità bluetooth e in lingua italiano, non stampare anche la comunicazione. "
+}

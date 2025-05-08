@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo Lancia Delta con targa di prova proveniente dalla Grecia. L'infrazione è avvenuta il 7 aprile 2025 alle 20:25 in via della Speranza, civico 17, per parcheggio in doppia fila, violando l'articolo 17, comma 15 del codice penale. Sono previsti quattro punti di decurtazione. Si richiede la stampa del preavviso in portoghese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "venti e venticinque",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "grecia",
+                    "targa": "how trecentoventi uno doppia wings",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "lancia delta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "piu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "tutte"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo lancia delta ciclomotori targa how trecentoventi uno doppia wings di tipo prova proveniente da grecia il giorno sette aprile duemilaventicinque alle ore venti e venticinque in via della speranza al numero civico diciassette e stata commessa l'infrazione di parcheggia in doppia fila come previsto dall'articolo diciassette ma quindici del codice penale per questa violazione sono previsti quattro punti di decurtazione chiedo da stampa del preavviso in portoghese via piu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Lancia Delta ciclomotore, targa UV321WX di tipo prova, proveniente da grecia. Il giorno 07/04/2025, alle ore 20:25, in via della Speranza, al numero civico 17, è stata commessa l'infrazione di parcheggio in doppia fila, come previsto dall'articolo 17, comma 15, del codice penale. Per questa violazione sono previsti 4 punti di decurtazione. Chiedo la stampa del preavviso in portoghese via bluetooth, stampa anche la comunicazione. "
+}

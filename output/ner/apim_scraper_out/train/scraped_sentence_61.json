@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il primo maggio 2025 alle ore 20:27 per un veicolo immatricolato in Portogallo con targa specifica. L'infrazione è avvenuta in via Venti Settembre, civico 5, per una violazione del codice civile, articolo 40, comma 38, riguardante il parcheggio in doppia fila. La contestazione è stata eseguita immediatamente sul posto dall'agente Giulia Costa. Sono previsti otto punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa del verbale è in italiano tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "primo omaggio duemilaventicinque",
+            "ora_violazione": "venti e ventisette",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "portogallo",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "chapas a in in già seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: da",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno primo omaggio duemilaventicinque alle ore venti e ventisette è stato redatto un verbale per il veicolo chapas a in in già seicentocinquanta rimorchio immatricolati in portogallo con targa i sette centottantanove chi lo litri di tipo copertura l'infrazione e avvenuta in via venti settembre al civico cinque stata riscontrata una violazione del codice civile articolo quaranta comma trentotto vero parcheggia in doppia fila verbale è stato eseguito sul posto con contestazione immediata da parte della gente giulia costa sono previsti otto punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in italiano tramite blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 01/05/2025, alle ore 20:27, è stato redatto un verbale per il veicolo Kawasaki Ninja 650, rimorchio immatricolato in portogallo con targa IJ789KL di tipo copertura.L'infrazione è avvenuta in via XX Settembre, al civico 5. È stata riscontrata una violazione del codice civile, articolo 40, comma 38 ovvero parcheggio in doppia filaIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Giulia Costa. Sono previsti 8 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in italiano tramite bluetooth, non stampare anche la comunicazione."
+}

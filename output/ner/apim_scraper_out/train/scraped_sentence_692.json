@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il ventidue aprile duemilaventicinque alle ore sette e due per una violazione del codice stradale. La violazione è avvenuta in via Roma, civico settantasette, e riguarda un veicolo Fiat Cinquecento con rimorchio, targa sei centocinquantaquattro doppia v w x, di tipo ufficiale. La violazione consiste nel parcheggio in zona a rimozione. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti otto punti da decurtare, senza sanzioni accessorie. La stampa è richiesta in spagnolo tramite Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "sette e due",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": null,
+                    "targa": "sei centocinquantaquattro doppia v w x",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fiat cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantadue",
+                    "comma": "cinquanta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: da",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventidue aprile duemilaventicinque alle ore sette e due è stato redatto un verbale per il veicolo fiat cinquecento rimorchio immatricolati non con contenga sei centocinquantaquattro doppia v w x di tipo ufficiale l'inflazione è avvenuta in via roma ha il civico settantasette e stata riscontrata una violazione del codice stradale articolo cinquantadue come cinquanta ovvero parcheggio in zona a rimozione non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti otto punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in spagnolo tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 22/04/2025, alle ore 07:02, è stato redatto un verbale per il veicolo Fiat 500, rimorchio immatricolato in olanda con targa UV654WX di tipo ufficiale. L'infrazione è avvenuta in via Roma, al civico 77. È stata riscontrata una violazione del codice stradale, articolo 52, comma 50 ovvero parcheggio in zona rimozioneNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 8 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in spagnolo tramite bluetooth, non stampare anche la comunicazione. "
+}

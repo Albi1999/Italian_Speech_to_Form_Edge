@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 25 aprile 2025 alle ore 22:31 in viale della Scienza, civico 14. La violazione riguarda un veicolo Fiat Cinquecento, macchina operatrice, con targa speciale immatricolata in Svizzera, per parcheggio su strisce pedonali. La contestazione immediata non è stata possibile per assenza del trasgressore. Sono previsti otto punti di decurtazione. Si richiede la stampa in lingua inglese tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "ventidue trentuno",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrici",
+                    "nazione": "svizzera",
+                    "targa": "guerra e quattrocentocinquanta sei e se ti",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "fiat cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "non è stato possibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: di",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si sta dicendo verbale per violazione accertata il venticinque aprile duemilaventicinque alle ore ventidue trentuno in viale della scienza al civico quattordici a carico del veicolo fiat cinquecento macchina operatrici con targa guerra e quattrocentocinquanta sei e se ti di tipo speciale immatricolati in svizzera la violazione contestata e parcheggio su strisce pedonali in base all'articolo articolo ventuno con ma diciannove del codice stradale non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti otto punti di decurtazione si richiede la stampa in lingua inglese di hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 25/04/2025 alle ore 22:31 in viale della Scienza, al civico 14, a carico del veicolo Fiat 500, macchina operatrice con targa QR456ST di tipo speciale, immatricolato in svizzera. La violazione contestata è parcheggio su strisce pedonali, in base all'articolo 21, comma 19 del codice stradale. Non è stato possibile contestare immediatamente, per assenza del trasgressore. Sono previsti 8 punti di decurtazione. Si richiede la stampa in lingua inglese via wifi, stampa anche la comunicazione. "
+}

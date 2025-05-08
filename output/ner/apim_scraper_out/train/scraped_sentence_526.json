@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il sei aprile duemilaventicinque alle ore diciassette e quarantasei per un'infrazione rilevata in via della libertà al civico ventuno. La violazione riguarda il codice civile, articolo ventidue, comma venti, per parcheggio in doppia fila. Il veicolo coinvolto è una macchina agricola targata jeff 654, immatricolata in Belgio, di colore argento. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare dieci punti. La stampa del preavviso è richiesta tramite Bluetooth in olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "diciassette i quarantasei",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "jeff sei centocinquantaquattro gia",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": "argento"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventidue",
+                    "comma": "venti",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in dato a sei aprile duemilaventicinque alle ore diciassette i quarantasei è stato notificato un preavviso per un macchina agricola targato jeff sei centocinquantaquattro gia con targa speciale immatricolati in belgio l'infrazione e stata rilevata in via della libertà al civico ventuno con violazione del codice civile articolo ventidue comma venti in particolare si e riscontrato un parcheggio in doppia fila non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono dieci punti il veicolo è un se avrò la tua ex di colore argento con numero di telaio otto tre otto due cinque e sette cinque sei otto e massa milletrecento due chili necessita la stampa del preavviso tramite blu tutte in olandese non stampare anche la comunicazione",
+    "original_sentence": "In data 06/04/2025, alle ore 17:46, è stato notificato un preavviso per un macchina agricola targato EF654GH con targa speciale, immatricolato in belgio. L'infrazione è stata rilevata in via della Libertà, al civico 21, con violazione del codice civile, articolo 22, comma 20, in particolare si è riscontrato un parcheggio in doppia fila Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 10 punti. Il veicolo è un Chevrolet Trax di colore argento, con numero di telaio 838257568 e massa 1302 kg. Necessito la stampa del preavviso tramite bluetooth, in olandese, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo Reno Clio, macchina operatrice, con targa speciale immatricolata in Germania. L'infrazione è avvenuta il cinque maggio duemilaventicinque alle dieci e tre minuti in via della Concordia, numero quattordici, dove il veicolo era parcheggiato davanti a passo carabine. L'articolo violato è il cinquanta comma quarantotto del codice stradale, con la decurtazione di uno punto dalla patente. La stampa del verbale è richiesta via Hawaii, in inglese, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "dieci e tre minuti",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "germania",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "reno clio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquanta",
+                    "comma": "quarantotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: tolti, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo reno clio macchina operatrice con targa i sette centottantanove chi lo litri di tipo speciale immatricolati in germania per un'infrazione commessa il cinque maggio duemilaventicinque alle dieci e tre minuti l'infrazione è avvenuta in via della concordia al numero quattordici dove il veicolo era in parcheggio davanti a passo carabine l'articolo violato è il cinquanta comma quarantotto del codice stradale verranno tolti uno punti dalla patente stampa questo verbale via hawaii fai in inglese stampa anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Renault Clio, macchina operatrice con targa IJ789KL di tipo speciale, immatricolato in germania, per un'infrazione commessa il 05/05/2025 alle 10:03. L'infrazione è avvenuta in via della Concordia, al numero 14, dove il veicolo era in parcheggio davanti a passo carrabile.  L'articolo violato è il 50, comma 48 del codice stradale. Verranno tolti 1 punti dalla patente. Stampa questo verbale via wifi in inglese, stampa anche la comunicazione."
+}

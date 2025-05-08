@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un'infrazione commessa da un veicolo agricolo con targa slovena. L'infrazione è avvenuta il 25 aprile 2025 alle ore 5:01 in via della Speranza, civico 18, per parcheggio in doppia fila. La contestazione è stata immediata, eseguita dall'agente Alessandro Moretti, e comporta la decurtazione di nove punti. La stampa del verbale è richiesta in portoghese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "cinque un minuto",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "slovenia",
+                    "targa": "me centoventitre oh piedi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "onda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventotto",
+                    "comma": "ventisei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo onda macchina agricola targa me centoventitre oh piedi tipo prova immatricolati slovenia per infrazione commessa in data venticinque aprile duemilaventicinque ore cinque un minuto in via della speranza civico diciotto è stato rilevato parcheggio in doppia fila ai sensi dell'articolo ventotto comma ventisei del codice penale contestazione immediata eseguita dal agente alessandro moretti la violazione comporta la decurtazione di nove punti richiesta stampa in portoghese via blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Honda HR-V macchina agricola, targa MN123OP di tipo prova, immatricolato in slovenia, per infrazione commessa in data 25/04/2025, ore 05:01. In via della Speranza, civico 18, è stato rilevato parcheggio in doppia fila, ai sensi dell'articolo 28, comma 26, del codice penale. Contestazione immediata eseguita dall'agente Alessandro Moretti. La violazione comporta la decurtazione di 9 punti. Richiesta stampa in portoghese via bluetooth, non stampare anche la comunicazione. "
+}

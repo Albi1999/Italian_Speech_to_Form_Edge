@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione emessa il 24 aprile 2025 alle ore 10:26 per un veicolo immatricolato in Portogallo con targa ufficiale. L'infrazione è avvenuta in corso Buenos Aires, civico 98, violando il codice civile, articolo 34, comma 32, riguardante il parcheggio su strisce pedonali. Sono stati decurtati 5 punti e applicata una sanzione accessoria. Il veicolo è un motoveicolo arancione. La stampa è richiesta via WiFi in lingua portoghese, includendo la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "dieci e ventisei",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "portogallo",
+                    "targa": "quattrocentocinquanta sei occhi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": "arancione"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentaquattro",
+                    "comma": "trentadue",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "vuoi fahim",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventiquattro aprile duemilaventicinque alle ore dieci e ventisei sto mettendo una notifica di infrazione per il veicolo cappa ti sette centonovanta di oh molto veicolo immatricolati portogallo con targa quattrocentocinquanta sei occhi di tipo ufficiale l'infrazione si e verificata presto corso buenos aires al civico novantotto violando il codice civile in particolare l'articolo trentaquattro comma trentadue riguardante il parcheggio su strisce pedonali devo decurtare cinque punti applico una sanzione accessoria in base alle circostanze il molto veicolo e di colore arancione con numero di telaio seicento tre milioni e settantotto mila duecentotrenta e massa duemilatrecento cinquanta chilogrammi stampa me lo con il vuoi fahim portoghese stampa anche la comunicazione",
+    "original_sentence": "Il 24/04/2025, alle ore 10:26, sto emettendo una notifica di infrazione per il veicolo KTM 790 Duke, motoveicolo immatricolato in portogallo con targa MN456OP di tipo ufficiale. L'infrazione si è verificata presso corso Buenos Aires, al civico 98, violando il codice civile, in particolare l'articolo 34, comma 32 riguardante il parcheggio su strisce pedonali.Devo decurtare 5 punti. Applico una sanzione accessoria in base alle circostanze. Il motoveicolo è di colore arancione, con numero di telaio 603078230 e massa 2350 kg.Stampamelo con il wifi in portoghese, stampa anche la comunicazione."
+}

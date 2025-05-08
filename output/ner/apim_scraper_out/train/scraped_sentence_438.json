@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Audi A3, immatricolato in Grecia con targa speciale. L'infrazione è avvenuta in via della Libertà, civico 21, per transito in zona di accesso vietato. Si applica l'articolo 17, comma 15 del codice civile, con la decurtazione di otto punti. Il verbale è stato contestato immediatamente dall'agente Marco Gentili. La stampa deve essere effettuata in tedesco tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "grecia",
+                    "targa": "ubi trecentoventi uno doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "audi a tre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtati, after: punti",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo audi a tre ciclomotori e immatricolati in grecia con targa ubi trecentoventi uno doppia ex di tipo speciale l'infrazione avvenuta in via della libertà civico ventuno transito in zona accesso vietato si applica l'articolo diciassette con ma quindici del codice civile a seguito della violazione verranno decurtati otto punti il verbale è stato contestato immediatamente dalla gente marco gentili si prega di procedere con la stampa in tedesco tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Audi A3, ciclomotore immatricolato in grecia con targa UV321WX di tipo speciale. L'infrazione è avvenuta in via della Libertà, civico 21: transito in zona accesso vietato. Si applica l'articolo 17, comma 15 del codice civile. A seguito della violazione verranno decurtati 8 punti.Il verbale è stato contestato immediatamente dall'agente Marco Gentili. Si prega di procedere con la stampa in tedesco tramite bluetooth, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo registrato in Svizzera, targato VI 123 XX, trovato parcheggiato in divieto di sosta in via della Libertà, civico 3, il 13 aprile 2025 alle 4:11. La violazione riguarda l'articolo 23, comma 21 del codice stradale e comporta una decurtazione di 3 punti. La stampa dell'avviso è prevista via Bluetooth, in portoghese, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "quattro e undici",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "svizzera",
+                    "targa": "vi centoventitre doppia ex",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "onda cibi seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventitré",
+                    "comma": "ventuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: decurtazione, after: punti",
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo onda cibi seicentocinquanta autovettura targato vi centoventitre doppia ex con targa copertura registrato in svizzera per un fatto accaduto il tredici aprile duemilaventicinque alle quattro e undici il veicolo si trovava in via della libertà al civico tre dove è stato riscontrato parcheggiato in divieto di sosta in base all'articolo ventitré comma ventuno del codice stradale questa infrazione comporta una decurtazione di tre punti genere alla stampa dell'avviso via blu tutti in portoghese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Honda CBR650R, autovettura, targato UV123WX con targa copertura, registrato in svizzera,  per un fatto accaduto il 13/04/2025 alle 04:11. Il veicolo si trovava in via della Libertà, al civico 3, dove è stato riscontrato parcheggio in divieto di sosta, in base all'articolo 23, comma 21, del codice stradale. Questa infrazione comporta una decurtazione di 3 punti.  Genera la stampa dell'avviso via bluetooth in portoghese, stampa anche la comunicazione."
+}

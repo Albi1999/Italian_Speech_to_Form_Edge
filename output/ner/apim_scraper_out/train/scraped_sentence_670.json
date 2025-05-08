@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è un'autovettura di marca \"scelto lei acs\" con targa \"guerre settecento ottantanove a\", di tipo ufficiale e proveniente dalla Grecia. L'infrazione è stata rilevata il 26 aprile 2025 alle ore 18:38 in via della Pace, civico 2, per parcheggio su strisce pedonali, violando l'articolo 158, comma 2 del codice penale. L'agente Alessandro Moretti ha effettuato la contestazione immediata. La violazione comporta la perdita di 8 punti. Si richiede la stampa del verbale in spagnolo tramite Wi-Fi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "diciotto i trentotto",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "grecia",
+                    "targa": "guerre settecento ottantanove a",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "scelto lei acs",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo autovettura marca scelto lei acs targato guerre settecento ottantanove a siti di tipo ufficiale proveniente da grecia l'infrazione stata rilevata il ventisei aprile duemilaventicinque alle ore diciotto i trentotto il veicolo si trovava in via della pace al civico due in parcheggio su strisce pedonali violando l'articolo centocinquantotto comma due del codice penale l'agente alessandro moretti ha provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di otto punti richiedo la stampa del verbale in spagnolo tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo autovettura, marca Chevrolet Trax, targato QR789ST (di tipo ufficiale), proveniente da grecia. L'infrazione è stata rilevata il 26/04/2025 alle ore 18:38. Il veicolo si trovava in via della Pace, al civico 2, in parcheggio su strisce pedonali, violando l'articolo 158, comma 2, del codice penale. L'agente Alessandro Moretti ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 8 punti. Richiedo la stampa del verbale in spagnolo tramite wifi, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata l'undici aprile duemilaventicinque alle due trentatré. È stato redatto un verbale per un veicolo macchina agricola con targa JEFF 234, immatricolato in Grecia. La violazione è avvenuta in via della Repubblica 20 e via dei Fori Imperiali al civico 10, riguardante il codice civile articolo 2002 comma 23 per parcheggio in zona a rimozione. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Sono previsti nove punti da decurtare. La stampa avviene tramite WIFI in tedesco e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "due trentatré",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "grecia",
+                    "targa": "jeff duecentotrentaquattro",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "duemiladue",
+                    "comma": "ventitré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle due trentatré dell'undici aprile duemilaventicinque storie di gendo un verbale per il veicolo macchina agricola targato jeff duecentotrentaquattro con targa copertura immatricolati in grecia l'infrazione stata accertata in via della repubblica venti via dei fori imperiali al civico dieci con violazione del codice civile articolo duemiladue centotrentacinque con ma ventitré per parcheggio in zona a rimozione sono previsti nove punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite vuoi fai in tedesco stampa anche la comunicazione",
+    "original_sentence": "Alle 02:33 del 11/04/2025, sto redigendo un verbale per il veicolo macchina agricola targato FG234LM con targa copertura, immatricolato in greciaL'infrazione è stata accertata in via della Repubblica, 20via dei Fori Imperiali, al civico 10, con violazione del codice civile, articolo 2235,comma 23 per parcheggio in zona rimozione Sono previsti 9 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in tedesco, stampa anche la comunicazione."
+}

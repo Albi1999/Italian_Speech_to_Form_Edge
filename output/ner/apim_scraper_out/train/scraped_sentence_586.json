@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il sei maggio 2025 alle ore 14:48 per un'infrazione rilevata in via della Speranza, civico 17. Il veicolo coinvolto è una macchina operatrice con targa yemen, immatricolata in Spagna, modello Peugeot 208 di colore verde. La violazione riguarda il transito in zona accesso vietato, secondo il codice penale articolo 3400, comma 13. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare due punti. La stampa del preavviso è richiesta tramite WiFi in portoghese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "quattordici e quarantotto",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "yemen quattrocentocinquanta sei oh qui",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "peggio duecentotto",
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tremilaquattrocento",
+                    "comma": "quindi",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtare, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data sei maggio duemilaventicinque alle ore quattordici e quarantotto è stato notificato un preavviso per un macchina operatrice targato yemen quattrocentocinquanta sei oh qui con targa copertura immatricolati in spagna l'infrazione è stata rilevata in via della speranza al civico diciassette con violazioni del codice penale articolo tremilaquattrocento quindi con tredici in particolare sia riscontrato un transito in zona accesso vietato non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono due punti il veicolo è un peggio duecentotto di colore verde con numero di telaio cinque zero atto due cinque zero cinque sette e nove massa milleseicento ventidue chi li necessita la stampa del preavviso tramite wifi in portoghese stampa anche la comunicazione",
+    "original_sentence": "In data 06/05/2025, alle ore 14:48, è stato notificato un preavviso per un macchina operatrice targato MN456OP con targa copertura, immatricolato in spagna. L'infrazione è stata rilevata in via della Speranza, al civico 17, con violazione del codice penale, articolo 3415, comma 13, in particolare si è riscontrato un transito in zona accesso vietato Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 2 punti. Il veicolo è un Peugeot 208 di colore verde, con numero di telaio 508250579 e massa 1622 kg. Necessito la stampa del preavviso tramite wifi, in portoghese, stampa anche la comunicazione. "
+}

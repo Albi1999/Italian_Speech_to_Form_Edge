@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a un veicolo ciclomotore targato \"jeff sette centottantanove giacca\", di tipo \"prova\", proveniente dalla Germania, marca Dacia. La violazione riguarda il parcheggio davanti a un passo carabine, verificata il 13 aprile 2025 alle ore 24:00 in via del Corso, numero 12. L'infrazione rientra nell'articolo 21, comma 19 del codice penale. La contestazione è stata immediata da parte dell'agente Francesco Rizzo. La sanzione prevede la perdita di 8 punti. Si richiede la stampa in lingua spagnola tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "ventiquattro",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "germania",
+                    "targa": "jeff sette centottantanove giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "dacia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: perdita, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo ciclomotori targato jeff sette centottantanove giacca di tipo prova a proveniente da germania marca dacia da aster la violazione ovvero parcheggio davanti a passo carabine se verificata in data tredici aprile duemilaventicinque alle ore ventiquattro in via del corso al numero dodici l'infrazione rientra nell'articolo ventuno comma diciannove del codice penale contestazione immediata da parte della gente francesco rizzo la sanzione prevede la perdita di otto punti si richiede la stampa in lingua spagnolo tramite wifi stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo ciclomotore targato EF789GH di tipo prova proveniente da germania, marca Dacia Duster. La violazione, ovvero parcheggio davanti a passo carrabile, si è verificata in data 13/04/2025 alle ore 20:04 in via del Corso, al numero 12. L'infrazione rientra nell'articolo 21, comma 19 del codice penale. Contestazione immediata da parte dell'agente Francesco Rizzo. La sanzione prevede la perdita di 8 punti. Si richiede la stampa in lingua spagnolo, tramite wifi, stampa anche la comunicazione. "
+}

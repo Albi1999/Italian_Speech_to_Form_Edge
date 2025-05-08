@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione per un veicolo Fiat Panda con rimorchio, immatricolato in Croazia, con targa \"icsi ypsilon trecentottantasette gettati\". L'infrazione è avvenuta il 19 aprile 2025 alle ore 3:11 in via della Pace, civico 2, violando il codice stradale, articolo 7, comma 5, riguardante il parcheggio in divieto di sosta. Sono stati decurtati sei punti e applicata una sanzione accessoria. Il rimorchio è di colore viola. La stampa deve essere effettuata tramite Wi-Fi in inglese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "tre undici",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "icsi ypsilon trecentottantasette gettati",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "fiat panda",
+                    "colore": "viola"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il diciannove aprile duemilaventicinque alle ore tre undici sto mettendo una notifica di infrazione per il veicolo fiat panda rimorchio immatricolati in croazia con targa icsi ypsilon trecentottantasette gettati di tipo prova l'infrazione si e verificata presto via della pace al civico due violando il codice stradale in particolare l'articolo sette con ma cinque riguardante il parcheggio in divieto di sosta devo decurtare sei punti applico una sanzione accessoria in base alle circostanze il rimorchio e di colore viola con numero di telaio duecentoventi milioni e quattrocentottanta tremila cinquecentosessantadue massa duemilaseicento quattro chilogrammi stampa me lo con il vuoi fa in inglese non stampare anche la comunicazione",
+    "original_sentence": "Il 19/04/2025, alle ore 03:11, sto emettendo una notifica di infrazione per il veicolo Fiat Panda, rimorchio immatricolato in croazia con targa XY987ZT di tipo prova. L'infrazione si è verificata presso via della Pace, al civico 2, violando il codice stradale, in particolare l'articolo 7, comma 5 riguardante il parcheggio in divieto di sosta.Devo decurtare 6 punti. Applico una sanzione accessoria in base alle circostanze. Il rimorchio è di colore viola, con numero di telaio 220483562 e massa 2604 kg.Stampamelo con il wifi in inglese, non stampare anche la comunicazione."
+}

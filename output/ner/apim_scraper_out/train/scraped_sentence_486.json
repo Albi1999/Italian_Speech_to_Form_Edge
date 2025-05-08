@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo ciclomotore di marca \"un dai venti\" con targa \"centoventitre occhi\" tipo speciale, proveniente dalla Germania. L'infrazione è avvenuta il sei aprile duemilaventicinque alle ore una e ventuno in viale della scienza, numero civico quattordici. La violazione riguarda il parcheggio davanti a passo carabine, in violazione dell'articolo trentotto comma trentasei del codice stradale, con una decurtazione prevista di cinque punti. La contestazione immediata è impossibile per assenza del trasgressore. È necessaria la stampa tramite Bluetooth in olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "una e ventuno",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "germania",
+                    "targa": "centoventitre occhi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "un dai venti",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentotto",
+                    "comma": "trentasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo ciclomotori di marca un dai venti con targa centoventitre occhi tipo speciale proveniente da germania fatto avvenuto il sei aprile duemilaventicinque alle ore una e ventuno posizione viale della scienza numero civico quattordici infrazione parcheggio davanti a passo carabine in violazione dell'articolo trentotto comma trentasei del codice stradale decurtazione prevista cinque punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite blu tutti in olandese non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo ciclomotore di marca Hyundai i20, con targa MN123OP (tipo speciale), proveniente da germania.  Fatto avvenuto il 06/04/2025 alle ore 01:21. Posizione: viale della Scienza, numero civico 14. Infrazione: parcheggio davanti a passo carrabile, in violazione dell'articolo 38, comma 36, del codice stradale. Decurtazione prevista: 5 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite bluetooth in olandese, non stampare anche la comunicazione."
+}

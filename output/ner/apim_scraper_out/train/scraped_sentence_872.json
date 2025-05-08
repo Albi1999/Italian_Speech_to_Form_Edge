@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il ventotto aprile duemilaventicinque alle ore dieci e due per un rimorchio con targa ufficiale immatricolato in Olanda. L'infrazione è stata rilevata in via della pace al civico due, violando il codice stradale articolo quarantuno comma trentanove, per parcheggio in doppia fila. La contestazione immediata non è stata possibile per l'assenza del trasgressore. Sono da decurtare otto punti. Il veicolo è un moto Gozzi sette di colore marrone. La stampa del preavviso è richiesta tramite Bluetooth in olandese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "dieci e due",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "moto",
+                    "nazione": "olanda",
+                    "targa": "centoventitre ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "gozzi sette",
+                    "colore": "marrone"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantuno",
+                    "comma": "trentanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventotto aprile duemilaventicinque alle ore dieci e due è stato notificato un preavviso per un rimorchio targato centoventitre ci di con targa ufficiale immatricolati in olanda l'infrazione è stata rilevata in via della pace al civico due con violazione del codice stradale articolo quarantuno comma trentanove in particolare si riscontrato un parcheggio in doppia fila non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono otto punti il veicolo è un moto gozzi sette di colore marrone con numero di telaio due due nove quattro tre zero sei cinque quattro e massa tremila ottocentotrenta chili necessita alla stampa del preavviso tramite blu tutte in olandese stampa anche la comunicazione",
+    "original_sentence": "In data 28/04/2025, alle ore 10:02, è stato notificato un preavviso per un rimorchio targato AB123CD con targa ufficiale, immatricolato in olanda. L'infrazione è stata rilevata in via della Pace, al civico 2, con violazione del codice stradale, articolo 41, comma 39, in particolare si è riscontrato un parcheggio in doppia fila Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 8 punti. Il veicolo è un Moto Guzzi V7 di colore marrone, con numero di telaio 229430654 e massa 3830 kg. Necessito la stampa del preavviso tramite bluetooth, in olandese, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 18 aprile 2025 alle ore 14:27 per una violazione riscontrata su un veicolo \"molto veicolo\" marca \"masi da chips tre\" targato \"i centoventitre chi lo litri\" proveniente dall'Olanda. La violazione è avvenuta in corso Buenos Aires, civico 98, per parcheggio in zona a rimozione, violando l'articolo 6, comma 4 del codice civile. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di due punti dalla patente. La stampa è richiesta in francese via \"hawaii fai\" e non include la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "quattordici e ventisette",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "olanda",
+                    "targa": "i centoventitre chi lo litri",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "masi da chips tre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data diciotto aprile duemilaventicinque alle ore quattordici e ventisette per la violazione riscontrata al veicolo molto veicolo marca masi da chips tre targato i centoventitre chi lo litri tipo copertura proveniente da olanda in particolare in corso buenos aires civico novantotto è stato accertato parcheggio in zona a rimozione in violazione dell'articolo sei con ma quattro del codice civile data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di due punti dalla patente richiedo la stampa in francese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 18/04/2025 alle ore 14:27 per la violazione riscontrata al veicolo motoveicolo, marca Mazda CX-3, targato IJ123KL (tipo copertura) proveniente da olanda. In particolare, in corso Buenos Aires, civico 98, è stato accertato parcheggio in zona rimozione, in violazione dell'articolo 6, comma 4 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 2 punti dalla patente. Richiedo la stampa in francese via wifi, non stampare anche la comunicazione."
+}

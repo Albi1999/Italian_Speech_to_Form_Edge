@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo Ducati Monster con targa 'guerre trecentoventi uno e se ti', proveniente dall'Olanda. L'infrazione è avvenuta il 27 aprile 2025 alle 18:54 in Piazza Venezia, numero civico 1. La violazione riguarda il transito in zona di accesso vietato, secondo l'articolo 158, comma 2 del codice stradale, e comporterà la decurtazione di sei punti. Si richiede la stampa in lingua italiana tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "diciotto e cinquantaquattro",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "olanda",
+                    "targa": "guerre trecentoventi uno e se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "ducati monster",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo molto veicolo con targa guerre trecentoventi uno e se ti di tipo copertura marca ducati monster proveniente da olanda l'infrazione nello specifico transito in zona accesso vietato sia e verificata in data ventisette aprile duemilaventicinque alle ore diciotto e cinquantaquattro in piazza venezia al numero uno articolo centocinquantotto comma due del codice stradale si comunica che dalla violazione conseguirà una decurtazione di sei punti si richiede la stampa in lingua italiano modalità blu tu non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo motoveicolo con targa QR321ST di tipo copertura, marca Ducati Monster, proveniente da olanda. L'infrazione, nello specifico transito in zona accesso vietato, si è verificata in data 27/04/2025 alle ore 18:54 in piazza Venezia, al numero 1 (articolo 158, comma 2 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 6 punti.Si richiede la stampa in lingua italiano, modalità bluetooth, non stampare anche la comunicazione."
+}

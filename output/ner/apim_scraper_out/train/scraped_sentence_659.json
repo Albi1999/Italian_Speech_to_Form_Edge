@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 19 aprile 2025 alle ore 13:25 per un veicolo agricolo con targa italiana. L'infrazione è avvenuta in via della Giustizia, civico 16, per parcheggio in divieto di sosta. La violazione riguarda il codice civile, articolo 46, comma 44. Non è stato possibile contestare sul posto per l'assenza del trasgressore. Sono previsti cinque punti da decurtare, senza sanzioni accessorie. La stampa è richiesta in tedesco tramite Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "tredici venticinque",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "italia",
+                    "targa": "icsi ypsilon trecentoventi uno zio",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno diciannove aprile duemilaventicinque alle ore tredici venticinque è stato redatto un verbale per il veicolo si tronchi tre macchina agricola immatricolati in italia con targa icsi ypsilon trecentoventi uno zio di tipo prova l'infrazione e avvenuta in via della giustizia al civico sedici e stata riscontrata una violazione del codice civile articolo quarantasei comma quarantaquattro vero parcheggio in divieto di sosta non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti cinque punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in tedesco tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 19/04/2025, alle ore 13:25, è stato redatto un verbale per il veicolo Citroen C3, macchina agricola immatricolato in italia con targa XY321ZA di tipo prova. L'infrazione è avvenuta in via della Giustizia, al civico 16. È stata riscontrata una violazione del codice civile, articolo 46, comma 44 ovvero parcheggio in divieto di sostaNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 5 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in tedesco tramite bluetooth, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il 27 aprile 2025 alle ore 1:48. È stato elevato un verbale al veicolo \"peggior duecentotto macchina operatrice\" con targa \"987 CDD\", immatricolato in Germania, per transito in zona accesso vietato. La violazione è stata rilevata in via Roma al civico 77. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di quattro punti. La stampa del verbale è richiesta in lingua spagnola tramite WiFi, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "un ehi quarantotto",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "germania",
+                    "targa": "novecento ottantasette ci di di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "peggior duecentotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventiquattro",
+                    "comma": "ventidue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventisette aprile duemilaventicinque alle ore un ehi quarantotto si eleva verbale al veicolo peggior duecentotto macchina operatrice con targa novecento ottantasette ci di di tipo copertura immatricolati in germania per violazione dell'articolo ventiquattro coma ventidue del codice penale ovvero transito in zona accesso vietato rilevata in via roma al civico settantasette non è stato possibile effettuare la contestazione immediata per assenza del trasgressori dalla violazione derivano quattro punti di decurtazione stampa necessaria in lingua spagnolo vi hawaii fai stampa anche la comunicazione",
+    "original_sentence": "In data 27/04/2025, alle ore 01:48, si eleva verbale al veicolo Peugeot 208, macchina operatrice con targa AB987CD di tipo copertura, immatricolato in germania, per violazione dell'articolo 24, comma 22 del codice penale, ovvero transito in zona accesso vietato, rilevata in via Roma, al civico 77. Non è stato possibile effettuare la contestazione immediata, per assenza del trasgressore. Dalla violazione derivano 4 punti di decurtazione. Stampa necessaria in lingua spagnolo via wifi, stampa anche la comunicazione. "
+}

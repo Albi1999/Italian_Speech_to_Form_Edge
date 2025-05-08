@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 16 aprile 2025 alle ore 9:15 per una violazione riscontrata su un veicolo rimorchio marca Suzuki, targato AD 654 CD, di tipo ufficiale, proveniente dalla Germania. La violazione è avvenuta in Corso della Libertà, civico 7, per parcheggio in zona a rimozione, violando l'articolo 8, comma 6 del codice stradale. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di 2 punti dalla patente. La stampa è richiesta in italiano via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "nove un quarto",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "ad sei centocinquantaquattro ci",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "suzuki",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data sedici aprile duemilaventicinque alle ore nove un quarto per la violazione riscontrata al veicolo rimorchio marca suzuki invitare targato ad sei centocinquantaquattro ci di tipo ufficiale proveniente da germania in particolare in corso della libertà civico sette è stato accertato parcheggio in zona a rimozione in violazione dell'articolo otto con ma sei del codice stradale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di due punti dalla patente richiedo la stampa in italiano via blu tu non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 16/04/2025 alle ore 09:15 per la violazione riscontrata al veicolo rimorchio, marca Suzuki Vitara, targato AB654CD (tipo ufficiale) proveniente da germania. In particolare, in corso della Libertà, civico 7, è stato accertato parcheggio in zona rimozione, in violazione dell'articolo 8, comma 6 del codice stradale. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 2 punti dalla patente. Richiedo la stampa in italiano via bluetooth, non stampare anche la comunicazione."
+}

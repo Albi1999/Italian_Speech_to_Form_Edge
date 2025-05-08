@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo Honda Civic con targa speciale proveniente dalla Svizzera. L'infrazione è avvenuta il 16 aprile 2025 alle ore 1:09 in viale della stazione, numero civico 4, per parcheggio davanti a passo carabine, violando l'articolo 12 comma 10 del codice stradale. La decurtazione prevista è di 2 punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è necessaria tramite Bluetooth in olandese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "una i nove",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "svizzera",
+                    "targa": "centoventitre ci",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "honda civic seicentocinquanta jerry",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: prevista, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo autovettura di marca honda civic seicentocinquanta jerry con targa centoventitre ci di tipo speciale proveniente da svizzera fatto avvenuto il sedici aprile duemilaventicinque alle ore una i nove posizione viale della stazione numero civico quattro infrazione parcheggia davanti a passo carabine in violazione dell'articolo dodici comma dieci del codice stradale decurtazione prevista due punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite blu tutti in olandese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo autovettura di marca Honda CB650R, con targa AB123CD (tipo speciale), proveniente da svizzera. Fatto avvenuto il 16/04/2025 alle ore 01:09. Posizione: viale della Stazione, numero civico 4. Infrazione: parcheggio davanti a passo carrabile, in violazione dell'articolo 12, comma 10, del codice stradale. Decurtazione prevista: 2 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite bluetooth in olandese, stampa anche la comunicazione. "
+}

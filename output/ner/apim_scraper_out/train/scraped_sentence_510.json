@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il sette aprile duemilaventicinque alle ore tre e dodici per un motoveicolo Dacia con targa registrata in Austria. L'infrazione è avvenuta in via Giuseppe Mazzini, numero ventiquattro, per parcheggio davanti a passo carabine, violando l'articolo ventiquattro, comma ventidue del codice penale. Non essendo stato possibile identificare il conducente, la notifica è inviata al proprietario del veicolo. Sono previsti due punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "tre dodici",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "austria",
+                    "targa": "icsi fino a novecentottanta sette gettati",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "dacia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventiquattro",
+                    "comma": "ventidue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: di",
+            "tipo_stampa": "blu tutto",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data a sette aprile duemilaventicinque alle ore tre dodici è stato emesso un preavviso di violazione per il veicolo motoveicoli di marca dacia da aster con targa icsi fino a novecentottanta sette gettati tipo ufficiale registrato in austria l'infrazione e avvenuta in via giuseppe mazzini al numero ventiquattro e consiste in parcheggio davanti a passo carabine come previsto dall'articolo ventiquattro con ma ventidue del codice penale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti due punti di decurtazione si prega di stampare la presente notifica tramite blu tutto in lingua portoghese stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 07/04/2025, alle ore 03:12, è stato emesso un preavviso di violazione per il veicolo motoveicolo di marca Dacia Duster, con targa XY987ZT (tipo ufficiale), registrato in austria. L'infrazione è avvenuta in via Giuseppe Mazzini, al numero 24, e consiste in parcheggio davanti a passo carrabile, come previsto dall'articolo 24, comma 22 del codice penale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 2 punti di decurtazione. Si prega di stampare la presente notifica tramite bluetooth, in lingua portoghese, stampa anche la comunicazione. "
+}

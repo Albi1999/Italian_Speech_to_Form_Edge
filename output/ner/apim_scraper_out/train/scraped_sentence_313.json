@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un'autovettura Ducati Multistrada con targa spagnola, che ha commesso una violazione il 16 aprile 2025 alle 11:32 in viale della stazione, civico 4. La violazione riguarda il parcheggio su strisce pedonali, violando l'articolo 20, comma 18 del codice stradale, con conseguente perdita di un punto. La stampa del verbale è richiesta in modalità Bluetooth e in lingua portoghese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "undici e trentadue",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "spagna",
+                    "targa": "ubi novecentottanta sette doppia ex",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "ducati multi strada",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: perdita, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per autovettura marca ducati multi strada vi due targa ubi novecentottanta sette doppia ex di tipo copertura immatricolati in spagna in data sedici aprile duemilaventicinque alle ore undici e trentadue in viale della stazione al civico quattro e stata commessa la seguente violazione parcheggio su strisce pedonali articolo venti comma diciotto del codice stradale dalla violazione con segue la perdita di uno punti stampa in modalità blu tutte in lingua portoghese non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per autovettura, marca Ducati Multistrada V2, targa UV987WX di tipo copertura, immatricolato in spagna. In data 16/04/2025 alle ore 11:32, in viale della Stazione, al civico 4, è stata commessa la seguente violazione: parcheggio su strisce pedonali (articolo 20, comma 18 del codice stradale).Dalla violazione consegue la perdita di 1 punti.Stampa in modalità bluetooth e in lingua portoghese, non stampare anche la comunicazione."
+}

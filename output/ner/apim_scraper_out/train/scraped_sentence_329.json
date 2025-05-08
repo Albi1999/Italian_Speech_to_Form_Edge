@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il tre maggio duemilaventicinque alle mezzanotte ventuno per una violazione del codice stradale. La violazione è avvenuta in via del Corso, civico dodici, per transito in zona accesso vietato. Il veicolo coinvolto è una macchina agricola con targa prova immatricolata in Portogallo. Sono previsti otto punti da decurtare. La contestazione è stata effettuata immediatamente dall'agente Francesco Rizzo. La stampa del verbale è stata eseguita tramite Bluetooth in portoghese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "mezzanotte ventuno",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "portogallo",
+                    "targa": "icsi ypsilon centoventitre casa",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle mezzanotte ventuno del tre maggio duemilaventicinque storie di gendo un verbale per il veicolo macchina agricola targato icsi ypsilon centoventitre casa con targa prova immatricolati in portogallo infrazione stata accertata in via del corso al civico dodici con violazione del codice stradale articolo tre con ma uno per transito in zona accesso vietato sono previsti otto punti da decurtare contestazione immediata effettuata dalla gente francesco rizzo il verbale è stato redatto sul posto in via del corso non posso applicare alcuna sanzione accessoria stampa tramite blu tutti in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Alle 00:21 del 03/05/2025, sto redigendo un verbale per il veicolo macchina agricola targato XY123ZA con targa prova, immatricolato in portogalloL'infrazione è stata accertata in via del Corso, al civico 12, con violazione del codice stradale, articolo 3,comma 1 per transito in zona accesso vietato Sono previsti 8 punti da decurtare. Contestazione immediata effettuata dall'agente Francesco Rizzo, il verbale è stato redatto sul posto in via del Corso. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in portoghese, non stampare anche la comunicazione."
+}

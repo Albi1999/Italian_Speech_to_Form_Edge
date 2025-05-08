@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale elevato il primo maggio 2025 alle ore 18:21 per un veicolo ciclomotore con targa olandese, parcheggiato in zona a rimozione in Piazza Venezia, civico uno. La violazione riguarda l'articolo 7, comma 15 del codice stradale. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di due punti. La stampa del verbale è richiesta in lingua italiana tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "diciotto i ventuno",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "olanda",
+                    "targa": "guerre settecento centottantanove",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "tooth aris",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "via aifa",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data primo maggio duemilaventicinque alle ore diciotto i ventuno si eleva verbale al veicolo tooth aris ciclomotori con targa guerre settecento centottantanove siti di tipo prova immatricolati in olanda per violazione dell'articolo sette coma quindici del codice stradale ovvero parcheggio in zona a rimozione rilevata in piazza venezia al civico uno non è stato possibile effettuare la contestazione immediata per assenza del trasgressori dalla violazione derivano due punti di decurtazione stampa necessaria in lingua italiano via aifa stampa anche la comunicazione",
+    "original_sentence": "In data 01/05/2025, alle ore 18:21, si eleva verbale al veicolo Toyota Yaris, ciclomotore con targa QR789ST di tipo prova, immatricolato in olanda, per violazione dell'articolo 7, comma 15 del codice stradale, ovvero parcheggio in zona rimozione, rilevata in piazza Venezia, al civico 1. Non è stato possibile effettuare la contestazione immediata, per assenza del trasgressore. Dalla violazione derivano 2 punti di decurtazione. Stampa necessaria in lingua italiano via wifi, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il primo maggio 2025 alle ore 16:04 per un veicolo Honda CB 650 immatricolato in Austria con targa ufficiale CI 123 ABBY. L'infrazione è avvenuta presso viale della stazione, civico 4, violando il codice civile, articolo 20, comma 18, riguardante il parcheggio in divieto di sosta. Sono stati decurtati 10 punti e applicata una sanzione accessoria. Il veicolo è di colore arancione. La stampa deve essere effettuata tramite Wi-Fi in francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "sedici e quattro minuti",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "ci di centoventitre abby",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "onda cib seicentocinquanta",
+                    "colore": "arancione"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il primo maggio duemilaventicinque alle ore sedici e quattro minuti sto mettendo una notifica di infrazione per il veicolo onda cib seicentocinquanta autovettura immatricolati in austria con targa ci di centoventitre abby di tipo ufficiale l'infrazione si e verificata presso viale della stazione al civico quattro violando il codice civile in particolare l'articolo venti comma diciotto riguardante il parcheggio in divieto di sosta devo decurtare dieci punti applico una sanzione accessoria in base alle circostanze il autovettura e di colore arancione con numero di telaio quattrocentosessanta otto milioni e quattrocento quattromila novecentottanta sei e massa tremiladuecento diciassette chilogrammi stampa me lo con il vuoi fa in francese non stampare anche la comunicazione",
+    "original_sentence": "Il 01/05/2025, alle ore 16:04, sto emettendo una notifica di infrazione per il veicolo Honda CB650R, autovettura immatricolato in austria con targa CD123AB di tipo ufficiale. L'infrazione si è verificata presso viale della Stazione, al civico 4, violando il codice civile, in particolare l'articolo 20, comma 18 riguardante il parcheggio in divieto di sosta.Devo decurtare 10 punti. Applico una sanzione accessoria in base alle circostanze. Il autovettura è di colore arancione, con numero di telaio 468404986 e massa 3217 kg.Stampamelo con il wifi in francese, non stampare anche la comunicazione."
+}

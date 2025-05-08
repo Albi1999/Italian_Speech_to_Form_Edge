@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il ventinove aprile duemilaventicinque alle ore tredici e diciassette per un veicolo rimorchio di marca mas da chips tre con targa è sette centottantanove giacca, registrato in Italia. L'infrazione è avvenuta in corso della giustizia al numero ventitré, per parcheggio in zona a rimozione, secondo l'articolo trentuno duemilanovecento trentadue comma trenta del codice civile. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti sette punti di decurtazione. Si richiede la stampa della notifica tramite guai fai in lingua francese, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "tredici e diciassette",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "italia",
+                    "targa": "è sette centottantanove giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mas da chips tre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventinove aprile duemilaventicinque alle ore tredici e diciassette è stato emesso un preavviso di violazione per il veicolo rimorchio di marca mas da chips tre con targa è sette centottantanove giacca tipo prova registrato in italia l'infrazione avvenuta in corso della giustizia al numero ventitré e consiste in parcheggio in zona a rimozione come previsto dall'articolo trentuno duemilanovecento trentadue comma trenta del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti sette punti di decurtazione si prega di stampare la presente notifica tramite guai fai in lingua francese stampa anche la comunicativa",
+    "original_sentence": "Si notifica che in data 29/04/2025, alle ore 13:17, è stato emesso un preavviso di violazione per il veicolo rimorchio di marca Mazda CX-3, con targa EP789GH (tipo prova), registrato in italia. L'infrazione è avvenuta in corso della Giustizia, al numero 23, e consiste in parcheggio in zona rimozione, come previsto dall'articolo 31, 2932, comma 30 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 7 punti di decurtazione.  Si prega di stampare la presente notifica tramite wifi, in lingua francese, stampa anche la comunicazione."
+}

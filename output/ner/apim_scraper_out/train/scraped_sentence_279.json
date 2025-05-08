@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo \"macchina agricola\" di marca \"Alfa Romeo Stelvio\" con targa \"è effe centoventitre giacca tipo speciale\" proveniente dall'Austria. L'infrazione è avvenuta il 27 aprile 2025 alle ore 00:17 in via del Corso, numero civico 12, per parcheggio in doppia fila, violando l'articolo 14 comma 12 del codice civile. La decurtazione prevista è di uno punto. La contestazione immediata è impossibile per assenza del trasgressore. La stampa è necessaria tramite \"vuoi fa\" in olandese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte e diciassette",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "austria",
+                    "targa": "è effe centoventitre giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "alfa romeo stelvio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattordici",
+                    "comma": "dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: prevista, after: punti",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo macchina agricola di marca alfa romeo stelvio con targa è effe centoventitre giacca tipo speciale proveniente da austria fatto avvenuto il ventisette aprile duemilaventicinque alle ore mezzanotte e diciassette posizione via del corso numero civico dodici infrazione parcheggia in doppia fila in violazione dell'articolo quattordici comma dodici del codice civile decurtazione prevista uno punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite vuoi fa in olandese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo macchina agricola di marca Alfa Romeo Stelvio, con targa EF123GH (tipo speciale), proveniente da austria.  Fatto avvenuto il 27/04/2025 alle ore 00:17. Posizione: via del Corso, numero civico 12. Infrazione: parcheggio in doppia fila, in violazione dell'articolo 14, comma 12, del codice civile. Decurtazione prevista: 1 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in olandese, stampa anche la comunicazione."
+}

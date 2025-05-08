@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un'infrazione commessa da un veicolo con targa yemen, immatricolato in Slovenia. L'infrazione è avvenuta il 8 aprile 2025 alle 1:29 in Piazza Venezia, numero civico 1, per parcheggio in divieto di sosta. L'articolo violato è il 12, comma 10 del codice stradale, con la decurtazione di 9 punti dalla patente. Il verbale sarà stampato via Hawaii in lingua francese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "lotto aprile duemilaventicinque",
+            "ora_violazione": "una e ventinove",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "yemen quattrocentocinquanta sei oh piedi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "cedro le spark",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo cedro le spark autovettura con targa yemen quattrocentocinquanta sei oh piedi tipo copertura immatricolati slovenia per un'infrazione commessa hai lotto aprile duemilaventicinque alle una e ventinove l'infrazione e avvenuta in piazza venezia al numero uno dove il veicolo era in parcheggio in divieto di sosta l'articolo violato è il dodici comma dieci del codice stradale verranno tolti i nove punti dalla patente stampa questo verbale via hawaii fai francese stampa anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Chevrolet Spark, autovettura con targa MN456OP di tipo copertura, immatricolato in slovenia, per un'infrazione commessa il 08/04/2025 alle 01:29. L'infrazione è avvenuta in piazza Venezia, al numero 1, dove il veicolo era in parcheggio in divieto di sosta. L'articolo violato è il 12, comma 10 del codice stradale. Verranno tolti 9 punti dalla patente. Stampa questo verbale via wifi in francese, stampa anche la comunicazione. "
+}

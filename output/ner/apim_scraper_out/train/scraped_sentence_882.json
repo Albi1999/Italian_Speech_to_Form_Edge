@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo rimorchio proveniente dall'Austria, targato \"quelli settecento ottantanove ti\" di tipo prova. La violazione riguarda il parcheggio in divieto di sosta avvenuta il 23 aprile 2025 alle 5:39 in via della Concordia, numero 14. La violazione è in base all'articolo 42, comma 40 del codice penale, con una decurtazione di 3 punti. Si richiede la stampa del preavviso tramite Wi-Fi in lingua inglese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "cinque e trentanove",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "quelli settecento ottantanove ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mica onda arrivo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantadue",
+                    "comma": "quaranta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: di",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo rimorchio mica onda arrivo targato quelli settecento ottantanove ti di tipo prova proveniente da austria in data ventitré aprile duemilaventicinque alle cinque e trentanove e stata rilevata la violazione di parcheggio in divieto di sosta in via della concordia il numero quattordici in base alle articolo quarantadue come quaranta del codice penale che tale infrazione sono previsti tre punti di decurtazione si richiede la stampa dei preavviso tramite vuoi fai in lingua inglese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo rimorchio, marca Honda HR-V, targato QR789ST di tipo prova, proveniente da austria. In data 23/04/2025 alle ore 05:39, è stata rilevata la violazione di parcheggio in divieto di sosta in via della Concordia, al numero 14, in base all'articolo 42, comma 40 del codice penale. Per tale infrazione sono previsti 3 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua inglese, stampa anche la comunicazione. "
+}

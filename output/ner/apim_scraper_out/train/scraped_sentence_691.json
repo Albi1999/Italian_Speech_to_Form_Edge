@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a una violazione stradale. La violazione riguarda un veicolo macchina operatrice targato \"un novecentottanta sette doppia wings\" di tipo speciale, proveniente dall'Austria, marca Chapas. La violazione è avvenuta il quattro maggio duemilaventicinque alle ore dieci e quaranta in via Garibaldi al numero undici. L'infrazione rientra nell'articolo centottantacinque comma due del codice stradale. La contestazione è stata immediata da parte dell'agente Mario Rossi e prevede la perdita di cinque punti. Si richiede la stampa in lingua italiana tramite fai, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "dieci e quaranta",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "austria",
+                    "targa": "un novecentottanta sette doppia wings",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "chapas",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: perdita, after: punti",
+            "tipo_stampa": "fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrice targato un novecentottanta sette doppia wings di tipo speciale proveniente da austria marca chapas a chi zetas seicentocinquanta la violazione ovvero parcheggio davanti a passo carabine se verificata in data quattro maggio duemilaventicinque alle ore dieci e quaranta in via garibaldi al numero undici l'infrazione rientra nell'articolo centottantacinque comma due del codice stradale contestazione immediata da parte della gente e mario rossi la sanzione prevede la perdita di cinque punti si richiede la stampa in lingua italiano tramite fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato UV987WX di tipo speciale proveniente da austria, marca Kawasaki Z650. La violazione, ovvero parcheggio davanti a passo carrabile, si è verificata in data 04/05/2025 alle ore 10:40 in via Garibaldi, al numero 11. L'infrazione rientra nell'articolo 185, comma 2 del codice stradale. Contestazione immediata da parte dell'agente Mario Rossi. La sanzione prevede la perdita di 5 punti. Si richiede la stampa in lingua italiano, tramite wifi, stampa anche la comunicazione. "
+}

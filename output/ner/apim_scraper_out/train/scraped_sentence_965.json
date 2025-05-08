@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un preavviso di violazione per un motoveicolo con targa \"jeff duecentotrentaquattro\" proveniente dall'Austria. L'infrazione riguarda il parcheggio in zona a rimozione, avvenuta il 10 aprile 2025 alle 16:01 in via della Pace, numero civico 2. La violazione è in base all'articolo 20, comma 18 del codice penale, e comporta una decurtazione di sei punti. Si richiede la stampa in lingua spagnola, modalità Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "sedici è un minuto",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "austria",
+                    "targa": "jeff duecentotrentaquattro",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "marca un dei venti",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo motoveicoli con targa jeff duecentotrentaquattro di tipo copertura marca un dei venti proveniente da austria l'infrazione nello specifico parcheggio in zona a rimozione si e verificata in data dieci aprile duemilaventicinque alle ore sedici è un minuto in via della pace al numero due articolo venti coma diciotto del codice penale si comunica che dalla violazione conseguirà una decurtazione di sei punti si richiede la stampa in lingua spagnolo modalità blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo motoveicolo con targa FG234LM di tipo copertura, marca Hyundai i20, proveniente da austria. L'infrazione, nello specifico parcheggio in zona rimozione, si è verificata in data 10/04/2025 alle ore 16:01 in via della Pace, al numero 2 (articolo 20, comma 18 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 6 punti. Si richiede la stampa in lingua spagnolo, modalità bluetooth, non stampare anche la comunicazione. "
+}

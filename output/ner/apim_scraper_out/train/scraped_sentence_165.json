@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un'autovettura BMW Serie Uno con targa immatricolata in Portogallo. La violazione è avvenuta il 24 aprile 2025 alle 3:45 in viale della Vittoria, civico 9, per parcheggio in doppia fila, violando l'articolo 185 comma 2 del codice penale. La violazione comporta la perdita di 10 punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua italiana, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "quattro meno un quarto",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "copertura",
+                    "nazione": "portogallo",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": null,
+                    "marca_modello": "bmw serie uno",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per autovettura marca bmw serie uno targa i sette centottantanove chi lo litri di tipo copertura immatricolati portogallo in data ventiquattro aprile duemilaventicinque alle ore quattro meno un quarto in viale della vittoria al civico nove e stata commessa la seguente violazione parcheggia in doppia fila articolo centottantacinque comma due del codice penale dalla violazione con segue la perdita di dieci punti stampa in modalità blu tutte in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per autovettura, marca BMW Serie 1, targa IJ789KL di tipo copertura, immatricolato in portogallo. In data 24/04/2025 alle ore 03:45, in viale della Vittoria, al civico 9, è stata commessa la seguente violazione: parcheggio in doppia fila (articolo 185, comma 2 del codice penale).Dalla violazione consegue la perdita di 10 punti.Stampa in modalità bluetooth e in lingua italiano, non stampare anche la comunicazione."
+}

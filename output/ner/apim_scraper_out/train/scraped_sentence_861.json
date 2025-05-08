@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un rimorchio immatricolato in Svizzera, coinvolto in una violazione di parcheggio in zona a rimozione. La violazione è avvenuta il primo maggio 2025 alle ore 13:44 in via della Libertà, civico 22. La violazione riguarda l'articolo 45, comma 43 del codice penale e comporta la perdita di due punti. La stampa del verbale è richiesta in modalità WiFi e in lingua tedesca, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "tredici e quarantaquattro",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "uno recente ottantasette doppio mix",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "un dai venti",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: perdita, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per rimorchio marca un dai venti targa uno recente ottantasette doppio mix di tipo copertura immatricolati in svizzera in data primo maggio duemilaventicinque alle ore tredici e quarantaquattro inviare della libertà al civico ventidue e stata commessa la seguente violazione parcheggio in zona a rimozione articolo quarantacinque comma quarantatré del codice penale dalla violazione con segue la perdita di due punti stampa e modalità wifi è in lingua tedesco non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per rimorchio, marca Hyundai i20, targa UV987WX di tipo copertura, immatricolato in svizzera. In data 01/05/2025 alle ore 13:44, in viale della Libertà, al civico 22, è stata commessa la seguente violazione: parcheggio in zona rimozione (articolo 45, comma 43 del codice penale). Dalla violazione consegue la perdita di 2 punti. Stampa in modalità wifi e in lingua tedesco, non stampare anche la comunicazione. "
+}

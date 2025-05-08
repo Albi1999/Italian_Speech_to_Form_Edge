@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo Lancia Ypsilon con rimorchio, targato \"i sette centottantanove capelli\" e registrato in Portogallo. La violazione è avvenuta il 12 aprile 2025 alle 17:53 in via della Speranza, civico 17, per transito in zona accesso vietato. La violazione è in base all'articolo 47, comma 45 del codice penale e comporta una decurtazione di 1 punto. La stampa dell'avviso è via Hawaii e in portoghese, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "diciassette cinquantatré",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": null,
+                    "nazione": "portogallo",
+                    "targa": "i sette centottantanove capelli",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "lancia i ypsilon rimorchio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emette un avviso di violazione quindi si tratta di un preavviso per il veicolo lancia i ypsilon rimorchio targato i sette centottantanove capelli con targa prova registrato in portogallo per un fatto accaduto il dodici aprile duemilaventicinque alle diciassette cinquantatré il veicolo si trovava in via della speranza al civico diciassette dove è stato riscontrato transito in zona accesso vietato in base all'articolo quarantasette comma quarantacinque del codice penale questa infrazione comporta una decurtazione di un punti genere alla stampa dell'avviso via hawaii fa in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Lancia Ypsilon, rimorchio, targato IJ789KL con targa prova, registrato in portogallo, per un fatto accaduto il 12/04/2025 alle 17:53. Il veicolo si trovava in via della Speranza, al civico 17, dove è stato riscontrato transito in zona accesso vietato, in base all'articolo 47, comma 45, del codice penale. Questa infrazione comporta una decurtazione di 1 punti. Genera la stampa dell'avviso via wifi in portoghese, non stampare anche la comunicazione. "
+}

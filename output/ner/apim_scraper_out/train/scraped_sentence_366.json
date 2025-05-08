@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto l'otto aprile duemilaventicinque alle nove meno cinque per un veicolo ciclomotore con targa speciale immatricolato in Spagna. L'infrazione è stata accertata in via della Speranza al civico diciotto, con violazione del codice penale articolo quarantasette, comma quarantacinque, per transito in zona accesso vietato. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Sono previsti uno punti da decurtare. La stampa avviene tramite Wi-Fi in inglese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "nove meno cinque",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "spagna",
+                    "targa": "quattrocentocinquanta sei ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle nove meno cinque dell'otto aprile duemilaventicinque storie di gendo un verbale per il veicolo ciclomotori targato quattrocentocinquanta sei ci di con targa speciale immatricolati in spagna l'infrazione stata accertata in via della speranza al civico diciotto con violazione del codice penale articolo quarantasette con ma quarantacinque per transito in zona accesso vietato sono previsti uno punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite vuoi fai in inglese stampa anche la comunicazione",
+    "original_sentence": "Alle 08:55 del 08/04/2025, sto redigendo un verbale per il veicolo ciclomotore targato AB456CD con targa speciale, immatricolato in spagnaL'infrazione è stata accertata in via della Speranza, al civico 18, con violazione del codice penale, articolo 47,comma 45 per transito in zona accesso vietato Sono previsti 1 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in inglese, stampa anche la comunicazione."
+}

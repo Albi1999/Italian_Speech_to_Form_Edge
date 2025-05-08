@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo Skoda Fabia proveniente dalla Germania, con targa speciale. La violazione riguarda il parcheggio su strisce pedonali, avvenuta il 18 aprile 2025 alle 3:25 in via della Cultura, numero 9. L'infrazione è relativa all'articolo 9, comma 1 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 3 punti. Si richiede la stampa in lingua tedesca tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "tre venticinque",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "how trecentoventi uno doppia winx",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "skoda fabia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "nove",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo autovettura targato how trecentoventi uno doppia winx di tipo speciale proveniente da germania marca skoda fabia la violazione ovvero parcheggio su strisce pedonali sia verificata in data diciotto aprile duemilaventicinque alle ore tre venticinque in via della cultura al numero nove l'infrazione rientra nell'articolo nove con ma uno del codice stradale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzione prevede la perdita di tre punti si richiede la stampa in lingua tedesco tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato UV321WX di tipo speciale proveniente da germania, marca Skoda Fabia. La violazione, ovvero parcheggio su strisce pedonali, si è verificata in data 18/04/2025 alle ore 03:25 in via della Cultura, al numero 9. L'infrazione rientra nell'articolo 9, comma 1 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 3 punti. Si richiede la stampa in lingua tedesco, tramite wifi, non stampare anche la comunicazione. "
+}

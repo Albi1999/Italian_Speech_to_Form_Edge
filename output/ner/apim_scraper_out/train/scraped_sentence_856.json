@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un'infrazione di parcheggio in zona a rimozione. Il veicolo coinvolto è un'autovettura Onda Jerry con targa ufficiale proveniente dalla Germania. L'infrazione è avvenuta il giorno prima dell'omaggio duemilaventicinque alle ore cinque i dolci, in via della Libertà al numero civico ventuno. La violazione è regolata dall'articolo cinquantuno comma quarantanove del codice penale e comporta la decurtazione di quattro punti. Si richiede la stampa del preavviso in inglese via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "prima omaggio duemilaventicinque",
+            "ora_violazione": "cinque i dolci",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "ci di quattrocentocinquanta sei fedi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "onda cib seicentocinquanta jerry",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquantuno",
+                    "comma": "quarantanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo onda cib seicentocinquanta jerry autovettura targa ci di quattrocentocinquanta sei fedi tipo ufficiale proveniente da germania il giorno prima omaggio duemilaventicinque alle ore cinque i dolci in via della libertà al numero civico ventuno e stata commessa l'infrazione di parcheggio in zona a rimozione come previsto dall'articolo cinquantuno comma quarantanove del codice penale per questa violazioni sono previsti quattro punti di decurtazione chiedo la stampa del preavviso in inglese via blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Honda CB650R autovettura, targa CD456EF di tipo ufficiale, proveniente da germania. Il giorno 01/05/2025, alle ore 05:12, in via della Libertà, al numero civico 21, è stata commessa l'infrazione di parcheggio in zona rimozione, come previsto dall'articolo 51, comma 49, del codice penale. Per questa violazione sono previsti 4 punti di decurtazione. Chiedo la stampa del preavviso in inglese via bluetooth, non stampare anche la comunicazione. "
+}

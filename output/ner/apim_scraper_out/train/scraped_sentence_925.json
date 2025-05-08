@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la notifica di un preavviso per un veicolo Dacia d'aste rimorchio con targa ufficiale proveniente dalla Svizzera. La violazione è avvenuta il 14 aprile 2025 alle 18:32 in via della Giustizia, civico 6, per parcheggio su strisce pedonali, secondo l'articolo 131 comma 9 del codice civile. Sono previsti cinque punti di decurtazione. Si richiede la stampa del preavviso in olandese via WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "diciotto e trentadue",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "si",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "ho un novecento ottantasette i doppio with",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "dacia d'aste",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centotrentuno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: previsti, after: punti",
+            "tipo_stampa": "weiwei",
+            "lingua_stampa": "olandesi",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo dacia d'aste rimorchio targa ho un novecento ottantasette i doppio with di tipo ufficiale provenienti da svizzera il giorno quattordici aprile duemilaventicinque alle ore diciotto e trentadue in via della giustizia al numero civico si ci è stata commessa l'infrazione di parcheggio su strisce pedonali come previsto dall'articolo centotrentuno comma nove del codice civile per questa violazioni sono previsti cinque punti di decurtazione chiedo la stampa del preavviso in olandesi via weiwei stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Dacia Duster rimorchio, targa UV987WX di tipo ufficiale, proveniente da svizzera. Il giorno 14/04/2025, alle ore 18:32, in via della Giustizia, al numero civico 16, è stata commessa l'infrazione di parcheggio su strisce pedonali, come previsto dall'articolo 121, comma 9, del codice civile. Per questa violazione sono previsti 5 punti di decurtazione. Chiedo la stampa del preavviso in olandese via wifi, stampa anche la comunicazione. "
+}

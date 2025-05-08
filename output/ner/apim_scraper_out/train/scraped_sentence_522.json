@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il venticinque aprile duemilaventicinque alle ore ventitré ventinove. Un veicolo Mazda Chips con rimorchio, targa BEH 123 CD, tipo ufficiale, immatricolato in Austria, ha violato l'articolo dieci del codice civile parcheggiando su strisce pedonali in Corso della Repubblica al civico diciannove. La contestazione è stata immediata, effettuata dall'agente Marco Gentili. La violazione comporta la decurtazione di un punto. La stampa necessaria è in lingua tedesca via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "ventitré ventinove",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "beh centoventitre ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mazda chips",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "dieci",
+                    "comma": null,
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: derivano, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data venticinque aprile duemilaventicinque alle ore ventitré ventinove si aveva verbale al veicolo mazda chips tre rimorchio con targa beh centoventitre ci di di tipo ufficiale immatricolati in austria per violazione dell'articolo dieci con motto del codice civile ovvero parcheggio su strisce pedonali rilevata in corso della repubblica al civico diciannove la contestazione e stata immediata effettuata dalla gente marco gentili dalla violazione derivano un punti di decurtazione stampa necessaria in lingua tedesco via blu tutte non stampare anche la comunicazione",
+    "original_sentence": "In data 25/04/2025, alle ore 23:29, si eleva verbale al veicolo Mazda CX-3, rimorchio con targa AB123CD di tipo ufficiale, immatricolato in austria, per violazione dell'articolo 10, comma 8 del codice civile, ovvero parcheggio su strisce pedonali, rilevata in corso della Repubblica, al civico 19. La contestazione è stata immediata, effettuata dall'agente Marco Gentili. Dalla violazione derivano 1 punti di decurtazione. Stampa necessaria in lingua tedesco via bluetooth, non stampare anche la comunicazione. "
+}

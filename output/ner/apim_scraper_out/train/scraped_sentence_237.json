@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il cinque aprile duemilaventicinque alle ore sedici e trentacinque. È stato elevato un verbale per un veicolo immatricolato in Germania, con targa ufficiale, per violazione dell'articolo otto, comma sei del codice civile. La violazione è stata rilevata in viale della stazione al civico quattro. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di tre punti. La stampa del verbale è richiesta in lingua tedesca tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "cinque aprile duemilaventicinque",
+            "ora_violazione": "sedici e trentacinque",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "germania",
+                    "targa": "io e quattrocentocinquanta sei chi lo litri",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "cava sacchi in in già seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data cinque aprile duemilaventicinque alle ore sedici e trentacinque si eleva verbale al veicolo cava sacchi in in già seicentocinquanta motoveicoli con targa io e quattrocentocinquanta sei chi lo litri di tipo ufficiale immatricolati in germania per violazione dell'articolo otto con ma sei del codice civile o vero parcheggio davanti a passo carabine rilevata in viale della stazione al civico quattro non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano tre punti di decurtazione stampa necessaria in lingua tedesco via blood stampa anche la comunicazione",
+    "original_sentence": "In data 05/04/2025, alle ore 16:35, si eleva verbale al veicolo Kawasaki Ninja 650, motoveicolo con targa IJ456KL di tipo ufficiale, immatricolato in germania, per violazione dell'articolo 8, comma 6 del codice civile, ovvero parcheggio davanti a passo carrabile, rilevata in viale della Stazione, al civico 4.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 3 punti di decurtazione. Stampa necessaria in lingua tedesco via bluetooth, stampa anche la comunicazione."
+}

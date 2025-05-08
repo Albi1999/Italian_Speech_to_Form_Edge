@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 14 aprile 2025 alle ore 1:54 in via Venti Settembre, civico 5. La violazione riguarda il transito in zona accesso vietato, secondo l'articolo 16, comma 14 del codice penale. Il veicolo coinvolto è un ciclomotore con targa EX Y980, immatricolato in Francia. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti 4 punti di decurtazione. Si richiede la stampa in lingua tedesca via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "una e cinquantaquattro",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "francia",
+                    "targa": "ex ypsilon novecentottanta",
+                    "tipologia_targa": null,
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sedici",
+                    "comma": "quattordici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "via potuta",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbale per violazione accertata il quattordici aprile duemilaventicinque alle ore una e cinquantaquattro in via venti settembre al civico cinque a carico del veicolo successo visti centocinquanta ciclomotori con targa ex ypsilon novecentottanta saggezza di tipo speciale immatricolati in francia la violazione contestata e transito in zona accesso vietato in base all'articolo l'articolo sedici coma quattordici del codice penale non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti quattro punti di decurtazione si richiede la stampa in lingua tedesco via potuta non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 14/04/2025 alle ore 01:54 in via XX Settembre, al civico 5, a carico del veicolo Suzuki SV650, ciclomotore con targa XY987ZA di tipo speciale, immatricolato in francia. La violazione contestata è transito in zona accesso vietato, in base all'articolo 16, comma 14 del codice penale. Non è stato possibile contestare immediatamente, per assenza del trasgressore. Sono previsti 4 punti di decurtazione. Si richiede la stampa in lingua tedesco via bluetooth, non stampare anche la comunicazione. "
+}

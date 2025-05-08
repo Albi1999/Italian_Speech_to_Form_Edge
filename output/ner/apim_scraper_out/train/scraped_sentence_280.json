@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 14 aprile 2025 alle ore 4:36 per una violazione riscontrata su un veicolo macchina agricola marca Dacia Sandy Ero, targato Guerre 4506, tipo ufficiale, proveniente dalla Croazia. La violazione è avvenuta in via della Cultura, civico 9, per parcheggio in divieto di sosta, violando l'articolo 158 comma 2 del codice civile. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di 2 punti dalla patente. La stampa è richiesta in spagnolo via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "quattro e trentasei",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "croazia",
+                    "targa": "guerre quattrocentocinquanta sei",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "dacia sandy ero",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data quattordici aprile duemilaventicinque alle ore quattro e trentasei per la violazione riscontrata al veicolo macchina agricola marca dacia sandy ero targato guerre quattrocentocinquanta sei se ti tipo ufficiale proveniente da croazia in particolare in via della cultura civico nove è stato accertato parcheggio in divieto di sosta in violazione dell'articolo centocinquantotto comma due del codice civile data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di due punti dalla patente richiedo la stampa in spagnolo via blu tutta stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 14/04/2025 alle ore 04:36 per la violazione riscontrata al veicolo macchina agricola, marca Dacia Sandero, targato QR456ST (tipo ufficiale) proveniente da croazia. In particolare, in via della Cultura, civico 9, è stato accertato parcheggio in divieto di sosta, in violazione dell'articolo 158, comma 2 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 2 punti dalla patente. Richiedo la stampa in spagnolo via bluetooth, stampa anche la comunicazione."
+}

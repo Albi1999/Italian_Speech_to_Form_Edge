@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo operatrice con targa svizzera, coinvolto in un'infrazione il 15 aprile 2025 alle 18:12 in via della Libertà, civico 22. La violazione riguarda il parcheggio davanti a un passo carraio, secondo l'articolo 42, comma 40 del codice penale. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di 8 punti. La stampa del verbale è richiesta in inglese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "diciotto e dodici",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "svizzera",
+                    "targa": "men centoventitre",
+                    "tipologia_targa": null,
+                    "marca_modello": "peugeot duecentotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantadue",
+                    "comma": "quaranta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo peggio duecentotto macchina operatrice targa men centoventitre ho più di tipo prova immatricolati in svizzera per infrazione commessa in data quindici aprile duemilaventicinque ore diciotto e dodici inviare della libertà civico ventidue è stato rilevato parcheggio davanti a passo carabine ai sensi dell'articolo quarantadue comma quaranta del codice penale impossibile effettuare la contestazione immediata assenza del trasgressori la violazione comporta la decurtazione di otto punti richiesta stampa in inglese via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Peugeot 208 macchina operatrice, targa MN123OP di tipo prova, immatricolato in svizzera, per infrazione commessa in data 15/04/2025, ore 18:12. In viale della Libertà, civico 22, è stato rilevato parcheggio davanti a passo carrabile, ai sensi dell'articolo 42, comma 40, del codice penale. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 8 punti. Richiesta stampa in inglese via bluetooth, stampa anche la comunicazione. "
+}

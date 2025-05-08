@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo Seat Ibiza con rimorchio, targa \"guerre novecentottanta sette se ti di tipo ufficiale\", immatricolato in Grecia. L'infrazione è avvenuta il 28 aprile 2025 alle 00:36 in via della Speranza, civico 18, per parcheggio davanti a passo carabine, violando l'articolo 21 comma 19 del codice stradale. Non è stata possibile la contestazione immediata per l'assenza del trasgressore. La violazione comporta la decurtazione di sette punti. È richiesta la stampa in portoghese via Hawaii, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte trentasei",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "seat ibiza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo seat ibiza rimorchio targa guerre novecentottanta sette se ti di tipo ufficiale immatricolati in grecia per infrazione commessa in data ventotto aprile duemilaventicinque ore e mezzanotte trentasei in via della speranza civico diciotto è stato rilevato parcheggio davanti a passo carabine ai sensi dell'articolo ventuno comma diciannove del codice stradale impossibile effettuare la contestazione immediata vista l'assenza del trasgressori la violazione comporta la decurtazione di sette punti richiesta stampa in portoghese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Seat Ibiza rimorchio, targa QR987ST di tipo ufficiale, immatricolato in grecia, per infrazione commessa in data 28/04/2025, ore 00:36. In via della Speranza, civico 18, è stato rilevato parcheggio davanti a passo carrabile, ai sensi dell'articolo 21, comma 19, del codice stradale.Impossibile effettuare la contestazione immediata vista l'assenza del trasgressore. La violazione comporta la decurtazione di 7 punti. Richiesta stampa in portoghese via wifi, non stampare anche la comunicazione."
+}

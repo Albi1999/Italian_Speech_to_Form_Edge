@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il quattro maggio duemilaventicinque alle ore undici per una macchina agricola con targa copertura immatricolata in Olanda. L'infrazione è stata rilevata in via Etna al civico quarantacinque, violando il codice civile articolo trentuno duemilanovecento trentadue comma trenta, per transito in zona accesso vietato. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare sei punti. Il veicolo è un Chevrolet Spark di colore verde. La stampa del preavviso è richiesta tramite Bluetooth in olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "undici",
+            "Strada_1": "via etna",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "olanda",
+                    "targa": "ti zero nove otto i ypsilon",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "chevrolet spark",
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data quattro maggio duemilaventicinque alle ore undici è stato notificato un preavviso per un macchina agricola targato ti zero nove otto i ypsilon con targa copertura immatricolati l'olanda l'infrazione stata rilevata invia etna al civico quarantacinque con violazione del codice civile articolo trentuno duemilanovecento trentadue comma trenta in particolare si e riscontrato un transito in zona accesso vietato non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono sei punti il veicolo è un avrò le spark di colore verde con numero di telaio tre cinque otto sei due quattro due quattro due massa millenovecentonovanta sei chili necessita alla stampa del preavviso tramite blu tutte in olandese non stampare anche la comunicazione",
+    "original_sentence": "In data 04/05/2025, alle ore 11:00, è stato notificato un preavviso per un macchina agricola targato TR098YU con targa copertura, immatricolato in olanda. L'infrazione è stata rilevata in via Etnea, al civico 45, con violazione del codice civile, articolo 31, 2932, comma 30, in particolare si è riscontrato un transito in zona accesso vietato Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 6 punti. Il veicolo è un Chevrolet Spark di colore verde, con numero di telaio 358624242 e massa 1996 kg. Necessito la stampa del preavviso tramite bluetooth, in olandese, non stampare anche la comunicazione. "
+}

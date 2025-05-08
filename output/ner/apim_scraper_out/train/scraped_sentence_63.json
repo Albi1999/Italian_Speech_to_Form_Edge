@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 20 aprile 2025 alle 16:36 per una violazione riscontrata su un veicolo Nissan Mica con targa croata. La violazione riguarda il parcheggio su strisce pedonali in via della Vittoria, civico 9, in violazione dell'articolo 38, comma 36 del codice penale. La contestazione non è stata immediata a causa dell'assenza del conducente. Sono previsti due punti di decurtazione dalla patente. La stampa del verbale è richiesta in italiano via WiFi, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "sedici e trentasei",
+            "Strada_1": "via della Vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "croazia",
+                    "targa": "cappelle trecentoventi uno megan houston",
+                    "tipologia_targa": null,
+                    "marca_modello": "nissan mica",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentotto",
+                    "comma": "trentasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data venti aprile duemilaventicinque alle ore sedici e trentasei per la violazione riscontrata al veicolo autovettura marca nissan mica targato cappelle trecentoventi uno megan houston tipo copertura proveniente da croazia in particolare inviarle della vittoria civico nove è stato accertato parcheggio su strisce pedonali in violazione dell'articolo trentotto comma trentasei del codice penale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di due punti dalla patente richiedo la stampa in italiano via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 20/04/2025 alle ore 16:36 per la violazione riscontrata al veicolo autovettura, marca Nissan Micra, targato KL321MN (tipo copertura) proveniente da croazia. In particolare, in viale della Vittoria, civico 9, è stato accertato parcheggio su strisce pedonali, in violazione dell'articolo 38, comma 36 del codice penale. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 2 punti dalla patente. Richiedo la stampa in italiano via wifi, stampa anche la comunicazione."
+}

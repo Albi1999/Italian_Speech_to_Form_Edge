@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il quattordici aprile duemilaventicinque alle ventitré sedici per un'infrazione accertata in via della Concordia, civico quattordici. Il veicolo coinvolto è un'autovettura con targa speciale immatricolata in Francia, targato icsi in un novecento ottantasette sa. La violazione riguarda il codice penale, articolo cinquantuno, comma quarantanove, per parcheggio in divieto di sosta. La contestazione è stata immediata, effettuata dall'agente Giulia Costa. Non sono previste sanzioni accessorie. La stampa del verbale è stata effettuata tramite Bluetooth in spagnolo, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "ventitré sedici",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "francia",
+                    "targa": "icsi in un novecento ottantasette sa",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquantuno",
+                    "comma": "quarantanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tra i punti da decurtare",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle ventitré sedici del quattordici aprile duemilaventicinque sto dicendo un verbale per il veicolo autovettura targato icsi in un novecento ottantasette sa con targa speciale immatricolati in francia l'infrazione stata accertata in via della concordia al civico quattordici con violazione del codice penale articolo cinquantuno qom quarantanove per parcheggiato in divieto di sosta sono previsti tra i punti da decurtare contestazione immediata effettuata dalla gente giulia costa il verbale è stato redatto sul posto in via della concordia non posso applicare alcuna sanzioni accessoria stampa tramite blu tutte in spagnolo stampa anche la comunicazione",
+    "original_sentence": "Alle 23:16 del 14/04/2025, sto redigendo un verbale per il veicolo autovettura targato XY987ZA con targa speciale, immatricolato in franciaL'infrazione è stata accertata in via della Concordia, al civico 14, con violazione del codice penale, articolo 51,comma 49 per parcheggio in divieto di sosta Sono previsti 3 punti da decurtare. Contestazione immediata effettuata dall'agente Giulia Costa, il verbale è stato redatto sul posto in via della Concordia. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in spagnolo, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo Lancia Delta proveniente dalla Spagna, con targa di tipo prova. L'infrazione è stata rilevata il 29 aprile 2025 alle ore 13:05 in corso della Repubblica, civico 19, per parcheggio in zona a rimozione. La violazione riguarda l'articolo 158, comma 2 del codice penale. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la perdita di 9 punti. Si richiede la stampa del verbale in italiano tramite Bluetooth, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "tredici cinque",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "i ehi centoventitre capelli",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "lancia delta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina operatrice marca lancia delta targato i ehi centoventitre capelli di tipo prova proveniente da spagna l'infrazione è stata rilevata il ventinove aprile duemilaventicinque alle ore tredici cinque il veicolo si trovava in corso della repubblica al civico diciannove in parcheggio in zona a rimozione violando l'articolo centocinquantotto coma due del codice penale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazioni comporta la perdita di nove punti richiedo la stampa del verbale in italiano tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina operatrice, marca Lancia Delta, targato IJ123KL (di tipo prova), proveniente da spagna. L'infrazione è stata rilevata il 29/04/2025 alle ore 13:05. Il veicolo si trovava in corso della Repubblica, al civico 19, in parcheggio in zona rimozione, violando l'articolo 158, comma 2, del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 9 punti. Richiedo la stampa del verbale in italiano tramite bluetooth, non stampare anche la comunicazione. "
+}

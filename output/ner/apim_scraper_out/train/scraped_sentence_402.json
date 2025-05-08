@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il dieci aprile duemilaventicinque alle otto e un minuto per una violazione riscontrata su un veicolo macchina agricola marca Onda, targato ufficiale proveniente dalla Svizzera. La violazione è avvenuta in viale della Vittoria, civico nove, per parcheggio su strisce pedonali, violando l'articolo quarantuno, comma trentanove del codice penale. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di sei punti dalla patente. La stampa è richiesta in olandese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "otto e un minuto",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "i sette centottantanove chilometri",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "onda devi",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantuno",
+                    "comma": "trentanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data dieci aprile duemilaventicinque alle otto e un minuto per la violazione riscontrata al veicolo macchina agricola marca onda devi targato i sette centottantanove chilometri tipo ufficiale proveniente da svizzera in particolare in viale della vittoria civico nove è stato accertato parcheggio su strisce pedonali in violazione dell'articolo quarantuno con ma trentanove del codice penale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di sei punti dalla patente richiedo la stampa in olandese via blu tutta stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 10/04/2025 alle ore 08:01 per la violazione riscontrata al veicolo macchina agricola, marca Honda HR-V, targato IJ789KL (tipo ufficiale) proveniente da svizzera. In particolare, in viale della Vittoria, civico 9, è stato accertato parcheggio su strisce pedonali, in violazione dell'articolo 41, comma 39 del codice penale. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 6 punti dalla patente. Richiedo la stampa in olandese via bluetooth, stampa anche la comunicazione."
+}

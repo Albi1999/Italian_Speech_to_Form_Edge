@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il sedici aprile duemilaventicinque alle ore venti e quarantacinque per un veicolo ciclomotore di marca Chi Api Canto con targa CI DI centoventitre, tipo prova, registrato in Olanda. L'infrazione è avvenuta in Piazza Venezia al numero uno, per parcheggio davanti a passo carabine, violando l'articolo quattordici comma dodici del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti sette punti di decurtazione. Si richiede la stampa della notifica tramite Wi-Fi in lingua olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "venti e quarantacinque",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "olanda",
+                    "targa": "ci di centoventitre",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "chi api canto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattordici",
+                    "comma": "dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data sedici aprile duemilaventicinque alle ore venti e quarantacinque è stato emesso un preavviso di violazione per il veicolo ciclomotori di marca chi api canto con targa ci di centoventitre tipo prova registrato in olanda l'infrazione e avvenuta in piazza venezia al numero uno e consiste in parcheggio davanti a passo carabine come previsto dall'articolo quattordici con ma dodici del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti sette punti di decurtazione si prega di stampare la presente notifica tramite vuoi fai in lingua olandese non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 16/04/2025, alle ore 20:45, è stato emesso un preavviso di violazione per il veicolo ciclomotore di marca Kia Picanto, con targa CD123AB (tipo prova), registrato in olanda. L'infrazione è avvenuta in piazza Venezia, al numero 1, e consiste in parcheggio davanti a passo carrabile, come previsto dall'articolo 14, comma 12 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 7 punti di decurtazione.  Si prega di stampare la presente notifica tramite wifi, in lingua olandese, non stampare anche la comunicazione."
+}

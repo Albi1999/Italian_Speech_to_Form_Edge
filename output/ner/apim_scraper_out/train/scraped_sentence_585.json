@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un'infrazione stradale commessa il 14 aprile 2025 alle ore 11:34 in via della Libertà, civico 3. L'infrazione riguarda il parcheggio su strisce pedonali, violando l'articolo 9 comma 7 del codice stradale. Il veicolo coinvolto è un'autovettura con targa 'guerre quattrocentocinquanta sei e se ti', di tipo ufficiale, proveniente dall'Olanda. La stampa del preavviso è richiesta in francese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "undici e trentaquattro",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "olanda",
+                    "targa": "guerre quattrocentocinquanta sei e se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tra i punti di decurtazione",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo scheletro le tracce autovettura targa guerre quattrocentocinquanta sei e se ti di tipo ufficiale proveniente da olanda il giorno quattordici aprile duemilaventicinque alle ore undici e trentaquattro in via della libertà al numero civico tre e stata commessa l'infrazione di parcheggio su strisce pedonali come previsto dall'articolo nove comma sette del codice stradale per questa violazione sono previsti tra i punti di decurtazione cedola stampa del preavviso in francese via blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Chevrolet Trax autovettura, targa QR456ST di tipo ufficiale, proveniente da olanda. Il giorno 14/04/2025, alle ore 11:34, in via della Libertà, al numero civico 3, è stata commessa l'infrazione di parcheggio su strisce pedonali, come previsto dall'articolo 9, comma 7, del codice stradale. Per questa violazione sono previsti 3 punti di decurtazione. Chiedo la stampa del preavviso in francese via bluetooth, non stampare anche la comunicazione. "
+}

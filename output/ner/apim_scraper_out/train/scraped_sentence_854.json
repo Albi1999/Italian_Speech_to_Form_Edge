@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo Alfa Romeo Stelvio, targato ufficiale, immatricolato in Slovenia. La violazione è avvenuta il 7 aprile 2025 alle ore 25 in via Roma, civico 77, per parcheggio su strisce pedonali. La violazione è in base all'articolo 16, comma 14 del codice penale, con un punto di decurtazione. Si richiede la stampa del preavviso in lingua tedesca tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "venticinque",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "quattrocentocinquanta sei ci di di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "alfa romeo stelvio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sedici",
+                    "comma": "quattordici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo autovettura marca alfa romeo stelvio targato quattrocentocinquanta sei ci di di tipo ufficiale immatricolati in slovenia la violazione è avvenuta i sette aprile duemilaventicinque alle ore venticinque invia roma al numero civico settantasette ed è relativa parcheggio su strisce pedonali in base al l'articolo sedici comma quattordici del codice penale per tale violazione sono previsti un punti di decurtazione si richiede la stampa di tale preavviso in lingua tedesco tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo autovettura, marca Alfa Romeo Stelvio, targa AB456CD di tipo ufficiale, immatricolato in slovenia. La violazione è avvenuta il 07/04/2025 alle ore 20:05 in via Roma, al numero civico 77, ed è relativa a parcheggio su strisce pedonali, in base all'articolo 16, comma 14 del codice penale. Per tale violazione sono previsti 1 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua tedesco tramite bluetooth, stampa anche la comunicazione. "
+}

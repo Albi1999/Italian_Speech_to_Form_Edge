@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il ventiquattro aprile duemilaventicinque alle quattro e trentatré per un'infrazione accertata in via del corso al civico dolci. Il veicolo coinvolto è una macchina agricola con targa prova immatricolata in Portogallo. La violazione riguarda il codice civile, articolo due due tre e cinque, comma ventitré, per parcheggio in doppia fila. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. È previsto un punto da decurtare. La stampa del verbale avviene tramite Bluetooth in francese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "quattro e trentatré",
+            "Strada_1": "via del corso",
+            "Civico_1": "dolci",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "portogallo",
+                    "targa": "jeff trecentoventi uno giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "due",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle quattro e trentatré del ventiquattro aprile duemilaventicinque sto dicendo un verbale per il veicolo macchina agricola targato jeff trecentoventi uno giacca con targa prova immatricolati portogallo l'infrazione e stata accertata in via del corso al civico dolci con violazione del codice civili articolo due due tre e cinque come ventitré per parcheggia in doppia fila sono previsti un punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite blu tutti in francese stampa anche la comunicazione",
+    "original_sentence": "Alle 04:33 del 24/04/2025, sto redigendo un verbale per il veicolo macchina agricola targato EF321GH con targa prova, immatricolato in portogalloL'infrazione è stata accertata in via del Corso, al civico 12, con violazione del codice civile, articolo 2235,comma 23 per parcheggio in doppia fila Sono previsti 1 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in francese, stampa anche la comunicazione. "
+}

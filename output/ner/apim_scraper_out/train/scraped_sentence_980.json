@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 14 aprile 2025 alle ore 2:25 per un veicolo Ducati Monster, immatricolato in Svizzera con targa di tipo prova. L'infrazione è avvenuta in via della Speranza, civico 18, violando il codice penale, articolo 45, comma 43, riguardante il parcheggio in divieto di sosta. Sono stati decurtati 9 punti. Il veicolo è un ciclomotore di colore argento. La stampa deve essere effettuata in spagnolo e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "due venticinque",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "svizzera",
+                    "targa": "si ypsilon centoventitre zza",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "ducati monster",
+                    "colore": "argento"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "con il due",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "i quattordici aprile duemilaventicinque alle ore due venticinque sto mettendo una notifica di infrazione per il veicolo ducati monster ciclomotori immatricolati in svizzera con targa si ypsilon centoventitre zza di tipo prova l'infrazione sia verificata presso via della speranza al civico diciotto violando il codice penale in particolare l'articolo quarantacinque come quarantatré riguardante il parcheggio in divieto di sosta devo decurtare nove punti non è necessaria alcuna sanzione accessoria il ciclomotori di color argento con numero di telaio nove sei cinque otto tre zero nove otto quattro e massa tremila ottocentocinquanta tre chili stampa me lo con il due tutti in spagnolo stampa anche la comunicazione",
+    "original_sentence": "Il 14/04/2025, alle ore 02:25, sto emettendo una notifica di infrazione per il veicolo Ducati Monster, ciclomotore immatricolato in svizzera con targa XY123ZA di tipo prova. L'infrazione si è verificata presso via della Speranza, al civico 18, violando il codice penale, in particolare l'articolo 45, comma 43 riguardante il parcheggio in divieto di sosta. Devo decurtare 9 punti. Non è necessaria alcuna sanzione accessoria. Il ciclomotore è di colore argento, con numero di telaio 965830984 e massa 3853 kg. Stampamelo con il bluetooth in spagnolo, stampa anche la comunicazione. "
+}

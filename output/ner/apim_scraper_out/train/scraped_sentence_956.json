@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 28 aprile 2025 alle ore 3:46 per un'autovettura con targa ufficiale immatricolata in Portogallo. L'infrazione è stata rilevata in via Garibaldi al civico 11, con violazione del codice penale articolo 158 comma 2, per parcheggio in doppia fila. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Il veicolo è un Dacia Sandero di colore argento. È necessario decurtare un punto. La stampa del preavviso è richiesta tramite WiFi in inglese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "tre quarantasei",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "unici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "portogallo",
+                    "targa": "centoventitre occhi",
+                    "tipologia_targa": "ufficiali",
+                    "marca_modello": "dacia sandro",
+                    "colore": "argento"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtare, after: punti",
+            "tipo_stampa": "wife ehi",
+            "lingua_stampa": "inglesi",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventotto aprile duemilaventicinque alle ore tre quarantasei è stato notificato un preavviso per un'autovettura targato centoventitre occhi con targa ufficiali immatricolati portogallo l'infrazione e stata rilevata in via garibaldi al civico unici con violazione del codice penale articolo centocinquantotto comma due in particolare sia riscontrato un parcheggio in doppia fila non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono un punti il veicolo è un dacia sandro ero di colore argento con numero di telaio cinque quattro uno sette due un otto tre tre massa duemilasettecento sessantuno chi li necessita la stampa del preavviso tramite wife ehi inglesi non stampare anche la comunicazione",
+    "original_sentence": "In data 28/04/2025, alle ore 03:46, è stato notificato un preavviso per un autovettura targato MN123OP con targa ufficiale, immatricolato in portogallo. L'infrazione è stata rilevata in via Garibaldi, al civico 11, con violazione del codice penale, articolo 158, comma 2, in particolare si è riscontrato un parcheggio in doppia fila Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 1 punti. Il veicolo è un Dacia Sandero di colore argento, con numero di telaio 541721833 e massa 2761 kg. Necessito la stampa del preavviso tramite wifi, in inglese, non stampare anche la comunicazione. "
+}

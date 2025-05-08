@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un'infrazione di parcheggio su strisce pedonali commessa da un veicolo speciale proveniente dalla Croazia. L'infrazione è avvenuta il 29 aprile 2025 alle 17:53 in viale della stazione, civico 4. La violazione riguarda l'articolo 158, comma 2 del codice stradale, con una decurtazione di punti. Si richiede la stampa del preavviso in spagnolo via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "diciassette cinquantatré",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "croazia",
+                    "targa": "fuggi duecentotrentaquattro",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: punti",
+            "tipo_stampa": "blu tute",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo sempre le sbarca autovettura targa fuggi duecentotrentaquattro di tipo speciale proveniente da croazia il giorno ventinove aprile duemilaventicinque alle ore diciassette cinquantatré in viale della stazione al numero civico quattro e stata commessa l'infrazione di parcheggio su strisce pedonali come previsto dall'articolo centocinquantotto comma due del codice stradale per questa violazione sono previsti un punti di decurtazione chiedo la stampa del preavviso in spagnolo via blu tute stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Chevrolet Spark autovettura, targa FG234LM di tipo speciale, proveniente da croazia. Il giorno 29/04/2025, alle ore 17:53, in viale della Stazione, al numero civico 4, è stata commessa l'infrazione di parcheggio su strisce pedonali, come previsto dall'articolo 158, comma 2, del codice stradale. Per questa violazione sono previsti 1 punti di decurtazione. Chiedo la stampa del preavviso in spagnolo via bluetooth, stampa anche la comunicazione. "
+}

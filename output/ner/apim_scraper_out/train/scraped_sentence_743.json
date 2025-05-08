@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo meticcia, targato ufficiale i sette centottantanove capelli, registrato in Portogallo. La violazione è avvenuta il ventinove aprile duemilaventicinque alle diciannove e quattro in via della Libertà, civico tre, per parcheggio su strisce pedonali. La violazione è in base all'articolo quarantadue comma quaranta del codice stradale e comporta una decurtazione di quattro punti. La stampa dell'avviso è richiesta via Bluetooth in portoghese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "diciannove quattro",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "portogallo",
+                    "targa": "i sette centottantanove capelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantadue",
+                    "comma": "quaranta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo ma è meticcia ero sette motoveicoli targato i sette centottantanove capelli con targa ufficiale registrato in portogallo per un fatto accaduto il ventinove aprile duemilaventicinque alle diciannove quattro il veicolo si trovava in via della libertà al civico tre dove è stato riscontrato parcheggio su strisce pedonali in base all'articolo quarantadue comma quaranta del codice stradale questa infrazione comporta una decurtazione di quattro punti genera alla stampa dell'avviso via blu tutti in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Yamaha MT-07, motoveicolo, targato IJ789KL con targa ufficiale, registrato in portogallo, per un fatto accaduto il 29/04/2025 alle 19:04. Il veicolo si trovava in via della Libertà, al civico 3, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 42, comma 40, del codice stradale. Questa infrazione comporta una decurtazione di 4 punti. Genera la stampa dell'avviso via bluetooth in portoghese, non stampare anche la comunicazione. "
+}

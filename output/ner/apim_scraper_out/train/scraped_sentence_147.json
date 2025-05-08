@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo di tipo macchina agricola con targa proveniente dalla Francia. L'infrazione è avvenuta il 18 aprile 2025 alle 8:21 in via della Libertà, numero civico 3, per parcheggio in divieto di sosta secondo l'articolo 38, comma 36 del codice stradale. Sono previsti cinque punti di decurtazione. La stampa del preavviso è richiesta in portoghese via Hawaii, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "otto e ventuno",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "curry novecentottanta sette se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentotto",
+                    "comma": "trentasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: previsti, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo sciopero le spark macchina agricola targa curry novecentottanta sette se ti di tipo copertura proveniente da francia il giorno diciotto aprile duemilaventicinque alle otto e ventuno in via della libertà al numero civico tre stata commessa l'infrazione di parcheggio in divieto di sosta come previsto dall'articolo trentotto comma trentasei del codice stradale per questa violazione sono previsti cinque punti di decurtazione cedola stampa del preavviso in portoghese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Chevrolet Spark macchina agricola, targa QR987ST di tipo copertura, proveniente da francia. Il giorno 18/04/2025, alle ore 08:21, in via della Libertà, al numero civico 3, è stata commessa l'infrazione di parcheggio in divieto di sosta, come previsto dall'articolo 38, comma 36, del codice stradale.Per questa violazione sono previsti 5 punti di decurtazione. Chiedo la stampa del preavviso in portoghese via wifi, non stampare anche la comunicazione."
+}

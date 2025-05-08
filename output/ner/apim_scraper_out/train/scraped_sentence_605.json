@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto l'undici aprile 2025 alle ore 24:56 per un veicolo Audi A3 immatricolato in Austria con targa ufficiale. L'infrazione è avvenuta in Corso Italia, civico 30, per violazione del codice stradale, articolo 29, comma 27, riguardante il parcheggio. La contestazione è stata immediata, eseguita dall'agente Silvia Neri, con la decurtazione di due punti. La stampa del verbale è prevista in olandese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "ventiquattro e cinquantasei",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "austria",
+                    "targa": "è e quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "audi a tre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: da",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno undici aprile duemilaventicinque alle ore ventiquattro e cinquantasei è stato redatto un verbale per il veicolo audi a tre motoveicoli immatricolati in austria con targa è e quattrocentocinquanta sei giacca di tipo ufficiale l'infrazione avvenuta in corso italia al civico trenta e stata riscontrata una violazione del codice stradale articolo ventinove con ventisette ovvero parcheggio indietro di sosta il verbale è stato eseguito sul posto con contestazione immediata da parte della gente silvia neri sono previsti due punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in olandese tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Il giorno 11/04/2025, alle ore 00:56, è stato redatto un verbale per il veicolo Audi A3, motoveicolo immatricolato in austria con targa EF456GH di tipo ufficiale. L'infrazione è avvenuta in corso Italia, al civico 30. È stata riscontrata una violazione del codice stradale, articolo 29, comma 27 ovvero parcheggio in divieto di sostaIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Silvia Neri. Sono previsti 2 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in olandese tramite bluetooth, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo rimorchio immatricolato in Grecia, coinvolto in un'infrazione avvenuta il 26 aprile 2025 alle 14:21. L'infrazione è avvenuta in Vietnam, in un'area di parcheggio. L'articolo violato è il 40, comma 38 del codice stradale, e verranno decurtati 7 punti dalla patente. La stampa del verbale avverrà tramite Bluetooth in lingua francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "aprile duemilaventicinque",
+            "ora_violazione": "quattordici e ventuno",
+            "Strada_1": "vietnam",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "effe trecentoventi",
+                    "tipologia_targa": "ufficiali",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampa è anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sta generando un verbale per il veicolo un dei venti rimorchio contenga effe trecentoventi una giacca di tipo ufficiali immatricolati in grecia per un'infrazione commessa e l'atto aprile duemilaventicinque alle quattordici e ventuno l'inflazione è avvenuta in vietnam a il nome o quarantacinque dove i veicolo era in parcheggio indietro di sosta l'articolo violato e il quaranta come trentotto del codice stradale verranno tolti sette punti dalla patente stampa questo verbali di blu tutti in francese non stampa è anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Hyundai i20, rimorchio con targa EF321GH di tipo ufficiale, immatricolato in grecia, per un'infrazione commessa il 08/04/2025 alle 14:21. L'infrazione è avvenuta in via Etnea, al numero 45, dove il veicolo era in parcheggio in divieto di sosta. L'articolo violato è il 40, comma 38 del codice stradale. Verranno tolti 7 punti dalla patente. Stampa questo verbale via bluetooth in francese, non stampare anche la comunicazione. "
+}

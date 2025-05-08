@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da una macchina operatrice marca Subaru, immatricolata in Austria. La violazione è avvenuta il 13 aprile 2025 alle ore 17:36 in via Le della Vittoria, al civico Nave. La violazione riguarda il parcheggio davanti a un passo carrabile, violando l'articolo 37, comma 35 del codice penale. La conseguenza della violazione è la perdita di sette punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua spagnola, con l'inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "diciassette trentasei",
+            "Strada_1": "via le della vittoria",
+            "Civico_1": "nave",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "austria",
+                    "targa": "quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentasette",
+                    "comma": "trentacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina operatrice marca subaru in prezza targa è quattrocentocinquanta sei giacca di tipo prova immatricolati in austria in data tredici aprile duemilaventicinque alle ore diciassette trentasei invia le della vittoria al civico nave è stata commessa la seguente violazione parcheggio davanti a passo arrabbi articolo trentasette come trentacinque del codice penale dalla violazione con segue la perdita di sette punti stampa in modalità blu tutte in lingua spagnolo stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina operatrice, marca Subaru Impreza, targa EF456GH di tipo prova, immatricolato in austria. In data 13/04/2025 alle ore 17:36, in viale della Vittoria, al civico 9, è stata commessa la seguente violazione: parcheggio davanti a passo carrabile (articolo 37, comma 35 del codice penale). Dalla violazione consegue la perdita di 7 punti. Stampa in modalità bluetooth e in lingua spagnolo, stampa anche la comunicazione. "
+}

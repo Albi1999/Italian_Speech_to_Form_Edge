@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 9 aprile 2025 alle ore 22:56 per un veicolo di tipo ufficiale, un ciclomotore di colore blu, immatricolato con targa 'casacche in inger seicentocinquanta'. L'infrazione si è verificata in via della giustizia al civico 16, violando il codice penale, articolo 3415, comma 13, riguardante il parcheggio davanti a passo terapie. Sono stati decurtati 9 punti. La stampa deve essere effettuata in lingua tedesca e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "ventidue cinquantasei",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": null,
+                    "targa": "casacche in inger seicentocinquanta",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": "blu"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tremilaquattrocento quindici",
+                    "comma": "tredici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: di, after: punti",
+            "tipo_stampa": null,
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il nove aprile duemilaventicinque alle ore ventidue cinquantasei sto mettendo una notifica di infrazione per il veicolo casacche in inger seicentocinquanta ciclomotori immatricolati invece contenga guerre quattrocentocinquanta sei se ti di tipo ufficiale l'infezione si e verificata pesto via della giustizia al civico sedici violando il codice penale in particolare l'articolo tremilaquattrocento quindici coma tredici riguardante i parcheggio davanti a passo terapie devo decurtare di nove punti non è necessaria alcuna sanzione accessoria il ciclomotori e di colore blu con numero di telaio nove sette sette a zero sei due cinque cinque massa tremiladuecento ventuno chi li stampa me lo con higuain tedesco stampa anche la comunicazione",
+    "original_sentence": "Il 09/04/2025, alle ore 22:56, sto emettendo una notifica di infrazione per il veicolo Kawasaki Ninja 650, ciclomotore immatricolato in grecia con targa QR456ST di tipo ufficiale. L'infrazione si è verificata presso via della Giustizia, al civico 16, violando il codice penale, in particolare l'articolo 3415, comma 13 riguardante il parcheggio davanti a passo carrabile. Devo decurtare 9 punti. Non è necessaria alcuna sanzione accessoria. Il ciclomotore è di colore blu, con numero di telaio 977306255 e massa 3221 kg. Stampamelo con il wifi in tedesco, stampa anche la comunicazione. "
+}

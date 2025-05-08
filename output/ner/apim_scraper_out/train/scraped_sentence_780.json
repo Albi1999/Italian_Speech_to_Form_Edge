@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata il dodici aprile duemilaventicinque alle dodici e ventotto. Un verbale è stato redatto per un veicolo macchina operatrice con targa speciale immatricolata in Spagna, targato episodio sette centottantanove giacca. L'infrazione è avvenuta in via della storia al civico sei, violando il codice penale articolo trentacinque comma trentatré per parcheggio in divieto di sosta. Sono previsti sei punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore e non è stata applicata alcuna sanzione accessoria. La stampa avviene tramite fai in portoghese e non include la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "dodici e ventotto",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "episodio sette centottantanove giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle dodici e ventotto del dodici aprile duemilaventicinque storie di gendo un verbale per il veicolo macchina operatrice targato episodio sette centottantanove giacca con targa speciale immatricolati in spagna l'infrazione è stata accertata in via della storia al civico sei con violazione del codice penale articolo trentacinque comma trentatré per parcheggio in divieto di sosta sono previsti sei punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non passo applicare alcuna sanzione accessoria stampa tramite fai in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Alle 12:28 del 12/04/2025, sto redigendo un verbale per il veicolo macchina operatrice targato EP789GH con targa speciale, immatricolato in spagnaL'infrazione è stata accertata in via della Storia, al civico 6, con violazione del codice penale, articolo 35,comma 33 per parcheggio in divieto di sosta Sono previsti 6 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in portoghese, non stampare anche la comunicazione. "
+}

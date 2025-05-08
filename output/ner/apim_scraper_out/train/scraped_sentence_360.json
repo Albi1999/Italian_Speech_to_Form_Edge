@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale emesso il quattro maggio duemilaventicinque alle ore nove e due minuti per un veicolo Fiat Tipo immatricolato in Austria con targa ufficiale. L'infrazione è avvenuta in viale della stazione al civico quattro, con una violazione del codice penale, articolo dieci, comma otto, per parcheggio su strisce pedonali. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti dieci punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è richiesta in spagnolo tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro omaggio duemilaventicinque",
+            "ora_violazione": "nove due minuti",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "austria",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fiat tipo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "dieci",
+                    "comma": "otto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: da",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno quattro omaggio duemilaventicinque alle ore nove due minuti e statore dato un verbale per il veicolo fiat tipo molto veicolo immatricolati austria con targa i sette centottantanove chi lo litri di tipo ufficiale l'infrazione e avvenuta in viale della stazione al civico quattro stata riscontrata una violazione del codice penale articolo dieci comma otto vero parcheggio su strisce pedonali non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti dieci punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in spagnolo tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 04/05/2025, alle ore 09:02, è stato redatto un verbale per il veicolo Fiat Tipo, motoveicolo immatricolato in austria con targa IJ789KL di tipo ufficiale.L'infrazione è avvenuta in viale della Stazione, al civico 4. È stata riscontrata una violazione del codice penale, articolo 10, comma 8 ovvero parcheggio su strisce pedonaliNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 10 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in spagnolo tramite bluetooth, non stampare anche la comunicazione."
+}

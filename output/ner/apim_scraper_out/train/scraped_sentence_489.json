@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo rimorchio Harley Davidson Street 750, targato IO 450 6, di tipo speciale proveniente dal Portogallo. La violazione è stata rilevata il 15 aprile 2025 alle ore 19:35 per transito in zona accesso vietato in via della Libertà, numero 3, in base all'articolo 22, comma 20 del codice stradale. Sono previsti otto punti di decurtazione. Si richiede la stampa del preavviso tramite Bluetooth in lingua portoghese e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "diciannove trentacinque",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "portogallo",
+                    "targa": "io quattrocentocinquanta sei",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "harley davidson street settecentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventidue",
+                    "comma": "venti",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: di",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo rimorchio marca harley davidson street settecentocinquanta targato io e quattrocentocinquanta sei chi lo litri di tipo speciale proveniente da portogallo in data quindici aprile duemilaventicinque alle ore diciannove trentacinque stata rilevata la violazione di transito in zona accesso vietato in via della libertà al numero tre in base all'articolo ventidue ma venti del codice stradale per tale infrazione sono previsti otto punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua portoghese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo rimorchio, marca Harley-Davidson Street 750, targato IJ456KL di tipo speciale, proveniente da portogallo. In data 15/04/2025 alle ore 19:35, è stata rilevata la violazione di transito in zona accesso vietato in via della Libertà, al numero 3, in base all'articolo 22, comma 20 del codice stradale.Per tale infrazione sono previsti 8 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua portoghese, stampa anche la comunicazione."
+}

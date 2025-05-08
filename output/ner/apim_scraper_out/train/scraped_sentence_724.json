@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Lancia Ypsilon, macchina operatrice, con targa ME 4506 OP, immatricolato in Portogallo. L'infrazione è stata commessa il 19 aprile 2025 alle ore 16:18 in viale della Scienza, civico 14, per parcheggio in doppia fila. La violazione è ai sensi dell'articolo 185, comma 2 del codice stradale. La contestazione immediata è stata eseguita dall'agente Anna Bianchi e comporta la decurtazione di due punti. È richiesta la stampa in olandese via Hawaii, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "sedici diciotto",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "me ne quattrocentocinquanta sei oh piedi",
+                    "tipologia_targa": null,
+                    "marca_modello": "lancia i ypsilon",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "via hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo lancia i ypsilon macchina operatrice targa è me ne quattrocentocinquanta sei oh piedi tipo copertura immatricolati in portogallo per infrazione commessa in data diciannove aprile duemilaventicinque ore sedici diciotto in viale della scienza civico quattordici è stato rilevato parcheggia in doppia fila ai sensi dell'articolo centottantacinque comma due del codice stradale contestazione immediata eseguita dall'agente anna bianchi la violazione comporta la decurtazione di due punti richiesta stampa in olandese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Lancia Ypsilon macchina operatrice, targa MN456OP di tipo copertura, immatricolato in portogallo, per infrazione commessa in data 19/04/2025, ore 16:18. In viale della Scienza, civico 14, è stato rilevato parcheggio in doppia fila, ai sensi dell'articolo 185, comma 2, del codice stradale. Contestazione immediata eseguita dall'agente Anna Bianchi. La violazione comporta la decurtazione di 2 punti. Richiesta stampa in olandese via wifi, stampa anche la comunicazione. "
+}

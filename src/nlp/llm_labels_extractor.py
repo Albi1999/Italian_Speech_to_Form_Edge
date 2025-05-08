@@ -10,7 +10,18 @@ def find_entity_positions(text, entity_text, label, before_word=None, after_word
     """
     Finds start and end positions of an entity in the text.
     Uses before and after words for more precise matching if available.
-    Returns positions (tuple) or a reason (str) if not found.
+
+    Args:
+        text (str): The text to search in.
+        entity_text (str): The entity text to find.
+        label (str): The label of the entity.
+        before_word (str, optional): A word that should precede the entity.
+        after_word (str, optional): A word that should follow the entity.
+
+    Returns:
+        tuple: A tuple containing the start and end positions of the entity in the text.
+        None if not found, along with a reason for not finding it.
+        str: Reason for not finding the entity (e.g., "not_found", "context_mismatch").
     """
     positions = None
     reason_not_found = None
@@ -63,7 +74,13 @@ def find_entity_positions(text, entity_text, label, before_word=None, after_word
 def process_report_item(transcribed_sentence, key, value, entities_list, filepath_for_logging):
     """
     Processes a single item from the report, finds its position, and adds to entities_list.
-    Logs issues to the global processing_issues list.
+
+    Args:
+        transcribed_sentence (str): The transcribed sentence to search in.
+        key (str): The key/label of the item.
+        value (str): The value of the item to find in the transcribed sentence.
+        entities_list (list): The list to append found entities to.
+        filepath_for_logging (str): The file path for logging issues.
     """
     global processing_issues
     if value is None or not str(value).strip():

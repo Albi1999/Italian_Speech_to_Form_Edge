@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il tredici aprile duemilaventicinque alle ore sedici e tre per un motoveicolo con targa speciale immatricolato in Belgio. L'infrazione è stata rilevata in via Giuseppe Mazzini al civico ventiquattro, con violazione del codice civile articolo trentuno duemilanovecento trentadue comma trenta, per parcheggio su strisce pedonali. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare quattro punti. Il veicolo è un successo e visti i centocinquanta di colore marrone. La stampa del preavviso è richiesta tramite Bluetooth in spagnolo, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "sedici e tre",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "belgio",
+                    "targa": "centoventitre ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "successo e visti i centocinquanta",
+                    "colore": "marrone"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "brutus",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data tredici aprile duemilaventicinque alle ore sedici e tre è stato notificato un preavviso per un motoveicoli targato centoventitre ci di con targa speciale immatricolati in belgio l'infrazione e stata rilevata in via giuseppe mazzini al civico ventiquattro con violazione del codice civile articolo trentuno duemilanovecento trentadue coma trenta in particolare si riscontrato un parcheggio su strisce pedonali non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono quattro punti il veicolo è un successo e visti i centocinquanta di colore marrone con numero di telaio tre uno cinque otto zero cinque tre tre tre massa millequattrocento quarantotto chili necessita alla stampa del preavviso tramite brutus in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "In data 13/04/2025, alle ore 16:03, è stato notificato un preavviso per un motoveicolo targato AB123CD con targa speciale, immatricolato in belgio. L'infrazione è stata rilevata in via Giuseppe Mazzini, al civico 24, con violazione del codice civile, articolo 31, 2932, comma 30, in particolare si è riscontrato un parcheggio su strisce pedonali Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 4 punti. Il veicolo è un Suzuki SV650 di colore marrone, con numero di telaio 315805333 e massa 1448 kg. Necessito la stampa del preavviso tramite bluetooth, in spagnolo, non stampare anche la comunicazione. "
+}

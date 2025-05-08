@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo motoveicolo di marca Peggior Duecentotto con targa speciale proveniente dall'Austria. L'infrazione è avvenuta il 14 aprile 2025 alle ore 11:13 in Corso della Repubblica, numero civico 19, per parcheggio in zona a rimozione, violando l'articolo 121 comma 9 del codice civile. La decurtazione prevista è di sei punti. La contestazione è immediata, eseguita dall'agente Elena Fontana. La stampa del verbale è necessaria tramite WiFi in lingua tedesca, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "undici e tredici",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "austria",
+                    "targa": "i miei quattrocentocinquanta sei capelli",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "peggior duecentotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centoventi uno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: prevista, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo motoveicoli di marca peggior duecentotto con targa i miei quattrocentocinquanta sei capelli tipo speciale proveniente da austria fatto avvenuto il quattordici aprile duemilaventicinque alle ore undici e tredici posizione corso della repubblica numero civico diciannove infrazione parcheggio in zona a rimozione in violazione dell'articolo centoventi uno comma nove del codice civile decurtazione prevista sei punti si applica contestazione immediata da parte della gente elena fontana stampa necessaria tramite wifi in tedesco non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo motoveicolo di marca Peugeot 208, con targa IJ456KL (tipo speciale), proveniente da austria. Fatto avvenuto il 14/04/2025 alle ore 11:13. Posizione: corso della Repubblica, numero civico 19. Infrazione: parcheggio in zona rimozione, in violazione dell'articolo 121, comma 9, del codice civile. Decurtazione prevista: 6 punti. Si applica contestazione immediata da parte dell'agente Elena Fontana. Stampa necessaria tramite wifi in tedesco, non stampare anche la comunicazione. "
+}

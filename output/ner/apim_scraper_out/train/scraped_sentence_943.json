@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo Reno Clio con rimorchio, targa 'trecentoventi uno giacca', proveniente dalla Francia. L'infrazione è avvenuta il 17 aprile 2025 alle 18:49 in via Garibaldi, numero civico 11, per parcheggio in doppia fila, violando l'articolo 45, comma 43 del codice penale. Sono previsti dieci punti di decurtazione. La stampa del preavviso è richiesta in spagnolo tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "diciotto e quarantanove",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "trecentoventi uno giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "reno clio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo reno clio rimorchio targa è trecentoventi uno giacca di tipo copertura proveniente da francia il giorno diciassette aprile duemilaventicinque alle ore diciotto e quarantanove in via garibaldi al numero civico undici e stata commessa l'infrazione di parcheggio in doppia fila come previsto dall'articolo quarantacinque comma quarantatré del codice penale per questa violazione sono previsti dieci punti di decurtazione chiedo alla stampa del preavviso in spagnolo vi hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Renault Clio rimorchio, targa EF321GH di tipo copertura, proveniente da francia. Il giorno 17/04/2025, alle ore 18:49, in via Garibaldi, al numero civico 11, è stata commessa l'infrazione di parcheggio in doppia fila, come previsto dall'articolo 45, comma 43, del codice penale. Per questa violazione sono previsti 10 punti di decurtazione. Chiedo la stampa del preavviso in spagnolo via wifi, non stampare anche la comunicazione. "
+}

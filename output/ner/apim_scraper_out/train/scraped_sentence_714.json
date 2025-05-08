@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo, una macchina agricola con targa \"jeffrey quattrocentocinquanta sei giacca\", di marca Ford Fiesta, proveniente dal Portogallo. L'infrazione è avvenuta il 14 aprile 2025 alle ore 2:29 in Corso della Repubblica, numero 19. La violazione riguarda l'articolo 48, comma 46 del codice stradale, e comporterà la decurtazione di nove punti. Si richiede la stampa in lingua spagnola, modalità \"vuoi fai\", e si stampa anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "due ventinove",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "portogallo",
+                    "targa": "jeffrey quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "ford fiesta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantotto",
+                    "comma": "quarantasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: deportazione, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa jeffrey quattrocentocinquanta sei giacca di tipo copertura marca ford fiesta proveniente da portogallo l'infrazione nello specifico parcheggio davanti a passo carabine si e verificata in data quattordici aprile duemilaventicinque alle ore due ventinove in corso della repubblica al numero diciannove articolo quarantotto con ma quarantasei del codice stradale si comunica che dalla violazione conseguirà una deportazione di nove punti si richiede la stampa in lingua spagnolo modalità vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa EF456GH di tipo copertura, marca Ford Fiesta, proveniente da portogallo. L'infrazione, nello specifico parcheggio davanti a passo carrabile, si è verificata in data 14/04/2025 alle ore 02:29 in corso della Repubblica, al numero 19 (articolo 48, comma 46 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 9 punti. Si richiede la stampa in lingua spagnolo, modalità wifi, stampa anche la comunicazione. "
+}

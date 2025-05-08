@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il dieci aprile duemilaventicinque alle ore sei e quarantanove per un veicolo registrato in Portogallo. L'infrazione è avvenuta in via della Concordia, numero quattordici, per parcheggio davanti a passo carabine, violando l'articolo otto, comma sei del codice civile. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti cinque punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua spagnola, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "sei e quarantanove",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "portogallo",
+                    "targa": "centoventitre occhi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "nucleo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: previsti, after: punti",
+            "tipo_stampa": "brutus",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data dieci aprile duemilaventicinque alle ore sei e quarantanove è stato emesso un preavviso di violazione per il veicolo molto veicolo di marcare nucleo con targa centoventitre occhi tipo ufficiale registrato in portogallo l'infrazione avvenuta in via della concordia al numero quattordici e consiste in parcheggio davanti a passo carabine come previsto dall'articolo otto con ma sei del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti cinque punti di decurtazione si prega di stampare la presente notifica tramite brutus in lingua spagnolo stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 10/04/2025, alle ore 06:49, è stato emesso un preavviso di violazione per il veicolo motoveicolo di marca Renault Clio, con targa MN123OP (tipo ufficiale), registrato in portogallo. L'infrazione è avvenuta in via della Concordia, al numero 14, e consiste in parcheggio davanti a passo carrabile, come previsto dall'articolo 8, comma 6 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 5 punti di decurtazione.  Si prega di stampare la presente notifica tramite bluetooth, in lingua spagnolo, stampa anche la comunicazione."
+}

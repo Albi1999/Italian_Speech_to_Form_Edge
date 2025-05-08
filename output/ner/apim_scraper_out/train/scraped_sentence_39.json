@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Nissan Migra, immatricolato in Croazia con targa speciale. L'infrazione è avvenuta in viale della Libertà, civico 22, per parcheggio davanti a passo carabine. Si applica l'articolo 29, comma 27 del codice stradale, con la decurtazione di uno punto. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. La stampa deve essere effettuata in italiano tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "croazia",
+                    "targa": "centoventitre ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "nissan migra",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo nissan migra macchina agricola immatricolati in croazia con targa centoventitre ci di di tipo speciale l'infrazione avvenuta in viale della libertà civico ventidue parcheggia davanti a passo carabine si applica l'articolo ventinove con ma ventisette del codice stradale a seguito della violazione verranno decurtati uno punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in italiano tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Nissan Micra, macchina agricola immatricolato in croazia con targa AB123CD di tipo speciale. L'infrazione è avvenuta in viale della Libertà, civico 22: parcheggio davanti a passo carrabile. Si applica l'articolo 29, comma 27 del codice stradale. A seguito della violazione verranno decurtati 1 punti.A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in italiano tramite bluetooth, non stampare anche la comunicazione."
+}

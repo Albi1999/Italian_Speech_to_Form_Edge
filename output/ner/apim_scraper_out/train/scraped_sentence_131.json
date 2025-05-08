@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione per un veicolo BMW immatricolato in Germania. L'infrazione è avvenuta il 6 maggio 2025 alle 10:34 in via della Pace, civico 2, violando il codice stradale, articolo 158, comma 2, riguardante il parcheggio davanti a passo carrabile. Sono stati decurtati 4 punti. Il veicolo è un'autovettura di colore giallo con targa speciale. La stampa deve essere effettuata tramite Bluetooth in spagnolo, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "dieci e trentaquattro",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "bmw jeff novecento",
+                    "colore": "giallo"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il sei maggio duemilaventicinque alle ore dieci e trentaquattro sto mettendo una notifica di infrazione per il veicolo bmw jeff novecento autovettura immatricolati in germania con targa i sette centottantanove chi lo litri di tipo speciale l'infrazione si e verificata presto via della pace al civico due violando il codice stradale in particolare l'articolo centocinquantotto con ma due riguardante il parcheggio davanti a passo carabine devo decurtare quattro punti non è necessaria alcuna sanzione accessoria il autovettura e di colore giallo con numero di telaio duecentododici otto milioni e cinquecentocinquanta quattromilanovecento novantatré massa milleseicento ventotto chilogrammi stampa me lo con il blu tutti in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Il 06/05/2025, alle ore 10:34, sto emettendo una notifica di infrazione per il veicolo BMW F 900 R, autovettura immatricolato in germania con targa IJ789KL di tipo speciale. L'infrazione si è verificata presso via della Pace, al civico 2, violando il codice stradale, in particolare l'articolo 158, comma 2 riguardante il parcheggio davanti a passo carrabile.Devo decurtare 4 punti. Non è necessaria alcuna sanzione accessoria. Il autovettura è di colore giallo, con numero di telaio 218554993 e massa 1628 kg.Stampamelo con il bluetooth in spagnolo, non stampare anche la comunicazione."
+}

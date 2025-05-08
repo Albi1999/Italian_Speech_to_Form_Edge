@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il primo maggio 2025 alle ore 12:03 per un'infrazione rilevata in via Roma, civico 77. La violazione riguarda il codice penale, articolo 36, comma 34, per parcheggio su strisce pedonali. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Il veicolo coinvolto è una Dacia Sandy di colore argento, immatricolata in Grecia, con targa speciale ABE 123 CD. Sono da decurtare otto punti. La stampa del preavviso è richiesta tramite Bluetooth in inglese, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "mezzogiorno e tre minuti",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "abe centoventitre ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "dacia sandy",
+                    "colore": "argento"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentasei",
+                    "comma": "trentaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data primo maggio duemilaventicinque alle ore è mezzogiorno e tre minuti è stato notificato un preavviso per un macchina operatrice targato abe centoventitre ci di con targa speciale immatricolati in grecia l'infrazione e stata rilevata in via roma al civico settantasette con violazione del codice penale articolo trentasei comma trentaquattro in particolare sia riscontrato un parcheggio su strisce pedonali non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono otto punti il veicolo è un dacia sandy ero di colore argento con numero di telaio sei centonovantaquattro milioni e sette centosettantotto mila quattrocentocinquanta cinque massa millecinquecentoquaranta sei chilogrammi necessita alla stampa del preavviso tramite blu tutta in inglese non stampare anche la comunicazione",
+    "original_sentence": "In data 01/05/2025, alle ore 12:03, è stato notificato un preavviso per un macchina operatrice targato AB123CD con targa speciale, immatricolato in grecia. L'infrazione è stata rilevata in via Roma, al civico 77, con violazione del codice penale, articolo 36, comma 34, in particolare si è riscontrato un parcheggio su strisce pedonali Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 8 punti. Il veicolo è un Dacia Sandero di colore argento, con numero di telaio 694778455 e massa 1546 kg.Necessito la stampa del preavviso tramite bluetooth, in inglese, non stampare anche la comunicazione."
+}

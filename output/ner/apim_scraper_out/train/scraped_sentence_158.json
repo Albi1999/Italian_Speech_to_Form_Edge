@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo BMW Serie Uno, immatricolato in Svizzera, con targa \"guerre quattrocentocinquanta sei se ti\". L'infrazione è avvenuta il 30 aprile 2025 alle 10:14 in Corso Buenos Aires, numero 98, per violazione dell'articolo 33, comma 31 del codice stradale. Verranno decurtati due punti dalla patente. La stampa del verbale è richiesta via Hawaii e in lingua francese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "dieci e quattordici",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "svizzera",
+                    "targa": "guerre quattrocentocinquanta sei se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "bmw serie uno",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentatré",
+                    "comma": "trentuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: tolti, after: dalla",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo bmw serie uno macchina operatrice con targa guerre quattrocentocinquanta sei se ti di tipo ufficiale immatricolati in svizzera per un'infrazione commessa il trenta aprile duemilaventicinque alle dieci e quattordici l'infrazione e avvenuta in corso buenos aires al numero novantotto dove il veicolo era in parcheggio davanti a passo carabine l'articolo violato è il trentatré comma trentuno del codice stradale verranno tolti due punti dalla patente stampa questo verbale via hawaii fa in francese stampa anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo BMW Serie 1, macchina operatrice con targa QR456ST di tipo ufficiale, immatricolato in svizzera, per un'infrazione commessa il 30/04/2025 alle 10:14. L'infrazione è avvenuta in corso Buenos Aires, al numero 98, dove il veicolo era in parcheggio davanti a passo carrabile.  L'articolo violato è il 33, comma 31 del codice stradale. Verranno tolti 2 punti dalla patente. Stampa questo verbale via wifi in francese, stampa anche la comunicazione."
+}

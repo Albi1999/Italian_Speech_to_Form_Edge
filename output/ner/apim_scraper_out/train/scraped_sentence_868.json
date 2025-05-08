@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo agricolo con targa svizzera, che ha commesso un'infrazione di parcheggio in zona a rimozione. La violazione è avvenuta il 12 aprile 2025 alle ore 6:01 in via della Libertà, civico 21. L'infrazione è regolata dall'articolo 26, comma 24 del codice penale, con una decurtazione di 2 punti. Si richiede la stampa del preavviso in spagnolo tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "sei un minuto",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "exit un trecentoventi uno zio",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "lancia i missili",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventisei",
+                    "comma": "ventiquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: di",
+            "tipo_stampa": "vi hawaii fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo lancia i missili macchina agricola targa exit un trecentoventi uno zio di tipo copertura proveniente da svizzera il giorno dodici aprile duemilaventicinque alle ore sei un minuto in via della libertà al numero civico ventuno e stata commessa l'infrazione di parcheggio in zona a rimozione come previsto dall'articolo ventisei comma ventiquattro del codice penale per questa violazione sono previsti due punti di decurtazione chiedo la stampa del preavviso in spagnolo vi hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Lancia Ypsilon macchina agricola, targa XY321ZA di tipo copertura, proveniente da svizzera. Il giorno 12/04/2025, alle ore 06:01, in via della Libertà, al numero civico 21, è stata commessa l'infrazione di parcheggio in zona rimozione, come previsto dall'articolo 26, comma 24, del codice penale. Per questa violazione sono previsti 2 punti di decurtazione. Chiedo la stampa del preavviso in spagnolo via wifi, non stampare anche la comunicazione. "
+}

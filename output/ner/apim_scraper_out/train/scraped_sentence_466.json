@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 13 aprile 2025 alle ore 8:08 per un veicolo Subaru immatricolato in Spagna con targa G789ST. L'infrazione è avvenuta in via della Musica, civico 18, violando il codice civile, articolo 14, comma 12, riguardante il parcheggio in zona a rimozione. Sono stati decurtati 5 punti, senza sanzioni accessorie. Il veicolo è un'autovettura di colore argento. La stampa deve essere effettuata tramite Wi-Fi in portoghese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "otto e otto minuti",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "spagna",
+                    "targa": "guerre sette centottantanove se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "subaru quindicesimo",
+                    "colore": "argento"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattordici",
+                    "comma": "dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il tredici aprile duemilaventicinque alle ore otto e otto minuti sto mettendo una notifica di infrazione per il veicolo subaru quindicesimo autovettura immatricolati in spagna con targa guerre sette centottantanove se ti di tipo prova l'infrazione si e verificata presso via della musica al civico diciotto violando il codice civile in particolare l'articolo quattordici comma dodici riguardante il parcheggio in zona a rimozione devo decurtare cinque punti non è necessaria alcuna sanzione accessoria il autovettura e di colore argento con numero di telaio novecento trentaquattro milioni e novecentonovanta novemila centonovanta e massa tremiladuecento settanta chilogrammi stampa me lo con il vuoi fai in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Il 13/04/2025, alle ore 08:08, sto emettendo una notifica di infrazione per il veicolo Subaru XV, autovettura immatricolato in spagna con targa QR789ST di tipo prova. L'infrazione si è verificata presso via della Musica, al civico 18, violando il codice civile, in particolare l'articolo 14, comma 12 riguardante il parcheggio in zona rimozione.Devo decurtare 5 punti. Non è necessaria alcuna sanzione accessoria. Il autovettura è di colore argento, con numero di telaio 934999190 e massa 3270 kg.Stampamelo con il wifi in portoghese, non stampare anche la comunicazione."
+}

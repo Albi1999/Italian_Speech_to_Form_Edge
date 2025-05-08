@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta in corso della storia, civico ventidue, con un veicolo immatricolato in Grecia. L'infrazione riguarda l'articolo ventotto, comma ventisei del codice penale, e comporta la decurtazione di otto punti. Il verbale è stato contestato immediatamente dall'agente Sara Bellini. La stampa deve essere effettuata in inglese tramite Weiwei, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchine agricole",
+                    "nazione": "grecia",
+                    "targa": "i sette centottantanove cappelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventotto",
+                    "comma": "ventisei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "weiwei",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "stai mettendo un verbale per il veicolo giamai ypsilon sei test sette macchina agricole immatricolati in grecia con targa i sette centottantanove cappelli di tipo ufficiale l'infrazione avvenuta in corso della storia civico ventidue parcheggio davanti a passo carabine si applica l'articolo ventotto comma ventisei del codice penale a seguito della violazioni verranno decurtati otto punti il verbale è stato contestato immediatamente dall'agente sara bellini si prega di procedere con la stampa in inglese tramite weiwei non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Yamaha YZF-R7, macchina agricola immatricolato in grecia con targa IJ789KL di tipo ufficiale. L'infrazione è avvenuta in corso della Storia, civico 22: parcheggio davanti a passo carrabile. Si applica l'articolo 28, comma 26 del codice penale. A seguito della violazione verranno decurtati 8 punti. Il verbale è stato contestato immediatamente dall'agente Sara Bellini. Si prega di procedere con la stampa in inglese tramite wifi, non stampare anche la comunicazione. "
+}

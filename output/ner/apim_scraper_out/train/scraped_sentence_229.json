@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Ducati Monster registrato in Svizzera, con targa coperta. L'infrazione è avvenuta il 9 aprile 2025 alle 10:52 in via della Speranza, civico 18, per parcheggio su strisce pedonali. La violazione è in base all'articolo 52, comma 50 del codice civile e comporta una decurtazione di 4 punti. La stampa dell'avviso è richiesta via WiFi, in lingua tedesca, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "dieci e cinquantadue",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "svizzera",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "ducati monster",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantadue",
+                    "comma": "cinquanta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii fa",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo ducati monster autovettura targato i sette centottantanove chi lo litri con targa copertura registrato in svizzera per un fatto accaduto il nove aprile duemilaventicinque alle dieci e cinquantadue il veicolo si trovava in via della speranza al civico diciotto dove è stato riscontrato parcheggio su strisce pedonali in base all'articolo cinquantadue con ma cinquanta del codice civile questa infrazione comporta una decurtazione di quattro punti genera alla stampa dell'avviso via hawaii fa in tedesco non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Ducati Monster, autovettura, targato IJ789KL con targa copertura, registrato in svizzera,  per un fatto accaduto il 09/04/2025 alle 10:52. Il veicolo si trovava in via della Speranza, al civico 18, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 52, comma 50, del codice civile. Questa infrazione comporta una decurtazione di 4 punti.  Genera la stampa dell'avviso via wifi in tedesco, non stampare anche la comunicazione."
+}

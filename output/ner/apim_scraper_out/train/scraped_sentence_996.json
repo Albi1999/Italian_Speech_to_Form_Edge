@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo rimorchio targato \"i miei quattrocentocinquanta sei capace\" di tipo \"prova\" proveniente dalla Slovenia, marca \"amai ypsilon effe sette\". La violazione, ovvero parcheggio in doppia fila, è avvenuta il 13 aprile 2025 alle 17:52 in via della Giustizia, numero 16. L'infrazione rientra nell'articolo 185, comma 2 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di un punto. Si richiede la stampa in lingua tedesca tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "diciassette cinquantadue",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "slovenia",
+                    "targa": "i miei quattrocentocinquanta sei capace",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "amai ypsilon effe sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo rimorchio targato i miei quattrocentocinquanta sei capace di tipo prova proveniente da slovenia marca amai ypsilon effe sette la violazione ovvero parcheggiato in doppia fila si e verificata in data tredici aprile duemilaventicinque alle ore diciassette cinquantadue in via della giustizia al numero sedici l'infrazione rientra nell'articolo centottantacinque comma due del codice stradale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzione prevede la perdita di un punti si richiede la stampa in lingua tedesco tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo rimorchio targato IJ456KL di tipo prova proveniente da slovenia, marca Yamaha YZF-R7. La violazione, ovvero parcheggio in doppia fila, si è verificata in data 13/04/2025 alle ore 17:52 in via della Giustizia, al numero 16. L'infrazione rientra nell'articolo 185, comma 2 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 1 punti. Si richiede la stampa in lingua tedesco, tramite bluetooth, non stampare anche la comunicazione. "
+}

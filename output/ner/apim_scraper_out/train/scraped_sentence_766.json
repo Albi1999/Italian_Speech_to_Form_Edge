@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto l'undici aprile 2025 alle ore 11:32 per una violazione del codice stradale. Il veicolo coinvolto è una macchina operatrice immatricolata in Francia con targa ufficiale. L'infrazione è avvenuta in viale della Concordia, civico 13, per parcheggio in zona a rimozione. La contestazione è stata immediata e sono previsti tre punti da decurtare. La stampa del verbale è in inglese tramite Bluetooth e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "undici e trentadue",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "francia",
+                    "targa": "yemen sette centottantanove oh più",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno undici aprile duemilaventicinque alle ore undici e trentadue è stato redatto un verbale per veicolo mas da due macchina operatrice immatricolati in francia con targa yemen sette centottantanove oh più di tipo ufficiale l'infrazione e avvenuta in viale della concordia al civico tredici e stata riscontrata una violazione del codice stradale articolo cinque comma tre ovvero parcheggio in zona a rimozione il verbale è stato eseguito sul posto con contestazione immediata da parte della gente marco gentili sono previsti tre punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in inglese tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Il giorno 11/04/2025, alle ore 11:32, è stato redatto un verbale per il veicolo Mazda 2, macchina operatrice immatricolato in francia con targa MN789OP di tipo ufficiale. L'infrazione è avvenuta in viale della Concordia, al civico 13. È stata riscontrata una violazione del codice stradale, articolo 5, comma 3 ovvero parcheggio in zona rimozioneIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Marco Gentili. Sono previsti 3 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in inglese tramite bluetooth, stampa anche la comunicazione. "
+}

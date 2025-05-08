@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il ventotto aprile duemilaventicinque alle ore quattro e sedici per un ciclo motore con targa copertura immatricolato in Olanda. L'infrazione è stata rilevata in via della Libertà al civico ventuno, con violazione del codice penale articolo quattro comma due, per parcheggio in doppia fila. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare nove punti. Il veicolo è un BMW F900 di colore blu. La stampa del preavviso è richiesta tramite Wi-Fi in spagnolo, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "quattro e sedici",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclo motore",
+                    "nazione": "olanda",
+                    "targa": "icsi ypsilon novecentottanta sette zaha",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "bmw effe novecento serie",
+                    "colore": "blu"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventotto aprile duemilaventicinque alle ore quattro e sedici è stato notificato un preavviso per un ciclo motore targato icsi ypsilon novecentottanta sette zaha con targa copertura immatricolati in olanda l'infrazione e stata rilevata in via della libertà al civico ventuno con violazione del codice penale articolo quattro comma due in particolare si e riscontrato un parcheggio in doppia fila non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono nove punti il veicolo è un bmw effe novecento serie di colore blu con numero di telaio quattrocentosettanta cinque milioni e duecentoquarantadue mila cinquecentoventi e massa tremila e ottantaquattro chilogrammi necessita alla stampa del preavviso tramite vuoi fai in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "In data 28/04/2025, alle ore 04:16, è stato notificato un preavviso per un ciclomotore targato XY987ZA con targa copertura, immatricolato in olanda. L'infrazione è stata rilevata in via della Libertà, al civico 21, con violazione del codice penale, articolo 4, comma 2, in particolare si è riscontrato un parcheggio in doppia fila Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 9 punti. Il veicolo è un BMW F 900 XR di colore blu, con numero di telaio 475242520 e massa 3084 kg.Necessito la stampa del preavviso tramite wifi, in spagnolo, non stampare anche la comunicazione."
+}

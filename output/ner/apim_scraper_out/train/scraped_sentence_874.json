@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'emissione di preavviso per una violazione di parcheggio. Il veicolo coinvolto è una macchina agricola Alfa Romeo Stelvio con targa austriaca. La violazione è avvenuta il 25 aprile 2025 alle 19:52 in via Giuseppe Mazzini, numero 24. La violazione riguarda l'articolo 131, comma 9 del codice civile, con una decurtazione di sette punti. Si richiede la stampa del preavviso tramite WiFi, in lingua inglese, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "diciannove cinquantadue",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "austria",
+                    "targa": "i sei centocinquantaquattro capelli",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "alfa romeo stelvio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centotrentuno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissioni di preavviso per il veicolo macchina agricola marca alfa romeo stelvio targato i sei centocinquantaquattro capelli di tipo copertura proveniente da austria in data venticinque aprile duemilaventicinque alle ore diciannove cinquantadue e stata rilevata la violazione di parcheggio davanti a passo carabine in via giuseppe mazzini al numero ventiquattro in base al l'articolo centotrentuno comma nove del codice civile per tale infrazione sono previsti sette i punti di decurtazione si richiede la stampa del preavviso tramite wifi lingua inglese non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina agricola, marca Alfa Romeo Stelvio, targato IJ654KL di tipo copertura, proveniente da austria. In data 25/04/2025 alle ore 19:52, è stata rilevata la violazione di parcheggio davanti a passo carrabile in via Giuseppe Mazzini, al numero 24, in base all'articolo 121, comma 9 del codice civile. Per tale infrazione sono previsti 7 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua inglese, non stampare anche la comunicazione. "
+}

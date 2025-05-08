@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da un motoveicolo marca MAS, targa del novecentottanta sette ci di di tipo prova, immatricolato. La violazione è avvenuta il sei maggio duemilaventicinque alle ore ventuno ventidue in via Etna al civico quarantacinque. La violazione riguarda il parcheggio su strisce pedonali, articolo cinquantatré ma cinquantuno del codice penale, con conseguente perdita di sette punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "ventuno ventidue",
+            "Strada_1": "via etna",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": null,
+                    "targa": "novecentottanta sette ci di di",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mas",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per motoveicoli marca mas da due targa del novecentottanta sette ci di di tipo prova immatricolati incrocia sia in data sei maggio duemilaventicinque alle ore ventuno ventidue invia etna al civico quarantacinque e stata commessa la seguente violazione parcheggio su strisce pedonali articolo cinquantatré ma cinquantuno del codice penale dalla violazione con segue la perdita di sette punti stampa i modalità blu tutte in lingua olandese non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per motoveicolo, marca Mazda 2, targa AB987CD di tipo prova, immatricolato in croazia. In data 06/05/2025 alle ore 21:22, in via Etnea, al civico 45, è stata commessa la seguente violazione: parcheggio su strisce pedonali (articolo 53, comma 51 del codice penale). Dalla violazione consegue la perdita di 7 punti. Stampa in modalità bluetooth e in lingua olandese, non stampare anche la comunicazione. "
+}

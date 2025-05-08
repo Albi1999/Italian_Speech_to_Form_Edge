@@ -14,7 +14,7 @@
                     "targa": "jeff sei centocinquantaquattro",
                     "tipologia_targa": "speciale",
                     "marca_modello": "seat ibiza",
-                    "colore": null
+                    "colore": "giacca"
                 }
             ],
             "contestazione_immediata": "contestato immediatamente",
@@ -27,7 +27,7 @@
                     "sanzione_accessoria": null
                 }
             ],
-            "punti": "sei, before: decurtati, after: punti",
+            "punti": "sei",
             "tipo_stampa": "brutus",
             "lingua_stampa": "tedesco",
             "stampa_anche_comunicazione": "stampa anche la comunicazione"

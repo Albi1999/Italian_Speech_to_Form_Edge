@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il 20 aprile 2025 alle ore 15:20 per un veicolo macchina operatrice di marca Ducati Multistrada con targa italiana. L'infrazione è avvenuta in via della Cultura, numero 9, per parcheggio su strisce pedonali, violando l'articolo 46 del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti due punti di decurtazione. Si richiede di stampare la notifica tramite Bluetooth in lingua francese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "quindici venti",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "italia",
+                    "targa": "ti jerry zero nove otto i ypsilon",
+                    "tipologia_targa": "tipo copertura",
+                    "marca_modello": "ducati molti strada due",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: di",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data venti aprile duemilaventicinque alle ore quindici venti è stato emesso un preavviso di violazione per il veicolo macchina operatrice di marca ducati molti strada due con targa ti jerry zero nove otto i ypsilon un tipo copertura registrato in italia l'infrazione e avvenuta in via della cultura al numero nove e consiste in parcheggio su strisce pedonali come previsto dall'articolo quarantasei come quarantaquattro del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti due punti di decurtazione si prega di stampare la presente notifica tramite blu in lingua francese non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 20/04/2025, alle ore 15:20, è stato emesso un preavviso di violazione per il veicolo macchina operatrice di marca Ducati Multistrada V2, con targa TR098YU (tipo copertura), registrato in italia. L'infrazione è avvenuta in via della Cultura, al numero 9, e consiste in parcheggio su strisce pedonali, come previsto dall'articolo 46, comma 44 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 2 punti di decurtazione. Si prega di stampare la presente notifica tramite bluetooth, in lingua francese, non stampare anche la comunicazione. "
+}

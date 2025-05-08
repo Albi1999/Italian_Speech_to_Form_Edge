@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo ciclomotore marca Dacia Sandy, targato IK 567 OC, proveniente dalla Grecia. L'infrazione è stata rilevata il 20 aprile 2025 alle ore 16:00 in via della Repubblica 20 e via dei Fori Imperiali al civico 10, in zona a rimozione. La violazione riguarda l'articolo 48 comma 46 del codice stradale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di un punto. Si richiede la stampa del verbale in inglese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "sedici",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "grecia",
+                    "targa": "i lunga cappa cinquecento sessantasette occhi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "dacia sandy ero",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantotto",
+                    "comma": "quarantasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo ciclomotori marca dacia sandy ero targato i lunga cappa cinquecento sessantasette occhi di tipo copertura proveniente da grecia l'infrazione e stata rilevata il venti aprile duemilaventicinque alle ore sedici il veicolo si trovava in via della repubblica venti via dei fori imperiali al civico dieci in parcheggio in zona a rimozione violando l'articolo quarantotto comma quarantasei del codice stradale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazione comporta la perdita di uno punti richiedo la stampa del verbale in inglese tramite guai fai stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo ciclomotore, marca Dacia Sandero, targato JK567OP (di tipo copertura), proveniente da grecia.  L'infrazione è stata rilevata il 20/04/2025 alle ore 16:00. Il veicolo si trovava in via della Repubblica, 20via dei Fori Imperiali, al civico 10, in parcheggio in zona rimozione, violando l'articolo 48, comma 46, del codice stradale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 1 punti.  Richiedo la stampa del verbale in inglese tramite wifi, stampa anche la comunicazione."
+}

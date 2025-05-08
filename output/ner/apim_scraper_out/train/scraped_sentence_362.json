@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo rimorchio targato \"centoventitre\" registrato in Grecia. L'infrazione è avvenuta il 29 aprile 2025 alle 17:11 in viale della Concordia, civico 13, per parcheggio davanti a passo carabine. La violazione riguarda l'articolo 6, comma 1, del codice stradale e comporta la decurtazione di 1 punto. La stampa dell'avviso è richiesta via Bluetooth, in spagnolo, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "diciassette undici",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "centoventitre",
+                    "tipologia_targa": null,
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo un dai venti rimorchio targato centoventitre ho più con targa copertura registrato in grecia per un fatto accaduto il ventinove aprile duemilaventicinque alle diciassette undici il veicolo si trovava in viale della concordia al civico tredici dove è stato riscontrato parcheggio davanti a passo carabine in base all'articolo sei con ma prima uno dodici del codice stradale questa infrazione comporta una decurtazione di uno punti genera alla stampa dell'avviso via blu tutti in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Hyundai i20, rimorchio, targato MN123OP con targa copertura, registrato in grecia,  per un fatto accaduto il 29/04/2025 alle 17:11. Il veicolo si trovava in viale della Concordia, al civico 13, dove è stato riscontrato parcheggio davanti a passo carrabile, in base all'articolo 6, comma 1a(1-12), del codice stradale. Questa infrazione comporta una decurtazione di 1 punti.  Genera la stampa dell'avviso via bluetooth in spagnolo, non stampare anche la comunicazione."
+}

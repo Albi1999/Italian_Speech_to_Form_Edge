@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da una macchina operatrice marca Harley Davidson Street 750, targa \"guerre centoventitre se ti\", immatricolata in Italia. La violazione è avvenuta il 19 aprile 2025 alle 00:14 in via della Pace, civico 2, per parcheggio in doppia fila, violando l'articolo 44 comma 42 del codice civile. La violazione comporta la perdita di cinque punti. La stampa del verbale è richiesta in modalità \"hawaii fai\" e in lingua inglese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte e quattordici",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "italia",
+                    "targa": "guerre centoventitre se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "harley davidson street settecentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina operatrice marca harley davidson street settecentocinquanta targa guerre centoventitre se ti di tipo copertura immatricolati in italia in data diciannove aprile duemilaventicinque alle ora è mezzanotte e quattordici in via della pace al civico due e stata commessa la seguente violazione parcheggia in doppia fila articolo quarantaquattro comma quarantadue del codice civile dalla violazione con segue la perdita di cinque punti stampa in modalità hawaii fai è in lingua inglese non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina operatrice, marca Harley-Davidson Street 750, targa QR123ST di tipo copertura, immatricolato in italia. In data 19/04/2025 alle ore 00:14, in via della Pace, al civico 2, è stata commessa la seguente violazione: parcheggio in doppia fila (articolo 44, comma 42 del codice civile).Dalla violazione consegue la perdita di 5 punti.Stampa in modalità wifi e in lingua inglese, non stampare anche la comunicazione."
+}

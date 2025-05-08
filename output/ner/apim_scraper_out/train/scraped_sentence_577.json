@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il quindici aprile duemilaventicinque alle ore ventuno eventi per un veicolo immatricolato in Austria con targa ufficiale. L'infrazione è avvenuta in via Giuseppe Mazzini, civico ventiquattro, per violazione del codice civile, articolo quarantotto, comma quarantasei, riguardante il transito in zona accesso vietato. La contestazione immediata non è stata possibile a causa dell'assenza del trasgressore. Sono previsti quattro punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è richiesta in tedesco tramite WIFI, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "ventuno eventi",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "austria",
+                    "targa": "è trecentoventi uno",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "ypsilon sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantotto",
+                    "comma": "quarantasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno quindici aprile duemilaventicinque alle ore ventuno eventi è stato redatto un verbale per il veicolo giamai ypsilon sette motoveicoli immatricolati in austria con targa è trecentoventi uno o più di tipo ufficiale l'infrazione avvenuta in via giuseppe mazzini al civico ventiquattro e stata riscontrata una violazione del codice civile articolo quarantotto come quarantasei ovvero transito in zona accesso vietato non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti quattro punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in tedesco tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Il giorno 15/04/2025, alle ore 21:20, è stato redatto un verbale per il veicolo Yamaha YZF-R7, motoveicolo immatricolato in austria con targa MN321OP di tipo ufficiale. L'infrazione è avvenuta in via Giuseppe Mazzini, al civico 24. È stata riscontrata una violazione del codice civile, articolo 48, comma 46 ovvero transito in zona accesso vietatoNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 4 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in tedesco tramite wifi, stampa anche la comunicazione. "
+}

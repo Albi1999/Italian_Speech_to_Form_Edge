@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo Harley Davidson Street 750, targato 3201, di tipo ufficiale, proveniente dal Portogallo. La violazione è avvenuta l'8 aprile 2025 alle ore 6:11, per parcheggio in doppia fila in via Venti Settembre al numero 5, in base all'articolo 24 comma 22 del codice stradale. Sono previsti tre punti di decurtazione. Si richiede la stampa del preavviso tramite Bluetooth in lingua olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "sei e undici",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "portogallo",
+                    "targa": "trecentoventi uno",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mary i davidson street settecentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventiquattro",
+                    "comma": "ventidue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo molto veicolo mary i davidson street settecentocinquanta targato trecentoventi uno più di tipo ufficiale proveniente da portogallo in data otto aprile duemilaventicinque alle ore sei e undici e stata rilevata alla violazione di parcheggia in doppia fila in via venti settembre al numero cinque in base all'articolo ventiquattro comma ventidue del codice stradale per tale infrazione sono previsti tre punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua olandese non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo motoveicolo, marca Harley-Davidson Street 750, targato MN321OP di tipo ufficiale, proveniente da portogallo. In data 08/04/2025 alle ore 06:11, è stata rilevata la violazione di parcheggio in doppia fila in via XX Settembre, al numero 5, in base all'articolo 24, comma 22 del codice stradale.Per tale infrazione sono previsti 3 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua olandese, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo ciclomotore marca Suzuki, targato Capelli 381, di tipo prova, proveniente dal Portogallo. L'infrazione è stata rilevata il 1° maggio 2025 alle ore 3:15 in Corso Italia, civico 30, per parcheggio in zona a rimozione, violando l'articolo 21 comma 19 del codice stradale. L'agente Silvia Neri ha provveduto alla contestazione immediata. La violazione comporta la perdita di 3 punti. Si richiede la stampa del verbale in portoghese tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "tre quindici",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "portogallo",
+                    "targa": "capelli trecentottantuno",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "suzuki",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo ciclomotori marca suzuki evitare targato capelli trecentottantuno e di tipo prova proveniente da portogallo l'infrazione e stata rilevata il primo maggio duemilaventicinque alle ore tre quindici il veicolo si trovava in corso italia al civico trenta in parcheggio in zona a rimozione violando l'articolo ventuno comma diciannove del codice stradale l'agente silvia neri a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di tre punti richiedo la stampa del verbale in portoghese tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo ciclomotore, marca Suzuki Vitara, targato KL321MN (di tipo prova), proveniente da portogallo. L'infrazione è stata rilevata il 01/05/2025 alle ore 03:15. Il veicolo si trovava in corso Italia, al civico 30, in parcheggio in zona rimozione, violando l'articolo 21, comma 19, del codice stradale. L'agente Silvia Neri ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 3 punti. Richiedo la stampa del verbale in portoghese tramite wifi, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo Dacia, macchina operatrice, con targa di prova immatricolata in Olanda. L'infrazione è avvenuta il 7 aprile 2025 alle 2:11 in viale della Libertà, numero 22, per transito in zona accesso vietato. L'articolo violato è il 45, comma 43 del codice penale, con la decurtazione di 10 punti dalla patente. Il verbale sarà stampato via Bluetooth in olandese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "due undici",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "olanda",
+                    "targa": "yemen trecentoventi uno",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "dacia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo dacia da aster macchina operatrice con targa yemen trecentoventi uno o più di tipo prova immatricolati in olanda per un'infrazione commessa il sette aprile duemilaventicinque alle due undici l'infrazione e avvenuta in viale della libertà al numero ventidue dove il veicolo era in transito in zona accesso vietato l'articolo violato è il quarantacinque comma quarantatré del codice penale verranno tolti dieci punti dalla patente stampa questo verbale via blu tutti in olandese non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Dacia Duster, macchina operatrice con targa MN321OP di tipo prova, immatricolato in olanda, per un'infrazione commessa il 07/04/2025 alle 02:11. L'infrazione è avvenuta in viale della Libertà, al numero 22, dove il veicolo era in transito in zona accesso vietato. L'articolo violato è il 45, comma 43 del codice penale. Verranno tolti 10 punti dalla patente. Stampa questo verbale via bluetooth in olandese, non stampare anche la comunicazione. "
+}

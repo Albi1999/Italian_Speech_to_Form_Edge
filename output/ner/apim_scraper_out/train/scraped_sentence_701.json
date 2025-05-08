@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo macchina agricola con targa \"icsi ypsilon trecentoventi uno sa\" di tipo ufficiale, proveniente dal Portogallo. La violazione è stata rilevata il dodici aprile duemilaventicinque alle ore cinque e quarantatré, per parcheggio in zona a rimozione in viale della Concordia al numero tredici. La violazione riguarda l'articolo sei, comma uno a uno a dodici del codice stradale, con una decurtazione di dieci punti. Si richiede la stampa del preavviso tramite Bluetooth, in lingua inglese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "cinque i quarantatré",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "portogallo",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": "ufficiali",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": "uno a uno a dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: di",
+            "tipo_stampa": "bruti",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per i veicolo macchina agricola marcato idiota tariq targato icsi ypsilon trecentoventi uno sa di tipo ufficiali proveniente da portogallo in data dodici aprile duemilaventicinque alle ore cinque i quarantatré e stata rilevata la violazione di parcheggio in zona a rimozione in viale della concordia al numero tredici in base all'articolo l'articolo sei con ma uno a uno a dodici del codice stradale per tale infrazione sono previsti dieci punti di decurtazione si richiede la stampa del preavviso tramite bruti lingua inglese non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina agricola, marca Toyota Yaris, targato XY321ZA di tipo ufficiale, proveniente da portogallo. In data 12/04/2025 alle ore 05:43, è stata rilevata la violazione di parcheggio in zona rimozione in viale della Concordia, al numero 13, in base all'articolo 6, comma 1a(1-12) del codice stradale. Per tale infrazione sono previsti 10 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua inglese, non stampare anche la comunicazione. "
+}

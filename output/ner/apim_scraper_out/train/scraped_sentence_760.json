@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo registrato in Portogallo, accaduto il 8 aprile 2025 alle 2:39. Il veicolo, una macchina operatrice targata \"capelli trecentoventi uno yemen\", si trovava in viale della stazione al civico quattro, parcheggiato su strisce pedonali. La violazione è in base all'articolo 47, comma 45 del codice penale, comportando una decurtazione di sei punti. La stampa dell'avviso è via Bluetooth in tedesco e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "i lotto aprile duemilaventicinque",
+            "ora_violazione": "alle due e trentanove",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "capelli trecentoventi uno yemen",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "casacche in in già seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: decurtazioni, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emette un avviso di violazione quindi si tratta di un preavviso per il veicolo casacche in in già seicentocinquanta macchina operatrice targato capelli trecentoventi uno yemen con targa copertura registrato in portogallo per un fatto accaduto i lotto aprile duemilaventicinque alle due e trentanove il veicolo si trovava in viale della stazione al civico quattro dove è stato riscontrato parcheggio su strisce pedonali in base all'articolo quarantasette con ma quarantacinque del codice penale questa infrazioni comporta una decurtazioni di sei punti genere alla stampa dell'avviso via blu tutti in tedesco stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Kawasaki Ninja 650, macchina operatrice, targato KL321MN con targa copertura, registrato in portogallo, per un fatto accaduto il 08/04/2025 alle 02:39. Il veicolo si trovava in viale della Stazione, al civico 4, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 47, comma 45, del codice penale. Questa infrazione comporta una decurtazione di 6 punti. Genera la stampa dell'avviso via bluetooth in tedesco, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento informa che è in corso la stesura di un preavviso di violazione per un veicolo proveniente dalla Slovenia. L'infrazione riguarda il transito in zona di accesso vietato, avvenuta il 17 aprile 2025 alle 17:43 in via della Giustizia, numero 16. La violazione comporterà la decurtazione di nove punti. Si richiede la stampa in lingua olandese con modalità Hawaii e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "diciassette e quarantatré",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "gia cappa cinquecento sessantasette oh piedi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "street ceppo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa gia cappa cinquecento sessantasette oh piedi tipo ufficiale marca street ceppo proveniente da slovenia l'infrazione nello specifico transito in zona accesso vietato si verificata in data diciassette aprile duemilaventicinque alle ore diciassette e quarantatré in via della giustizia al numero sedici articolo ventinove comma ventisette del codice stradale si comunica che dalla violazione conseguirà una decurtazioni di nove punti si richiede la stampa in lingua olandese modalità hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa JK567OP di tipo ufficiale, marca Triumph Street Triple, proveniente da slovenia. L'infrazione, nello specifico transito in zona accesso vietato, si è verificata in data 17/04/2025 alle ore 17:43 in via della Giustizia, al numero 16 (articolo 29, comma 27 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 9 punti. Si richiede la stampa in lingua olandese, modalità wifi, stampa anche la comunicazione. "
+}

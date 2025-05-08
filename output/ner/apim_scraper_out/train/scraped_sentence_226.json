@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Seat Ibiza, macchina operatrice, con targa speciale registrata in Belgio. L'infrazione è avvenuta il 7 maggio 2025 alle 9:03 in via Giuseppe Mazzini, civico 24, per parcheggio in zona a rimozione. La violazione riguarda l'articolo 7, comma 15 del codice penale e comporta una decurtazione di 10 punti. La stampa dell'avviso è prevista via Hawaii e in lingua tedesca, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette maggio duemilaventicinque",
+            "ora_violazione": "nove e tre minuti",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "belgio",
+                    "targa": "abe quattrocentocinquanta sei ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "seat ibiza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo seat ibiza macchina operatrice targato abe quattrocentocinquanta sei ci di con targa speciale registrato in belgio per un fatto accaduto il sette maggio duemilaventicinque alle nove e tre minuti il veicolo si trovava in via giuseppe mazzini al civico ventiquattro dove è stato riscontrato parcheggio in zona a rimozione invase all'articolo sette comma quindici del codice penale questa infrazione comporta una decurtazione di dieci punti genera alla stampa dell'avviso via hawaii fa in tedesco non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Seat Ibiza, macchina operatrice, targato AB456CD con targa speciale, registrato in belgio,  per un fatto accaduto il 07/05/2025 alle 09:03. Il veicolo si trovava in via Giuseppe Mazzini, al civico 24, dove è stato riscontrato parcheggio in zona rimozione, in base all'articolo 7, comma 15, del codice penale. Questa infrazione comporta una decurtazione di 10 punti.  Genera la stampa dell'avviso via wifi in tedesco, non stampare anche la comunicazione."
+}

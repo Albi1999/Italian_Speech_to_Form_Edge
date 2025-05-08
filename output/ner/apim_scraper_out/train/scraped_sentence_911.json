@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo rimorchio Mazda Chips Tre con targa speciale proveniente dalla Spagna. L'infrazione è avvenuta il 29 aprile 2025 alle 17:27 in via della Speranza, numero civico 18, per parcheggio in divieto di sosta, violando l'articolo 7, comma 5 del codice civile. La decurtazione prevista è di nove punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è necessaria tramite Bluetooth, in italiano, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "diciassette e ventisette",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "spagna",
+                    "targa": "i dei centoventitre capelli",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "mazda chips tre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazione, after: i",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo rimorchio di marca mazda chips tre con targa i dei centoventitre capelli tipo speciale proveniente da spagna fatto avvenuto il ventinove aprile duemilaventicinque alle ore diciassette e ventisette posizione via della speranza numero civico diciotto infrazione parcheggio in divieto di sosta in violazione dell'articolo sette coma cinque del codice civile decurtazione prevista nove i punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite blu tutti in italiano stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo rimorchio di marca Mazda CX-3, con targa IJ123KL (tipo speciale), proveniente da spagna. Fatto avvenuto il 29/04/2025 alle ore 17:27. Posizione: via della Speranza, numero civico 18. Infrazione: parcheggio in divieto di sosta, in violazione dell'articolo 7, comma 5, del codice civile. Decurtazione prevista: 9 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite bluetooth in italiano, stampa anche la comunicazione. "
+}

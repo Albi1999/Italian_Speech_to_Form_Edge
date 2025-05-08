@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo rimorchio con targa \"novecentottanta sette di\" di tipo speciale, marca Nissan Mica, proveniente dall'Olanda. L'infrazione è avvenuta il cinque maggio duemilaventicinque alle ore ventuno e venticinque in via della Storia al numero sei, per parcheggio su strisce pedonali. La violazione è in base all'articolo mille duecentoventotto comma sedici del codice penale, con una decurtazione di due punti. Si richiede la stampa in lingua olandese, modalità \"hawaii\", e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "ventuno e venticinque",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "olanda",
+                    "targa": "novecentottanta sette di",
+                    "tipologia_targa": null,
+                    "marca_modello": "nissan mica",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "mille duecentoventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa novecentottanta sette di di tipo speciale marca nissan mica proveniente da olanda l'infrazione nello specifico parcheggio su strisce pedonali sia e verificata in data cinque maggio duemilaventicinque alle ore ventuno e venticinque in via della storia al numero sei articolo mille duecentoventotto comma sedici del codice penale si comunica che dalla violazione conseguirà una decurtazione di due punti si richiede la stampa in lingua olandese modalità hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa AB987CD di tipo speciale, marca Nissan Micra, proveniente da olanda. L'infrazione, nello specifico parcheggio su strisce pedonali, si è verificata in data 05/05/2025 alle ore 21:25 in via della Storia, al numero 6 (articolo 1228, comma 16 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 2 punti.Si richiede la stampa in lingua olandese, modalità wifi, stampa anche la comunicazione."
+}

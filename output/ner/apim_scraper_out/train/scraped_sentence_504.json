@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il quindici aprile duemilaventicinque alle ore quattro e nove per un rimorchio con targa speciale immatricolato in Olanda. L'infrazione è stata rilevata in via della Repubblica venti e via dei Fori Imperiali al civico dieci, con violazione del codice penale articolo centocinquantasette comma cinque, per parcheggio su strisce pedonali. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare sei punti. Il veicolo è un Nissan rosso con numero di telaio specificato e massa di tremilaquattrocentotrentaquattro chili. È richiesta la stampa del preavviso tramite WiFi in portoghese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "quattro i nove",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "olanda",
+                    "targa": "exit ypsilon novecentottanta sette zitta ti",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "nissan giù",
+                    "colore": "rosso"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data quindici aprile duemilaventicinque alle ore quattro i nove è stato notificato un preavviso per un rimorchio targato exit ypsilon novecentottanta sette zitta ti con targa speciale immatricolati in olanda l'infrazione e stata rilevata in via della repubblica venti via dei fori imperiali al civico dieci con violazione del codice penale articolo centocinquantasette comma cinque in particolare sia riscontrato un parcheggio su strisce pedonali non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono sei punti il veicolo è un nissan giù di colore rosso con numero di telaio sei sette e uno zero tre quattro sei zero quattro e massa tremilaquattrocento trentaquattro chili necessita la stampa del preavviso tramite wifi in portoghese stampa anche la comunicazione",
+    "original_sentence": "In data 15/04/2025, alle ore 04:09, è stato notificato un preavviso per un rimorchio targato XY987ZT con targa speciale, immatricolato in olanda. L'infrazione è stata rilevata in via della Repubblica, 20via dei Fori Imperiali, al civico 10, con violazione del codice penale, articolo 157, comma 5, in particolare si è riscontrato un parcheggio su strisce pedonali Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 6 punti. Il veicolo è un Nissan Juke di colore rosso, con numero di telaio 671034604 e massa 3434 kg. Necessito la stampa del preavviso tramite wifi, in portoghese, stampa anche la comunicazione. "
+}

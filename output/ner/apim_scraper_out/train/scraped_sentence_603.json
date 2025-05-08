@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione emessa il 14 aprile 2025 alle ore 4:24 per un veicolo Volkswagen Polo immatricolato in Grecia con targa di tipo prova. L'infrazione è avvenuta presso Corso Vittorio Emanuele, civico 15, violando il codice civile, articolo dolci con dieci, riguardante il parcheggio in zona a rimozione. Sono stati decurtati otto punti e non è necessaria alcuna sanzione accessoria. Il veicolo è un motoveicolo di colore argento. La stampa deve essere effettuata tramite Bluetooth in tedesco, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "quattro e ventiquattro",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "grecia",
+                    "targa": "guerre novecentottanta sette a se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "volkswagen polo",
+                    "colore": "argento"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "dolci",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il quattordici aprile duemilaventicinque alle ore quattro e ventiquattro sto mettendo una notifica di infrazione per il veicolo volkswagen polo motoveicoli immatricolati in grecia con targa guerre novecentottanta sette a se ti di tipo prova l'infrazione sia verificata presso corso vittorio emanuele al civico quindici violando il codice civile in particolare l'articolo dolci con dieci riguardante i parcheggio in zona a rimozione devo decurtare otto punti non è necessaria alcuna sanzione accessoria il motoveicoli e di colore argento con numero di telaio nove quattro sei zero due due tre otto nove massa milleseicento quaranta chili stampa me lo con il blu tutti in tedesco non stampare anche la comunicazione",
+    "original_sentence": "Il 14/04/2025, alle ore 04:24, sto emettendo una notifica di infrazione per il veicolo Volkswagen Polo, motoveicolo immatricolato in grecia con targa QR987ST di tipo prova. L'infrazione si è verificata presso corso Vittorio Emanuele, al civico 15, violando il codice civile, in particolare l'articolo 12, comma 10 riguardante il parcheggio in zona rimozione. Devo decurtare 8 punti. Non è necessaria alcuna sanzione accessoria. Il motoveicolo è di colore argento, con numero di telaio 946022389 e massa 1640 kg. Stampamelo con il bluetooth in tedesco, non stampare anche la comunicazione. "
+}

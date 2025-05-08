@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo motoveicolo marca un'icona, targato jeffrey centoventitre giacca, di tipo ufficiale, proveniente dalla Germania. L'infrazione è stata rilevata il 3 maggio 2025 alle ore 17:24 in corso Italia, civico 30, violando l'articolo 6 comma 4 del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di dieci punti. Si richiede la stampa del verbale in italiano tramite Wi-Fi, stampando anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "diciassette ventiquattro",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "germania",
+                    "targa": "jeffrey centoventitre giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "un'icona",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo motoveicoli marca un'icona targato jeffrey centoventitre giacca di tipo ufficiale proveniente da germania l'infrazione è stata rilevata il tre maggio duemilaventicinque alle ore diciassette ventiquattro il veicolo si trovava in corso italia al civico trenta in parcheggio davanti a passo cary abile violando l'articolo sei comma quattro del codice penale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazioni comporta la perdita di dieci punti richiedo la stampa del verbale in italiano tramite guai fai stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo motoveicolo, marca Hyundai Kona, targato EF123GH (di tipo ufficiale), proveniente da germania. L'infrazione è stata rilevata il 03/05/2025 alle ore 17:24. Il veicolo si trovava in corso Italia, al civico 30, in parcheggio davanti a passo carrabile, violando l'articolo 6, comma 4, del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 10 punti. Richiedo la stampa del verbale in italiano tramite wifi, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo Ducati Multistrada con rimorchio, immatricolato in Francia, che ha commesso un'infrazione il 14 aprile 2025 alle 5:34. L'infrazione è avvenuta in via Venti Settembre, numero 5, dove il veicolo era parcheggiato in doppia fila. L'articolo violato è il 42, comma 40 del codice stradale, e verranno tolti 7 punti dalla patente. Il verbale sarà stampato via Bluetooth in inglese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "cinque e trentaquattro",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "sette centottantanove giacca",
+                    "tipologia_targa": "ufficiali",
+                    "marca_modello": "ducati multi strada",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantadue",
+                    "comma": "quaranta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "inglesi",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo ducati multi strada due rimorchio con targa è sette centottantanove giacca di tipo ufficiali immatricolati in francia per un'infrazione commessa il quattordici aprile duemilaventicinque alle cinque e trentaquattro l'infrazione avvenuta in via venti settembre al numero cinque dov'è il veicolo era in parcheggia in doppia fila l'articolo violato è il quarantadue come quaranta del codice stradale verranno tolti sette punti dalla patente stampa questo verbale via blu tutti in inglesi non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Ducati Multistrada V2, rimorchio con targa EF789GH di tipo ufficiale, immatricolato in francia, per un'infrazione commessa il 14/04/2025 alle 05:34. L'infrazione è avvenuta in via XX Settembre, al numero 5, dove il veicolo era in parcheggio in doppia fila. L'articolo violato è il 42, comma 40 del codice stradale. Verranno tolti 7 punti dalla patente. Stampa questo verbale via bluetooth in inglese, non stampare anche la comunicazione. "
+}

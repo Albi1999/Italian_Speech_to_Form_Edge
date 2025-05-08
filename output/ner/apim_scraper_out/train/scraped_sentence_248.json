@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo rimorchio di marca Lancia Delta con targa BEH 3201 CI di tipo prova, proveniente dalla Svizzera. L'infrazione è avvenuta il 13 aprile 2025 alle ore 20:34 in viale della Vittoria, numero civico 9, per parcheggio su strisce pedonali, violando l'articolo 47 comma 45 del codice penale. La decurtazione prevista è di sette punti. La contestazione immediata è impossibile per assenza del trasgressore. È necessaria la stampa tramite Wi-Fi in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "venti e trentaquattro",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "beh trecentoventi uno ci",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "lancia delta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo rimorchio di marca lancia delta con targa beh trecentoventi uno ci di tipo prova proveniente da svizzera fatto avvenuto il tredici aprile duemilaventicinque alle ore venti e trentaquattro posizione viale della vittoria numero civico nove infrazione parcheggio su strisce pedonali in violazione dell'articolo quarantasette comma quarantacinque del codice penale decurtazione prevista sette punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite vuoi fai in italiano non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo rimorchio di marca Lancia Delta, con targa AB321CD (tipo prova), proveniente da svizzera.  Fatto avvenuto il 13/04/2025 alle ore 20:34. Posizione: viale della Vittoria, numero civico 9. Infrazione: parcheggio su strisce pedonali, in violazione dell'articolo 47, comma 45, del codice penale. Decurtazione prevista: 7 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in italiano, non stampare anche la comunicazione."
+}

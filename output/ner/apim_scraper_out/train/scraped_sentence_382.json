@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo ciclomotore con targa speciale, marca Ducati, proveniente dalla Grecia. L'infrazione è avvenuta per parcheggio in divieto di sosta il 17 aprile 2025 alle 22:41 in via della Storia, numero civico 6. La violazione è associata all'articolo 131, comma 9 del codice penale e comporterà la decurtazione di quattro punti. Si richiede la stampa in lingua inglese, modalità Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "ventidue quarantuno",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "grecia",
+                    "targa": "centoventitre chi lo litri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "ducati molti strada vi due",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centotrentuno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotori con targa è centoventitre chi lo litri di tipo speciale marca ducati molti strada vi due proveniente da grecia l'infrazione nello specifico parcheggiato in divieto di sosta sia e verificata in data a diciassette aprile duemilaventicinque alle ore ventidue quarantuno in via della storia al numero sei articolo centotrentuno con ma nove del codice penale si comunica che dalla violazione conseguirà una decurtazione di quattro punti si richiede la stampa in lingua inglese modalità blu non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotore con targa IJ123KL di tipo speciale, marca Ducati Multistrada V2, proveniente da grecia. L'infrazione, nello specifico parcheggio in divieto di sosta, si è verificata in data 17/04/2025 alle ore 22:41 in via della Storia, al numero 6 (articolo 121, comma 9 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 4 punti.Si richiede la stampa in lingua inglese, modalità bluetooth, non stampare anche la comunicazione."
+}

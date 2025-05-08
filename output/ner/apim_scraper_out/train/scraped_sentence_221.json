@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da una macchina operatrice marca Moto Gozzi, targa IE 4506, immatricolata in Grecia. La violazione è avvenuta il sei maggio 2025 alle ore 19:27 in Corso Italia, civico 30. La violazione riguarda il transito in zona accesso vietato, articolo 26 comma 24 del codice civile, con conseguente perdita di tre punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua tedesca, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "diciannove ventisette",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "i e quattrocentocinquanta sei chi lo litri",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "moto gozzi",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventisei",
+                    "comma": "ventiquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: perdita, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina operatrice marca moto gozzi vi sette targa i e quattrocentocinquanta sei chi lo litri di tipo prova immatricolati in grecia in data sei maggio duemilaventicinque alle ore diciannove ventisette in corso italia al civico trenta e stata commessa la seguente violazione transito in zona accesso vietato articolo ventisei comma ventiquattro del codice civile dalla violazione con segue la perdita di tre punti stampa in modalità blu tutte in lingua tedesco non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina operatrice, marca Moto Guzzi V7, targa IJ456KL di tipo prova, immatricolato in grecia. In data 06/05/2025 alle ore 19:27, in corso Italia, al civico 30, è stata commessa la seguente violazione: transito in zona accesso vietato (articolo 26, comma 24 del codice civile).Dalla violazione consegue la perdita di 3 punti.Stampa in modalità bluetooth e in lingua tedesco, non stampare anche la comunicazione."
+}

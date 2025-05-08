@@ -1,6 +1,6 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive un preavviso per un veicolo autovettura con targa 'quattrocentocinquanta sei ho piedi tipo prova', proveniente dalla Croazia, marca 'se akhtar jona'. La violazione riguarda il parcheggio in zona a rimozione, avvenuta il 14 aprile 2025 alle ore 10:14 in via della stazione, numero civico 4. L'infrazione è in base all'articolo 23, comma 21 del codice stradale. La contestazione è stata immediata da parte dell'agente Elena Fontana e prevede la perdita di uno punto. Si richiede la stampa in lingua francese tramite Bluetooth, senza stampare anche la comunicazione.",
+        "summary": "Il documento descrive un preavviso relativo a un veicolo autovettura con targa 'quattrocentocinquanta sei ho piedi tipo prova', proveniente dalla Croazia e di marca 'se akhtar jona'. La violazione riguarda il parcheggio in zona a rimozione, verificatasi il 14 aprile 2025 alle ore 10:14 in via della stazione al numero 4. L'infrazione rientra nell'articolo 23 comma 21 del codice stradale. La contestazione è stata immediata da parte dell'agente Elena Fontana e prevede la perdita di uno punto. Si richiede la stampa in lingua francese tramite Bluetooth, senza stampare anche la comunicazione.",
         "report": {
             "verbale_preavviso": "preavviso",
             "data_violazione": "quattordici aprile duemilaventicinque",
@@ -12,12 +12,12 @@
                     "tipologia": "autovettura",
                     "nazione": "croazia",
                     "targa": "quattrocentocinquanta sei ho piedi tipo prova",
-                    "tipologia_targa": null,
+                    "tipologia_targa": "prova",
                     "marca_modello": "se akhtar jona",
                     "colore": null
                 }
             ],
-            "contestazione_immediata": "contestazione immediata",
+            "contestazione_immediata": "contestazione immediata da parte della gente elena fontana",
             "motivo_mancata_contestazione": null,
             "violazioni": [
                 {
@@ -27,7 +27,7 @@
                     "sanzione_accessoria": null
                 }
             ],
-            "punti": "uno",
+            "punti": "uno, before: perdita, after: punti",
             "tipo_stampa": "blu",
             "lingua_stampa": "francese",
             "stampa_anche_comunicazione": "non stampare anche la comunicazione"

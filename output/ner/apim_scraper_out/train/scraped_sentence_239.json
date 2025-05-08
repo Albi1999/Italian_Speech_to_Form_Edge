@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 13 aprile 2025 alle ore 14:27 per un veicolo Ducati Multistrada con rimorchio immatricolato in Portogallo. L'infrazione si è verificata presso via della Repubblica 20 e via dei Fori Imperiali al civico 10, violando il codice penale, articolo 157, comma 5, riguardante il transito in zona accesso vietato. Sono stati decurtati 2 punti. Il rimorchio è di colore verde. La stampa deve essere effettuata tramite Bluetooth in tedesco, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "quattordici e ventisette",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "dieci",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "portogallo",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "ducati multi strada vi due",
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il tredici aprile duemilaventicinque alle ore quattordici e ventisette sto mettendo una notifica di infrazione per il veicolo ducati multi strada vi due rimorchio immatricolati in portogallo con targa guerre novecentottanta sette se ti di tipo prova l'infrazione si e verificata presso via della repubblica venti via dei fori imperiali al civico dieci violando il codice penale in particolare l'articolo centocinquantasette con ma cinque riguardante il transito in zona accesso vietato devo decurtare due punti non è necessaria alcuna sanzione accessoria il rimorchio e di colore verde con numero di telaio sei centoquarantasei milioni e quattrocentomila novecento diciotto e massa duemila e centoquindici chilogrammi stampa me lo con il blu tutti in tedesco stampa anche la comunicazione",
+    "original_sentence": "Il 13/04/2025, alle ore 14:27, sto emettendo una notifica di infrazione per il veicolo Ducati Multistrada V2, rimorchio immatricolato in portogallo con targa QR987ST di tipo prova. L'infrazione si è verificata presso via della Repubblica, 20via dei Fori Imperiali, al civico 10, violando il codice penale, in particolare l'articolo 157, comma 5 riguardante il transito in zona accesso vietato.Devo decurtare 2 punti. Non è necessaria alcuna sanzione accessoria. Il rimorchio è di colore verde, con numero di telaio 646400918 e massa 2115 kg.Stampamelo con il bluetooth in tedesco, stampa anche la comunicazione."
+}

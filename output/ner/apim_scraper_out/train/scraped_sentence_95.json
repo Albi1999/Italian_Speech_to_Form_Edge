@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il nove aprile duemilaventicinque alle ore una e quarantotto per una violazione riscontrata al veicolo macchina agricola marca Onda, targato EFF 123 Giacca, proveniente dal Belgio. La violazione è avvenuta in corso della Repubblica, civico 19, per parcheggio davanti a passo carabine, violando l'articolo 39, comma 37 del codice civile. L'agente Luca Verdi ha proceduto con contestazione immediata e si prevede la decurtazione di uno punto dalla patente. La stampa è richiesta in inglese via Hawaii e non si desidera stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "una e quarantotto",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "e effe centoventitre giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "onda devi",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data a nove aprile duemilaventicinque alle ore una e quarantotto per la violazione riscontrata al veicolo macchina agricola marca onda devi targato e effe centoventitre giacca tipo copertura proveniente da belgio in particolare in corso della repubblica civico diciannove è stato accertato parcheggio davanti a passo carabine in violazione dell'articolo trentanove con ma trentasette del codice civile l'agente luca verdi a proceduto con contestazione immediata si prevede la decurtazione di uno punti dalla patente richiedo la stampa in inglese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 09/04/2025 alle ore 01:48 per la violazione riscontrata al veicolo macchina agricola, marca Honda HR-V, targato EF123GH (tipo copertura) proveniente da belgio. In particolare, in corso della Repubblica, civico 19, è stato accertato parcheggio davanti a passo carrabile, in violazione dell'articolo 39, comma 37 del codice civile. L'agente Luca Verdi ha proceduto con contestazione immediata. Si prevede la decurtazione di 1 punti dalla patente. Richiedo la stampa in inglese via wifi, non stampare anche la comunicazione."
+}

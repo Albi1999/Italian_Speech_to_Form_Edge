@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un rimorchio immatricolato in Germania, con targa \"novecentottanta sette di di\". La violazione è avvenuta il 19 aprile 2025 alle ore 13:13 in viale della Concordia, civico 13, per parcheggio in doppia fila, violando l'articolo 51, comma 49 del codice civile. La violazione comporta la perdita di sette punti. La stampa del verbale è richiesta in modalità \"hawaii fai\" e in lingua olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "tredici e tredici",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "tipo speciale",
+                    "nazione": "germania",
+                    "targa": "novecentottanta sette di di",
+                    "tipologia_targa": null,
+                    "marca_modello": "idiota aris",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantuno",
+                    "comma": "quarantanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per rimorchio marcato idiota aris targa novecentottanta sette di di tipo speciale immatricolati in germania in data diciannove aprile duemilaventicinque alle ore tredici e tredici in viale della concordia al civico tredici e stata commessa la seguente violazione parcheggia in doppia fila articolo cinquantuno con ma quarantanove del codice civile dalla violazione con segue la perdita di sette punti stampa in modalità hawaii fai è in lingua olandese non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per rimorchio, marca Toyota Yaris, targa AB987CD di tipo speciale, immatricolato in germania. In data 19/04/2025 alle ore 13:13, in viale della Concordia, al civico 13, è stata commessa la seguente violazione: parcheggio in doppia fila (articolo 51, comma 49 del codice civile).Dalla violazione consegue la perdita di 7 punti.Stampa in modalità wifi e in lingua olandese, non stampare anche la comunicazione."
+}

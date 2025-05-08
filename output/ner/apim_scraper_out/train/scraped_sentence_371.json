@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la notifica di un preavviso per un veicolo proveniente dall'Olanda, una macchina operatrice di tipo ufficiale, con targa \"icsi ypsilon centoventitre zza\". L'infrazione è avvenuta il 29 aprile 2025 alle ore 21:11 in via Venti Settembre, civico 5, per parcheggio in doppia fila, violando l'articolo 6, comma 1.12 del codice penale. Sono previsti otto punti di decurtazione. La stampa del preavviso è richiesta in italiano via Bluetooth, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "ventuno e undici",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "olanda",
+                    "targa": "icsi ypsilon centoventitre zza",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fox vaga in golf",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sei",
+                    "comma": "prima uno dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo fox vaga in golf macchina operatrice targa icsi ypsilon centoventitre zza di tipo ufficiale proveniente da olanda il giorno ventinove aprile duemilaventicinque alle ore ventuno e undici in via venti settembre al numero civico cinque stata commessa l'infrazione di parcheggia in doppia fila come previsto dall'articolo sei comma prima uno dodici del codice penale per questa violazione sono previsti otto punti di decurtazione chiedo alla stampa del preavviso in italiano via blood non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Volkswagen Golf macchina operatrice, targa XY123ZA di tipo ufficiale, proveniente da olanda. Il giorno 29/04/2025, alle ore 21:11, in via XX Settembre, al numero civico 5, è stata commessa l'infrazione di parcheggio in doppia fila, come previsto dall'articolo 6, comma 1a(1-12), del codice penale.Per questa violazione sono previsti 8 punti di decurtazione. Chiedo la stampa del preavviso in italiano via bluetooth, non stampare anche la comunicazione."
+}

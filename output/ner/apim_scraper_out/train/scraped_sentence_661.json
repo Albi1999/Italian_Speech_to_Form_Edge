@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Reno Clio con rimorchio, targato ufficialmente e registrato in Austria. La violazione è avvenuta il 22 aprile 2025 alle 20:46 in corso della storia, civico 22, per parcheggio su strisce pedonali. La violazione è in base all'articolo 50, comma 48 del codice civile e comporta una decurtazione di 8 punti. L'avviso sarà stampato via Hawaii e in olandese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "venti e quarantasei",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "use i centocinquantaquattro doppio wings",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "reno clio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquanta",
+                    "comma": "quarantotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo reno clio rimorchio targato use i centocinquantaquattro doppio wings con targa ufficiale registrato in austria per un fatto accaduto il ventidue aprile duemilaventicinque alle venti e quarantasei il veicolo si trovava in corso della storia al civico ventidue dove è stato riscontrato parcheggio su strisce pedonali in base al l'articolo cinquanta comma quarantotto del codice civile questa infrazione comporta una decurtazione di otto punti genere alla stampa dell'avviso via hawaii fa in olandese non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Renault Clio, rimorchio, targato UV654WX con targa ufficiale, registrato in austria, per un fatto accaduto il 22/04/2025 alle 20:46. Il veicolo si trovava in corso della Storia, al civico 22, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 50, comma 48, del codice civile. Questa infrazione comporta una decurtazione di 8 punti. Genera la stampa dell'avviso via wifi in olandese, non stampare anche la comunicazione. "
+}

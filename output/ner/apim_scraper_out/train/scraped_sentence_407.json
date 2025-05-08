@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il trenta aprile duemilaventicinque alle ore ventuno e diciannove. Un verbale è stato elevato al veicolo Skoda Fabia con targa slovena per parcheggio su strisce pedonali. La violazione è stata rilevata in via della Stazione al civico quattro e la contestazione è stata immediata, effettuata dall'agente Mario Rossi. La violazione comporta una decurtazione di dieci punti. La stampa del verbale è richiesta in lingua italiana tramite Bluetooth, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "ventuno e diciannove",
+            "Strada_1": "via della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "i quattrocentocinquanta sei chi lo litri",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "scorda fabia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattordici",
+                    "comma": "dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: derivano, after: di",
+            "tipo_stampa": "via hawaii",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data trenta aprile duemilaventicinque alle ore ventuno e diciannove si eleva verbale al veicolo scorda fabia autovettura con targa i quattrocentocinquanta sei chi lo litri di tipo prova immatricolati slovenia per violazione dell'articolo quattordici con ma dodici del codice stradale ovvero parcheggio su strisce pedonali rilevata inviarle della stazione al civico quattro la contestazione stata immediata effettuata dalla gente mario rossi dalla violazione derivano dieci punti di decurtazione stampa necessaria in lingua italiano via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "In data 30/04/2025, alle ore 21:19, si eleva verbale al veicolo Skoda Fabia, autovettura con targa IJ456KL di tipo prova, immatricolato in slovenia, per violazione dell'articolo 14, comma 12 del codice stradale, ovvero parcheggio su strisce pedonali, rilevata in viale della Stazione, al civico 4.La contestazione è stata immediata, effettuata dall'agente Mario Rossi. Dalla violazione derivano 10 punti di decurtazione. Stampa necessaria in lingua italiano via wifi, stampa anche la comunicazione."
+}

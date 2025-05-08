@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il nove aprile duemilaventicinque alle venti per un'infrazione accertata in corso della Repubblica, civico diciannove. La violazione riguarda il codice penale, articolo tre quattro uno cinque, comma tredici, per parcheggio in zona a rimozione. Il veicolo coinvolto è una macchina operatrice con targa \"capelli trecentoventi uno yemen\" e targa di copertura immatricolati. La contestazione è stata immediata, effettuata dall'agente Elena Fontana. Non è prevista alcuna sanzione accessoria, e sono previsti un punto da decurtare. La stampa del verbale è stata effettuata tramite Bluetooth in lingua tedesca, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "venti",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "yemen",
+                    "targa": "capelli trecentoventi uno",
+                    "tipologia_targa": "copertura immatricolati",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tre",
+                    "comma": "tredici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: da",
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle venti del nove aprile duemilaventicinque storie di gendo un verbale per il veicolo macchina operatrice targato capelli trecentoventi uno yemen con targa copertura immatricolati non andare infrazione e stata accertata in corso della repubblica al civico diciannove con violazione del codice penale articolo tre quattro uno cinque comma tredici per parcheggio in zona a rimozione sono previsti un punti da decurtare contestazione immediata effettuata dalla gente elena fontana il verbale è stato redatto sul posto in corso della repubblica non posso applicare alcuna sanzione accessoria stampa tramite blu blackout in tedesco stampa anche la comunicazione",
+    "original_sentence": "Alle 20:00 del 09/04/2025, sto redigendo un verbale per il veicolo macchina operatrice targato KL321MN con targa copertura, immatricolato in olandaL'infrazione è stata accertata in corso della Repubblica, al civico 19, con violazione del codice penale, articolo 3415,comma 13 per parcheggio in zona rimozione Sono previsti 1 punti da decurtare. Contestazione immediata effettuata dall'agente Elena Fontana, il verbale è stato redatto sul posto in corso della Repubblica. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in tedesco, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo macchina agricola, marca \"chi ha pianto\", targato \"ubi centoventitre doppia ex\" di tipo ufficiale, proveniente dal Belgio. La violazione è avvenuta il 19 aprile 2025 alle ore 6:41 per transito in zona accesso vietato in via Garibaldi al numero 11, in base all'articolo 1228 comma 16 del codice civile. Sono previsti otto punti di decurtazione. Si richiede la stampa del preavviso tramite Bluetooth in lingua olandese e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "sei e quarantuno",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "ubi centoventitre doppia ex",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "chi ha pianto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "milleduecento ventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: di",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo macchina agricola marca chi ha pianto targato ubi centoventitre doppia ex di tipo ufficiale proveniente da belgio in data diciannove aprile duemilaventicinque alle ore sei e quarantuno stata rilevata alla violazione di transito in zona accesso vietato invia garibaldi al numero undici in base al l'articolo milleduecento ventotto comma sedici del codice civile per tale infrazione sono previsti otto punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua olandese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina agricola, marca Kia Picanto, targato UV123WX di tipo ufficiale, proveniente da belgio. In data 19/04/2025 alle ore 06:41, è stata rilevata la violazione di transito in zona accesso vietato in via Garibaldi, al numero 11, in base all'articolo 1228, comma 16 del codice civile.Per tale infrazione sono previsti 8 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua olandese, stampa anche la comunicazione."
+}

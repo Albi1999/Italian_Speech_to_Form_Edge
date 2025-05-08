@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo ciclomotore con targa 'novecento ottantasette doppia v w x' di tipo prova, proveniente dal Portogallo. La violazione è avvenuta il diciassette aprile duemilaventicinque alle ore undici e cinquantadue, per parcheggio in doppia fila in viale della libertà al numero ventidue. La violazione è in base all'articolo trentotto comma trentasei del codice stradale, con una decurtazione di quattro punti. Si richiede la stampa del preavviso tramite WiFi in lingua italiana, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "undici e cinquantadue",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "portogallo",
+                    "targa": "novecento ottantasette doppia v w x",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentotto",
+                    "comma": "trentasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo ciclomotori ma il caos percorsa targato novecento ottantasette doppia v w x di tipo prova proveniente da portogallo in data diciassette aprile duemilaventicinque alle ore undici e cinquantadue e stata rilevata la violazione di parcheggio in doppia fila in viale della libertà al numero ventidue in base a articolo trentotto coma trentasei del codice stradale per tale infrazione sono previsti quattro punti di decurtazione si richiede la stampa dei preavviso tramite vuoi fai in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo ciclomotore, marca Opel Corsa, targato UV987WX di tipo prova, proveniente da portogallo. In data 17/04/2025 alle ore 11:52, è stata rilevata la violazione di parcheggio in doppia fila in viale della Libertà, al numero 22, in base all'articolo 38, comma 36 del codice stradale. Per tale infrazione sono previsti 4 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua italiano, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo motoveicolo marca Succhi Swift, targato IEHI654, di tipo prova, proveniente dall'Italia. La violazione è avvenuta il 29 aprile 2025 alle ore 4:31 per parcheggio in divieto di sosta in via della Libertà, numero 3. La violazione è in base all'articolo 38, comma 36 del codice civile, con una decurtazione di 5 punti. Si richiede la stampa del preavviso tramite WiFi, in lingua italiana, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "quattro trentuno",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "italia",
+                    "targa": "i ehi sei centocinquantaquattro capelli",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "succhi swift",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentotto",
+                    "comma": "trentasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo motoveicoli marca succhi swift targato i ehi sei centocinquantaquattro capelli di tipo prova proveniente da italia in data ventinove aprile duemilaventicinque alle ore quattro trentuno e stata rilevata la violazione di parcheggio in divieto di sosta in via della libertà al numero tre in base all'articolo trentotto con ma trentasei del codice civile per tale infrazione sono previsti cinque punti di decurtazione si richiede la stampa del preavviso tramite wifi lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo motoveicolo, marca Suzuki Swift, targato IJ654KL di tipo prova, proveniente da italia. In data 29/04/2025 alle ore 04:31, è stata rilevata la violazione di parcheggio in divieto di sosta in via della Libertà, al numero 3, in base all'articolo 38, comma 36 del codice civile. Per tale infrazione sono previsti 5 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua italiano, non stampare anche la comunicazione. "
+}

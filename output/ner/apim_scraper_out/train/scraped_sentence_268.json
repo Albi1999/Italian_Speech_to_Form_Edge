@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il quattro maggio duemilaventicinque alle ore quattro e quarantanove per una macchina agricola con targa speciale immatricolata in Francia. L'infrazione è stata rilevata in via della stazione al civico quattro, violando il codice penale articolo quarantasei comma quarantaquattro, per parcheggio su strisce pedonali. La contestazione immediata non è stata possibile per l'assenza del trasgressore. Sono da decurtare quattro punti. Il veicolo è un Renault Captur di colore arancione. La stampa del preavviso è richiesta tramite Bluetooth in tedesco, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattro omaggio duemilaventicinque",
+            "ora_violazione": "quattro i quarantanove",
+            "Strada_1": "viarle della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "ubi trecentoventi uno doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "reno capta",
+                    "colore": "arancione"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data quattro omaggio duemilaventicinque alle ore e quattro i quarantanove è stato notificato un preavviso per un macchina agricola targato ubi trecentoventi uno doppia ex con targa speciale immatricolati in francia l'infrazione e stata rilevata inviarle della stazione al civico quattro con violazione del codice penale articolo quarantasei comma quarantaquattro in particolare sia riscontrato un parcheggio su strisce pedonali non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono quattro punti il veicolo è un reno capta di colore arancione con numero di telaio settecento sessanta milioni e trecentotrenta quattromilatrecento settanta e massa duemilacinquecento novantanove chilogrammi necessita la stampa del preavviso tramite blu tutta in tedesco non stampare anche la comunicazione",
+    "original_sentence": "In data 04/05/2025, alle ore 04:49, è stato notificato un preavviso per un macchina agricola targato UV321WX con targa speciale, immatricolato in francia. L'infrazione è stata rilevata in viale della Stazione, al civico 4, con violazione del codice penale, articolo 46, comma 44, in particolare si è riscontrato un parcheggio su strisce pedonali Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 4 punti. Il veicolo è un Renault Captur di colore arancione, con numero di telaio 760334370 e massa 2599 kg.Necessito la stampa del preavviso tramite bluetooth, in tedesco, non stampare anche la comunicazione."
+}

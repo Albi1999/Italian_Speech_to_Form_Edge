@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sette aprile duemilaventicinque alle nove e trentasette per una violazione riscontrata su un veicolo macchina agricola. Il veicolo, proveniente dal Portogallo, era parcheggiato su strisce pedonali in via della Libertà, civico ventuno, violando l'articolo quarantadue comma quaranta del codice penale. La contestazione non è stata immediata a causa dell'assenza del conducente. È prevista la decurtazione di un punto dalla patente. La stampa è richiesta in portoghese e non include la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "nove e trentasette",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "portogallo",
+                    "targa": "tu centoventitre doppia x",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "si trovarci quattro jack tu tenga",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantadue",
+                    "comma": "quaranta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtazione, after: punti",
+            "tipo_stampa": "about",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data sette aprile duemilaventicinque alle nove e trentasette per la violazione riscontrata al veicolo macchina agricola marca si trovarci quattro jack tu tenga tu centoventitre doppia x tipo prova proveniente da portogallo in particolare in via della libertà civico ventuno è stato accettato parcheggio su strisce pedonali in violazione dell'articolo quarantadue come quaranta del codice penale data l'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di un punti dalla patente richiedo la stampa in portoghese di about non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 07/04/2025 alle ore 09:37 per la violazione riscontrata al veicolo macchina agricola, marca Citroen C4 Cactus, targato UV123WX (tipo prova) proveniente da portogallo. In particolare, in via della Libertà, civico 21, è stato accertato parcheggio su strisce pedonali, in violazione dell'articolo 42, comma 40 del codice penale. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 1 punti dalla patente. Richiedo la stampa in portoghese via bluetooth, non stampare anche la comunicazione. "
+}

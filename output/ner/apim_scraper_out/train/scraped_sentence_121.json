@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Dacia Sandy con rimorchio, targa \"quattrocentocinquanta sei ci di di\", immatricolato in Italia. L'infrazione è avvenuta il 30 aprile 2025 alle ore 18:41 presso \"via dei giardini\". La violazione riguarda il parcheggio in divieto di sosta secondo l'articolo 53, comma 51 del codice civile. La contestazione immediata è stata eseguita dall'agente Sara Bellini e comporta la decurtazione di quattro punti. È richiesta la stampa in portoghese tramite \"via hawaii\" e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "diciotto e quarantuno",
+            "Strada_1": "via dei giardini",
+            "Civico_1": null,
+            "lista_veicoli": [
+                {
+                    "tipologia": null,
+                    "nazione": "italia",
+                    "targa": "quattrocentocinquanta sei ci di di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "dacia sandy",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "via hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo dacia sandy ero rimorchio targa quattrocentocinquanta sei ci di di tipo copertura immatricolati in italia per infrazione commessa in data trenta aprile duemilaventicinque ore diciotto e quarantuno inviare dei giardini civico tutto è stato rilevato parcheggio in divieto di sosta ai sensi dell'articolo cinquantatré comma cinquantuno del codice civile contestazione immediata eseguita dall'agente sara bellini la violazione comporta la decurtazione di quattro punti richiesta stampa in portoghese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Dacia Sandero rimorchio, targa AB456CD di tipo copertura, immatricolato in italia, per infrazione commessa in data 30/04/2025, ore 18:41. In viale dei Giardini, civico 8, è stato rilevato parcheggio in divieto di sosta, ai sensi dell'articolo 53, comma 51, del codice civile.Contestazione immediata eseguita dall'agente Sara Bellini. La violazione comporta la decurtazione di 4 punti. Richiesta stampa in portoghese via wifi, stampa anche la comunicazione."
+}

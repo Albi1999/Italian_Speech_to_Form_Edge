@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il diciannove aprile duemilaventicinque alle ore undici e trentaquattro. Un verbale è stato elevato al veicolo Subaru, una macchina operatrice con targa ufficiale immatricolata in Austria, per violazione dell'articolo quarantuno comma trentanove del codice stradale. La violazione riguarda il parcheggio in zona a rimozione in via dei Giardini. La contestazione è stata immediata, effettuata dall'agente Alessandro Moretti, e ha comportato la decurtazione di tre punti. La stampa necessaria è in lingua portoghese, via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "undici e trentaquattro",
+            "Strada_1": "via dei Giardini",
+            "Civico_1": "la",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "austria",
+                    "targa": "jeff sette centottantanove giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantuno",
+                    "comma": "trentanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: derivano, after: decurtazione",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data diciannove aprile duemilaventicinque alle ore undici e trentaquattro si eleva verbale al veicolo subaru quindicesimo macchina operatrice con targa è jeff sette centottantanove giacca di tipo ufficiale immatricolati austria per violazione dell'articolo quarantuno comma trentanove del codice stradale ovvero parcheggio in zona a rimozione rilevata inviare dei giardini al civico la contestazione stata immediata effettuata dalla gente alessandro moretti dalla violazione derivano tre punti di decurtazione stampa necessaria in lingua portoghese via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "In data 19/04/2025, alle ore 11:34, si eleva verbale al veicolo Subaru XV, macchina operatrice con targa EF789GH di tipo ufficiale, immatricolato in austria, per violazione dell'articolo 41, comma 39 del codice stradale, ovvero parcheggio in zona rimozione, rilevata in viale dei Giardini, al civico 8.La contestazione è stata immediata, effettuata dall'agente Alessandro Moretti. Dalla violazione derivano 3 punti di decurtazione. Stampa necessaria in lingua portoghese via bluetooth, non stampare anche la comunicazione."
+}

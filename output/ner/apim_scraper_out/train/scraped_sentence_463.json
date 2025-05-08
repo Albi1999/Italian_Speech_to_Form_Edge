@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da una macchina operatrice Nissan Mica, immatricolata in Grecia, con targa ICSI Ypsilon 387 SA. La violazione è avvenuta il 12 aprile 2025 alle ore 00:42 in via del Corso, civico 12, per parcheggio in zona a rimozione, violando l'articolo 26, comma 24 del codice civile. La violazione comporta la perdita di cinque punti. La stampa del verbale è richiesta in modalità Hawaii fai e in lingua francese, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte e quarantadue",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "icsi ypsilon trecentottantasette sa",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "nissan mica",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventisei",
+                    "comma": "ventiquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina operatrice marca nissan mica targa icsi ypsilon trecentottantasette sa di tipo prova immatricolati in grecia in data dodici aprile duemilaventicinque alle ore mezzanotte e quarantadue in via del corso al civico dodici e stata commessa la seguente violazione parcheggio in zona a rimozione articolo ventisei con ma ventiquattro del codice civile dalla violazione con segue la perdita di cinque punti stampa in modalità hawaii fai è in lingua francese non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina operatrice, marca Nissan Micra, targa XY987ZA di tipo prova, immatricolato in grecia. In data 12/04/2025 alle ore 00:42, in via del Corso, al civico 12, è stata commessa la seguente violazione: parcheggio in zona rimozione (articolo 26, comma 24 del codice civile).Dalla violazione consegue la perdita di 5 punti.Stampa in modalità wifi e in lingua francese, non stampare anche la comunicazione."
+}

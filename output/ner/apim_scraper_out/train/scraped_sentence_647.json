@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo BMW con targa immatricolata in Spagna, per un'infrazione di parcheggio in divieto di sosta avvenuta il 14 aprile 2025 alle ore 16:40 in via Roma, civico 77. La contestazione immediata non è stata possibile a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di sette punti. È richiesta la stampa in francese via Hawaii, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "sedici quaranta",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "remoto veicolo",
+                    "nazione": "spagna",
+                    "targa": "ubu sei centocinquantaquattro doppio mix",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "bmw jeff novecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo bmw jeff novecento e remoto veicolo targa ubu sei centocinquantaquattro doppio mix di tipo copertura immatricolati in spagna per infrazione commessa in data quattordici aprile duemilaventicinque ore sedici quaranta invia roma civico settantasette è stato rilevato parcheggio in divieto di sosta ai sensi dell'articolo quaranta comma trentotto del codice penale impossibile effettuare la contestazione immediata assenza del trasgressori la violazione comporta la decurtazione di sette punti richiesta stampa in francese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo BMW F 900 R motoveicolo, targa UV654WX di tipo copertura, immatricolato in spagna, per infrazione commessa in data 14/04/2025, ore 16:40. In via Roma, civico 77, è stato rilevato parcheggio in divieto di sosta, ai sensi dell'articolo 40, comma 38, del codice penale. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 7 punti. Richiesta stampa in francese via wifi, stampa anche la comunicazione. "
+}

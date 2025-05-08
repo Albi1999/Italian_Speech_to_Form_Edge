@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato l'undici aprile 2025 alle ore 3:21 per un rimorchio con targa speciale immatricolato in Spagna. L'infrazione è stata rilevata in via del Corso, civico 12, per parcheggio su strisce pedonali, violando il codice civile, articolo 21, comma 19. La contestazione immediata non è stata possibile per l'assenza del trasgressore. Da decurtare ci sono uno punti. Il veicolo è un Full Ex Vaga in Golf di colore oro. È richiesta la stampa del preavviso tramite Wi-Fi in francese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "tre ventuno",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "spagna",
+                    "targa": "i xiii ypsilon novecentottanta sette sa",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "full ex vaga in golf",
+                    "colore": "oro"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data undici aprile duemilaventicinque alle ore tre ventuno è stato notificato un preavviso per un rimorchio targato i xiii ypsilon novecentottanta sette sa con targa speciale immatricolati in spagna l'infrazione e stata rilevata in via del corso al civico dodici con violazione del codice civile articolo ventuno comma diciannove in particolare si e riscontrato un parcheggio su strisce pedonali non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono uno punti il veicolo è un full ex vaga in golf di colore oro con numero di telaio sette centonovantaquattro milioni e seicento novantottomila novecentocinquanta sette massa tremiladuecento sessantuno chilogrammi necessita la stampa del preavviso tramite vuoi fai in francese stampa anche la comunicazione",
+    "original_sentence": "In data 11/04/2025, alle ore 03:21, è stato notificato un preavviso per un rimorchio targato XY987ZA con targa speciale, immatricolato in spagna. L'infrazione è stata rilevata in via del Corso, al civico 12, con violazione del codice civile, articolo 21, comma 19, in particolare si è riscontrato un parcheggio su strisce pedonali Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 1 punti. Il veicolo è un Volkswagen Golf di colore oro, con numero di telaio 794698957 e massa 3261 kg.Necessito la stampa del preavviso tramite wifi, in francese, stampa anche la comunicazione."
+}

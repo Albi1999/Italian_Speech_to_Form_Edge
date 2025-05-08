@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il quindici aprile duemilaventicinque alle ore una e un minuto per un veicolo Traiano Tiger 850 Sport, immatricolato in Svizzera con targa ufficiale. L'infrazione è avvenuta in via Giuseppe Mazzini, civico 24, per una violazione del codice stradale, articolo 53, comma 51, per parcheggio in doppia fila. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti nove punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è richiesta in tedesco tramite Wi-Fi, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "una è un minuto",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "svizzera",
+                    "targa": "ci di quattrocentocinquanta sei fedi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "traiano tiger ottocentocinquanta sport",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno quindici aprile duemilaventicinque alle ore una è un minuto è stato redatto un verbale per il veicolo traiano tiger ottocentocinquanta sport ciclomotori e immatricolati in svizzera con targa ci di quattrocentocinquanta sei fedi tipo ufficiale l'infrazione e avvenuta in via giuseppe mazzini al civico ventiquattro e stata riscontrata una violazione del codice stradale articolo cinquantatré comma cinquantuno vero parcheggia in doppia fila non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti nove punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in tedesco tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 15/04/2025, alle ore 01:01, è stato redatto un verbale per il veicolo Triumph Tiger 850 Sport, ciclomotore immatricolato in svizzera con targa CD456EF di tipo ufficiale.L'infrazione è avvenuta in via Giuseppe Mazzini, al civico 24. È stata riscontrata una violazione del codice stradale, articolo 53, comma 51 ovvero parcheggio in doppia filaNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 9 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in tedesco tramite wifi, non stampare anche la comunicazione."
+}

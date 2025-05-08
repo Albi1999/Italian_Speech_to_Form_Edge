@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo ciclomotore marca O per Corsa, targato centoventitre HO, proveniente dalla Spagna. La violazione è avvenuta il tredici aprile duemilaventicinque alle ore ventuno e undici, per parcheggio in zona a rimozione in via Garibaldi al numero undici. La violazione è in base all'articolo dodici comma dieci del codice penale, con otto punti di decurtazione previsti. Si richiede la stampa del preavviso tramite Bluetooth in lingua portoghese, con anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "ventuno e undici",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "spagna",
+                    "targa": "centoventitre ho",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "o per corsa",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: di",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo ciclomotori marca o per corsa targato centoventitre ho di tipo copertura proveniente da spagna in data tredici aprile duemilaventicinque alle ore ventuno e undici e stata rilevata alla violazione di parcheggio in zona a rimozione in via garibaldi al numero undici in base all'articolo dodici comma dieci del codice penale per tale infrazione sono previsti otto punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua portoghese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo ciclomotore, marca Opel Corsa, targato MN123OP di tipo copertura, proveniente da spagna. In data 13/04/2025 alle ore 21:11, è stata rilevata la violazione di parcheggio in zona rimozione in via Garibaldi, al numero 11, in base all'articolo 12, comma 10 del codice penale.Per tale infrazione sono previsti 8 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua portoghese, stampa anche la comunicazione."
+}

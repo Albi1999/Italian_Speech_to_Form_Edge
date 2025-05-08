@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato l'otto aprile 2025 alle 8:38 per una macchina agricola con targa speciale immatricolata in Spagna. L'infrazione è stata rilevata in via della giustizia, civico 16, per violazione del codice civile, articolo 47, comma 45, riguardante un parcheggio in divieto di sosta. La contestazione immediata non è stata possibile per l'assenza del trasgressore. È previsto un punto da decurtare. Il veicolo è un Chapas a chi Zetas 650 di colore argento. La stampa del preavviso è richiesta tramite Bluetooth, in francese, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "otto e trentotto",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "jeff trecentoventi uno giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "chapas a chi zetas seicentocinquanta",
+                    "colore": "argento"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data otto aprile duemilaventicinque alle otto e trentotto è stato notificato un preavviso per un macchina agricola targato jeff trecentoventi uno giacca con targa speciale immatricolati in spagna l'infrazione e stata rilevata in via della giustizia al civico sedici con violazione del codice civile articolo quarantasette comma quarantacinque in particolare si riscontrato un parcheggio in divieto di sosta non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono un punti il veicolo è un chapas a chi zetas seicentocinquanta di colore argento con numero di telaio otto due sette zero quattro tre otto sei quattro massa duemilacinquecento ventisette chili necessita alla stampa del preavviso tramite blu tutta in francese stampa anche la comunicazione",
+    "original_sentence": "In data 08/04/2025, alle ore 08:38, è stato notificato un preavviso per un macchina agricola targato EF321GH con targa speciale, immatricolato in spagna. L'infrazione è stata rilevata in via della Giustizia, al civico 16, con violazione del codice civile, articolo 47, comma 45, in particolare si è riscontrato un parcheggio in divieto di sosta Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 1 punti. Il veicolo è un Kawasaki Z650 di colore argento, con numero di telaio 827043864 e massa 2527 kg. Necessito la stampa del preavviso tramite bluetooth, in francese, stampa anche la comunicazione. "
+}

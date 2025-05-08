@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo Ducati Multistrada, immatricolato in Grecia, con targa speciale. L'infrazione è avvenuta il 21 aprile 2025 alle 4:19 in Corso della Giustizia, numero 23, per transito in zona accesso vietato. L'articolo violato è il 2002, comma 235 del codice penale, con la decurtazione di sei punti dalla patente. La stampa del verbale è richiesta via Bluetooth in lingua olandese, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "quattro e diciannove",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "how trecentoventi uno doppia w x",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "ducati multi strada due",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "duemiladue",
+                    "comma": "ventitré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "blu tutino",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo ducati multi strada due macchina operatrice con targa how trecentoventi uno doppia w x di tipo speciale immatricolati in grecia per un'infrazione commessa ehi ventuno aprile duemilaventicinque alle quattro e diciannove l'infrazione avvenuta in corso della giustizia al numero ventitré dov'è veicolo era in transito in zona accesso vietato l'articolo violato ehi duemiladue centotrentacinque con ma ventitré del codice penale verranno tolti sei punti dalla patente stampa questo verbale via blu tutino olandese non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Ducati Multistrada V2, macchina operatrice con targa UV321WX di tipo speciale, immatricolato in grecia, per un'infrazione commessa il 21/04/2025 alle 04:19. L'infrazione è avvenuta in corso della Giustizia, al numero 23, dove il veicolo era in transito in zona accesso vietato. L'articolo violato è il 2235, comma 23 del codice penale. Verranno tolti 6 punti dalla patente. Stampa questo verbale via bluetooth in olandese, non stampare anche la comunicazione. "
+}

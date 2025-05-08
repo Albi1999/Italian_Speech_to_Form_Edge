@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 8 aprile 2025 alle 7:49 per un'infrazione stradale. Il veicolo coinvolto è un'autovettura con targa ufficiale immatricolata in Belgio, targata 'guerra e settecento ottantanove'. L'infrazione è stata accertata in via della pace, civico 2, per parcheggio in zona a rimozione, violando il codice stradale articolo 14, comma 12. Sono previsti dieci punti da decurtare. La contestazione è stata immediata, effettuata dall'agente Giulia Costa. La stampa del verbale è stata effettuata tramite Bluetooth in portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "sette e quarantanove",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "belgio",
+                    "targa": "guerra e settecento ottantanove",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazioni immediata effettuata dalla gente giulia costa",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattordici",
+                    "comma": "dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: da",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle sette e quarantanove dell'otto aprile duemilaventicinque storie di gendo un verbale per il veicolo autovettura targato guerra e settecento ottantanove se ti con targa ufficiale immatricolati in belgio l'infrazione è stata accertata in via della pace al civico due con violazione del codice stradale articolo quattordici ma dodici per parcheggi in zona a rimozione sono previsti dieci punti da decurtare contestazioni immediata effettuata dalla gente giulia costa il verbale è stato redatto sul posto in via della pace non posso applicare alcuna sanzione accessoria stampa tramite blu tutte in portoghese stampa anche la comunicazione",
+    "original_sentence": "Alle 07:49 del 08/04/2025, sto redigendo un verbale per il veicolo autovettura targato QR789ST con targa ufficiale, immatricolato in belgioL'infrazione è stata accertata in via della Pace, al civico 2, con violazione del codice stradale, articolo 14,comma 12 per parcheggio in zona rimozione Sono previsti 10 punti da decurtare. Contestazione immediata effettuata dall'agente Giulia Costa, il verbale è stato redatto sul posto in via della Pace. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in portoghese, stampa anche la comunicazione. "
+}

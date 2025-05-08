@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo motoveicolo marca Fox Vaga in Polo, targato IE 123 CH, proveniente dalla Svizzera. La violazione è avvenuta il 24 aprile 2025 alle ore 6:04, per parcheggio in doppia fila in viale della Libertà al numero 22. La violazione è in base all'articolo 29 comma 27 del codice civile, con una decurtazione di 4 punti. Si richiede la stampa del preavviso tramite WiFi in lingua francese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "sei e quattro minuti",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "svizzera",
+                    "targa": "i e centoventitre chi lo litri",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "fox vaga in polo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo motoveicoli marca fox vaga in polo targato i e centoventitre chi lo litri di tipo copertura proveniente da svizzera in data ventiquattro aprile duemilaventicinque alle ore sei e quattro minuti e stata rilevata alla violazione di parcheggia in doppia fila in viale della libertà al numero ventidue in base all'articolo ventinove comma ventisette del codice civile per tale infrazione sono previsti quattro punti di decurtazione si richiede la stampa del preavviso tramite wifi in lingua francese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo motoveicolo, marca Volkswagen Polo, targato IJ123KL di tipo copertura, proveniente da svizzera. In data 24/04/2025 alle ore 06:04, è stata rilevata la violazione di parcheggio in doppia fila in viale della Libertà, al numero 22, in base all'articolo 29, comma 27 del codice civile.Per tale infrazione sono previsti 4 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua francese, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Subaru, immatricolato in Italia con targa ufficiale. L'infrazione è avvenuta in via della Repubblica 20 e via dei Fori Imperiali civico 10, per parcheggio in zona a rimozione. Si applica l'articolo 51 comma 49 del codice stradale, con la decurtazione di due punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. Si richiede la stampa in portoghese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "italia",
+                    "targa": "sette centottantanove ospiti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantuno",
+                    "comma": "quarantanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo subaru quindicesimo motoveicoli immatricolati in italia con targa sette centottantanove ospiti tipo ufficiale l'infrazione e avvenuta in via della repubblica venti via dei fori imperiali civico dieci parcheggio in zona a rimozione si applica l'articolo cinquantuno comma quarantanove del codice stradale a seguito della violazione verranno decurtati due punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in portoghese tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Subaru XV, motoveicolo immatricolato in italia con targa MN789OP di tipo ufficiale. L'infrazione è avvenuta in via della Repubblica, 20via dei Fori Imperiali, civico 10: parcheggio in zona rimozione. Si applica l'articolo 51, comma 49 del codice stradale. A seguito della violazione verranno decurtati 2 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in portoghese tramite bluetooth, stampa anche la comunicazione. "
+}

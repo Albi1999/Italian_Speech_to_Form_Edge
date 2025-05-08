@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo motoveicolo di marca Giamai Ypsilon Jerry Sette con targa CI DI centoventitre A tipo speciale, proveniente da Crack. L'infrazione è avvenuta il 28 aprile 2025 alle ore 24:26 in via della Speranza, numero civico 17, per parcheggio in zona a rimozione, violando l'articolo 10, comma 8 del codice civile. La decurtazione prevista è di sette punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa è necessaria tramite Bluetooth in portoghese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "ventiquattro e ventisei",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "crack",
+                    "targa": "ci di centoventitre a",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "giamai ypsilon jerry sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "dieci",
+                    "comma": "otto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: decurtazione, after: punti",
+            "tipo_stampa": "piu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo motoveicoli di marca giamai ypsilon jerry sette con targa ci di centoventitre a tipo speciale proveniente da crack a fatto avvenuto il ventotto aprile duemilaventicinque alle ore ventiquattro e ventisei posizione via della speranza numero civico diciassette infrazione parcheggio in zona a rimozione in violazione dell'articolo dieci con ma otto del codice civile decurtazione prevista sette punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite piu tutti in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo motoveicolo di marca Yamaha YZF-R7, con targa CD123AB (tipo speciale), proveniente da grecia. Fatto avvenuto il 28/04/2025 alle ore 00:26. Posizione: via della Speranza, numero civico 17. Infrazione: parcheggio in zona rimozione, in violazione dell'articolo 10, comma 8, del codice civile. Decurtazione prevista: 7 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite bluetooth in portoghese, non stampare anche la comunicazione. "
+}

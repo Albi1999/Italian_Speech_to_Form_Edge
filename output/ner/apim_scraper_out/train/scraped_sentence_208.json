@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo agricolo immatricolato in Olanda, con targa speciale, che ha commesso un'infrazione il 5 maggio 2025 alle 00:46 in Corso Buenos Aires, civico 98. La violazione riguarda il parcheggio davanti a un passo carraio, ai sensi dell'articolo 27, comma 25 del codice civile. La contestazione è stata eseguita immediatamente dall'agente Matteo Gallo e comporta la decurtazione di cinque punti. La stampa è richiesta in spagnolo via Bluetooth, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "mezzanotte e quarantasei",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "olanda",
+                    "targa": "e quattrocentocinquanta sei",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventisette",
+                    "comma": "venticinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo chi ha storiche macchina agricola targa è e quattrocentocinquanta sei chi lo litri di tipo speciale immatricolati in olanda per infrazione commessa in data cinque maggio duemilaventicinque ore e mezzanotte e quarantasei in corso buenos aires civico novantotto è stato rilevato parcheggio davanti a passo carabine ai sensi dell'articolo ventisette comma venticinque del codice civile contestazione immediata eseguita dall'agente matteo gallo la violazione comporta la decurtazione di cinque punti richiesta stampa in spagnolo via blu tutta stampa anche la comunicativa",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Kia Stonic macchina agricola, targa IJ456KL di tipo speciale, immatricolato in olanda, per infrazione commessa in data 05/05/2025, ore 00:46. In corso Buenos Aires, civico 98, è stato rilevato parcheggio davanti a passo carrabile, ai sensi dell'articolo 27, comma 25, del codice civile.Contestazione immediata eseguita dall'agente Matteo Gallo. La violazione comporta la decurtazione di 5 punti. Richiesta stampa in spagnolo via bluetooth, stampa anche la comunicazione."
+}

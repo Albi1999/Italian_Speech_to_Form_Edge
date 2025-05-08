@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento informa che è in corso la stesura di un preavviso di violazione per un veicolo rimorchio proveniente dalla Germania. La violazione è avvenuta il 20 aprile 2025 alle 22:48 in via della Vittoria, numero civico 9. La violazione riguarda l'articolo 14, comma 12 del codice stradale e comporterà una decurtazione di 10 punti. Si richiede la stampa in lingua portoghese e modalità di stampa \"tutte\", inclusa la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "ventidue quarantotto",
+            "Strada_1": "via della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "sette centottantanove occhi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mary carino clio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattordici",
+                    "comma": "dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazioni per il veicolo rimorchio contenga e me ne sette centottantanove occhi di tipo prova mary carino clio provenienti da germania l'infezione nello specifico parcheggio davanti a passo per abile si e verificate in data venti aprile duemilaventicinque alle julie ventidue quarantotto inviare della vittoria a il numero nove articolo quattordici come dodici del codice stradale si comunica che dalla violazione conseguirà una decurtazione di dieci punti si richiede la stampa in lingua portoghese modalità tutte stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa MN789OP di tipo prova, marca Renault Clio, proveniente da germania. L'infrazione, nello specifico parcheggio davanti a passo carrabile, si è verificata in data 20/04/2025 alle ore 22:48 in viale della Vittoria, al numero 9 (articolo 14, comma 12 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 10 punti. Si richiede la stampa in lingua portoghese, modalità bluetooth, stampa anche la comunicazione. "
+}

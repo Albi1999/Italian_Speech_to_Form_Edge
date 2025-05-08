@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo Nissa Amica Rimorchio con targa Yemen 450 6 Hope, immatricolato in Croazia. L'infrazione è avvenuta il 14 aprile 2025 alle 8:58 in Corso della Repubblica, numero 19, per violazione dell'articolo 3 comma 1 del codice civile. Verrà decurtato un punto dalla patente. La stampa del verbale deve essere effettuata via Hawaii in lingua francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "otto cinquantotto",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "yemen quattrocentocinquanta sei hope",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "nissa amica",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo nissa amica rimorchio con targa yemen quattrocentocinquanta sei hope di tipo ufficiale immatricolati in croazia per un'infrazione commessa il quattordici aprile duemilaventicinque alle otto cinquantotto l'infrazione e avvenuta in corso della repubblica al numero diciannove dove il veicolo era in parcheggio davanti a passo carabine l'articolo violato è il tre comma uno del codice civile verranno tolti un punti dalla patente stampa questo verbale via hawaii fai francese non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Nissan Micra, rimorchio con targa MN456OP di tipo ufficiale, immatricolato in croazia, per un'infrazione commessa il 14/04/2025 alle 08:58. L'infrazione è avvenuta in corso della Repubblica, al numero 19, dove il veicolo era in parcheggio davanti a passo carrabile. L'articolo violato è il 3, comma 1 del codice civile. Verranno tolti 1 punti dalla patente. Stampa questo verbale via wifi in francese, non stampare anche la comunicazione. "
+}

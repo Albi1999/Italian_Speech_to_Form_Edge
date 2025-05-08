@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 30 aprile 2025 alle ore 4:44 per un rimorchio con targa ufficiale svizzera, rilevato in via della Concordia, civico 14. La violazione riguarda il codice penale, articolo 23, comma 21, per transito in zona accesso vietato. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare 5 punti. Il veicolo è un Peugeot 2008 blu, con numero di telaio 2009404839 e massa di 2277 kg. È richiesta la stampa del preavviso tramite Wi-Fi in olandese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "quattro e quarantaquattro",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "novecentottanta sette ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "peugeot duemilaotto",
+                    "colore": "blu"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventitré",
+                    "comma": "ventuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data trenta aprile duemilaventicinque alle ore quattro e quarantaquattro è stato notificato un preavviso per un rimorchio targato novecentottanta sette ci di con targa ufficiale immatricolati in svizzera l'infrazione e stata rilevata in via della concordia al civico quattordici con violazione del codice penale articolo ventitré comma ventuno in particolare si e riscontrato un transito in zona accesso vietato non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono cinque punti il veicolo è un peggio duemilaotto di colore blu con numero di telaio duecento milioni e novecentoquaranta quattromila ottocentotrentanove massa duemiladuecento settantasette chilogrammi necessita la stampa del preavviso tramite vuoi fai in olandese stampa anche la comunicazione",
+    "original_sentence": "In data 30/04/2025, alle ore 04:44, è stato notificato un preavviso per un rimorchio targato AB987CD con targa ufficiale, immatricolato in svizzera. L'infrazione è stata rilevata in via della Concordia, al civico 14, con violazione del codice penale, articolo 23, comma 21, in particolare si è riscontrato un transito in zona accesso vietato Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 5 punti. Il veicolo è un Peugeot 2008 di colore blu, con numero di telaio 200944889 e massa 2277 kg.Necessito la stampa del preavviso tramite wifi, in olandese, stampa anche la comunicazione."
+}

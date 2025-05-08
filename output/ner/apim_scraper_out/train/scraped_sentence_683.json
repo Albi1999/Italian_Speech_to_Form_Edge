@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il 17 aprile 2025 alle ore 22:24 per una violazione riscontrata su un veicolo macchina agricola Mercedes Classe A, targato ICSI Ypsilon 320 Uno, tipo ufficiale, proveniente dalla Svizzera. La violazione è avvenuta in via della Concordia, civico 14, per parcheggio in doppia fila, violando l'articolo 131, comma 9 del codice stradale. L'agente Bellini ha proceduto con contestazione immediata e si prevede la decurtazione di 3 punti dalla patente. La stampa è richiesta in francese via Hawaii, con la comunicazione inclusa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "ventidue ventiquattro",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "icsi ypsilon trecentoventi uno",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centotrentuno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "vi hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data diciassette aprile duemilaventicinque alle ore ventidue ventiquattro per la violazione riscontrata al veicolo macchina agricola marca mercedes classe a targato icsi ypsilon trecentoventi uno tipo ufficiale i proveniente da svizzera in particolare in via della concordia civico quattordici è stato accertato parcheggia in doppia fila in violazione dell'articolo centotrentuno comma nove del codice stradale l'agente sarà bellini a proceduto con contestazione immediata si prevede la decurtazione di tre punti dalla patente richiedo la stampa in francese vi hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 17/04/2025 alle ore 22:24 per la violazione riscontrata al veicolo macchina agricola, marca Mercedes Classe A, targato XY321ZA (tipo ufficiale) proveniente da svizzera. In particolare, in via della Concordia, civico 14, è stato accertato parcheggio in doppia fila, in violazione dell'articolo 121, comma 9 del codice stradale. L'agente Sara Bellini ha proceduto con contestazione immediata. Si prevede la decurtazione di 3 punti dalla patente. Richiedo la stampa in francese via wifi, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il 30 aprile 2025 alle ore 6:19 per un veicolo ciclomotore di marca Opel Corsa con targa ufficiale registrato in Svizzera. L'infrazione è avvenuta in Corso della Giustizia al numero 23, per transito in zona accesso vietato, secondo l'articolo 20 comma 18 del codice civile. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti tre punti di decurtazione. Si richiede di stampare la notifica tramite Bluetooth in lingua francese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "sei e diciannove",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "svizzera",
+                    "targa": "trecentoventi uno o piu",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "opel corsa",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: di",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data trenta aprile duemilaventicinque alle ore sei e diciannove è stato emesso un preavviso di violazione per il veicolo ciclomotori di marca opel corsa con targa trecentoventi uno o piu tipo ufficiale registrato in svizzera l'infrazione e avvenuta in corso della giustizia al numero ventitre e consiste in transito in zona accesso vietato come previsto dall'articolo venti comma diciotto del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti tre punti di decurtazione si prega di stampare la presente notifica tramite blu in lingua francese non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 30/04/2025, alle ore 06:19, è stato emesso un preavviso di violazione per il veicolo ciclomotore di marca Opel Corsa, con targa MN321OP (tipo ufficiale), registrato in svizzera. L'infrazione è avvenuta in corso della Giustizia, al numero 23, e consiste in transito in zona accesso vietato, come previsto dall'articolo 20, comma 18 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 3 punti di decurtazione.  Si prega di stampare la presente notifica tramite bluetooth, in lingua francese, non stampare anche la comunicazione."
+}

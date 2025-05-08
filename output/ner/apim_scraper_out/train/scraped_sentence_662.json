@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo operatore targato IEHI 456, registrato in Spagna. L'infrazione è avvenuta il 7 aprile 2025 alle 4:37 in Corso della Giustizia, civico 23, per parcheggio in zona rimozione. La violazione è in base all'articolo 6 comma 1a1a12 del codice penale e comporta una decurtazione di 8 punti. La stampa dell'avviso è prevista via Bluetooth in italiano, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "quattro e trentasette",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "i ehi quattrocentocinquanta sei capelli",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "onda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sei",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo onda a macchina operatrice targato i ehi quattrocentocinquanta sei capelli con targa copertura registrato in spagna per un fatto accaduto il sette aprile duemilaventicinque alle quattro e trentasette il veicolo si trovava in corso della giustizia al civico ventitré dove è stato riscontrato parcheggio in zona a rimozione in base all'articolo sei comma uno a uno a dodici del codice penale questa infrazione e comporta una decurtazione di otto punti genere alla stampa dell'avviso via blu tutti in italiano non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Honda HR-V, macchina operatrice, targato IJ456KL con targa copertura, registrato in spagna, per un fatto accaduto il 07/04/2025 alle 04:37. Il veicolo si trovava in corso della Giustizia, al civico 23, dove è stato riscontrato parcheggio in zona rimozione, in base all'articolo 6, comma 1a(1-12), del codice penale. Questa infrazione comporta una decurtazione di 8 punti. Genera la stampa dell'avviso via bluetooth in italiano, non stampare anche la comunicazione. "
+}

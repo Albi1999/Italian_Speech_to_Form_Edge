@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo con targa croata, per un'infrazione avvenuta il 2 maggio 2025 alle ore 9:06 in via Venti Settembre, civico 5. L'infrazione riguarda il parcheggio davanti a un passo carraio, violando l'articolo 7, comma 5 del codice penale. La contestazione è stata eseguita immediatamente dall'agente Matteo Gallo e comporta la decurtazione di 9 punti. La stampa del verbale è richiesta in inglese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "nove sei minuti",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "centoventitre",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "reno capito",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazione, after: punti",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo reno capito rimorchio targa centoventitre ho più di tipo speciale immatricolati in croazia per infrazione commessa in data due maggio duemilaventicinque ore nove sei minuti in via venti settembre civico cinque è stato rilevato parcheggio davanti a passo carabine ai sensi dell'articolo sette con ma cinque del codice penale contestazione immediata eseguita dall'agente matteo gallo la violazione comporta la decurtazione di nove punti richiesta stampa in inglese via blood stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Renault Captur rimorchio, targa MN123OP di tipo speciale, immatricolato in croazia, per infrazione commessa in data 02/05/2025, ore 09:06. In via XX Settembre, civico 5, è stato rilevato parcheggio davanti a passo carrabile, ai sensi dell'articolo 7, comma 5, del codice penale.Contestazione immediata eseguita dall'agente Matteo Gallo. La violazione comporta la decurtazione di 9 punti. Richiesta stampa in inglese via bluetooth, stampa anche la comunicazione."
+}

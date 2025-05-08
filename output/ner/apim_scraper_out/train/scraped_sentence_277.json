@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il ventotto aprile duemilaventicinque alle quindici e quattro minuti per un'infrazione accertata in corso Buenos Aires, civico novantotto. La violazione riguarda il codice stradale, articolo ventuno, comma diciannove, per parcheggio in zona a rimozione. Sono previsti quattro punti da decurtare. La contestazione è stata immediata, effettuata dall'agente Francesco Rizzo. La stampa del verbale è stata eseguita tramite Bluetooth in olandese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "quindici e quattro minuti",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": null,
+                    "targa": "quattrocentocinquanta sei ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: previsti, after: da",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle quindici e quattro minuti del ventotto aprile duemilaventicinque storie di gendo un verbale per il veicolo rimorchio targato quattrocentocinquanta sei ci di con targa ufficiale immatricolati non l'andare infrazione e stata accertata in corso buenos aires al civico novantotto con violazione del codice stradale articolo ventuno con ma diciannove per parcheggio in zona a rimozione sono previsti quattro punti da decurtare contestazione immediata effettuata dalla gente francesco rizzo il verbale è stato redatto sul posto in corso buenos aires non posso applicare alcuna sanzione accessoria stampa tramite blu in olandese non stampare anche la comunicazione",
+    "original_sentence": "Alle 15:04 del 28/04/2025, sto redigendo un verbale per il veicolo rimorchio targato AB456CD con targa ufficiale, immatricolato in olandaL'infrazione è stata accertata in corso Buenos Aires, al civico 98, con violazione del codice stradale, articolo 21,comma 19 per parcheggio in zona rimozione Sono previsti 4 punti da decurtare. Contestazione immediata effettuata dall'agente Francesco Rizzo, il verbale è stato redatto sul posto in corso Buenos Aires. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in olandese, non stampare anche la comunicazione."
+}

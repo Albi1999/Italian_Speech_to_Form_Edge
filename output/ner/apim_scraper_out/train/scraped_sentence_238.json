@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 21 aprile 2025 alle ore 18:23 per una violazione riscontrata su un veicolo macchina agricola marca Audi A3, targato IXIIIY3201, proveniente dalla Croazia. La violazione riguarda il parcheggio in divieto di sosta in via della Pace, civico 2, in violazione dell'articolo 33, comma 31 del codice penale. L'agente Matteo Gallo ha proceduto con contestazione immediata e si prevede la decurtazione di nove punti dalla patente. La stampa è richiesta in francese tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "diciotto e ventitré",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "croazia",
+                    "targa": "i xiii ypsilon trecentoventi uno",
+                    "tipologia_targa": null,
+                    "marca_modello": "audi a tre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentatré",
+                    "comma": "trentuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data ventuno aprile duemilaventicinque alle ore diciotto e ventitré per la violazione riscontrata al veicolo macchina agricola marca audi a tre targato i xiii ypsilon trecentoventi uno tipo copertura proveniente da croazia in particolare in via della pace civico due è stato accertato parcheggio in divieto di sosta in violazione dell'articolo trentatré comma trentuno del codice penale l'agente matteo gallo a proceduto con contestazione immediata si prevede la decurtazione di nove punti dalla patente richiedo la stampa in francese vi hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 21/04/2025 alle ore 18:23 per la violazione riscontrata al veicolo macchina agricola, marca Audi A3, targato XY321ZA (tipo copertura) proveniente da croazia. In particolare, in via della Pace, civico 2, è stato accertato parcheggio in divieto di sosta, in violazione dell'articolo 33, comma 31 del codice penale. L'agente Matteo Gallo ha proceduto con contestazione immediata. Si prevede la decurtazione di 9 punti dalla patente. Richiedo la stampa in francese via wifi, non stampare anche la comunicazione."
+}

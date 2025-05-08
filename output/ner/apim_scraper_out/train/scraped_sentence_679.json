@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a un veicolo autovettura con targa 'quattrocentocinquanta sei oh piedi', proveniente dall'Austria, marca 'odia tre'. La violazione riguarda il parcheggio in zona a rimozione, avvenuta il 17 aprile 2025 alle ore 7:43 in via della Speranza, numero 18. L'infrazione è classificata sotto l'articolo 13, comma 11 del codice penale. La contestazione è stata immediata da parte dell'agente Carlo Bruni e prevede la perdita di due punti. Si richiede la stampa in lingua olandese tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "sette quarantatré",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "quattrocentocinquanta sei oh piedi",
+                    "tipologia_targa": "tipo copertura",
+                    "marca_modello": "odia tre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tredici",
+                    "comma": "undici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo autovettura targato quattrocentocinquanta sei oh piedi tipo copertura proveniente da austria marca odia tre la violazione ovvero parcheggio in zona a rimozione sia verificata in data diciassette aprile duemilaventicinque alle ore sette quarantatré in via della speranza al numero diciotto l'infrazione rientra nell'articolo tredici comma undici del codice penale contestazione immediata da parte della gente carlo bruni la sanzione prevede la perdita di due punti si richiede la stampa in lingua olandese tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato MN456OP di tipo copertura proveniente da austria, marca Audi A3. La violazione, ovvero parcheggio in zona rimozione, si è verificata in data 17/04/2025 alle ore 07:43 in via della Speranza, al numero 18. L'infrazione rientra nell'articolo 13, comma 11 del codice penale. Contestazione immediata da parte dell'agente Carlo Bruni. La sanzione prevede la perdita di 2 punti. Si richiede la stampa in lingua olandese, tramite wifi, non stampare anche la comunicazione. "
+}

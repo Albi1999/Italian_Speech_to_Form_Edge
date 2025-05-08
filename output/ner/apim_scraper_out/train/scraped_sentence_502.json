@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo autovettura, una Ford Fiesta, con targa di prova proveniente dalla Grecia. La violazione riguarda il parcheggio in zona a rimozione in via Giuseppe Mazzini al numero 24, avvenuta il 10 aprile 2025 alle 8:41. La violazione è in base all'articolo 6, comma 1, del codice civile, con una decurtazione di 5 punti. Si richiede la stampa del preavviso tramite Bluetooth in lingua francese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "otto e quarantuno",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "grecia",
+                    "targa": "ad quattrocentocinquanta sei ci di di",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mai fiesta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sei",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo autovettura mai fiesta targato ad quattrocentocinquanta sei ci di di tipo prova proveniente da grecia in data dieci aprile duemilaventicinque alle otto e quarantuno e stata rilevata la violazione di parcheggio in zona a rimozione invia giuseppe mazzini a il numero ventiquattro in base a articolo sei come uno a uno a dodici e dei codice civile per tale infrazione sono previsti cinque punti di decurtazione si richiede la stampa dei preavviso tramite blu tutti in lingua francese non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo autovettura, marca Ford Fiesta, targato AB456CD di tipo prova, proveniente da grecia. In data 10/04/2025 alle ore 08:41, è stata rilevata la violazione di parcheggio in zona rimozione in via Giuseppe Mazzini, al numero 24, in base all'articolo 6, comma 1a(1-12) del codice civile. Per tale infrazione sono previsti 5 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua francese, non stampare anche la comunicazione. "
+}

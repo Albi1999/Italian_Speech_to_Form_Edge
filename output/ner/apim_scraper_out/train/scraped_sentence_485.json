@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo ciclomotore targato ICSI Ypsilon 320 1 SA, di tipo ufficiale, proveniente dal Portogallo, marca Lancia Delta. La violazione riguarda il parcheggio in zona a rimozione, verificatasi l'8 aprile 2025 alle ore 7 in Piazza Venezia, numero 1. L'infrazione rientra nell'articolo 16, comma 14 del codice civile. La contestazione è stata immediata da parte dell'agente Alessandro Moretti e prevede la perdita di 10 punti. Si richiede la stampa in lingua spagnola tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "sette",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "portogallo",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "lancia delta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sedici",
+                    "comma": "quattordici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo ciclomotori targato icsi ypsilon trecentoventi uno sa di tipo ufficiale proveniente da portogallo marca lancia delta la violazione ovvero parcheggio in zona a rimozione sia e verificata in data otto aprile duemilaventicinque alle ore sette in piazza venezia al numero uno l'infrazione rientra nell'articolo sedici comma quattordici del codice civile contestazione immediata da parte della gente alessandro moretti la sanzione prevede la perdita di dieci punti si richiede la stampa in lingua spagnolo tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo ciclomotore targato XY321ZA di tipo ufficiale proveniente da portogallo, marca Lancia Delta. La violazione, ovvero parcheggio in zona rimozione, si è verificata in data 08/04/2025 alle ore 07:00 in piazza Venezia, al numero 1. L'infrazione rientra nell'articolo 16, comma 14 del codice civile. Contestazione immediata da parte dell'agente Alessandro Moretti. La sanzione prevede la perdita di 10 punti. Si richiede la stampa in lingua spagnolo, tramite bluetooth, non stampare anche la comunicazione."
+}

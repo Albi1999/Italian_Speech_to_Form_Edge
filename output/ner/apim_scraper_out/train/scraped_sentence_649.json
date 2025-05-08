@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un rimorchio marca Onda Jesse con targa kazaka, immatricolato in Olanda. La violazione è avvenuta il 2 maggio 2025 alle ore 11:51 in viale della Libertà, civico 22, per transito in zona accesso vietato, violando l'articolo 41 comma 39 del codice stradale. La violazione comporta la perdita di quattro punti. La stampa del verbale è in modalità Hawaii fai e in lingua italiana, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "undici e cinquantuno",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "kazaka",
+                    "targa": "quattrocentocinquanta sei cupi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "onda jesse",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantuno",
+                    "comma": "trentanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per rimorchio marca onda jesse targa kazaka quattrocentocinquanta sei cupi di tipo prova immatricolati in olanda in data due maggio duemilaventicinque alle ore undici e cinquantuno in viale della libertà al civico ventidue e stata commessa la seguente violazione transito in zona accesso vietato articolo quarantuno comma trentanove del codice stradale dalla violazione con segue la perdita di quattro punti stampa in modalità hawaii fai è in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per rimorchio, marca Honda Jazz, targa ZA456QP di tipo prova, immatricolato in olanda. In data 02/05/2025 alle ore 11:51, in viale della Libertà, al civico 22, è stata commessa la seguente violazione: transito in zona accesso vietato (articolo 41, comma 39 del codice stradale). Dalla violazione consegue la perdita di 4 punti. Stampa in modalità wifi e in lingua italiano, stampa anche la comunicazione. "
+}

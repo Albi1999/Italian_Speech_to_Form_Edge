@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo BMW con rimorchio, targato speciale e registrato in Austria. La violazione è avvenuta il 26 aprile 2025 alle 3:05 in viale dei Giardini, civico 8, per parcheggio su strisce pedonali. La violazione è in base all'articolo 7, comma 5 del codice civile e comporta una decurtazione di 2 punti. La stampa dell'avviso è richiesta via WiFi, in francese, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "tre e cinque",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "quattrocentocinquanta sei oh",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "bmw effe novecento i ferri",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo bmw effe novecento i ferri rimorchio targato quattrocentocinquanta sei oh qui con targa speciale registrato in austria per un fatto accaduto il ventisei aprile duemilaventicinque alle tre e cinque il veicolo si trovava in viale dei giardini al civic otto dove è stato riscontrato parcheggio su strisce pedonali in base a l'articolo sette comma cinque del codice civile questa infrazioni comporta una decurtazione di due punti genere alla stampa dell'avviso vi hawaii fai in francese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo BMW F 900 XR, rimorchio, targato MN456OP con targa speciale, registrato in austria, per un fatto accaduto il 26/04/2025 alle 03:05. Il veicolo si trovava in viale dei Giardini, al civico 8, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 7, comma 5, del codice civile. Questa infrazione comporta una decurtazione di 2 punti. Genera la stampa dell'avviso via wifi in francese, stampa anche la comunicazione. "
+}

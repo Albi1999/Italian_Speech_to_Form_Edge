@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo BMW con targa slovena, per un'infrazione commessa il 16 aprile 2025 alle ore 7:35 in via Garibaldi, civico 11. La violazione riguarda il parcheggio davanti a un passo carraio, ai sensi dell'articolo 51, comma 49 del codice stradale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di quattro punti. È richiesta la stampa in portoghese via Hawaii, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "sette trentacinque",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "slovenia",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "bmw jeff novecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantuno",
+                    "comma": "quarantanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo bmw jeff novecento macchina operatrice targa i sette centottantanove chi lo litri di tipo prova immatricolati slovenia per infrazione commessa in data sedici aprile duemilaventicinque ore sette trentacinque in via garibaldi civico undici è stato rilevato parcheggio davanti a passo carabine ai sensi dell'articolo cinquantuno comma quarantanove del codice stradale impossibile effettuare la contestazione immediata vista l'assenza del trasgressori la violazione comporta la decurtazione di quattro punti richiesta stampa in portoghese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo BMW F 900 R macchina operatrice, targa IJ789KL di tipo prova, immatricolato in slovenia, per infrazione commessa in data 16/04/2025, ore 07:35. In via Garibaldi, civico 11, è stato rilevato parcheggio davanti a passo carrabile, ai sensi dell'articolo 51, comma 49, del codice stradale.Impossibile effettuare la contestazione immediata vista l'assenza del trasgressore. La violazione comporta la decurtazione di 4 punti. Richiesta stampa in portoghese via wifi, non stampare anche la comunicazione."
+}

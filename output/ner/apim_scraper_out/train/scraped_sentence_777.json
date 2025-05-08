@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il dieci aprile duemilaventicinque alle ore ventitré ventuno per una violazione riscontrata su un veicolo ciclomotore marca Volkswagen Polo, targato guerre sei centocinquantaquattro, proveniente dalla Germania. La violazione è avvenuta in via della Libertà, civico tre, per parcheggio davanti a passo carabine, violando l'articolo ventiquattro comma ventidue del codice penale. L'agente Sara Bellini ha proceduto con contestazione immediata e si prevede la decurtazione di otto punti dalla patente. La stampa è richiesta in italiano via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbali",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "ventitré ventuno",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "germania",
+                    "targa": "guerre sei centocinquantaquattro",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "volkswagen polo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventiquattro",
+                    "comma": "ventidue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbali redatto in data dieci aprile duemilaventicinque alle ore ventitré ventuno per la violazione riscontrata al veicolo ciclomotori marca volkswagen polo targato guerre sei centocinquantaquattro e se ti tipo speciale proveniente da germania in particolare in via della libertà civico tre è stato accertato parcheggio davanti a passo carabine in violazione dell'articolo ventiquattro coma ventidue del codice penale l'agente sara bellini a proceduto con contestazione immediata si prevede la decurtazione di otto punti dalla patente richiedo la stampa in italiano via blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 10/04/2025 alle ore 23:21 per la violazione riscontrata al veicolo ciclomotore, marca Volkswagen Polo, targato QR654ST (tipo speciale) proveniente da germania. In particolare, in via della Libertà, civico 3, è stato accertato parcheggio davanti a passo carrabile, in violazione dell'articolo 24, comma 22 del codice penale. L'agente Sara Bellini ha proceduto con contestazione immediata. Si prevede la decurtazione di 8 punti dalla patente. Richiedo la stampa in italiano via bluetooth, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo rimorchio marca Amai Ypsilon Setta Ferre Sette, targa Guerre 450 6 ST, immatricolato in Grecia. La violazione è avvenuta il 17 aprile 2025 alle ore 13:37 in Viale della Libertà, civico 22, per parcheggio su strisce pedonali, in base all'articolo 17 comma 15 del codice penale. Sono previsti sei punti di decurtazione. Si richiede la stampa del preavviso in lingua olandese tramite Bluetooth, stampando anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "tredici e trentasette",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "guerre quattrocentocinquanta sei se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "amai ypsilon setta ferre sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: di",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo rimorchio marca amai ypsilon setta ferre sette targa guerre quattrocentocinquanta sei se ti di tipo copertura immatricolati in grecia la violazione è avvenuta il diciassette aprile duemilaventicinque alle ore tredici e trentasette inviarle della libertà al numero civico ventidue ed è relativa a parcheggio su strisce pedonali in base all'articolo diciassette comma quindici del codice penale per tale violazione sono previsti sei punti di decurtazione si richiede la stampa di tale preavviso in lingua olandese tramite blood stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo rimorchio, marca Yamaha YZF-R7, targa QR456ST di tipo copertura, immatricolato in grecia. La violazione è avvenuta il 17/04/2025 alle ore 13:37 in viale della Libertà, al numero civico 22, ed è relativa a parcheggio su strisce pedonali, in base all'articolo 17, comma 15 del codice penale.Per tale violazione sono previsti 6 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua olandese tramite bluetooth, stampa anche la comunicazione."
+}

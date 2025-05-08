@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un'infrazione stradale. Il veicolo coinvolto è un Honda Civic con rimorchio, immatricolato in Grecia, con targa \"abby sette centottantanove ci di di tipo copertura\". L'infrazione è avvenuta il 13 aprile 2025 alle 7:31 in via della Repubblica 20 e via dei Fori Imperiali al numero 10, dove il veicolo era parcheggiato in zona a rimozione. L'articolo violato è il 36, comma 34 del codice stradale, e verranno tolti 5 punti dalla patente. Il verbale sarà stampato via Hawaii in spagnolo, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "sette trentuno",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "abby sette centottantanove ci di di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "honda civic",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentasei",
+                    "comma": "trentaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo honda civic seicentocinquanta jerry rimorchio con targa abby sette centottantanove ci di di tipo copertura immatricolati in grecia per un'infrazione commessa il tredici aprile duemilaventicinque alle sette trentuno l'infrazione e avvenuta in via della repubblica venti via dei fori imperiali al numero dieci dove il veicolo era in parcheggio in zona a rimozione l'articolo violato è il trentasei comma trentaquattro del codice stradale verranno tolti cinque punti dalla patente stampa questo verbale via hawaii fa in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Honda CB650R, rimorchio con targa AB789CD di tipo copertura, immatricolato in grecia, per un'infrazione commessa il 13/04/2025 alle 07:31. L'infrazione è avvenuta in via della Repubblica, 20via dei Fori Imperiali, al numero 10, dove il veicolo era in parcheggio in zona rimozione. L'articolo violato è il 36, comma 34 del codice stradale. Verranno tolti 5 punti dalla patente. Stampa questo verbale via wifi in spagnolo, non stampare anche la comunicazione. "
+}

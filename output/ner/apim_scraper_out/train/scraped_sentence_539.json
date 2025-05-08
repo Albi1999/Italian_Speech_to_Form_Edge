@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo Fiat Tipo, immatricolato in Spagna, che ha commesso un'infrazione il 3 maggio 2025 alle ore 22:21 in via della stazione, civico 4. La violazione riguarda il parcheggio in zona a rimozione secondo l'articolo 4, comma 2 del codice stradale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di otto punti. È richiesta la stampa in portoghese via Hawaii, con la comunicazione inclusa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "ventidue ventuno",
+            "Strada_1": "via della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "sette centottantanove giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "fiat tipo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "via hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo fiat tipo macchina agricola targa è sette centottantanove giacca di tipo copertura immatricolati in spagna per infrazione commessa in data tre maggio duemilaventicinque ore ventidue ventuno inviare della stazione civico quattro è stato rilevato parcheggio in zona a rimozione ai sensi dell'articolo quattro comma due del codice stradale impossibile effettuare la contestazione immediata assenza del trasgressori la violazione comporta la decurtazione di otto punti richiesta stampa in portoghese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Fiat Tipo macchina agricola, targa EF789GH di tipo copertura, immatricolato in spagna, per infrazione commessa in data 03/05/2025, ore 22:21. In viale della Stazione, civico 4, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 4, comma 2, del codice stradale. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 8 punti. Richiesta stampa in portoghese via wifi, stampa anche la comunicazione. "
+}

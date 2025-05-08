@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento informa che è in corso la stesura di un preavviso di violazione per un veicolo autovettura con targa \"ovo trecentoventi uno doppia wings\", di tipo copertura, marca \"si l'eurozona\", proveniente dal Portogallo. L'infrazione riguarda il parcheggio su strisce pedonali, avvenuta il 30 aprile 2025 alle ore 2:53 in viale dei giardini, numero civico 8. La violazione è in riferimento all'articolo 157, comma 5 del codice stradale, e comporterà una decurtazione di nove punti. Si richiede la stampa in lingua tedesca, modalità Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "due cinquantatré",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "portogallo",
+                    "targa": "ovo trecentoventi uno doppia wings",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "si l'eurozona",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa ovo trecentoventi uno doppia wings di tipo copertura marca si l'eurozona proveniente da portogallo l'infrazione nello specifico parcheggio su strisce pedonali si e verificata in data trenta aprile duemilaventicinque alle ore due cinquantatré in viale dei giardini al numero otto articolo centocinquantasette comma cinque del codice stradale si comunica che dal violazione conseguirà una decurtazione di nove punti si richiede la stampa in lingua tedesco modalità blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa UV321WX di tipo copertura, marca Seat Arona, proveniente da portogallo. L'infrazione, nello specifico parcheggio su strisce pedonali, si è verificata in data 30/04/2025 alle ore 02:53 in viale dei Giardini, al numero 8 (articolo 157, comma 5 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 9 punti. Si richiede la stampa in lingua tedesco, modalità bluetooth, non stampare anche la comunicazione. "
+}

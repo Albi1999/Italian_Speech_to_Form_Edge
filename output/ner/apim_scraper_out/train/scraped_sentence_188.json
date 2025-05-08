@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo ciclomotore di marca 'Un da Icona', targato 'ABE 320 1 C', di tipo ufficiale e proveniente dalla Spagna. La violazione è stata rilevata il 12 aprile 2025 alle ore 18:01, per parcheggio in doppia fila in via della Repubblica 20 e via dei Fori Imperiali al numero 10. La violazione è in base all'articolo 158 comma 2 del codice penale, con una decurtazione di tre punti. Si richiede la stampa del preavviso tramite Bluetooth in lingua portoghese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "diciotto è un minuto",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "spagna",
+                    "targa": "abe trecentoventi uno c",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "un da icona",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo ciclomotori marca un da icona targato abe trecentoventi uno c di tipo ufficiale proveniente da spagna in data dodici aprile duemilaventicinque alle ore diciotto è un minuto e stata rilevata la violazione di parcheggia in doppia fila in via della repubblica venti via dei fori imperiali al numero dieci in base a l'articolo centocinquantotto comma due del codice penale per tale infrazione sono previsti tre punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua portoghese non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo ciclomotore, marca Hyundai Kona, targato AB321CD di tipo ufficiale, proveniente da spagna. In data 12/04/2025 alle ore 18:01, è stata rilevata la violazione di parcheggio in doppia fila in via della Repubblica, 20via dei Fori Imperiali, al numero 10, in base all'articolo 158, comma 2 del codice penale.Per tale infrazione sono previsti 3 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua portoghese, non stampare anche la comunicazione."
+}

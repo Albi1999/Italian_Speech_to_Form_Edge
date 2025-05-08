@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto l'otto aprile 2025 alle ore 13:43 per un veicolo Alfa Romeo Giulietta immatricolato in Portogallo con targa \"cappelle trecentoventi uno megan aiuto\". La violazione è avvenuta in via Garibaldi al civico 11, riguardante il codice penale, articolo 5, comma 3, per parcheggio in divieto di sosta. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti uno punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è richiesta in spagnolo tramite Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "tredici e quarantatré",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "portogallo",
+                    "targa": "cappelle trecentoventi uno megan aiuto",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "alfa romeo e giulietta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: previsti, after: da",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno otto aprile duemilaventicinque alle ore tredici e quarantatré è stato redatto un verbale per il veicolo alfa romeo e giulietta molto veicolo immatricolati in portogallo con targa cappelle trecentoventi uno megan aiuto di tipo copertura l'inflazione è avvenuta in via garibaldi al civico undici stata riscontrata una violazione del codice penale articolo cinque con ma tre ovvero parcheggiato in divieto di sosta non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti uno punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in spagnolo tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 08/04/2025, alle ore 13:43, è stato redatto un verbale per il veicolo Alfa Romeo Giulietta, motoveicolo immatricolato in portogallo con targa KL321MN di tipo copertura.L'infrazione è avvenuta in via Garibaldi, al civico 11. È stata riscontrata una violazione del codice penale, articolo 5, comma 3 ovvero parcheggio in divieto di sostaNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 1 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in spagnolo tramite bluetooth, non stampare anche la comunicazione."
+}

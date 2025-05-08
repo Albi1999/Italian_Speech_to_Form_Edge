@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 26 aprile 2025 alle ore 5:08 in viale della stazione, civico 4. La violazione riguarda un veicolo agricolo con targa belga, che ha transitato in una zona a accesso vietato secondo l'articolo 40, comma 38 del codice penale. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti nove punti di decurtazione. Si richiede la stampa in lingua tedesca via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "cinque otto",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "guerra e novecentottanta",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: previsti, after: di",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbale per violazione accertata il ventisei aprile duemilaventicinque alle ore cinque otto in viale della stazione al civico quattro a carico del vicolo cieco le tracce macchina agricola con targa guerra e novecentottanta se stesse ti di tipo prova immatricolati in belgio la violazione contestata e transito in zona accesso vietato in base all'articolo quaranta coma trentotto del codice penale non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti nove punti di decurtazione si richiede la stampa in lingua tedesco via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 26/04/2025 alle ore 05:08 in viale della Stazione, al civico 4, a carico del veicolo Chevrolet Trax, macchina agricola con targa QR987ST di tipo prova, immatricolato in belgio. La violazione contestata è transito in zona accesso vietato, in base all'articolo 40, comma 38 del codice penale. Non è stato possibile contestare immediatamente, per assenza del trasgressore. Sono previsti 9 punti di decurtazione. Si richiede la stampa in lingua tedesco via wifi, non stampare anche la comunicazione. "
+}

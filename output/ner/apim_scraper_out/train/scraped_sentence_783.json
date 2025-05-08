@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso l'otto aprile 2025 alle ore 19:26 per un veicolo rimorchio Mercedes Classe A con targa ufficiale registrata in Austria. L'infrazione è avvenuta in via della Speranza, numero 18, per parcheggio in doppia fila, violando l'articolo 19, comma 17 del codice civile. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti due punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua inglese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "diciannove ventisei",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "guerre centoventitre se",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "diciannove",
+                    "comma": "diciassette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: di",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data otto aprile duemilaventicinque alle ore diciannove ventisei è stato emesso un preavviso di violazione per il veicolo rimorchio di marca mercedes classe a con targa guerre centoventitre se ti tipo ufficiale registrato in austria l'infrazione avvenuta in via della speranza al numero diciotto e consiste in parcheggio in doppia fila come previsto dall'articolo diciannove comma diciassette del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti due punti di decurtazione si prega di stampare la presente notifica tramite blu tutte in lingua inglese stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 08/04/2025, alle ore 19:26, è stato emesso un preavviso di violazione per il veicolo rimorchio di marca Mercedes Classe A, con targa QR123ST (tipo ufficiale), registrato in austria. L'infrazione è avvenuta in via della Speranza, al numero 18, e consiste in parcheggio in doppia fila, come previsto dall'articolo 19, comma 17 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 2 punti di decurtazione. Si prega di stampare la presente notifica tramite bluetooth, in lingua inglese, stampa anche la comunicazione. "
+}

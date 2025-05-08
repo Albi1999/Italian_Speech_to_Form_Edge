@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo Subaru, immatricolato in Croazia, con targa ufficiale. L'infrazione è avvenuta il primo maggio 2025 alle 4:58 in via della Storia, numero civico 6. Il veicolo era parcheggiato davanti a passo Carabine. L'articolo violato è il lotto comma 6 del codice civile, con la conseguente decurtazione di due punti dalla patente. Il verbale deve essere stampato via Howard in lingua spagnola e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "quattro e cinquantotto",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "centoventitre cappelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "lotto",
+                    "comma": "sei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "howard",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicative"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo subaru quindicesimo macchina operatrice con targa è centoventitre cappelli di tipo ufficiale immatricolati in croazia per un'infrazione commessa il primo maggio duemilaventicinque alle quattro e cinquantotto l'infrazione avvenuta in via della storia al numero sei dove il veicolo era in parcheggio davanti a passo carabine l'articolo violato hai lotto comma sei del codice civile verranno tolti due punti dalla patente stampa questo verbale via howard fai spagnolo stampa anche la comunicative",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Subaru XV, macchina operatrice con targa IJ123KL di tipo ufficiale, immatricolato in croazia, per un'infrazione commessa il 01/05/2025 alle 04:58. L'infrazione è avvenuta in via della Storia, al numero 6, dove il veicolo era in parcheggio davanti a passo carrabile. L'articolo violato è il 8, comma 6 del codice civile. Verranno tolti 2 punti dalla patente. Stampa questo verbale via wifi in spagnolo, stampa anche la comunicazione. "
+}

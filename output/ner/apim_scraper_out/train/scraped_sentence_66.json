@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo macchina agricola marca Mas da Chips, targato centoventitre ci di, proveniente dal Belgio. L'infrazione è stata rilevata il 14 aprile 2025 alle ore 4:44 in corso della storia, civico 22, per transito in zona accesso vietato, violando l'articolo 5 comma 3 del codice penale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di cinque punti. Si richiede la stampa del verbale in spagnolo tramite Bluetooth, stampando anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "quattro e quarantaquattro",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "centoventitre ci di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "mas da chips",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina agricola marca mas da chips tre targato centoventitre ci di di tipo copertura proveniente da belgio l'infrazione e stata rilevata il quattordici aprile duemilaventicinque alle ore quattro e quarantaquattro il veicolo si trovava in corso della storia al civico ventidue in transito in zona accesso vietato violando l'articolo cinque con tre del codice penale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazione comporta la perdita di cinque punti richiedo la stampa del verbale in spagnolo tramite blood stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina agricola, marca Mazda CX-3, targato AB123CD (di tipo copertura), proveniente da belgio.  L'infrazione è stata rilevata il 14/04/2025 alle ore 04:44. Il veicolo si trovava in corso della Storia, al civico 22, in transito in zona accesso vietato, violando l'articolo 5, comma 3, del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 5 punti.  Richiedo la stampa del verbale in spagnolo tramite bluetooth, stampa anche la comunicazione."
+}

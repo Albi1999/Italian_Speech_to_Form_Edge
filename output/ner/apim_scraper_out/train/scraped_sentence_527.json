@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un motoveicolo marca Giamai Ypsilon Sei Testi Sette, targa 789 occhi, tipo speciale, immatricolato in Austria. La violazione è avvenuta il 19 aprile 2025 alle 7:37 in Piazza Venezia, civico 1, per parcheggio in doppia fila, violando l'articolo 34, comma 32 del codice stradale. La violazione comporta la perdita di 8 punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua tedesca, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "sette i trentasette",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "austria",
+                    "targa": "settecento ottantanove occhi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "giamai ypsilon sei testi sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentaquattro",
+                    "comma": "trentadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazioni di un verbale per motoveicoli marca giamai ypsilon sei testi sette targa settecento ottantanove occhi di tipo speciale immatricolati in austria in data diciannove aprile duemilaventicinque alle ore e sette i trentasette in piazza venezia al civico uno e stata commessa la seguente violazione parcheggio in doppia fila articolo trentaquattro ma trentadue del codice stradale dalla violazione con segue la perdita di otto punti stampa in modalità blu tutte in lingua tedesco stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per motoveicolo, marca Yamaha YZF-R7, targa MN789OP di tipo speciale, immatricolato in austria. In data 19/04/2025 alle ore 07:37, in piazza Venezia, al civico 1, è stata commessa la seguente violazione: parcheggio in doppia fila (articolo 34, comma 32 del codice stradale). Dalla violazione consegue la perdita di 8 punti. Stampa in modalità bluetooth e in lingua tedesco, stampa anche la comunicazione. "
+}

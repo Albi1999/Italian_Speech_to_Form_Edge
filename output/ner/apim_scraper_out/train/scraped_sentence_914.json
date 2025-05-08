@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 21 aprile 2025 alle ore 17:09 in viale dei giardini, civico non specificato. La violazione riguarda un veicolo immatricolato in Spagna, una macchina operatrice con targa \"cappelle trecentoventi uno yemen\". La violazione contestata è il parcheggio in zona a rimozione, in base all'articolo 5, comma 3 del codice stradale. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti tre punti di decurtazione. Si richiede la stampa in lingua tedesca via WiFi e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "diciassette in nove",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "cotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "cappelle trecentoventi uno yemen",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: decurtazione",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbale per violazione accertata hai ventuno aprile duemilaventicinque alle ore diciassette in nove in viale dei giardini al ci di cotto a carico del veicolo chi ha pianto macchina operatrice con targa cappelle trecentoventi uno yemen di tipo copertura immatricolati in spagna la violazione contestata e parcheggio in zona a rimozione invase all'articolo cinque con tre del codice stradale non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti tra i punti di decurtazione si richiede la stampa in lingua tedesco via wifi stampa anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 21/04/2025 alle ore 17:09 in viale dei Giardini, al civico 8, a carico del veicolo Kia Picanto, macchina operatrice con targa KL321MN di tipo copertura, immatricolato in spagna. La violazione contestata è parcheggio in zona rimozione, in base all'articolo 5, comma 3 del codice stradale. Non è stato possibile contestare immediatamente, per assenza del trasgressore. Sono previsti 3 punti di decurtazione. Si richiede la stampa in lingua tedesco via wifi, stampa anche la comunicazione. "
+}

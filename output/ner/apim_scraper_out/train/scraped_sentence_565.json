@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a un motoveicolo con targa \"i miei centoventitre capelli\" di tipo ufficiale, proveniente dal Portogallo, marca \"capitò duecentotto\". La violazione riguarda il parcheggio in zona a rimozione, verificatasi il primo maggio 2025 alle ore 15:26 in corso Vittorio Emanuele, numero 15. L'infrazione è classificata sotto l'articolo 36, comma 34 del codice penale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di cinque punti. Si richiede la stampa in lingua italiana tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "quindici ventisei",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "portogallo",
+                    "targa": "i miei centoventitre capelli",
+                    "tipologia_targa": "ufficiali",
+                    "marca_modello": "capitò duecentotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentasei",
+                    "comma": "trentaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo motoveicoli targato i miei centoventitre capelli di tipo ufficiali provenienti da portogallo marca capitò duecentotto la violazione ovvero parcheggio in zona a rimozione sia verificata in data primo maggio duemilaventicinque alle ore quindici ventisei in corso vittorio emanuele al numero quindici l'infrazione rientra nell'articolo trentasei coma trentaquattro del codice penale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzioni prevede la perdita di cinque punti si richiede la stampa in lingua italiano tramite wifi stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo motoveicolo targato IJ123KL di tipo ufficiale proveniente da portogallo, marca Peugeot 208. La violazione, ovvero parcheggio in zona rimozione, si è verificata in data 01/05/2025 alle ore 15:26 in corso Vittorio Emanuele, al numero 15. L'infrazione rientra nell'articolo 36, comma 34 del codice penale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 5 punti. Si richiede la stampa in lingua italiano, tramite wifi, stampa anche la comunicazione. "
+}

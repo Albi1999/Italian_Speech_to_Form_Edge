@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è una Volkswagen Golf con targa tedesca, rilevata in violazione il 13 aprile 2025 alle 12:14 in via della Giustizia, civico 16. L'infrazione riguarda l'accesso vietato, violando l'articolo 35, comma 33 del codice penale. L'agente Carlo Bruni ha effettuato la contestazione immediata, comportando la perdita di 4 punti. Si richiede la stampa del verbale in italiano tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "dodici e quattordici",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "e ne sette centottantanove occhi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "volkswagen golf",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo autovettura marca volkswagen golf targato e ne sette centottantanove occhi di tipo copertura proveniente da germania l'infrazione stata rilevata il tredici aprile duemilaventicinque alle ore dodici e quattordici il veicolo si trovava in via della giustizia al civico sedici in transito in zona accesso vietato violando l'articolo trentacinque comma trentatré del codice penale l'agente carlo bruni a provveduto alla contestazione immediata dell'infrazione la violazione e comporta la perdita di quattro punti richiedo la stampa del verbale in italiano tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo autovettura, marca Volkswagen Golf, targato MN789OP (di tipo copertura), proveniente da germania. L'infrazione è stata rilevata il 13/04/2025 alle ore 12:14. Il veicolo si trovava in via della Giustizia, al civico 16, in transito in zona accesso vietato, violando l'articolo 35, comma 33, del codice penale. L'agente Carlo Bruni ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 4 punti. Richiedo la stampa del verbale in italiano tramite wifi, non stampare anche la comunicazione. "
+}

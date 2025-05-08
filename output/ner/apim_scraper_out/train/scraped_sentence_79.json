@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il sei aprile 2025 alle ore sei e ventitré in piazza Venezia, civico uno. La violazione riguarda un veicolo agricolo con targa tedesca, parcheggiato in zona a rimozione, in base all'articolo 17, comma 15 del codice civile. La contestazione è avvenuta immediatamente da parte dell'agente Carlo Bruni. Sono previsti nove punti di decurtazione. Si richiede la stampa in lingua portoghese via Bluetooth, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "sei e ventitré",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "guerre centoventitre se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mit subisci aids aids",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: previsti, after: di",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il sei aprile duemilaventicinque alle ore sei e ventitré in piazza venezia al civico uno a carico del veicolo mit subisci aids aids macchina agricola con targa guerre centoventitre se ti di tipo prova immatricolati in germania la violazione contestata e parcheggio in zona a rimozione in base all'articolo diciassette comma quindici del codice civile la contestazione e avvenuta immediatamente da parte della gente carlo bruni sono previsti nove punti di decurtazione si richiede la stampa in lingua portoghese via blu non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 06/04/2025 alle ore 06:23 in piazza Venezia, al civico 1, a carico del veicolo Mitsubishi ASX, macchina agricola con targa QR123ST di tipo prova, immatricolato in germania. La violazione contestata è parcheggio in zona rimozione, in base all'articolo 17, comma 15 del codice civile.La contestazione è avvenuta immediatamente da parte dell'agente Carlo Bruni. Sono previsti 9 punti di decurtazione. Si richiede la stampa in lingua portoghese via bluetooth, non stampare anche la comunicazione."
+}

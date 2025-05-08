@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto l'undici aprile 2025 alle ore 00:04 per un veicolo Ducati Multi Strada immatricolato in Grecia con targa di tipo prova. L'infrazione è avvenuta in via della Libertà, civico 21, per violazione del codice stradale, articolo 14, comma 12, riguardante il parcheggio davanti a un passo carrabile. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti sette punti da decurtare, senza sanzioni accessorie. La stampa è richiesta in francese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte e quattro minuti",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "ho vi sei centocinquantaquattro doppia ex",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "ducati multi strada",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattordici",
+                    "comma": "dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno undici aprile duemilaventicinque alle ore mezzanotte e quattro minuti è stato redatto un verbale per il veicolo ducati multi strada vi due macchina operatrice immatricolati in grecia con targa ho vi sei centocinquantaquattro doppia ex di tipo prova l'infrazione e avvenuta in via della libertà al civico ventuno stata riscontrata una violazione del codice stradale articolo quattordici con ma dodici ovvero parcheggio davanti a passo arrabbi le non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti sette punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in francese tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Il giorno 11/04/2025, alle ore 00:04, è stato redatto un verbale per il veicolo Ducati Multistrada V2, macchina operatrice immatricolato in grecia con targa UV654WX di tipo prova.L'infrazione è avvenuta in via della Libertà, al civico 21. È stata riscontrata una violazione del codice stradale, articolo 14, comma 12 ovvero parcheggio davanti a passo carrabileNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 7 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in francese tramite wifi, stampa anche la comunicazione."
+}

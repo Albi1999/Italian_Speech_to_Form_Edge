@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 15 aprile 2025 alle ore 11:36 per una violazione riscontrata su un veicolo rimorchio Nissan Mica targato 123 occhi, proveniente dalla Spagna. La violazione è avvenuta in corso della Repubblica, civico 19, per parcheggio in doppia fila, violando l'articolo 43 comma 41 del codice stradale. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di 7 punti dalla patente. La stampa è richiesta in tedesco via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "undici e trentasei",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "spagna",
+                    "targa": "centoventitre occhi",
+                    "tipologia_targa": "tipo copertura",
+                    "marca_modello": "nissan mica",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "about",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data quindici aprile duemilaventicinque alle ore undici e trentasei per la violazione riscontrata al veicolo rimorchio marca nissan mica targato centoventitre occhi tipo copertura proveniente da spagna in particolare in corso della repubblica civico diciannove è stato accertato parcheggia in doppia fila in violazione dell'articolo quarantatré comma quarantuno del codice stradale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di sette punti dalla patente richiedo la stampa in tedesco via about non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 15/04/2025 alle ore 11:36 per la violazione riscontrata al veicolo rimorchio, marca Nissan Micra, targato MN123OP (tipo copertura) proveniente da spagna. In particolare, in corso della Repubblica, civico 19, è stato accertato parcheggio in doppia fila, in violazione dell'articolo 43, comma 41 del codice stradale. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 7 punti dalla patente. Richiedo la stampa in tedesco via bluetooth, non stampare anche la comunicazione."
+}

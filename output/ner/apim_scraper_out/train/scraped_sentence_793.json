@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il sette aprile duemilaventicinque alle ore ventidue e trentatré per un'infrazione stradale. La violazione riguarda un parcheggio su strisce pedonali in viale dei giardini, civico otto. Il veicolo coinvolto è una macchina operatrice con targa speciale immatricolata in Belgio, di colore nero, modello Trae un Gara 850 Sport. Non è stato possibile contestare immediatamente l'infrazione a causa dell'assenza del trasgressore. Sono da decurtare due punti. La stampa del preavviso è richiesta tramite Bluetooth in francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "ventidue trentatré",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "belgio",
+                    "targa": "icsi ypsilon novecentottanta sette esentati",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "trae un gara ottocentocinquanta sport",
+                    "colore": "nero"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data sette aprile duemilaventicinque alle ore ventidue trentatré è stato notificato un preavviso per un macchina operatrice targato icsi ypsilon novecentottanta sette esentati con targa speciale immatricolati in belgio l'infrazione stata rilevata in viale dei giardini al civic otto con violazione del codice stradale articolo trentacinque comma trentatré in particolare si e riscontrato un parcheggio su strisce pedonali non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono due punti il veicolo è un trae un gara ottocentocinquanta sport di colore nero con numero di telaio cinque nove cinque due cinque e sette cinque quattro due massa mille settecentotrentotto chili necessita la stampa del preavviso tramite blu tutte in francese non stampare anche la comunicazione",
+    "original_sentence": "In data 07/04/2025, alle ore 22:33, è stato notificato un preavviso per un macchina operatrice targato XY987ZT con targa speciale, immatricolato in belgio. L'infrazione è stata rilevata in viale dei Giardini, al civico 8, con violazione del codice stradale, articolo 35, comma 33, in particolare si è riscontrato un parcheggio su strisce pedonali Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 2 punti. Il veicolo è un Triumph Tiger 850 Sport di colore nero, con numero di telaio 595257542 e massa 1738 kg. Necessito la stampa del preavviso tramite bluetooth, in francese, non stampare anche la comunicazione. "
+}

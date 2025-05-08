@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un preavviso di violazione per un veicolo rimorchio con targa speciale, marca Subaru, proveniente dall'Austria. L'infrazione riguarda il parcheggio in zona a rimozione, avvenuta il 27 aprile 2025 alle ore 5:26 in via Enea, numero 45. La violazione è in riferimento all'articolo 7, comma 5 del codice penale, e comporterà la decurtazione di tre punti. Si richiede la stampa in lingua olandese, modalità Bluetooth, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "cinque ventisei",
+            "Strada_1": "via enea",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "austria",
+                    "targa": "un trecentoventi uno doppio west",
+                    "tipologia_targa": null,
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazioni per il veicolo rimorchio con targa un trecentoventi uno doppio west di tipo speciale marca subaru in prezza proveniente da austria l'infrazione nello specifico parcheggio in zona a rimozione si e verificata in data ventisette aprile duemilaventicinque alle ore cinque ventisei invia enea al numero quarantacinque articolo sette ma cinque del codice penale si comunica che dalla violazioni conseguirà una decurtazioni di tre punti si richiede la stampa in lingua olandese modalità blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa UV321WX di tipo speciale, marca Subaru Impreza, proveniente da austria. L'infrazione, nello specifico parcheggio in zona rimozione, si è verificata in data 27/04/2025 alle ore 05:26 in via Etnea, al numero 45 (articolo 7, comma 5 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 3 punti. Si richiede la stampa in lingua olandese, modalità bluetooth, stampa anche la comunicazione. "
+}

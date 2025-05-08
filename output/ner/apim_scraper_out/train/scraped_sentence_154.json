@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione rilevata il 24 aprile 2025 alle ore 16:29. Il veicolo coinvolto è una macchina agricola marca Ben Elli Leoncino 500, targata 450 6 occhi, proveniente dalla Slovenia. L'infrazione è avvenuta in corso Buenos Aires, civico 98, violando l'articolo 34 comma 32 del codice civile. L'agente Silvia Neri ha effettuato la contestazione immediata, comportando la perdita di 9 punti. Si richiede la stampa del verbale in francese tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "sedici e ventinove",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "slovenia",
+                    "targa": "quattrocentocinquanta sei occhi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "ben elli leoncino cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentaquattro",
+                    "comma": "trentadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: perdita, after: punti",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina agricola marca ben elli leoncino cinquecento targato quattrocentocinquanta sei occhi di tipo copertura proveniente da slovenia l'infrazione e stata rilevata il ventiquattro aprile duemilaventicinque alle ore sedici e ventinove il veicolo si trovava in corso buenos aires al civico novantotto in parcheggio davanti a passo carabine violando l'articolo trentaquattro comma trentadue del codice civile l'agente silvia neri a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di nove punti richiedo la stampa del verbale in francese tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina agricola, marca Benelli Leoncino 500, targato MN456OP (di tipo copertura), proveniente da slovenia.  L'infrazione è stata rilevata il 24/04/2025 alle ore 16:29. Il veicolo si trovava in corso Buenos Aires, al civico 98, in parcheggio davanti a passo carrabile, violando l'articolo 34, comma 32, del codice civile. L'agente Silvia Neri ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 9 punti.  Richiedo la stampa del verbale in francese tramite bluetooth, non stampare anche la comunicazione."
+}

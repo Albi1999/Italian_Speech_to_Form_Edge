@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto alle 23:14 del 28 aprile 2025 per un'infrazione accertata in via della Speranza, civico 18. Il veicolo coinvolto è un'autovettura con targa ufficiale VI 987 XX immatricolata in Germania. La violazione riguarda il codice penale, articolo 17, comma 15, per transito in zona a accesso vietato, con sette punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. La stampa del verbale avviene tramite Wi-Fi in italiano, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "ventitré quattordici",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "vi novecentottanta sette doppia ex",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle ventitré quattordici del ventotto aprile duemilaventicinque storie di gendo un verbale per il veicolo autovettura targato vi novecentottanta sette doppia ex con targa ufficiale immatricolati in germania infrazione stata accertata in via della speranza al civico diciotto con violazione del codice penale articolo diciassette con ma quindici per transito in zona accesso vietato sono previsti sette punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite vuoi fai in italiano stampa anche la comunicazione",
+    "original_sentence": "Alle 23:14 del 28/04/2025, sto redigendo un verbale per il veicolo autovettura targato UV987WX con targa ufficiale, immatricolato in germaniaL'infrazione è stata accertata in via della Speranza, al civico 18, con violazione del codice penale, articolo 17,comma 15 per transito in zona accesso vietato Sono previsti 7 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in italiano, stampa anche la comunicazione."
+}

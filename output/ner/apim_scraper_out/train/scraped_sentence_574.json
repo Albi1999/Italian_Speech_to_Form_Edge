@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un preavviso di violazione per un veicolo proveniente dall'Austria. L'infrazione riguarda un parcheggio in divieto di sosta avvenuto il sei aprile 2025 alle ore sette in Corso della Giustizia, numero civico ventitré. La violazione è associata all'articolo quarantacinque, comma quarantatré del codice penale, e comporterà la decurtazione di otto punti. Si richiede la stampa in lingua portoghese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "sette",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "icsi ypsilon novecentottanta sette gettati ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "si tronchi quattro tus",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazioni, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazioni per il veicolo autovettura con targa icsi ypsilon novecentottanta sette gettati ti di tipo copertura marca si tronchi quattro tus proveniente da austria l'infrazione nello specifico parcheggio indietro di sosta si e verificata in data sei aprile duemilaventicinque alle ore sette in corso della giustizia al numero ventitré articolo quarantacinque con ma quarantatré del codice penale si comunica che dalla violazioni conseguirà una decurtazioni di otto punti si richiede la stampa in lingua portoghese modalità blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa XY987ZT di tipo copertura, marca Citroen C4 Cactus, proveniente da austria. L'infrazione, nello specifico parcheggio in divieto di sosta, si è verificata in data 06/04/2025 alle ore 07:00 in corso della Giustizia, al numero 23 (articolo 45, comma 43 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 8 punti. Si richiede la stampa in lingua portoghese, modalità bluetooth, non stampare anche la comunicazione. "
+}

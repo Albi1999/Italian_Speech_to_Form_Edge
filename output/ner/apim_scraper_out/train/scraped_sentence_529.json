@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il sette aprile duemilaventicinque alle ore cinque e cinquantanove per un motoveicolo con targa speciale immatricolato in Croazia. L'infrazione è stata rilevata in via della Speranza al civico diciotto, con violazione del codice penale articolo trentacinque, comma trentatré, per parcheggio in doppia fila. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare otto punti. Il veicolo è un Street di colore argento. La stampa del preavviso è richiesta tramite Bluetooth in spagnolo, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "cinque i cinquantanove",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "croazia",
+                    "targa": "tu sei centocinquantaquattro doppia v w x",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "street cioe po'",
+                    "colore": "argento"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtare, after: punti",
+            "tipo_stampa": "blu blackout",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data sette aprile duemilaventicinque alle ore cinque i cinquantanove è stato notificato un preavviso per un motoveicoli targa tu sei centocinquantaquattro doppia v w x con targa speciale immatricolati in croazia l'infrazione e stata rilevata in via della speranza al civico diciotto con violazione del codice penale articolo trentacinque con ma trentatré in particolare sia riscontrato un parcheggio in doppia fila non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono otto punti il veicolo è un street cioe po' di colore argento con numero di telaio uno quattro nove tre sette otto nove tre sei e massa duemilanovecento sessantatré chi li necessita la stampa del preavviso tramite blu blackout in spagnolo stampa anche la comunicazione",
+    "original_sentence": "In data 07/04/2025, alle ore 05:59, è stato notificato un preavviso per un motoveicolo targato UV654WX con targa speciale, immatricolato in croazia. L'infrazione è stata rilevata in via della Speranza, al civico 18, con violazione del codice penale, articolo 35, comma 33, in particolare si è riscontrato un parcheggio in doppia fila Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 8 punti. Il veicolo è un Triumph Street Triple di colore argento, con numero di telaio 149378936 e massa 2963 kg. Necessito la stampa del preavviso tramite bluetooth, in spagnolo, stampa anche la comunicazione. "
+}

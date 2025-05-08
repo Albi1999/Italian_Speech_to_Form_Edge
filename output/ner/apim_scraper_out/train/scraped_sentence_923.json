@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 24 aprile 2025 alle ore 3:30 per un veicolo Renault Clio immatricolato in Svizzera con targa ufficiale. L'infrazione è avvenuta presso Corso Italia, civico 30, violando il codice stradale, articolo 185, comma 2, riguardante il parcheggio davanti a passo carabine. Sono stati decurtati 3 punti e applicata una sanzione accessoria. Il veicolo è di colore marrone. La stampa deve essere effettuata tramite AIFA in portoghese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "tre trenta",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "svizzera",
+                    "targa": "ubu sette centottantanove doppio mix",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "reno clio",
+                    "colore": "marrone"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "tre, before: decurtare, after: punti",
+            "tipo_stampa": "aifa",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventiquattro aprile duemilaventicinque alle ore tre trenta sto mettendo una notifica di infrazione per il veicolo reno clio autovettura immatricolati in svizzera con targa ubu sette centottantanove doppio mix di tipo ufficiale l'infrazione sia verificata presso corso italia al civico trenta violando il codice stradale in particolare l'articolo centottantacinque comma due riguardante il parcheggio davanti a passo carabine devo decurtare tre punti applico una sanzione accessoria in base alle circostanze il autovettura e di colore marrone con numero di telaio otto zero zero zero zero otto e massa duemilaquattrocento ventiquattro chili stampa me lo con i lo aifa in portoghese stampa anche la comunicazione",
+    "original_sentence": "Il 24/04/2025, alle ore 03:30, sto emettendo una notifica di infrazione per il veicolo Renault Clio, autovettura immatricolato in svizzera con targa UV789WX di tipo ufficiale. L'infrazione si è verificata presso corso Italia, al civico 30, violando il codice stradale, in particolare l'articolo 185, comma 2 riguardante il parcheggio davanti a passo carrabile. Devo decurtare 3 punti. Applico una sanzione accessoria in base alle circostanze. Il autovettura è di colore marrone, con numero di telaio 803080308 e massa 2424 kg. Stampamelo con il wifi in portoghese, stampa anche la comunicazione. "
+}

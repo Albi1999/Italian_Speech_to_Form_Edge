@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Lancia Delta con rimorchio, targato ME NE 450 6 HOPE, registrato in Grecia. L'infrazione è avvenuta il 24 aprile 2025 alle 1:27 in via Giuseppe Mazzini, civico 24, per parcheggio su strisce pedonali. La violazione è in base all'articolo 53, comma 51 del codice penale e comporta una decurtazione di sette punti. La stampa dell'avviso è richiesta via Hawaii fai in spagnolo, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "un e ventisette",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": null,
+                    "nazione": "grecia",
+                    "targa": "me ne quattrocentocinquanta sei hope",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "lancia delta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emesso un avviso di violazione quindi si tratta di un preavviso per il veicolo lancia delta rimorchio targato me ne quattrocentocinquanta sei hope con targa copertura registrato in grecia per un fatto accaduto il ventiquattro aprile duemilaventicinque alle un e ventisette il veicolo si trovava in via giuseppe mazzini al civico ventiquattro dove è stato riscontrato parcheggio su strisce pedonali in base a l'articolo cinquantatré coma cinquantuno del codice penale questa infrazione comporta una decurtazione di sette punti genere alla stampa dell'avviso via hawaii fai in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Lancia Delta, rimorchio, targato MN456OP con targa copertura, registrato in grecia, per un fatto accaduto il 24/04/2025 alle 01:27. Il veicolo si trovava in via Giuseppe Mazzini, al civico 24, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 53, comma 51, del codice penale. Questa infrazione comporta una decurtazione di 7 punti. Genera la stampa dell'avviso via wifi in spagnolo, non stampare anche la comunicazione. "
+}

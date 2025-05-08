@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento informa che è in corso la stesura di un preavviso di violazione per un veicolo macchina operatrice con targa ufficiale proveniente dal Portogallo. L'infrazione riguarda il parcheggio in zona a rimozione, avvenuta l'undici aprile 2025 alle ore 22:25 in via Giuseppe Mazzini, numero 24. La violazione è relativa all'articolo 43, comma 41 del codice civile, e comporterà una decurtazione di cinque punti. Si richiede la stampa in lingua olandese con modalità Hawaii, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "ventidue e venticinque",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "centoventitre giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "cava sacchi in in già seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa è centoventitre giacca di tipo ufficiale marca cava sacchi in in già seicentocinquanta proveniente da portogallo l'infrazione nello specifico parcheggio in zona a rimozione si e verificata in data undici aprile duemilaventicinque alle ore ventidue e venticinque in via giuseppe mazzini al numero ventiquattro l'articolo quarantatré con ma quarantuno del codice civile si comunica che dalla violazione conseguirà una decurtazione di cinque punti si richiede la stampa in lingua olandese modalita hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa EF123GH di tipo ufficiale, marca Kawasaki Ninja 650, proveniente da portogallo. L'infrazione, nello specifico parcheggio in zona rimozione, si è verificata in data 11/04/2025 alle ore 22:25 in via Giuseppe Mazzini, al numero 24 (articolo 43, comma 41 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 5 punti. Si richiede la stampa in lingua olandese, modalità wifi, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo Suzuki con rimorchio, targa JEFF 654, proveniente dalla Francia. L'infrazione è avvenuta il 10 aprile 2025 alle 10:48 in via della Pace, civico 2, per transito in zona accesso vietato, violando l'articolo 9 comma 7 del codice civile. Sono previsti 1 punto di decurtazione. Si richiede la stampa del preavviso in olandese via Bluetooth, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "dieci e quarantotto",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "jeff sei centocinquantaquattro giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "suzuki chi vi tara",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo suzuki chi vi tara rimorchio targa è jeff sei centocinquantaquattro giacca di tipo prova proveniente da francia il giorno dieci aprile duemilaventicinque alle ore dieci e quarantotto in via della pace al numero civico due stata commessa l'infrazione di transito in zona accesso vietato come previsto dall'articolo nove comma sette del codice civile per questa violazione sono previsti uno punti di decurtazione chiedo stampa del preavviso in olandese via blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Suzuki Vitara rimorchio, targa EF654GH di tipo prova, proveniente da francia. Il giorno 10/04/2025, alle ore 10:48, in via della Pace, al numero civico 2, è stata commessa l'infrazione di transito in zona accesso vietato, come previsto dall'articolo 9, comma 7, del codice civile.Per questa violazione sono previsti 1 punti di decurtazione. Chiedo la stampa del preavviso in olandese via bluetooth, non stampare anche la comunicazione."
+}

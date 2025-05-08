@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo ciclomotore marca Subaru, targato VI 123 XX di tipo prova, proveniente dalla Spagna. La violazione è stata rilevata il 7 aprile 2025 alle ore 19:15, per parcheggio in doppia fila in Corso Italia al numero 30, in base all'articolo 9 comma 7 del codice civile. Sono previsti otto punti di decurtazione. Si richiede la stampa del preavviso tramite WiFi in lingua spagnola, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "diciannove quindici",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "spagna",
+                    "targa": "vi centoventitre doppia ex",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: di",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo ciclomotori marca subaru impresa targato vi centoventitre doppia ex di tipo prova proveniente da spagna in data a sette aprile duemilaventicinque alle ore diciannove quindici stata rilevata la violazione di parcheggia in doppia fila in corso italia al numero trenta in base all'articolo nove comma sette del codice civile per tale infrazione sono previsti otto punti di decurtazione si richiede la stampa del preavviso tramite wifi in lingua spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo ciclomotore, marca Subaru Impreza, targato UV123WX di tipo prova, proveniente da spagna. In data 07/04/2025 alle ore 19:15, è stata rilevata la violazione di parcheggio in doppia fila in corso Italia, al numero 30, in base all'articolo 9, comma 7 del codice civile.Per tale infrazione sono previsti 8 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua spagnolo, non stampare anche la comunicazione."
+}

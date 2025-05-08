@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il 17 aprile 2025 alle ore 16:27, con un verbale emesso per un veicolo Volkswagen Golf immatricolato in Spagna. La violazione riguarda l'articolo 39, comma 37 del codice penale per parcheggio davanti a passo carabine, rilevata in via della Libertà al civico 3. La contestazione è stata immediata, effettuata dall'agente Alessandro Moretti, con una decurtazione di 10 punti. La stampa del verbale è richiesta in lingua portoghese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "sedici ventisette",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "i sette centottantanove capelli",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "volkswagen golf",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: derivano, after: decurtazione",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data diciassette aprile duemilaventicinque alle ore sedici ventisette si leva verbale al veicolo volkswagen golf macchina operatrice con targa i sette centottantanove capelli di tipo speciale immatricolati in spagna per violazione dell'articolo trentanove comma trentasette del codice penale ovvero parcheggio davanti a passo carabine rilevata in via della libertà al civico tre la contestazione stata immediata effettuata dalla gente alessandro moretti dalla violazione derivano dieci punti di decurtazione stampa necessaria in lingua portoghese via blu tutte stampa anche la comunicazione",
+    "original_sentence": "In data 17/04/2025, alle ore 16:27, si eleva verbale al veicolo Volkswagen Golf, macchina operatrice con targa IJ789KL di tipo speciale, immatricolato in spagna, per violazione dell'articolo 39, comma 37 del codice penale, ovvero parcheggio davanti a passo carrabile, rilevata in via della Libertà, al civico 3. La contestazione è stata immediata, effettuata dall'agente Alessandro Moretti. Dalla violazione derivano 10 punti di decurtazione. Stampa necessaria in lingua portoghese via bluetooth, stampa anche la comunicazione. "
+}

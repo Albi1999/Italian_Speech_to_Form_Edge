@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione commessa il ventitré aprile duemilaventicinque alle ore due cinquantacinque in via della pace, civico due. L'infrazione riguarda un parcheggio in zona a rimozione ai sensi dell'articolo dodici comma dieci del codice penale. La contestazione immediata non è stata possibile a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di quattro punti. La stampa è richiesta in francese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "due cinquantacinque",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "austria",
+                    "targa": "trecentoventi uno",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazioni, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "stai mettendo un debole per i veicolo chiesto nick motoveicoli tega quelli trecentoventi uno e se ti di tipo speciale matricola tu in austria per infrazioni commessa in data ventitré aprile duemilaventicinque voi due cinquantacinque in via della pace ci dico due è stato rilevato parcheggio in zona a rimozione ai sensi dell'articolo dodici come dieci del codice penale impossibile effettuare la contestazione immediata assenza del trasgressori la violazioni comporta la decurtazioni di quattro punti richiesta stampa in francese di blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Kia Stonic motoveicolo, targa QR321ST di tipo speciale, immatricolato in austria, per infrazione commessa in data 23/04/2025, ore 02:55. In via della Pace, civico 2, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 12, comma 10, del codice penale. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 4 punti. Richiesta stampa in francese via bluetooth, non stampare anche la comunicazione. "
+}

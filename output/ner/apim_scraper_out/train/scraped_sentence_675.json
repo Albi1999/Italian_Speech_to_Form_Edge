@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo immatricolato in Germania con targa \"guerre trecentoventi una\" e di tipo ufficiale. L'infrazione è avvenuta in viale della Vittoria, civico nove, per transito in zona di accesso vietato. Si applica l'articolo venti, comma diciotto del codice civile, e verranno decurtati sette punti. Il verbale è stato contestato immediatamente dall'agente Alessandro Moretti. La stampa deve essere effettuata in tedesco tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "guerre trecentoventi una",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo tra i un street ripley autovettura immatricolati in germania con targa guerre trecentoventi una e se ti di tipo ufficiale l'infrazione e avvenuta in viale della vittoria civico nove transito in zona accesso vietato si applica l'articolo venti con ma diciotto del codice civile a seguito della violazione verranno decurtati sette punti il verbale è stato contestato immediatamente dalla gente alessandro moretti si prega di procedere con la stampa in tedesco tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Triumph Street Triple, autovettura immatricolato in germania con targa QR321ST di tipo ufficiale. L'infrazione è avvenuta in viale della Vittoria, civico 9: transito in zona accesso vietato. Si applica l'articolo 20, comma 18 del codice civile. A seguito della violazione verranno decurtati 7 punti. Il verbale è stato contestato immediatamente dall'agente Alessandro Moretti. Si prega di procedere con la stampa in tedesco tramite bluetooth, non stampare anche la comunicazione. "
+}

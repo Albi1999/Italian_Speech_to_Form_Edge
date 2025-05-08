@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo BMW con rimorchio, targa \"guerre quattrocentocinquanta sei e se ti\", proveniente dalla Grecia. L'infrazione è avvenuta il giorno otto aprile duemilaventicinque alle ore quattordici e ventotto in via della Pace, numero civico due, per parcheggio in divieto di sosta, violando l'articolo mille duecentoventotto comma sedici del codice civile. Sono previsti tre punti di decurtazione. Si richiede la stampa del preavviso in portoghese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "quattordici e ventotto",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "guerre quattrocentocinquanta sei e se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "bmw jeff novecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "mille duecentoventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: di",
+            "tipo_stampa": "about",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo bmw jeff novecento rimorchio targa guerre quattrocentocinquanta sei e se ti di tipo copertura proveniente da grecia il giorno otto aprile duemilaventicinque alle ore quattordici e ventotto in via della pace al numero civico due e stata commessa l'infrazione di parcheggio in divieto di sosta come previsto dall'articolo mille duecentoventotto comma sedici del codice civile per questa violazione sono previsti tre punti di decurtazione chiedo la stampa del preavviso in portoghese di about non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo BMW F 900 R rimorchio, targa QR456ST di tipo copertura, proveniente da grecia. Il giorno 08/04/2025, alle ore 14:28, in via della Pace, al numero civico 2, è stata commessa l'infrazione di parcheggio in divieto di sosta, come previsto dall'articolo 1228, comma 16, del codice civile. Per questa violazione sono previsti 3 punti di decurtazione. Chiedo la stampa del preavviso in portoghese via bluetooth, non stampare anche la comunicazione. "
+}

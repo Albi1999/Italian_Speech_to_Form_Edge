@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo di tipo ufficiale, marca \"mi subisci aids\", con targa kazaka, proveniente dalla Slovenia. L'infrazione è avvenuta il 21 aprile 2025 alle ore 11:25 in viale della Vittoria, numero civico 9, per parcheggio in divieto di sosta, violando l'articolo 23 comma 21 del codice civile. La decurtazione prevista è di sei punti. La contestazione è immediata, eseguita dall'agente Anna Bianchi. La stampa del verbale è richiesta tramite Wi-Fi in lingua olandese, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "undici e venticinque",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "slovenia",
+                    "targa": "kazaka quattrocentocinquanta sei cupi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mi subisci aids",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventitre",
+                    "comma": "ventuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: prevista, after: punti",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo molto veicolo di marca mi subisci aids con targa kazaka quattrocentocinquanta sei cupi tipo ufficiale proveniente da slovenia fatto avvenuto il ventuno aprile duemilaventicinque alle ore undici e venticinque posizione viale della vittoria numero civico nove infrazione parcheggio in divieto di sosta in violazione dell'articolo ventitre comma ventuno del codice civile decurtazione prevista sei punti si applica contestazione immediata da parte della gente anna bianchi stampa necessaria tramite vuoi fa in olandese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo motoveicolo di marca Mitsubishi ASX, con targa ZA456QP (tipo ufficiale), proveniente da slovenia.  Fatto avvenuto il 21/04/2025 alle ore 11:25. Posizione: viale della Vittoria, numero civico 9. Infrazione: parcheggio in divieto di sosta, in violazione dell'articolo 23, comma 21, del codice civile. Decurtazione prevista: 6 punti. Si applica contestazione immediata da parte dell'agente Anna Bianchi. Stampa necessaria tramite wifi in olandese, stampa anche la comunicazione."
+}

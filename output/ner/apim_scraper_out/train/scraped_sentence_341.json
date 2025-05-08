@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il nove aprile duemilaventicinque alle ore mezzogiorno e diciannove per un ciclo motore con targa speciale immatricolato in Belgio. L'infrazione è stata rilevata in corso della libertà al civico sette, violando il codice stradale articolo quarantuno comma trentanove, per transito in zona accesso vietato. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare dieci punti. Il veicolo è un tram street tripla di colore bianco. La stampa del preavviso è richiesta tramite WiFi in inglese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "mezzogiorno e diciannove",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclo motore",
+                    "nazione": "belgio",
+                    "targa": "guerre trecentottantuno e se ti con",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "tram street tripla",
+                    "colore": "bianco"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantuno",
+                    "comma": "trentanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: decurtare, after: punti",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data nove aprile duemilaventicinque alle ore è mezzogiorno e diciannove è stato notificato un preavviso per un ciclo motore targato guerre trecentottantuno e se ti con targa speciale immatricolati in belgio l'infrazione stata rilevata in corso della libertà al civico sette con violazione del codice stradale articolo quarantuno comma trentanove in particolare si e riscontrato un transito in zona accesso vietato non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono dieci punti il veicolo è un tram street tripla di colore bianco con numero di telaio trecentocinquantasei milioni e settecentotrenta duemilaquattrocento settantacinque massa mille otto chilogrammi necessita alla stampa del preavviso tramite guai fai in inglese non stampare anche la comunicazione",
+    "original_sentence": "In data 09/04/2025, alle ore 12:19, è stato notificato un preavviso per un ciclomotore targato QR321ST con targa speciale, immatricolato in belgio. L'infrazione è stata rilevata in corso della Libertà, al civico 7, con violazione del codice stradale, articolo 41, comma 39, in particolare si è riscontrato un transito in zona accesso vietato Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 10 punti. Il veicolo è un Triumph Street Triple di colore bianco, con numero di telaio 356732475 e massa 1008 kg.Necessito la stampa del preavviso tramite wifi, in inglese, non stampare anche la comunicazione."
+}

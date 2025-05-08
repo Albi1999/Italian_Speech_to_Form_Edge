@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione stradale avvenuta il 26 aprile 2025 alle ore 17:29. È stato elevato un verbale al veicolo Mercedes Classe A, macchina operatrice con targa portoghese, per violazione dell'articolo 121, comma 9 del codice stradale, per parcheggio davanti a passo carabine. La violazione è stata rilevata in via della Concordia al civico 13. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 10 punti. La stampa del verbale è richiesta in lingua italiana tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "diciassette ventinove",
+            "Strada_1": "inviarle della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "icsi ypsilon novecentottanta sette sa",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centoventi uno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: derivano, after: decurtazione",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventisei aprile duemilaventicinque alle ore diciassette ventinove si eleva verbale al veicolo mercedes classe a macchina operatrice con targa icsi ypsilon novecentottanta sette sa di tipo ufficiale immatricolati portogallo per violazione dell'articolo centoventi uno con ma nove del codice stradale ovvero parcheggio davanti a passo carabine rilevata inviarle della concordia al civico tredici non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano dieci punti di decurtazione stampa necessaria in lingua italiano via blu tu non stampare anche la comunicazione",
+    "original_sentence": "In data 26/04/2025, alle ore 17:29, si eleva verbale al veicolo Mercedes Classe A, macchina operatrice con targa XY987ZA di tipo ufficiale, immatricolato in portogallo, per violazione dell'articolo 121, comma 9 del codice stradale, ovvero parcheggio davanti a passo carrabile, rilevata in viale della Concordia, al civico 13.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 10 punti di decurtazione. Stampa necessaria in lingua italiano via bluetooth, non stampare anche la comunicazione."
+}

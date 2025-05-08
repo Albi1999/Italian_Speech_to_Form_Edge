@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale elevato il 20 aprile 2025 alle 23:08 per una violazione del codice stradale. Il veicolo coinvolto è un Fiat Cinquecento con targa olandese, parcheggiato davanti a un passo carabine in via della Vittoria, civico 9. La contestazione immediata non è stata possibile a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di otto punti. La stampa del verbale è richiesta in lingua tedesca tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "ventitré otto minuti",
+            "Strada_1": "via della Vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "olanda",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "fiat cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattordici",
+                    "comma": "dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: derivano, after: di",
+            "tipo_stampa": "about",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data venti aprile duemilaventicinque alle ore ventitré otto minuti si eleva verbale al veicolo fiat cinquecento ciclomotori con targa icsi ypsilon trecentoventi uno sa di tipo speciale immatricolati in olanda per violazione dell'articolo quattordici con ma dodici del codice stradale ovvero parcheggio davanti a passo carabine rilevata inviare della vittoria al civico nove non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano otto punti di decurtazione stampa necessaria in lingua tedesco via about non stampare anche la comunicazione",
+    "original_sentence": "In data 20/04/2025, alle ore 23:08, si eleva verbale al veicolo Fiat 500, ciclomotore con targa XY321ZA di tipo speciale, immatricolato in olanda, per violazione dell'articolo 14, comma 12 del codice stradale, ovvero parcheggio davanti a passo carrabile, rilevata in viale della Vittoria, al civico 9.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 8 punti di decurtazione. Stampa necessaria in lingua tedesco via bluetooth, non stampare anche la comunicazione."
+}

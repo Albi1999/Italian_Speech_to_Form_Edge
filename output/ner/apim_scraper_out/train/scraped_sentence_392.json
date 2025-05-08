@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il ventitré aprile duemilaventicinque alle ore diciotto e nove minuti per un veicolo macchina agricola di marca Traiano 850 Sport con targa kazaka, registrato in Olanda. L'infrazione è avvenuta in corso della Repubblica al numero 19, per parcheggio in doppia fila, violando l'articolo 31 del codice stradale. Non essendo stato possibile identificare il conducente, la notifica è inviata al proprietario del veicolo. Sono previsti dieci punti di decurtazione. Si richiede la stampa della notifica tramite Brutus in lingua tedesca, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "diciotto e nove minuti",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "kazaka",
+                    "targa": "quattrocentocinquanta sei cupi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "traiano ottocentocinquanta sport",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: di",
+            "tipo_stampa": "brutus",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventitré aprile duemilaventicinque alle ore diciotto e nove minuti è stato emesso un preavviso di violazione per il veicolo macchina agricola di marca traiano ottocentocinquanta sport con targa kazaka quattrocentocinquanta sei cupi tipo speciale registrato in olanda l'infrazione e avvenuta in corso della repubblica al numero diciannove e consiste in parcheggia in doppia fila come previsto dall'articolo trentuno duemilanovecento trentadue comma trenta del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti dieci punti di decurtazione si prega di stampare la presente notifica tramite brutus in lingua tedesco stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 23/04/2025, alle ore 18:09, è stato emesso un preavviso di violazione per il veicolo macchina agricola di marca Triumph Tiger 850 Sport, con targa ZA456QP (tipo speciale), registrato in olanda. L'infrazione è avvenuta in corso della Repubblica, al numero 19, e consiste in parcheggio in doppia fila, come previsto dall'articolo 31, 2932, comma 30 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 10 punti di decurtazione.  Si prega di stampare la presente notifica tramite bluetooth, in lingua tedesco, stampa anche la comunicazione."
+}

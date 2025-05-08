@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo ciclomotore marca Vasari, targato I789CL, di tipo speciale proveniente dalla Grecia. La violazione è stata rilevata il 28 aprile 2025 alle ore 9:14, per parcheggio davanti a passo carabine in via della Pace al numero 2, in base all'articolo 9 comma 7 del codice civile. Sono previsti dieci punti di decurtazione. Si richiede la stampa del preavviso tramite WiFi in lingua tedesca, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "nove quattordici",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "grecia",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "vasari",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo ciclomotori marca vasari in in già seicentocinquanta targato i sette centottantanove chi lo litri di tipo speciale proveniente da grecia in data ventotto aprile duemilaventicinque alle ore nove quattordici e stata rilevata la violazione di parcheggio davanti a passo carabine in via della pace al numero due in base all'articolo nove comma sette del codice civile per tale infrazione sono previsti dieci punti di decurtazione si richiede la stampa del preavviso tramite wifi in lingua tedesco non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo ciclomotore, marca Kawasaki Ninja 650, targato IJ789KL di tipo speciale, proveniente da grecia. In data 28/04/2025 alle ore 09:14, è stata rilevata la violazione di parcheggio davanti a passo carrabile in via della Pace, al numero 2, in base all'articolo 9, comma 7 del codice civile.Per tale infrazione sono previsti 10 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua tedesco, non stampare anche la comunicazione."
+}

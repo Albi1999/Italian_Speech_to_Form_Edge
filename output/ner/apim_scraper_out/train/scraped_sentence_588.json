@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo immatricolato in Portogallo con targa ufficiale. L'infrazione è avvenuta in Piazza Venezia, civico uno, per parcheggio in divieto di sosta. Si applica l'articolo 20, comma 18 del codice civile, con la decurtazione di otto punti. Il verbale è stato contestato immediatamente dall'agente Alessandro Moretti. La stampa deve essere effettuata in portoghese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "portogallo",
+                    "targa": "è effe quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo chi ha canto ciclomotori immatricolati in portogallo con targa è effe quattrocentocinquanta sei giacca di tipo ufficiale l'infrazione avvenuta in piazza venezia civico uno parcheggio in divieto di sosta si applica l'articolo venti come diciotto del codice civile a seguito della violazione verranno decurtati otto punti il verbale è stato contestato immediatamente dall'agente alessandro moretti si prega di procedere con la stampa in portoghese tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Kia Picanto, ciclomotore immatricolato in portogallo con targa EF456GH di tipo ufficiale. L'infrazione è avvenuta in piazza Venezia, civico 1: parcheggio in divieto di sosta. Si applica l'articolo 20, comma 18 del codice civile. A seguito della violazione verranno decurtati 8 punti. Il verbale è stato contestato immediatamente dall'agente Alessandro Moretti. Si prega di procedere con la stampa in portoghese tramite bluetooth, stampa anche la comunicazione. "
+}

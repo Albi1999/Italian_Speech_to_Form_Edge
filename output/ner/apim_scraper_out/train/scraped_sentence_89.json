@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il quindici aprile duemilaventicinque alle ore venti e ventuno per un rimorchio con targa speciale immatricolato in Olanda. L'infrazione è stata rilevata in via Giuseppe Mazzini, civico ventiquattro, per parcheggio in divieto di sosta. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare tre punti. Il veicolo coinvolto è un Fiat Panda blu. La stampa del preavviso è richiesta tramite Wi-Fi in olandese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "venti e ventuno",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "olanda",
+                    "targa": "jeff quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "fiat panda",
+                    "colore": "blu"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantuno",
+                    "comma": "quarantanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data quindici aprile duemilaventicinque alle ore venti e ventuno è stato notificato un preavviso per un rimorchio targato jeff quattrocentocinquanta sei giacca con targa speciale immatricolati in olanda l'infrazione e stata rilevata in via giuseppe mazzini al civico ventiquattro con violazione del codice civile articolo cinquantuno comma quarantanove in particolare si e riscontrato un parcheggio in divieto di sosta non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono tre punti il veicolo è un fiat panda di colore blu con numero di telaio cinquecentottanta cinque milioni e seicento cinquemila settecentoventicinque massa duemila e ventitré chilogrammi necessita la stampa del preavviso tramite vuoi fai in olandese stampa anche la comunicazione",
+    "original_sentence": "In data 15/04/2025, alle ore 20:21, è stato notificato un preavviso per un rimorchio targato EF456GH con targa speciale, immatricolato in olanda. L'infrazione è stata rilevata in via Giuseppe Mazzini, al civico 24, con violazione del codice civile, articolo 51, comma 49, in particolare si è riscontrato un parcheggio in divieto di sosta Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 3 punti. Il veicolo è un Fiat Panda di colore blu, con numero di telaio 585605725 e massa 2023 kg.Necessito la stampa del preavviso tramite wifi, in olandese, stampa anche la comunicazione."
+}

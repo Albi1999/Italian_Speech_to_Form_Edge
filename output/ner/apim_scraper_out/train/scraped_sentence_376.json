@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il 23 aprile 2025 alle ore 11:26. È stato elevato un verbale al veicolo \"bene li leoncino cinquecento\" con targa \"guerre quattrocentocinquanta sei se\", immatricolato in Italia, per violazione dell'articolo 40 comma 38 del codice civile, riguardante il parcheggio in zona a rimozione. La violazione è stata rilevata in corso Buenos Aires al civico 98. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di quattro punti. La stampa è richiesta in lingua francese via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "undici e ventisei",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "italia",
+                    "targa": "guerre quattrocentocinquanta sei se",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "bene li leoncino cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: derivano, after: decurtazione",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventitré aprile duemilaventicinque alle ore undici e ventisei si eleva verbale al veicolo bene li leoncino cinquecento molto veicolo con targa guerre quattrocentocinquanta sei se tipo prova immatricolati in italia per violazione dell'articolo quaranta comma trentotto del codice civile o vero parcheggio in zona a rimozione rilevata in corso buenos aires al civico novantotto non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano quattro punti di decurtazione stampa necessaria in lingua francese via blu tutte non stampare anche la comunicazione",
+    "original_sentence": "In data 23/04/2025, alle ore 11:26, si eleva verbale al veicolo Benelli Leoncino 500, motoveicolo con targa QR456ST di tipo prova, immatricolato in italia, per violazione dell'articolo 40, comma 38 del codice civile, ovvero parcheggio in zona rimozione, rilevata in corso Buenos Aires, al civico 98.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 4 punti di decurtazione. Stampa necessaria in lingua francese via bluetooth, non stampare anche la comunicazione."
+}

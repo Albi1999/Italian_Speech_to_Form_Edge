@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 29 aprile 2025 alle ore 17:48 per un ciclomotore immatricolato in Spagna con targa UBI 450 6 XX di tipo prova. L'infrazione è avvenuta presso viale della stazione al civico 4, violando il codice stradale, articolo 7, comma 15, riguardante il parcheggio su strisce pedonali. Sono stati decurtati 5 punti e applicata una sanzione accessoria. Il ciclomotore è di colore bianco. La stampa è richiesta tramite Wi-Fi in italiano, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "diciassette quarantotto",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotore",
+                    "nazione": "spagna",
+                    "targa": "ubi quattrocentocinquanta sei doppia ex",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": "bianco"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventinove aprile duemilaventicinque alle ore diciassette quarantotto sto mettendo una notifica di infrazione per il veicolo chi ha stoner ciclomotori immatricolati in spagna con targa ubi quattrocentocinquanta sei doppia ex di tipo prova l'infrazione si e verificata presso viale della stazione al civico quattro violando il codice stradale in particolare l'articolo sette con ma quindici riguardante il parcheggio su strisce pedonali devo decurtare cinque punti applico una sanzione accessoria in base alle circostanze il ciclo motore di colore bianco con numero di telaio due centoquarantotto milioni e novecentosessanta ottomila novantadue massa millequattrocento trentanove chilogrammi stampa melo con il vuoi fai in italiano non stampare anche la comunicazione",
+    "original_sentence": "Il 29/04/2025, alle ore 17:48, sto emettendo una notifica di infrazione per il veicolo Kia Stonic, ciclomotore immatricolato in spagna con targa UV456WX di tipo prova. L'infrazione si è verificata presso viale della Stazione, al civico 4, violando il codice stradale, in particolare l'articolo 7, comma 15 riguardante il parcheggio su strisce pedonali.Devo decurtare 5 punti. Applico una sanzione accessoria in base alle circostanze. Il ciclomotore è di colore bianco, con numero di telaio 248968092 e massa 1439 kg.Stampamelo con il wifi in italiano, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sei aprile 2025 alle ore cinque meno un quarto per un veicolo rimorchio immatricolato in Austria con targa BEH 123 CD di tipo ufficiale. L'infrazione è avvenuta in viale dei giardini, con violazione del codice penale articolo 17 comma 15. La contestazione è stata immediata, eseguita dall'agente Giulia Costa, con dieci punti da decurtare. La stampa è prevista in olandese tramite Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "cinque meno un quarto",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "null",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "beh centoventitre ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "null",
+                    "colore": "null"
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": "null",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": "null"
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno sei aprile duemilaventicinque alle ore cinque meno un quarto è stato redatto un verbale per il veicolo un dai venti rimorchio immatricolati austria con targa beh centoventitre ci di di tipo ufficiale l'infrazione e avvenuta in viale dei giardini al civico e stata riscontrata una violazione del codice penale articolo diciassette comma quindici ovvero parcheggio davanti a passo arrabbi le verbale è stato eseguito sul posto con contestazione immediata da parte della gente giulia costa sono previsti dieci punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in olandese tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 06/04/2025, alle ore 04:45, è stato redatto un verbale per il veicolo Hyundai i20, rimorchio immatricolato in austria con targa AB123CD di tipo ufficiale.L'infrazione è avvenuta in viale dei Giardini, al civico 8. È stata riscontrata una violazione del codice penale, articolo 17, comma 15 ovvero parcheggio davanti a passo carrabileIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Giulia Costa. Sono previsti 10 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in olandese tramite bluetooth, non stampare anche la comunicazione."
+}

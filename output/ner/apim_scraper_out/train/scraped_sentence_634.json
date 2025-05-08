@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale. La violazione riguarda un parcheggio su strisce pedonali avvenuto il 20 aprile 2025 alle ore 1:28 in via della Libertà, numero 21. Il veicolo coinvolto è una macchina operatrice con targa \"settecento ottantanove occhi\" di tipo speciale, proveniente dall'Italia. La violazione rientra nell'articolo 16, comma 14 del codice civile. La contestazione è stata immediata da parte dell'agente Luca Verdi e prevede la perdita di nove punti. La stampa del documento è richiesta in lingua spagnola tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "una ventotto",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciali",
+                    "nazione": "italia",
+                    "targa": "settecento ottantanove occhi",
+                    "tipologia_targa": null,
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sedici",
+                    "comma": "quattordici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrice targato settecento ottantanove occhi di tipo speciali provenienti da italia macaron all'infinito intercettori seicentocinquanta la violazione ovvero parcheggio su strisce pedonali sia verificata in data venti aprile duemilaventicinque alle ore una ventotto in via della libertà al numero ventuno l'infrazione rientra nell'articolo sedici comma quattordici del codice civile contestazione immediata da parte della gente luca verdi la sanzioni prevede la perdita di nove punti si richiede la stampa in lingua spagnolo tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato MN789OP di tipo speciale proveniente da italia, marca Royal Enfield Interceptor 650. La violazione, ovvero parcheggio su strisce pedonali, si è verificata in data 20/04/2025 alle ore 01:28 in via della Libertà, al numero 21. L'infrazione rientra nell'articolo 16, comma 14 del codice civile. Contestazione immediata da parte dell'agente Luca Verdi. La sanzione prevede la perdita di 9 punti. Si richiede la stampa in lingua spagnolo, tramite wifi, non stampare anche la comunicazione. "
+}

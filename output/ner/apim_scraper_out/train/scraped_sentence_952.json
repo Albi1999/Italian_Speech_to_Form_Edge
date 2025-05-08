@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il dodici aprile duemilaventicinque alle ore diciannove cinquantatré per una violazione riscontrata su un veicolo macchina operatrice marca Ascolta Camice, targato Guerre centoventitre, tipo prova, proveniente dalla Slovenia. La violazione riguarda il parcheggio in zona a rimozione in via della Libertà, civico ventuno, in violazione dell'articolo cinquanta comma quarantotto del codice civile. La contestazione non è stata immediata a causa dell'assenza del conducente. Sono previsti otto punti di decurtazione dalla patente. La stampa è richiesta in olandese via Hawaii, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbali",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "diciannove cinquantatré",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "slovenia",
+                    "targa": "guerre centoventitre",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "ascolta camice",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquanta",
+                    "comma": "quarantotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazioni, after: punti",
+            "tipo_stampa": "vi hawaii fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbali redatto in data dodici aprile duemilaventicinque alle ore diciannove cinquantatré per la violazione riscontrata al veicolo macchina operatrice marca ascolta camice targato guerre centoventitre se ti tipo prova proveniente da slovenia in particolare in via della libertà civico ventuno è stato accertato parcheggio in zona a rimozione in violazione dell'articolo cinquanta comma quarantotto del codice civile data l'assenza del conducente la contestazione non è stata immediata si prevede la decurtazioni di otto punti dalla patente richiedo la stampa in olandese vi hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 12/04/2025 alle ore 19:53 per la violazione riscontrata al veicolo macchina operatrice, marca Skoda Kamiq, targato QR123ST (tipo prova) proveniente da slovenia. In particolare, in via della Libertà, civico 21, è stato accertato parcheggio in zona rimozione, in violazione dell'articolo 50, comma 48 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 8 punti dalla patente. Richiedo la stampa in olandese via wifi, non stampare anche la comunicazione. "
+}

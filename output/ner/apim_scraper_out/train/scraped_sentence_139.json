@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale emesso il ventitré aprile duemilaventicinque alle diciassette e trentatré per un veicolo macchina agricola con targa speciale immatricolato in Germania. L'infrazione è stata accertata in via della Pace al civico due, con violazione del codice penale articolo ventuno, comma diciannove, per parcheggio in divieto di sosta. Sono previsti quattro punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. La stampa avviene tramite Bluetooth in italiano e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "diciassette trentatré",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "ci di quattrocentocinquanta sei jeff",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: previsti, after: da",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle diciassette trentatré del ventitré aprile duemilaventicinque storie di gendo un verbale per il veicolo macchina agricola targato ci di quattrocentocinquanta sei jeff con targa speciale immatricolati in germania infrazione stata accertata in via della pace al civico due con violazione del codice penale articolo ventuno con ma diciannove per parcheggio in divieto di sosta sono previsti quattro punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite blu in italiano stampa anche la comunicazione",
+    "original_sentence": "Alle 17:33 del 23/04/2025, sto redigendo un verbale per il veicolo macchina agricola targato CD456EF con targa speciale, immatricolato in germaniaL'infrazione è stata accertata in via della Pace, al civico 2, con violazione del codice penale, articolo 21,comma 19 per parcheggio in divieto di sosta Sono previsti 4 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in italiano, stampa anche la comunicazione."
+}

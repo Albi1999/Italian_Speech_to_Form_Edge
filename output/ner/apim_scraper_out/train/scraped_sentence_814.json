@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 30 aprile 2025 alle ore 20:11 per un veicolo immatricolato in Spagna con targa di tipo prova. L'infrazione si è verificata presso Corso della Repubblica, civico 19, violando il codice civile, articolo 27, comma 25, riguardante il parcheggio davanti a passo carabine. Sono stati decurtati 3 punti e applicata una sanzione accessoria. Il veicolo è un'autovettura di colore nero, modello Chapas a Zetas 650, con numero di telaio 93755139 e massa 3043 kg. La stampa è richiesta via WiFi in italiano, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "venti e undici",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovetture",
+                    "nazione": "spagna",
+                    "targa": "ho quattrocentocinquanta sei doppia winx",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "chapas a zetas seicentocinquanta",
+                    "colore": "nero"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventisette",
+                    "comma": "venticinque",
+                    "sanzione_accessoria": "applico una sanzione accessori è"
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "guai fa",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il trenta aprile duemilaventicinque alle ore venti e undici sto mettendo una notifica di infrazione per il veicolo chapas a zetas seicentocinquanta autovetture immatricolati in spagna con targa ho quattrocentocinquanta sei doppia winx di tipo prova l'infrazione si e verificata presso corso della repubblica al civico diciannove violando il codice civile in particolare l'articolo ventisette coma venticinque riguardante il parcheggio davanti a passo carabine devo decurtare tre punti applico una sanzione accessori è in base alle circostanze il autovettura e di colore nero con numero di telaio nove tre sette cinque cinque uno tre nove massa tremila quarantatré chi li stampa melo con il guai fa in italiano stampa anche la comunicazione",
+    "original_sentence": "Il 30/04/2025, alle ore 20:11, sto emettendo una notifica di infrazione per il veicolo Kawasaki Z650, autovettura immatricolato in spagna con targa UV456WX di tipo prova. L'infrazione si è verificata presso corso della Repubblica, al civico 19, violando il codice civile, in particolare l'articolo 27, comma 25 riguardante il parcheggio davanti a passo carrabile. Devo decurtare 3 punti. Applico una sanzione accessoria in base alle circostanze. Il autovettura è di colore nero, con numero di telaio 937551339 e massa 3043 kg. Stampamelo con il wifi in italiano, stampa anche la comunicazione. "
+}

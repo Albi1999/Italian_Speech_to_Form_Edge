@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo Subaru con targa \"trecentoventi uno piedi\" proveniente dalla Slovenia. L'infrazione è avvenuta il 26 aprile 2025 alle 11:39 in viale della stazione, civico 4, per parcheggio davanti a passo carabine, violando l'articolo 44, comma 42 del codice civile. Sono previsti quattro punti di decurtazione. Si richiede la stampa del preavviso in francese via \"hawaii fai\" e di non stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "undici e trentanove",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": null,
+                    "nazione": "slovenia",
+                    "targa": "trecentoventi uno piedi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "subaru impresa ciclomotori",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo subaru impresa ciclomotori targa trecentoventi uno piedi tipo prova proveniente da slovenia il giorno ventisei aprile duemilaventicinque alle ore undici e trentanove in viale della stazione al numero civico quattro stata commessa l'infrazione di parcheggio davanti a passo carabine come previsto dall'articolo quarantaquattro con ma quarantadue del codice civile per questa violazione sono previsti quattro punti di decurtazione chiedo stampa del preavviso in francese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Subaru Impreza ciclomotore, targa MN321OP di tipo prova, proveniente da slovenia. Il giorno 26/04/2025, alle ore 11:39, in viale della Stazione, al numero civico 4, è stata commessa l'infrazione di parcheggio davanti a passo carrabile, come previsto dall'articolo 44, comma 42, del codice civile.Per questa violazione sono previsti 4 punti di decurtazione. Chiedo la stampa del preavviso in francese via wifi, non stampare anche la comunicazione."
+}

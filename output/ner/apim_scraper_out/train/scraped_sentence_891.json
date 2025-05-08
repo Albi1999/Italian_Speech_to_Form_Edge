@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 25 aprile 2025 alle ore 7:06 per una violazione riscontrata su un'autovettura marca Chapas, modello A Chi Ha 650, targata Gia Cappa 567 Plus Tipo Speciale, proveniente dalla Germania. La violazione riguarda il parcheggio in divieto di sosta in via della Cultura, civico 9, in violazione dell'articolo 4 comma 2 del codice penale. L'agente Giulia Costa ha proceduto con contestazione immediata e si prevede la decurtazione di un punto dalla patente. È richiesta la stampa in inglese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "sette e sei",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "gia cappa cinquecento sessantasette più tipo speciale",
+                    "tipologia_targa": null,
+                    "marca_modello": "chapas a chi ha seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtazione, after: punti",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data venticinque aprile duemilaventicinque alle ore sette e sei per la violazione riscontrata al veicolo autovettura marca chapas a chi ha seicentocinquanta targato gia cappa cinquecento sessantasette più tipo speciale proveniente da germania in particolare in via della cultura civico nove è stato accertato parcheggio in divieto di sosta in violazione dell'articolo quattro qom due del codice penale l'agente giulia costa a proceduto con contestazione immediata si prevede la decurtazione di un punti dalla patente richiedo la stampa in inglese via blu stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 25/04/2025 alle ore 07:06 per la violazione riscontrata al veicolo autovettura, marca Kawasaki Z650, targato JK567OP (tipo speciale) proveniente da germania. In particolare, in via della Cultura, civico 9, è stato accertato parcheggio in divieto di sosta, in violazione dell'articolo 4, comma 2 del codice penale. L'agente Giulia Costa ha proceduto con contestazione immediata. Si prevede la decurtazione di 1 punti dalla patente. Richiedo la stampa in inglese via bluetooth, stampa anche la comunicazione. "
+}

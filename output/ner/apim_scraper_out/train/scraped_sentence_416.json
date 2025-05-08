@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 14 aprile 2025 alle 13:32 per una macchina agricola con targa ufficiale immatricolata in Germania. L'infrazione è stata rilevata in Corso della Repubblica, civico 19, per parcheggio su strisce pedonali. La violazione riguarda il codice civile, articolo 31, comma 30. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare quattro punti. Il veicolo è un Dacia Duster di colore oro. La stampa del preavviso è richiesta tramite Wi-Fi in olandese, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "tredici e trentadue",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "cappelle trecentoventi uno megan aiuto",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "dacia duster",
+                    "colore": "oro"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data a quattordici aprile duemilaventicinque alle ore tredici e trentadue è stato notificato un preavviso per un macchina agricola targato cappelle trecentoventi uno megan aiuto con targa ufficiale immatricolati in germania l'infrazione stata rilevata in corso della repubblica al civico diciannove con violazione del codice civile articolo trentuno duemilanovecento trentadue con ma trenta in particolare sia riscontrato un parcheggio su strisce pedonali non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono quattro punti il veicolo è un dacia da aster di colore oro con numero di telaio cinquecento novantasei milioni e cinquecento quarantacinquemila sessantotto e massa duemiladue centocinquantadue chilogrammi necessita alla stampa del preavviso tramite vuoi fai in olandese non stampare anche la comunicazione",
+    "original_sentence": "In data 14/04/2025, alle ore 13:32, è stato notificato un preavviso per un macchina agricola targato KL321MN con targa ufficiale, immatricolato in germania. L'infrazione è stata rilevata in corso della Repubblica, al civico 19, con violazione del codice civile, articolo 31, 2932, comma 30, in particolare si è riscontrato un parcheggio su strisce pedonali Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 4 punti. Il veicolo è un Dacia Duster di colore oro, con numero di telaio 596545068 e massa 2252 kg.Necessito la stampa del preavviso tramite wifi, in olandese, non stampare anche la comunicazione."
+}

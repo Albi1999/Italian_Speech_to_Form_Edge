@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata il due maggio duemilaventicinque alle quattordici e trenta. Il veicolo coinvolto è una macchina agricola con targa ufficiale immatricolata in Croazia, targato \"ubi novecentottanta sette doppia ex\". La violazione è avvenuta in via della giustizia al civico sedici, riguardante il codice penale, articolo ventisette, comma venticinque, per transito in zona accesso vietato. Sono previsti tre punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non si applica alcuna sanzione accessoria. La stampa avviene tramite Bluetooth in tedesco e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "quattordici e trenta",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "croazia",
+                    "targa": "ubi novecentottanta sette doppia ex",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventisette",
+                    "comma": "venticinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: da",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle quattordici e trenta del due maggio duemilaventicinque storie di gendo un verbale per il veicolo macchina agricola targato ubi novecentottanta sette doppia ex con targa ufficiale immatricolati in croazia l'infrazione e stata accertata in via della giustizia al civico sedici con violazione del codice penale articolo ventisette con ma venticinque per transito in zona accesso vietato sono previsti tre punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite blu in tedesco stampa anche la comunicazione",
+    "original_sentence": "Alle 14:30 del 02/05/2025, sto redigendo un verbale per il veicolo macchina agricola targato UV987WX con targa ufficiale, immatricolato in croaziaL'infrazione è stata accertata in via della Giustizia, al civico 16, con violazione del codice penale, articolo 27,comma 25 per transito in zona accesso vietato Sono previsti 3 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in tedesco, stampa anche la comunicazione."
+}

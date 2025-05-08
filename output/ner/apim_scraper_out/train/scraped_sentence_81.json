@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo BMW con rimorchio, targa ufficiale immatricolata in Croazia, per un'infrazione commessa il 20 aprile 2025 alle ore 8:20 in via della Pace, civico 2. La violazione riguarda il parcheggio davanti a un passo carraio, ai sensi dell'articolo 8, comma 6 del codice stradale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 2 punti. È richiesta la stampa in olandese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "otto e venti",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "ubi trecentoventi uno doppia ex",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "bmw jeff novecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo bmw jeff novecento rimorchio targa ubi trecentoventi uno doppia ex di tipo ufficiale immatricolati in croazia per infrazione commessa in data venti aprile duemilaventicinque ore otto e venti in via della pace civico due è stato rilevato parcheggio davanti a passo carabine ai sensi dell'articolo otto comma sei del codice stradale impossibile effettuare la contestazione immediata vista l'assenza del trasgressori la violazione comporta la decurtazione di due punti richiesta stampa in olandese via blood stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo BMW F 900 R rimorchio, targa UV321WX di tipo ufficiale, immatricolato in croazia, per infrazione commessa in data 20/04/2025, ore 08:20. In via della Pace, civico 2, è stato rilevato parcheggio davanti a passo carrabile, ai sensi dell'articolo 8, comma 6, del codice stradale.Impossibile effettuare la contestazione immediata vista l'assenza del trasgressore. La violazione comporta la decurtazione di 2 punti. Richiesta stampa in olandese via bluetooth, stampa anche la comunicazione."
+}

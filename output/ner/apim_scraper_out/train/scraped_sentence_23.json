@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo rimorchio BMW Jeff 900, targato 'guerre sette centottantanove se ti', di tipo speciale e proveniente dalla Francia. L'infrazione è stata rilevata il 30 aprile 2025 alle ore 2:02, in via Etna al civico 45, in una zona di rimozione. La violazione riguarda l'articolo 8, comma 6 del codice stradale. L'agente Mario Rossi ha effettuato la contestazione immediata, e la violazione comporta la perdita di 10 punti. Si richiede la stampa del verbale in italiano tramite Wi-Fi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "due due minuti",
+            "Strada_1": "via etna",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "guerre sette centottantanove se ti",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "bmw jeff novecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: perdita, after: punti",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo rimorchio marca bmw jeff novecento serve targato guerre sette centottantanove se ti di tipo speciale proveniente da francia l'infrazione e stata rilevata il trenta aprile duemilaventicinque alle ore due due minuti il veicolo si trovava in via etna al civico quarantacinque in parcheggio in zona a rimozione violando l'articolo otto comma sei del codice stradale l'agente mario rossi a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di dieci punti richiedo la stampa del verbale in italiano tramite guai fai non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo rimorchio, marca BMW F 900 XR, targato QR789ST (di tipo speciale), proveniente da francia.  L'infrazione è stata rilevata il 30/04/2025 alle ore 02:02. Il veicolo si trovava in via Etnea, al civico 45, in parcheggio in zona rimozione, violando l'articolo 8, comma 6, del codice stradale. L'agente Mario Rossi ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 10 punti.  Richiedo la stampa del verbale in italiano tramite wifi, non stampare anche la comunicazione."
+}

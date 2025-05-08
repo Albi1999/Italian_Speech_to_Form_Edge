@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 15 aprile 2025 alle ore 5:01 in via della Pace, civico 2. La violazione riguarda un veicolo Honda CIB 650 Jerry, immatricolato in Italia, con targa IEHI654. La violazione contestata è il parcheggio in divieto di sosta secondo l'articolo 49, comma 47 del codice civile. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti due punti di decurtazione. Si richiede la stampa in lingua inglese via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "cinque un minuto",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italia",
+                    "targa": "i ehi sei centocinquantaquattro cappello",
+                    "tipologia_targa": null,
+                    "marca_modello": "onda cib seicentocinquanta jerry",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantanove",
+                    "comma": "quarantasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: di",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stai dicendo verbale per violazione accertata il quindici aprile duemilaventicinque alle ore cinque un minuto in via della pace al civico due a carico del veicolo onda cib seicentocinquanta jerry autovettura con targa i ehi sei centocinquantaquattro cappello di tipo copertura immatricolati in italia la violazione contestata hai parcheggiato in divieto di sosta in base all'articolo quarantanove con ma quarantasette del codice civile non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti due punti di decurtazione si richiede la stampa in lingua inglese via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 15/04/2025 alle ore 05:01 in via della Pace, al civico 2, a carico del veicolo Honda CB650R, autovettura con targa IJ654KL di tipo copertura, immatricolato in italia. La violazione contestata è parcheggio in divieto di sosta, in base all'articolo 49, comma 47 del codice civile. Non è stato possibile contestare immediatamente, per assenza del trasgressore. Sono previsti 2 punti di decurtazione. Si richiede la stampa in lingua inglese via bluetooth, non stampare anche la comunicazione. "
+}

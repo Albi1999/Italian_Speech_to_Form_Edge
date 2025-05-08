@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il sei maggio 2025 alle ore 3:14 in via Giuseppe Mazzini, civico 24. La violazione riguarda il transito in zona accesso vietato, secondo l'articolo 53, comma 51 del codice penale. La contestazione è avvenuta immediatamente da parte dell'agente Chiara Romano. Il veicolo coinvolto è un'autovettura Scorda Camice con targa Guerre 789, immatricolata in Italia. Sono previsti sei punti di decurtazione. Si richiede la stampa in lingua olandese via Hawaii, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "tre quattordici",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italia",
+                    "targa": "guerre sette centottantanove",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "scorda camice",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il sei maggio duemilaventicinque alle ore tre quattordici in via giuseppe mazzini al civico ventiquattro a carico del veicolo scorda camice autovettura con targa guerre sette centottantanove se ti di tipo speciale immatricolati in italia la violazione contestata e transito in zona accesso vietato in base all'articolo cinquantatré comma cinquantuno del codice penale la contestazione e avvenuta immediatamente da parte della gente chiara romano sono previsti sei punti di decurtazione si richiede la stampa in lingua olandese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 06/05/2025 alle ore 03:14 in via Giuseppe Mazzini, al civico 24, a carico del veicolo Skoda Kamiq, autovettura con targa QR789ST di tipo speciale, immatricolato in italia. La violazione contestata è transito in zona accesso vietato, in base all'articolo 53, comma 51 del codice penale.La contestazione è avvenuta immediatamente da parte dell'agente Chiara Romano. Sono previsti 6 punti di decurtazione. Si richiede la stampa in lingua olandese via wifi, non stampare anche la comunicazione."
+}

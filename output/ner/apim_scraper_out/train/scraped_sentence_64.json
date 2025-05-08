@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a un veicolo rimorchio targato \"icsi ypsilon novecentottanta sette gettati\", di tipo ufficiale, proveniente dalla Spagna, marca \"peggio duecentotto\". La violazione riguarda il transito in zona di accesso vietato, avvenuta il dodici aprile duemilaventicinque alle ore quattro e quarantasei in via della musica al numero diciotto. L'infrazione rientra nell'articolo sei, comma quattro del codice stradale. La contestazione è stata immediata da parte dell'agente Chiara Romano e prevede la perdita di dieci punti. Si richiede la stampa in lingua olandese tramite Wi-Fi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "quattro e quarantasei",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "spagna",
+                    "targa": "icsi ypsilon novecentottanta sette gettati",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "peggio duecentotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo rimorchio targato icsi ypsilon novecentottanta sette gettati di tipo ufficiale proveniente da spagna marca peggio duecentotto la violazione ovvero transito in zona accesso vietato sia e verificata in data dodici aprile duemilaventicinque alle ore quattro e quarantasei in via della musica al numero diciotto l'infrazione rientra nell'articolo sei con ma quattro del codice stradale contestazione immediata da parte della gente chiara romano la sanzione prevede la perdita di dieci punti si richiede la stampa in lingua olandese tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo rimorchio targato XY987ZT di tipo ufficiale proveniente da spagna, marca Peugeot 208. La violazione, ovvero transito in zona accesso vietato, si è verificata in data 12/04/2025 alle ore 04:46 in via della Musica, al numero 18. L'infrazione rientra nell'articolo 6, comma 4 del codice stradale. Contestazione immediata da parte dell'agente Chiara Romano. La sanzione prevede la perdita di 10 punti. Si richiede la stampa in lingua olandese, tramite wifi, non stampare anche la comunicazione."
+}

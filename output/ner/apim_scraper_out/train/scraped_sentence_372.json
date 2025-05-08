@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo Skoda Fabia con targa ufficiale immatricolato in Germania. L'infrazione è avvenuta il 30 aprile 2025 alle ore 14:48 presso la stazione civico 4, per transito in zona accesso vietato secondo l'articolo 21 comma 19 del codice stradale. La contestazione è stata immediatamente eseguita dall'agente Elena Fontana e comporta la decurtazione di sei punti. È richiesta la stampa in portoghese via Hawaii, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "quattordici e quarantotto",
+            "Strada_1": "della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "germania",
+                    "targa": "icsi ypsilon centoventitre zza",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "skoda fabia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: decurtazione, after: punti",
+            "tipo_stampa": "via hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo skoda fabia molto veicolo targa icsi ypsilon centoventitre zza di tipo ufficiale immatricolati in germania per infrazione commessa in data trenta aprile duemilaventicinque ore quattordici e quarantotto inviarle della stazione civico quattro è stato rilevato transito in zona accesso vietato ai sensi dell'articolo ventuno comma diciannove del codice stradale contestazione immediata eseguita dall'agente elena fontana la violazione comporta la decurtazione di sei punti richiesta stampa in portoghese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Skoda Fabia motoveicolo, targa XY123ZA di tipo ufficiale, immatricolato in germania, per infrazione commessa in data 30/04/2025, ore 14:48. In viale della Stazione, civico 4, è stato rilevato transito in zona accesso vietato, ai sensi dell'articolo 21, comma 19, del codice stradale.Contestazione immediata eseguita dall'agente Elena Fontana. La violazione comporta la decurtazione di 6 punti. Richiesta stampa in portoghese via wifi, stampa anche la comunicazione."
+}

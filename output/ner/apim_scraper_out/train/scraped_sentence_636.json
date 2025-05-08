@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo ciclomotore di marca Peggio 208 con targa \"guerre 320 uno siti\", tipo ufficiale, proveniente dal Belgio. L'infrazione è avvenuta il 10 aprile 2025 alle ore 18:16 in Corso Buenos Aires, numero civico 98, per parcheggio in doppia fila, violando l'articolo 26 comma 24 del codice stradale. È prevista una decurtazione di un punto. La contestazione è stata eseguita immediatamente dall'agente Anna Bianchi. La stampa del verbale è richiesta tramite Bluetooth in inglese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "diciotto e sedici",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "belgio",
+                    "targa": "guerre trecentoventi uno siti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "peggio duecentotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventisei",
+                    "comma": "ventiquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: prevista, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazioni verbale in corso per il veicolo ciclomotori di marca peggio duecentotto con targa guerre trecentoventi uno siti tipo ufficiale proveniente da belgio fatto avvenuto il dieci aprile duemilaventicinque alle ore diciotto e sedici posizione corso buenos aires numero civico novantotto infrazione parcheggio in doppia fila in violazione dell'articolo ventisei comma ventiquattro del codice stradale decurtazioni prevista un punti si applica contestazione immediata da parte della gente anna bianchi stampa necessaria tramite blu tutti in inglese non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo ciclomotore di marca Peugeot 208, con targa QR321ST (tipo ufficiale), proveniente da belgio. Fatto avvenuto il 10/04/2025 alle ore 18:16. Posizione: corso Buenos Aires, numero civico 98. Infrazione: parcheggio in doppia fila, in violazione dell'articolo 26, comma 24, del codice stradale. Decurtazione prevista: 1 punti. Si applica contestazione immediata da parte dell'agente Anna Bianchi. Stampa necessaria tramite bluetooth in inglese, non stampare anche la comunicazione. "
+}

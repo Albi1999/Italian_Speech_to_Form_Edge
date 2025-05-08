@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da un veicolo agricolo marca Ducati Multistrada, immatricolato in Spagna, con targa \"guerra e settecento ottantanove se ti di tipo copertura\". La violazione è avvenuta il 21 aprile 2025 alle ore 23:52 in via della Speranza, civico 18, per transito in zona ad accesso vietato, violando l'articolo 42, comma 40 del codice civile. La violazione comporta la perdita di un punto. La stampa del verbale è richiesta in modalità \"hawaii fai\" e in lingua italiana, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "ventitré cinquantadue",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "guerra e settecento ottantanove se ti di tipo copertura",
+                    "tipologia_targa": null,
+                    "marca_modello": "ducati molti strada due",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantadue",
+                    "comma": "quaranta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: perdita, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina agricola marca ducati molti strada due targa guerra e settecento ottantanove se ti di tipo copertura immatricolati in spagna in data ventuno aprile duemilaventicinque alle ore ventitré cinquantadue in via della speranza al civico diciotto e stata commessa la seguente violazione transito in zona accesso vietato articolo quarantadue con ma quaranta del codice civile dalla violazione con segue la perdita di un punti stampa in modalita hawaii fai in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina agricola, marca Ducati Multistrada V2, targa QR789ST di tipo copertura, immatricolato in spagna. In data 21/04/2025 alle ore 23:52, in via della Speranza, al civico 18, è stata commessa la seguente violazione: transito in zona accesso vietato (articolo 42, comma 40 del codice civile). Dalla violazione consegue la perdita di 1 punti. Stampa in modalità wifi e in lingua italiano, stampa anche la comunicazione. "
+}

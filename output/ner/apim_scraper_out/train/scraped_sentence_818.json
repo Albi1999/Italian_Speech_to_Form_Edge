@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per una violazione stradale. Il veicolo coinvolto è una macchina agricola marca Benelli Leoncino 500, targata ABU 450 6 CD, di tipo ufficiale, proveniente dalla Slovenia. La violazione è avvenuta il 28 aprile 2025 alle ore 6:24, per transito in zona accesso vietato in Corso Buenos Aires al numero 98. La violazione è in base all'articolo 53, comma 51 del codice stradale, con una decurtazione di 7 punti. Si richiede la stampa del preavviso tramite Bluetooth in lingua portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "sei ventiquattro",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "slovenia",
+                    "targa": "abu quattrocentocinquanta sei ci di di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "ben elli leoncino cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: previsti, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo macchina agricola marca ben elli leoncino cinquecento targato abu quattrocentocinquanta sei ci di di tipo ufficiale proveniente da slovenia in data ventotto aprile duemilaventicinque alle ore sei ventiquattro e stata rilevata la violazione di transito in zona accesso vietato in corso buenos aires al numero novantotto in base all'articolo cinquantatré con ma cinquantuno del codice stradale per tale infrazione sono previsti sette punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua portoghese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina agricola, marca Benelli Leoncino 500, targato AB456CD di tipo ufficiale, proveniente da slovenia. In data 28/04/2025 alle ore 06:24, è stata rilevata la violazione di transito in zona accesso vietato in corso Buenos Aires, al numero 98, in base all'articolo 53, comma 51 del codice stradale. Per tale infrazione sono previsti 7 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua portoghese, stampa anche la comunicazione. "
+}

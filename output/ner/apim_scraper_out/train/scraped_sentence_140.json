@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il sette aprile duemilaventicinque alle ore quattordici e sette minuti per un rimorchio targato AB 654 CD con targa speciale immatricolato in Olanda. L'infrazione è stata rilevata in corso della Repubblica al civico diciannove, violando il codice stradale articolo ventuno comma diciannove, per parcheggio davanti a passo carrabile. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare due punti. Il veicolo è un Daihatsu Icona di colore argento. È richiesta la stampa del preavviso tramite Wi-Fi in spagnolo, stampando anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "quattordici e sette minuti",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "olanda",
+                    "targa": "ab sei centocinquantaquattro ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "dai icona",
+                    "colore": "argento"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data sette aprile duemilaventicinque alle ore quattordici e sette minuti è stato notificato un preavviso per un rimorchio targato ab sei centocinquantaquattro ci di con targa speciale immatricolati in olanda l'infrazione stata rilevata in corso della repubblica al civico diciannove con violazione del codice stradale articolo ventuno comma diciannove in particolare si e riscontrato un parcheggio davanti a passo arrabbi le non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono due punti il veicolo è un dai icona di colore argento con numero di telaio trecentotrentasei milioni e settecento sessantatremila trentotto e massa duemilaquattrocento settanta chilogrammi necessita la stampa del preavviso tramite vuoi fai in spagnolo stampa anche la comunicazione",
+    "original_sentence": "In data 07/04/2025, alle ore 14:07, è stato notificato un preavviso per un rimorchio targato AB654CD con targa speciale, immatricolato in olanda. L'infrazione è stata rilevata in corso della Repubblica, al civico 19, con violazione del codice stradale, articolo 21, comma 19, in particolare si è riscontrato un parcheggio davanti a passo carrabile Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 2 punti. Il veicolo è un Hyundai Kona di colore argento, con numero di telaio 836763038 e massa 2470 kg.Necessito la stampa del preavviso tramite wifi, in spagnolo, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale elevato il venticinque aprile duemilaventicinque alle ore diciotto e sei minuti per una violazione del codice civile. La violazione riguarda un parcheggio davanti a passo carabine, rilevata in corso Vittorio Emanuele al civico quindici. Il veicolo coinvolto è un rimorchio Suzuki immatricolato in Germania. La contestazione è stata immediata e ha portato alla decurtazione di cinque punti. La stampa del verbale è richiesta in lingua olandese tramite connessione Hawaii, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "diciotto e sei minuti",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "suzuki chi vi seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: derivano, after: decurtazione",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data venticinque aprile duemilaventicinque alle ore diciotto e sei minuti si eleva verbale al veicolo suzuki chi vi seicentocinquanta rimorchio con targa icsi ypsilon trecentoventi uno sa di tipo speciale immatricolati in germania per violazione dell'articolo trentacinque con ma trentatré del codice civile ovvero vero parcheggio davanti a passo carabine rilevata in corso vittorio emanuele al civico quindici la contestazione stata immediata effettuata dalla gente silvia neri dalla violazione derivano cinque punti di decurtazione stampa necessaria in lingua olandese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "In data 25/04/2025, alle ore 18:06, si eleva verbale al veicolo Suzuki SV650, rimorchio con targa XY321ZA di tipo speciale, immatricolato in germania, per violazione dell'articolo 35, comma 33 del codice civile, ovvero parcheggio davanti a passo carrabile, rilevata in corso Vittorio Emanuele, al civico 15.La contestazione è stata immediata, effettuata dall'agente Silvia Neri. Dalla violazione derivano 5 punti di decurtazione. Stampa necessaria in lingua olandese via wifi, stampa anche la comunicazione."
+}

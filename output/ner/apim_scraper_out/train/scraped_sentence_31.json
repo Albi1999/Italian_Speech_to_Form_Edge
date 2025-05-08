@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da un veicolo agricolo immatricolato in Grecia. La violazione è avvenuta il 15 aprile 2025 alle 16:44 in viale della Vittoria, civico 9, per parcheggio in divieto di sosta. La violazione comporta la perdita di sette punti. La stampa del verbale è richiesta in modalità Hawaii e in lingua spagnola, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "sedici e quarantaquattro",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "grecia",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": null,
+                    "marca_modello": "macchina agricola marca o per corsa",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina agricola marca o per corsa targa icsi ypsilon trecentoventi uno sa di tipo speciale immatricolati in grecia in data quindici aprile duemilaventicinque alle ore sedici e quarantaquattro in viale della vittoria al civico nove e stata commessa la seguente violazione parcheggiato in divieto di sosta articolo quarantasei comma quarantaquattro del codice penale dalla violazione con segue la perdita di sette punti stampa in modalità hawaii fai è in lingua spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina agricola, marca Opel Corsa, targa XY321ZA di tipo speciale, immatricolato in grecia. In data 15/04/2025 alle ore 16:44, in viale della Vittoria, al civico 9, è stata commessa la seguente violazione: parcheggio in divieto di sosta (articolo 46, comma 44 del codice penale).Dalla violazione consegue la perdita di 7 punti.Stampa in modalità wifi e in lingua spagnolo, non stampare anche la comunicazione."
+}

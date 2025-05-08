@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 18 aprile 2025 alle ore 15:34 per un'autovettura con targa ufficiale immatricolata in Belgio. L'infrazione è stata rilevata in via della storia al civico 6, violando il codice stradale, articolo 131, comma 9, per parcheggio davanti a passo carabine. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare 7 punti. Il veicolo è un Chi ha pianto di colore rosso. La stampa del preavviso è richiesta tramite Wi-Fi in olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "quindici e trentaquattro",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "belgio",
+                    "targa": "i ehi quattrocentocinquanta sei capelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "chi ha pianto",
+                    "colore": "rosso"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centotrentuno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data diciotto aprile duemilaventicinque alle ore quindici e trentaquattro è stato notificato un preavviso per un'autovettura targato i ehi quattrocentocinquanta sei capelli con targa ufficiale immatricolati in belgio l'infrazione stata rilevata in via della storia al civico sei con violazione del codice stradale articolo centotrentuno comma nove in particolare si riscontrato un parcheggio davanti a passo carabine non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono sette punti il veicolo è un chi ha pianto di colore rosso con numero di telaio nove due sei tre sei sei due cinque otto e massa mille settecentotrenta quattro chili necessita la stampa del preavviso tramite vuoi fai in olandese non stampare anche la comunicazione",
+    "original_sentence": "In data 18/04/2025, alle ore 15:34, è stato notificato un preavviso per un autovettura targato IJ456KL con targa ufficiale, immatricolato in belgio. L'infrazione è stata rilevata in via della Storia, al civico 6, con violazione del codice stradale, articolo 121, comma 9, in particolare si è riscontrato un parcheggio davanti a passo carrabile Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 7 punti. Il veicolo è un Kia Picanto di colore rosso, con numero di telaio 926366258 e massa 1734 kg. Necessito la stampa del preavviso tramite wifi, in olandese, non stampare anche la comunicazione. "
+}

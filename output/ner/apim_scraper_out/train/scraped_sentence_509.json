@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sei aprile 2025 alle ore tredici e sedici per una violazione riscontrata su un veicolo rimorchio Harley Davidson Street 750, targato I789CF, proveniente dalla Svizzera. La violazione è avvenuta in via Venti Settembre, civico cinque, per parcheggio su strisce pedonali, violando l'articolo dodici, comma dieci del codice stradale. L'agente Silvia Neri ha proceduto con contestazione immediata e si prevede la decurtazione di dieci punti dalla patente. La stampa è richiesta in francese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "tredici e sedici",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "i sette centottantanove capelli",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "harley davidson street settecentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazioni immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data sei aprile duemilaventicinque alle ore tredici e sedici per la violazione riscontrata al veicolo rimorchio marc harley davidson street settecentocinquanta targato i sette centottantanove capelli tipo speciale proveniente da svizzera in particolare in via venti settembre civico cinque è stato accertato parcheggio su strisce pedonali in violazione dell'articolo dodici con ma dieci del codice stradale l'agente silvia neri a proceduto con contestazioni immediata si prevede la decurtazione di dieci punti dalla patente richiedo la stampa in francese via tutte stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 06/04/2025 alle ore 13:16 per la violazione riscontrata al veicolo rimorchio, marca Harley-Davidson Street 750, targato IJ789KL (tipo speciale) proveniente da svizzera. In particolare, in via XX Settembre, civico 5, è stato accertato parcheggio su strisce pedonali, in violazione dell'articolo 12, comma 10 del codice stradale. L'agente Silvia Neri ha proceduto con contestazione immediata. Si prevede la decurtazione di 10 punti dalla patente. Richiedo la stampa in francese via bluetooth, stampa anche la comunicazione. "
+}

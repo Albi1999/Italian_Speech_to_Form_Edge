@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da un veicolo agricolo immatricolato in Svizzera. La violazione è avvenuta il 12 aprile 2025 alle 22:59 in viale della Concordia, civico 13. La violazione riguarda il transito in zona di accesso vietato, violando l'articolo 51, comma 49 del codice stradale, con conseguente perdita di 8 punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua francese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "ventidue cinquantanove",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "yakubu trecentoventi uno doppia west",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mary casati pizza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantuno",
+                    "comma": "quarantanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: perdita, after: punti",
+            "tipo_stampa": "brutte",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina agricola mary casati pizza targa yakubu trecentoventi uno doppia west di tipo ufficiale immatricolati in svizzera in data dodici aprile duemilaventicinque alle ore ventidue cinquantanove in viale della concordia al civico tredici e stata commessa la seguente violazione transito in zona accesso vietato l'articolo cinquantuno come quarantanove del codice stradale dalla violazione con segue la perdita di otto punti stampa e modalità brutte in lingua francese stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina agricola, marca Seat Ibiza, targa UV321WX di tipo ufficiale, immatricolato in svizzera. In data 12/04/2025 alle ore 22:59, in viale della Concordia, al civico 13, è stata commessa la seguente violazione: transito in zona accesso vietato (articolo 51, comma 49 del codice stradale). Dalla violazione consegue la perdita di 8 punti. Stampa in modalità bluetooth e in lingua francese, stampa anche la comunicazione. "
+}

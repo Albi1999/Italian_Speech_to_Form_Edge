@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione stradale. La violazione è avvenuta il 18 aprile 2025 alle ore 3:07 in viale dei giardini, civico 8. Il veicolo coinvolto è una macchina operatrice marca Nissan, targa I 123 CH, immatricolata in Belgio. La violazione riguarda il transito in zona accesso vietato, articolo 49 comma 47 del codice stradale, con conseguente perdita di nove punti. La stampa del verbale è richiesta in modalità WiFi e in lingua italiana, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "tre sette minuti",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "belgio",
+                    "targa": "i centoventitre chi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "nissan",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantanove",
+                    "comma": "quarantasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina operatrice marca nissan ok targa i centoventitre chi lo litri di tipo speciale immatricolati in belgio in data diciotto aprile duemilaventicinque alle ore tre sette minuti in viale dei giardini al civico otto e stata commessa la seguente violazione transito in zona accesso vietato articolo quarantanove comma quarantasette del codice stradale dalla violazione con segue la perdita di nove punti stampa in modalità hawaii fai è in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina operatrice, marca Nissan Juke, targa IJ123KL di tipo speciale, immatricolato in belgio. In data 18/04/2025 alle ore 03:07, in viale dei Giardini, al civico 8, è stata commessa la seguente violazione: transito in zona accesso vietato (articolo 49, comma 47 del codice stradale).Dalla violazione consegue la perdita di 9 punti.Stampa in modalità wifi e in lingua italiano, stampa anche la comunicazione."
+}

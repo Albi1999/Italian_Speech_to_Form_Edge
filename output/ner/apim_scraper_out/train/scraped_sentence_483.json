@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 17 aprile 2025 alle ore 21:41 per un veicolo immatricolato in Grecia. L'infrazione si è verificata in via della Concordia, civico 14, violando il codice penale, articolo 39, comma 37, riguardante il parcheggio in divieto di sosta. Non è necessaria alcuna sanzione accessoria e devono essere decurtati sette punti. Il veicolo è una macchina agricola di colore nero. La stampa deve essere effettuata tramite Bluetooth in francese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "ventuno e quarantuno",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "grecia",
+                    "targa": "cava sacchi in in già seicentocinquanta",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": "nero"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il diciassette aprile duemilaventicinque alle ore ventuno e quarantuno sto mettendo una notifica di infrazione per il veicolo cava sacchi in in già seicentocinquanta macchina agricola immatricolati in grecia contare dai xiii ypsilon novecentottanta sette gettati di tipo speciale l'infrazione si e verificata presso via della concordia al civico quattordici violando il codice penale in particolare l'articolo trentanove comma trentasette riguardante il parcheggio in divieto di sosta devo decurtare sette punti non è necessaria alcuna sanzione accessoria il macchina agricola e di colore nero con numero di telaio ottocentosessanta sei milioni e tre centodiecimila trecentosettantasei e massa duemiladuecento sessantatré chilogrammi stampa me lo con il blu tutti in francese stampa anche la comunicazione",
+    "original_sentence": "Il 17/04/2025, alle ore 21:41, sto emettendo una notifica di infrazione per il veicolo Kawasaki Ninja 650, macchina agricola immatricolato in grecia con targa XY987ZT di tipo speciale. L'infrazione si è verificata presso via della Concordia, al civico 14, violando il codice penale, in particolare l'articolo 39, comma 37 riguardante il parcheggio in divieto di sosta.Devo decurtare 7 punti. Non è necessaria alcuna sanzione accessoria. Il macchina agricola è di colore nero, con numero di telaio 866310376 e massa 2263 kg.Stampamelo con il bluetooth in francese, stampa anche la comunicazione."
+}

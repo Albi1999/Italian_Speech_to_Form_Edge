@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 20 aprile 2025 alle ore 3:08 in Vietnam, al civico 45. La violazione riguarda un veicolo agricolo con targa belga, accusato di parcheggio davanti a passo carabine, in base all'articolo 13, comma 11 del codice penale. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti due punti di decurtazione. Si richiede la stampa in lingua francese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "tre otto",
+            "Strada_1": "vietnam",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "ho un novecentottanta sette doppia wings",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "null",
+                    "colore": "null"
+                }
+            ],
+            "contestazione_immediata": "null",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tredici",
+                    "comma": "undici",
+                    "sanzione_accessoria": "null"
+                }
+            ],
+            "punti": "due, before: previsti, after: di",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbale per violazione accertata il venti aprile duemilaventicinque alle ore tre otto in vietnam al civico quarantacinque a carico del veicolo successo di seicentocinquanta macchina agricola con targa ho un novecentottanta sette doppia wings di tipo copertura immatricolati in belgio la violazione contestata hai parcheggio davanti a passo carabine in base a l'articolo tredici con ma undici del codice penale non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti due punti di decurtazione si richiede la stampa in lingua francese via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 20/04/2025 alle ore 03:08 in via Etnea, al civico 45, a carico del veicolo Suzuki SV650, macchina agricola con targa UV987WX di tipo copertura, immatricolato in belgio. La violazione contestata è parcheggio davanti a passo carrabile, in base all'articolo 13, comma 11 del codice penale. Non è stato possibile contestare immediatamente, per assenza del trasgressore. Sono previsti 2 punti di decurtazione. Si richiede la stampa in lingua francese via bluetooth, stampa anche la comunicazione. "
+}

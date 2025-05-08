@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il dodici aprile duemilaventicinque alle tre trentatré per un veicolo macchina operatrice con targa speciale immatricolato in Croazia. L'infrazione è stata accertata in via della musica al civico diciotto, con violazione del codice civile, articolo otto, comma sei, per parcheggio in doppia fila. Sono previsti nove punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. La stampa avviene tramite Wi-Fi in inglese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "tre trentatré",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "guerra sette centottantanove",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle tre trentatré del dodici aprile duemilaventicinque storie di gendo un verbale per il veicolo macchina operatrice targato guerra sette centottantanove se ti con targa speciale immatricolati in croazia infrazione e stata accertata in via della musica al civico diciotto con violazione del codice civile articolo otto con ma sei per parcheggia in doppia fila sono previsti nove punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite vuoi fai in inglese stampa anche la comunicazione",
+    "original_sentence": "Alle 03:33 del 12/04/2025, sto redigendo un verbale per il veicolo macchina operatrice targato QR789ST con targa speciale, immatricolato in croaziaL'infrazione è stata accertata in via della Musica, al civico 18, con violazione del codice civile, articolo 8,comma 6 per parcheggio in doppia fila Sono previsti 9 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in inglese, stampa anche la comunicazione."
+}

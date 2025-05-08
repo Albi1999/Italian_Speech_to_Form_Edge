@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo registrato in Croazia, un ciclomotore Nis Amica con targa AD 789 CD. La violazione è avvenuta il 13 aprile 2025 alle 17:33 in Corso della Giustizia, civico 20, per parcheggio davanti a un passo carrabile. La violazione riguarda l'articolo 9, comma 7 del codice civile e comporta una decurtazione di 8 punti. L'avviso sarà stampato via Bluetooth in lingua tedesca e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "diciassette trentatré",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "ad settecento ottantanove ci di",
+                    "tipologia_targa": null,
+                    "marca_modello": "nis amica",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazioni, after: punti",
+            "tipo_stampa": "tutti",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo nis amica ciclomotori targato ad settecento ottantanove ci di contenga copertura registrato in croazia per un fatto accaduto i tredici aprile duemilaventicinque alle diciassette trentatré il veicolo si trovava in corso della giustizia a il civico venti dove è stato riscontrato parcheggio davanti a passo che arabi in base alla articolo nove comma sette del codice civile questa infrazioni comporta una decurtazioni di otto punti genere alla stampa dell'avviso via tutti in tedesco stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Nissan Micra, ciclomotore, targato AB789CD con targa copertura, registrato in croazia, per un fatto accaduto il 13/04/2025 alle 17:33. Il veicolo si trovava in corso della Giustizia, al civico 23, dove è stato riscontrato parcheggio davanti a passo carrabile, in base all'articolo 9, comma 7, del codice civile. Questa infrazione comporta una decurtazione di 8 punti. Genera la stampa dell'avviso via bluetooth in tedesco, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sette aprile duemilaventicinque alle quindici e cinquantaquattro per un veicolo rimorchio con targa ufficiale svizzera. L'infrazione è stata accertata in viale della Concordia, civico tredici, per parcheggio su strisce pedonali, violando il codice civile, articolo atto, comma sei. È prevista la decurtazione di un punto. La contestazione è stata immediata, effettuata dall'agente Francesco Rizzo, senza applicazione di sanzioni accessorie. La stampa del verbale è stata effettuata tramite WiFi in portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "quindici e cinquantaquattro",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "a duecentoventitre ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "atto",
+                    "comma": "sei",
+                    "sanzione_accessoria": "non passo applicare alcuna sanzione accessoria"
+                }
+            ],
+            "punti": "un, before: previsti, after: da",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle quindici e cinquantaquattro del sette aprile duemilaventicinque storie di gendo un verbale per il veicolo rimorchio targato a duecentoventitre ci di con targa ufficiale immatricolati in svizzera l'infrazione è stata accertata in viale della concordia al civico tredici con violazione del codice civile articolo atto comma sei per parcheggio su strisce pedonali sono previsti un punti da decurtare contestazione immediata effettuata dalla gente francesco rizzo il verbale è stato redatto sul posto in viali della concordia non passo applicare alcuna sanzione accessoria stampa tramite wifi in portoghese stampa anche la comunicazione",
+    "original_sentence": "Alle 15:54 del 07/04/2025, sto redigendo un verbale per il veicolo rimorchio targato AB123CD con targa ufficiale, immatricolato in svizzeraL'infrazione è stata accertata in viale della Concordia, al civico 13, con violazione del codice civile, articolo 8,comma 6 per parcheggio su strisce pedonali Sono previsti 1 punti da decurtare. Contestazione immediata effettuata dall'agente Francesco Rizzo, il verbale è stato redatto sul posto in viale della Concordia. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in portoghese, stampa anche la comunicazione. "
+}

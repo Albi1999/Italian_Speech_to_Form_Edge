@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un motoveicolo con targa ufficiale immatricolato in Germania. La violazione è avvenuta il 28 aprile 2025 alle ore 14:04 in via Ventisettenne al civico 5. La violazione riguarda il parcheggio in zona a rimozione, violando l'articolo 37, comma 35 del codice stradale, con conseguente perdita di tre punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua tedesca, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "quattordici",
+            "Strada_1": "via ventisettenne",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "germania",
+                    "targa": "sette centottantanove ci di di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentasette",
+                    "comma": "trentacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per motoveicoli manca si tronchi quattro tu targa sette centottantanove ci di di tipo ufficiale immatricolati in germania in data ventotto aprile duemilaventicinque alle ore e quattro i quattordici invia ventisettenne al civico cinque e stata commessa la seguente violazione parcheggio in zona a rimozione te articolo trentasette coma trentacinque del codice stradale dalla violazioni con segue la perdita di tre punti stampa in modalità blu tutte in lingua tedesco non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per motoveicolo, marca Citroen C4 Cactus, targa AB789CD di tipo ufficiale, immatricolato in germania. In data 28/04/2025 alle ore 04:14, in via XX Settembre, al civico 5, è stata commessa la seguente violazione: parcheggio in zona rimozione (articolo 37, comma 35 del codice stradale). Dalla violazione consegue la perdita di 3 punti. Stampa in modalità bluetooth e in lingua tedesco, non stampare anche la comunicazione. "
+}

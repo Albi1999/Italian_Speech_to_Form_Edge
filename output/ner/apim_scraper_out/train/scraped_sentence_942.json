@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione riscontrata il 18 aprile 2025 alle ore 2:56, riguardante un veicolo macchina operatrice proveniente dalla Croazia, targato \"i giri centoventitre capelli tipo speciali\". La violazione è avvenuta in via della Libertà, civico 21, per parcheggio davanti a passo arabi, violando l'articolo 43, comma 41 del codice stradale. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di dieci punti dalla patente. La stampa è richiesta in tedesco via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "o due cinquantasei",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "i giri centoventitre capelli",
+                    "tipologia_targa": "speciali",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "debba le redatto in data diciotto aprile duemilaventicinque alle o due cinquantasei per violazione riscontrata al veicolo macchina operatrice mai capeggiato duecentotto targato i giri centoventitre capelli tipo speciali il proveniente da croazia in particolare in via della libertà civico ventuno è stato accertato parcheggio davanti a passo arabi in violazione dell'articolo quarantatré come quarantuno del codice stradale data l'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di dieci punti dalla patente richiedo la stampa in tedesco via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 18/04/2025 alle ore 02:56 per la violazione riscontrata al veicolo macchina operatrice, marca Peugeot 208, targato IJ123KL (tipo speciale) proveniente da croazia. In particolare, in via della Libertà, civico 21, è stato accertato parcheggio davanti a passo carrabile, in violazione dell'articolo 43, comma 41 del codice stradale. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 10 punti dalla patente. Richiedo la stampa in tedesco via bluetooth, non stampare anche la comunicazione. "
+}

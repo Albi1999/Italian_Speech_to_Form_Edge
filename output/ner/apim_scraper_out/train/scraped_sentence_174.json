@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un motoveicolo Fiat Cinquecento con targa croata. La violazione è avvenuta il 28 aprile 2025 alle 10:58 in via della Speranza, civico 18, per parcheggio in zona a rimozione. La violazione è in base all'articolo 4, comma 2 del codice stradale, con una decurtazione di 4 punti. Si richiede la stampa del preavviso in lingua inglese tramite Hawaii, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "dieci e cinquantotto",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "croazia",
+                    "targa": "icsi ypsilon novecentottanta sette sa",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "fiat cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo motoveicoli marca fiat cinquecento targa icsi ypsilon novecentottanta sette sa di tipo prova immatricolati in croazia la violazione è avvenuta il ventotto aprile duemilaventicinque alle ore dieci e cinquantotto in via della speranza al numero civico diciotto ed è relativa a parcheggio in zona a rimozione in base all'articolo quattro comma due del codice stradale per tale violazione sono previsti quattro punti di decurtazione si richiede la stampa di tale preavviso in lingua inglese tramite hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo motoveicolo, marca Fiat 500, targa XY987ZA di tipo prova, immatricolato in croazia. La violazione è avvenuta il 28/04/2025 alle ore 10:58 in via della Speranza, al numero civico 18, ed è relativa a parcheggio in zona rimozione, in base all'articolo 4, comma 2 del codice stradale.Per tale violazione sono previsti 4 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua inglese tramite wifi, stampa anche la comunicazione."
+}

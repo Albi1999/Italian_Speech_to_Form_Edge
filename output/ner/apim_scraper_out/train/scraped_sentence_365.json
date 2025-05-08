@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo agricolo con targa speciale registrato in Spagna. L'infrazione è avvenuta il 7 maggio 2025 alle 10:04 in via della Giustizia, civico 16, per parcheggio su strisce pedonali. La violazione è in base all'articolo 14, comma 1 del codice penale e comporta una decurtazione di 2 punti. La stampa dell'avviso è richiesta via Bluetooth, in lingua tedesca, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette maggio duemilaventicinque",
+            "ora_violazione": "dieci e quattro minuti",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "i centoventitre chilometri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quattordici",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo per corsa macchina agricola targato i centoventitre chilometri con targa speciale registrato in spagna per un fatto accaduto il sette maggio duemilaventicinque alle dieci e quattro minuti il veicolo si trovava in via della giustizia al civico sedici dove è stato riscontrato parcheggio su strisce pedonali in base all'articolo quattordici con ma uno del codice penale questa infrazione comporta una decurtazione di due punti genera alla stampa dell'avviso via hawaii fai in tedesco non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Opel Corsa, macchina agricola, targato IJ123KL con targa speciale, registrato in spagna,  per un fatto accaduto il 07/05/2025 alle 10:04. Il veicolo si trovava in via della Giustizia, al civico 16, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 14, comma 1, del codice penale. Questa infrazione comporta una decurtazione di 2 punti.  Genera la stampa dell'avviso via wifi in tedesco, non stampare anche la comunicazione."
+}

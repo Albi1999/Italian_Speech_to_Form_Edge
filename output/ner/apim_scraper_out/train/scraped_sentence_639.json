@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il primo maggio 2025 alle ore 3:13. Un verbale è stato elevato al veicolo Alfa Romeo Stelvio, immatricolato in Olanda, per violazione dell'articolo 1228 comma 16 del codice civile, ovvero parcheggio in doppia fila. La violazione è stata rilevata in via della Pace al civico 2. Non è stato possibile effettuare la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di dieci punti. La stampa necessaria è in lingua olandese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "tre tredici",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "olanda",
+                    "targa": "è men quattrocentocinquanta sei hope",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "alfa romeo stelvio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "mille duecentoventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: derivano, after: di",
+            "tipo_stampa": "via hawaii fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data primo maggio duemilaventicinque alle ore tre tredici si eleva verbale al veicolo alfa romeo stelvio ciclomotori con targa è men quattrocentocinquanta sei hope di tipo speciale immatricolati in olanda per violazione dell'articolo mille duecentoventotto comma sedici del codice civile ovvero parcheggia in doppia fila rilevata in via della pace al civico due non è stato possibile effettuare la contestazioni immediata per assenza del trasgressori dalla violazione derivano dieci punti di decurtazione stampa necessari e lingua olandese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "In data 01/05/2025, alle ore 03:13, si eleva verbale al veicolo Alfa Romeo Stelvio, ciclomotore con targa MN456OP di tipo speciale, immatricolato in olanda, per violazione dell'articolo 1228, comma 16 del codice civile, ovvero parcheggio in doppia fila, rilevata in via della Pace, al civico 2. Non è stato possibile effettuare la contestazione immediata, per assenza del trasgressore. Dalla violazione derivano 10 punti di decurtazione. Stampa necessaria in lingua olandese via wifi, stampa anche la comunicazione. "
+}

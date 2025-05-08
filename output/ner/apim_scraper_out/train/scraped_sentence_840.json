@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il nove aprile duemilaventicinque alle ore ventuno e quarantatré per una violazione riscontrata su un motoveicolo marca Ha Mit sette, targato \"i miei centoventitre capelli\", proveniente dalla Francia. La violazione è avvenuta in via della Speranza, civico diciassette, per parcheggio in divieto di sosta, violando l'articolo \"attrezzi con ma undici\" del codice stradale. L'agente Sara Bellini ha proceduto con contestazione immediata e si prevede la decurtazione di tre punti dalla patente. La stampa è richiesta in olandese via Bluetooth/WIFI, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "ventuno i quarantatré",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "francia",
+                    "targa": "i miei centoventitre capelli",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "ha mit sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "undici",
+                    "comma": null,
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "via o weiwei ehi",
+            "lingua_stampa": "olandesi",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data nove aprile duemilaventicinque alle ore ventuno i quarantatré per la violazione riscontrata al veicolo motoveicoli marca ha mit sette targato i miei centoventitre capelli tipo copertura provenienti da francia in particolare in via della speranza civico diciassette è stato accertato parcheggio in divieto di sosta in violazione dell'articolo attrezzi con ma undici del codice stradale l'agente sara bellini a proceduto con contestazione immediata si prevede la decurtazioni di tre punti dalla patente richiedo la stampa in olandesi via o weiwei ehi non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 09/04/2025 alle ore 21:43 per la violazione riscontrata al veicolo motoveicolo, marca Yamaha MT-07, targato IJ123KL (tipo copertura) proveniente da francia. In particolare, in via della Speranza, civico 17, è stato accertato parcheggio in divieto di sosta, in violazione dell'articolo 13, comma 11 del codice stradale. L'agente Sara Bellini ha proceduto con contestazione immediata. Si prevede la decurtazione di 3 punti dalla patente. Richiedo la stampa in olandese via wifi, non stampare anche la comunicazione. "
+}

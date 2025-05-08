@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo rimorchio BMW con targa ufficiale proveniente dalla Germania. L'infrazione è avvenuta l'otto aprile 2025 alle ore 21:38 in via Etna, numero civico 45, per parcheggio in zona a rimozione, violando l'articolo 43 comma 41 del codice stradale. È prevista la decurtazione di un punto. La contestazione è stata eseguita immediatamente dall'agente Alessandro Moretti. La stampa del verbale è necessaria tramite WIFI in lingua tedesca e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "ventuno i trentotto",
+            "Strada_1": "via etna",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "guerra settecento ottantanove vestiti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "bmw jeff novecento eri",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: prevista, after: punti",
+            "tipo_stampa": "ho aifa",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazioni verbale in corso per il veicolo rimorchio di marca bmw jeff novecento eri con targa guerra settecento ottantanove vestiti tipo ufficiale provenienti da germania fatto avvenuto il otto aprile duemilaventicinque alle ore ventuno i trentotto posizione via etna numero civico quarantacinque infrazione parcheggio in zona a rimozione in violazione dell'articolo quarantatré comma quarantuno del codice stradale decurtazione prevista un punti si applica contestazione immediata da parte della gente alessandro moretti stampa necessaria tramite ho aifa in tedesco stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo rimorchio di marca BMW F 900 R, con targa QR789ST (tipo ufficiale), proveniente da germania. Fatto avvenuto il 08/04/2025 alle ore 21:38. Posizione: via Etnea, numero civico 45. Infrazione: parcheggio in zona rimozione, in violazione dell'articolo 43, comma 41, del codice stradale. Decurtazione prevista: 1 punti. Si applica contestazione immediata da parte dell'agente Alessandro Moretti. Stampa necessaria tramite wifi in tedesco, stampa anche la comunicazione. "
+}

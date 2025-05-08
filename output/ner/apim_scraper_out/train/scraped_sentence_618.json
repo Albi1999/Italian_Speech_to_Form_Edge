@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il dieci aprile duemilaventicinque alle ore diciannove e trentasei per un veicolo immatricolato in Croazia con targa ufficiale. L'infrazione è avvenuta in corso Buenos Aires al civico novantotto, violando il codice civile, articolo quarantatré, comma quarantuno. La contestazione è stata immediata e sono previsti otto punti da decurtare. La stampa del verbale è in tedesco tramite Bluetooth e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "diciannove trentasei",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "ci di quattrocentocinquanta sei e fedi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "amai mit zero sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno dieci aprile duemilaventicinque alle ore diciannove trentasei è stato redatto un verbale per il veicolo amai mit zero sette ciclomotori immatricolati in croazia con targa ci di quattrocentocinquanta sei e fedi tipo ufficiale l'infrazione avvenuta in corso buenos aires al civico novantotto e stata riscontrata una violazione del codice civile articolo quarantatré comma quarantuno vero parcheggio davanti a passo carabine il verbale è stato eseguito sul posto con contestazione immediata da parte della gente silvia neri sono previsti otto punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in tedesco tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Il giorno 10/04/2025, alle ore 19:36, è stato redatto un verbale per il veicolo Yamaha MT-07, ciclomotore immatricolato in croazia con targa CD456EF di tipo ufficiale. L'infrazione è avvenuta in corso Buenos Aires, al civico 98. È stata riscontrata una violazione del codice civile, articolo 43, comma 41 ovvero parcheggio davanti a passo carrabileIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Silvia Neri. Sono previsti 8 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in tedesco tramite bluetooth, stampa anche la comunicazione. "
+}

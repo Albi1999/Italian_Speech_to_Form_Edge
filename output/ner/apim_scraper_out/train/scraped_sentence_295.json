@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il ventotto aprile duemilaventicinque alle ore quattro meno dieci per un veicolo ciclomotore di marca Benelli Leoncino 500 con targa registrata in Croazia. La violazione è avvenuta in via Roma al numero 77 per parcheggio in divieto di sosta, secondo l'articolo 1228 comma 16 del codice penale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti sette punti di decurtazione. Si richiede la stampa della notifica tramite Wi-Fi in lingua spagnola, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "quattro meno dieci",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "i sei centocinquantaquattro chilometri",
+                    "tipologia_targa": "tipo copertura",
+                    "marca_modello": "ben elli leoncino cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "milleduecento ventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: previsti, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventotto aprile duemilaventicinque alle ore quattro meno dieci è stato emesso un preavviso di violazione per il veicolo ciclomotori di marca ben elli leoncino cinquecento con targa i sei centocinquantaquattro chilometri tipo copertura registrato in croazia l'inflazione è avvenuta in via roma al numero settantasette e consiste in parcheggio in divieto di sosta come previsto dall'articolo milleduecento ventotto con ma sedici del codice penale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti sette punti di decurtazione si prega di stampare la presente notifica tramite vuoi fai in lingua spagnolo stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 28/04/2025, alle ore 03:50, è stato emesso un preavviso di violazione per il veicolo ciclomotore di marca Benelli Leoncino 500, con targa IJ654KL (tipo copertura), registrato in croazia. L'infrazione è avvenuta in via Roma, al numero 77, e consiste in parcheggio in divieto di sosta, come previsto dall'articolo 1228, comma 16 del codice penale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 7 punti di decurtazione.  Si prega di stampare la presente notifica tramite wifi, in lingua spagnolo, stampa anche la comunicazione."
+}

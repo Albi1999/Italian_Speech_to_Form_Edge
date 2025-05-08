@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un motoveicolo marca Campati, modello sette centonovantadue, targato IEHI123, proveniente dal Belgio. La violazione riguarda il parcheggio in zona a rimozione in viale della Libertà al numero 22, avvenuta il 15 aprile 2025 alle ore 16:23. La violazione è in base all'articolo 20, comma 18 del codice penale, con una decurtazione di 10 punti. Si richiede la stampa del preavviso tramite WiFi in lingua tedesca, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "sedici ventitré",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "belgio",
+                    "targa": "i ehi centoventitre capelli",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "campati sette centonovantadue",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "wife",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissioni di preavviso per il veicolo motoveicoli marca campati sette centonovantadue targato i ehi centoventitre capelli di tipo copertura proveniente da belgio in data quindici aprile duemilaventicinque alle ore sedici ventitré e stata rilevata la violazione di parcheggio in zona a rimozione inviarle della libertà al numero ventidue in base all'articolo venti comma diciotto del codice penale per tale infrazione sono previsti dieci punti di decurtazione si richiede la stampa del preavviso tramite wife in lingua tedesco stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo motoveicolo, marca KTM 790 Duke, targato IJ123KL di tipo copertura, proveniente da belgio. In data 15/04/2025 alle ore 16:23, è stata rilevata la violazione di parcheggio in zona rimozione in viale della Libertà, al numero 22, in base all'articolo 20, comma 18 del codice penale. Per tale infrazione sono previsti 10 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua tedesco, stampa anche la comunicazione. "
+}

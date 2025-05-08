@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 29 aprile 2025 alle ore 12 per un veicolo Tooth Aris, ciclomotore immatricolato in Belgio con targa JEFF 789 GIA di tipo prova. L'infrazione è avvenuta in via della Libertà al civico 3, con violazione del codice penale articolo 42 comma 40 per parcheggio davanti a passo carabine. La contestazione immediata non è stata possibile a causa dell'assenza del trasgressore. Sono previsti nove punti da decurtare, senza sanzioni accessorie. La stampa è in francese tramite WiFi e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "dodici",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "belgio",
+                    "targa": "jeff settecento ottantanove gia",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "tooth aris",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantadue",
+                    "comma": "quaranta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventinove aprile duemilaventicinque alle ore dodici è stato redatto un verbale per il veicolo tooth aris ciclomotori immatricolati in belgio con targa è jeff settecento ottantanove gia di tipo prova l'infrazione avvenuta in via della libertà al civico tre e stata riscontrata una violazione del codice penale articolo quarantadue come quaranta ovvero parcheggio davanti a passo carabine non è stato possibile contestare sul posto a causa della senza del trasgressori sono previsti nove punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in francese tramite fai stampa anche la comunicazione",
+    "original_sentence": "Il giorno 29/04/2025, alle ore 12:00, è stato redatto un verbale per il veicolo Toyota Yaris, ciclomotore immatricolato in belgio con targa EF789GH di tipo prova. L'infrazione è avvenuta in via della Libertà, al civico 3. È stata riscontrata una violazione del codice penale, articolo 42, comma 40 ovvero parcheggio davanti a passo carrabileNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 9 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in francese tramite wifi, stampa anche la comunicazione. "
+}

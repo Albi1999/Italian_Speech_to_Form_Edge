@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è una macchina agricola marca Onda Cibi Jerry 650, targata Cappelle 320 1 Megan Houston, di tipo copertura, proveniente dalla Germania. L'infrazione è stata rilevata il 27 aprile 2025 alle ore 13:48 in via della Libertà, civico 3, per transito in zona accesso vietato, violando l'articolo 13 comma 11 del codice civile. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la perdita di 4 punti. Si richiede la stampa del verbale in olandese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "tredici e quarantotto",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "cappelle trecentoventi uno megan houston",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "onda cibi jerry seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "tredici",
+                    "comma": "undici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: perdita, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina agricola marca onda cibi jerry seicentocinquanta targato cappelle trecentoventi uno megan houston di tipo copertura proveniente da germania l'infrazione e stata rilevata il ventisette aprile duemilaventicinque alle ore tredici e quarantotto il veicolo si trovava in via della libertà al civico tre in transito in zona accesso vietato violando l'articolo tredici comma undici del codice civile non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazione comporta la perdita di quattro punti richiedo la stampa del verbale in olandese tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina agricola, marca Honda CBR650R, targato KL321MN (di tipo copertura), proveniente da germania.  L'infrazione è stata rilevata il 27/04/2025 alle ore 13:48. Il veicolo si trovava in via della Libertà, al civico 3, in transito in zona accesso vietato, violando l'articolo 13, comma 11, del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 4 punti.  Richiedo la stampa del verbale in olandese tramite wifi, stampa anche la comunicazione."
+}

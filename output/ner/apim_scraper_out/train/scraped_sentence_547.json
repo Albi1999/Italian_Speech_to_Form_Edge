@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione stradale avvenuta il 26 aprile 2025 alle ore 19:00. La violazione riguarda un veicolo ciclomotore marca Se Akhtar, targato 789 CD, proveniente dall'Austria, parcheggiato davanti a un passo carrabile in Corso della Libertà, civico 7. L'agente Giulia Costa ha proceduto con contestazione immediata per la violazione dell'articolo 10, comma 8 del codice stradale. È prevista la decurtazione di due punti dalla patente. La stampa del verbale è richiesta in olandese via WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "diciannove",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "austria",
+                    "targa": "settecento ottantanove ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "se akhtar una",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dieci",
+                    "comma": "otto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data ventisei aprile duemilaventicinque alle ore diciannove per la violazione riscontrata al veicolo ciclomotori marca se akhtar una targato settecento ottantanove ci di tipo speciale il proveniente da austria in particolare in corso della libertà civico sette è stato accertato parcheggio davanti a passo cary abile in violazione dell'articolo dieci coma otto del codice stradale l'agente giulia costa proceduto con contestazione immediata si prevede la decurtazione di due punti dalla patente richiedo la stampa in olandese via wifi non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 26/04/2025 alle ore 19:00 per la violazione riscontrata al veicolo ciclomotore, marca Seat Arona, targato AB789CD (tipo speciale) proveniente da austria. In particolare, in corso della Libertà, civico 7, è stato accertato parcheggio davanti a passo carrabile, in violazione dell'articolo 10, comma 8 del codice stradale. L'agente Giulia Costa ha proceduto con contestazione immediata. Si prevede la decurtazione di 2 punti dalla patente. Richiedo la stampa in olandese via wifi, non stampare anche la comunicazione. "
+}

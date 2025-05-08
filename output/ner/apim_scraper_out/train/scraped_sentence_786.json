@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale emesso il 27 aprile 2025 alle 20:39 per un'infrazione accertata in viale della Vittoria, civico 9. La violazione riguarda il codice stradale, articolo 131, comma 9, per parcheggio su strisce pedonali. Il veicolo coinvolto è un ciclomotore con targa ME 4506, immatricolato in Francia. Sono previsti 8 punti da decurtare. La contestazione è stata immediata, effettuata dall'agente Giulia Costa, e il verbale è stato redatto sul posto. La stampa è stata effettuata tramite Bluetooth in olandese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "venti e trentanove",
+            "Strada_1": "viali della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "me ne quattrocentocinquanta sei",
+                    "tipologia_targa": null,
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata dalla gente giulia costa",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centotrentuno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle venti e trentanove del ventisette aprile duemilaventicinque storie dicendo un verbale per il veicolo ciclomotori targato me ne quattrocentocinquanta sei ho più con targa copertura immatricolati in francia l'infrazione stata accertata in viali della vittoria al civico nove con violazione del codice stradale articolo centotrentuno comma nove per parcheggio su strisce pedonali sono previsti ho tu punti da decurtare contestazione immediata effettuata dalla gente giulia costa il verbale statore dato sul posto in viale della vittoria non posso applicare alcuna sanzioni accessoria stampa tramite blu tutte in olandese stampa anche la comunicazione",
+    "original_sentence": "Alle 20:39 del 27/04/2025, sto redigendo un verbale per il veicolo ciclomotore targato MN456OP con targa copertura, immatricolato in franciaL'infrazione è stata accertata in viale della Vittoria, al civico 9, con violazione del codice stradale, articolo 121,comma 9 per parcheggio su strisce pedonali Sono previsti 8 punti da decurtare. Contestazione immediata effettuata dall'agente Giulia Costa, il verbale è stato redatto sul posto in viale della Vittoria. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in olandese, stampa anche la comunicazione. "
+}

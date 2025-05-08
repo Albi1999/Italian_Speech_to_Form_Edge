@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il 23 aprile 2025 alle ore 18:21. Un verbale è stato emesso per un veicolo immatricolato in Olanda con targa \"i sette centottantanove capelli\". La violazione riguarda l'articolo 158, comma 2 del codice stradale, per parcheggio in doppia fila in via dei giardini al civico 8. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di nove punti. La stampa è richiesta in lingua tedesca tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "diciotto e ventuno",
+            "Strada_1": "via dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "olanda",
+                    "targa": "i sette centottantanove capelli",
+                    "tipologia_targa": null,
+                    "marca_modello": "casacche in in già seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: derivano, after: decurtazione",
+            "tipo_stampa": "via hawaii fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventitré aprile duemilaventicinque alle ore diciotto e ventuno se ne va verbale al veicolo casacche in in già seicentocinquanta autovettura con targa i sette centottantanove capelli di tipo copertura immatricolati in olanda per violazione dell'articolo centocinquantotto con ma due del codice stradale ovvero parcheggiato in doppia fila rilevata inviare dei giardini al civico otto non è stato possibile effettuare la contestazione immediata per assenza del trasgressori dalla violazione derivano nove punti di decurtazione stampa necessaria in lingua tedesco via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "In data 23/04/2025, alle ore 18:21, si eleva verbale al veicolo Kawasaki Ninja 650, autovettura con targa IJ789KL di tipo copertura, immatricolato in olanda, per violazione dell'articolo 158, comma 2 del codice stradale, ovvero parcheggio in doppia fila, rilevata in viale dei Giardini, al civico 8. Non è stato possibile effettuare la contestazione immediata, per assenza del trasgressore. Dalla violazione derivano 9 punti di decurtazione. Stampa necessaria in lingua tedesco via wifi, non stampare anche la comunicazione. "
+}

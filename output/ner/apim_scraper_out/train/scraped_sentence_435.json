@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il dieci aprile duemilaventicinque alle ore mezzogiorno e trentanove per una violazione del codice penale. L'infrazione è avvenuta in via della musica al civico diciotto. Il veicolo coinvolto è una macchina agricola immatricolata in Spagna con targa BEH 320 1 C di tipo ufficiale. La contestazione è stata eseguita immediatamente sul posto dall'agente Elena Fontana. Sono previsti sette punti da decurtare, ma non è stata applicata alcuna sanzione accessoria. La stampa del verbale è richiesta in francese tramite Wi-Fi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "mezzogiorno e trentanove",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "beh trecentoventi uno c",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "peggior duemilaotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno dieci aprile duemilaventicinque alle ore è mezzogiorno e trentanove e stato redatto un verbale per il veicolo peggior duemilaotto macchina agricola immatricolati in spagna con targa beh trecentoventi uno c di tipo ufficiale l'infrazione avvenuta in via della musica al civico diciotto e stata riscontrata una violazione del codice penale articolo quarantasei comma quarantaquattro vero parcheggio davanti a passo arrabbi le verbale è stato eseguito sul posto con contestazione immediata da parte della gente elena fontana sono previsti sette punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in francese tramite guai fai non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 10/04/2025, alle ore 12:39, è stato redatto un verbale per il veicolo Peugeot 2008, macchina agricola immatricolato in spagna con targa AB321CD di tipo ufficiale.L'infrazione è avvenuta in via della Musica, al civico 18. È stata riscontrata una violazione del codice penale, articolo 46, comma 44 ovvero parcheggio davanti a passo carrabileIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Elena Fontana. Sono previsti 7 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in francese tramite wifi, non stampare anche la comunicazione."
+}

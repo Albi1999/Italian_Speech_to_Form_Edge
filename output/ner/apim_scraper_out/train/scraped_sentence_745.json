@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo macchina operatrice con targa \"abby sei centocinquantaquattro di di\" proveniente dalla Croazia. L'infrazione è il parcheggio in divieto di sosta, verificata il cinque maggio duemilaventicinque alle ore undici, in via della Musica al numero diciotto. La violazione è secondo l'articolo sei comma uno a uno a dodici del codice penale e comporta una decurtazione di cinque punti. Si richiede la stampa in lingua tedesca, modalità \"hawaii fai\", e di non stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "undici",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "abby sei centocinquantaquattro di di",
+                    "tipologia_targa": null,
+                    "marca_modello": "o il corsa",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sei",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa abby sei centocinquantaquattro di di tipo copertura marca o il corsa proveniente da croazia l'infrazione nello specifico parcheggio in divieto di sosta se verificata in data cinque maggio duemilaventicinque alle ore undici eventi in via della musica al numero diciotto articolo sei comma uno a uno a dodici del codice penale si comunica che dalla violazione conseguirà una decurtazione di cinque punti si richiede la stampa in lingua tedesco modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa AB654CD di tipo copertura, marca Opel Corsa, proveniente da croazia. L'infrazione, nello specifico parcheggio in divieto di sosta, si è verificata in data 05/05/2025 alle ore 11:20 in via della Musica, al numero 18 (articolo 6, comma 1a(1-12) del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 5 punti. Si richiede la stampa in lingua tedesco, modalità wifi, non stampare anche la comunicazione. "
+}

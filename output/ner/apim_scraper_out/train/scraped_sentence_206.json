@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo rimorchio con targa speciale proveniente dall'Olanda. L'infrazione è avvenuta il quattro maggio duemilaventicinque alle ore diciannove e sedici, per parcheggio su strisce pedonali. La violazione comporterà una decurtazione di nove punti. Si richiede la stampa in lingua spagnola tramite Bluetooth e di stampare anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattro omaggio duemilaventicinque",
+            "ora_violazione": "diciannove sedici",
+            "Strada_1": null,
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "olanda",
+                    "targa": "quattrocentocinquanta sei occhi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "bmw jeff novecento serve",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa quattrocentocinquanta sei occhi di tipo speciale marca bmw jeff novecento serve proveniente da olanda l'infrazione nello specifico parcheggio su strisce pedonali sia e verificata in data quattro omaggio duemilaventicinque alle ore diciannove sedici inviarle della stazione al numero quattro articolo tre con ma uno del codice stradale si comunica che dalla violazione conseguirà una decurtazione di nove punti si richiede la stampa in lingua spagnolo modalità blu tu stampa anche la comunicativa",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa MN456OP di tipo speciale, marca BMW F 900 XR, proveniente da olanda. L'infrazione, nello specifico parcheggio su strisce pedonali, si è verificata in data 04/05/2025 alle ore 19:16 in viale della Stazione, al numero 4 (articolo 3, comma 1 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 9 punti.Si richiede la stampa in lingua spagnolo, modalità bluetooth, stampa anche la comunicazione."
+}

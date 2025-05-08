@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 17 aprile 2025 alle ore 4:52 in Viale della Concordia, civico 13. La violazione riguarda un veicolo Fiat Panda, macchina agricola, con targa \"exile on 987\" di tipo ufficiale, immatricolato in Olanda. La violazione contestata è il parcheggio in zona a rimozione, in base all'articolo 51 comma 49 del codice penale. La contestazione è avvenuta immediatamente da parte dell'agente Bellini. Sono previsti dieci punti di decurtazione. Si richiede la stampa in lingua spagnola via WiFi e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "quattro e cinquantadue",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "olanda",
+                    "targa": "exile on novecentottanta sette",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fiat panda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquantuno",
+                    "comma": "quarantanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: punti",
+            "tipo_stampa": "wife ehi",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbale per violazione accertata il diciassette aprile duemilaventicinque alle ore quattro e cinquantadue inviarle della concordia al civico tredici a carico del veicolo fiat panda macchina agricola con targa exile on novecentottanta sette di tipo ufficiale immatricolati in olanda la violazione contestata e parcheggio in zona a rimozione in base a l'articolo cinquantuno comma quarantanove del codice penale la contestazione avvenuta immediatamente da parte della gente sara bellini sono previsti dieci punti di decurtazione si richiede la stampa in lingua spagnolo via wife ehi stampa anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 17/04/2025 alle ore 04:52 in viale della Concordia, al civico 13, a carico del veicolo Fiat Panda, macchina agricola con targa XY987ZA di tipo ufficiale, immatricolato in olanda. La violazione contestata è parcheggio in zona rimozione, in base all'articolo 51, comma 49 del codice penale. La contestazione è avvenuta immediatamente da parte dell'agente Sara Bellini. Sono previsti 10 punti di decurtazione. Si richiede la stampa in lingua spagnolo via wifi, stampa anche la comunicazione. "
+}

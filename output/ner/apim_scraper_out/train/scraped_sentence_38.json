@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è un'autovettura BMW Jeff 900 con targa ufficiale proveniente dal Belgio. L'infrazione è stata rilevata il 22 aprile 2025 alle 14:58 in via della Concordia, civico 14, per parcheggio in zona a rimozione. La violazione riguarda l'articolo 45, comma 43 del codice penale. Non è stata possibile la contestazione immediata per l'assenza del trasgressore. La violazione comporta la perdita di 3 punti. Si richiede la stampa del verbale in spagnolo tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "quattordici e cinquantotto",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "belgio",
+                    "targa": "ci di quattrocentocinquanta sei jeff",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "bmw jeff novecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo autovettura marca bmw jeff novecento targato ci di quattrocentocinquanta sei jeff di tipo ufficiale proveniente da belgio l'infrazione stata rilevata il ventidue aprile duemilaventicinque alle ore quattordici e cinquantotto il veicolo si trovava in via della concordia al civico quattordici in parcheggio in zona a rimozione violando l'articolo quarantacinque con ma quarantatré del codice penale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazione comporta la perdita di tre punti richiedo la stampa del verbale in spagnolo tramite guai fai stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo autovettura, marca BMW F 900 R, targato CD456EF (di tipo ufficiale), proveniente da belgio.  L'infrazione è stata rilevata il 22/04/2025 alle ore 14:58. Il veicolo si trovava in via della Concordia, al civico 14, in parcheggio in zona rimozione, violando l'articolo 45, comma 43, del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 3 punti.  Richiedo la stampa del verbale in spagnolo tramite wifi, stampa anche la comunicazione."
+}

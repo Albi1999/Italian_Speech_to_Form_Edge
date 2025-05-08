@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione riscontrata il 9 aprile 2025 alle ore 14:14, riguardante un veicolo macchina agricola marca SE Akhtar Jona, targato 450 6 occhi, proveniente dall'Olanda. La violazione è avvenuta in via della Libertà, civico 21, per parcheggio davanti a passo carabine, violando l'articolo 12, comma 10 del codice stradale. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di 4 punti dalla patente. La stampa è richiesta in francese via Hawaii, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "quattordici e quattordici",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "olanda",
+                    "targa": "quattrocentocinquanta sei occhi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "se akhtar jona",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data a nove aprile duemilaventicinque alle ore quattordici e quattordici per la violazione riscontrata al veicolo macchina agricola marca se akhtar jona targato quattrocentocinquanta sei occhi tipo copertura proveniente da olanda in particolare in via della libertà civico ventuno è stato accertato parcheggio davanti a passo carabine in violazione dell'articolo dodici con ma dieci del codice stradale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di quattro punti dalla patente richiedo la stampa in francese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 09/04/2025 alle ore 14:14 per la violazione riscontrata al veicolo macchina agricola, marca Seat Arona, targato MN456OP (tipo copertura) proveniente da olanda. In particolare, in via della Libertà, civico 21, è stato accertato parcheggio davanti a passo carrabile, in violazione dell'articolo 12, comma 10 del codice stradale. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 4 punti dalla patente. Richiedo la stampa in francese via wifi, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per una violazione di parcheggio in doppia fila. La violazione è stata rilevata il quattro maggio duemilaventicinque alle ore undici e ventiquattro in corso della storia al numero ventidue. Il veicolo coinvolto è una macchina operatrice proveniente dalla Croazia, targata \"i miei quattrocentocinquanta sei\". La violazione è in base all'articolo quarantasette, comma quarantacinque del codice penale, con una decurtazione di cinque punti. Si richiede la stampa del preavviso tramite Bluetooth in lingua portoghese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "undici ventiquattro",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "i miei quattrocentocinquanta sei",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: previsti, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo macchina operatrice mancare non catture targato i miei quattrocentocinquanta sei capace di tipo prova proveniente da croazia in data quattro maggio duemilaventicinque alle ore undici ventiquattro e stata rilevata da violazione di parcheggia in doppia fila in corso della storia al numero ventidue in base al l'articolo quarantasette coma quarantacinque del codice penale per tale infrazione sono previsti cinque punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua portoghese non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina operatrice, marca Renault Captur, targato IJ456KL di tipo prova, proveniente da croazia. In data 04/05/2025 alle ore 11:24, è stata rilevata la violazione di parcheggio in doppia fila in corso della Storia, al numero 22, in base all'articolo 47, comma 45 del codice penale. Per tale infrazione sono previsti 5 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua portoghese, non stampare anche la comunicazione. "
+}

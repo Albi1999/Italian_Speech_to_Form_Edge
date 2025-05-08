@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il tredici aprile duemilaventicinque alle ore venti e tre minuti per una violazione riscontrata a un veicolo rimorchio marca Si Troy Incitare, targato E Jeff 450 6 Giacca, proveniente dalla Slovenia. La violazione è avvenuta in piazza Venezia, civico uno, per parcheggio davanti a passo carabine, violando l'articolo 47 comma 45 del codice stradale. L'agente Carlo Bruni ha proceduto con contestazione immediata e si prevede la decurtazione di otto punti dalla patente. La stampa è richiesta in tedesco via Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "venti e tre minuti",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "slovenia",
+                    "targa": "e jeff quattrocentocinquanta sei giacca",
+                    "tipologia_targa": null,
+                    "marca_modello": "si troy incitare",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data tredici aprile duemilaventicinque alle ore venti e tre minuti per la violazione riscontrata al veicolo rimorchio marca si troy incitare targato e jeff quattrocentocinquanta sei giacca tipo copertura proveniente da slovenia in particolare in piazza venezia civico uno stato accertato parcheggio davanti a passo carabine in violazione dell'articolo quarantasette comma quarantacinque del codice stradale l'agente carlo bruni a proceduto con contestazione immediata si prevede la decurtazione di otto punti dalla patente richiedo la stampa in tedesco via blood non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 13/04/2025 alle ore 20:03 per la violazione riscontrata al veicolo rimorchio, marca Citroen C3, targato EF456GH (tipo copertura) proveniente da slovenia. In particolare, in piazza Venezia, civico 1, è stato accertato parcheggio davanti a passo carrabile, in violazione dell'articolo 47, comma 45 del codice stradale. L'agente Carlo Bruni ha proceduto con contestazione immediata. Si prevede la decurtazione di 8 punti dalla patente. Richiedo la stampa in tedesco via bluetooth, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto l'otto aprile 2025 alle undici e dodici per un veicolo immatricolato in Svizzera, targato ABE 123 CD con targa prova. L'infrazione è stata accertata in Corso Italia, civico 30, per parcheggio in divieto di sosta, violando il codice stradale, articolo 40, comma 38. Sono previsti tre punti da decurtare. La contestazione è stata immediata, effettuata dall'agente Elena Fontana. La stampa del verbale è stata effettuata tramite Wi-Fi in francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "undici e dodici",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "svizzera",
+                    "targa": "abe centoventitre ci di",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle undici e dodici dell'otto aprile duemilaventicinque storie di gendo un verbale per il veicolo molto veicolo targato abe centoventitre ci di con targa prova immatricolati in svizzera l'infrazione e stata accertata in corso italia al civico trenta con violazione del codice stradale articolo quaranta con ma trentotto per parcheggiato in divieto di sosta sono previsti tre punti da decurtare contestazione immediata effettuata dalla gente elena fontana il verbale è statore d'atto sul posto in corso italia non posso applicare alcuna sanzione accessoria stampa tramite vuoi fai in francese non stampare anche la comunicazione",
+    "original_sentence": "Alle 11:12 del 08/04/2025, sto redigendo un verbale per il veicolo motoveicolo targato AB123CD con targa prova, immatricolato in svizzeraL'infrazione è stata accertata in corso Italia, al civico 30, con violazione del codice stradale, articolo 40,comma 38 per parcheggio in divieto di sosta Sono previsti 3 punti da decurtare. Contestazione immediata effettuata dall'agente Elena Fontana, il verbale è stato redatto sul posto in corso Italia. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in francese, non stampare anche la comunicazione."
+}

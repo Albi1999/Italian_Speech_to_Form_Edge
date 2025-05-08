@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo rimorchio di marca Suzuki con targa ufficiale proveniente dalla Grecia. L'infrazione è avvenuta il 9 aprile 2025 alle 14:36 in via della Speranza, numero civico 18, per parcheggio in zona a rimozione, violando l'articolo dolci comma 10 del codice stradale. La decurtazione prevista è di sette punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è necessaria tramite WIFI in francese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "quattordici e trentasei",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "centoventitre ci",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "suzuki",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dolci",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: decurtazione, after: punti",
+            "tipo_stampa": "ho aifa",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazioni verbale in corso per il veicolo rimorchio di marca suzuki evitare con targa centoventitre ci di tipo ufficiale proveniente da grecia fatto avvenuto in nove aprile duemilaventicinque alle i quattordici e trentasei posizione via della speranza numero civico diciotto infrazione parcheggio in zona a rimozione in violazione dell'articolo dolci comma dieci del codice stradale decurtazione prevista sette punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite ho aifa in francese non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo rimorchio di marca Suzuki Vitara, con targa AB123CD (tipo ufficiale), proveniente da grecia. Fatto avvenuto il 09/04/2025 alle ore 14:36. Posizione: via della Speranza, numero civico 18. Infrazione: parcheggio in zona rimozione, in violazione dell'articolo 12, comma 10, del codice stradale. Decurtazione prevista: 7 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in francese, non stampare anche la comunicazione. "
+}

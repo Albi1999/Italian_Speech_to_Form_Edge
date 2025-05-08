@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il tre maggio 2025 alle ore 19:02 per una violazione riscontrata su un veicolo macchina agricola marca Scorda Fabia, targato Guerre 987 ST, tipo prova, proveniente dal Belgio. La violazione è avvenuta in via della Musica, civico 18, per parcheggio in zona a rimozione, violando l'articolo 17, comma 15 del codice penale. La contestazione non è stata immediata a causa dell'assenza del conducente. Sono previsti sette punti di decurtazione dalla patente. Si richiede la stampa in tedesco via Hawaii e di non stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "diciannove due minuti",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "scorda fabia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data tre maggio duemilaventicinque alle ore diciannove due minuti per la violazione riscontrata al veicolo macchina agricola marca scorda fabia targato guerre novecentottanta sette se ti tipo prova proveniente da belgio in particolare in via della musica civico diciotto è stato accertato parcheggio in zona a rimozione in violazione dell'articolo diciassette con ma quindici del codice penale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di sette punti dalla patente richiedo la stampa in tedesco via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 03/05/2025 alle ore 19:02 per la violazione riscontrata al veicolo macchina agricola, marca Skoda Fabia, targato QR987ST (tipo prova) proveniente da belgio. In particolare, in via della Musica, civico 18, è stato accertato parcheggio in zona rimozione, in violazione dell'articolo 17, comma 15 del codice penale. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 7 punti dalla patente. Richiedo la stampa in tedesco via wifi, non stampare anche la comunicazione."
+}

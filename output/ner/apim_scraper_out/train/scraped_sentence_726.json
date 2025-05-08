@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo rimorchio con targa ufficiale proveniente dalla Grecia. L'infrazione, parcheggio in doppia fila, è avvenuta il sei maggio 2025 alle ore 21:41 in via della Pace, numero civico 2. La violazione è in riferimento all'articolo 22, comma 20 del codice penale, e comporterà la decurtazione di nove punti. Si richiede la stampa in lingua francese, modalità Bluetooth, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "ventuno e quarantuno",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "ci di centoventitre ad",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "dei deve street settecentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventidue",
+                    "comma": "venti",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazioni per il veicolo rimorchio con targa ci di centoventitre ad di tipo ufficiale marca dei deve street settecentocinquanta proveniente da grecia l'infrazione nello specifico parcheggio in doppia fila sia verificata in data sei maggio duemilaventicinque alle ore ventuno e quarantuno in via della pace al numero due articolo ventidue con ma venti del codice penale si comunica che dalla violazione conseguirà una decurtazioni di nove punti si richiede la stampa in lingua francese modalità blu tutta stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa CD123AB di tipo ufficiale, marca Harley-Davidson Street 750, proveniente da grecia. L'infrazione, nello specifico parcheggio in doppia fila, si è verificata in data 06/05/2025 alle ore 21:41 in via della Pace, al numero 2 (articolo 22, comma 20 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 9 punti. Si richiede la stampa in lingua francese, modalità bluetooth, stampa anche la comunicazione. "
+}

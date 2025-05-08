@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il quattro maggio duemilaventicinque alle ore diciassette e ventotto per una violazione del codice penale. L'infrazione è avvenuta in via della pace al civico due, con un veicolo Skoda Fabia immatricolato in Olanda. La violazione riguarda l'articolo centoventi uno, comma nove, per parcheggio in divieto di sosta. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti due punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è richiesta in portoghese tramite Wi-Fi, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro omaggio duemilaventicinque",
+            "ora_violazione": "diciassette ventotto",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "olanda",
+                    "targa": "icsi ypsilon novecentottanta sette sa",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "skoda fabia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centoventi uno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno quattro omaggio duemilaventicinque alle ore diciassette ventotto è stato redatto un verbale per il veicolo skoda fabia macchina operatrice immatricolati in olanda con targa icsi ypsilon novecentottanta sette sa di tipo copertura l'infrazione avvenuta in via della pace al civico due stata riscontrata una violazione del codice penale articolo centoventi uno con ma nove ovvero parcheggiato in divieto di sosta non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti due punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in portoghese tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 04/05/2025, alle ore 17:28, è stato redatto un verbale per il veicolo Skoda Fabia, macchina operatrice immatricolato in olanda con targa XY987ZA di tipo copertura.L'infrazione è avvenuta in via della Pace, al civico 2. È stata riscontrata una violazione del codice penale, articolo 121, comma 9 ovvero parcheggio in divieto di sostaNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 2 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in portoghese tramite wifi, non stampare anche la comunicazione."
+}

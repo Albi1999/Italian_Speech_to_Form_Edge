@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo con targa \"guerra sette centottantanove\" immatricolato in Germania. L'infrazione è avvenuta il quattro maggio duemilaventicinque alle ore una e trentadue in corso Italia, civico trenta, per parcheggio su strisce pedonali. La violazione è ai sensi dell'articolo sedici comma quattordici del codice penale. La contestazione è stata eseguita immediatamente dall'agente Marco Gentili e comporta la decurtazione di due punti. La stampa è richiesta in spagnolo via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro omaggio duemilaventicinque",
+            "ora_violazione": "una e trentadue",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "guerra sette centottantanove",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "onda devi",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sedici",
+                    "comma": "quattordici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo onda devi rimorchio targa guerra sette centottantanove se ti di tipo prova immatricolati in germania per infrazione commessa in data quattro omaggio duemilaventicinque ore una e trentadue in corso italia civico trenta è stato rilevato parcheggio su strisce pedonali ai sensi dell'articolo sedici comma quattordici del codice penale contestazione immediata eseguita dall'agente marco gentili la violazione comporta la decurtazione di due punti richiesta stampa in spagnolo via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Honda HR-V rimorchio, targa QR789ST di tipo prova, immatricolato in germania, per infrazione commessa in data 04/05/2025, ore 01:32. In corso Italia, civico 30, è stato rilevato parcheggio su strisce pedonali, ai sensi dell'articolo 16, comma 14, del codice penale.Contestazione immediata eseguita dall'agente Marco Gentili. La violazione comporta la decurtazione di 2 punti. Richiesta stampa in spagnolo via bluetooth, non stampare anche la comunicazione."
+}

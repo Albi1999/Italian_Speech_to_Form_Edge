@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Lancia Delta, immatricolato in Croazia, con targa speciale. L'infrazione è avvenuta in viale della Libertà, civico 22, per parcheggio su strisce pedonali. Si applica l'articolo 27, comma 25 del codice penale, con la decurtazione di sette punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. La stampa deve essere effettuata in olandese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "croazia",
+                    "targa": "ab sette centottantanove ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "lancia delta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventisette",
+                    "comma": "venticinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo lancia delta macchina agricola immatricolati in croazia con targa ab sette centottantanove ci di di tipo speciale l'infrazione e avvenuta in viale della libertà civico ventidue parcheggio su strisce pedonali si applica l'articolo ventisette con ma venticinque del codice penale a seguito della violazione verranno decurtati sette punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in olandese tramite blood stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Lancia Delta, macchina agricola immatricolato in croazia con targa AB789CD di tipo speciale. L'infrazione è avvenuta in viale della Libertà, civico 22: parcheggio su strisce pedonali. Si applica l'articolo 27, comma 25 del codice penale. A seguito della violazione verranno decurtati 7 punti.A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in olandese tramite bluetooth, stampa anche la comunicazione."
+}

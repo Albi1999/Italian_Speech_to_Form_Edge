@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un'infrazione stradale commessa da un veicolo Subaru con targa slovena. L'infrazione è avvenuta il 28 aprile 2025 alle ore 22:38 in via Venti Settembre, civico 5, per parcheggio davanti a passo caramelle. La violazione è stata contestata immediatamente dall'agente Chiara Romano e comporta la decurtazione di quattro punti. La stampa del verbale è richiesta in lingua olandese tramite Hawaii, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "ventidue trentotto",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "centoventitre giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentatré",
+                    "comma": "trentuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo subaru quindicesimo autovettura targa è centoventitre giacca di tipo prova immatricolati slovenia per infrazione commessa in data ventotto aprile duemilaventicinque ore ventidue trentotto in via venti settembre civico cinque è stato rilevato parcheggio davanti a passo caramelle ai sensi dell'articolo trentatré comma trentuno del codice stradale contestazione immediata eseguita dall'agente chiara romano la violazione comporta la decurtazione di quattro punti richiesta stampa in olandese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Subaru XV autovettura, targa EF123GH di tipo prova, immatricolato in slovenia, per infrazione commessa in data 28/04/2025, ore 22:38. In via XX Settembre, civico 5, è stato rilevato parcheggio davanti a passo carrabile, ai sensi dell'articolo 33, comma 31, del codice stradale. Contestazione immediata eseguita dall'agente Chiara Romano. La violazione comporta la decurtazione di 4 punti. Richiesta stampa in olandese via wifi, stampa anche la comunicazione. "
+}

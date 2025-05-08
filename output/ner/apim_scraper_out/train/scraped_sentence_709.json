@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo immatricolato in Slovenia. La violazione è avvenuta il 15 aprile 2025 alle ore 13:53 in Piazza Venezia, numero civico 1, per parcheggio in divieto di sosta secondo l'articolo 6, comma 4 del codice stradale. Sono previsti due punti di decurtazione. Si richiede la stampa digitale del preavviso in lingua spagnola tramite Wi-Fi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "tredici e cinquantatré",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "slovenia",
+                    "targa": "settecento ottantanove giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "su giochi di tara",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: di",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo macchina operatrice marca su giochi di tara targa settecento ottantanove giacca di tipo copertura immatricolati in slovenia la violazione è avvenuta il quindici aprile duemilaventicinque alle ore tredici e cinquantatré in piazza venezia al numero civico uno ed è relativa parcheggiato in divieto di sosta in base alle articolo sei ma quattro del codice stradale per tale violazione sono previsti due punti di decurtazione si richiede la stampa digitale preavviso in lingua spagnolo tramite guai fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo macchina operatrice, marca Suzuki Vitara, targa EF789GH di tipo copertura, immatricolato in slovenia. La violazione è avvenuta il 15/04/2025 alle ore 13:53 in piazza Venezia, al numero civico 1, ed è relativa a parcheggio in divieto di sosta, in base all'articolo 6, comma 4 del codice stradale. Per tale violazione sono previsti 2 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua spagnolo tramite wifi, non stampare anche la comunicazione. "
+}

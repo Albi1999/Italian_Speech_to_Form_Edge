@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 7 aprile 2025 alle ore 23:16 per un veicolo con rimorchio immatricolato in Slovenia, targa GIA Cappa 567 OH. L'infrazione è avvenuta in via Etna, civico 45, violando il codice penale, articolo 12, comma 10, riguardante il parcheggio in divieto di sosta. Sono stati decurtati 3 punti, senza sanzioni accessorie. Il rimorchio è blu, con numero di telaio 210013552 e massa 1073 kg. La stampa deve essere effettuata in portoghese, con il Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "ventitré sedici",
+            "Strada_1": "via etna",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "slovenia",
+                    "targa": "gia cappa cinquecento sessantasette oh piedi",
+                    "tipologia_targa": null,
+                    "marca_modello": "mas da due",
+                    "colore": "blu"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il sette aprile duemilaventicinque alle ore ventitré sedici sto mettendo una notifica di infrazione per il veicolo mas da due rimorchio immatricolati in slovenia con targa gia cappa cinquecento sessantasette oh piedi tipo copertura l'infrazione si e verificata presso via etna al civico quarantacinque violando il codice penale in particolare l'articolo dodici comma dieci riguardante il parcheggio in divieto di sosta devo decurtare tre punti non è necessaria alcuna sanzione accessoria il rimorchio e di colore blu con numero di telaio due uno zero zero uno tre cinque cinque due massa mille settantatre chili stampa me lo con il blu tutti in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Il 07/04/2025, alle ore 23:16, sto emettendo una notifica di infrazione per il veicolo Mazda 2, rimorchio immatricolato in slovenia con targa JK567OP di tipo copertura. L'infrazione si è verificata presso via Etnea, al civico 45, violando il codice penale, in particolare l'articolo 12, comma 10 riguardante il parcheggio in divieto di sosta. Devo decurtare 3 punti. Non è necessaria alcuna sanzione accessoria. Il rimorchio è di colore blu, con numero di telaio 210013552 e massa 1073 kg. Stampamelo con il bluetooth in portoghese, non stampare anche la comunicazione. "
+}

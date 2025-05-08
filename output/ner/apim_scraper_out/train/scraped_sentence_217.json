@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il 18 aprile 2025 alle ore 12:48. È stato elevato un verbale al veicolo \"onda cib seicentocinquanta macchina operatrice\" con targa \"i sette centottantanove chi lo litri\", immatricolato in Croazia, per violazione dell'articolo 17, comma 15 del codice stradale. La violazione riguarda il parcheggio in zona a rimozione, rilevata in via della Repubblica 20 e via dei Fori Imperiali al civico 10. Non è stata possibile la contestazione immediata per l'assenza del trasgressore. La violazione comporta la decurtazione di quattro punti. La stampa è richiesta in lingua inglese via \"hawaii fai\" e non include la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "mezzogiorno e quarantotto",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "dieci",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "onda cib seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: derivano, after: di",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data diciotto aprile duemilaventicinque alle ore mezzogiorno e quarantotto si eleva verbale al veicolo onda cib seicentocinquanta macchina operatrice con targa i sette centottantanove chi lo litri di tipo copertura immatricolati in croazia per violazione dell'articolo diciassette con ma quindici del codice stradale ovvero parcheggio in zona a rimozione rilevata in via della repubblica venti via dei fori imperiali al civico dieci non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano quattro punti di decurtazione stampa necessaria in lingua inglese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "In data 18/04/2025, alle ore 12:48, si eleva verbale al veicolo Honda CB650R, macchina operatrice con targa IJ789KL di tipo copertura, immatricolato in croazia, per violazione dell'articolo 17, comma 15 del codice stradale, ovvero parcheggio in zona rimozione, rilevata in via della Repubblica, 20via dei Fori Imperiali, al civico 10.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 4 punti di decurtazione. Stampa necessaria in lingua inglese via wifi, non stampare anche la comunicazione."
+}

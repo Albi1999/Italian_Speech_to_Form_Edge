@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 9 aprile 2025 alle ore 22:46 in via della Cultura, civico 9. La violazione riguarda un veicolo Alfa Romeo Giulietta, immatricolato in Spagna, con targa U123. La violazione contestata è il transito in zona di accesso vietato, secondo l'articolo 14, comma 1 del codice civile. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti nove punti di decurtazione. Si richiede la stampa in lingua spagnola tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "ventidue quarantasei",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "spagna",
+                    "targa": "u centoventitre",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "alfa romeo giulietta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattordici",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "vi hawaii fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbale per violazione accertata il nove aprile duemilaventicinque alle ore ventidue quarantasei in via della cultura al civico nove a carico del veicolo alfa romeo e giulietta motoveicoli con targa u centoventitre dopo mix di tipo prova immatricolati in spagna la violazione contestata e transito in zona accesso vietato in base all'articolo quattordici comma uno del codice civile non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti nove punti di decurtazione si richiede la stampa e lingua spagnolo vi hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 09/04/2025 alle ore 22:46 in via della Cultura, al civico 9, a carico del veicolo Alfa Romeo Giulietta, motoveicolo con targa UV123WX di tipo prova, immatricolato in spagna. La violazione contestata è transito in zona accesso vietato, in base all'articolo 14, comma 1 del codice civile. Non è stato possibile contestare immediatamente, per assenza del trasgressore. Sono previsti 9 punti di decurtazione. Si richiede la stampa in lingua spagnolo via wifi, non stampare anche la comunicazione. "
+}

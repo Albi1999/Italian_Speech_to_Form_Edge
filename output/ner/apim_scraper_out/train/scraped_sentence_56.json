@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale emesso il ventitré aprile duemilaventicinque alle ore cinque e diciannove per un'infrazione stradale. Il veicolo coinvolto è una Lancia Ypsilon immatricolata in Croazia con targa \"guerre sei centocinquantaquattro se ti\" di tipo prova. L'infrazione è avvenuta in corso Buenos Aires al civico novantotto, con violazione del codice stradale articolo quarantuno comma trentanove per parcheggio in divieto di sosta. La contestazione è stata immediata, eseguita dall'agente Luca Verdi, con due punti da decurtare e nessuna sanzione accessoria. La stampa è richiesta in francese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "cinque diciannove",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "croazia",
+                    "targa": "guerre sei centocinquantaquattro se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "lancia i ypsilon",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantuno",
+                    "comma": "trentanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventitré aprile duemilaventicinque alle ore cinque diciannove e statore dato un verbale per il veicolo lancia i ypsilon autovettura immatricolati in croazia con targa guerre sei centocinquantaquattro se ti di tipo prova l'infrazione e avvenuta in corso buenos aires al civico novantotto stata riscontrata una violazione del codice stradale articolo quarantuno comma trentanove ovvero parcheggiato in divieto di sosta e alle verbale è stato eseguito sul posto con contestazione immediata da parte della gente luca verdi sono previsti due punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in francese tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Il giorno 23/04/2025, alle ore 05:19, è stato redatto un verbale per il veicolo Lancia Ypsilon, autovettura immatricolato in croazia con targa QR654ST di tipo prova.L'infrazione è avvenuta in corso Buenos Aires, al civico 98. È stata riscontrata una violazione del codice stradale, articolo 41, comma 39 ovvero parcheggio in divieto di sostaIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Luca Verdi. Sono previsti 2 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in francese tramite wifi, stampa anche la comunicazione."
+}

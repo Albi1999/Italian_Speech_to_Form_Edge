@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a una violazione di parcheggio in divieto di sosta. Il veicolo coinvolto è una macchina operatrice con targa ufficiale proveniente dalla Slovenia, marca Cappa T790. La violazione è avvenuta il 9 aprile 2025 alle ore 13:25 in via Garibaldi, numero 11. L'infrazione rientra nell'articolo 37, comma 35 del codice penale. La contestazione è stata immediata da parte dell'agente Matteo Gallo e prevede la perdita di tre punti. Si richiede la stampa in lingua francese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "tredici e venticinque",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "slovenia",
+                    "targa": "ho viste i centocinquantaquattro doppia ex",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "cappa ti sette centonovanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentasette",
+                    "comma": "trentacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrice targato ho viste i centocinquantaquattro doppia ex di tipo ufficiale proveniente da slovenia marca cappa ti sette centonovanta di la violazione ovvero parcheggiato in divieto di sosta sia e verificata in data a nove aprile duemilaventicinque alle ore tredici e venticinque via garibaldi al numero undici l'infrazione rientra nell'articolo trentasette comma trentacinque del codice penale contestazione immediata da parte della gente matteo gallo la sanzione prevede la perdita di tre punti si richiede la stampa in lingua francese tramite blu stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato UV654WX di tipo ufficiale proveniente da slovenia, marca KTM 790 Duke. La violazione, ovvero parcheggio in divieto di sosta, si è verificata in data 09/04/2025 alle ore 13:25 in via Garibaldi, al numero 11. L'infrazione rientra nell'articolo 37, comma 35 del codice penale. Contestazione immediata da parte dell'agente Matteo Gallo. La sanzione prevede la perdita di 3 punti. Si richiede la stampa in lingua francese, tramite bluetooth, stampa anche la comunicazione."
+}

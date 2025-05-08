@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Seat Ibiza, registrato in Belgio, con targa speciale. L'infrazione è avvenuta il 26 aprile 2025 alle 23:31 in via della Giustizia, civico 16, per parcheggio in zona a rimozione. La violazione è in base all'articolo 36, comma 34 del codice civile e comporta la decurtazione di un punto. La stampa dell'avviso è richiesta via Bluetooth, in olandese, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "ventitré trentuno",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "belgio",
+                    "targa": "i ehi centoventitre capelli",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "seat ibiza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentasei",
+                    "comma": "trentaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtazione, after: punti",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo seat ibiza ciclomotori targato i ehi centoventitre capelli con targa speciale registrato in belgio per un fatto accaduto il ventisei aprile duemilaventicinque alle ventitré trentuno il veicolo si trovava in via della giustizia al civico sedici dove è stato riscontrato parcheggio in zona a rimozione in base all'articolo trentasei comma trentaquattro del codice civile questa infrazione comporta una decurtazione di un punti genera alla stampa dell'avviso via blu tutti in olandese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Seat Ibiza, ciclomotore, targato IJ123KL con targa speciale, registrato in belgio, per un fatto accaduto il 26/04/2025 alle 23:31. Il veicolo si trovava in via della Giustizia, al civico 16, dove è stato riscontrato parcheggio in zona rimozione, in base all'articolo 36, comma 34, del codice civile. Questa infrazione comporta una decurtazione di 1 punti. Genera la stampa dell'avviso via bluetooth in olandese, stampa anche la comunicazione. "
+}

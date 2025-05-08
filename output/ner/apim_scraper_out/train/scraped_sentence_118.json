@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 21 aprile 2025 alle ore 5:27 per un'infrazione stradale. Il veicolo coinvolto è un'autovettura Cavalchi Zitta 650, immatricolata in Italia con targa ufficiale \"guerre 450 6 se ti\". L'infrazione è avvenuta in via della Musica, civico 18, per parcheggio davanti a passo carabine. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti sette punti da decurtare, senza sanzioni accessorie. La stampa è richiesta in olandese tramite Wi-Fi, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "cinque ventisette",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italia",
+                    "targa": "guerre quattrocentocinquanta sei se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "cavalchi zitta seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventuno aprile duemilaventicinque alle ore cinque ventisette è stato redatto un verbale per il veicolo cavalchi zitta seicentocinquanta autovettura immatricolati in italia con targa guerre quattrocentocinquanta sei se ti di tipo ufficiale l'infrazione e avvenuta in via della musica al civico diciotto e stata riscontrata una violazione del codice stradale articolo quarantacinque comma quarantatré ovvero parcheggio davanti a passo carabine non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti sette punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in olandese tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 21/04/2025, alle ore 05:27, è stato redatto un verbale per il veicolo Kawasaki Z650, autovettura immatricolato in italia con targa QR456ST di tipo ufficiale.L'infrazione è avvenuta in via della Musica, al civico 18. È stata riscontrata una violazione del codice stradale, articolo 45, comma 43 ovvero parcheggio davanti a passo carrabileNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 7 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in olandese tramite wifi, non stampare anche la comunicazione."
+}

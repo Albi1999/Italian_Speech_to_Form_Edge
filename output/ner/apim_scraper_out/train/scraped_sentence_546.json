@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo autovettura con targa speciale proveniente dalla Slovenia. La violazione è stata rilevata il 17 aprile 2025 alle ore 16, per transito in zona accesso vietato in via della Libertà, numero 21. La violazione è in base all'articolo 50, comma 48 del codice penale, con una decurtazione di cinque punti. Si richiede la stampa del preavviso tramite Weiwei, in lingua olandese, e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "sedici",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "settecento ottantanove occhi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquanta",
+                    "comma": "quarantotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "weiwei",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo autovettura mary charlie è vinson street settecentocinquanta targato settecento ottantanove occhi di tipo speciale proveniente da slovenia in data diciassette aprile duemilaventicinque alle ore sedici e stata rilevata la violazione di transito in zona accesso vietato in via della libertà al numero ventuno in base a articolo cinquanta come quarantotto del codice penale per tale infrazione sono previsti cinque punti di decurtazione si richiede la stampa del preavviso tramite weiwei lingua olandese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo autovettura, marca Harley-Davidson Street 750, targato MN789OP di tipo speciale, proveniente da slovenia. In data 17/04/2025 alle ore 16:00, è stata rilevata la violazione di transito in zona accesso vietato in via della Libertà, al numero 21, in base all'articolo 50, comma 48 del codice penale. Per tale infrazione sono previsti 5 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua olandese, stampa anche la comunicazione. "
+}

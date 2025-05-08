@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un'infrazione stradale. Il veicolo coinvolto è un'autovettura Alfa Romeo Giulietta con targa ufficiale proveniente dalla Francia. L'infrazione è avvenuta il sei maggio duemilaventicinque alle ore diciotto e quarantanove in via Garibaldi, numero civico undici. La violazione riguarda il parcheggio in doppia fila, in violazione dell'articolo ventisette, comma venticinque del codice civile, con una decurtazione prevista di nove punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è richiesta tramite Wi-Fi in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "diciotto e quarantanove",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "francia",
+                    "targa": "sette centottantanove occhi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "alfa romeo giulietta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventisette",
+                    "comma": "venticinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazione, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo autovettura di marca alfa romeo e giulietta con targa sette centottantanove occhi tipo ufficiale proveniente da francia fatto avvenuto il sei maggio duemilaventicinque alle ore diciotto e quarantanove posizione via garibaldi numero civico undici infrazione parcheggia in doppia fila in violazione dell'articolo ventisette con ma venticinque del codice civile decurtazione prevista nove punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite vuoi fai in italiano non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo autovettura di marca Alfa Romeo Giulietta, con targa MN789OP (tipo ufficiale), proveniente da francia.  Fatto avvenuto il 06/05/2025 alle ore 18:49. Posizione: via Garibaldi, numero civico 11. Infrazione: parcheggio in doppia fila, in violazione dell'articolo 27, comma 25, del codice civile. Decurtazione prevista: 9 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in italiano, non stampare anche la comunicazione."
+}

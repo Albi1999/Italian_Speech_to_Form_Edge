@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo agricolo con targa speciale registrato in Portogallo. L'infrazione è avvenuta il 5 maggio 2025 alle 20:36 in via della Concordia, civico 14, per parcheggio davanti a passo carabine. La violazione riguarda l'articolo 53, comma 51 del codice civile e comporta la decurtazione di 1 punto. La stampa dell'avviso è prevista via Bluetooth in tedesco, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "venti e trentasei",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "portogallo",
+                    "targa": "ubi trecentoventi uno doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo chi ha storiche macchina agricola targato ubi trecentoventi uno doppia ex con targa speciale registrato in portogallo per un fatto accaduto il cinque maggio duemilaventicinque alle venti e trentasei il veicolo si trovava in via della concordia al civico quattordici dove è stato riscontrato parcheggio davanti a passo carabine in base all'articolo cinquantatré comma cinquantuno del codice civile questa infrazione comporta una decurtazione di uno punti genere alla stampa dell'avviso via blu tutti in tedesco non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Kia Stonic, macchina agricola, targato UV321WX con targa speciale, registrato in portogallo,  per un fatto accaduto il 05/05/2025 alle 20:36. Il veicolo si trovava in via della Concordia, al civico 14, dove è stato riscontrato parcheggio davanti a passo carrabile, in base all'articolo 53, comma 51, del codice civile. Questa infrazione comporta una decurtazione di 1 punti.  Genera la stampa dell'avviso via bluetooth in tedesco, non stampare anche la comunicazione."
+}

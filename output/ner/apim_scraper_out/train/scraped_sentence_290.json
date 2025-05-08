@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il diciotto aprile duemilaventicinque alle ore diciannove e quarantaquattro per un veicolo Dacia Sandy con targa slovena, tipo speciale. L'infrazione è avvenuta in corso della Libertà, numero sette, per parcheggio in divieto di sosta, secondo l'articolo sette, comma quindici del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti sei punti di decurtazione. La stampa della notifica deve avvenire tramite Wi-Fi in lingua olandese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "diciannove quarantaquattro",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "slovenia",
+                    "targa": "guerre centoventitre se ti",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "dacia sandy ero",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: di",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data diciotto aprile duemilaventicinque alle ore diciannove quarantaquattro è stato emesso un preavviso di violazione per il veicolo molto veicolo di marca dacia sandy ero con targa guerre centoventitre se ti tipo speciale registrato in slovenia l'infrazione avvenuta in corso della libertà al numero sette è consiste in parcheggiato in divieto di sosta come previsto dall'articolo sette con ma quindici del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti sei punti di decurtazione si prega di stampare la presente notifica tramite vuoi fai in lingua olandese stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 18/04/2025, alle ore 19:44, è stato emesso un preavviso di violazione per il veicolo motoveicolo di marca Dacia Sandero, con targa QR123ST (tipo speciale), registrato in slovenia. L'infrazione è avvenuta in corso della Libertà, al numero 7, e consiste in parcheggio in divieto di sosta, come previsto dall'articolo 7, comma 15 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 6 punti di decurtazione.  Si prega di stampare la presente notifica tramite wifi, in lingua olandese, stampa anche la comunicazione."
+}

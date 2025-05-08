@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il cinque maggio duemilaventicinque alle ore quattordici e cinquantasei per una violazione stradale. La violazione è stata riscontrata in via Roma, civico settantasette, dove un veicolo rimorchio Ford Fiesta, targato quattrocentocinquanta sei occhi, proveniente dalla Germania, ha transitato in una zona di accesso vietato. L'agente Giulia Costa ha proceduto con contestazione immediata e si prevede la decurtazione di quattro punti dalla patente. La stampa del verbale è richiesta in portoghese via Hawaii, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "quattordici e cinquantasei",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "quattrocentocinquanta sei occhi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "ford fiesta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantanove",
+                    "comma": "quarantasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data cinque maggio duemilaventicinque alle ore quattordici e cinquantasei per la violazione riscontrata al veicolo rimorchio marca ford fiesta targato quattrocentocinquanta sei occhi tipo ufficiale proveniente da germania in particolare in via roma civico settantasette è stato accertato transito in zona accesso vietato in violazione dell'articolo quarantanove con ma quarantasette del codice stradale l'agente giulia costa proceduto con contestazione immediata si prevede la decurtazione di quattro punti dalla patente richiedo la stampa in portoghese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 05/05/2025 alle ore 14:56 per la violazione riscontrata al veicolo rimorchio, marca Ford Fiesta, targato MN456OP (tipo ufficiale) proveniente da germania. In particolare, in via Roma, civico 77, è stato accertato transito in zona accesso vietato, in violazione dell'articolo 49, comma 47 del codice stradale. L'agente Giulia Costa ha proceduto con contestazione immediata. Si prevede la decurtazione di 4 punti dalla patente. Richiedo la stampa in portoghese via wifi, stampa anche la comunicazione."
+}

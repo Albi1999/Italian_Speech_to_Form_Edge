@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 27 aprile 2025 alle ore 2:53 per una macchina operatrice con targa ufficiale immatricolata in Francia. L'infrazione è stata rilevata in via Garibaldi, civico 11, per violazione del codice stradale, articolo 24, comma 22, riguardante il parcheggio in zona a rimozione. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Il veicolo è un Ducati Multistrada 2 di colore nero. Sono da decurtare due punti. La stampa del preavviso è richiesta tramite Bluetooth in olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "due cinquantatré",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "francia",
+                    "targa": "e sette centottantanove giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "ducati molti strada due",
+                    "colore": "nero"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventiquattro",
+                    "comma": "ventidue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtare, after: punti",
+            "tipo_stampa": "brutus",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventisette aprile duemilaventicinque alle ore due cinquantatré è stato notificato un preavviso per un macchina operatrice targato e sette centottantanove giacca con targa ufficiale immatricolati in francia l'infrazione e stata rilevata in via garibaldi al civico undici con violazione del codice stradale articolo ventiquattro come ventidue in particolare sia riscontrato un parcheggia in zona a rimozione non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono due punti il veicolo è un ducati molti strada due di colore nero con numero di telaio due otto nove e sette sette sei sette quattro zero e massa milleduecento sessantasette chili necessita alla stampa del preavviso tramite brutus in olandese non stampare anche la comunicazione",
+    "original_sentence": "In data 27/04/2025, alle ore 02:53, è stato notificato un preavviso per un macchina operatrice targato EF789GH con targa ufficiale, immatricolato in francia. L'infrazione è stata rilevata in via Garibaldi, al civico 11, con violazione del codice stradale, articolo 24, comma 22, in particolare si è riscontrato un parcheggio in zona rimozione Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 2 punti. Il veicolo è un Ducati Multistrada V2 di colore nero, con numero di telaio 289776740 e massa 1267 kg. Necessito la stampa del preavviso tramite bluetooth, in olandese, non stampare anche la comunicazione. "
+}

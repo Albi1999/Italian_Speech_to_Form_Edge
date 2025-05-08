@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo rimorchio targato ufficiale, registrato in Austria. L'infrazione è avvenuta il 25 aprile 2025 alle 7:04 in via della Libertà, civico 3, per parcheggio in doppia fila. La violazione è in base all'articolo 44, comma 42 del codice civile e comporta una decurtazione di 3 punti. La stampa dell'avviso è prevista via Bluetooth in portoghese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "sette quattro",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "i i sette centottantanove capelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emette un avviso di violazione quindi si tratta di un preavviso per il veicolo casacche in in già seicentocinquanta rimorchio targato i i sette centottantanove capelli con targa ufficiale registrato in austria per un fatto accaduto il venticinque aprile duemilaventicinque alle sette quattro il veicolo si trovava in via della libertà al civico tre dove è stato riscontrato parcheggia in doppia fila in base al l'articolo quarantaquattro comma quarantadue del codice civile questa infrazione comporta una decurtazione di tre punti genere alla stampa dell'avviso via blu tutti in portoghese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Kawasaki Ninja 650, rimorchio, targato IJ789KL con targa ufficiale, registrato in austria, per un fatto accaduto il 25/04/2025 alle 07:04. Il veicolo si trovava in via della Libertà, al civico 3, dove è stato riscontrato parcheggio in doppia fila, in base all'articolo 44, comma 42, del codice civile. Questa infrazione comporta una decurtazione di 3 punti. Genera la stampa dell'avviso via bluetooth in portoghese, stampa anche la comunicazione. "
+}

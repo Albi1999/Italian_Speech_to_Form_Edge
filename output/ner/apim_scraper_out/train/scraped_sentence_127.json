@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata il quindici aprile duemilaventicinque alle sei e sedici. Un verbale è stato redatto per un veicolo rimorchio con targa prova immatricolato in Croazia, targato \"e effe centoventitre giacca\". L'infrazione è avvenuta in via venti settembre al civico cinque, violando il codice stradale articolo ventinove, comma ventisette, per parcheggio davanti a passo carabine. Sono previsti tre punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. La stampa è prevista tramite Bluetooth in spagnolo, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "sei e sedici",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "e effe centoventitre giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle sei e sedici del quindici aprile duemilaventicinque storie di gendo un verbale per il veicolo rimorchio targato e effe centoventitre giacca con targa prova immatricolati in croazia infrazione stata accertata in via venti settembre al civico cinque con violazione del codice stradale articolo ventinove con ma ventisette per parcheggio davanti a passo carabine sono previsti tre punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite blu in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Alle 06:16 del 15/04/2025, sto redigendo un verbale per il veicolo rimorchio targato EF123GH con targa prova, immatricolato in croaziaL'infrazione è stata accertata in via XX Settembre, al civico 5, con violazione del codice stradale, articolo 29,comma 27 per parcheggio davanti a passo carrabile Sono previsti 3 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in spagnolo, non stampare anche la comunicazione."
+}

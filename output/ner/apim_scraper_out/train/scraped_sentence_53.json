@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il venticinque aprile duemilaventicinque alle ore venti e ventiquattro per una violazione del codice penale. L'infrazione è avvenuta in via della cultura al civico nove, con contestazione immediata da parte dell'agente Anna Bianchi. Il veicolo coinvolto è una Nissan Mica, macchina agricola immatricolata in Slovenia con targa \"guerre sette centottantanove se ti\" di tipo speciale. La violazione riguarda l'articolo ventitre comma ventuno per parcheggio in zona a rimozione. Sono previsti uno punti da decurtare e la stampa è in francese tramite WiFi, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "venti e ventiquattro",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "slovenia",
+                    "targa": "guerre sette centottantanove se ti",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "nissan mica",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventitre",
+                    "comma": "ventuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno venticinque aprile duemilaventicinque alle ore venti e ventiquattro è stato redatto un verbale per il veicolo nissan mica macchina agricola immatricolati slovenia con targa guerre sette centottantanove se ti di tipo speciale l'infrazione avvenuta in via della cultura al civico nove e stata riscontrata una violazione del codice penale articolo ventitre comma ventuno vero parcheggio in zona a rimozione verbale è stato eseguito sul posto con contestazione immediata da parte della gente anna bianchi sono previsti uno punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in francese tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 25/04/2025, alle ore 20:24, è stato redatto un verbale per il veicolo Nissan Micra, macchina agricola immatricolato in slovenia con targa QR789ST di tipo speciale.L'infrazione è avvenuta in via della Cultura, al civico 9. È stata riscontrata una violazione del codice penale, articolo 23, comma 21 ovvero parcheggio in zona rimozioneIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Anna Bianchi. Sono previsti 1 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in francese tramite wifi, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un motoveicolo Ducati Multistrada con targa di prova immatricolato in Spagna. La violazione è avvenuta l'8 aprile 2025 alle ore 5:08 in Corso della Storia, civico 22, per parcheggio in divieto di sosta secondo l'articolo 49, comma 47 del codice civile. Sono previsti sette punti di decurtazione. Si richiede la stampa digitale del preavviso in lingua italiana tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "cinque otto",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "spagna",
+                    "targa": "how trecentoventi uno doppia wings",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "ducati molti strada due",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantanove",
+                    "comma": "quarantasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "piu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo motoveicoli marca ducati molti strada due targa how trecentoventi uno doppia wings di tipo prova immatricolati in spagna la violazione è avvenuta e lotto aprile duemilaventicinque alle ore cinque otto in corso della storia al numero civico ventidue ed è relativa parcheggiato in divieto di sosta in base alla articolo quarantanove con ma quarantasette del codice civile per tale violazione sono previsti sette punti di decurtazione si richiede la stampa digitale preavviso in lingua italiano tramite piu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo motoveicolo, marca Ducati Multistrada V2, targa UV321WX di tipo prova, immatricolato in spagna. La violazione è avvenuta il 08/04/2025 alle ore 05:08 in corso della Storia, al numero civico 22, ed è relativa a parcheggio in divieto di sosta, in base all'articolo 49, comma 47 del codice civile. Per tale violazione sono previsti 7 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua italiano tramite bluetooth, stampa anche la comunicazione. "
+}

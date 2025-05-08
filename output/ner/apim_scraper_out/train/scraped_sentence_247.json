@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione stradale avvenuta il sedici aprile duemilaventicinque alle ore nove e diciannove. Un verbale è stato elevato al veicolo Dacia d'aste rimorchio con targa slovena per violazione dell'articolo diciassette, comma quindici del codice stradale, per parcheggio in divieto di sosta in via Roma al civico settantasette. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di cinque punti. La stampa è richiesta in lingua italiana via Hawaii, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "nove diciannove",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "slovenia",
+                    "targa": "ubi quattrocentocinquanta sei doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "dacia d'aste",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data sedici aprile duemilaventicinque alle ore nove diciannove si eleva verbale al veicolo dacia d'aste rimorchio con targa ubi quattrocentocinquanta sei doppia ex di tipo speciale immatricolati slovenia per violazione dell'articolo diciassette con ma quindici del codice stradale ovvero parcheggiato in divieto di sosta rilevata in via roma al civico settantasette non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano cinque punti di decurtazione stampa necessaria in lingua italiano via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "In data 16/04/2025, alle ore 09:19, si eleva verbale al veicolo Dacia Duster, rimorchio con targa UV456WX di tipo speciale, immatricolato in slovenia, per violazione dell'articolo 17, comma 15 del codice stradale, ovvero parcheggio in divieto di sosta, rilevata in via Roma, al civico 77.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 5 punti di decurtazione. Stampa necessaria in lingua italiano via wifi, stampa anche la comunicazione."
+}

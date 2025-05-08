@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo immatricolato in Portogallo con targa speciale, coinvolto in un'infrazione di parcheggio in divieto di sosta in Piazza Venezia, civico uno. L'infrazione riguarda l'articolo 33, comma 31 del codice civile, con la decurtazione di quattro punti. La contestazione è stata immediata e gestita dall'agente Francesco Rizzo. La stampa del verbale è richiesta in inglese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "portogallo",
+                    "targa": "i ehi quattrocentocinquanta sei capelli",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentatré",
+                    "comma": "trentuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo giamai ypsilon te ferri sette rimorchio immatricolati in portogallo con targa i ehi quattrocentocinquanta sei capelli di tipo speciale l'infrazione avvenuta in piazza venezia civico uno parcheggio in divieto di sosta si applica l'articolo trentatré coma trentuno del codice civile a seguito della violazioni verranno decurtati quattro punti il verbale è stato contestato immediatamente dalla gente francesco rizzo si prega di procedere con la stampa in inglese tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Yamaha YZF-R7, rimorchio immatricolato in portogallo con targa IJ456KL di tipo speciale. L'infrazione è avvenuta in piazza Venezia, civico 1: parcheggio in divieto di sosta. Si applica l'articolo 33, comma 31 del codice civile. A seguito della violazione verranno decurtati 4 punti. Il verbale è stato contestato immediatamente dall'agente Francesco Rizzo. Si prega di procedere con la stampa in inglese tramite bluetooth, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta in via della speranza, civico diciotto, dove un veicolo immatricolato in Croazia con targa 'me ne sette centottantanove' è stato parcheggiato in doppia fila. L'infrazione è regolata dall'articolo ventidue comma venti del codice civile, con la decurtazione di otto punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. Si richiede la stampa del verbale in tedesco tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "croazia",
+                    "targa": "me ne sette centottantanove",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventidue",
+                    "comma": "venti",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "stai mettendo un verbale per il veicolo casacche in in già seicentocinquanta motoveicoli immatricolati in croazia con targa me ne sette centottantanove ho più di tipo ufficiale l'infrazione è avvenuta in via della speranza civico diciotto parcheggio in doppia fila si applica l'articolo ventidue comma venti del codice civile a seguito della violazione verranno decurtati otto punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in tedesco tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Kawasaki Ninja 650, motoveicolo immatricolato in croazia con targa MN789OP di tipo ufficiale. L'infrazione è avvenuta in via della Speranza, civico 18: parcheggio in doppia fila. Si applica l'articolo 22, comma 20 del codice civile. A seguito della violazione verranno decurtati 8 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in tedesco tramite wifi, non stampare anche la comunicazione. "
+}

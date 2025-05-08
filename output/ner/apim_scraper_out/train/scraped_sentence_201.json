@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento informa che è in corso la stesura di un preavviso di violazione per un veicolo autovettura con targa speciale proveniente dall'Italia. L'infrazione riguarda il parcheggio davanti a un passo carabine, avvenuta il 28 aprile 2025 alle 11:46 in via della Storia, numero 6. La violazione è relativa all'articolo 20, comma 18 del codice stradale e comporterà una decurtazione di 10 punti. Si richiede la stampa in lingua portoghese, modalità Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "undici e quarantasei",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italia",
+                    "targa": "jeff sette centottantanove giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "suzuki chi vi seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa è jeff sette centottantanove giacca di tipo speciale marca suzuki chi vi seicentocinquanta proveniente da italia l'infrazione nello specifico parcheggio davanti a passo carabine sia e verificata in data ventotto aprile duemilaventicinque alle ore undici e quarantasei in via della storia al numero sei articolo venti comma diciotto del codice stradale si comunica che dalla violazione conseguirà una decurtazione di dieci punti si richiede la stampa in lingua portoghese modalità blu non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa EF789GH di tipo speciale, marca Suzuki SV650, proveniente da italia. L'infrazione, nello specifico parcheggio davanti a passo carrabile, si è verificata in data 28/04/2025 alle ore 11:46 in via della Storia, al numero 6 (articolo 20, comma 18 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 10 punti.Si richiede la stampa in lingua portoghese, modalità bluetooth, non stampare anche la comunicazione."
+}

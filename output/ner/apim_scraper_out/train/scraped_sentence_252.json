@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Lancia Ypsilon con rimorchio, immatricolato in Francia e con targa BEH 450 6 CD di tipo ufficiale. L'infrazione è avvenuta in via Etna, civico 45, per transito in zona accesso vietato. Si applica l'articolo 16, comma 14 del codice stradale e verranno decurtati due punti. A causa dell'assenza del trasgressore, non è stato possibile effettuare la contestazione immediata. La stampa deve essere effettuata in tedesco tramite Wi-Fi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via etna",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": null,
+                    "nazione": "francia",
+                    "targa": "beh quattrocentocinquanta sei ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "lancia i ypsilon rimorchio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sedici",
+                    "comma": "quattordici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo lancia i ypsilon rimorchio immatricolati in francia con targa beh quattrocentocinquanta sei ci di di tipo ufficiale l'infrazione avvenuta in via etna civico quarantacinque transito in zona accesso vietato si applica l'articolo sedici comma quattordici del codice stradale a seguito della violazione verranno decurtati due punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in tedesco tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Lancia Ypsilon, rimorchio immatricolato in francia con targa AB456CD di tipo ufficiale. L'infrazione è avvenuta in via Etnea, civico 45: transito in zona accesso vietato. Si applica l'articolo 16, comma 14 del codice stradale. A seguito della violazione verranno decurtati 2 punti.A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in tedesco tramite wifi, non stampare anche la comunicazione."
+}

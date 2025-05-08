@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo ciclomotore marca BMW, modello Fenomeni Sento Jerry, con targa JEFF SI 154, immatricolato in Belgio. La violazione è avvenuta il 3 maggio 2025 alle ore 7:17 in viale della Concordia, numero civico 13, per parcheggio in divieto di sosta secondo l'articolo 40, comma 38 del codice stradale. Sono previsti punti di decurtazione. Si richiede la stampa digitale del preavviso in lingua italiana tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "sette diciassette",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "belgio",
+                    "targa": "jeff si centocinquantaquattro",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "bmw e fenomeni sento jerry",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tra, before: previsti, after: di",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo ciclomotori marca bmw e fenomeni sento jerry targa jeff si centocinquantaquattro giacca di tipo prova immatricolati in belgio la violazione è avvenuta il tre maggio duemilaventicinque alle ore sette diciassette in viale della concordia a numero civico tredici ed è relativa parcheggio in divieto di sosta in base al l'articolo quaranta coma trentotto del codice stradale per tale violazione sono previsti tra i punti di decurtazione si richiede la stampa digitale preavviso in lingua italiano tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo ciclomotore, marca BMW F 900 R, targa EF654GH di tipo prova, immatricolato in belgio. La violazione è avvenuta il 03/05/2025 alle ore 07:17 in viale della Concordia, al numero civico 13, ed è relativa a parcheggio in divieto di sosta, in base all'articolo 40, comma 38 del codice stradale. Per tale violazione sono previsti 3 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua italiano tramite bluetooth, non stampare anche la comunicazione. "
+}

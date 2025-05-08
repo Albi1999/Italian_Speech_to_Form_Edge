@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo Harley Davidson Street 750 immatricolato in Belgio con targa di tipo prova. L'infrazione è avvenuta in via della Giustizia, civico 16, per parcheggio in divieto di sosta. Si applica l'articolo 121, comma 9 del codice civile. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. Verranno decurtati 1 punto. Si richiede la stampa in olandese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "belgio",
+                    "targa": "è me ne sette centottantanove più",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "harley davidson street settecentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centoventi uno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtati, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo harley davidson street settecentocinquanta autovettura immatricolati in belgio con targa è me ne sette centottantanove più di tipo prova l'infrazione è avvenuta in via della giustizia civico sedici parcheggiato in divieto di sosta si applica l'articolo centoventi uno comma nove del codice civile a seguito della violazione verranno decurtati un punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in olandese tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Harley-Davidson Street 750, autovettura immatricolato in belgio con targa MN789OP di tipo prova. L'infrazione è avvenuta in via della Giustizia, civico 16: parcheggio in divieto di sosta. Si applica l'articolo 121, comma 9 del codice civile. A seguito della violazione verranno decurtati 1 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in olandese tramite bluetooth, stampa anche la comunicazione. "
+}

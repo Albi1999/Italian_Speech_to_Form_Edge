@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il dodici aprile duemilaventicinque alle ore sei e quarantotto per un veicolo Suzuki immatricolato in Svizzera con targa specifica. L'infrazione è avvenuta in via della Giustizia, civico sedici, per una violazione del codice penale, articolo trentacinque, comma trentatré, ovvero parcheggio in doppia fila. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti sei punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è in spagnolo tramite Bluetooth e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "sei e quarantotto",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "svizzera",
+                    "targa": "icsi ypsilon centoventitre zza",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "suzuki",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: da",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno dodici aprile duemilaventicinque alle ore sei e quarantotto è stato redatto un verbale per il veicolo suzuki chi vi seicentocinquanta ciclomotori immatricolati in svizzera con targa icsi ypsilon centoventitre zza di tipo copertura l'infrazione e avvenuta in via della giustizia al civico sedici e stata riscontrata una violazione del codice penale articolo trentacinque comma trentatré ovvero parcheggia in doppia fila non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti sei punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in spagnolo tramite blood stampa anche la comunicazione",
+    "original_sentence": "Il giorno 12/04/2025, alle ore 06:48, è stato redatto un verbale per il veicolo Suzuki SV650, ciclomotore immatricolato in svizzera con targa XY123ZA di tipo copertura.L'infrazione è avvenuta in via della Giustizia, al civico 16. È stata riscontrata una violazione del codice penale, articolo 35, comma 33 ovvero parcheggio in doppia filaNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 6 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in spagnolo tramite bluetooth, stampa anche la comunicazione."
+}

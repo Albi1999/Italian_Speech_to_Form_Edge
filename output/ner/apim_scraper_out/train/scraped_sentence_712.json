@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il primo maggio 2025 alle ore 21:01 in viale della Concordia, civico 13. La violazione riguarda un veicolo Renault Captur, immatricolato in Belgio, che ha parcheggiato in zona a rimozione. La contestazione è avvenuta immediatamente da parte dell'agente Carlo Bruni. Sono previsti dieci punti di decurtazione. Si richiede la stampa in lingua portoghese via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "ventuno è un minuto",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "belgio",
+                    "targa": "i miei centoventitre pelle",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "reno cattura",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tredici",
+                    "comma": "undici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il primo maggio duemilaventicinque alle ore ventuno è un minuto in viale della concordia al civico tredici a carico del veicolo reno cattura macchina operatrice con targhe i miei centoventitre pelle di tipo prova immatricolati in belgio la violazione contestata hai parcheggio in zona a rimozione in base all'articolo tredici coma undici del codice penale la contestazione avvenuta immediatamente da parte della gente carlo bruni sono previsti dieci punti di decurtazione si richiede la stampa in lingua portoghese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 01/05/2025 alle ore 21:01 in viale della Concordia, al civico 13, a carico del veicolo Renault Captur, macchina operatrice con targa IJ123KL di tipo prova, immatricolato in belgio. La violazione contestata è parcheggio in zona rimozione, in base all'articolo 13, comma 11 del codice penale. La contestazione è avvenuta immediatamente da parte dell'agente Carlo Bruni. Sono previsti 10 punti di decurtazione. Si richiede la stampa in lingua portoghese via wifi, non stampare anche la comunicazione. "
+}

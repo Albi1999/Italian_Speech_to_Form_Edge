@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo rimorchio marca Suzuki Swift, targa I789CH, immatricolato in Spagna. La violazione è avvenuta il 8 aprile 2025 alle ore 20:56 in via della Cultura, numero civico 9, per transito in zona accesso vietato, in base all'articolo 6, comma 4 del codice penale. Sono previsti cinque punti di decurtazione. Si richiede la stampa del preavviso in lingua spagnola tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "venti e cinquantasei",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "spagna",
+                    "targa": "i sette centottantanove chi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "su chi swift",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo rimorchio marca su chi swift targa i sette centottantanove chi lo litri di tipo ufficiale immatricolati in spagna la violazione è avvenuta hai lotto aprile duemilaventicinque alle ore venti e cinquantasei in via della cultura al numero civico nove ed è relativa transito in zona accesso vietato in base all'articolo sei con ma quattro del codice penale per tale violazione sono previsti cinque punti di decurtazione si richiede la stampa di tale preavviso in lingua spagnolo tramite blu tutta stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo rimorchio, marca Suzuki Swift, targa IJ789KL di tipo ufficiale, immatricolato in spagna. La violazione è avvenuta il 08/04/2025 alle ore 20:56 in via della Cultura, al numero civico 9, ed è relativa a transito in zona accesso vietato, in base all'articolo 6, comma 4 del codice penale.Per tale violazione sono previsti 5 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua spagnolo tramite bluetooth, stampa anche la comunicazione."
+}

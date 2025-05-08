@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo rimorchio marca SE Akhtar con targa 3201+, immatricolato in Francia. La violazione è avvenuta l'11 aprile 2025 alle ore 5:26 in via della Musica, civico 18, per parcheggio in doppia fila secondo l'articolo 50, comma 48 del codice stradale. Sono previsti 4 punti di decurtazione. Si richiede la stampa del preavviso in lingua portoghese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "cinque ventisei",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "trecentoventi uno più",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "se akhtar",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquanta",
+                    "comma": "quarantotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo rimorchio marca se akhtar ho una targa trecentoventi uno più di tipo copertura immatricolati in francia la violazione è avvenuta hai l'undici aprile duemilaventicinque alle ore cinque ventisei via della musica al numero civico diciotto ed è relativa a parcheggia in doppia fila in base al l'articolo cinquanta comma quarantotto del codice stradale per tale violazione sono previsti quattro punti di decurtazione si richiede la stampa di tale preavviso in lingua portoghese tramite blu tutta stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo rimorchio, marca Seat Arona, targa MN321OP di tipo copertura, immatricolato in francia. La violazione è avvenuta il 11/04/2025 alle ore 05:26 in via della Musica, al numero civico 18, ed è relativa a parcheggio in doppia fila, in base all'articolo 50, comma 48 del codice stradale.Per tale violazione sono previsti 4 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua portoghese tramite bluetooth, stampa anche la comunicazione."
+}

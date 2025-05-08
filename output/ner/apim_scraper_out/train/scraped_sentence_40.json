@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 27 aprile 2025 alle 12:45 per un veicolo immatricolato in Svizzera con targa 987 CDD. L'infrazione è avvenuta in viale della stazione, civico 4, per parcheggio su strisce pedonali, violando il codice civile, articolo 7, comma 15. La contestazione è stata immediata, eseguita dall'agente Silvia Neri, con una decurtazione di 10 punti. La stampa è prevista in italiano tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "mezzogiorno e quarantacinque",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "svizzera",
+                    "targa": "novecentottanta sette ci di di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "chapas a zitta seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: da",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventisette aprile duemilaventicinque alle ore mezzogiorno e quarantacinque è stato redatto un verbale per il veicolo chapas a zitta seicentocinquanta ciclomotori immatricolati in svizzera con targa novecentottanta sette ci di di tipo copertura l'infrazione e avvenuta in viale della stazione al civico quattro e stata riscontrata una violazione del codice civile articolo sette con ma quindici ovvero parcheggio su strisce pedonali verbale è stato eseguito sul posto con contestazione immediata da parte della gente silvia neri sono previsti dieci punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in italiano tramite blu tutta stampa anche la comunicazione",
+    "original_sentence": "Il giorno 27/04/2025, alle ore 12:45, è stato redatto un verbale per il veicolo Kawasaki Z650, ciclomotore immatricolato in svizzera con targa AB987CD di tipo copertura.L'infrazione è avvenuta in viale della Stazione, al civico 4. È stata riscontrata una violazione del codice civile, articolo 7, comma 15 ovvero parcheggio su strisce pedonaliIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Silvia Neri. Sono previsti 10 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in italiano tramite bluetooth, stampa anche la comunicazione."
+}

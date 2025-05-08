@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il diciannove aprile duemilaventicinque alle ore quindici quarantanove per un veicolo motoveicoli di marca Mi Subisci con targa speciale registrato in Francia. L'infrazione è avvenuta in corso della giustizia al numero ventitré e consiste nel parcheggio in doppia fila, violando l'articolo sei comma uno a uno a dodici i del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti nove punti di decurtazione. La notifica deve essere stampata tramite Wi-Fi in lingua olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "quindici quarantanove",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "francia",
+                    "targa": "i miei centoventitre capelli",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "mi subisci",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data diciannove aprile duemilaventicinque alle ore quindici quarantanove è stato emesso un preavviso di violazione per il veicolo motoveicoli di marca mi subisci colto con targa i miei centoventitre capelli tipo speciale registrato in francia l'infrazione avvenuta in corso della giustizia al numero ventitré e consiste in parcheggia in doppia fila come previsto dall'articolo sei coma uno a uno a dodici i del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti nove punti di decurtazione si prega di stampare la presente notifica tramite vuoi fai in lingua olandese non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 19/04/2025, alle ore 15:49, è stato emesso un preavviso di violazione per il veicolo motoveicolo di marca Mitsubishi Colt, con targa IJ123KL (tipo speciale), registrato in francia. L'infrazione è avvenuta in corso della Giustizia, al numero 23, e consiste in parcheggio in doppia fila, come previsto dall'articolo 6, comma 1a(1-12) del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 9 punti di decurtazione. Si prega di stampare la presente notifica tramite wifi, in lingua olandese, non stampare anche la comunicazione. "
+}

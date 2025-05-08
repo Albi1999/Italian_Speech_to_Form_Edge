@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Fiat Tipo con rimorchio, immatricolato in Portogallo, con targa novecentottanta sette ci di di tipo prova. L'infrazione è avvenuta in via Giuseppe Mazzini, civico ventiquattro, per parcheggio in divieto di sosta. Si applica l'articolo quarantotto comma quarantasei del codice civile. A seguito della violazione, verranno decurtati uno punti. A causa dell'assenza del trasgressore, non è stato possibile effettuare la contestazione immediata. Si richiede la stampa in francese tramite Brutus, stampando anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "portogallo",
+                    "targa": "novecentottanta sette ci di di",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "fiat tipo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantotto",
+                    "comma": "quarantasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "brutus",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo fiat tipo rimorchio immatricolati portogallo con targa novecentottanta sette ci di di tipo prova l'infrazione e avvenuta in via giuseppe mazzini civico ventiquattro parcheggiato in divieto di sosta si applica l'articolo quarantotto comma quarantasei del codice civile a seguito della violazione verranno decurtati uno punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in francese tramite brutus stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Fiat Tipo, rimorchio immatricolato in portogallo con targa AB987CD di tipo prova. L'infrazione è avvenuta in via Giuseppe Mazzini, civico 24: parcheggio in divieto di sosta. Si applica l'articolo 48, comma 46 del codice civile. A seguito della violazione verranno decurtati 1 punti.A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in francese tramite bluetooth, stampa anche la comunicazione."
+}

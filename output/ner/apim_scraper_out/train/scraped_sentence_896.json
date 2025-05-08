@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 25 aprile 2025 alle ore 7:53 per una violazione riscontrata su un veicolo rimorchio marca \"Su Chi è Se Vi 650\" targato \"E Me Ne 450 Sei Occhi\" proveniente dall'Italia. La violazione è avvenuta in corso della Libertà, civico 7, per transito in zona accesso vietato, violando l'articolo 13 comma 11 del codice civile. L'agente Alessandro Moretti ha proceduto con contestazione immediata e si prevede la decurtazione di 10 punti dalla patente. La stampa è richiesta in italiano via WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "sette cinquantatré",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "italia",
+                    "targa": "e me ne quattrocentocinquanta sei occhi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "su chi è se vi seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "tredici",
+                    "comma": "undici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data venticinque aprile duemilaventicinque alle ore sette cinquantatré per la violazione riscontrata al veicolo rimorchio marca su chi è se vi seicentocinquanta targato e me ne quattrocentocinquanta sei occhi tipo speciale proveniente da italia in particolare in corso della libertà civico sette è stato accertato transito in zona accesso vietato in violazione dell'articolo tredici comma undici del codice civile l'agente alessandro moretti ha proceduto con contestazione immediata si prevede la decurtazione di dieci punti dalla patente richiedo la stampa in italiano vi hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 25/04/2025 alle ore 07:53 per la violazione riscontrata al veicolo rimorchio, marca Suzuki SV650, targato MN456OP (tipo speciale) proveniente da italia. In particolare, in corso della Libertà, civico 7, è stato accertato transito in zona accesso vietato, in violazione dell'articolo 13, comma 11 del codice civile. L'agente Alessandro Moretti ha proceduto con contestazione immediata. Si prevede la decurtazione di 10 punti dalla patente. Richiedo la stampa in italiano via wifi, non stampare anche la comunicazione. "
+}

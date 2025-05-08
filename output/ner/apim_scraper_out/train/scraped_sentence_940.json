@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per violazioni accertate l'11 aprile 2025 alle ore 07:38 in via della Repubblica 20 e via dei Fori Imperiali 10. La violazione riguarda un veicolo Alfa Romeo Stelvio con targa episodio 789, immatricolato in Slovenia, per parcheggio in zona a rimozione. La contestazione è avvenuta immediatamente da parte dell'agente Francesco Rizzo. Sono previsti sei punti di decurtazione. Si richiede la stampa in lingua tedesca via Hawaii e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "settecentotrentotto",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "dieci",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "episodio sette centottantanove giacca di tipo speciale",
+                    "tipologia_targa": null,
+                    "marca_modello": "alfa romeo stelvio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbale per violazioni accertate hai l'undici aprile duemilaventicinque alle ore settecentotrentotto in via della repubblica venti via dei fori imperiali al civico dieci a carico del veicolo alfa romeo stelvio autovettura con targa episodio sette centottantanove giacca di tipo speciale immatricolati in slovenia la violazione contestata e parcheggio in zona a rimozione invase all'articolo cinque comma tre del codice stradale la contestazione e avvenuta immediatamente da parte della gente francesco rizzo sono previsti sei punti di decurtazione si richiede la stampa in lingua tedesco via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 11/04/2025 alle ore 07:38 in via della Repubblica, 20via dei Fori Imperiali, al civico 10, a carico del veicolo Alfa Romeo Stelvio, autovettura con targa EP789GH di tipo speciale, immatricolato in slovenia. La violazione contestata è parcheggio in zona rimozione, in base all'articolo 5, comma 3 del codice stradale. La contestazione è avvenuta immediatamente da parte dell'agente Francesco Rizzo. Sono previsti 6 punti di decurtazione. Si richiede la stampa in lingua tedesco via wifi, stampa anche la comunicazione. "
+}

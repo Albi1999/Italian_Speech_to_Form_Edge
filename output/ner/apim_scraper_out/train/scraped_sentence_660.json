@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo macchina agricola marca Volkswagen Golf, targa A 123 CD, immatricolato in Portogallo. La violazione è avvenuta il 17 aprile 2025 alle ore 18:05 in via della Speranza, numero civico 18, per transito in zona accesso vietato secondo l'articolo 44 comma 42 del codice penale. Sono previsti dieci punti di decurtazione. Si richiede la stampa del preavviso in lingua francese tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "diciotto e cinque",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "portogallo",
+                    "targa": "a centoventitre ci di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "volkswagen golf",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo macchina agricola marca volkswagen golf targa a centoventitre ci di di tipo copertura immatricolati in portogallo la violazione è avvenuta il diciassette aprile duemilaventicinque alle ore diciotto e cinque in via della speranza al numero civico diciotto ed è relativa transito in zona accesso vietato in base al l'articolo quarantaquattro comma quarantadue del codice penale per tale violazione sono previsti dieci punti di decurtazione si richiede la stampa di tale preavviso in lingua francese tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo macchina agricola, marca Volkswagen Golf, targa AB123CD di tipo copertura, immatricolato in portogallo. La violazione è avvenuta il 17/04/2025 alle ore 18:05 in via della Speranza, al numero civico 18, ed è relativa a transito in zona accesso vietato, in base all'articolo 44, comma 42 del codice penale. Per tale violazione sono previsti 10 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua francese tramite wifi, non stampare anche la comunicazione. "
+}

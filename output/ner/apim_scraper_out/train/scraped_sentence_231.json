@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo ciclomotore di marca non specificata, con targa ufficiale proveniente dalla Grecia. L'infrazione è avvenuta il 25 aprile 2025 alle ore 21:00 in viale dei Giardini, numero civico 8, per parcheggio in divieto di sosta, violando l'articolo 38, comma 36 del codice penale. La decurtazione prevista è di 10 punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è richiesta tramite Wi-Fi in portoghese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "ventuno",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "grecia",
+                    "targa": "beh quattrocentocinquanta sei ci",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentotto",
+                    "comma": "trentasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: decurtazione, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo ciclomotori di marcare no ho capito con targa beh quattrocentocinquanta sei ci di tipo ufficiale proveniente da grecia fatto avvenuto il venticinque aprile duemilaventicinque alle ore ventuno posizione viale dei giardini numero civico otto infrazione parcheggiato in divieto di sosta in violazione dell'articolo trentotto comma trentasei del codice penale decurtazione prevista dieci punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite vuoi fai in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo ciclomotore di marca Renault Captur, con targa AB456CD (tipo ufficiale), proveniente da grecia.  Fatto avvenuto il 25/04/2025 alle ore 21:00. Posizione: viale dei Giardini, numero civico 8. Infrazione: parcheggio in divieto di sosta, in violazione dell'articolo 38, comma 36, del codice penale. Decurtazione prevista: 10 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in portoghese, non stampare anche la comunicazione."
+}

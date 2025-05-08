@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il diciassette aprile duemilaventicinque alle ore tredici e cinquantasei. Un verbale è stato elevato al veicolo Nissan con targa immatricolata in Portogallo per transito in zona accesso vietato, violando l'articolo trentaquattro comma trentadue del codice civile. La violazione è stata rilevata in via della Scienza al civico quattordici. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di tre punti. La stampa necessaria è in lingua olandese via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "tredici e cinquantasei",
+            "Strada_1": "via della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "portogallo",
+                    "targa": "io e quattrocentocinquanta sei chi lo litri",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "nissan",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentaquattro",
+                    "comma": "trentadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data diciassette aprile duemilaventicinque alle ore tredici e cinquantasei si eleva verbale al veicolo nissan ok autovettura con targa io e quattrocentocinquanta sei chi lo litri di tipo prova immatricolati in portogallo per violazione dell'articolo trentaquattro comma trentadue del codice civile o vero transito in zona accesso vietato rilevata inviarle della scienza al civico quattordici non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano tre punti di decurtazione stampa necessaria in lingua olandese via blu tu non stampare anche la comunicazione",
+    "original_sentence": "In data 17/04/2025, alle ore 13:56, si eleva verbale al veicolo Nissan Juke, autovettura con targa IJ456KL di tipo prova, immatricolato in portogallo, per violazione dell'articolo 34, comma 32 del codice civile, ovvero transito in zona accesso vietato, rilevata in viale della Scienza, al civico 14.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 3 punti di decurtazione. Stampa necessaria in lingua olandese via bluetooth, non stampare anche la comunicazione."
+}

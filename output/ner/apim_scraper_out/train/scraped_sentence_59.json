@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Suzuki registrato in Germania, con targa ufficiale. L'infrazione è avvenuta il primo maggio 2025 alle 10:49 in via della Pace, civico 2, per parcheggio in zona a rimozione. La violazione è in base all'articolo 6, comma 1, del codice civile e comporta una decurtazione di sei punti. La stampa dell'avviso è prevista via Hawaii in olandese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "dieci e quarantanove",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "germania",
+                    "targa": "guerre sette centottantanove se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "suzuki chi vi seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sei",
+                    "comma": "prima uno dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo suzuki chi vi seicentocinquanta ciclomotori targato guerre sette centottantanove se ti con targa ufficiale registrato in germania per un fatto accaduto il primo maggio duemilaventicinque alle dieci e quarantanove il veicolo si trovava in via della pace al civico due dove è stato riscontrato parcheggio in zona a rimozione in base all'articolo sei comma prima uno dodici del codice civile questa infrazione comporta una decurtazione di sei punti genere alla stampa dell'avviso via hawaii fa in olandese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Suzuki SV650, ciclomotore, targato QR789ST con targa ufficiale, registrato in germania,  per un fatto accaduto il 01/05/2025 alle 10:49. Il veicolo si trovava in via della Pace, al civico 2, dove è stato riscontrato parcheggio in zona rimozione, in base all'articolo 6, comma 1a(1-12), del codice civile. Questa infrazione comporta una decurtazione di 6 punti.  Genera la stampa dell'avviso via wifi in olandese, stampa anche la comunicazione."
+}

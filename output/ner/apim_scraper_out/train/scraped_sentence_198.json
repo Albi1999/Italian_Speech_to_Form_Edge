@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è un'autovettura Subaru, targata UBI 4506EX, di tipo speciale, proveniente dalla Svizzera. L'infrazione è stata rilevata il 29 aprile 2025 alle 6:32 in viale della Vittoria, civico 9, per parcheggio su strisce pedonali, violando l'articolo 45 comma 43 del codice penale. L'agente Marco Gentili ha effettuato la contestazione immediata. La violazione comporta la perdita di 9 punti. Si richiede la stampa del verbale in spagnolo tramite Bluetooth, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "sei e trentadue",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "svizzera",
+                    "targa": "ubi quattrocentocinquanta sei doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo autovettura marca subaru quindicesimo targato ubi quattrocentocinquanta sei doppia ex di tipo speciale proveniente da svizzera l'infrazione stata rilevata il ventinove aprile duemilaventicinque alle ore sei e trentadue il veicolo si trovava in viale della vittoria al civico nove in parcheggio su strisce pedonali violando l'articolo quarantacinque comma quarantatré del codice penale l'agente marco gentili a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di nove punti richiedo la stampa del verbale in spagnolo tramite blood stampa anche la comunicativa",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo autovettura, marca Subaru XV, targato UV456WX (di tipo speciale), proveniente da svizzera.  L'infrazione è stata rilevata il 29/04/2025 alle ore 06:32. Il veicolo si trovava in viale della Vittoria, al civico 9, in parcheggio su strisce pedonali, violando l'articolo 45, comma 43, del codice penale. L'agente Marco Gentili ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 9 punti.  Richiedo la stampa del verbale in spagnolo tramite bluetooth, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un preavviso di violazione per un veicolo ciclomotore con targa \"trecentoventi uno o più\" di tipo prova, marca \"amai ypsilon zetas e ferre sette\", proveniente dalla Spagna. L'infrazione riguarda il parcheggio in divieto di sosta, verificatasi l'undici aprile 2025 alle ore 21:55 in via Garibaldi, numero 11. La violazione è in base all'articolo 46, comma 44 del codice penale, e comporterà una decurtazione di nove punti. Si richiede la stampa in lingua italiana, modalità \"hawaii\", e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "ventuno e cinquantacinque",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "spagna",
+                    "targa": "trecentoventi uno o più",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "amai ypsilon zetas e ferre sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotori con targa trecentoventi uno o più di tipo prova marca amai ypsilon zetas e ferre sette proveniente da spagna l'infrazione nello specifico parcheggio in divieto di sosta sia e verificata in data undici aprile duemilaventicinque alle ore ventuno e cinquantacinque in via garibaldi al numero undici articolo quarantasei comma quarantaquattro del codice penale si comunica che dalla violazione conseguirà una decurtazione di nove punti si richiede la stampa in lingua italiano modalità hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotore con targa MN321OP di tipo prova, marca Yamaha YZF-R7, proveniente da spagna. L'infrazione, nello specifico parcheggio in divieto di sosta, si è verificata in data 11/04/2025 alle ore 21:55 in via Garibaldi, al numero 11 (articolo 46, comma 44 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 9 punti.Si richiede la stampa in lingua italiano, modalità wifi, stampa anche la comunicazione."
+}

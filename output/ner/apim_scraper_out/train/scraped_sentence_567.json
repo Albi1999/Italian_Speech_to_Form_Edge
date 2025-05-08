@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un motoveicolo targato ufficiale, registrato in Spagna. La violazione è avvenuta il 13 aprile 2025 alle 19:05 in viale della Vittoria, civico 9, per parcheggio in doppia fila. La violazione è in base all'articolo 9 comma 1 del codice penale e comporta una decurtazione di 4 punti. La stampa dell'avviso è richiesta via Bluetooth, in spagnolo, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "diciannove cinque",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "spagna",
+                    "targa": "ii centoventitre capelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "nove",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo voi o ken c'è sette seicentocinquanta motoveicoli targato ii centoventitre capelli con targa ufficiale registrato in spagna per un fatto accaduto il tredici aprile duemilaventicinque alle diciannove cinque il veicolo si trovava in viale della vittoria al civico nove dove è stato riscontrato parcheggio in doppia fila in base al l'articolo nove comma uno del codice penale questa infrazione comporta una decurtazione di quattro punti genere alla stampa dell'avviso via blu tutti in spagnolo stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Royal Enfield Interceptor 650, motoveicolo, targato IJ123KL con targa ufficiale, registrato in spagna, per un fatto accaduto il 13/04/2025 alle 19:05. Il veicolo si trovava in viale della Vittoria, al civico 9, dove è stato riscontrato parcheggio in doppia fila, in base all'articolo 9, comma 1, del codice penale. Questa infrazione comporta una decurtazione di 4 punti. Genera la stampa dell'avviso via bluetooth in spagnolo, stampa anche la comunicazione. "
+}

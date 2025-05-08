@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento informa che è in corso la stesura di un preavviso di violazione per un veicolo con targa ufficiale proveniente dal Portogallo. L'infrazione riguarda un parcheggio davanti a passo carrabile, avvenuta il 24 aprile 2025 alle ore 16:19 in via della Libertà, numero civico 3. La violazione è relativa all'articolo 45, comma 43 del codice stradale e comporterà la decurtazione di quattro punti. Si richiede la stampa in lingua portoghese, modalità Bluetooth, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "sedici e diciannove",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "portogallo",
+                    "targa": "sette centottantanove più",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "moto gozzi vi sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo molto veicolo con targa sette centottantanove più di tipo ufficiale marca moto gozzi vi sette proveniente da portogallo l'infrazione nello specifico parcheggio davanti a passo carabine sia e verificata in data ventiquattro aprile duemilaventicinque alle ore sedici e diciannove in via della libertà al numero tre articolo quarantacinque comma quarantatré del codice stradale si comunica che dalla violazione conseguirà una decurtazione di quattro punti si richiede la stampa in lingua portoghese modalità blu stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo motoveicolo con targa MN789OP di tipo ufficiale, marca Moto Guzzi V7, proveniente da portogallo. L'infrazione, nello specifico parcheggio davanti a passo carrabile, si è verificata in data 24/04/2025 alle ore 16:19 in via della Libertà, al numero 3 (articolo 45, comma 43 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 4 punti.Si richiede la stampa in lingua portoghese, modalità bluetooth, stampa anche la comunicazione."
+}

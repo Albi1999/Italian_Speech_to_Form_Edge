@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo ciclomotore targato I654CH, di tipo speciale, proveniente dall'Italia, marca Alfa Romeo Stelvio. La violazione riguarda il parcheggio in doppia fila, avvenuta il 4 maggio 2025 alle ore 9:30 in via Roma, numero 77. L'infrazione rientra nell'articolo 44, comma 42 del codice civile. La contestazione è stata immediata da parte dell'agente Alessandro Moretti. La sanzione prevede la perdita di cinque punti. Si richiede la stampa in lingua italiana tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattro omaggio duemilaventicinque",
+            "ora_violazione": "nove e mezzo",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "italia",
+                    "targa": "i sei centocinquantaquattro chi lo litri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "alfa romeo stelvio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata da parte della gente alessandro moretti",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo ciclomotori targato i sei centocinquantaquattro chi lo litri di tipo speciale proveniente da italia marca alfa romeo stelvio la violazione ovvero parcheggia in doppia fila sia e verificata in data quattro omaggio duemilaventicinque alle ore nove e mezzo in via roma al numero settantasette l'infrazione rientra nell'articolo quarantaquattro con ma quarantadue del codice civile contestazione immediata da parte della gente alessandro moretti la sanzione prevede la perdita di cinque punti si richiede la stampa in lingua italiano tramite fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo ciclomotore targato IJ654KL di tipo speciale proveniente da italia, marca Alfa Romeo Stelvio. La violazione, ovvero parcheggio in doppia fila, si è verificata in data 04/05/2025 alle ore 09:30 in via Roma, al numero 77. L'infrazione rientra nell'articolo 44, comma 42 del codice civile. Contestazione immediata da parte dell'agente Alessandro Moretti. La sanzione prevede la perdita di 5 punti. Si richiede la stampa in lingua italiano, tramite wifi, stampa anche la comunicazione."
+}

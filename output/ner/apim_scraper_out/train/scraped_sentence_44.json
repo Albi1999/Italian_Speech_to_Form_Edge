@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un rimorchio marca Nissan, targa ICSI Ypsilon 387, immatricolato in Germania. La violazione è avvenuta il 22 aprile 2025 alle ore 6:38 in Corso della Repubblica, civico 19. La violazione riguarda il transito in zona accesso vietato, articolo 5, comma 3 del codice civile, con conseguente perdita di 4 punti. La stampa è richiesta in modalità Bluetooth e in lingua portoghese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "sei trentotto",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "icsi ypsilon trecentottantasette",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "nissan",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per rimorchio marca nissan ok targa icsi ypsilon trecentottantasette gettati di tipo prova immatricolati in germania in data ventidue aprile duemilaventicinque alle ore sei trentotto in corso della repubblica al civico diciannove e stata commessa la seguente violazione transito in zona accesso vietato articolo cinque con ma tre del codice civile dalla violazione con segue la perdita di quattro punti stampa in modalità blu tutte in lingua portoghese stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per rimorchio, marca Nissan Juke, targa XY987ZT di tipo prova, immatricolato in germania. In data 22/04/2025 alle ore 06:38, in corso della Repubblica, al civico 19, è stata commessa la seguente violazione: transito in zona accesso vietato (articolo 5, comma 3 del codice civile).Dalla violazione consegue la perdita di 4 punti.Stampa in modalità bluetooth e in lingua portoghese, stampa anche la comunicazione."
+}

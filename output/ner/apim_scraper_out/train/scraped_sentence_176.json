@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo ciclomotore marca Onda, targa \"guerre novecentottanta sette se ti\", di tipo ufficiale, immatricolato in Olanda. La violazione è avvenuta il 4 maggio 2025 alle 18:30 in via della Speranza, numero civico 17, per transito in zona accesso vietato secondo l'articolo 14, comma 1 del codice stradale. Sono previsti 8 punti di decurtazione. Si richiede la stampa del preavviso in lingua portoghese tramite Bluetooth, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "diciotto e trenta",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "olanda",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "onda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattordici",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo ciclomotori marca onda targa guerre novecentottanta sette se ti di tipo ufficiale immatricolati in olanda la violazione è avvenuta il quattro maggio duemilaventicinque alle ore diciotto e trenta in via della speranza al numero civico diciassette ed è relativa transito in zona accesso vietato in base all'articolo quattordici comma uno del codice stradale per tale violazione sono previsti otto punti di decurtazione si richiede la stampa di tale preavviso in lingua portoghese tramite blu tutta stampa anche la comunicativa",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo ciclomotore, marca Honda Jazz, targa QR987ST di tipo ufficiale, immatricolato in olanda. La violazione è avvenuta il 04/05/2025 alle ore 18:30 in via della Speranza, al numero civico 17, ed è relativa a transito in zona accesso vietato, in base all'articolo 14, comma 1 del codice stradale.Per tale violazione sono previsti 8 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua portoghese tramite bluetooth, stampa anche la comunicazione."
+}

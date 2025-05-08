@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo Lancia Ypsilon, macchina operatrice con targa speciale immatricolata in Spagna. L'infrazione è avvenuta il 3 maggio 2025 alle 15:20 in via della Musica, numero 18, per parcheggio in divieto di sosta. L'articolo violato è il 7, comma 5 del codice penale, con la conseguente decurtazione di 3 punti dalla patente. Il verbale sarà stampato via Bluetooth in portoghese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "quindici venti",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "i e centoventitre e chi lo litri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "lancia i ypsilon",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo lancia i ypsilon macchina operatrice con targa i e centoventitre e chi lo litri di tipo speciale immatricolati in spagna per un'infrazione commessa il tre maggio duemilaventicinque alle quindici venti l'infrazione e avvenuta in via della musica al numero diciotto dove il veicolo era in parcheggiato in divieto di sosta l'articolo violato è il sette con ma cinque del codice penale verranno tolti tre punti dalla patente stampa questo verbale via blu tutti in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Lancia Ypsilon, macchina operatrice con targa IJ123KL di tipo speciale, immatricolato in spagna, per un'infrazione commessa il 03/05/2025 alle 15:20. L'infrazione è avvenuta in via della Musica, al numero 18, dove il veicolo era in parcheggio in divieto di sosta.  L'articolo violato è il 7, comma 5 del codice penale. Verranno tolti 3 punti dalla patente. Stampa questo verbale via bluetooth in portoghese, non stampare anche la comunicazione."
+}

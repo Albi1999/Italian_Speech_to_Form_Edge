@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato l'undici aprile 2025 alle ore mezzanotte e ventidue per un ciclo motore con targa prova immatricolato in Croazia. L'infrazione è stata rilevata in corso Buenos Aires, civico 98, per violazione del codice stradale, articolo 44, comma 42, con transito in zona accesso vietato. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare uno punti. Il veicolo è un Success VI 650 di colore oro. È richiesta la stampa del preavviso tramite Bluetooth in inglese, stampando anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte ventidue",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclo motore",
+                    "nazione": "croazia",
+                    "targa": "ci di quattrocentocinquanta sei jeff",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "success vi seicentocinquanta",
+                    "colore": "oro"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data undici aprile duemilaventicinque alle ore è mezzanotte ventidue è stato notificato un preavviso per un ciclo motore targato ci di quattrocentocinquanta sei jeff con targa prova immatricolati in croazia l'infrazione e stata rilevata in corso buenos aires al civico novantotto con violazione del codice stradale articolo quarantaquattro comma quarantadue in particolare si e riscontrato un transito in zona accesso vietato non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono uno punti il veicolo è un success vi seicentocinquanta di colore oro con numero di telaio novecentocinquanta sei milioni e seicentocinquanta quattromila e seicento cinque massa duemilatrecento settanta chilogrammi necessita la stampa del preavviso tramite blu tutte in inglese stampa anche la comunicazione",
+    "original_sentence": "In data 11/04/2025, alle ore 00:22, è stato notificato un preavviso per un ciclomotore targato CD456EF con targa prova, immatricolato in croazia. L'infrazione è stata rilevata in corso Buenos Aires, al civico 98, con violazione del codice stradale, articolo 44, comma 42, in particolare si è riscontrato un transito in zona accesso vietato Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 1 punti. Il veicolo è un Suzuki SV650 di colore oro, con numero di telaio 956654605 e massa 2370 kg.Necessito la stampa del preavviso tramite bluetooth, in inglese, stampa anche la comunicazione."
+}

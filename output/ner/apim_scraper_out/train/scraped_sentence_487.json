@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il diciotto aprile duemilaventicinque alle ore quattro e diciotto per una violazione riscontrata al veicolo ciclomotore marca Amai Ypsilon Seta e Ferre Sette, targato ICSI Ypsilon novecentottanta sette, proveniente dalla Francia. La violazione è avvenuta in corso Buenos Aires, civico novantotto, per parcheggio in divieto di sosta, violando l'articolo trentaquattro comma trentadue del codice penale. L'agente Francesco Rizzo ha proceduto con contestazione immediata e si prevede la decurtazione di sette punti dalla patente. È richiesta la stampa in portoghese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "quattro e diciotto",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "icsi ypsilon novecentottanta sette",
+                    "tipologia_targa": "tipo copertura",
+                    "marca_modello": "amai ypsilon seta e ferre sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentaquattro",
+                    "comma": "trentadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: decurtazione, after: punti",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data diciotto aprile duemilaventicinque alle ore quattro e diciotto per la violazione riscontrata al veicolo ciclomotori marca amai ypsilon seta e ferre sette targato icsi ypsilon novecentottanta sette gettati tipo copertura proveniente da francia in particolare in corso buenos aires civico novantotto è stato accertato parcheggio in divieto di sosta in violazione dell'articolo trentaquattro con ma trentadue del codice penale l'agente francesco rizzo a proceduto con contestazione immediata si prevede la decurtazione di sette punti dalla patente richiedo la stampa in portoghese via blu tutta stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 18/04/2025 alle ore 04:18 per la violazione riscontrata al veicolo ciclomotore, marca Yamaha YZF-R7, targato XY987ZT (tipo copertura) proveniente da francia. In particolare, in corso Buenos Aires, civico 98, è stato accertato parcheggio in divieto di sosta, in violazione dell'articolo 34, comma 32 del codice penale. L'agente Francesco Rizzo ha proceduto con contestazione immediata. Si prevede la decurtazione di 7 punti dalla patente. Richiedo la stampa in portoghese via bluetooth, stampa anche la comunicazione."
+}

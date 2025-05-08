@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 20 aprile 2025 alle 14:22 per un'infrazione accertata in viale della stazione, civico 4. Il veicolo coinvolto è un'autovettura con targa copertura immatricolata in Austria, targato \"icsi ypsilon si centocinquantaquattro zaha\". La violazione riguarda il codice penale, articolo 31, comma 30, per parcheggio in zona a rimozione, con la decurtazione di cinque punti. La contestazione è stata immediata, effettuata dall'agente Anna Bianchi. La stampa del verbale è stata eseguita tramite WiFi in portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "quattordici ventidue",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "icsi ypsilon si centocinquantaquattro zaha",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle quattordici ventidue del venti aprile duemilaventicinque sto dicendo un verbale per il veicolo autovettura targato icsi ypsilon si centocinquantaquattro zaha con targa copertura immatricolati in austria l'infrazione e stata accertata in viale della stazione al civico quattro con violazione del codice penale articolo trentuno due nove tre due comma trenta per parcheggio in zona a rimozione sono previsti cinque punti da decurtare contestazione immediata effettuata dalla gente anna bianchi il verbale è stato redatto sul posto in viale della stazione non posso applicare alcuna sanzione accessoria stampa tramite wifi in portoghese stampa anche la comunicazione",
+    "original_sentence": "Alle 14:22 del 20/04/2025, sto redigendo un verbale per il veicolo autovettura targato XY654ZA con targa copertura, immatricolato in austriaL'infrazione è stata accertata in viale della Stazione, al civico 4, con violazione del codice penale, articolo 31, 2932,comma 30 per parcheggio in zona rimozione Sono previsti 5 punti da decurtare. Contestazione immediata effettuata dall'agente Anna Bianchi, il verbale è stato redatto sul posto in viale della Stazione. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in portoghese, stampa anche la comunicazione. "
+}

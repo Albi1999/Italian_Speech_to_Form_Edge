@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sei aprile 2025 alle ore 20:28 per una violazione riscontrata su un veicolo rimorchio marca Se Akhtar Jona, targato 450 6 Occhi, tipo speciale, proveniente dalla Spagna. La violazione è avvenuta in via della Musica, civico 18, per parcheggio in zona a rimozione, violando l'articolo 44, comma 42 del codice civile. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di dieci punti dalla patente. La stampa è richiesta in olandese via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "venti e ventotto",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "spagna",
+                    "targa": "quattrocentocinquanta sei occhi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "se akhtar jona",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: decurtazione, after: punti",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data sei aprile duemilaventicinque alle ore venti e ventotto per la violazione riscontrata al veicolo rimorchio marca se akhtar jona targato quattrocentocinquanta sei occhi tipo speciale proveniente da spagna in particolare in via della musica civico diciotto è stato accertato parcheggio in zona a rimozione in violazione dell'articolo quarantaquattro comma quarantadue del codice civile data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di dieci punti dalla patente richiedo la stampa in olandese via blu non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 06/04/2025 alle ore 20:28 per la violazione riscontrata al veicolo rimorchio, marca Seat Arona, targato MN456OP (tipo speciale) proveniente da spagna. In particolare, in via della Musica, civico 18, è stato accertato parcheggio in zona rimozione, in violazione dell'articolo 44, comma 42 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 10 punti dalla patente. Richiedo la stampa in olandese via bluetooth, non stampare anche la comunicazione."
+}

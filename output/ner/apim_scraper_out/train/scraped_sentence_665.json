@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il dodici aprile duemilaventicinque alle ore cinque e quarantacinque per un veicolo motoveicoli di marca Fiat Cinquecento con targa registrata in Spagna. L'infrazione è avvenuta in viale della Scienza al numero quattordici per parcheggio in doppia fila, violando l'articolo quarantadue comma quaranta del codice penale. Non essendo stato possibile identificare il conducente sul posto, la notifica è inviata al proprietario del veicolo. Sono previsti cinque punti di decurtazione. Si richiede la stampa della notifica tramite WiFi in lingua italiana, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "cinque i quarantacinque",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "spagna",
+                    "targa": "guerre trecentoventi university",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "fiat cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducenti sul posto",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantadue",
+                    "comma": "quaranta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: previsti, after: di",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data dodici aprile duemilaventicinque alle ore cinque i quarantacinque è stato emesso un preavviso di violazione per il veicolo motoveicoli di marca fiat cinquecento con targa guerre trecentoventi university tipo prova registrato in spagna l'infrazione avvenuta in viale della scienza al numero quattordici e consiste in parcheggio in doppia fila come previsto dall'articolo quarantadue come quaranta del codice penale non essendo stato possibile identificare il conducenti sul posto la notifica viene inviata al proprietario del veicolo sono previsti cinque punti di decurtazione si prega di stampare la presenti notifica tramite wifi in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 12/04/2025, alle ore 05:45, è stato emesso un preavviso di violazione per il veicolo motoveicolo di marca Fiat 500, con targa QR321ST (tipo prova), registrato in spagna. L'infrazione è avvenuta in viale della Scienza, al numero 14, e consiste in parcheggio in doppia fila, come previsto dall'articolo 42, comma 40 del codice penale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 5 punti di decurtazione. Si prega di stampare la presente notifica tramite wifi, in lingua italiano, stampa anche la comunicazione. "
+}

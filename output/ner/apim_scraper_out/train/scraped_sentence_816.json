@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un preavviso di violazione per un veicolo autovettura con targa speciale proveniente dall'Olanda. L'infrazione riguarda un parcheggio davanti a passo carabine, verificata il 25 aprile 2025 alle 22:50 in via Garibaldi al numero 11. La violazione è dell'articolo 20 comma 18 del codice penale e comporta la decurtazione di due punti. Si richiede la stampa in lingua francese con modalità Hawaii e di non stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "ventidue cinquanta",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "olanda",
+                    "targa": "yemen trecentoventi uno o più",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "un dai cona",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per veicolo autovettura con targa yemen trecentoventi uno o più di tipo speciale marca un dai cona proveniente da olanda l'infrazione nello specifico parcheggio davanti a passo carabine se verificata in data venticinque aprile duemilaventicinque alle ore ventidue cinquanta invia garibaldi al numero undici articolo venti comma diciotto del codice penale si comunica che dalla violazione conseguirà una decurtazione di due punti si richiede la stampa in lingua francese modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa MN321OP di tipo speciale, marca Hyundai Kona, proveniente da olanda. L'infrazione, nello specifico parcheggio davanti a passo carrabile, si è verificata in data 25/04/2025 alle ore 22:50 in via Garibaldi, al numero 11 (articolo 20, comma 18 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 2 punti. Si richiede la stampa in lingua francese, modalità wifi, non stampare anche la comunicazione. "
+}

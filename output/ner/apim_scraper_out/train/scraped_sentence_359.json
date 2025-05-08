@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo macchina operatrice di marca \"un dai venti\" con targa \"è jeff e centoventitre giacca\", tipo ufficiale, proveniente dalla Germania. L'infrazione è avvenuta il 30 aprile 2025 alle ore 1:11 in via Giuseppe Mazzini, numero civico 24, per parcheggio in zona a rimozione, violando l'articolo 37 comma 35 del codice stradale. La decurtazione prevista è di quattro punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa è necessaria tramite Wi-Fi in spagnolo, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "una e undici",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "germania",
+                    "targa": "è jeff e centoventitre giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "un dai venti",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentasette",
+                    "comma": "trentacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo macchina operatrice di marca un dai venti con targa è jeff e centoventitre giacca tipo ufficiale proveniente da germania fatto avvenuto il trenta aprile duemilaventicinque alle ore una e undici posizione via giuseppe mazzini numero civico ventiquattro infrazione parcheggio in zona a rimozione in violazione dell'articolo trentasette comma trentacinque del codice stradale decurtazione prevista quattro punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite vuoi fai in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo macchina operatrice di marca Hyundai i20, con targa EF123GH (tipo ufficiale), proveniente da germania.  Fatto avvenuto il 30/04/2025 alle ore 01:11. Posizione: via Giuseppe Mazzini, numero civico 24. Infrazione: parcheggio in zona rimozione, in violazione dell'articolo 37, comma 35, del codice stradale. Decurtazione prevista: 4 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in spagnolo, non stampare anche la comunicazione."
+}

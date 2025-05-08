@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un'autovettura Honda Civic con targa ufficiale immatricolata in Spagna. La violazione è avvenuta il 21 aprile 2025 alle ore 6:24 in Corso della Giustizia, civico 23, per parcheggio in divieto di sosta. La violazione riguarda l'articolo 8, comma 6 del codice civile e comporta la perdita di sei punti. La stampa del verbale è richiesta in modalità Hawaii e in lingua inglese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "sei e ventiquattro",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "spagna",
+                    "targa": "i già i quattrocentocinquanta sei capelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "honda civic",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per autovettura marca honda civic seicentocinquanta targa i già i quattrocentocinquanta sei capelli di tipo ufficiale immatricolati in spagna in data ventuno aprile duemilaventicinque alle ore sei e ventiquattro in corso della giustizia al civico ventitré e stata commessa la seguente violazione parcheggio in divieto di sosta articolo otto comma sei del codice civile dalla violazione con segue la perdita di sei punti stampa in modalità hawaii fai è in lingua inglese non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per autovettura, marca Honda CB650R, targa IJ456KL di tipo ufficiale, immatricolato in spagna. In data 21/04/2025 alle ore 06:24, in corso della Giustizia, al civico 23, è stata commessa la seguente violazione: parcheggio in divieto di sosta (articolo 8, comma 6 del codice civile). Dalla violazione consegue la perdita di 6 punti. Stampa in modalità wifi e in lingua inglese, non stampare anche la comunicazione. "
+}

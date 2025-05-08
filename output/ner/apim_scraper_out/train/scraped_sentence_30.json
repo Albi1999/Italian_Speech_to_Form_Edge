@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 21 aprile 2025 alle ore 10:58 in via della Speranza, civico 18. La violazione riguarda un veicolo Skoda Fabia con targa IO 450 6, immatricolato in Francia, che ha parcheggiato in doppia fila. La violazione è basata sull'articolo 158, comma 2 del codice civile. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti nove punti di decurtazione. Si richiede la stampa in lingua olandese via Bluetooth e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "dieci e cinquantotto",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "francia",
+                    "targa": "io quattrocentocinquanta sei",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "scorda fabia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il ventuno aprile duemilaventicinque alle ore dieci e cinquantotto in via della speranza al civico diciotto a carico del veicolo scorda fabia molto veicolo con targa io quattrocentocinquanta sei chi lo litri di tipo ufficiale immatricolati in francia la violazione contestata e parcheggia in doppia fila in base a l'articolo centocinquantotto comma due del codice civile non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti nove punti di decurtazione si richiede la stampa in lingua olandese via blu stampa anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 21/04/2025 alle ore 10:58 in via della Speranza, al civico 18, a carico del veicolo Skoda Fabia, motoveicolo con targa IJ456KL di tipo ufficiale, immatricolato in francia. La violazione contestata è parcheggio in doppia fila, in base all'articolo 158, comma 2 del codice civile.Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti 9 punti di decurtazione. Si richiede la stampa in lingua olandese via bluetooth, stampa anche la comunicazione."
+}

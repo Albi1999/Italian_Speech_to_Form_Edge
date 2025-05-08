@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale avvenuta il 24 aprile 2025 alle ore 19:35 in via Roma, numero 77. La violazione riguarda il transito in zona ad accesso vietato, rientrante nell'articolo 9, comma 7 del codice stradale. La contestazione è stata immediata da parte dell'agente Chiara Romano. La sanzione prevede la perdita di cinque punti. Il veicolo coinvolto è una macchina operatrice targata \"effe centoventitre giacca\", di tipo copertura, proveniente dall'Italia, marca Chapas. Si richiede la stampa in lingua portoghese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "diciannove trentacinque",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "copertura",
+                    "nazione": "italia",
+                    "targa": "effe centoventitre giacca",
+                    "tipologia_targa": null,
+                    "marca_modello": "chapas",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrice targato effe centoventitre giacca di tipo copertura proveniente da italia marca chapas a chi zitta seicentocinquanta la violazione ovvero transito in zona accesso vietato se verificata in data a ventiquattro aprile duemilaventicinque alle ore diciannove trentacinque in via roma al numero settantasette l'infrazione rientra nell'articolo nove comma sette del codice stradale contestazione immediata da parte della gente è chiara romano la sanzione prevede la perdita di cinque punti si richiede la stampa in lingua portoghese tramite blu tutta stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato EF123GH di tipo copertura proveniente da italia, marca Kawasaki Z650. La violazione, ovvero transito in zona accesso vietato, si è verificata in data 24/04/2025 alle ore 19:35 in via Roma, al numero 77. L'infrazione rientra nell'articolo 9, comma 7 del codice stradale. Contestazione immediata da parte dell'agente Chiara Romano. La sanzione prevede la perdita di 5 punti. Si richiede la stampa in lingua portoghese, tramite bluetooth, stampa anche la comunicazione. "
+}

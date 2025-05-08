@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è un'autovettura marca MAS, targato \"cappelle trecentoventi uno megan houston\", proveniente dalla Francia. L'infrazione è stata rilevata il 9 aprile 2025 alle ore 2:12 in via Garibaldi, civico 11, per parcheggio in doppia fila. La violazione riguarda l'articolo 29, comma 27 del codice civile. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 4 punti. Si richiede la stampa del verbale in olandese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "due dodici",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "francia",
+                    "targa": "cappelle trecentoventi uno megan houston",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "mas",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo autovettura marca mas da due targato cappelle trecentoventi uno megan houston di tipo copertura proveniente da francia l'infrazione e stata rilevata il nove aprile duemilaventicinque alle ore due dodici il veicolo si trovava in via garibaldi al civico undici in parcheggia in doppia fila violando l'articolo ventinove comma ventisette del codice civile non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazione comporta la perdita di quattro punti richiedo la stampa del verbale in olandese tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo autovettura, marca Mazda 2, targato KL321MN (di tipo copertura), proveniente da francia.  L'infrazione è stata rilevata il 09/04/2025 alle ore 02:12. Il veicolo si trovava in via Garibaldi, al civico 11, in parcheggio in doppia fila, violando l'articolo 29, comma 27, del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 4 punti.  Richiedo la stampa del verbale in olandese tramite wifi, stampa anche la comunicazione."
+}

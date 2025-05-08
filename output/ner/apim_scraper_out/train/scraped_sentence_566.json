@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo motoveicolo marca Volkswagen Polo, targato 'guerre novecentottanta sette se ti', proveniente dal Portogallo. La violazione è avvenuta il primo maggio 2025 alle ore 24:33 per parcheggio su strisce pedonali in via della Concordia, numero civico 14. La violazione è in base all'articolo 35, comma 33 del codice stradale, con un punto di decurtazione previsto. Si richiede la stampa del preavviso tramite Bluetooth in lingua portoghese e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "ventiquattro i trentatré",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "portogallo",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "volkswagen polo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: di",
+            "tipo_stampa": "piu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo motoveicoli marca volkswagen polo targato guerre novecentottanta sette se ti di tipo copertura proveniente da portogallo in data primo maggio duemilaventicinque alle ore ventiquattro i trentatré e stata rilevata da violazione di parcheggio su strisce pedonali in via della concordia al numero quattordici in base all'articolo articolo trentacinque coma trentatré del codice stradale per tale infrazione sono previsti un punti di decurtazione si richiede stampa del preavviso tramite piu tutti in lingua portoghese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo motoveicolo, marca Volkswagen Polo, targato QR987ST di tipo copertura, proveniente da portogallo. In data 01/05/2025 alle ore 00:33, è stata rilevata la violazione di parcheggio su strisce pedonali in via della Concordia, al numero 14, in base all'articolo 35, comma 33 del codice stradale. Per tale infrazione sono previsti 1 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua portoghese, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo ciclomotore marca Suzuki, targato GU 123 ST, di tipo speciale proveniente dalla Spagna. L'infrazione è stata rilevata il 28 aprile 2025 alle ore 16:14 in via Etna, civico 45, per parcheggio su strisce pedonali, violando l'articolo 12 comma 10 del codice civile. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 8 punti. Si richiede la stampa del verbale in olandese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "sedici e quattordici",
+            "Strada_1": "via etna",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "spagna",
+                    "targa": "guerre centoventitre se ti",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "suzuki",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: perdita, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo ciclomotori marca suzuki chi è vi seicentocinquanta targato guerre centoventitre se ti di tipo speciale proveniente da spagna l'infrazione stata rilevata il ventotto aprile duemilaventicinque alle ore sedici e quattordici il veicolo si trovava in via etna al civico quarantacinque in parcheggio su strisce pedonali violando l'articolo dodici comma dieci del codice civile non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazione comporta la perdita di otto punti richiedo la stampa del verbale in olandese tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo ciclomotore, marca Suzuki SV650, targato QR123ST (di tipo speciale), proveniente da spagna.  L'infrazione è stata rilevata il 28/04/2025 alle ore 16:14. Il veicolo si trovava in via Etnea, al civico 45, in parcheggio su strisce pedonali, violando l'articolo 12, comma 10, del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 8 punti.  Richiedo la stampa del verbale in olandese tramite wifi, stampa anche la comunicazione."
+}

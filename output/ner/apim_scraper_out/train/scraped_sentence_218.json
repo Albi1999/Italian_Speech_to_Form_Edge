@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 26 aprile 2025 alle ore 7:32 per una violazione riscontrata su un veicolo ciclomotore marca Fox Vaga in Golf, targato 123 occhi, tipo ufficiale, proveniente dal Belgio. La violazione è avvenuta in corso Vittorio Emanuele, civico 15, per parcheggio su strisce pedonali, violando l'articolo 43 comma 41 del codice stradale. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di 4 punti dalla patente. La stampa è richiesta in italiano via Hawaii, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "sette trentadue",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "belgio",
+                    "targa": "centoventitre occhi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fox vaga in golf",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data ventisei aprile duemilaventicinque alle ore sette trentadue per la violazione riscontrata al veicolo ciclomotori marca fox vaga in golf targato centoventitre occhi tipo ufficiale proveniente da belgio in particolare in corso vittorio emanuele civico quindici è stato accertato parcheggio su strisce pedonali in violazione dell'articolo quarantatré comma quarantuno del codice stradale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di quattro punti dalla patente richiedo la stampa in italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 26/04/2025 alle ore 07:32 per la violazione riscontrata al veicolo ciclomotore, marca Volkswagen Golf, targato MN123OP (tipo ufficiale) proveniente da belgio. In particolare, in corso Vittorio Emanuele, civico 15, è stato accertato parcheggio su strisce pedonali, in violazione dell'articolo 43, comma 41 del codice stradale. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 4 punti dalla patente. Richiedo la stampa in italiano via wifi, non stampare anche la comunicazione."
+}

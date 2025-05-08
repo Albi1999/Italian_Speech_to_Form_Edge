@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo Mercedes Classe A, immatricolato in Croazia, con targa BEH 450 6 CDI, di tipo ufficiale. L'infrazione è avvenuta il 20 aprile 2025 alle 13:06 in via Garibaldi, numero 11, per transito in zona ad accesso vietato. L'articolo violato è il 46, comma 44 del codice civile, con la decurtazione di 2 punti dalla patente. La stampa del verbale deve essere effettuata via Hawaii, in lingua francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "tredici e sei minuti",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "beh quattrocentocinquanta sei ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: tolti, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo mercedes classe a ciclomotori con targa beh quattrocentocinquanta sei ci di di tipo ufficiale immatricolati in croazia per un'infrazione commessa il venti aprile duemilaventicinque alle tredici e sei minuti l'infrazione e avvenuta in via garibaldi al numero undici dove il veicolo era in transito in zona accesso vietato l'articolo violato è il quarantasei comma quarantaquattro del codice civile verranno tolti due punti dalla patente stampa questo verbale via hawaii fai in francese non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Mercedes Classe A, ciclomotore con targa AB456CD di tipo ufficiale, immatricolato in croazia, per un'infrazione commessa il 20/04/2025 alle 13:06. L'infrazione è avvenuta in via Garibaldi, al numero 11, dove il veicolo era in transito in zona accesso vietato.  L'articolo violato è il 46, comma 44 del codice civile. Verranno tolti 2 punti dalla patente. Stampa questo verbale via wifi in francese, non stampare anche la comunicazione."
+}

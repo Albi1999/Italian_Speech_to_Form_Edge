@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo rimorchio targato speciale registrato in Svizzera. L'infrazione è avvenuta il nove aprile duemilaventicinque alle dodici e ventitré in via del corso al civico dodici, dove il veicolo era parcheggiato in divieto di sosta. La violazione è in base all'articolo cinque comma tre del codice stradale e comporta una decurtazione di nove punti. La stampa dell'avviso è richiesta via Bluetooth in portoghese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "dodici e ventitré",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "icsi ci novecentottanta sette zaha",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emette un avviso di violazione quindi si tratta di un preavviso per il veicolo successivi seicentocinquanta rimorchio targato icsi ci novecentottanta sette zaha con targa speciale registrato in svizzera per un fatto accaduto in nove aprile duemilaventicinque alle dodici e ventitré il veicolo si trovava in via del corso al civico dodici dove è stato riscontrato parcheggiato in divieto di sosta in base all'articolo cinque coma tre del codice stradale questa infrazione comporta una decurtazione di nove punti genera alla stampa dell'avviso via blu tutti in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Suzuki SV650, rimorchio, targato XY987ZA con targa speciale, registrato in svizzera, per un fatto accaduto il 09/04/2025 alle 12:23. Il veicolo si trovava in via del Corso, al civico 12, dove è stato riscontrato parcheggio in divieto di sosta, in base all'articolo 5, comma 3, del codice stradale. Questa infrazione comporta una decurtazione di 9 punti. Genera la stampa dell'avviso via bluetooth in portoghese, non stampare anche la comunicazione. "
+}

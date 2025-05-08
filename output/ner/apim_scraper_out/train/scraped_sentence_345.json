@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo rimorchio marca \"chi ha pianto\" con targa \"jeff trecentoventi uno giacca\", immatricolato in Austria. La violazione è avvenuta il 26 aprile 2025 alle ore 1:25 in via della Scienza, civico 14, per parcheggio davanti a passo carabine, violando l'articolo 17 comma 15 del codice penale. Sono previsti tre punti di decurtazione. Si richiede la stampa del preavviso in lingua olandese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "una e venticinque",
+            "Strada_1": "inviarle della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "jeff trecentoventi uno giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "chi ha pianto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo rimorchio marca chi ha pianto targa è jeff trecentoventi uno giacca di tipo speciale immatricolati in austria la violazione è avvenuta il ventisei aprile duemilaventicinque alle ore una e venticinque inviarle della scienza al numero civico quattordici ed è relativa a parcheggio davanti a passo carabine invase all'articolo diciassette comma quindici del codice penale per tale violazione sono previsti tre punti di decurtazione si richiede la stampa di tale preavviso in lingua olandese tramite blood stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo rimorchio, marca Kia Picanto, targa EF321GH di tipo speciale, immatricolato in austria. La violazione è avvenuta il 26/04/2025 alle ore 01:25 in viale della Scienza, al numero civico 14, ed è relativa a parcheggio davanti a passo carrabile, in base all'articolo 17, comma 15 del codice penale.Per tale violazione sono previsti 3 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua olandese tramite bluetooth, stampa anche la comunicazione."
+}

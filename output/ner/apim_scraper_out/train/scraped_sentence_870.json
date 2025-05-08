@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il sette maggio duemilaventicinque alle ore sei e diciannove. Un verbale è stato elevato al veicolo \"scorda camice ciclomotori\" con targa \"b sette centottantanove ci di di\", immatricolato in Svizzera, per violazione dell'articolo nove comma uno del codice civile, ovvero parcheggiato in doppia fila. La violazione è stata rilevata in viale della Concordia al civico tre. La contestazione è stata immediata, effettuata dall'agente Luca Verdi, e ha comportato la decurtazione di nove punti. La stampa necessaria è in lingua inglese tramite \"hawaii fai\" e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette maggio duemilaventicinque",
+            "ora_violazione": "sei diciannove",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "svizzera",
+                    "targa": "b sette centottantanove ci di di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "scorda camice",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "nove",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: derivano, after: decurtazione",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data sette maggio duemilaventicinque alle ore sei diciannove si eleva verbale al veicolo scorda camice ciclomotori con targa b sette centottantanove ci di di tipo speciale immatricolati in svizzera per violazione dell'articolo nove con ma uno del codice civile ovvero parcheggiato in doppia fila rilevata in viale della concordia al civico tre di la contestazione e stata immediata effettuata dalla gente luca verdi dalla violazione derivano nove punti di decurtazione stampa necessaria in lingua inglese di hawaii fai stampa anche la comunicazione",
+    "original_sentence": "In data 07/05/2025, alle ore 06:19, si eleva verbale al veicolo Skoda Kamiq, ciclomotore con targa AB789CD di tipo speciale, immatricolato in svizzera, per violazione dell'articolo 9, comma 1 del codice civile, ovvero parcheggio in doppia fila, rilevata in viale della Concordia, al civico 13. La contestazione è stata immediata, effettuata dall'agente Luca Verdi. Dalla violazione derivano 9 punti di decurtazione. Stampa necessaria in lingua inglese via wifi, stampa anche la comunicazione. "
+}

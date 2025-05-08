@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un preavviso di violazione per un veicolo ciclomotore con targa ufficiale proveniente dalla Spagna. L'infrazione riguarda il transito in una zona a accesso vietato, avvenuta il cinque maggio 2025 alle ore dieci e otto minuti in via della Speranza, numero civico diciotto. La violazione comporterà una decurtazione di dieci punti. Si richiede la stampa in lingua francese con modalità Hawaii e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "dieci otto minuti",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "spagna",
+                    "targa": "sette centottantanove giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "peggio duecentotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventisei",
+                    "comma": "ventiquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotori con targa è sette centottantanove giacca di tipo ufficiale marca peggio duecentotto proveniente da spagna l'infrazione nello specifico transito in zona accesso vietato sia e verificata in data cinque maggio duemilaventicinque alle ore dieci otto minuti in via della speranza al numero diciotto articolo ventisei comma ventiquattro del codice civile si comunica che dalla violazione conseguirà una decurtazione di dieci punti si richiede la stampa in lingua francese modalità hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotore con targa EP789GH di tipo ufficiale, marca Peugeot 208, proveniente da spagna. L'infrazione, nello specifico transito in zona accesso vietato, si è verificata in data 05/05/2025 alle ore 10:08 in via della Speranza, al numero 18 (articolo 26, comma 24 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 10 punti.Si richiede la stampa in lingua francese, modalità wifi, stampa anche la comunicazione."
+}

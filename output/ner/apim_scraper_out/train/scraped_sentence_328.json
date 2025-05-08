@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un'infrazione stradale commessa da un veicolo Lancia Delta con targa ufficiale francese. L'infrazione è avvenuta il 9 aprile 2025 alle ore 11:58 in via della Pace, civico 2, per transito in zona a accesso vietato. La contestazione è stata eseguita immediatamente dall'agente Francesco Rizzo e comporta la decurtazione di sette punti. È richiesta la stampa in spagnolo via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "undici e cinquantotto",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "francia",
+                    "targa": "guerre centoventitre se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "lancia delta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "tremilaquattrocento quindici",
+                    "comma": "tredici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: decurtazione, after: punti",
+            "tipo_stampa": "about",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo lancia delta autovettura targa guerre centoventitre se ti di tipo ufficiale immatricolati in francia per infrazione commessa in data a nove aprile duemilaventicinque ore undici e cinquantotto in via della pace civico due è stato rilevato transito in zona accesso vietato ai sensi dell'articolo tremilaquattrocento quindici comma tredici del codice stradale contestazione immediata eseguita dall'agente francesco rizzo la violazione comporta la decurtazione di sette punti richiesta stampa in spagnolo via about stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Lancia Delta autovettura, targa QR123ST di tipo ufficiale, immatricolato in francia, per infrazione commessa in data 09/04/2025, ore 11:58. In via della Pace, civico 2, è stato rilevato transito in zona accesso vietato, ai sensi dell'articolo 3415, comma 13, del codice stradale.Contestazione immediata eseguita dall'agente Francesco Rizzo. La violazione comporta la decurtazione di 7 punti. Richiesta stampa in spagnolo via bluetooth, stampa anche la comunicazione."
+}

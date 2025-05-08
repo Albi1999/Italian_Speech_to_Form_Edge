@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sette aprile duemilaventicinque alle ore due ventinove per una violazione riscontrata su un veicolo macchina operatrice marcato Idiota Aris, targato IEHI123, proveniente dalla Spagna. La violazione è avvenuta in via della Repubblica 20 e via dei Fori Imperiali civico 10, per transito in zona accesso vietato, violando l'articolo 14 comma 1 del codice stradale. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di sette punti dalla patente. La stampa è richiesta in italiano via Hawaii, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "due ventinove",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "i ehi centoventitre capelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "idiota aris",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattordici",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data sette aprile duemilaventicinque alle ore due ventinove per violazione riscontrata al veicolo macchina operatrice marcato idiota aris targato i ehi centoventitre capelli tipo ufficiale proveniente da spagna in particolare in via della repubblica venti via dei fori imperiali civico dieci è stato accertato transito in zona accesso vietato in violazione dell'articolo quattordici comma uno del codice stradale data l'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di sette punti dalla patente richiedo la stampa in italiano via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 07/04/2025 alle ore 02:29 per la violazione riscontrata al veicolo macchina operatrice, marca Toyota Yaris, targato IJ123KL (tipo ufficiale) proveniente da spagna. In particolare, in via della Repubblica, 20via dei Fori Imperiali, civico 10, è stato accertato transito in zona accesso vietato, in violazione dell'articolo 14, comma 1 del codice stradale. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 7 punti dalla patente. Richiedo la stampa in italiano via wifi, stampa anche la comunicazione. "
+}

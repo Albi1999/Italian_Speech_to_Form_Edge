@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo agricolo con targa speciale, proveniente dall'Austria. L'infrazione è avvenuta il 26 aprile 2025 alle 21:59 in viale della Concordia, numero 13. La violazione riguarda il parcheggio in zona a rimozione, violando l'articolo 31, comma 30 del codice penale. La conseguenza della violazione sarà la decurtazione di tre punti. Si richiede la stampa in lingua spagnola, modalità Bluetooth, e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "ventuno e cinquantanove",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "austria",
+                    "targa": "trecentoventi uno o più di tipo speciale",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "casacche zitta seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: decurtazioni, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa trecentoventi uno o più di tipo speciale marca casacche zitta seicentocinquanta proveniente da austria l'infrazione nello specifico parcheggio in zona a rimozione si e verificata in data ventisei aprile duemilaventicinque alle ore ventuno e cinquantanove in viale della concordia al numero tredici articolo trentuno duemilanove centotrentadue comma trenta del codice penale si comunica che dalla violazione conseguirà una decurtazioni di tre punti si richiede la stampa in lingua spagnolo modalità blu tutta stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa MN321OP di tipo speciale, marca Kawasaki Z650, proveniente da austria. L'infrazione, nello specifico parcheggio in zona rimozione, si è verificata in data 26/04/2025 alle ore 21:59 in viale della Concordia, al numero 13 (articolo 31, 2932, comma 30 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 3 punti. Si richiede la stampa in lingua spagnolo, modalità bluetooth, stampa anche la comunicazione. "
+}

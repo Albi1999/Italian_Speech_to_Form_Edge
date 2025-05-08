@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione per un veicolo agricolo immatricolato in Svizzera, con targa di tipo prova. L'infrazione è avvenuta il 2 maggio 2025 alle 20:53 presso Corso della Giustizia, civico 23, violando il codice stradale, articolo 36, comma 34, riguardante il parcheggio davanti a passo carabine. Sono stati decurtati due punti, senza sanzioni accessorie. Il veicolo è di colore oro e la stampa deve essere effettuata tramite Bluetooth in spagnolo, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "venti e cinquantatré",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "ubi quattrocentocinquanta sei doppia ex",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "onda cibi seicentocinquanta",
+                    "colore": "oro"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentasei",
+                    "comma": "trentaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il due maggio duemilaventicinque alle ore venti e cinquantatré sto mettendo una notifica di infrazione per il veicolo onda cibi seicentocinquanta macchina agricola immatricolati in svizzera con targa ubi quattrocentocinquanta sei doppia ex di tipo prova l'infrazione si e verificata presso corso della giustizia al civico ventitre violando il codice stradale in particolare l'articolo trentasei con ma trentaquattro riguardante il parcheggio davanti a passo carabine devo decurtare due punti non è necessaria alcuna sanzione accessoria il macchina agricola e di colore oro con numero di telaio centoquindici milioni e duecentoquarantamila seicentocinquanta nove massa tremila e diciassette chilogrammi stampa me lo con il blu tutti in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Il 02/05/2025, alle ore 20:53, sto emettendo una notifica di infrazione per il veicolo Honda CBR650R, macchina agricola immatricolato in svizzera con targa UV456WX di tipo prova. L'infrazione si è verificata presso corso della Giustizia, al civico 23, violando il codice stradale, in particolare l'articolo 36, comma 34 riguardante il parcheggio davanti a passo carrabile.Devo decurtare 2 punti. Non è necessaria alcuna sanzione accessoria. Il macchina agricola è di colore oro, con numero di telaio 115240659 e massa 3017 kg.Stampamelo con il bluetooth in spagnolo, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo Reno Cap Tour rimorchio con targa speciale immatricolato in Spagna. L'infrazione è avvenuta il 30 aprile 2025 alle 11:44 in viale della Scienza, numero 14, dove il veicolo era parcheggiato in zona rimozione. L'articolo violato è il 17 comma 15 del codice penale, con la decurtazione di un punto dalla patente. Il verbale deve essere stampato via Bluetooth in francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "undici e quarantaquattro",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "spagna",
+                    "targa": "è ehi settecento ottantanove capelli",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "reno cap tour",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: tolti, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo reno cap tour rimorchio con targa è ehi settecento ottantanove capelli di tipo speciale immatricolati in spagna per un'infrazione commessa il trenta aprile duemilaventicinque alle undici e quarantaquattro l'infrazione avvenuta in viale della scienza al numero quattordici dove il veicolo era in parcheggio in zona rimozione l'articolo violato è il diciassette comma quindici del codice penale verranno tolti un punti dalla patente stampa questo verbale via blu tutti in francese non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Renault Captur, rimorchio con targa IJ789KL di tipo speciale, immatricolato in spagna, per un'infrazione commessa il 30/04/2025 alle 11:44. L'infrazione è avvenuta in viale della Scienza, al numero 14, dove il veicolo era in parcheggio in zona rimozione. L'articolo violato è il 17, comma 15 del codice penale. Verranno tolti 1 punti dalla patente. Stampa questo verbale via bluetooth in francese, non stampare anche la comunicazione. "
+}

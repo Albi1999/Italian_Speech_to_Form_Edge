@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il tre maggio duemilaventicinque alle ore nove ventitré per un'autovettura con targa ufficiale spagnola. L'infrazione è stata rilevata in via della speranza al civico diciotto, violando il codice civile articolo quarantaquattro comma quarantadue, per transito in zona accesso vietato. La contestazione immediata non è stata possibile per l'assenza del trasgressore. Sono da decurtare sette punti. Il veicolo è un Peugeot 2008 viola, con numero di telaio e massa specificati. È richiesta la stampa del preavviso tramite Bluetooth in italiano, stampando anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "nove ventitré",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "spagna",
+                    "targa": "vuoi quattrocentocinquanta sei doppia v w x",
+                    "tipologia_targa": "ufficiali",
+                    "marca_modello": "peugeot duemilaotto",
+                    "colore": "viola"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data tre maggio duemilaventicinque alle ore nove ventitré è stato notificato un preavviso per un'autovettura targato vuoi quattrocentocinquanta sei doppia v w x con targa ufficiali immatricolati in spagna l'infrazione e stata rilevata in via della speranza al civico diciotto con violazione del codice civile articolo quarantaquattro come quarantadue in particolare si e riscontrato un transito in zona accesso vietato non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono sette punti il veicolo è un peggio duemilaotto di colore viola con numero di telaio quattro cinque sei sette otto nove sai e massa tremilaseicento quattordici chili necessita la stampa del preavviso tramite blu tutte in italiano stampa anche la comunicazione",
+    "original_sentence": "In data 03/05/2025, alle ore 09:23, è stato notificato un preavviso per un autovettura targato UV456WX con targa ufficiale, immatricolato in spagna. L'infrazione è stata rilevata in via della Speranza, al civico 18, con violazione del codice civile, articolo 44, comma 42, in particolare si è riscontrato un transito in zona accesso vietato Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 7 punti. Il veicolo è un Peugeot 2008 di colore viola, con numero di telaio 452672896 e massa 3614 kg. Necessito la stampa del preavviso tramite bluetooth, in italiano, stampa anche la comunicazione. "
+}

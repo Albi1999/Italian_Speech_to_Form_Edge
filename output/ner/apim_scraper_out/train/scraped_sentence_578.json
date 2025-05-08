@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il primo maggio 2025 alle 4:05 per un veicolo rimorchio immatricolato in Belgio, di colore grigio, con numero di telaio specificato. L'infrazione è avvenuta in via della Giustizia, civico 16, violando il codice stradale, articolo 52, comma 50, riguardante il transito in zona accesso vietato. Sono stati decurtati 8 punti, senza sanzioni accessorie. La stampa deve avvenire tramite Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "quattro e cinque",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "belgio",
+                    "targa": "trecentoventi uno piedi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "silvio l'espace",
+                    "colore": "grigio"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantadue",
+                    "comma": "cinquanta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blu tutti noi lande",
+            "lingua_stampa": null,
+            "stampa_anche_comunicazione": "non stampa è anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il primo maggio duemilaventicinque alle quattro e cinque sto mettendo una notifica di infrazione per il veicolo silvio l'espace rimorchio immatricolati in belgio contenga trecentoventi uno piedi tipo ufficiale l'infezione si e verificata testo via della giustizia hai civico sedici violando il codice stradale in particolare l'articolo cinquantadue coma cinquanta riguardante i transito in zona accesso vietato devo decurtare otto punti non è necessaria alcuna sanzione accessoria i rimorchio e di colore grigio con numero di telaio sette sette e nove otto sette tre quattro sette e massa milleottocento ventuno chi stampa me lo con il blu tutti noi lande se non stampa è anche la comunicazione",
+    "original_sentence": "Il 01/05/2025, alle ore 04:05, sto emettendo una notifica di infrazione per il veicolo Chevrolet Spark, rimorchio immatricolato in belgio con targa MN321OP di tipo ufficiale. L'infrazione si è verificata presso via della Giustizia, al civico 16, violando il codice stradale, in particolare l'articolo 52, comma 50 riguardante il transito in zona accesso vietato. Devo decurtare 8 punti. Non è necessaria alcuna sanzione accessoria. Il rimorchio è di colore grigio, con numero di telaio 779867347 e massa 1821 kg. Stampamelo con il bluetooth in olandese, non stampare anche la comunicazione. "
+}

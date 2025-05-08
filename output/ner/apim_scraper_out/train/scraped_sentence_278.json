@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo rimorchio marca Fox Vaga in Polo, targato Guerra 789 ST, di tipo ufficiale, proveniente dal Belgio. L'infrazione è stata rilevata il 29 aprile 2025 alle ore 9:18 in viale della Stazione, civico 4, per transito in zona ad accesso vietato, violando l'articolo 53 comma 51 del codice stradale. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la perdita di 4 punti. Si richiede la stampa del verbale in spagnolo tramite Wi-Fi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "nove diciotto",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "belgio",
+                    "targa": "guerra sette centottantanove se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fox vaga in polo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo rimorchio marca fox vaga in polo targato guerra sette centottantanove se ti di tipo ufficiale proveniente da belgio l'infrazione e stata rilevata il ventinove aprile duemilaventicinque alle ore nove diciotto il veicolo si trovava in viale della stazione al civico quattro in transito in zona accesso vietato violando l'articolo cinquantatré comma cinquantuno del codice stradale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazione comporta la perdita di quattro punti richiedo la stampa del verbale in spagnolo tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo rimorchio, marca Volkswagen Polo, targato QR789ST (di tipo ufficiale), proveniente da belgio.  L'infrazione è stata rilevata il 29/04/2025 alle ore 09:18. Il veicolo si trovava in viale della Stazione, al civico 4, in transito in zona accesso vietato, violando l'articolo 53, comma 51, del codice stradale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 4 punti.  Richiedo la stampa del verbale in spagnolo tramite wifi, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per una violazione di parcheggio in divieto di sosta. Il veicolo coinvolto è una macchina agricola Mercedes Classe A, targata UBI 789 XX di tipo prova, proveniente dalla Slovenia. La violazione è avvenuta il 4 maggio 2025 alle ore 13:11 in viale della Concordia, numero 13. La violazione è in base all'articolo 17, comma 15 del codice penale, con una decurtazione di 10 punti. Si richiede la stampa del preavviso tramite WiFi in lingua olandese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattro omaggio duemilaventicinque",
+            "ora_violazione": "tredici e undici",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "slovenia",
+                    "targa": "ubi sette centottantanove doppia ex",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo macchina agricola marca mercedes classe a targato ubi sette centottantanove doppia ex di tipo prova proveniente da slovenia in data quattro omaggio duemilaventicinque alle ore tredici e undici stata rilevata la violazione di parcheggiato in divieto di sosta in viale della concordia al numero tredici in base all'articolo diciassette comma quindici del codice penale per tale infrazione sono previsti dieci punti di decurtazione si richiede la stampa del preavviso tramite wifi in lingua olandese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina agricola, marca Mercedes Classe A, targato UV789WX di tipo prova, proveniente da slovenia. In data 04/05/2025 alle ore 13:11, è stata rilevata la violazione di parcheggio in divieto di sosta in viale della Concordia, al numero 13, in base all'articolo 17, comma 15 del codice penale.Per tale infrazione sono previsti 10 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua olandese, stampa anche la comunicazione."
+}

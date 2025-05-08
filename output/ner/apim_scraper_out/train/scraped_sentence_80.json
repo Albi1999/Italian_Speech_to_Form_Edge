@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione commessa il giorno sette aprile duemilaventicinque alle ore mezzogiorno e diciotto in corso della repubblica al numero civico diciannove. Un'autovettura con targa speciale proveniente dalla Spagna ha parcheggiato in doppia fila, violando l'articolo nove comma sette del codice stradale. Per questa violazione sono previsti dieci punti di decurtazione. Si richiede la stampa del preavviso in spagnolo via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "mezzogiorno e diciotto",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "spagna",
+                    "targa": "gia cassette centottantanove i",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "Bluetooth",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo cappa ti sette centonovanta di un'autovettura targa gia cassette centottantanove i di tipo speciale proveniente da spagna il giorno sette aprile duemilaventicinque alle ore è mezzogiorno e diciotto in corso della repubblica al numero civico diciannove stata commessa l'infrazione di parcheggia in doppia fila come previsto dall'articolo nove comma sette del codice stradale per questa violazione sono previsti dieci punti di decurtazione chiedo stampa del preavviso in spagnolo via about non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo KTM 790 Duke autovettura, targa GH789IJ di tipo speciale, proveniente da spagna. Il giorno 07/04/2025, alle ore 12:18, in corso della Repubblica, al numero civico 19, è stata commessa l'infrazione di parcheggio in doppia fila, come previsto dall'articolo 9, comma 7, del codice stradale.Per questa violazione sono previsti 10 punti di decurtazione. Chiedo la stampa del preavviso in spagnolo via bluetooth, non stampare anche la comunicazione."
+}

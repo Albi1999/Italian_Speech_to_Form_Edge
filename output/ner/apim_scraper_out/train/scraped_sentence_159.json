@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 14 aprile 2025 alle ore 16:23 per un veicolo Dacia d'aste, macchina operatrice immatricolata in Svizzera con targa ufficiale JEFF 789. L'infrazione è avvenuta in via Roma, civico 77, violando il codice civile, articolo 19, comma 17, riguardante il parcheggio in zona a rimozione. Sono stati decurtati 9 punti e applicata una sanzione accessoria. Il veicolo è di colore giallo, con numero di telaio 539782565 e massa 3323 kg. La stampa è richiesta via Wi-Fi in italiano, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "sedici e ventitré",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "svizzera",
+                    "targa": "jeff sette centottantanove giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "dacia d'aste",
+                    "colore": "giallo"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "diciannove",
+                    "comma": "diciassette",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "nuove, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il quattordici aprile duemilaventicinque alle ore sedici e ventitré sto mettendo una notifica di infrazione per il veicolo dacia d'aste macchina operatrice immatricolati in svizzera con targa è jeff sette centottantanove giacca di tipo ufficiale l'infrazione si e verificata presso via roma al civico settantasette violando il codice civile in particolare l'articolo diciannove comma diciassette riguardante il parcheggio in zona a rimozione devo decurtare nuove punti applico una sanzione accessoria in base alle circostanze il macchina operatrice di colore giallo con numero di telaio cinquecento trentanove milioni e sette centottantadue mila cinquecento sessantacinque massa tremilatrecento ventitré chilogrammi stampa me lo con il vuoi fai in italiano stampa anche la comunicazione",
+    "original_sentence": "Il 14/04/2025, alle ore 16:23, sto emettendo una notifica di infrazione per il veicolo Dacia Duster, macchina operatrice immatricolato in svizzera con targa EF789GH di tipo ufficiale. L'infrazione si è verificata presso via Roma, al civico 77, violando il codice civile, in particolare l'articolo 19, comma 17 riguardante il parcheggio in zona rimozione.Devo decurtare 9 punti. Applico una sanzione accessoria in base alle circostanze. Il macchina operatrice è di colore giallo, con numero di telaio 539782565 e massa 3323 kg.Stampamelo con il wifi in italiano, stampa anche la comunicazione."
+}

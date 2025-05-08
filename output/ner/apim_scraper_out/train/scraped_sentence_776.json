@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 4 maggio 2025 alle ore 18:31 in via della Speranza, civico 17. La violazione riguarda un motoveicolo con targa svizzera JEFF 789, per transito in zona ad accesso vietato secondo l'articolo 7, comma 15 del codice civile. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti punti di decurtazione. Si richiede la stampa in lingua inglese, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "diciotto i trentuno",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "svizzera",
+                    "targa": "jeff sette centottantanove",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: punti",
+            "tipo_stampa": null,
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stai dicendo verbale per violazione accertata il quattro maggio duemilaventicinque alle ore diciotto i trentuno in via della speranza al civico diciassette a carico del veicolo in il corsa motoveicoli con targa jeff sette centottantanove giacca di tipo copertura immatricolati in svizzera la violazione contestata e transito in zona accesso vietato in base al l'articolo sette comma quindici del codice civile non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti un punti di decurtazione si richiede la stampa in lingua inglese di about you non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 04/05/2025 alle ore 18:31 in via della Speranza, al civico 17, a carico del veicolo Opel Corsa, motoveicolo con targa EF789GH di tipo copertura, immatricolato in svizzera. La violazione contestata è transito in zona accesso vietato, in base all'articolo 7, comma 15 del codice civile. Non è stato possibile contestare immediatamente, per assenza del trasgressore. Sono previsti 1 punti di decurtazione. Si richiede la stampa in lingua inglese via bluetooth, non stampare anche la comunicazione. "
+}

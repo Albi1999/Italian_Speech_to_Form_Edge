@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato per un veicolo Dacia, proveniente dalla Grecia, con targa speciale JEFF 320 1. L'infrazione è stata commessa il 29 aprile 2025 alle 13:37 in via della Giustizia, numero civico 16, per parcheggio in doppia fila, violando l'articolo 1228 comma 16 del codice civile. Sono previsti cinque punti di decurtazione. La stampa del preavviso è in portoghese, via Bluetooth, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "tredici e trentasette",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "jeff trecentoventi uno",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "dacia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "mille duecentoventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo dacia da aster macchina operatrice targa è jeff trecentoventi uno giacca di tipo speciale proveniente da grecia il giorno ventinove aprile duemilaventicinque alle ore tredici e trentasette in via della giustizia al numero civico sedici stata commessa l'infrazione di parcheggia in doppia fila come previsto dall'articolo mille duecentoventotto comma sedici del codice civile per questa violazione sono previsti cinque punti di decurtazione cedola stampa del preavviso in portoghese via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Dacia Duster macchina operatrice, targa EF321GH di tipo speciale, proveniente da grecia. Il giorno 29/04/2025, alle ore 13:37, in via della Giustizia, al numero civico 16, è stata commessa l'infrazione di parcheggio in doppia fila, come previsto dall'articolo 1228, comma 16, del codice civile.Per questa violazione sono previsti 5 punti di decurtazione. Chiedo la stampa del preavviso in portoghese via bluetooth, non stampare anche la comunicazione."
+}

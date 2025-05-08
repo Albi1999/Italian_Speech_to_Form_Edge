@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata il sedici aprile duemilaventicinque alle quindici e quarantadue. Un verbale è stato redatto per un veicolo macchina operatrice con targa speciale immatricolata in Croazia. La violazione è avvenuta in corso Vittorio Emanuele al civico quindici, riguardante il codice civile, articolo centoventi uno, comma nove, per parcheggio in zona a rimozione. Sono previsti cinque punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. La stampa è prevista tramite Bluetooth in spagnolo, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "quindici e quarantadue",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "i miei quattrocentocinquanta sei cappelle",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centoventi uno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle quindici e quarantadue del sedici aprile duemilaventicinque storie di gendo un verbale per il veicolo macchina operatrice targato i miei quattrocentocinquanta sei cappelle con targa speciale immatricolati in croazia l'infrazione e stata accertata in corso vittorio emanuele al civico quindici con violazione del codice civile articolo centoventi uno coma nove per parcheggio in zona a rimozione sono previsti cinque punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite blu tutte in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Alle 15:42 del 16/04/2025, sto redigendo un verbale per il veicolo macchina operatrice targato IJ456KL con targa speciale, immatricolato in croaziaL'infrazione è stata accertata in corso Vittorio Emanuele, al civico 15, con violazione del codice civile, articolo 121,comma 9 per parcheggio in zona rimozione Sono previsti 5 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in spagnolo, non stampare anche la comunicazione. "
+}

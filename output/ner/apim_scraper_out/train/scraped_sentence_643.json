@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo operatrice con targa prova registrato in Svizzera. L'infrazione è avvenuta il 30 aprile 2025 alle 14:33 in viale dei giardini, civico 8, per parcheggio in doppia fila. La violazione è in base all'articolo 1228, comma 16 del codice civile e comporta una decurtazione di 7 punti. La stampa dell'avviso è richiesta via Bluetooth in portoghese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "quattordici e trentatre",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "svizzera",
+                    "targa": "i sette ottantanove capelli",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "mille duecentoventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "bruti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo cioè street cioe po' macchina operatrice targato i sette ottantanove capelli con targa prova registrato in svizzera per un fatto accaduto il trenta aprile duemilaventicinque alle quattordici e trentatre il veicolo si trovava in viale dei giardini al civic otto dove è stato riscontrato parcheggia in doppia fila in base all'articolo mille duecentoventotto coma sedici del codice civile questa infrazione comporta una decurtazione di sette punti genera alla stampa dell'avviso via bruti in portoghese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Triumph Street Triple, macchina operatrice, targato IJ789KL con targa prova, registrato in svizzera, per un fatto accaduto il 30/04/2025 alle 14:33. Il veicolo si trovava in viale dei Giardini, al civico 8, dove è stato riscontrato parcheggio in doppia fila, in base all'articolo 1228, comma 16, del codice civile. Questa infrazione comporta una decurtazione di 7 punti. Genera la stampa dell'avviso via bluetooth in portoghese, stampa anche la comunicazione. "
+}

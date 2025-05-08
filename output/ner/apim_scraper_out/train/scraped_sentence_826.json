@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il sette aprile duemilaventicinque alle ore ventiquattro e quattordici per un'infrazione rilevata in corso Buenos Aires al civico novantotto. La violazione riguarda il codice civile, articolo quarantaquattro, comma quarantadue, per parcheggio su strisce pedonali. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Il veicolo coinvolto è una macchina operatrice con targa prova immatricolata in Austria, di colore giallo e massa duemila centodieci chili. Sono da decurtare due punti. La stampa del preavviso è richiesta tramite Bluetooth in italiano, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "ventiquattro e quattordici",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "austria",
+                    "targa": "trecentoventi uno doppio with",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": "giallo"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data sette aprile duemilaventicinque alle ore ventiquattro e quattordici è stato notificato un preavviso per un macchina operatrice targato trecentoventi uno doppio with con targa prova immatricolati in austria l'infrazione è stata rilevata in corso buenos aires al civico novantotto con violazioni del codice civile articolo quarantaquattro comma quarantadue in particolare sia riscontrato un parcheggio su strisce pedonali non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono due punti il veicolo è un appartiene sette centonovantadue di colore giallo con numero di telaio sei due uno uno zero uno zero uno e massa duemila centodieci chili necessita la stampa del preavviso tramite blu tutte in italiano stampa anche la comunicazione",
+    "original_sentence": "In data 07/04/2025, alle ore 00:14, è stato notificato un preavviso per un macchina operatrice targato UV321WX con targa prova, immatricolato in austria. L'infrazione è stata rilevata in corso Buenos Aires, al civico 98, con violazione del codice civile, articolo 44, comma 42, in particolare si è riscontrato un parcheggio su strisce pedonali Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 2 punti. Il veicolo è un KTM 790 Duke di colore giallo, con numero di telaio 621180101 e massa 2110 kg. Necessito la stampa del preavviso tramite bluetooth, in italiano, stampa anche la comunicazione. "
+}

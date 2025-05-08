@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 23 aprile 2025 alle ore 17:58 per un veicolo immatricolato in Grecia con targa ufficiale. L'infrazione è avvenuta in via Enea, civico 45, violando il codice stradale, articolo 48, comma 46, riguardante il transito in zona accesso vietato. Sono stati decurtati due punti e applicata una sanzione accessoria. Il veicolo è un ciclomotore marrone. La stampa deve essere effettuata tramite Bluetooth in francese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "diciassette cinquantotto",
+            "Strada_1": "via enea",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "grecia",
+                    "targa": "beh trecentoventi uno c",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "scorda camice",
+                    "colore": "marrone"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantotto",
+                    "comma": "quarantasei",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventitré aprile duemilaventicinque alle ore diciassette cinquantotto sto mettendo una notifica di infrazione per il veicolo scorda camice ciclomotori immatricolati in grecia con targa beh trecentoventi uno c di tipo ufficiale l'infrazione si e verificata presso via enea al civico quarantacinque violando il codice stradale in particolare l'articolo quarantotto con ma quarantasei riguardante il transito in zona accesso vietato devo decurtare due punti applico una sanzione accessoria in base alle circostanze il ciclomotori e di colore marrone con numero di telaio quattrocentosettanta cinque milioni e quattrocento quattromila quattrocentosessanta cinque massa milleottocento settanta chilogrammi stampa me lo con il blu tutti in francese stampa anche la comunicazione",
+    "original_sentence": "Il 23/04/2025, alle ore 17:58, sto emettendo una notifica di infrazione per il veicolo Skoda Kamiq, ciclomotore immatricolato in grecia con targa AB321CD di tipo ufficiale. L'infrazione si è verificata presso via Etnea, al civico 45, violando il codice stradale, in particolare l'articolo 48, comma 46 riguardante il transito in zona accesso vietato.Devo decurtare 2 punti. Applico una sanzione accessoria in base alle circostanze. Il ciclomotore è di colore marrone, con numero di telaio 475404465 e massa 1870 kg.Stampamelo con il bluetooth in francese, stampa anche la comunicazione."
+}

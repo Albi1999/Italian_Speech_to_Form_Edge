@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sei maggio duemilaventicinque alle diciannove e ventotto per un'infrazione accertata in via della speranza, civico diciotto. Il veicolo coinvolto è un ciclomotore con targa ufficiale immatricolato in Francia. La violazione riguarda il codice penale, articolo nove, comma sette, per parcheggio davanti a passo carabine. Sono previsti quattro punti da decurtare. La contestazione è stata effettuata immediatamente dall'agente Marco Gentili. La stampa del verbale è stata effettuata tramite Wi-Fi in italiano, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "diciannove ventotto",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "i miei quattrocentocinquanta sei capelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: previsti, after: da",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle diciannove ventotto del sei maggio duemilaventicinque storie di gendo un verbale per il veicolo ciclomotori targato i miei quattrocentocinquanta sei capelli con targa ufficiale immatricolati in francia l'infrazione e stata accertata in via della speranza al civico diciotto con violazione del codice penale articolo nove coma sette per parcheggio davanti a passo carabine sono previsti quattro punti da decurtare contestazione immediata effettuata dalla gente marco gentili il verbale è stato redatto sul posto in via della speranza non posso applicare alcuna sanzione accessoria stampa tramite guai fai in italiano stampa anche la comunicazione",
+    "original_sentence": "Alle 19:28 del 06/05/2025, sto redigendo un verbale per il veicolo ciclomotore targato IJ456KL con targa ufficiale, immatricolato in franciaL'infrazione è stata accertata in via della Speranza, al civico 18, con violazione del codice penale, articolo 9,comma 7 per parcheggio davanti a passo carrabile Sono previsti 4 punti da decurtare. Contestazione immediata effettuata dall'agente Marco Gentili, il verbale è stato redatto sul posto in via della Speranza. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in italiano, stampa anche la comunicazione. "
+}

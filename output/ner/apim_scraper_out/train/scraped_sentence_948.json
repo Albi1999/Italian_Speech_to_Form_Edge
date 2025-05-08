@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da ciclomotori immatricolati in Germania. La violazione è avvenuta il 24 aprile 2025 alle 11:47 in via della Concordia, civico 14, per transito in zona accesso vietato, violando l'articolo 33, comma 31 del codice civile. La violazione comporta la perdita di nove punti. La stampa del verbale è prevista in modalità Bluetooth e in lingua olandese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "undici e quarantasette",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "germania",
+                    "targa": "jeff quattrocentocinquanta sei",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "vinson street settecentocinquanta tega",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentatré",
+                    "comma": "trentuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: perdita, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo quella redazione di un verbale per ciclomotori mai le idee vinson street settecentocinquanta tega jeff quattrocentocinquanta sei gia di tipo ufficiale immatricolati in germania in data ventiquattro aprile duemilaventicinque alle undici e quarantasette in via della concordia hai civico quattordici e stata commessa la seguente violazione transito in zona accesso vietato l'articolo trentatré coma trentuno del codice civile dalla violazione con segue la perdita di nove punti stampa e modalità blu tutte in lingua olandese stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per ciclomotore, marca Harley-Davidson Street 750, targa EF456GH di tipo ufficiale, immatricolato in germania. In data 24/04/2025 alle ore 11:47, in via della Concordia, al civico 14, è stata commessa la seguente violazione: transito in zona accesso vietato (articolo 33, comma 31 del codice civile). Dalla violazione consegue la perdita di 9 punti. Stampa in modalità bluetooth e in lingua olandese, stampa anche la comunicazione. "
+}

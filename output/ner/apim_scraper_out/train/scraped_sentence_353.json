@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 27 aprile 2025 alle ore 11:26 per una macchina operatrice con targa prova immatricolata in Spagna. L'infrazione è stata rilevata in via della Repubblica 20 e via dei Fori Imperiali al civico 10, con violazione del codice penale articolo 50 comma 48, per parcheggio in doppia fila. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare 4 punti. Il veicolo è un Lancia Delta di colore argento. La stampa del preavviso è richiesta tramite Wi-Fi in inglese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "undici e ventisei",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "dieci",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "spagna",
+                    "targa": "ubi trecentoventi uno doppia ex",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "lancia delta",
+                    "colore": "argento"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquanta",
+                    "comma": "quarantotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventisette aprile duemilaventicinque alle ore undici e ventisei è stato notificato un preavviso per un macchina operatrice targato ubi trecentoventi uno doppia ex con targa prova immatricolati in spagna l'infrazione stata rilevata in via della repubblica venti via dei fori imperiali al civico dieci con violazione del codice penale articolo cinquanta comma quarantotto in particolare si e riscontrato un parcheggio in doppia fila non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono quattro punti il veicolo è un lancia delta di colore argento con numero di telaio novecentoquaranta tre milioni e quattrocentosessanta duemilaseicento quarantasei e massa milleottocento settantanove chilogrammi necessita alla stampa del preavviso tramite vuoi fai in inglese stampa anche la comunicazione",
+    "original_sentence": "In data 27/04/2025, alle ore 11:26, è stato notificato un preavviso per un macchina operatrice targato UV321WX con targa prova, immatricolato in spagna. L'infrazione è stata rilevata in via della Repubblica, 20via dei Fori Imperiali, al civico 10, con violazione del codice penale, articolo 50, comma 48, in particolare si è riscontrato un parcheggio in doppia fila Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 4 punti. Il veicolo è un Lancia Delta di colore argento, con numero di telaio 943462646 e massa 1879 kg.Necessito la stampa del preavviso tramite wifi, in inglese, stampa anche la comunicazione."
+}

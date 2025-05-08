@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 27 aprile 2025 alle ore 6:37 per una violazione riscontrata su un'autovettura con targa \"exit ypsilon trecentoventi uno\" proveniente dall'Italia. La violazione riguarda il parcheggio in divieto di sosta in via della giustizia, civico 16, in violazione dell'articolo 9, comma 7 del codice civile. L'agente Silvia Neri ha proceduto con contestazione immediata e si prevede la decurtazione di 2 punti dalla patente. La stampa è richiesta in italiano via \"hawaii fai\" e non si desidera stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "sei e trentasette",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italia",
+                    "targa": "exit ypsilon trecentoventi uno",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "mai amato gustibus sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazioni immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazioni, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data ventisette aprile duemilaventicinque alle ore sei e trentasette per la violazione riscontrata al veicolo autovettura mai amato gustibus sette targato exit ypsilon trecentoventi uno tipo speciale proveniente da italia in particolare in via della giustizia civico sedici è stato accertato parcheggio in divieto di sosta in violazione dell'articolo nove comma sette del codice civile l'agente silvia neri a proceduto con contestazioni immediata si prevede la decurtazioni di due punti dalla patente richiedo la stampa in italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 27/04/2025 alle ore 06:37 per la violazione riscontrata al veicolo autovettura, marca Moto Guzzi V7, targato XY321ZA (tipo speciale) proveniente da italia. In particolare, in via della Giustizia, civico 16, è stato accertato parcheggio in divieto di sosta, in violazione dell'articolo 9, comma 7 del codice civile. L'agente Silvia Neri ha proceduto con contestazione immediata. Si prevede la decurtazione di 2 punti dalla patente. Richiedo la stampa in italiano via wifi, non stampare anche la comunicazione. "
+}

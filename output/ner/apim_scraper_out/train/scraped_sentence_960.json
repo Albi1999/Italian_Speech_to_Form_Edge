@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale. La violazione riguarda un veicolo macchina operatrice targato \"wow sei centocinquantaquattro doppia bux\" di tipo ufficiale, proveniente dall'Austria, marca \"giamai ypsilon zeit jeff jerry sette\". La violazione, ovvero parcheggio in divieto di sosta, è avvenuta il 29 aprile 2025 alle ore 22:44 in corso della Repubblica al numero 19. L'infrazione rientra nell'articolo 4, comma 2 del codice stradale. La contestazione è stata immediata da parte dell'agente Mario Russi e prevede la perdita di tre punti. Si richiede la stampa in lingua inglese tramite Wi-Fi e anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "ventidue quarantaquattro",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "austria",
+                    "targa": "wow sei centocinquantaquattro doppia bux",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "giamai ypsilon zeit jeff jerry sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: perdita, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrice targato wow sei centocinquantaquattro doppia bux di tipo ufficiale proveniente da austria marca giamai ypsilon zeit jeff jerry sette la violazione ovvero parcheggio in divieto di sosta sia verificata in data ventinove aprile duemilaventicinque alle ore ventidue quarantaquattro in corso della repubblica a numero diciannove l'infrazione rientra nell'articolo quattro come due del codice stradale contestazione immediata da parte della gente mario russi la sanzione prevede la perdita di tre punti si richiede la stampa in lingua inglese tramite vuoi fai stampa anche la comunicativa",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato UV654WX di tipo ufficiale proveniente da austria, marca Yamaha YZF-R7. La violazione, ovvero parcheggio in divieto di sosta, si è verificata in data 29/04/2025 alle ore 22:44 in corso della Repubblica, al numero 19. L'infrazione rientra nell'articolo 4, comma 2 del codice stradale. Contestazione immediata da parte dell'agente Mario Rossi. La sanzione prevede la perdita di 3 punti. Si richiede la stampa in lingua inglese, tramite wifi, stampa anche la comunicazione. "
+}

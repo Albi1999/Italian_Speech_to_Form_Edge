@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un'autovettura marca Onda Cibi Jerry 650, targa 789 occhi, immatricolata in Portogallo. La violazione è avvenuta l'11 aprile 2025 alle 16:09 in viale della Libertà, civico 22, per parcheggio in zona a rimozione, violando l'articolo 20 comma 18 del codice penale. La violazione comporta la perdita di due punti. La stampa è richiesta in modalità Hawaii fai e in lingua francese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "sedici e nove minuti",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "portogallo",
+                    "targa": "sette centottantanove occhi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "onda cibi jerry seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: perdita, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per autovettura marca onda cibi jerry seicentocinquanta targa sette centottantanove occhi di tipo speciale immatricolati portogallo in data undici aprile duemilaventicinque alle ore sedici e nove minuti in viale della libertà al civico ventidue e stata commessa la seguente violazione parcheggio in zona a rimozione articolo venti comma diciotto del codice penale dalla violazione con segue la perdita di due punti stampa in modalità hawaii fai è in lingua francese stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per autovettura, marca Honda CBR650R, targa MN789OP di tipo speciale, immatricolato in portogallo. In data 11/04/2025 alle ore 16:09, in viale della Libertà, al civico 22, è stata commessa la seguente violazione: parcheggio in zona rimozione (articolo 20, comma 18 del codice penale).Dalla violazione consegue la perdita di 2 punti.Stampa in modalità wifi e in lingua francese, stampa anche la comunicazione."
+}

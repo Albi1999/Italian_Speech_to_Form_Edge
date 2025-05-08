@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il tre maggio duemilaventicinque alle ore ventuno e cinquantasei per un veicolo ciclomotore di marca Pegeot 2008 con targa registrata in Francia. L'infrazione è avvenuta in via della Libertà al numero tre, per parcheggio davanti a passo carabine, violando l'articolo quattordici comma uno del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti un punto di decurtazione. Si richiede di stampare la notifica tramite WiFi in lingua francese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "ventuno e cinquantasei",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "icsi ypsilon novecentottanta sette",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "peggio duemilaotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattordici",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: di",
+            "tipo_stampa": "fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data tre maggio duemilaventicinque alle ore ventuno e cinquantasei è stato emesso un preavviso di violazione per il veicolo ciclomotori di marca peggio duemilaotto con targa icsi ypsilon novecentottanta sette già tipo speciale registrato in francia l'infrazione e avvenuta in via della libertà al numero tre è consiste in parcheggio davanti a passo carabine come previsto dall'articolo quattordici comma uno del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti un punti di decurtazione si prega di stampare la presente notifica tramite fai in lingua francese non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 03/05/2025, alle ore 21:56, è stato emesso un preavviso di violazione per il veicolo ciclomotore di marca Peugeot 2008, con targa XY987ZA (tipo speciale), registrato in francia. L'infrazione è avvenuta in via della Libertà, al numero 3, e consiste in parcheggio davanti a passo carrabile, come previsto dall'articolo 14, comma 1 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 1 punti di decurtazione. Si prega di stampare la presente notifica tramite wifi, in lingua francese, non stampare anche la comunicazione. "
+}

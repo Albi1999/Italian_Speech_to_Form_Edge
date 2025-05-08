@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione stradale avvenuta il 2 maggio 2025 alle ore 13:32. Un veicolo Renault Captur con rimorchio, targa GU 987 ST, immatricolato in Italia, ha parcheggiato in divieto di sosta in via Venti Settembre, civico 5. La contestazione è stata immediata, effettuata dall'agente Mario Rossi. La violazione ha comportato la decurtazione di quattro punti. La stampa necessaria è in lingua francese, tramite Bluetooth, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "tredici e trentadue",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "italia",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "reno catture",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: derivano, after: decurtazione",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data due maggio duemilaventicinque alle ore tredici e trentadue se leva verbale al veicolo reno catture rimorchio con targa guerre novecentottanta sette se ti di tipo ufficiale immatricolati in italia per violazione dell'articolo cinque comma tre del codice stradale ovvero parcheggio in divieto di sosta rilevata in via venti settembre al civico cinque la contestazione stata immediata effettuata dalla gente mario rossi dalla violazione derivano quattro punti di decurtazione stampa necessaria in lingua francese via blu tutte stampa anche la comunicazione",
+    "original_sentence": "In data 02/05/2025, alle ore 13:32, si eleva verbale al veicolo Renault Captur, rimorchio con targa QR987ST di tipo ufficiale, immatricolato in italia, per violazione dell'articolo 5, comma 3 del codice stradale, ovvero parcheggio in divieto di sosta, rilevata in via XX Settembre, al civico 5. La contestazione è stata immediata, effettuata dall'agente Mario Rossi. Dalla violazione derivano 4 punti di decurtazione. Stampa necessaria in lingua francese via bluetooth, stampa anche la comunicazione. "
+}

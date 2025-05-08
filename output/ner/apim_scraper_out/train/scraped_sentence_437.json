@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Mercedes Classe A con rimorchio, immatricolato in Svizzera e con targa kazaka, tipo ufficiale. L'infrazione è avvenuta in viale della Scienza, civico 14, per parcheggio su strisce pedonali. Si applica l'articolo 28, comma 26 del codice stradale, con la decurtazione di nove punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. La stampa deve essere effettuata in portoghese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": null,
+                    "nazione": "svizzera",
+                    "targa": "kazaka quattrocentocinquanta sei cupi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mercedes classe a rimorchio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventotto",
+                    "comma": "ventisei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo mercedes classe a rimorchio immatricolati in svizzera con targa kazaka quattrocentocinquanta sei cupi di tipo ufficiale l'infrazione e avvenuta in viale della scienza civico quattordici parcheggio su strisce pedonali si applica l'articolo ventotto con ma ventisei del codice stradale a seguito della violazione verranno decurtati nove punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in portoghese tramite blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Mercedes Classe A, rimorchio immatricolato in svizzera con targa ZA456QP di tipo ufficiale. L'infrazione è avvenuta in viale della Scienza, civico 14: parcheggio su strisce pedonali. Si applica l'articolo 28, comma 26 del codice stradale. A seguito della violazione verranno decurtati 9 punti.A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in portoghese tramite bluetooth, non stampare anche la comunicazione."
+}

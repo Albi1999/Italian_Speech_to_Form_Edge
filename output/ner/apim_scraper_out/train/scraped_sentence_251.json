@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 19 aprile 2025 alle ore 16:14 per un'autovettura con targa prova immatricolata in Belgio. L'infrazione è stata rilevata in corso Buenos Aires, civico 98, per parcheggio in doppia fila. La violazione riguarda il codice civile, articolo 13, comma 11. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare cinque punti. Il veicolo è un Mercedes Classe A di colore grigio. La stampa del preavviso è richiesta tramite Wi-Fi in spagnolo, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "sedici e quattordici",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "belgio",
+                    "targa": "io e quattrocentocinquanta sei chilometri",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mercedes classe a",
+                    "colore": "grigio"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "tredici",
+                    "comma": "undici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data diciannove aprile duemilaventicinque alle ore sedici e quattordici è stato notificato un preavviso per un'autovettura targato io e quattrocentocinquanta sei chilometri con targa prova immatricolati in belgio l'infrazione e stata rilevata in corso buenos aires al civico novantotto con violazione del codice civile articolo tredici comma undici in particolare si riscontrato un parcheggio in doppia fila non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono cinque punti il veicolo è un mercedes classe a di colore grigio con numero di telaio trecentosettantadue milioni e settecentocinquanta novemila seicentoquaranta sei e massa duemilacento cinquantasette chilogrammi necessita la stampa del preavviso tramite vuoi fai in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "In data 19/04/2025, alle ore 16:14, è stato notificato un preavviso per un autovettura targato IJ456KL con targa prova, immatricolato in belgio. L'infrazione è stata rilevata in corso Buenos Aires, al civico 98, con violazione del codice civile, articolo 13, comma 11, in particolare si è riscontrato un parcheggio in doppia fila Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 5 punti. Il veicolo è un Mercedes Classe A di colore grigio, con numero di telaio 372759646 e massa 2157 kg.Necessito la stampa del preavviso tramite wifi, in spagnolo, non stampare anche la comunicazione."
+}

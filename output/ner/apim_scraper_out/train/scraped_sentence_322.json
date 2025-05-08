@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo autovettura con targa \"i lunga cappa cinquecento sessantasette ho piedi\", proveniente dalla Svizzera, marca \"onda cibi jerry seicentocinquanta\". La violazione riguarda il parcheggio in zona a rimozione, avvenuta il primo maggio 2025 alle ore mezzanotte, presso \"inviarle della stazione al numero quattro\". L'infrazione è relativa all'articolo 22, comma 20 del codice civile. La contestazione è stata immediata da parte dell'agente Chiara Romano. La sanzione prevede la perdita di otto punti. Si richiede la stampa in lingua spagnola tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "mezzanotte",
+            "Strada_1": "inviarle della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "svizzera",
+                    "targa": "i lunga cappa cinquecento sessantasette ho piedi",
+                    "tipologia_targa": null,
+                    "marca_modello": "onda cibi jerry seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata da parte della gente chiara romano",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventidue",
+                    "comma": "venti",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: perdita, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo autovettura targato i lunga cappa cinquecento sessantasette ho piedi tipo copertura proveniente da svizzera marca onda cibi jerry seicentocinquanta la violazione ovvero parcheggio in zona a rimozione sia e verificata in data primo maggio duemilaventicinque alle ore mezzanotte inviarle della stazione al numero quattro l'infrazione rientra nell'articolo ventidue con ma venti del codice civile contestazione immediata da parte della gente chiara romano la sanzione prevede la perdita di otto punti si richiede la stampa in lingua spagnolo tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato JK567OP di tipo copertura proveniente da svizzera, marca Honda CBR650R. La violazione, ovvero parcheggio in zona rimozione, si è verificata in data 01/05/2025 alle ore 00:00 in viale della Stazione, al numero 4. L'infrazione rientra nell'articolo 22, comma 20 del codice civile. Contestazione immediata da parte dell'agente Chiara Romano. La sanzione prevede la perdita di 8 punti. Si richiede la stampa in lingua spagnolo, tramite wifi, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 24 aprile 2025 alle ore 10:41 per una violazione riscontrata su un veicolo ciclomotore marca Tram Street Tripla, targato ICSI Ypsilon 320 1 SA, proveniente dall'Austria. La violazione è avvenuta in via della Pace, civico 2, per transito in zona di accesso vietato, violando l'articolo 12, comma 10 del codice stradale. L'agente Anna Bianchi ha proceduto con contestazione immediata e si prevede la decurtazione di 7 punti dalla patente. È richiesta la stampa in olandese via Hawaii, con inclusione della comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "dieci e quarantuno",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "austria",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "tram street tripla",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data ventiquattro aprile duemilaventicinque alle ore dieci e quarantuno per la violazione riscontrata al veicolo ciclomotori marca tram street tripla targato icsi ypsilon trecentoventi uno sa tipo prova proveniente da austria in particolare in via della pace civico due è stato accertato transito in zona accesso vietato in violazione dell'articolo dodici con ma dieci del codice stradale l'agente anna bianchi a proceduto con contestazione immediata si prevede la decurtazione di sette punti dalla patente richiedo la stampa in olandese via hawaii fai stampa anche la comunicativa",
+    "original_sentence": "Verbale redatto in data 24/04/2025 alle ore 10:41 per la violazione riscontrata al veicolo ciclomotore, marca Triumph Street Triple, targato XY321ZA (tipo prova) proveniente da austria. In particolare, in via della Pace, civico 2, è stato accertato transito in zona accesso vietato, in violazione dell'articolo 12, comma 10 del codice stradale. L'agente Anna Bianchi ha proceduto con contestazione immediata. Si prevede la decurtazione di 7 punti dalla patente. Richiedo la stampa in olandese via wifi, stampa anche la comunicazione."
+}

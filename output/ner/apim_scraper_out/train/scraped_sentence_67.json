@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione per un veicolo immatricolato in Olanda con targa speciale. L'infrazione è avvenuta il 16 aprile 2025 alle 20:10 presso Corso della Repubblica, civico 19, per parcheggio in doppia fila. Il veicolo è un mit subisci colte molto veicolo di colore viola. Sono stati decurtati sei punti e applicata una sanzione accessoria. La stampa deve essere effettuata tramite Bluetooth in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "venti e dieci",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "olanda",
+                    "targa": "beh quattrocentocinquanta sei ci di di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "mit subisci colte",
+                    "colore": "viola"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "sei, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il sedici aprile duemilaventicinque alle ore venti e dieci sto mettendo una notifica di infrazione per il veicolo mit subisci colte molto veicolo immatricolati in olanda con targa beh quattrocentocinquanta sei ci di di tipo speciale l'infrazione si e verificata presso corso della repubblica al civico diciannove violando il codice stradale in particolare l'articolo cinquantatré con ma cinquantuno riguardante il parcheggio in doppia fila devo decurtare sei punti applico una sanzione accessoria in base alle circostanze il molto veicolo e di colore viola con numero di telaio cinquecentoventicinque milioni e sette centosessantanove mila trecentocinquantadue massa duemilaottocento nove chilogrammi stampa me lo con il blu tutti in italiano non stampare anche la comunicazione",
+    "original_sentence": "Il 16/04/2025, alle ore 20:10, sto emettendo una notifica di infrazione per il veicolo Mitsubishi Colt, motoveicolo immatricolato in olanda con targa AB456CD di tipo speciale. L'infrazione si è verificata presso corso della Repubblica, al civico 19, violando il codice stradale, in particolare l'articolo 53, comma 51 riguardante il parcheggio in doppia fila.Devo decurtare 6 punti. Applico una sanzione accessoria in base alle circostanze. Il motoveicolo è di colore viola, con numero di telaio 525769352 e massa 2809 kg.Stampamelo con il bluetooth in italiano, non stampare anche la comunicazione."
+}

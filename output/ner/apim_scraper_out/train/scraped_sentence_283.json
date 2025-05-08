@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il primo maggio 2025 alle ore 13:34 per una violazione stradale. Il veicolo coinvolto è un ciclomotore Alfa Romeo Giulietta con targa italiana. La violazione è avvenuta in via della Repubblica 20 e via dei Fori Imperiali 10, per transito in zona a accesso vietato, violando l'articolo 4, comma 2 del codice stradale. L'agente Carlo Bruni ha proceduto con contestazione immediata e si prevede la decurtazione di nove punti dalla patente. La stampa è richiesta in olandese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "tredici e trentaquattro",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "italia",
+                    "targa": "i che quattrocentocinquanta sei chilometri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "alfa romeo e giulietta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data primo maggio duemilaventicinque alle ore tredici e trentaquattro per la violazione riscontrata al veicolo ciclomotori marca alfa romeo e giulietta targato i che quattrocentocinquanta sei chilometri tipo speciale proveniente da italia in particolare in via della repubblica venti via dei fori imperiali civico dieci è stato accertato transito in zona accesso vietato in violazione dell'articolo quattro con ma due del codice stradale l'agente carlo bruni a proceduto con contestazione immediata si prevede la decurtazione di nove punti dalla patente richiedo la stampa in olandese via blu tutta stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 01/05/2025 alle ore 13:34 per la violazione riscontrata al veicolo ciclomotore, marca Alfa Romeo Giulietta, targato IJ456KL (tipo speciale) proveniente da italia. In particolare, in via della Repubblica, 20via dei Fori Imperiali, civico 10, è stato accertato transito in zona accesso vietato, in violazione dell'articolo 4, comma 2 del codice stradale. L'agente Carlo Bruni ha proceduto con contestazione immediata. Si prevede la decurtazione di 9 punti dalla patente. Richiedo la stampa in olandese via bluetooth, stampa anche la comunicazione."
+}

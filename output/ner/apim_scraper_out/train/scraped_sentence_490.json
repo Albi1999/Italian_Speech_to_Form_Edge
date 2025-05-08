@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo rimorchio marca \"Un Dai Icona\" con targa \"sette centottantanove occhi\" di tipo \"prova\" proveniente dalla Grecia. L'infrazione è stata rilevata il 27 aprile 2025 alle ore 20:24 in viale della Concordia, civico 13, per parcheggio su strisce pedonali, violando l'articolo 39 comma 37 del codice civile. L'agente Matteo Gallo ha provveduto alla contestazione immediata. La violazione comporta la perdita di 10 punti. Si richiede la stampa del verbale in tedesco tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "venti e ventiquattro",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "sette centottantanove occhi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "un dai icona",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo rimorchio marca un dai icona targato sette centottantanove occhi di tipo prova proveniente da grecia l'infrazione e stata rilevata il ventisette aprile duemilaventicinque alle ore venti e ventiquattro il veicolo si trovava in viale della concordia al civico tredici in parcheggio su strisce pedonali violando l'articolo trentanove comma trentasette del codice civile l'agente matteo gallo a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di dieci punti richiedo la stampa del verbale in tedesco tramite blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo rimorchio, marca Hyundai Kona, targato MN789OP (di tipo prova), proveniente da grecia.  L'infrazione è stata rilevata il 27/04/2025 alle ore 20:24. Il veicolo si trovava in viale della Concordia, al civico 13, in parcheggio su strisce pedonali, violando l'articolo 39, comma 37, del codice civile. L'agente Matteo Gallo ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 10 punti.  Richiedo la stampa del verbale in tedesco tramite bluetooth, non stampare anche la comunicazione."
+}

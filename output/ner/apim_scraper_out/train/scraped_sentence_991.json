@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il ventinove aprile duemilaventicinque alle ore venti e sei per un veicolo autovettura di marca Honda CB Arresti 150 Jerry con targa CD 4506 Jeff, tipo prova, registrato in Italia. L'infrazione è avvenuta in viale della Concordia al numero tredici, consistente nel parcheggio in doppia fila, come previsto dall'articolo 35 comma 33 del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti sette punti di decurtazione. Si richiede la stampa della notifica tramite Wi-Fi in lingua portoghese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "venti e sei",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italia",
+                    "targa": "ci di quattrocentocinquanta sei jeff",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "onda cibi arresti centocinquanta jerry",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventinove aprile duemilaventicinque alle ore venti e sei è stato emesso un preavviso di violazione per il veicolo autovettura di marca onda cibi arresti centocinquanta jerry con targa ci di quattrocentocinquanta sei jeff tipo prova registrato in italia l'infrazione avvenuta in viale della concordia al numero tredici e consiste in parcheggia in doppia fila come previsto dall'articolo trentacinque coma trentatré del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti sette punti di decurtazione si prega di stampare la presente notifica tramite guai fai in lingua portoghese non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 29/04/2025, alle ore 20:06, è stato emesso un preavviso di violazione per il veicolo autovettura di marca Honda CBR650R, con targa CD456EF (tipo prova), registrato in italia. L'infrazione è avvenuta in viale della Concordia, al numero 13, e consiste in parcheggio in doppia fila, come previsto dall'articolo 35, comma 33 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 7 punti di decurtazione. Si prega di stampare la presente notifica tramite wifi, in lingua portoghese, non stampare anche la comunicazione. "
+}

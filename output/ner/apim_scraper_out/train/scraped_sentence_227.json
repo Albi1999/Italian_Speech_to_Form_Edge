@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione stradale avvenuta il 14 aprile 2025 alle ore 2:31. Un verbale è stato elevato al veicolo Seat Ibiza, immatricolato in Svizzera, per transito in zona accesso vietato. La violazione è stata rilevata in via Venti Settembre, civico 5. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di sette punti. La stampa del verbale è richiesta in lingua francese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "due trentuno",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "svizzera",
+                    "targa": "guerre trecentoventi uno e se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "seat ibiza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trenta",
+                    "comma": "ventotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "via hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data a quattordici aprile duemilaventicinque alle ore due trentuno si eleva verbale al veicolo seat ibiza ciclomotori e con targa guerre trecentoventi uno e se ti di tipo copertura immatricolati in svizzera per violazione dell'articolo trenta comma ventotto del codice stradale ovvero transito in zona accesso vietato rilevata in via venti settembre al civico cinque non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano sette punti di decurtazione stampa necessaria in lingua francese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "In data 14/04/2025, alle ore 02:31, si eleva verbale al veicolo Seat Ibiza, ciclomotore con targa QR321ST di tipo copertura, immatricolato in svizzera, per violazione dell'articolo 30, comma 28 del codice stradale, ovvero transito in zona accesso vietato, rilevata in via XX Settembre, al civico 5.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 7 punti di decurtazione. Stampa necessaria in lingua francese via wifi, stampa anche la comunicazione."
+}

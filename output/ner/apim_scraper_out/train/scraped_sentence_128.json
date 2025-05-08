@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sette maggio duemilaventicinque alle ore cinque e trentasette per un veicolo Mercedes Classe A con rimorchio, immatricolato in Spagna, targa E 789 G. L'infrazione è avvenuta in corso Vittorio Emanuele, civico quindici, per violazione del codice civile, articolo tre, comma uno, parcheggio su strisce pedonali. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti sei punti da decurtare, senza sanzione accessoria. La stampa è in olandese tramite Bluetooth e include la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette maggio duemilaventicinque",
+            "ora_violazione": "cinque trentasette",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "spagna",
+                    "targa": "è sette centottantanove giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: da",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno sette maggio duemilaventicinque alle ore cinque trentasette è stato redatto un verbale per il veicolo mercedes classe a rimorchio immatricolati in spagna con targa è sette centottantanove giacca di tipo prova l'infrazione e avvenuta in corso vittorio emanuele al civico quindici stata riscontrata una violazione del codice civile articolo tre con ma uno vero parcheggio su strisce pedonali non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti sei punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in olandese tramite blood stampa anche la comunicazione",
+    "original_sentence": "Il giorno 07/05/2025, alle ore 05:37, è stato redatto un verbale per il veicolo Mercedes Classe A, rimorchio immatricolato in spagna con targa EP789GH di tipo prova.L'infrazione è avvenuta in corso Vittorio Emanuele, al civico 15. È stata riscontrata una violazione del codice civile, articolo 3, comma 1 ovvero parcheggio su strisce pedonaliNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 6 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in olandese tramite bluetooth, stampa anche la comunicazione."
+}

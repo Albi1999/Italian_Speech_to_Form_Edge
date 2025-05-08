@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione rilevata il 13 aprile 2025 alle 23:02. Il veicolo coinvolto è un rimorchio Dacia Sandy, targato 789 occhi, di tipo speciale, proveniente dalla Croazia. L'infrazione è avvenuta in corso Buenos Aires, civico 98, per parcheggio in doppia fila, violando l'articolo 45 comma 43 del codice penale. L'agente Francesco Rizzo ha effettuato la contestazione immediata, comportando la perdita di 3 punti. Si richiede la stampa del verbale in italiano tramite Wi-Fi, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "ventitré due minuti",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "sette centottantanove occhi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "dacia sandy ero",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo rimorchio marca dacia sandy ero targato sette centottantanove occhi di tipo speciale proveniente da croazia l'infrazione stata rilevata il tredici aprile duemilaventicinque alle ore ventitré due minuti il veicolo si trovava in corso buenos aires al civico novantotto in parcheggia in doppia fila violando l'articolo quarantacinque comma quarantatré del codice penale l'agente francesco rizzo a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di tre punti richiedo la stampa del verbale in italiano tramite vuoi fai stampa anche la comunicativa",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo rimorchio, marca Dacia Sandero, targato MN789OP (di tipo speciale), proveniente da croazia.  L'infrazione è stata rilevata il 13/04/2025 alle ore 23:02. Il veicolo si trovava in corso Buenos Aires, al civico 98, in parcheggio in doppia fila, violando l'articolo 45, comma 43, del codice penale. L'agente Francesco Rizzo ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 3 punti.  Richiedo la stampa del verbale in italiano tramite wifi, stampa anche la comunicazione."
+}

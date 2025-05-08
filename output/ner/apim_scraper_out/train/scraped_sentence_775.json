@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto l'undici aprile 2025 alle ore 20:49 per un veicolo Fiat Cinquecento, immatricolato in Grecia, con targa 'guerra e quattrocentocinquanta sei e se ti' di tipo prova. L'infrazione è avvenuta in viale della Vittoria al civico 9, per violazione del codice stradale, articolo 30, comma 28, riguardante il parcheggio in zona a rimozione. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti otto punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è in francese tramite WiFi e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "venti e quarantanove",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "grecia",
+                    "targa": "guerra e quattrocentocinquanta sei e se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "fiat cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trenta",
+                    "comma": "ventotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: da",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno undici aprile duemilaventicinque alle ore venti e quarantanove è stato redatto un verbale per il veicolo fiat cinquecento macchina agricola immatricolati in grecia con targa guerra e quattrocentocinquanta sei e se ti di tipo prova l'infrazione è avvenuta in viale della vittoria al civico nove e stata riscontrata una violazione del codice stradale articolo trenta comma ventotto vero parcheggio in zona a rimozione non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti otto punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in francese tramite wifi stampa anche la comunicazione",
+    "original_sentence": "Il giorno 11/04/2025, alle ore 20:49, è stato redatto un verbale per il veicolo Fiat 500, macchina agricola immatricolato in grecia con targa QR456ST di tipo prova. L'infrazione è avvenuta in viale della Vittoria, al civico 9. È stata riscontrata una violazione del codice stradale, articolo 30, comma 28 ovvero parcheggio in zona rimozioneNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 8 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in francese tramite wifi, stampa anche la comunicazione. "
+}

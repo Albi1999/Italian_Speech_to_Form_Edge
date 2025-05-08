@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo rimorchio Ducati Master immatricolato in Portogallo. La violazione è avvenuta il 9 aprile 2025 alle ore 21:10 in via della Libertà, numero civico 3, per parcheggio su strisce pedonali. La violazione è in base all'articolo 185, comma 2 del codice penale, con una decurtazione di 10 punti. Si richiede la stampa del preavviso in lingua spagnola tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "ventuno i dieci",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "portogallo",
+                    "targa": "mai ducati master te jeffrey quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "ufficiali",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazioni per il veicolo rimorchio mai ducati master te jeffrey quattrocentocinquanta sei giacca di tipo ufficiali immatricolati in portogallo la violazione è avvenuta i nove aprile duemilaventicinque alle ore ventuno i dieci in via della libertà a il numero civico tre ed è relativa parcheggio su strisce pedonali in base al articolo centottantacinque coma due del codice penale per tale violazione sono previsti dieci punti di decurtazione si richiede la stampa di tale preavviso in lingua spagnolo tramite blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo rimorchio, marca Ducati Monster, targa EF456GH di tipo ufficiale, immatricolato in portogallo. La violazione è avvenuta il 09/04/2025 alle ore 21:10 in via della Libertà, al numero civico 3, ed è relativa a parcheggio su strisce pedonali, in base all'articolo 185, comma 2 del codice penale. Per tale violazione sono previsti 10 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua spagnolo tramite bluetooth, non stampare anche la comunicazione. "
+}

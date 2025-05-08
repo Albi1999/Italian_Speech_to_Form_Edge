@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione emessa il cinque maggio 2025 alle ore dieci e quarantadue per un veicolo immatricolato in Spagna con targa I 123 CH. L'infrazione è avvenuta presso Corso della Repubblica, civico 19, violando il codice civile, articolo 40, comma 38, riguardante il parcheggio davanti a passo carabine. Sono stati decurtati tre punti e non è necessaria alcuna sanzione accessoria. Il veicolo è un motoveicolo nero, modello Traiano Tahir 850 Sport. La stampa deve essere effettuata tramite Bluetooth in portoghese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "dieci e quarantadue",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "spagna",
+                    "targa": "i centoventitre chi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "traiano tahir ottocentocinquanta sport",
+                    "colore": "nero"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il cinque maggio duemilaventicinque alle ore dieci e quarantadue sto mettendo una notifica di infrazione per il veicolo traiano tahir ottocentocinquanta sport molto veicolo immatricolati in spagna con targa i centoventitre chi lo litri di tipo copertura l'infrazione si e verificata presso corso della repubblica al civico diciannove violando il codice civile in particolare l'articolo quaranta con ma trentotto riguardante il parcheggio davanti a passo carabine devo decurtare tre punti non è necessaria alcuna sanzione accessoria il molto veicolo e di colore nero con numero di telaio novecento trentotto milioni e seicentomila trecentosessantacinque massa tremiladuecento ottantaquattro chilogrammi stampa me lo con il blu tutti in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Il 05/05/2025, alle ore 10:42, sto emettendo una notifica di infrazione per il veicolo Triumph Tiger 850 Sport, motoveicolo immatricolato in spagna con targa IJ123KL di tipo copertura. L'infrazione si è verificata presso corso della Repubblica, al civico 19, violando il codice civile, in particolare l'articolo 40, comma 38 riguardante il parcheggio davanti a passo carrabile.Devo decurtare 3 punti. Non è necessaria alcuna sanzione accessoria. Il motoveicolo è di colore nero, con numero di telaio 938601365 e massa 3284 kg.Stampamelo con il bluetooth in portoghese, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata l'11 aprile 2025 alle ore 00:44 in via Giuseppe Mazzini, civico 24. La violazione riguarda un veicolo con targa francese parcheggiato su strisce pedonali, in base all'articolo 40, comma 38 del codice civile. La contestazione è stata immediata e sono previsti due punti di decurtazione. Si richiede la stampa in lingua francese via Hawaii, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte quarantaquattro",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "francia",
+                    "targa": "quattrocentocinquanta sei",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mit subisci colte",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: di",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata e l'undici aprile duemilaventicinque alle ore mezzanotte quarantaquattro in via giuseppe mazzini al civico ventiquattro a carico del veicolo mit subisci colte macchina operatrice con targa quattrocentocinquanta sei occupi di tipo prova immatricolati in francia la violazione contestata e parcheggio su strisce pedonali in base al l'articolo quaranta comma trentotto del codice civile la contestazione avvenuta immediatamente da parte della gente giulia costa sono previsti due punti di decurtazione si richiede la stampa in lingua francese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 11/04/2025 alle ore 00:44 in via Giuseppe Mazzini, al civico 24, a carico del veicolo Mitsubishi Colt, macchina operatrice con targa MN456OP di tipo prova, immatricolato in francia. La violazione contestata è parcheggio su strisce pedonali, in base all'articolo 40, comma 38 del codice civile.La contestazione è avvenuta immediatamente da parte dell'agente Giulia Costa. Sono previsti 2 punti di decurtazione. Si richiede la stampa in lingua francese via wifi, stampa anche la comunicazione."
+}

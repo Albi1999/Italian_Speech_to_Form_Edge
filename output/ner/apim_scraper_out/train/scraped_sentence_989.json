@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il ventidue aprile duemilaventicinque alle otto e ventisette per un veicolo macchina operatrice di marca Scorda Camice con targa un novecentottanta sette doppio wings, registrato in Francia. L'infrazione è avvenuta in piazza Venezia al numero uno, per parcheggio davanti a passo carabine, violando l'articolo centottantacinque comma due del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti quattro punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua spagnola, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "otto e ventisette",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "francia",
+                    "targa": "un novecentottanta sette doppio wings",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "scorda camice",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: previsti, after: di",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventidue aprile duemilaventicinque alle otto e ventisette è stato emesso un preavviso di violazioni per il veicolo macchina operatrice di marca scorda camice con targa un novecentottanta sette doppio wings tipo prova registrato in francia l'infrazione avvenuta in piazza venezia al numero uno e consiste in parcheggio davanti a passo carabine come previsto dall'articolo centottantacinque con ma due del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti quattro punti di decurtazione si prega di stampare la presente notifica tramite blu tutte in lingua spagnolo stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 22/04/2025, alle ore 08:27, è stato emesso un preavviso di violazione per il veicolo macchina operatrice di marca Skoda Kamiq, con targa UV987WX (tipo prova), registrato in francia. L'infrazione è avvenuta in piazza Venezia, al numero 1, e consiste in parcheggio davanti a passo carrabile, come previsto dall'articolo 185, comma 2 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 4 punti di decurtazione. Si prega di stampare la presente notifica tramite bluetooth, in lingua spagnolo, stampa anche la comunicazione. "
+}

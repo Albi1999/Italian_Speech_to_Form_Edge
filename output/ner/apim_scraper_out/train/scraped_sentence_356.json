@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta l'undici aprile 2025 alle ore 4:38 per un veicolo immatricolato in Svizzera con targa ufficiale. L'infrazione è avvenuta in via della Musica, civico 18, violando il codice penale, articolo 41, comma 39, riguardante il parcheggio in zona a rimozione. Sono stati decurtati quattro punti. Il veicolo è una macchina agricola di colore marrone. La stampa deve essere effettuata tramite Wi-Fi in lingua olandese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "quattro e trentotto",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": "marrone"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantuno",
+                    "comma": "trentanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "i l'undici aprile duemilaventicinque alle ore quattro e trentotto sto mettendo una notifica di infrazione per il veicolo peggio duemilaotto macchina agricola immatricolati in svizzera con targa guerre novecentottanta sette se ti di tipo ufficiale l'infrazione si e verificata presso via della musica al civico diciotto violando il codice penale in particolare l'articolo quarantuno con comma trentanove riguardante il parcheggio in zona a rimozione devo decurtare quattro punti non è necessaria alcuna sanzione accessoria il macchina agricola e di colore marrone con numero di telaio cinquecento sessantasei milioni e ottocentosettantadue settemila quattro centonovantaquattro e massa milleseicento novantasette chilogrammi stampa me lo con il vuoi fa in olandese stampa anche la comunicazione",
+    "original_sentence": "Il 11/04/2025, alle ore 04:38, sto emettendo una notifica di infrazione per il veicolo Peugeot 2008, macchina agricola immatricolato in svizzera con targa QR987ST di tipo ufficiale. L'infrazione si è verificata presso via della Musica, al civico 18, violando il codice penale, in particolare l'articolo 41, comma 39 riguardante il parcheggio in zona rimozione.Devo decurtare 4 punti. Non è necessaria alcuna sanzione accessoria. Il macchina agricola è di colore marrone, con numero di telaio 566877494 e massa 1697 kg.Stampamelo con il wifi in olandese, stampa anche la comunicazione."
+}

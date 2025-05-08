@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Honda con targa ufficiale registrato in Olanda. L'infrazione è avvenuta l'11 aprile 2025 alle 20:17 in via della Storia, civico 6, per parcheggio in divieto di sosta. La violazione è in base all'articolo 24, comma 22 del codice penale e comporta una decurtazione di 2 punti. La stampa dell'avviso è prevista via WiFi in lingua olandese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "venti e diciassette",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "olanda",
+                    "targa": "trecentoventi uno più",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "onda devi molto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventiquattro",
+                    "comma": "ventidue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "hawaii fa",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo onda devi molto veicolo targato trecentoventi uno più con targa ufficiale registrato in olanda per un fatto accaduto e l'undici aprile duemilaventicinque alle venti e diciassette il veicolo si trovava in via della storia al civico sei dove è stato riscontrato parcheggiato in divieto di sosta in base all'articolo ventiquattro comma ventidue del codice penale questa infrazione comporta una decurtazione di due punti genere alla stampa dell'avviso via hawaii fa in olandese non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Honda HR-V, motoveicolo, targato MN321OP con targa ufficiale, registrato in olanda,  per un fatto accaduto il 11/04/2025 alle 20:17. Il veicolo si trovava in via della Storia, al civico 6, dove è stato riscontrato parcheggio in divieto di sosta, in base all'articolo 24, comma 22, del codice penale. Questa infrazione comporta una decurtazione di 2 punti.  Genera la stampa dell'avviso via wifi in olandese, non stampare anche la comunicazione."
+}

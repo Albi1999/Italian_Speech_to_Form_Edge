@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento informa che è in corso la stesura di un preavviso di violazione per un veicolo proveniente dalla Croazia. L'infrazione riguarda il parcheggio su strisce pedonali, avvenuta il 9 aprile 2025 alle 22:43 in via della Speranza, numero 18. La violazione è relativa all'articolo 44, comma 42 del codice stradale e comporterà una decurtazione di cinque punti. Si richiede la stampa in lingua tedesca, modalità Bluetooth, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "ventidue quarantatré",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "croazia",
+                    "targa": "guerre centoventitre se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa guerre centoventitre se ti di tipo prova marca subaru impresa proveniente da croazia l'infrazione nello specifico parcheggio su strisce pedonali sia e verificata in data a nove aprile duemilaventicinque alle ore ventidue quarantatré in via della speranza al numero diciotto articolo quarantaquattro con ma quarantadue del codice stradale si comunica che dalla violazione conseguirà una decurtazione di cinque punti si richiede la stampa in lingua tedesco modalità blu stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa QR123ST di tipo prova, marca Subaru Impreza, proveniente da croazia. L'infrazione, nello specifico parcheggio su strisce pedonali, si è verificata in data 09/04/2025 alle ore 22:43 in via della Speranza, al numero 18 (articolo 44, comma 42 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 5 punti.Si richiede la stampa in lingua tedesco, modalità bluetooth, stampa anche la comunicazione."
+}

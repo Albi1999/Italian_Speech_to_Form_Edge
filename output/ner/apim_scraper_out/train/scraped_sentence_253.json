@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione rilevata il 3 maggio 2025 alle 18:30. Il veicolo coinvolto è una macchina operatrice marca Chapas modello Zitta 650, targata I 654 km, di tipo speciale e proveniente dalla Francia. L'infrazione è avvenuta in corso Buenos Aires, civico 98, per parcheggio su strisce pedonali, violando l'articolo 4 comma 2 del codice civile. L'agente Bellini ha effettuato la contestazione immediata, comportando la perdita di 3 punti. Si richiede la stampa del verbale in olandese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "diciotto e trenta",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "francia",
+                    "targa": "i sei centocinquantaquattro chilometri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "chapas a zitta seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina operatrice marca chapas a zitta seicentocinquanta targato i sei centocinquantaquattro chilometri di tipo speciale proveniente da francia l'infrazione e stata rilevata il tre maggio duemilaventicinque alle ore diciotto e trenta il veicolo si trovava in corso buenos aires al civico novantotto in parcheggio su strisce pedonali violando l'articolo quattro con ma due del codice civile l'agente sara bellini a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di tre punti richiedo la stampa del verbale in olandese tramite blu tutta stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina operatrice, marca Kawasaki Z650, targato IJ654KL (di tipo speciale), proveniente da francia.  L'infrazione è stata rilevata il 03/05/2025 alle ore 18:30. Il veicolo si trovava in corso Buenos Aires, al civico 98, in parcheggio su strisce pedonali, violando l'articolo 4, comma 2, del codice civile. L'agente Sara Bellini ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 3 punti.  Richiedo la stampa del verbale in olandese tramite bluetooth, stampa anche la comunicazione."
+}

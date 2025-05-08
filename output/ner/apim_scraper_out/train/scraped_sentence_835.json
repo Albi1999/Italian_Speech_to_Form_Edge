@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sei maggio 2025 alle ore 3:15 per una violazione riscontrata su un veicolo Ford Fiesta con targa AD 450 6 CD, proveniente dal Portogallo. La violazione è avvenuta in via Garibaldi, civico 11, per parcheggio davanti a un passo carrabile, violando l'articolo 40, comma 38 del codice penale. L'agente Chiara Romano ha proceduto con contestazione immediata e si prevede la decurtazione di sette punti dalla patente. La stampa è richiesta in italiano via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "tre quindici",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "portogallo",
+                    "targa": "ad quattrocentocinquanta sei ci di",
+                    "tipologia_targa": "ufficiali",
+                    "marca_modello": "ford fiesta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazioni immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data sei maggio duemilaventicinque alle ore tre quindici per la violazione riscontrata al veicolo autovettura marca ford fiesta targato ad quattrocentocinquanta sei ci di tipo ufficiali i proveniente da portogallo in particolare in via garibaldi civico undici è stato accertato parcheggia davanti a passo cary abile in violazione dell'articolo quaranta come trentotto del codice penale l'agente chiara romano a proceduto con contestazioni immediata si prevede la decurtazione di sette punti dalla patente richiedo la stampa in italiano via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 06/05/2025 alle ore 03:15 per la violazione riscontrata al veicolo autovettura, marca Ford Fiesta, targato AB456CD (tipo ufficiale) proveniente da portogallo. In particolare, in via Garibaldi, civico 11, è stato accertato parcheggio davanti a passo carrabile, in violazione dell'articolo 40, comma 38 del codice penale. L'agente Chiara Romano ha proceduto con contestazione immediata. Si prevede la decurtazione di 7 punti dalla patente. Richiedo la stampa in italiano via bluetooth, stampa anche la comunicazione. "
+}

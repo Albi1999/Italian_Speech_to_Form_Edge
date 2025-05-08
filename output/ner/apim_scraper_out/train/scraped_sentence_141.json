@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo immatricolato in Portogallo, con targa speciale, per un'infrazione commessa il 9 aprile 2025 alle ore 8:26 in via Roma, civico 77. La violazione riguarda il parcheggio in divieto di sosta, ai sensi dell'articolo 120, comma 9 del codice civile. La contestazione è stata eseguita immediatamente dall'agente Alessandro Moretti e comporta la decurtazione di quattro punti. La stampa del verbale è richiesta in spagnolo tramite Bluetooth, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "otto e ventisei",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "portogallo",
+                    "targa": "e quattrocentocinquanta sei chi lo litri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "mas da chips tre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centoventi",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo mas da chips tre molto veicolo targa è e quattrocentocinquanta sei chi lo litri di tipo speciale immatricolati portogallo per infrazione commessa in data a nove aprile duemilaventicinque ore otto e ventisei in via roma civico settantasette è stato rilevato parcheggio in divieto di sosta ai sensi dell'articolo centoventi uno con nove del codice civile contestazione immediata eseguita dall'agente alessandro moretti la violazione comporta la decurtazione di quattro punti richiesta stampa in spagnolo via blu tutta stampa anche la comunicativa",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Mazda CX-3 motoveicolo, targa IJ456KL di tipo speciale, immatricolato in portogallo, per infrazione commessa in data 09/04/2025, ore 08:26. In via Roma, civico 77, è stato rilevato parcheggio in divieto di sosta, ai sensi dell'articolo 121, comma 9, del codice civile.Contestazione immediata eseguita dall'agente Alessandro Moretti. La violazione comporta la decurtazione di 4 punti. Richiesta stampa in spagnolo via bluetooth, stampa anche la comunicazione."
+}

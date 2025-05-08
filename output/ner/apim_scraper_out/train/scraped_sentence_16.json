@@ -1,6 +1,6 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive un verbale per un veicolo Alfa Romeo Stelvio con rimorchio, targa di tipo prova immatricolato in Spagna. L'infrazione è stata commessa il 12 aprile 2025 alle ore 6:16 in via della Pace, civico 2, per parcheggio in doppia fila. La violazione è ai sensi dell'articolo 35, comma 33 del codice civile. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 8 punti. È richiesta la stampa in spagnolo via Bluetooth, includendo anche la comunicazione.",
+        "summary": "Il documento descrive un verbale per un veicolo Alfa Romeo Stelvio con rimorchio, targa di tipo prova immatricolato in Spagna. L'infrazione è stata commessa il 12 aprile 2025 alle ore 6:16 in via della Pace, civico 2, per parcheggio in doppia fila. La violazione è ai sensi dell'articolo 35, comma 33 del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 8 punti. È richiesta la stampa in spagnolo via Bluetooth, includendo anche la comunicazione.",
         "report": {
             "verbale_preavviso": "verbale",
             "data_violazione": "dodici aprile duemilaventicinque",
@@ -17,7 +17,7 @@
                     "colore": null
                 }
             ],
-            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "contestazione_immediata": null,
             "motivo_mancata_contestazione": "assenza del trasgressori",
             "violazioni": [
                 {

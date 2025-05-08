@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo rimorchio di marca Dacia d'Aste con targa speciale proveniente dall'Austria. L'infrazione è avvenuta il 12 aprile 2025 alle ore 2:44 in via della Pace, numero civico 2, per parcheggio davanti a passo carabine, violando l'articolo 23, comma 21 del codice stradale. La decurtazione prevista è di otto punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è richiesta tramite Wi-Fi in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "due quarantaquattro",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "duecentoventitre ci",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "dacia d'aste",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventitre",
+                    "comma": "ventuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo rimorchio di marca dacia d'aste con targa duecentoventitre ci di tipo speciale proveniente da austria fatto avvenuto il dodici aprile duemilaventicinque alle ore due quarantaquattro posizione via della pace numero civico due infrazione parcheggio davanti a passo carabine in violazione dell'articolo ventitre con ma ventuno del codice stradale decurtazione prevista otto punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite vuoi fai in italiano non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo rimorchio di marca Dacia Duster, con targa AB123CD (tipo speciale), proveniente da austria.  Fatto avvenuto il 12/04/2025 alle ore 02:44. Posizione: via della Pace, numero civico 2. Infrazione: parcheggio davanti a passo carrabile, in violazione dell'articolo 23, comma 21, del codice stradale. Decurtazione prevista: 8 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in italiano, non stampare anche la comunicazione."
+}

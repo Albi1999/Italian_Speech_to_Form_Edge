@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il quindici aprile duemilaventicinque alle ore tre meno cinque per un'infrazione rilevata in via della libertà al civico ventuno. La violazione riguarda il codice penale, articolo quattordici, comma uno, per parcheggio in zona a rimozione. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Il veicolo coinvolto è un Fiat Cinquecento rosso, immatricolato in Svizzera, con targa \"guerre novecentottanta sette se ti\". Sono da decurtare due punti. La stampa del preavviso è richiesta tramite Bluetooth, in italiano, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "tre meno cinque",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": null,
+                    "marca_modello": "fiat cinquecento",
+                    "colore": "rosso"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quattordici",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data quindici aprile duemilaventicinque alle ore tre meno cinque è stato notificato un preavviso per un macchina agricola targato guerre novecentottanta sette se ti con targa copertura immatricolati in svizzera l'infrazione e stata rilevata in via della libertà al civico ventuno con violazione del codice penale articolo quattordici con ma uno in particolare si e riscontrato un parcheggio in zona a rimozione non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono due punti il veicolo è un fiat cinquecento di colore rosso con numero di telaio trecentottantacinque milioni e sei centoquarantamila novecentoquarantacinque massa duemilaquattrocento settantotto chilogrammi necessita la stampa del preavviso tramite blu tutta in italiano stampa anche la comunicazione",
+    "original_sentence": "In data 15/04/2025, alle ore 02:55, è stato notificato un preavviso per un macchina agricola targato QR987ST con targa copertura, immatricolato in svizzera. L'infrazione è stata rilevata in via della Libertà, al civico 21, con violazione del codice penale, articolo 14, comma 1, in particolare si è riscontrato un parcheggio in zona rimozione Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 2 punti. Il veicolo è un Fiat 500 di colore rosso, con numero di telaio 385640945 e massa 2478 kg.Necessito la stampa del preavviso tramite bluetooth, in italiano, stampa anche la comunicazione."
+}

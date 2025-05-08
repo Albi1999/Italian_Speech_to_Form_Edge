@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il dodici aprile duemilaventicinque alle ore cinque e trentacinque per una violazione riscontrata su un motoveicolo con targa ufficiale proveniente dalla Croazia. La violazione è avvenuta in via della Concordia, civico quattordici, per parcheggio in doppia fila, violando l'articolo ventuno, comma diciannove del codice civile. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di cinque punti dalla patente. La stampa è richiesta in inglese via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "cinque trentacinque",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "croazia",
+                    "targa": "settecento ottantanove ho più",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data dodici aprile duemilaventicinque alle ore cinque trentacinque per la violazione riscontrata al veicolo motoveicoli manca casacche in in già seicentocinquanta targato settecento ottantanove ho più tipo ufficiale proveniente da croazia in particolare in via della concordia civico quattordici è stato accertato parcheggia in doppia fila in violazione dell'articolo ventuno ma diciannove del codice civile data all'assenza del conducente la contestazioni non è stata immediata si prevede la decurtazione di cinque punti dalla patente richiedo la stampa in inglese via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 12/04/2025 alle ore 05:35 per la violazione riscontrata al veicolo motoveicolo, marca Kawasaki Ninja 650, targato MN789OP (tipo ufficiale) proveniente da croazia. In particolare, in via della Concordia, civico 14, è stato accertato parcheggio in doppia fila, in violazione dell'articolo 21, comma 19 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 5 punti dalla patente. Richiedo la stampa in inglese via bluetooth, non stampare anche la comunicazione. "
+}

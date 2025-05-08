@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione stradale avvenuta il 22 aprile 2025 alle ore 3:15. Un verbale è stato elevato al veicolo Fiat Panda, macchina agricola, con targa ufficiale immatricolata in Italia, per violazione dell'articolo 40, comma 38 del codice stradale, ovvero parcheggio in divieto di sosta. La violazione è stata rilevata in via della Speranza al civico 17. Non è stato possibile effettuare la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di cinque punti. La stampa necessaria è in lingua inglese via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "tre quindici",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "italia",
+                    "targa": "è si ypsilon novecentottanta sette gettati",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fiat panda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: derivano, after: di",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventidue aprile duemilaventicinque alle ore tre quindici si eleva verbale al veicolo fiat panda macchina agricola con targa è si ypsilon novecentottanta sette gettati di tipo ufficiale immatricolati in italia per violazione dell'articolo quaranta coma trentotto del codice stradale ovvero parcheggio in divieto di sosta rilevata in via della speranza al civico diciassette non è stato possibile effettuare la contestazione immediata per assenza del trasgressori dalla violazione derivano cinque punti di decurtazione stampa necessarie lingua inglese via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "In data 22/04/2025, alle ore 03:15, si eleva verbale al veicolo Fiat Panda, macchina agricola con targa XY987ZT di tipo ufficiale, immatricolato in italia, per violazione dell'articolo 40, comma 38 del codice stradale, ovvero parcheggio in divieto di sosta, rilevata in via della Speranza, al civico 17. Non è stato possibile effettuare la contestazione immediata, per assenza del trasgressore. Dalla violazione derivano 5 punti di decurtazione. Stampa necessaria in lingua inglese via bluetooth, non stampare anche la comunicazione. "
+}

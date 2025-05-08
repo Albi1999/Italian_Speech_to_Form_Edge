@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il sedici aprile duemilaventicinque alle otto e due minuti per una violazione riscontrata al veicolo \"molto veicolo\" marca \"un dai venti\" targato \"guerre trecentoventi uno e se ti\" tipo ufficiale, proveniente dalla Germania. La violazione è avvenuta in corso della giustizia civico ventitré, per parcheggio in doppia fila, violando l'articolo cinquantatré comma cinquantuno del codice penale. L'agente Carlo Bruni ha proceduto con contestazione immediata e si prevede la decurtazione di otto punti dalla patente. La stampa è richiesta in francese via \"hawaii fai\" e non si desidera stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "otto e due minuti",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "germania",
+                    "targa": "guerre trecentoventi uno e se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "un dai venti",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data sedici aprile duemilaventicinque alle otto e due minuti per la violazione riscontrata al veicolo molto veicolo marca un dai venti targato guerre trecentoventi uno e se ti tipo ufficiale proveniente da germania in particolare in corso della giustizia civico ventitré è stato accertato parcheggia in doppia fila in violazione dell'articolo cinquantatré comma cinquantuno del codice penale l'agente carlo bruni a proceduto con contestazione immediata si prevede la decurtazione di otto punti dalla patente richiedo la stampa in francese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 16/04/2025 alle ore 08:02 per la violazione riscontrata al veicolo motoveicolo, marca Hyundai i20, targato QR321ST (tipo ufficiale) proveniente da germania. In particolare, in corso della Giustizia, civico 23, è stato accertato parcheggio in doppia fila, in violazione dell'articolo 53, comma 51 del codice penale. L'agente Carlo Bruni ha proceduto con contestazione immediata. Si prevede la decurtazione di 8 punti dalla patente. Richiedo la stampa in francese via wifi, non stampare anche la comunicazione."
+}

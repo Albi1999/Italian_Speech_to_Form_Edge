@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento informa che è in corso la stesura di un preavviso di violazione per un veicolo, una macchina agricola con targa speciale proveniente dalla Spagna. L'infrazione riguarda il parcheggio in divieto di sosta, verificata il 25 aprile 2025 alle ore 2:56 in via della Repubblica 20 e via dei Fori Imperiali al numero 10. La violazione è in base all'articolo 3, comma 1 del codice penale e comporterà la decurtazione di due punti. Si richiede la stampa in lingua olandese, modalità Bluetooth, e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "due cinquantasei",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "dieci",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "icsi filo novecentottanta sette",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "reno clio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa icsi filo novecentottanta sette già di tipo speciale marca a reno clio proveniente da spagna l'infrazione nello specifico parcheggio in divieto di sosta se verificata in data venticinque aprile duemilaventicinque alle ore due cinquantasei in via della repubblica venti via dei fori imperiali al numero dieci articolo tre comma uno del codice penale si comunica che dalla violazione conseguirà una decurtazione di due punti si richiede la stampa in lingua olandese modalità blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa XY987ZA di tipo speciale, marca Renault Clio, proveniente da spagna. L'infrazione, nello specifico parcheggio in divieto di sosta, si è verificata in data 25/04/2025 alle ore 02:56 in via della Repubblica, 20via dei Fori Imperiali, al numero 10 (articolo 3, comma 1 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 2 punti. Si richiede la stampa in lingua olandese, modalità bluetooth, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta il quattordici aprile duemilaventicinque alle ore undici e trentotto. L'infrazione riguarda un veicolo Harley Davidson Street 750, immatricolato in Austria con targa ufficiale, presso corso Vittorio Emanuele al civico quindici. La violazione è del codice penale, articolo dodici, comma dieci, riguardante il parcheggio davanti a passo carabine. Sono stati decurtati quattro punti e applicata una sanzione accessoria. Il veicolo è di colore nero. La stampa è richiesta via WiFi in portoghese, senza comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "undici e trentotto",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "guerra e settecento ottantanove",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "harley davidson street settecentocinquanta",
+                    "colore": "nero"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "quattro, before: decurtare, after: punti",
+            "tipo_stampa": "wi fi",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il quattordici aprile duemilaventicinque alle ore undici e trentotto sto mettendo una notifica di infrazione per il veicolo harley davidson street settecentocinquanta autovettura immatricolati in austria con targa guerra e settecento ottantanove se ti di tipo ufficiale l'infrazione si e verificata presso corso vittorio emanuele al civico quindici violando il codice penale in particolare l'articolo dodici con ma dieci riguardante il parcheggio davanti a passo carabine devo decurtare quattro punti applico una sanzione accessoria in base alle circostanze il autovettura e di colore nero con numero di telaio tre otto tre due tre due zero sette otto e massa duemilatrecento ottantaquattro chi li stampa me lo con il wi fi in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Il 14/04/2025, alle ore 11:38, sto emettendo una notifica di infrazione per il veicolo Harley-Davidson Street 750, autovettura immatricolato in austria con targa QR789ST di tipo ufficiale. L'infrazione si è verificata presso corso Vittorio Emanuele, al civico 15, violando il codice penale, in particolare l'articolo 12, comma 10 riguardante il parcheggio davanti a passo carrabile. Devo decurtare 4 punti. Applico una sanzione accessoria in base alle circostanze. Il autovettura è di colore nero, con numero di telaio 383232078 e massa 2384 kg. Stampamelo con il wifi in portoghese, non stampare anche la comunicazione. "
+}

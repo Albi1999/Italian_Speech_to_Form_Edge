@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Dacia con targa ufficiale croata, per un'infrazione avvenuta l'8 aprile 2025 alle 20:40 in via della Speranza, civico 17. La violazione riguarda il parcheggio davanti a un passo carraio, ai sensi dell'articolo 40, comma 38 del codice stradale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di un punto. La stampa è richiesta in olandese via Hawaii, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "venti e quaranta",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "croazia",
+                    "targa": "quattrocentocinquanta sei ci di di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "dacia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: decurtazione, after: ponti",
+            "tipo_stampa": "via hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo dacia da aster autovettura targa quattrocentocinquanta sei ci di di tipo ufficiale immatricolati in croazia per infrazione commessa in data otto aprile duemilaventicinque ore venti e quaranta in via della speranza civico diciassette è stato rilevato parcheggio davanti a passo carabine ai sensi dell'articolo quaranta comma trentotto del codice stradale impossibile effettuare la contestazione immediata vista l'assenza del trasgressori la violazione comporta la decurtazione di uno ponti richiesta stampa in olandese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Dacia Duster autovettura, targa AB456CD di tipo ufficiale, immatricolato in croazia, per infrazione commessa in data 08/04/2025, ore 20:40. In via della Speranza, civico 17, è stato rilevato parcheggio davanti a passo carrabile, ai sensi dell'articolo 40, comma 38, del codice stradale.Impossibile effettuare la contestazione immediata vista l'assenza del trasgressore. La violazione comporta la decurtazione di 1 punti. Richiesta stampa in olandese via wifi, non stampare anche la comunicazione."
+}

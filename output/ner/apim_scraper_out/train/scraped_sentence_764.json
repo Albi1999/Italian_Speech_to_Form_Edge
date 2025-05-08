@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo immatricolato in Austria. La violazione è avvenuta il 27 aprile 2025 alle ore 4:20 in Vietnam, al numero civico 45, per parcheggio in doppia fila. La violazione è in base all'articolo 44, comma 42 del codice penale, con una decurtazione di 9 punti. Si richiede la stampa digitale del preavviso in lingua spagnola tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "quattro eventi",
+            "Strada_1": "vietnam",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "ti zero nove otto i ypsilon nudi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "un stai ottocentocinquanta sport",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: previsti, after: di",
+            "tipo_stampa": "piu tutte",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo autovettura marca un stai ottocentocinquanta sport targa ti zero nove otto i ypsilon nudi tipo speciale immatricolati in austria la violazione è avvenuta il ventisette aprile duemilaventicinque alle ore quattro eventi in vietnam a numero civico quarantacinque ed è relativa parcheggia in doppia fila in base alle articolo quarantaquattro con ma quarantadue del codice penale per tale violazione sono previsti nove punti di decurtazione si richiede la stampa digitale preavviso in lingua spagnolo tramite piu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo autovettura, marca Triumph Tiger 850 Sport, targa TR098YU di tipo speciale, immatricolato in austria. La violazione è avvenuta il 27/04/2025 alle ore 04:20 in via Etnea, al numero civico 45, ed è relativa a parcheggio in doppia fila, in base all'articolo 44, comma 42 del codice penale. Per tale violazione sono previsti 9 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua spagnolo tramite bluetooth, stampa anche la comunicazione. "
+}

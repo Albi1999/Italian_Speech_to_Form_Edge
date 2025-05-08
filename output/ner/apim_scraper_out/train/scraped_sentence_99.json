@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione emessa l'undici aprile 2025 alle ore 12:09 per un veicolo immatricolato in Croazia con targa ufficiale. L'infrazione è avvenuta presso viale dei giardini, civico 8, violando il codice penale, articolo 43, comma 41, riguardante il transito in zona accesso vietato. Sono stati decurtati dieci punti e applicata una sanzione accessoria. Il veicolo è un ciclomotore di colore argento, marca Lei Spark, con numero di telaio specificato. La stampa della notifica è richiesta in inglese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "mezzogiorno e nove minuti",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "ci di quattrocentocinquanta sei fedi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "lei spark",
+                    "colore": "argento"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "dieci, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "i l'undici aprile duemilaventicinque alle ore mezzogiorno e nove minuti sto mettendo una notifica di infrazione per il veicolo cipro lei spark ciclomotori e immatricolati in croazia con targa ci di quattrocentocinquanta sei fedi tipo ufficiale l'infrazione si e verificata presso viale dei giardini al civico otto violando il codice penale in particolare l'articolo quarantatré con ma quarantuno riguardante il transito in zona accesso vietato devo decurtare dieci punti applico una sanzione accessoria in base alle circostanze il ciclo motore di colore argento con numero di telaio sei centocinquantotto milioni e centodiecimila trecentosettantacinque massa tremila e centosessanta chilogrammi stampa me lo con il blu tutti in inglese stampa anche la comunicazione",
+    "original_sentence": "Il 11/04/2025, alle ore 12:09, sto emettendo una notifica di infrazione per il veicolo Chevrolet Spark, ciclomotore immatricolato in croazia con targa CD456EF di tipo ufficiale. L'infrazione si è verificata presso viale dei Giardini, al civico 8, violando il codice penale, in particolare l'articolo 43, comma 41 riguardante il transito in zona accesso vietato.Devo decurtare 10 punti. Applico una sanzione accessoria in base alle circostanze. Il ciclomotore è di colore argento, con numero di telaio 658110375 e massa 3160 kg.Stampamelo con il bluetooth in inglese, stampa anche la comunicazione."
+}

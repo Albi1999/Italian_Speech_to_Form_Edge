@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo Nissan con rimorchio, targato IEHI654, registrato in Austria. L'infrazione è avvenuta il 2 maggio 2025 alle 18:39 in via del Corso, civico 12, per parcheggio in doppia fila. La violazione è in base all'articolo 39, comma 37 del codice penale e comporta una decurtazione di 10 punti. La stampa dell'avviso è richiesta via Bluetooth, in spagnolo, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "diciotto e trentanove",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": null,
+                    "nazione": "austria",
+                    "targa": "i ehi sei centocinquantaquattro cappello",
+                    "tipologia_targa": null,
+                    "marca_modello": "nissan giù rimorchio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo nissan giù rimorchio targato i ehi sei centocinquantaquattro cappello con targa copertura registrato in austria per un fatto accaduto il due maggio duemilaventicinque alle diciotto e trentanove il veicolo si trovava in via del corso al civico dodici dove è stato riscontrato parcheggia in doppia fila in base all'articolo trentanove con ma trentasette del codice penale questa infrazione comporta una decurtazione di dieci punti genera alla stampa dell'avviso via blu tutti in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Nissan Juke, rimorchio, targato IJ654KL con targa copertura, registrato in austria, per un fatto accaduto il 02/05/2025 alle 18:39. Il veicolo si trovava in via del Corso, al civico 12, dove è stato riscontrato parcheggio in doppia fila, in base all'articolo 39, comma 37, del codice penale. Questa infrazione comporta una decurtazione di 10 punti. Genera la stampa dell'avviso via bluetooth in spagnolo, non stampare anche la comunicazione. "
+}

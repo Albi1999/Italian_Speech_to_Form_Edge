@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo immatricolato in Germania con targa \"ho trecentoventi uno doppio with\". L'infrazione è avvenuta in Piazza Venezia, civico uno, per parcheggio in divieto di sosta. Si applica l'articolo cinquantadue comma cinquanta del codice penale. Verranno decurtati un punto. Il verbale è stato contestato immediatamente dall'agente Sara Bellini. Si richiede la stampa in inglese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "germania",
+                    "targa": "ho trecentoventi uno doppio with",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquantadue",
+                    "comma": "cinquanta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtati, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo mi subisci six macchina operatrice immatricolati in germania con targa ho trecentoventi uno doppio with di tipo copertura l'infrazione è avvenuta in piazza venezia civico uno parcheggio in divieto di sosta si applica l'articolo cinquantadue comma cinquanta del codice penale a seguito della violazione verranno decurtati un punti il verbale è stato contestato immediatamente dall'agente sara bellini si prega di procedere con la stampa in inglese tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Mitsubishi ASX, macchina operatrice immatricolato in germania con targa UV321WX di tipo copertura. L'infrazione è avvenuta in piazza Venezia, civico 1: parcheggio in divieto di sosta. Si applica l'articolo 52, comma 50 del codice penale. A seguito della violazione verranno decurtati 1 punti. Il verbale è stato contestato immediatamente dall'agente Sara Bellini. Si prega di procedere con la stampa in inglese tramite bluetooth, stampa anche la comunicazione. "
+}

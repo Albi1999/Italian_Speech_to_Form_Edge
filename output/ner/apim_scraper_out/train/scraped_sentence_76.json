@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il dodici aprile duemilaventicinque alle ore diciannove cinquantotto per una violazione riscontrata su un veicolo macchina agricola marca Onda Cibi Jerry 650, targato UBI 123 doppia EX tipo prova, proveniente dalla Grecia. La violazione è avvenuta in via della Libertà, civico 21, per parcheggio in doppia fila, violando l'articolo sei, comma quattro del codice penale. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di sei punti dalla patente. La stampa è richiesta in italiano via Hawaii Fai, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "diciannove cinquantotto",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "grecia",
+                    "targa": "ubi centoventitre doppia ex",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "onda cibi jerry seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data dodici aprile duemilaventicinque alle ore diciannove cinquantotto per la violazione riscontrata al veicolo macchina agricola marca onda cibi jerry seicentocinquanta targato ubi centoventitre doppia ex tipo prova proveniente da grecia in particolare in via della libertà civico ventuno è stato accertato parcheggia in doppia fila in violazione dell'articolo sei con ma quattro del codice penale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di sei punti dalla patente richiedo la stampa in italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 12/04/2025 alle ore 19:58 per la violazione riscontrata al veicolo macchina agricola, marca Honda CBR650R, targato UV123WX (tipo prova) proveniente da grecia. In particolare, in via della Libertà, civico 21, è stato accertato parcheggio in doppia fila, in violazione dell'articolo 6, comma 4 del codice penale. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 6 punti dalla patente. Richiedo la stampa in italiano via wifi, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un'infrazione commessa da un veicolo con targa slovena. L'infrazione è avvenuta il 14 aprile 2025 alle 9:01 in via della Libertà, numero 3, per transito in zona accesso vietato. L'articolo violato è il 19, comma 17 del codice civile, con la decurtazione di 9 punti dalla patente. Il verbale sarà stampato via Bluetooth, in inglese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "nove e un minuto",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "centoventitre ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "chi api canto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "diciannove",
+                    "comma": "diciassette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo chi api canto autovettura con targa centoventitre ci di di tipo speciale immatricolati slovenia per un'infrazione commessa il quattordici aprile duemilaventicinque alle nove e un minuto l'infrazione avvenuta in via della libertà al numero tre dove il veicolo era in transito in zona accesso vietato l'articolo violato è il diciannove comma diciassette del codice civile verranno tolti nove punti dalla patente stampa questo verbale via blu tutti in inglese non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Kia Picanto, autovettura con targa AB123CD di tipo speciale, immatricolato in slovenia, per un'infrazione commessa il 14/04/2025 alle 09:01. L'infrazione è avvenuta in via della Libertà, al numero 3, dove il veicolo era in transito in zona accesso vietato.  L'articolo violato è il 19, comma 17 del codice civile. Verranno tolti 9 punti dalla patente. Stampa questo verbale via bluetooth in inglese, non stampare anche la comunicazione."
+}

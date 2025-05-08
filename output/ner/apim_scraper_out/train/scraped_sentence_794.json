@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un'infrazione di parcheggio davanti a passo carabine, commessa il primo maggio 2025 alle ore 16:54 in via della Concordia, civico 14. Il veicolo coinvolto è un ciclomotore di tipo prova, targa ICSI Y3201Z, proveniente dalla Spagna. La violazione riguarda l'articolo 13, comma 11 del codice stradale, con una decurtazione di due punti. Si richiede la stampa del preavviso in portoghese via Hawaii, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "sedici e cinquantaquattro",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "spagna",
+                    "targa": "icsi ypsilon trecentoventi uno zio",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "tredici",
+                    "comma": "undici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: di",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo cappa ti sette di ciclomotori targa icsi ypsilon trecentoventi uno zio di tipo prova proveniente da spagna il giorno primo maggio duemilaventicinque alle ore sedici e cinquantaquattro in via della concordia al numero civico quattordici e stata commessa l'infrazione di parcheggio davanti a passo carabine come previsto dall'articolo tredici comma undici del codice stradale per questa violazione sono previsti due punti di decurtazione chiedo la stampa del preavviso in portoghese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo KTM 790 Duke ciclomotore, targa XY321ZA di tipo prova, proveniente da spagna. Il giorno 01/05/2025, alle ore 16:54, in via della Concordia, al numero civico 14, è stata commessa l'infrazione di parcheggio davanti a passo carrabile, come previsto dall'articolo 13, comma 11, del codice stradale. Per questa violazione sono previsti 2 punti di decurtazione. Chiedo la stampa del preavviso in portoghese via wifi, stampa anche la comunicazione. "
+}

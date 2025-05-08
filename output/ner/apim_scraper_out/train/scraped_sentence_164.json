@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Yamaha immatricolato in Olanda con targa di tipo prova. L'infrazione è avvenuta in viale della Libertà, civico 22, per transito in zona accesso vietato. Si applica l'articolo 10, comma 8 del codice civile, con la decurtazione di sette punti. Il verbale è stato contestato immediatamente dall'agente Carlo Bruni. La stampa deve essere effettuata in francese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "veicolo",
+                    "nazione": "olanda",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "yamaha meticce sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "dieci",
+                    "comma": "otto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo yamaha meticce sette molto veicolo immatricolati in olanda con targa icsi ypsilon trecentoventi uno sa di tipo prova l'infrazione avvenuta in viale della libertà civico ventidue transito in zona accesso vietato si applica l'articolo dieci con ma otto del codice civile a seguito della violazione verranno decurtati sette punti il verbale è stato contestato immediatamente dall'agente carlo bruni si prega di procedere con la stampa in francese tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Yamaha MT-07, motoveicolo immatricolato in olanda con targa XY321ZA di tipo prova. L'infrazione è avvenuta in viale della Libertà, civico 22: transito in zona accesso vietato. Si applica l'articolo 10, comma 8 del codice civile. A seguito della violazione verranno decurtati 7 punti.Il verbale è stato contestato immediatamente dall'agente Carlo Bruni. Si prega di procedere con la stampa in francese tramite wifi, stampa anche la comunicazione."
+}

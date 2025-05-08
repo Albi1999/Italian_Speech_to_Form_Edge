@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sette aprile duemilaventicinque alle ore cinque e trentasei per una violazione riscontrata su un veicolo ciclomotore marca Su Invitar, targato Yemen e trecentoventi, tipo ufficiale, proveniente dalla Croazia. La violazione è avvenuta in viale della Vittoria, civico nove, per parcheggio su strisce pedonali, violando l'articolo cinquantatré ma cinquantuno del codice civile. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di un punto dalla patente. La stampa è richiesta in francese via Hawaii, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "cinque trentasei",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "yemen e trecentoventi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "su invitare",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data sette aprile duemilaventicinque alle ore cinque trentasei per la violazione riscontrata al veicolo ciclomotori marca su invitare targato yemen e trecentoventi uno o più tipo ufficiale proveniente da croazia in particolare in viale della vittoria civico nove è stato accertato parcheggio su strisce pedonali in violazione dell'articolo cinquantatré ma cinquantuno del codice civile data l'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di un punti dalla patente richiedo la stampa in francese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 07/04/2025 alle ore 05:36 per la violazione riscontrata al veicolo ciclomotore, marca Suzuki Vitara, targato MN321OP (tipo ufficiale) proveniente da croazia. In particolare, in viale della Vittoria, civico 9, è stato accertato parcheggio su strisce pedonali, in violazione dell'articolo 53, comma 51 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 1 punti dalla patente. Richiedo la stampa in francese via wifi, stampa anche la comunicazione. "
+}

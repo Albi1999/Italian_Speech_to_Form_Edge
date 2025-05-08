@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo rimorchio con targa ufficiale proveniente dalla Germania, marca Scorda Fabia. La violazione, parcheggio in divieto di sosta, è avvenuta il 15 aprile 2025 alle 4:51 in Corso della Repubblica, numero 19. L'infrazione rientra nell'articolo 53, comma 51 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di sei punti. Si richiede la stampa in lingua spagnola tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "quattro e cinquantuno",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "jeff sette centottantanove giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "scorda fabia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo rimorchio targato jeff sette centottantanove giacca di tipo ufficiale proveniente da germania marca scorda fabia la violazione ovvero parcheggiato in divieto di sosta sia e verificata in data quindici aprile duemilaventicinque alle ore quattro e cinquantuno in corso della repubblica al numero diciannove l'infrazione rientra nell'articolo cinquantatré comma cinquantuno del codice civile non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzione prevede la perdita di sei punti si richiede la stampa in lingua spagnolo tramite blu stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo rimorchio targato EF789GH di tipo ufficiale proveniente da germania, marca Skoda Fabia. La violazione, ovvero parcheggio in divieto di sosta, si è verificata in data 15/04/2025 alle ore 04:51 in corso della Repubblica, al numero 19. L'infrazione rientra nell'articolo 53, comma 51 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 6 punti. Si richiede la stampa in lingua spagnolo, tramite bluetooth, stampa anche la comunicazione."
+}

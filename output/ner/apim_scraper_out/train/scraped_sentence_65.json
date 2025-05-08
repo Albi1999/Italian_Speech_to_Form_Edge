@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un'infrazione stradale. Il veicolo coinvolto è una Lancia Delta con targa speciale proveniente dalla Grecia. L'infrazione è avvenuta il 23 aprile 2025 alle ore 7:14 in via della Speranza, numero civico 18, per parcheggio in zona a rimozione. La violazione riguarda l'articolo 34, comma 32 del codice stradale, con una decurtazione di 2 punti. La contestazione immediata è impossibile per assenza del trasgressore. È richiesta la stampa tramite Bluetooth in inglese, inclusa la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "sette quattordici",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "grecia",
+                    "targa": "un vi trecentoventi uno doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "lancia delta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentaquattro",
+                    "comma": "trentadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo autovettura di marca lancia delta con targa un vi trecentoventi uno doppia ex tipo speciale proveniente da grecia fatto avvenuto il ventitré aprile duemilaventicinque alle ore sette quattordici posizione via della speranza numero civico diciotto infrazione parcheggio in zona a rimozione in violazione dell'articolo trentaquattro comma trentadue del codice stradale decurtazione prevista due punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite blu tutti in inglese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo autovettura di marca Lancia Delta, con targa UV321WX (tipo speciale), proveniente da grecia.  Fatto avvenuto il 23/04/2025 alle ore 07:14. Posizione: via della Speranza, numero civico 18. Infrazione: parcheggio in zona rimozione, in violazione dell'articolo 34, comma 32, del codice stradale. Decurtazione prevista: 2 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite bluetooth in inglese, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Nissan ciclomotori con targa prova registrato in Spagna. La violazione è avvenuta il 7 aprile 2025 alle 4:42 in via della Libertà, civico 21, per parcheggio su strisce pedonali. La violazione è in base all'articolo 8 comma 6 del codice civile e comporta una decurtazione di 4 punti. La stampa dell'avviso è richiesta in spagnolo tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "quattro e quarantadue",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "spagna",
+                    "targa": "effe quattrocentocinquanta sei",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "nissan",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo nissan ciclomotori targato effe quattrocentocinquanta sei gia con targa prova registrato in spagna per un fatto accaduto ai sette aprile duemilaventicinque alle quattro e quarantadue il veicolo si trovava in via della libertà al civico ventuno dove è stato riscontrato parcheggio su strisce pedonali in base all'articolo otto comma sei del codice civile questa infrazioni comporta una decurtazioni di quattro punti genere alla stampa dell'avviso vi hawaii fai in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Nissan Juke, ciclomotore, targato EF456GH con targa prova, registrato in spagna, per un fatto accaduto il 07/04/2025 alle 04:42. Il veicolo si trovava in via della Libertà, al civico 21, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 8, comma 6, del codice civile. Questa infrazione comporta una decurtazione di 4 punti. Genera la stampa dell'avviso via wifi in spagnolo, non stampare anche la comunicazione. "
+}

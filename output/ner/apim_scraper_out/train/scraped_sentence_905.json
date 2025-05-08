@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo ciclomotore marca Fiat, con targa ufficiale immatricolata in Slovenia. La violazione è avvenuta il 24 aprile 2025 alle ore 4:06 in via della Concordia, numero civico 14, per parcheggio davanti a passo carabine. La violazione è in base all'articolo 185, comma 2 del codice stradale, con una decurtazione di 4 punti. Si richiede la stampa del preavviso in lingua spagnola tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "quattro sei",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "slovenia",
+                    "targa": "icsi fillon centoventitre",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fiat",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per veicolo ciclomotori marca fiat tipo targa icsi fillon centoventitre già di tipo ufficiale immatricolati in slovenia la violazione è avvenuta il ventiquattro aprile duemilaventicinque alle ore quattro sei via della concordia al numero civico quattordici ed è relativa parcheggio davanti a passo carabine in base all'articolo centottantacinque comma due del codice stradale per tale violazione sono previsti quattro punti di decurtazione si richiede la stampa di tale preavviso in lingua spagnolo tramite blu tutta stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo ciclomotore, marca Fiat Tipo, targa XY123ZA di tipo ufficiale, immatricolato in slovenia. La violazione è avvenuta il 24/04/2025 alle ore 04:06 in via della Concordia, al numero civico 14, ed è relativa a parcheggio davanti a passo carrabile, in base all'articolo 185, comma 2 del codice stradale. Per tale violazione sono previsti 4 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua spagnolo tramite bluetooth, stampa anche la comunicazione. "
+}

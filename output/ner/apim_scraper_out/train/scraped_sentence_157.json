@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo rimorchio marca Tram Street Ripley, targato ICSI Ypsilon 320 1 SA, di tipo ufficiale e proveniente dalla Grecia. L'infrazione è stata rilevata il 28 aprile 2025 alle ore 3:09. Il veicolo era parcheggiato in divieto di sosta in via Garibaldi, civico 11, violando l'articolo 157, comma 5 del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 10 punti. Si richiede la stampa del verbale in inglese tramite Wi-Fi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "tre nove minuti",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "icsi ypsilon trecentoventi uno sa",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "tram street ripley",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: perdita, after: punti",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo rimorchio marca tram street ripley targato icsi ypsilon trecentoventi uno sa di tipo ufficiale proveniente da grecia l'infrazione e stata rilevata il ventotto aprile duemilaventicinque alle ore tre nove minuti il veicolo si trovava in via garibaldi al civico undici in parcheggiato in divieto di sosta violando l'articolo centocinquantasette con ma cinque del codice civile non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazione comporta la perdita di dieci punti richiedo la stampa del verbale in inglese tramite guai fai non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo rimorchio, marca Triumph Street Triple, targato XY321ZA (di tipo ufficiale), proveniente da grecia.  L'infrazione è stata rilevata il 28/04/2025 alle ore 03:09. Il veicolo si trovava in via Garibaldi, al civico 11, in parcheggio in divieto di sosta, violando l'articolo 157, comma 5, del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 10 punti.  Richiedo la stampa del verbale in inglese tramite wifi, non stampare anche la comunicazione."
+}

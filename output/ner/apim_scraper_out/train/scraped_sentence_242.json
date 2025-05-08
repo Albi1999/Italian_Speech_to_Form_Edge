@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo proveniente dall'Austria, che ha parcheggiato su strisce pedonali. La violazione è avvenuta il 29 aprile 2025 alle 10:34 in via della Musica, numero 18. Il veicolo è una macchina operatrice con targa JEFF 3201, di tipo copertura, marca Benelli Leoncino 500. La violazione riguarda l'articolo 26, comma 24 del codice civile e comporterà la decurtazione di 1 punto. Si richiede la stampa in lingua spagnola, modalità Hawaii, e di non stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "dieci e trentaquattro",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "austria",
+                    "targa": "jeff trecentoventi uno giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "ben elli leoncino cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventisei",
+                    "comma": "ventiquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa è jeff trecentoventi uno giacca di tipo copertura marca ben elli leoncino cinquecento proveniente da austria l'infrazione nello specifico parcheggio su strisce pedonali sia e verificata in data ventinove aprile duemilaventicinque alle ore dieci e trentaquattro in via della musica al numero diciotto articolo ventisei con ma ventiquattro del codice civile si comunica che dalla violazione conseguirà una decurtazione di uno punti si richiede la stampa in lingua spagnolo modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa EF321GH di tipo copertura, marca Benelli Leoncino 500, proveniente da austria. L'infrazione, nello specifico parcheggio su strisce pedonali, si è verificata in data 29/04/2025 alle ore 10:34 in via della Musica, al numero 18 (articolo 26, comma 24 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 1 punti.Si richiede la stampa in lingua spagnolo, modalità wifi, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un'autovettura marca Scorda Fabia, targa Guerre 9807 ST, di tipo speciale, immatricolata in Portogallo. La violazione è avvenuta il 28 aprile 2025 alle ore 18:14 in via della Giustizia, civico 16. La violazione riguarda il transito in zona di accesso vietato, articolo 28 comma 26 del codice civile, con conseguente perdita di tre punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua francese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "diciotto e quattordici",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "portogallo",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": null,
+                    "marca_modello": "scorda fabia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventotto",
+                    "comma": "ventisei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: perdita, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per autovettura marca scorda fabia targa guerre novecentottanta sette se ti di tipo speciale immatricolati portogallo in data ventotto aprile duemilaventicinque alle ore diciotto e quattordici in via della giustizia al civico sedici e stata commessa la seguente violazione transito in zona accesso vietato articolo ventotto comma ventisei del codice civile dalla violazione con segue la perdita di tre punti stampa in modalità blu tutte in lingua francese non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per autovettura, marca Skoda Fabia, targa QR987ST di tipo speciale, immatricolato in portogallo. In data 28/04/2025 alle ore 18:14, in via della Giustizia, al civico 16, è stata commessa la seguente violazione: transito in zona accesso vietato (articolo 28, comma 26 del codice civile).Dalla violazione consegue la perdita di 3 punti.Stampa in modalità bluetooth e in lingua francese, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento informa che è in corso la stesura di un preavviso di violazione per un veicolo proveniente dall'Olanda. L'infrazione riguarda il parcheggio su strisce pedonali, avvenuta il 19 aprile 2025 alle ore 5:08 in via Venti Settembre, numero civico 5. La violazione comporterà una decurtazione di nove punti. Si richiede la stampa in lingua tedesca, modalità Hawaii, e di non stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "cinque otto minuti",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "olanda",
+                    "targa": "jeff sette centottantanove giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "suzuki chi vi seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa è jeff sette centottantanove giacca di tipo speciale marca suzuki chi vi seicentocinquanta proveniente da olanda l'infrazione nello specifico parcheggio su strisce pedonali sia e verificata in data diciannove aprile duemilaventicinque alle ore cinque otto minuti in via venti settembre al numero cinque articolo quarantacinque comma quarantatré del codice stradale si comunica che dalla violazione conseguirà una decurtazione di nove punti si richiede la stampa in lingua tedesco modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa EF789GH di tipo speciale, marca Suzuki SV650, proveniente da olanda. L'infrazione, nello specifico parcheggio su strisce pedonali, si è verificata in data 19/04/2025 alle ore 05:08 in via XX Settembre, al numero 5 (articolo 45, comma 43 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 9 punti.Si richiede la stampa in lingua tedesco, modalità wifi, non stampare anche la comunicazione."
+}

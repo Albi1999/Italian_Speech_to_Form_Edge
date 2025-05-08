@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il ventuno aprile duemilaventicinque alle ore sette cinquantacinque per un motoveicolo di marca Chi Estoni con targa Yakubu 320 1 WW, tipo ufficiale, registrato in Olanda. L'infrazione è avvenuta in via del Corso, numero dodici, per parcheggio in divieto di sosta, come previsto dall'articolo 44, comma 42 del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti tre punti di decurtazione. Si richiede la stampa della notifica tramite WiFi in lingua spagnola, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "sette cinquantacinque",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "olanda",
+                    "targa": "yakubu trecentoventi uno doppia winx",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "chi estoni",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventuno aprile duemilaventicinque alle ore sette cinquantacinque è stato emesso un preavviso di violazione per il veicolo motoveicoli di marca chi estoni con targa yakubu trecentoventi uno doppia winx tipo ufficiale registrato in olanda l'infrazione avvenuta in via del corso a numero dodici e consiste in parcheggiato in divieto di sosta come previsto dall'articolo quarantaquattro con ma quarantadue del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti tre punti di decurtazione si prega di stampare la presente notifica tramite guai fai in lingua spagnolo stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 21/04/2025, alle ore 07:55, è stato emesso un preavviso di violazione per il veicolo motoveicolo di marca Kia Stonic, con targa UV321WX (tipo ufficiale), registrato in olanda. L'infrazione è avvenuta in via del Corso, al numero 12, e consiste in parcheggio in divieto di sosta, come previsto dall'articolo 44, comma 42 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 3 punti di decurtazione. Si prega di stampare la presente notifica tramite wifi, in lingua spagnolo, stampa anche la comunicazione. "
+}

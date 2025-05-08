@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un preavviso di violazione per un veicolo Nissan Mica con targa proveniente dalla Grecia. L'infrazione riguarda il parcheggio in divieto di sosta, avvenuta il 2 maggio 2025 alle 18:17 in viale della Concordia, numero 13. La violazione è associata all'articolo 34, comma 32 del codice penale, e comporterà una decurtazione di 4 punti. Si richiede la stampa in lingua portoghese, modalità Hawaii, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "diciotto diciassette",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "grecia",
+                    "targa": "curry novecentottanta sette se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "nissan mica",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentaquattro",
+                    "comma": "trentadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo molto veicolo con targa curry novecentottanta sette se ti di tipo copertura marca nissan mica proveniente da grecia l'infrazione nello specifico parcheggio in divieto di sosta sia e verificata in data due maggio duemilaventicinque alle ore diciotto diciassette in viale della concordia al numero tredici articolo trentaquattro con ma trentadue del codice penale si comunica che dalla violazione conseguirà una decurtazione di quattro punti si richiede la stampa in lingua portoghese modalità hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo motoveicolo con targa QR987ST di tipo copertura, marca Nissan Micra, proveniente da grecia. L'infrazione, nello specifico parcheggio in divieto di sosta, si è verificata in data 02/05/2025 alle ore 18:17 in viale della Concordia, al numero 13 (articolo 34, comma 32 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 4 punti.Si richiede la stampa in lingua portoghese, modalità wifi, stampa anche la comunicazione."
+}

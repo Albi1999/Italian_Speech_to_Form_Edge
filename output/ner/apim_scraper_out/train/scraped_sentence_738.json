@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sei maggio 2025 alle ore 17:15 per un veicolo Audi A3 con targa slovena A098IY. L'infrazione è avvenuta in via della Libertà, civico 3, per violazione del codice penale, articolo 41, comma 39, riguardante il parcheggio in zona a rimozione. La contestazione è stata immediata, eseguita dall'agente Giulia Costa. È previsto un punto da decurtare, senza sanzioni accessorie. La stampa del verbale è in tedesco tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "diciassette quindici",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "slovenia",
+                    "targa": "a zero nove otto i ypsilon",
+                    "tipologia_targa": null,
+                    "marca_modello": "audi a tre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantuno",
+                    "comma": "trentanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: da",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno sei maggio duemilaventicinque alle ore diciassette quindici è stato redatto un verbale per il veicolo audi a tre ciclomotori immatricolati slovenia con targa a zero nove otto i ypsilon nudi tipo copertura l'infrazione e avvenuta in via della libertà al civico tre e stata riscontrata una violazione del codice penale articolo quarantuno comma trentanove ovvero parcheggio in zona a rimozione il verbale è stato eseguito sul posto con contestazione immediata da parte della gente giulia costa sono previsti un punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in tedesco tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Il giorno 06/05/2025, alle ore 17:15, è stato redatto un verbale per il veicolo Audi A3, ciclomotore immatricolato in slovenia con targa TR098YU di tipo copertura. L'infrazione è avvenuta in via della Libertà, al civico 3. È stata riscontrata una violazione del codice penale, articolo 41, comma 39 ovvero parcheggio in zona rimozioneIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Giulia Costa. Sono previsti 1 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in tedesco tramite bluetooth, stampa anche la comunicazione. "
+}

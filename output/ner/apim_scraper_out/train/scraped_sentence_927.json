@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il dieci aprile duemilaventicinque alle otto e sedici per un veicolo registrato in Slovenia. L'infrazione è avvenuta in via della cultura al numero nove, per parcheggio davanti a passo carabine, violando l'articolo cinque comma tre del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti sette punti di decurtazione. Si richiede di stampare la notifica tramite Bluetooth in lingua olandese e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "otto e sedici",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "slovenia",
+                    "targa": "è effe quattrocentocinquanta sai giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "un da cibi seicentocinquanta jerry",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data dieci aprile duemilaventicinque alle otto e sedici è stato emesso un preavviso di violazione per il veicolo macchina operatrice di marca un da cibi seicentocinquanta jerry con targa è effe quattrocentocinquanta sai giacca tipo copertura registrato in slovenia l'infrazione e avvenuta in via della cultura al numero nove e consiste in parcheggio davanti a passo carabine come previsto dall'articolo cinque comma tre del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti sette punti di decurtazione si prega di stampare la presente notifica tramite blu tutte in lingua olandese stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 10/04/2025, alle ore 08:16, è stato emesso un preavviso di violazione per il veicolo macchina operatrice di marca Honda CBR650R, con targa EF456GH (tipo copertura), registrato in slovenia. L'infrazione è avvenuta in via della Cultura, al numero 9, e consiste in parcheggio davanti a passo carrabile, come previsto dall'articolo 5, comma 3 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 7 punti di decurtazione. Si prega di stampare la presente notifica tramite bluetooth, in lingua olandese, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo rimorchio marca MAS, targa CI DI 123 ABU, immatricolato in Grecia. La violazione è avvenuta il 15 aprile 2025 alle ore 17 in via della Giustizia, civico 16, per parcheggio in divieto di sosta secondo l'articolo 50, comma 48 del codice penale. Sono previsti 10 punti di decurtazione. Si richiede la stampa del preavviso in lingua tedesca tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "diciassette",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "ci di centoventitre abu",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mas",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquanta",
+                    "comma": "quarantotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "brutta",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo rimorchio marca mas da due targa ci di centoventitre abu di tipo prova immatricolati in grecia la violazione è avvenuta il quindici aprile duemilaventicinque alle ore diciassette in via della giustizia al numero civico sedici ed è relativa parcheggiato in divieto di sosta in base all'articolo cinquanta con ma quarantotto del codice penale per tale violazione sono previsti dieci punti di decurtazione si richiede la stampa di tale preavviso in lingua tedesco tramite brutta stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo rimorchio, marca Mazda 2, targa CD123AB di tipo prova, immatricolato in grecia. La violazione è avvenuta il 15/04/2025 alle ore 17:00 in via della Giustizia, al numero civico 16, ed è relativa a parcheggio in divieto di sosta, in base all'articolo 50, comma 48 del codice penale.Per tale violazione sono previsti 10 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua tedesco tramite bluetooth, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il ventidue aprile duemilaventicinque alle ore una e quarantatré per un motoveicolo con targa prova immatricolato in Olanda. L'infrazione è stata rilevata in corso della storia al civico ventidue, violando il codice penale articolo quaranta comma trentotto, per parcheggio su strisce pedonali. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare otto punti. Il veicolo è un Nissan Juke di colore argento. È richiesta la stampa del preavviso tramite Bluetooth in inglese, stampando anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "una e quarantatré",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "olanda",
+                    "targa": "ci di centoventitre abe",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "nissan gioco",
+                    "colore": "argento"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventidue aprile duemilaventicinque alle ore una e quarantatré è stato notificato un preavviso per un motoveicoli targato ci di centoventitre abe con targa prova immatricolati in olanda l'infrazione è stata rilevata in corso della storia al civico ventidue con violazione del codice penale articolo quaranta comma trentotto in particolare sia riscontrato un parcheggio su strisce pedonali non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono otto punti il veicolo è un nissan gioco di colore argento con numero di telaio seicentosettantotto milioni e ottocentomila seicento ottantaquattro e massa tremilaquattrocento sessantaquattro chilogrammi necessita la stampa del preavviso tramite blu tutta in inglese stampa anche la comunicazione",
+    "original_sentence": "In data 22/04/2025, alle ore 01:43, è stato notificato un preavviso per un motoveicolo targato CD123AB con targa prova, immatricolato in olanda. L'infrazione è stata rilevata in corso della Storia, al civico 22, con violazione del codice penale, articolo 40, comma 38, in particolare si è riscontrato un parcheggio su strisce pedonali Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 8 punti. Il veicolo è un Nissan Juke di colore argento, con numero di telaio 678801684 e massa 3464 kg.Necessito la stampa del preavviso tramite bluetooth, in inglese, stampa anche la comunicazione."
+}

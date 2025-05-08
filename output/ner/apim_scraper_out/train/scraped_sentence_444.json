@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il due maggio duemilaventicinque alle ore sette ventotto per una violazione riscontrata. Il veicolo coinvolto è un ciclomotore marca Scorda Camice, targato ICSI Ypsilon novecentottanta sette, proveniente dal Portogallo. La violazione è avvenuta in via Roma, civico settantasette, per parcheggio su strisce pedonali, violando l'articolo milleduecento ventotto comma sedici del codice penale. L'agente Matteo Gallo ha proceduto con contestazione immediata e si prevede la decurtazione di due punti dalla patente. La stampa è richiesta in francese via Hawaii Fai, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "sette ventotto",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "portogallo",
+                    "targa": "icsi ypsilon novecentottanta sette",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "scorda camice",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "milleduecento ventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "via hawaii fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data due maggio duemilaventicinque alle ore sette ventotto per la violazione riscontrata al veicolo ciclomotori marca scorda camice targato icsi ypsilon novecentottanta sette tipo speciale proveniente da portogallo in particolare in via roma civico settantasette è stato accertato parcheggio su strisce pedonali in violazione dell'articolo milleduecento ventotto comma sedici del codice penale l'agente matteo gallo a proceduto con contestazione immediata si prevede la decurtazione di due punti dalla patente richiedo la stampa in francese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 02/05/2025 alle ore 07:28 per la violazione riscontrata al veicolo ciclomotore, marca Skoda Kamiq, targato XY987ZA (tipo speciale) proveniente da portogallo. In particolare, in via Roma, civico 77, è stato accertato parcheggio su strisce pedonali, in violazione dell'articolo 1228, comma 16 del codice penale. L'agente Matteo Gallo ha proceduto con contestazione immediata. Si prevede la decurtazione di 2 punti dalla patente. Richiedo la stampa in francese via wifi, non stampare anche la comunicazione."
+}

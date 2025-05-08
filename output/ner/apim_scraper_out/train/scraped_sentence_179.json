@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo proveniente dalla Germania, parcheggiato su strisce pedonali. L'infrazione è avvenuta il 22 aprile 2025 alle 10:26 in Piazza Venezia, numero civico 1. La violazione riguarda l'articolo 7, comma 5 del codice civile e comporta una decurtazione di 4 punti. Si richiede la stampa in lingua inglese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "dieci e ventisei",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "trecentoventi uno più",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "se akhtar jona",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa trecentoventi uno più di tipo ufficiale marca se akhtar jona proveniente da germania l'infrazione nello specifico parcheggio su strisce pedonali sia e verificata in data ventidue aprile duemilaventicinque alle ore dieci e ventisei in piazza venezia al numero uno articolo sette con ma cinque del codice civile si comunica che dalla violazione conseguirà una decurtazione di quattro punti si richiede la stampa in lingua inglese modalità blu tu non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa MN321OP di tipo ufficiale, marca Seat Arona, proveniente da germania. L'infrazione, nello specifico parcheggio su strisce pedonali, si è verificata in data 22/04/2025 alle ore 10:26 in piazza Venezia, al numero 1 (articolo 7, comma 5 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 4 punti.Si richiede la stampa in lingua inglese, modalità bluetooth, non stampare anche la comunicazione."
+}

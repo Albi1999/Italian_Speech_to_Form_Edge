@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo Alfa Romeo Giulietta con rimorchio, targa ICSI LO 654, proveniente dall'Italia. L'infrazione è avvenuta il 27 aprile 2025 alle 11:14 in Corso della Giustizia, civico 23, per parcheggio su strisce pedonali, violando l'articolo 53, comma 51 del codice civile. Sono previsti punti di decurtazione. Si richiede la stampa del preavviso in inglese tramite WiFi, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "undici e quattordici",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "italia",
+                    "targa": "icsi lo sei centocinquantaquattro",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "alfa romeo e giulietta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "inglesi",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo alfa romeo e giulietta rimorchio targa icsi lo sei centocinquantaquattro già di tipo copertura proveniente da italia il giorno ventisette aprile duemilaventicinque alle ore undici e quattordici in corso della giustizia al numero civico ventitré e stata commessa l'infrazione di parcheggio su strisce pedonali come previsto dall'articolo cinquantatré coma cinquantuno del codice civile per questa violazione sono previsti un punti di decurtazione chiedo la stampa del preavviso in inglesi di hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Alfa Romeo Giulietta rimorchio, targa XY654ZA di tipo copertura, proveniente da italia. Il giorno 27/04/2025, alle ore 11:14, in corso della Giustizia, al numero civico 23, è stata commessa l'infrazione di parcheggio su strisce pedonali, come previsto dall'articolo 53, comma 51, del codice civile. Per questa violazione sono previsti 1 punti di decurtazione. Chiedo la stampa del preavviso in inglese via wifi, non stampare anche la comunicazione. "
+}

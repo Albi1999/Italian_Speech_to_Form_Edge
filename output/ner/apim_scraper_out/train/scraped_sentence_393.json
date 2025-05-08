@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo operatrice targato CI DI 450 JEFF con targa prova registrato in Croazia. L'infrazione è avvenuta il 2 maggio 2025 alle 22:13 in via Venti Settembre, civico 5, per parcheggio in doppia fila. La violazione è in base all'articolo 9, comma 1 del codice stradale e comporta una decurtazione di 2 punti. La stampa dell'avviso è richiesta via Hawaii in portoghese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "ventidue tredici",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "ci di quattrocentocinquanta sei jeff",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "nove",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo mas da due macchina operatrice targato ci di quattrocentocinquanta sei jeff con targa prova registrato in croazia per un fatto accaduto il due maggio duemilaventicinque alle ventidue tredici il veicolo si trovava in via venti settembre al civico cinque dove è stato riscontrato parcheggia in doppia fila in base all'articolo nove con ma uno del codice stradale questa infrazione comporta una decurtazione di due punti genera alla stampa dell'avviso via hawaii in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Mazda 2, macchina operatrice, targato CD456EF con targa prova, registrato in croazia,  per un fatto accaduto il 02/05/2025 alle 22:13. Il veicolo si trovava in via XX Settembre, al civico 5, dove è stato riscontrato parcheggio in doppia fila, in base all'articolo 9, comma 1, del codice stradale. Questa infrazione comporta una decurtazione di 2 punti.  Genera la stampa dell'avviso via wifi in portoghese, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo ciclomotore di marca Seat Ibiza con targa proveniente dalla Croazia. L'infrazione è avvenuta il 5 aprile 2025 alle ore 17:47 in via della Speranza, numero civico 18. La violazione riguarda il transito in zona ad accesso vietato, in violazione dell'articolo 21, comma 19 del codice civile, con una decurtazione prevista di 10 punti. La contestazione è immediata e viene eseguita dall'agente Anna Bianchi. La stampa del verbale è necessaria tramite Bluetooth e in lingua olandese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "cinque aprile duemilaventicinque",
+            "ora_violazione": "diciassette quarantasette",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "tipo copertura",
+                    "marca_modello": "seat ibiza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo ciclomotori di marca seat ibiza con targa i sette centottantanove chi lo litri tipo copertura proveniente da croazia fatto avvenuto il cinque aprile duemilaventicinque alle ore diciassette quarantasette posizione via della speranza numero civico diciotto infrazione transito in zona accesso vietato in violazione dell'articolo ventuno comma diciannove del codice civile decurtazione prevista dieci punti si applica contestazione immediata da parte della gente anna bianchi stampa necessaria tramite blu tutti in olandese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo ciclomotore di marca Seat Ibiza, con targa IJ789KL (tipo copertura), proveniente da croazia.  Fatto avvenuto il 05/04/2025 alle ore 17:47. Posizione: via della Speranza, numero civico 18. Infrazione: transito in zona accesso vietato, in violazione dell'articolo 21, comma 19, del codice civile. Decurtazione prevista: 10 punti. Si applica contestazione immediata da parte dell'agente Anna Bianchi. Stampa necessaria tramite bluetooth in olandese, stampa anche la comunicazione."
+}

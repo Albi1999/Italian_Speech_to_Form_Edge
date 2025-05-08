@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo rimorchio con targa immatricolata in Croazia. L'infrazione è avvenuta il 4 maggio 2025 alle 19:21 in via della Giustizia, numero 16, per violazione dell'articolo 157, comma 5 del codice stradale. Verranno decurtati 9 punti dalla patente. La stampa del verbale avviene via Hawaii e in lingua olandese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "diciannove ventuno",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "jeff quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: tolti, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo ma meticce sette rimorchio con targa è jeff quattrocentocinquanta sei giacca di tipo copertura immatricolati in croazia per un'infrazione commessa il quattro maggio duemilaventicinque alle diciannove ventuno l'infrazione avvenuta in via della giustizia al numero sedici dove il veicolo era in parcheggio davanti a passo carabine l'articolo violato è il centocinquantasette con ma cinque del codice stradale verranno tolti nove punti dalla patente stampa questo verbale via hawaii fa in olandese stampa anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Yamaha MT-07, rimorchio con targa EF456GH di tipo copertura, immatricolato in croazia, per un'infrazione commessa il 04/05/2025 alle 19:21. L'infrazione è avvenuta in via della Giustizia, al numero 16, dove il veicolo era in parcheggio davanti a passo carrabile.  L'articolo violato è il 157, comma 5 del codice stradale. Verranno tolti 9 punti dalla patente. Stampa questo verbale via wifi in olandese, stampa anche la comunicazione."
+}

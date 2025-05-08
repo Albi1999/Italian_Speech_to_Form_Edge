@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo macchina operatrice con targa ufficiale proveniente dal Portogallo. L'infrazione è avvenuta il 22 aprile 2025 alle 23:45 in viale della Vittoria, numero 9, per parcheggio in zona a rimozione. La violazione è in base all'articolo 40, comma 38 del codice civile e comporterà la decurtazione di 9 punti. Si richiede la stampa in lingua portoghese con modalità Hawaii e di non stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte meno un quarto",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "trecentoventi uno piedi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mas da due",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa trecentoventi uno piedi di tipo ufficiale marca mas da due proveniente da portogallo l'infrazione nello specifico parcheggio in zona a rimozione sia e verificata in data ventidue aprile duemilaventicinque alle ore mezzanotte meno un quarto in viale della vittoria al numero nove articolo quaranta comma trentotto del codice civile si comunica che dalla violazione conseguirà una decurtazione di nove punti si richiede la stampa in lingua portoghese modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa MN321OP di tipo ufficiale, marca Mazda 2, proveniente da portogallo. L'infrazione, nello specifico parcheggio in zona rimozione, si è verificata in data 22/04/2025 alle ore 23:45 in viale della Vittoria, al numero 9 (articolo 40, comma 38 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 9 punti.Si richiede la stampa in lingua portoghese, modalità wifi, non stampare anche la comunicazione."
+}

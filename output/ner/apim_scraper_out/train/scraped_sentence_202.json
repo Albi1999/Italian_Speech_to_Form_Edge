@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a un veicolo ufficiale proveniente dalla Germania, marca Si Tronchi, modello Quattro Cat, con targa Ti Jerry 98. La violazione riguarda un parcheggio davanti a un passo carrabile, avvenuta il 22 aprile 2025 alle ore 2:33 in Corso della Libertà, numero civico 7. L'infrazione è classificata sotto l'articolo 24, comma 22 del codice civile. La contestazione è stata immediata da parte dell'agente Elena Fontana e comporta la perdita di 8 punti. La stampa è richiesta in lingua italiana tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "due trentatré",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "germania",
+                    "targa": "ti jerry novantotto",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "si tronchi quattro cat",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata da parte della gente elena fontana",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventiquattro",
+                    "comma": "ventidue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: perdita, after: punti",
+            "tipo_stampa": "fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo molto veicolo targato ti jerry novantotto di tipo ufficiale proveniente da germania marca si tronchi quattro cat la violazione ovvero parcheggio davanti a passo carabine sia e verificata in data ventidue aprile duemilaventicinque alle ore due trentatré in corso della libertà al numero sette l'infrazione rientra nell'articolo ventiquattro con ma ventidue del codice civile contestazione immediata da parte della gente elena fontana la sanzione prevede la perdita di otto punti si richiede la stampa in lingua italiano tramite fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo motoveicolo targato TR098YU di tipo ufficiale proveniente da germania, marca Citroen C4 Cactus. La violazione, ovvero parcheggio davanti a passo carrabile, si è verificata in data 22/04/2025 alle ore 02:33 in corso della Libertà, al numero 7. L'infrazione rientra nell'articolo 24, comma 22 del codice civile. Contestazione immediata da parte dell'agente Elena Fontana. La sanzione prevede la perdita di 8 punti. Si richiede la stampa in lingua italiano, tramite wifi, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta il 29 aprile 2025 alle ore 4:02, riguardante un veicolo Nissan con targa portoghese \"guerre 789\". L'infrazione si è verificata in corso Vittorio Emanuele, violando il codice stradale, articolo 9, comma 1, per parcheggio davanti a passo carabine. È prevista la decurtazione di un punto, senza sanzioni accessorie. Il veicolo è un motoveicolo nero con numero di telaio 268995729 e massa 3354 kg. La stampa deve essere effettuata tramite Bluetooth in spagnolo, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "quattro i due",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "civico quindi",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "portogallo",
+                    "targa": "guerre settecento ottantanove a",
+                    "tipologia_targa": null,
+                    "marca_modello": "nissan",
+                    "colore": "nero"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "nove",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventinove aprile duemilaventicinque alle ore quattro i due sto mettendo una notifica di infrazione per il veicolo nissan motoveicoli matricola in portogallo con targa guerre settecento ottantanove a siti di tipo copertura l'infrazione sia verificata presto corso vittorio emanuele al civico quindi ti violando il codice stradale in particolare l'articolo nove coma uno riguardanti il parcheggio davanti a passo carabine devo decurtare un punti non è necessaria alcuna sanzioni accessoria il motoveicoli e di colore nero con numero di telaio due sei otto nove nove e cinque sette due nove massa tremilatrecento cinquantaquattro chili stampa me lo con il blu tutti in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Il 29/04/2025, alle ore 04:02, sto emettendo una notifica di infrazione per il veicolo Nissan Juke, motoveicolo immatricolato in portogallo con targa QR789ST di tipo copertura. L'infrazione si è verificata presso corso Vittorio Emanuele, al civico 15, violando il codice stradale, in particolare l'articolo 9, comma 1 riguardante il parcheggio davanti a passo carrabile. Devo decurtare 1 punti. Non è necessaria alcuna sanzione accessoria. Il motoveicolo è di colore nero, con numero di telaio 268995729 e massa 3354 kg. Stampamelo con il bluetooth in spagnolo, non stampare anche la comunicazione. "
+}

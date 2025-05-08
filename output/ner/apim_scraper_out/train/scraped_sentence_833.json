@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un'infrazione stradale commessa da un veicolo storico immatricolato in Germania. L'infrazione è avvenuta il 24 aprile 2025 alle ore 17:22 in via della Giustizia, civico 16, per parcheggio in zona a rimozione. La contestazione immediata non è stata possibile per assenza del trasgressore. La violazione comporta la decurtazione di quattro punti. È richiesta la stampa in tedesco via WiFi e la stampa include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "diciassette ventidue",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "capelli trecentoventi uno yemen",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "storica",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantadue",
+                    "comma": "cinquanta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "wife",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo chi ha storica autovettura targa capelli trecentoventi uno yemen di tipo prova immatricolati in germania per infrazione commessa in data ventiquattro aprile duemilaventicinque ore diciassette ventidue in via della giustizia civico sedici è stato rilevato parcheggio in zona a rimozione ai sensi dell'articolo cinquantadue ma cinquanta del codice stradale impossibile effettuare la contestazione immediata assenza del trasgressori la violazioni comporta la decurtazione di quattro punti richiesta stampa in tedesco via wife ehi stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Kia Stonic autovettura, targa KL321MN di tipo prova, immatricolato in germania, per infrazione commessa in data 24/04/2025, ore 17:22. In via della Giustizia, civico 16, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 52, comma 50, del codice stradale. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 4 punti. Richiesta stampa in tedesco via wifi, stampa anche la comunicazione. "
+}

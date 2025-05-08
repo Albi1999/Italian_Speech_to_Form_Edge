@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo rimorchio di marca Ford Fiesta con targa speciale proveniente dall'Olanda. L'infrazione è avvenuta il 8 aprile 2025 alle ore 13:46 in via Giuseppe Mazzini, numero civico 24, per transito in zona accesso vietato, violando l'articolo 41 comma 39 del codice stradale. La decurtazione prevista è di 10 punti. La contestazione è immediata e viene eseguita dall'agente Silvia Neri. La stampa del verbale è necessaria tramite Bluetooth e in lingua olandese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "i lotto aprile duemilaventicinque",
+            "ora_violazione": "tredici e quarantasei",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "olanda",
+                    "targa": "jeff quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "ford fiesta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantuno",
+                    "comma": "trentanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo rimorchio di marca ford fiesta con targa è jeff quattrocentocinquanta sei giacca tipo speciale proveniente da olanda fatto avvenuto i lotto aprile duemilaventicinque alle ore tredici e quarantasei posizione via giuseppe mazzini numero civico ventiquattro infrazione transito in zona accesso vietato in violazione dell'articolo quarantuno comma trentanove del codice stradale decurtazione prevista dieci punti si applica contestazione immediata da parte della gente silvia neri stampa necessaria tramite blu tutti in olandese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo rimorchio di marca Ford Fiesta, con targa EF456GH (tipo speciale), proveniente da olanda.  Fatto avvenuto il 08/04/2025 alle ore 13:46. Posizione: via Giuseppe Mazzini, numero civico 24. Infrazione: transito in zona accesso vietato, in violazione dell'articolo 41, comma 39, del codice stradale. Decurtazione prevista: 10 punti. Si applica contestazione immediata da parte dell'agente Silvia Neri. Stampa necessaria tramite bluetooth in olandese, stampa anche la comunicazione."
+}

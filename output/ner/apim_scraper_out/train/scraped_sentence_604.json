@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è un'autovettura marca Ducati Multistrada, targato IXIIIY9807SA, proveniente dalla Svizzera. L'infrazione è stata rilevata il 7 aprile 2025 alle 14:51 in viale della Scienza, civico 14, per parcheggio su strisce pedonali, violando l'articolo 22 comma 20 del codice penale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di sei punti. Si richiede la stampa del verbale in tedesco tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "quattordici e cinquantuno",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "svizzera",
+                    "targa": "i xiii ypsilon novecentottanta sette sa",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "ducati molti strada due",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventidue",
+                    "comma": "venti",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo autovettura marca ducati molti strada due targato i xiii ypsilon novecentottanta sette sa di tipo copertura proveniente da svizzera l'infrazione e stata rilevata il sette aprile duemilaventicinque alle ore quattordici e cinquantuno il veicolo si trovava in viale della scienza al civico quattordici in parcheggio su strisce pedonali violando l'articolo ventidue comma venti del codice penale non è stato possibile effettuare la contestazione immediata causa dell'assenza del trasgressori la violazione comporta la perdita di sei punti richiedo la stampa del verbale in tedesco tramite wifi stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo autovettura, marca Ducati Multistrada V2, targato XY987ZA (di tipo copertura), proveniente da svizzera. L'infrazione è stata rilevata il 07/04/2025 alle ore 14:51. Il veicolo si trovava in viale della Scienza, al civico 14, in parcheggio su strisce pedonali, violando l'articolo 22, comma 20, del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 6 punti. Richiedo la stampa del verbale in tedesco tramite wifi, stampa anche la comunicazione. "
+}

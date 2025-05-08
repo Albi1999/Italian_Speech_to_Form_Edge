@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale. La violazione riguarda un veicolo macchina operatrici targato SA 450 6 Cupido, proveniente dalla Francia, che ha parcheggiato in una zona a rimozione. L'infrazione è avvenuta il 7 aprile 2025 alle ore 18:06 in via della Concordia, numero 14. La violazione rientra nell'articolo 7, comma 15 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di nove punti. Si richiede la stampa in lingua inglese tramite Bluetooth e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "diciotto e sei",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrici",
+                    "nazione": "francia",
+                    "targa": "sa quattrocentocinquanta sei cupido",
+                    "tipologia_targa": "tipo speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: perdita, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrici targato sa quattrocentocinquanta sei cupido tipo speciale proveniente da francia manca educati multi strada due la violazione ovvero parcheggio in zona a rimozione si e verificata in data sette aprile duemilaventicinque alle ore diciotto e sei in via della concordia al numero quattordici l'infrazione rientra nell'articolo sette con ma quindici del codice civile non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzione prevede la perdita di nove punti si richiede la stampa in lingua inglese tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato ZA456QP di tipo speciale proveniente da francia, marca Ducati Multistrada V2. La violazione, ovvero parcheggio in zona rimozione, si è verificata in data 07/04/2025 alle ore 18:06 in via della Concordia, al numero 14. L'infrazione rientra nell'articolo 7, comma 15 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 9 punti. Si richiede la stampa in lingua inglese, tramite bluetooth, stampa anche la comunicazione. "
+}

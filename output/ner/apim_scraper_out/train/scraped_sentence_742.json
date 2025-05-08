@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il tredici aprile duemilaventicinque alle ore dieci per una violazione riscontrata su un motoveicolo marca Fiat Panda, targato Yemen centoventitre, tipo ufficiale, proveniente dalla Spagna. La violazione è avvenuta in corso della storia, civico ventidue, per transito in zona accesso vietato, violando l'articolo quarantacinque comma quarantatré del codice stradale. L'agente Bellini ha proceduto con contestazione immediata e si prevede la decurtazione di quattro punti dalla patente. La stampa è richiesta in tedesco via WiFi, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "dieci",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "spagna",
+                    "targa": "yemen centoventitre",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fiat panda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data tredici aprile duemilaventicinque alle ore dieci e sai per la violazione riscontrata al veicolo motoveicoli marca fiat panda targato yemen centoventitre ho più tipo ufficiale il proveniente da spagna in particolare in corso della storia civico ventidue è stato accertato transito in zona accesso vietato in violazione dell'articolo quarantacinque come quarantatré del codice stradale l'agente sarà bellini a proceduto con contestazione immediata si prevede la decurtazione di quattro punti dalla patente richiedo la stampa in tedesco via vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 13/04/2025 alle ore 10:06 per la violazione riscontrata al veicolo motoveicolo, marca Fiat Panda, targato MN123OP (tipo ufficiale) proveniente da spagna. In particolare, in corso della Storia, civico 22, è stato accertato transito in zona accesso vietato, in violazione dell'articolo 45, comma 43 del codice stradale. L'agente Sara Bellini ha proceduto con contestazione immediata. Si prevede la decurtazione di 4 punti dalla patente. Richiedo la stampa in tedesco via wifi, non stampare anche la comunicazione. "
+}

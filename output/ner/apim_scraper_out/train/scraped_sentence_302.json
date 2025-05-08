@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un motoveicolo marca Ducati Multistrada, immatricolato in Belgio, con targa speciale. La violazione è avvenuta il 8 aprile 2025 alle ore 19:34 in via della Repubblica 20 e via dei Fori Imperiali al civico 10. La violazione riguarda il parcheggio in zona a rimozione, articolo 9 comma 1 del codice penale, con conseguente perdita di 5 punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua italiana, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "diciannove trentaquattro",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "belgio",
+                    "targa": "sette centottantanove occhi piedi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "ducati multi strada",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "nove",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per motoveicoli marca ducati multi strada vi due targa sette centottantanove occhi piedi tipo speciale immatricolati in belgio in data otto aprile duemilaventicinque alle ore diciannove trentaquattro in via della repubblica venti via dei fori imperiali al civico dieci stata commessa la seguente violazione parcheggio in zona a rimozione articolo nove comma uno del codice penale dalla violazione con segue la perdita di cinque punti stampa in modalità blu tutte in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per motoveicolo, marca Ducati Multistrada V2, targa MN789OP di tipo speciale, immatricolato in belgio. In data 08/04/2025 alle ore 19:34, in via della Repubblica, 20via dei Fori Imperiali, al civico 10, è stata commessa la seguente violazione: parcheggio in zona rimozione (articolo 9, comma 1 del codice penale).Dalla violazione consegue la perdita di 5 punti.Stampa in modalità bluetooth e in lingua italiano, stampa anche la comunicazione."
+}

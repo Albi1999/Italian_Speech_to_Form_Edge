@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il tredici aprile duemilaventicinque alle ore ventidue e cinque per un rimorchio con targa greca, rilevato in via della speranza al civico diciotto. La violazione riguarda il codice stradale, articolo trentuno, comma trenta, per parcheggio in doppia fila. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare uno punti. Il veicolo è un tram street triplo di colore marrone. La stampa del preavviso è richiesta tramite Bluetooth, in italiano, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "ventidue cinque",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "tram street triplo",
+                    "nazione": "grecia",
+                    "targa": "abe centoventitre ci di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": "marrone"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: decurtare, after: punti",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data tredici aprile duemilaventicinque alle ore ventidue cinque è stato notificato un preavviso per un rimorchio targato abe centoventitre ci di con targa copertura immatricolati in grecia l'infrazione e stata rilevata in via della speranza al civico diciotto con violazione del codice stradale articolo trentuno duemilanovecento trentadue comma trenta in particolare si e riscontrato un parcheggio in doppia fila non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono uno punti il veicolo è un tram street triplo di colore marrone con numero di telaio cinquecento settantanove milioni e settecentocinquanta ottomilaquattrocento cinquantanove massa duemilaseicento settanta chilogrammi necessita la stampa del preavviso tramite blu tutta in italiano stampa anche la comunicazione",
+    "original_sentence": "In data 13/04/2025, alle ore 22:05, è stato notificato un preavviso per un rimorchio targato AB123CD con targa copertura, immatricolato in grecia. L'infrazione è stata rilevata in via della Speranza, al civico 18, con violazione del codice stradale, articolo 31, 2932, comma 30, in particolare si è riscontrato un parcheggio in doppia fila Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 1 punti. Il veicolo è un Triumph Street Triple di colore marrone, con numero di telaio 579758459 e massa 2670 kg.Necessito la stampa del preavviso tramite bluetooth, in italiano, stampa anche la comunicazione."
+}

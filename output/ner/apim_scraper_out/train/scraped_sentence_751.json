@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un ciclomotore immatricolato in Belgio, marca \"chi ha pianto\", targa \"you settecento ottantanove doppia wings\". La violazione è avvenuta il tre maggio duemilaventicinque alle ore venti e quarantasette in corso Vittorio Emanuele, civico quindici. La violazione riguarda il parcheggio davanti a un passo carrabile, violando l'articolo ventotto, comma ventisei del codice penale, con conseguente perdita di quattro punti. La stampa del verbale è richiesta in modalità \"tutte\" e in lingua tedesca, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "venti e quarantasette",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "belgio",
+                    "targa": "you settecento ottantanove doppia wings",
+                    "tipologia_targa": null,
+                    "marca_modello": "chi ha pianto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventotto",
+                    "comma": "ventisei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: perdita, after: punti",
+            "tipo_stampa": "tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per ciclomotori marca chi ha pianto targa you settecento ottantanove doppia wings di tipo speciale immatricolati in belgio in data tre maggio duemilaventicinque alle ore venti e quarantasette in corso vittorio emanuele al civico quindici e stata commessa la seguente violazione parcheggio davanti a passo cary abile articolo ventotto coma ventisei del codice penale dalla violazione con segue la perdita di quattro punti stampa in modalità tutte in lingua tedesco non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per ciclomotore, marca Kia Picanto, targa UV789WX di tipo speciale, immatricolato in belgio. In data 03/05/2025 alle ore 20:47, in corso Vittorio Emanuele, al civico 15, è stata commessa la seguente violazione: parcheggio davanti a passo carrabile (articolo 28, comma 26 del codice penale). Dalla violazione consegue la perdita di 4 punti. Stampa in modalità bluetooth e in lingua tedesco, non stampare anche la comunicazione. "
+}

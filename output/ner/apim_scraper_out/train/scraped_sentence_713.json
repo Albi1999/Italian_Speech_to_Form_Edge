@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un'infrazione stradale commessa da un veicolo Nissan Migra, immatricolato in Olanda, con targa Ypsilon SI 154. L'infrazione è avvenuta il 12 aprile 2025 alle ore 13:52 in via della Musica, civico 18, per transito in zona ad accesso vietato. La contestazione è stata eseguita immediatamente dall'agente Bellini. La violazione comporta la decurtazione di nove punti. È richiesta la stampa in tedesco tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "tredici cinquantadue",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "olanda",
+                    "targa": "ypsilon si centocinquantaquattro",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "nissa migra",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazioni immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "nove",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo nissa migra autovettura targa ypsilon si centocinquantaquattro di tipo ufficiale immatricolati l'olanda per infrazione commessa in data dodici aprile duemilaventicinque ore tredici cinquantadue in via della musica civico diciotto è stato rilevato transito in zona accesso vietato ai sensi dell'articolo nove comma uno del codice stradale contestazioni immediata eseguita dall'agente sarà bellini la violazione comporta la decurtazione di nove punti richiesta stampa in tedesco via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Nissan Micra autovettura, targa XY654ZA di tipo ufficiale, immatricolato in olanda, per infrazione commessa in data 12/04/2025, ore 13:52. In via della Musica, civico 18, è stato rilevato transito in zona accesso vietato, ai sensi dell'articolo 9, comma 1, del codice stradale. Contestazione immediata eseguita dall'agente Sara Bellini. La violazione comporta la decurtazione di 9 punti. Richiesta stampa in tedesco via wifi, non stampare anche la comunicazione. "
+}

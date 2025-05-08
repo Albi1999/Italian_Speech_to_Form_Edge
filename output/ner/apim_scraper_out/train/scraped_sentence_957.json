@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 22 aprile 2025 alle ore 19:27 in Piazza Venezia, civico 1. La violazione riguarda un veicolo Dacia Sandy, ciclomotore con targa francese, per parcheggio in divieto di sosta secondo l'articolo 48, comma 46 del codice civile. La contestazione è avvenuta immediatamente da parte dell'agente Chiara Romano. Sono previsti quattro punti di decurtazione. Si richiede la stampa in lingua tedesca via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "diciannove ventisette",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "guerra novecentottanta sette",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "dacia sandy",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantotto",
+                    "comma": "quarantasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: previsti, after: di",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stai dicendo verbale per violazione accertata il ventidue aprile duemilaventicinque alle ore diciannove ventisette in piazza venezia al civico uno a carico del veicolo dacia sandy ero ciclomotori con targa guerra novecentottanta sette se ti di tipo speciale immatricolati in francia la violazione contestata e parcheggio in divieto di sosta in base all'articolo quarantotto comma quarantasei del codice civile la contestazione e avvenuta immediatamente da parte della gente è chiara romano sono previsti quattro punti di decurtazione si richiede la stampa in lingua tedesco via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 22/04/2025 alle ore 19:27 in piazza Venezia, al civico 1, a carico del veicolo Dacia Sandero, ciclomotore con targa QR987ST di tipo speciale, immatricolato in francia. La violazione contestata è parcheggio in divieto di sosta, in base all'articolo 48, comma 46 del codice civile. La contestazione è avvenuta immediatamente da parte dell'agente Chiara Romano. Sono previsti 4 punti di decurtazione. Si richiede la stampa in lingua tedesco via wifi, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per una violazione di parcheggio su strisce pedonali. La violazione è stata rilevata il ventinove aprile duemilaventicinque alle ore dodici e quindici in corso Buenos Aires al numero novantotto. Il veicolo coinvolto è una macchina agricola marca Nissan, targata JEFF 789, di tipo speciale, proveniente dal Belgio. La violazione è in base all'articolo ventitré comma ventuno del codice civile, con una decurtazione di sei punti. Si richiede la stampa del preavviso tramite Bluetooth in lingua italiana, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "dodici e quindici",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "jeff sette centottantanove giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "nissan",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventitré",
+                    "comma": "ventuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "bruti",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo macchina agricola marca nissan giù targato jeff sette centottantanove giacca di tipo speciale proveniente da belgio in data ventinove aprile duemilaventicinque alle ore dodici e quindici e stata rilevata la violazione di parcheggio su strisce pedonali in corso buenos aires al numero novantotto in base all'articolo l'articolo ventitré coma ventuno del codice civile per tale infrazione sono previsti sei punti di decurtazione si richiede la stampa del preavviso tramite bruti in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina agricola, marca Nissan Juke, targato EF789GH di tipo speciale, proveniente da belgio. In data 29/04/2025 alle ore 12:15, è stata rilevata la violazione di parcheggio su strisce pedonali in corso Buenos Aires, al numero 98, in base all'articolo 23, comma 21 del codice civile. Per tale infrazione sono previsti 6 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua italiano, stampa anche la comunicazione. "
+}

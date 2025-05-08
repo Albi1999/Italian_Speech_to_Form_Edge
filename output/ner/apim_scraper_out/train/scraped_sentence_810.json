@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il tre maggio duemilaventicinque alle ore venti cinquantuno per un veicolo macchina agricola di marca Audi A3 con targa registrata in Germania. L'infrazione è avvenuta in via della Libertà al numero tre, consistente nel parcheggio in doppia fila, come previsto dall'articolo ventotto comma ventisei del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. È prevista la decurtazione di un punto. La notifica deve essere stampata tramite WiFi in lingua olandese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "venti cinquantuno",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "guerri novecentottanta sette",
+                    "tipologia_targa": "tipo copertura",
+                    "marca_modello": "audi a tre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventotto",
+                    "comma": "ventisei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: punti",
+            "tipo_stampa": "wife ehi",
+            "lingua_stampa": "olandesi",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data tre maggio duemilaventicinque alle ore venti cinquantuno è stato emesso un preavviso di violazioni per il veicolo macchina agricola di marca audi a tre con targa guerri novecentottanta sette siti tipo copertura registrato in germania l'infrazione avvenuta in via della libertà al numero tre è consiste in parcheggia in doppia fila come previsto dall'articolo ventotto coma ventisei del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti un punti di decurtazione si prega di stampare la presente notifica tramite wife ehi in lingua olandesi stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 03/05/2025, alle ore 20:51, è stato emesso un preavviso di violazione per il veicolo macchina agricola di marca Audi A3, con targa QR987ST (tipo copertura), registrato in germania. L'infrazione è avvenuta in via della Libertà, al numero 3, e consiste in parcheggio in doppia fila, come previsto dall'articolo 28, comma 26 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 1 punti di decurtazione. Si prega di stampare la presente notifica tramite wifi, in lingua olandese, stampa anche la comunicazione. "
+}

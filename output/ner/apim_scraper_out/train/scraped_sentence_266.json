@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo rimorchio marca \"su chi vi seicentocinquanta\" con targa \"ci di centoventitre\" di tipo \"prova\" proveniente dall'Austria. L'infrazione è stata rilevata il \"lotto aprile duemilaventicinque\" alle \"ore tre trentotto\" in \"via giuseppe mazzini\" al civico \"ventiquattro\". La violazione riguarda l'articolo \"quattordici\" comma \"uno\" del codice penale. Non è stata possibile la contestazione immediata per \"assenza del trasgressori\". La violazione comporta la perdita di \"nove punti\". Si richiede la stampa del verbale in \"spagnolo\" tramite \"blu tu\" e di \"non stampare anche la comunicazione\".",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "lotto aprile duemilaventicinque",
+            "ora_violazione": "ore tre trentotto",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "ci di centoventitre",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "su chi vi seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quattordici",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo rimorchio marca su chi vi seicentocinquanta targato ci di centoventitre di tipo prova proveniente da austria l'infrazione e stata rilevata hai lotto aprile duemilaventicinque alle ore tre trentotto il veicolo si trovava in via giuseppe mazzini al civico ventiquattro in parcheggio davanti a pasto carabine violando l'articolo quattordici con ma uno del codice penale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazione comporta la perdita di nove punti richiedo la stampa del verbale in spagnolo tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo rimorchio, marca Suzuki SV650, targato CD123AB (di tipo prova), proveniente da austria.  L'infrazione è stata rilevata il 08/04/2025 alle ore 03:38. Il veicolo si trovava in via Giuseppe Mazzini, al civico 24, in parcheggio davanti a passo carrabile, violando l'articolo 14, comma 1, del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 9 punti.  Richiedo la stampa del verbale in spagnolo tramite bluetooth, non stampare anche la comunicazione."
+}

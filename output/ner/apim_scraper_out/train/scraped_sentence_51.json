@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo rimorchio con targa ufficiale proveniente dalla Croazia. L'infrazione è avvenuta il 30 aprile 2025 alle ore 15:22 in Corso della Storia, numero civico 22, per parcheggio davanti a passo carabine, violando l'articolo 7, comma 5 del codice penale. La decurtazione prevista è di quattro punti. La contestazione è immediata e viene eseguita dall'agente Francesco Rizzo. La stampa del verbale è necessaria tramite Bluetooth e in lingua francese, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "quindici e ventidue",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "novecentottanta sette ci",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo rimorchio di mary charlie i davidson street settecentocinquanta con targa novecentottanta sette ci di tipo ufficiale proveniente da croazia fatto avvenuto il trenta aprile duemilaventicinque alle ore quindici e ventidue posizione corso della storia numero civico ventidue infrazione parcheggio davanti a passo carabine in violazione dell'articolo sette comma cinque del codice penale decurtazione prevista quattro punti si applica contestazione immediata da parte della gente francesco rizzo stampa necessaria tramite blu tutti in francese non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo rimorchio di marca Harley-Davidson Street 750, con targa AB987CD (tipo ufficiale), proveniente da croazia.  Fatto avvenuto il 30/04/2025 alle ore 15:22. Posizione: corso della Storia, numero civico 22. Infrazione: parcheggio davanti a passo carrabile, in violazione dell'articolo 7, comma 5, del codice penale. Decurtazione prevista: 4 punti. Si applica contestazione immediata da parte dell'agente Francesco Rizzo. Stampa necessaria tramite bluetooth in francese, non stampare anche la comunicazione."
+}

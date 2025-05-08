@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo BMW con targa ufficiale proveniente dalla Germania. L'infrazione riguarda un parcheggio in divieto di sosta, avvenuta il 16 aprile 2025 alle ore 24:09, in via della Repubblica 20 e via dei Fori Imperiali 10. La violazione è dell'articolo 23, comma 21 del codice civile, con una decurtazione di sei punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è richiesta tramite WiFi in spagnolo, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "e ventiquattro e nove",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "dieci",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "germania",
+                    "targa": "si ypsilon trecentoventi uno zaino",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "bmw jeff novecento hicks serre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventitré",
+                    "comma": "ventuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo motoveicoli di marca bmw jeff novecento hicks serre con targa si ypsilon trecentoventi uno zaino tipo ufficiale proveniente da germania fatto avvenuto il sedici aprile duemilaventicinque alle ore e ventiquattro e nove posizione via della repubblica venti via dei fori imperiali numero civico dieci infrazione parcheggio in divieto di sosta in violazione dell'articolo ventitré coma ventuno del codice civile decurtazione prevista sei punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite wifi in spagnolo stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo motoveicolo di marca BMW F 900 XR, con targa XY321ZA (tipo ufficiale), proveniente da germania. Fatto avvenuto il 16/04/2025 alle ore 00:09. Posizione: via della Repubblica, 20via dei Fori Imperiali, numero civico 10. Infrazione: parcheggio in divieto di sosta, in violazione dell'articolo 23, comma 21, del codice civile. Decurtazione prevista: 6 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in spagnolo, stampa anche la comunicazione. "
+}

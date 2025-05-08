@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo, una macchina agricola con targa spagnola, che ha commesso un'infrazione di parcheggio in zona a rimozione. La violazione è avvenuta il 24 aprile 2025 alle 7:45 in via del Corso, numero 12. La violazione comporterà una decurtazione di quattro punti. Si richiede la stampa in lingua italiana con modalità \"hawaii\" e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "sette quarantacinque",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "ci di quattrocentocinquanta sei fedi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "moto gozzi bus sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattordici",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa ci di quattrocentocinquanta sei fedi tipo prova marca moto gozzi bus sette proveniente da spagna l'infrazione nello specifico parcheggio in zona a rimozione sia verificata in data ventiquattro aprile duemilaventicinque alle ore sette quarantacinque in via del corso al numero dodici articolo quattordici comma uno del codice stradale si comunica che dalla violazione conseguirà una decurtazione di quattro punti si richiede la stampa in lingua italiano modalità hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina agricola con targa CD456EF di tipo prova, marca Moto Guzzi V7, proveniente da spagna. L'infrazione, nello specifico parcheggio in zona rimozione, si è verificata in data 24/04/2025 alle ore 07:45 in via del Corso, al numero 12 (articolo 14, comma 1 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 4 punti. Si richiede la stampa in lingua italiano, modalità wifi, stampa anche la comunicazione. "
+}

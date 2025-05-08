@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il sette maggio duemilaventicinque alle ore una. L'infrazione riguarda un veicolo rimorchio immatricolato in Belgio con targa ufficiale, avvenuta presso viale dei giardini al civico otto. La violazione è del codice civile, articolo ventisette comma venticinque, per parcheggio su strisce pedonali. Sono decurtati sette punti, senza sanzione accessoria. Il veicolo è di colore argento. La stampa deve avvenire tramite WiFi in inglese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "sette maggio duemilaventicinque",
+            "ora_violazione": "una",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "belgio",
+                    "targa": "ho novecentottanta sette doppia winx",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": "argento"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventisette",
+                    "comma": "venticinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "wi fi",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "i sette maggio duemilaventicinque alle ore una sto mettendo una notifica di infrazione per il veicolo mas da chips tre rimorchio immatricolati in belgio con targa ho novecentottanta sette doppia winx di tipo ufficiale l'infrazione si e verificata presso viale dei giardini al civic otto violando il codice civile in particolare l'articolo ventisette qom venticinque riguardante il parcheggio su strisce pedonali devo decurtare sette punti non è necessari alcuna sanzione accessoria il rimorchio e di colore argento con numero di telaio quattro sette zero cinque nove quattro due uno zero e massa duemilaquattrocento ottantasei chi li stampa me lo con il wi fi in inglese non stampare anche la comunicazione",
+    "original_sentence": "Il 07/05/2025, alle ore 01:00, sto emettendo una notifica di infrazione per il veicolo Mazda CX-3, rimorchio immatricolato in belgio con targa UV987WX di tipo ufficiale. L'infrazione si è verificata presso viale dei Giardini, al civico 8, violando il codice civile, in particolare l'articolo 27, comma 25 riguardante il parcheggio su strisce pedonali. Devo decurtare 7 punti. Non è necessaria alcuna sanzione accessoria. Il rimorchio è di colore argento, con numero di telaio 470594210 e massa 2486 kg. Stampamelo con il wifi in inglese, non stampare anche la comunicazione. "
+}

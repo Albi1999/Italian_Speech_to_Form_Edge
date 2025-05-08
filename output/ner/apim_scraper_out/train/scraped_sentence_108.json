@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo rimorchio marca Scorda Fabia, targato 320, di tipo prova, proveniente dalla Spagna. L'infrazione è stata rilevata il 28 aprile 2025 alle ore 9:59. Il veicolo si trovava in via della Repubblica 20, via dei Fori Imperiali al civico 10, parcheggiato su strisce pedonali, violando l'articolo 6 comma 4 del codice civile. L'agente Silvia Neri ha provveduto alla contestazione immediata dell'infrazione, che comporta la perdita di 9 punti. Si richiede la stampa del verbale in tedesco tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "nove cinquantanove",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "spagna",
+                    "targa": "trecentoventi uno",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "scorda fabia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo rimorchio marca scorda fabia targato trecentoventi uno o piu di tipo prova proveniente da spagna l'infrazione è stata rilevata il ventotto aprile duemilaventicinque alle ore nove cinquantanove il veicolo si trovava in via della repubblica venti via dei fori imperiali al civico dieci in parcheggio su strisce pedonali violando l'articolo sei comma quattro del codice civile l'agente silvia neri a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di nove punti richiedo la stampa del verbale in tedesco tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo rimorchio, marca Skoda Fabia, targato MN321OP (di tipo prova), proveniente da spagna.  L'infrazione è stata rilevata il 28/04/2025 alle ore 09:59. Il veicolo si trovava in via della Repubblica, 20via dei Fori Imperiali, al civico 10, in parcheggio su strisce pedonali, violando l'articolo 6, comma 4, del codice civile. L'agente Silvia Neri ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 9 punti.  Richiedo la stampa del verbale in tedesco tramite bluetooth, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale elevato il venti aprile duemilaventicinque alle ore otto e quarantaquattro per una violazione del codice penale. Il veicolo coinvolto è una Fiat Panda con rimorchio, immatricolato in Austria, che ha parcheggiato sulle strisce pedonali in via della Pace, civico due. La contestazione è stata immediata e ha portato alla decurtazione di cinque punti. La stampa del verbale è richiesta in lingua portoghese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "otto e quarantaquattro",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "icsi ypsilon sei centocinquantaquattro",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "fiat panda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: derivano, after: di",
+            "tipo_stampa": "via hawaii fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data venti aprile duemilaventicinque alle ore otto e quarantaquattro si eleva verbale al veicolo fiat panda rimorchio con targa icsi ypsilon sei centocinquantaquattro già di tipo speciale immatricolati in austria per violazione dell'articolo ventuno comma diciannove del codice penale ovvero parcheggio suo strisce pedonali rilevata in via della pace al civico due la contestazione e stata immediata effettuata dalla gente luca averti dalla violazione derivano cinque punti di decurtazione stampa necessaria in lingua portoghese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "In data 20/04/2025, alle ore 08:44, si eleva verbale al veicolo Fiat Panda, rimorchio con targa XY654ZA di tipo speciale, immatricolato in austria, per violazione dell'articolo 21, comma 19 del codice penale, ovvero parcheggio su strisce pedonali, rilevata in via della Pace, al civico 2. La contestazione è stata immediata, effettuata dall'agente Luca Verdi. Dalla violazione derivano 5 punti di decurtazione. Stampa necessaria in lingua portoghese via wifi, non stampare anche la comunicazione. "
+}

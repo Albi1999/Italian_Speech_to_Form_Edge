@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 14 aprile 2025 alle ore 22:52 in via della Speranza, civico 18. La violazione riguarda un veicolo Mercedes Classe A con rimorchio, targa E 789 Giacca, immatricolato in Austria, per parcheggio in divieto di sosta secondo l'articolo 9, comma 1 del codice civile. La contestazione è avvenuta immediatamente da parte dell'agente Carlo Bruni, con una decurtazione di tre punti. Si richiede la stampa in lingua inglese tramite Hawaii e di non stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "ventidue cinquantadue",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "è sette centottantanove giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "nove",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: di",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbale per violazione accertata il quattordici aprile duemilaventicinque alle ore ventidue cinquantadue in via della speranza al civico diciotto a carico del veicolo mercedes classe a rimorchio con targa è sette centottantanove giacca di tipo speciale immatricolati in austria la violazione contestata e parcheggio in divieto di sosta in base all'articolo nove comma uno del codice civile la contestazione e avvenuta immediatamente da parte della gente carlo bruni sono previsti tre punti di decurtazione si richiede la stampa in lingua inglese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 14/04/2025 alle ore 22:52 in via della Speranza, al civico 18, a carico del veicolo Mercedes Classe A, rimorchio con targa EF789GH di tipo speciale, immatricolato in austria. La violazione contestata è parcheggio in divieto di sosta, in base all'articolo 9, comma 1 del codice civile. La contestazione è avvenuta immediatamente da parte dell'agente Carlo Bruni. Sono previsti 3 punti di decurtazione. Si richiede la stampa in lingua inglese via wifi, non stampare anche la comunicazione. "
+}

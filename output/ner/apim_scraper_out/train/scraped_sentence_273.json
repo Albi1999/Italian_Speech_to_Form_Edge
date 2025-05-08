@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un'infrazione stradale commessa il 22 aprile 2025 alle ore 14:43. Il veicolo coinvolto è un'autovettura con targa ufficiale proveniente dal Portogallo. L'infrazione riguarda il parcheggio su strisce pedonali in corso della Libertà, civico 7. La violazione è regolata dall'articolo 8, comma 6 del codice stradale, con una decurtazione di 9 punti. La stampa del preavviso è richiesta in italiano via Hawaii, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "quattordici e quarantatré",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "portogallo",
+                    "targa": "ci di quattrocentocinquanta sei",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo peggio duecentotto autovettura targa ci di quattrocentocinquanta sei di tipo ufficiale proveniente da portogallo il giorno ventidue aprile duemilaventicinque alle ore quattordici e quarantatré in corso della libertà al numero civico sette stata commessa l'infrazione di parcheggio su strisce pedonali come previsto dall'articolo otto comma sei del codice stradale per questa violazione sono previsti nove punti di decurtazione cedola stampa del preavviso in italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Peugeot 208 autovettura, targa CD456EF di tipo ufficiale, proveniente da portogallo. Il giorno 22/04/2025, alle ore 14:43, in corso della Libertà, al numero civico 7, è stata commessa l'infrazione di parcheggio su strisce pedonali, come previsto dall'articolo 8, comma 6, del codice stradale.Per questa violazione sono previsti 9 punti di decurtazione. Chiedo la stampa del preavviso in italiano via wifi, non stampare anche la comunicazione."
+}

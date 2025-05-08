@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo Subaru, macchina agricola, con targa speciale proveniente dalla Francia. L'infrazione è avvenuta l'otto aprile 2025 alle ore 1:27 in via della Concordia, numero civico 14, per parcheggio in divieto di sosta, violando l'articolo 9 comma 7 del codice penale. Sono previsti sette punti di decurtazione. Si richiede la stampa del preavviso in inglese via Hawaii, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "una e ventisette",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "trecentoventi uno più",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo subaru quindicesimo macchina agricola targa trecentoventi uno più di tipo speciale proveniente da francia il giorno otto aprile duemilaventicinque alle ore una e ventisette in via della concordia al numero civico quattordici stata commessa l'infrazione di parcheggio in divieto di sosta come previsto dall'articolo nove comma sette del codice penale per questa violazione sono previsti sette punti di decurtazione chiedo alla stampa del preavviso in inglese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Subaru XV macchina agricola, targa MN321OP di tipo speciale, proveniente da francia. Il giorno 08/04/2025, alle ore 01:27, in via della Concordia, al numero civico 14, è stata commessa l'infrazione di parcheggio in divieto di sosta, come previsto dall'articolo 9, comma 7, del codice penale.Per questa violazione sono previsti 7 punti di decurtazione. Chiedo la stampa del preavviso in inglese via wifi, non stampare anche la comunicazione."
+}

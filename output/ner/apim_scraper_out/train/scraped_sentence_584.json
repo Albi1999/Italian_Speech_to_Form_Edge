@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il ventidue aprile duemilaventicinque alle ore tredici e quattordici per un veicolo registrato in Portogallo. L'infrazione è avvenuta in via della musica al numero diciotto per parcheggio in divieto di sosta, violando l'articolo trentuno duemilanovecento trentadue comma trenta del codice penale. Non essendo stato possibile identificare il conducente, la notifica è inviata al proprietario del veicolo. Sono previsti cinque punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua italiana, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "tredici e quattordici",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "o sei centocinquantaquattro duce wings",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mary carino cattura",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducenti sul posto",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: previsti, after: di",
+            "tipo_stampa": "blu blackout",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventidue aprile duemilaventicinque alle ore tredici e quattordici è stato emesso un preavviso di violazione per il veicolo macchina operatrice di mary carino cattura con targa o sei centocinquantaquattro duce wings tipo ufficiale è registrato in portogallo l'infrazione avvenuta in via della musica al numero diciotto e consiste in parcheggio in divieto di sosta come previsto dall'articolo trentuno duemilanovecento trentadue coma trenta del codice penale non essendo stato possibile identificare il conducenti sul posto la notifica viene inviata al proprietario del veicolo sono previsti cinque punti di decurtazione si prega di stampare la presente notifica tramite blu blackout in lingua italiano stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 22/04/2025, alle ore 13:14, è stato emesso un preavviso di violazione per il veicolo macchina operatrice di marca Renault Captur, con targa UV654WX (tipo ufficiale), registrato in portogallo. L'infrazione è avvenuta in via della Musica, al numero 18, e consiste in parcheggio in divieto di sosta, come previsto dall'articolo 31, 2932, comma 30 del codice penale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 5 punti di decurtazione. Si prega di stampare la presente notifica tramite bluetooth, in lingua italiano, stampa anche la comunicazione. "
+}

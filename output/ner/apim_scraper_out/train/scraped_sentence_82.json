@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il diciotto aprile duemilaventicinque alle ore nove meno dieci per un veicolo Lancia Delta di colore oro, targato UBI 3201 EX, con targa prova immatricolata in Portogallo. L'infrazione è stata rilevata in corso Buenos Aires al civico 98, per parcheggio in divieto di sosta, violando il codice penale articolo 42 comma 40. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare cinque punti. La stampa del preavviso è richiesta tramite Bluetooth in inglese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "nove meno dieci",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "portogallo",
+                    "targa": "ubi trecentoventi uno doppia ex",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "lancia delta",
+                    "colore": "oro"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantadue",
+                    "comma": "quaranta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data diciotto aprile duemilaventicinque alle ore nove meno dieci è stato notificato un preavviso per un molto veicolo targato ubi trecentoventi uno doppia ex con targa prova immatricolati portogallo l'infrazione e stata rilevata in corso buenos aires al civico novantotto con violazione del codice penale articolo quarantadue con ma quaranta in particolare si e riscontrato un parcheggio in divieto di sosta non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono cinque punti il veicolo è un lancia delta di colore oro con numero di telaio cinquecentottanta quattro milioni e centocinquantamila sei centoventiquattro e massa millesettecento tre chilogrammi necessita alla stampa del preavviso tramite blu tutte in inglese non stampare anche la comunicazione",
+    "original_sentence": "In data 18/04/2025, alle ore 08:50, è stato notificato un preavviso per un motoveicolo targato UV321WX con targa prova, immatricolato in portogallo. L'infrazione è stata rilevata in corso Buenos Aires, al civico 98, con violazione del codice penale, articolo 42, comma 40, in particolare si è riscontrato un parcheggio in divieto di sosta Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 5 punti. Il veicolo è un Lancia Delta di colore oro, con numero di telaio 584150624 e massa 1703 kg.Necessito la stampa del preavviso tramite bluetooth, in inglese, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il 17 aprile 2025 alle ore 24:01, con un verbale elevato al veicolo Alfa Romeo Giulietta, ciclomotore con targa JEFF 450 6, immatricolato in Spagna. La violazione riguarda l'articolo 9, comma 7 del codice civile per parcheggio su strisce pedonali, rilevata in via della Repubblica 20 e via dei Fori Imperiali al civico di. La contestazione è stata immediata, effettuata dall'agente Mario Rossi, e ha comportato la decurtazione di cinque punti. La stampa necessaria è in lingua portoghese tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "ventiquattro è un minuto",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "spagna",
+                    "targa": "jeff quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "ufficiali",
+                    "marca_modello": "alfa romeo e giulietta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: derivano, after: decurtazione",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data diciassette aprile duemilaventicinque alle ore ventiquattro è un minuto si eleva verbale al veicolo alfa romeo e giulietta ciclomotori con targa jeff quattrocentocinquanta sei giacca di tipo ufficiali immatricolati in spagna per violazione dell'articolo nove coma sette del codice civile ovvero parcheggio su strisce pedonali rilevata in via della repubblica venti via dei fori imperiali al civico di è la contestazione e stata immediata effettuata dalla gente mario rossi dalla violazione derivano cinque punti di decurtazione stampa necessaria in lingua portoghese di blu non stampare anche la comunicazione",
+    "original_sentence": "In data 17/04/2025, alle ore 00:01, si eleva verbale al veicolo Alfa Romeo Giulietta, ciclomotore con targa EF456GH di tipo ufficiale, immatricolato in spagna, per violazione dell'articolo 9, comma 7 del codice civile, ovvero parcheggio su strisce pedonali, rilevata in via della Repubblica, 20via dei Fori Imperiali, al civico 10. La contestazione è stata immediata, effettuata dall'agente Mario Rossi. Dalla violazione derivano 5 punti di decurtazione. Stampa necessaria in lingua portoghese via bluetooth, non stampare anche la comunicazione. "
+}

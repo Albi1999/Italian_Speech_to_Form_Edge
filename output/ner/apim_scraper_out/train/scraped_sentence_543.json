@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo Ducati Multistrada con rimorchio, immatricolato in Germania, per un'infrazione avvenuta l'11 aprile 2025 alle 12:57. L'infrazione è avvenuta in Corso Italia, numero 30, dove il veicolo era parcheggiato in zona a rimozione. L'articolo violato è il 26, comma 24 del codice civile, e verranno tolti sei punti dalla patente. Il verbale deve essere stampato via Hawaii in francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "dodici cinquantasette",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "guerra novecentottanta sette se ti",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "ducati molti strada due",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventisei",
+                    "comma": "ventiquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo ducati molti strada due rimorchio con targa guerra novecentottanta sette se ti di tipo speciale immatricolati in germania per un'infrazione commessa hai l'undici aprile duemilaventicinque alle dodici cinquantasette l'infrazione e avvenuta in corso italia al numero trenta dove il veicolo era in parcheggio in zona a rimozione l'articolo violato è il ventisei comma ventiquattro del codice civile verranno tolti sai punti dalla patente stampa questo verbale via hawaii fa in francese non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Ducati Multistrada V2, rimorchio con targa QR987ST di tipo speciale, immatricolato in germania, per un'infrazione commessa il 11/04/2025 alle 12:57. L'infrazione è avvenuta in corso Italia, al numero 30, dove il veicolo era in parcheggio in zona rimozione. L'articolo violato è il 26, comma 24 del codice civile. Verranno tolti 6 punti dalla patente. Stampa questo verbale via wifi in francese, non stampare anche la comunicazione. "
+}

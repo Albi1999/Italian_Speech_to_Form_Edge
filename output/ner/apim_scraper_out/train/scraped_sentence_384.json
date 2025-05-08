@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il tre maggio duemilaventicinque alle ore sette e diciotto per un rimorchio con targa prova immatricolato in Croazia. L'infrazione è stata rilevata in via Giuseppe Mazzini al civico ventiquattro, con violazione del codice stradale articolo 1228 comma 16, per parcheggio su strisce pedonali. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare sei punti. Il veicolo è un Nissan Juke di colore rosso. È richiesta la stampa del preavviso tramite Wi-Fi in portoghese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "sette diciotto",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "trecentoventi uno più",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "nissan gioco",
+                    "colore": "rosso"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "milleduecento ventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data tre maggio duemilaventicinque alle ore sette diciotto è stato notificato un preavviso per un rimorchio targato trecentoventi uno più con targa prova immatricolati in croazia l'infrazione e stata rilevata in via giuseppe mazzini al civico ventiquattro con violazione del codice stradale articolo milleduecento ventotto comma sedici in particolare sia riscontrato un parcheggio su strisce pedonali non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono sei punti il veicolo è un nissan gioco di colore rosso con numero di telaio trecentottantatre milioni e trecentoquaranta novemila centottantadue massa duemila e diciassette chilogrammi necessita la stampa del preavviso tramite vuoi fai in portoghese non stampare anche la comunicazione",
+    "original_sentence": "In data 03/05/2025, alle ore 07:18, è stato notificato un preavviso per un rimorchio targato MN321OP con targa prova, immatricolato in croazia. L'infrazione è stata rilevata in via Giuseppe Mazzini, al civico 24, con violazione del codice stradale, articolo 1228, comma 16, in particolare si è riscontrato un parcheggio su strisce pedonali Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 6 punti. Il veicolo è un Nissan Juke di colore rosso, con numero di telaio 383349182 e massa 2017 kg.Necessito la stampa del preavviso tramite wifi, in portoghese, non stampare anche la comunicazione."
+}

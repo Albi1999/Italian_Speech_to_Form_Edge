@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da una macchina operatrice marca Nissan, immatricolata in Olanda, con targa speciale. La violazione è avvenuta il 16 aprile 2025 alle 00:48 in via della Vittoria, civico 9, per parcheggio in divieto di sosta, violando l'articolo 158 comma 2 del codice civile. La violazione comporta la perdita di uno punto. La stampa del verbale è richiesta in modalità Hawaii e in lingua portoghese, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte quarantotto",
+            "Strada_1": "via della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "olanda",
+                    "targa": "trecentoventi uno più",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "nissan",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina operatrice marca nissan ok targa trecentoventi uno più di tipo speciale immatricolati in olanda in data sedici aprile duemilaventicinque alle ore è mezzanotte quarantotto inviarle della vittoria al civico nove e stata commessa la seguente violazione parcheggiato in divieto di sosta articolo centocinquantotto comma due del codice civile dalla violazione con segue la perdita di uno punti stampa in modalità hawaii fai è in lingua portoghese non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina operatrice, marca Nissan Juke, targa MN321OP di tipo speciale, immatricolato in olanda. In data 16/04/2025 alle ore 00:48, in viale della Vittoria, al civico 9, è stata commessa la seguente violazione: parcheggio in divieto di sosta (articolo 158, comma 2 del codice civile).Dalla violazione consegue la perdita di 1 punti.Stampa in modalità wifi e in lingua portoghese, non stampare anche la comunicazione."
+}

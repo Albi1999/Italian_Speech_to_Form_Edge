@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il dieci aprile duemilaventicinque alle ore diciotto e quarantasei. Un verbale è stato elevato al veicolo BMW Jeff novecento, una macchina operatrice con targa Terre novantotto UDII, immatricolata in Italia. La violazione riguarda l'articolo quattordici, comma dodici del codice stradale, per parcheggio in zona a rimozione in via della Libertà al civico ventidue. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di dieci punti. La stampa è richiesta in lingua francese via Hawaii fai, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "diciotto e quarantasei",
+            "Strada_1": "via della Libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "italia",
+                    "targa": "terre novantotto udii",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "bmw jeff novecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattordici",
+                    "comma": "dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: derivano, after: decurtazione",
+            "tipo_stampa": "via hawaii fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data dieci aprile duemilaventicinque alle ore diciotto e quarantasei si eleva verbale al veicolo bmw jeff novecento macchina operatrice con targa terre novantotto udii tipo ufficiale immatricolati in italia per violazione dell'articolo quattordici con ma dodici del codice stradale ovvero parcheggio in zona a rimozione rilevata inviarle della libertà al civico ventidue non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano dieci punti di decurtazione stampa necessaria in lingua francese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "In data 10/04/2025, alle ore 18:46, si eleva verbale al veicolo BMW F 900 R, macchina operatrice con targa TR098YU di tipo ufficiale, immatricolato in italia, per violazione dell'articolo 14, comma 12 del codice stradale, ovvero parcheggio in zona rimozione, rilevata in viale della Libertà, al civico 22.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 10 punti di decurtazione. Stampa necessaria in lingua francese via wifi, non stampare anche la comunicazione."
+}

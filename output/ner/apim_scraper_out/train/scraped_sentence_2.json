@@ -1,6 +1,6 @@
 {
     "scraped_data": {
-        "summary": "Il documento notifica un preavviso di violazione emesso il venticinque aprile duemilaventicinque alle ore ventuno e quarantuno per un veicolo registrato in Slovenia. L'infrazione è avvenuta in corso della libertà al numero sette e consiste nel parcheggio in doppia fila, violando l'articolo quarantotto comma quarantasei del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti tre punti di decurtazione. La notifica deve essere stampata tramite Bluetooth in lingua italiana e include anche la comunicazione.",
+        "summary": "Il documento notifica un preavviso di violazione emesso il venticinque aprile duemilaventicinque alle ore ventuno e quarantuno per un veicolo registrato in Slovenia. L'infrazione è avvenuta in corso della libertà al numero sette, consistente nel parcheggio in doppia fila, violando l'articolo quarantotto comma quarantasei del codice stradale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti tre punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua italiana, includendo anche la comunicazione.",
         "report": {
             "verbale_preavviso": "preavviso",
             "data_violazione": "venticinque aprile duemilaventicinque",
@@ -11,8 +11,8 @@
                 {
                     "tipologia": "macchina agricola",
                     "nazione": "slovenia",
-                    "targa": "i sei centocinquantaquattro chilometri",
-                    "tipologia_targa": "copertura",
+                    "targa": "i sei centocinquantaquattro chilometri tipo copertura",
+                    "tipologia_targa": null,
                     "marca_modello": "chi api canto",
                     "colore": null
                 }

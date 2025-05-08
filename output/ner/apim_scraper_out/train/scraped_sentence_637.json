@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la notifica di un preavviso per un veicolo Subaru con targa ufficiale proveniente dal Belgio. La violazione è avvenuta il 9 aprile 2025 alle ore 18 presso il numero civico 4, per parcheggio su strisce pedonali, violando l'articolo 22 comma 20 del codice penale. Sono previsti quattro punti di decurtazione. Si richiede la stampa del preavviso in lingua irlandese e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "diciotto",
+            "Strada_1": "doti inviare della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "belgio",
+                    "targa": "te effe quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventidue",
+                    "comma": "venti",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "about",
+            "lingua_stampa": "irlandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo subaru quindicesimo ciclomotori te effe quattrocentocinquanta sei giacca di tipo ufficiale proveniente da belgio il giorno nove aprile duemilaventicinque alle ore diciotto i doti inviare della stazione a il numero civico quattro e stata commessa all'inflazione di parcheggio su strisce pedonali come previsto dall'articolo ventidue coma venti del codice penale per questa violazione sono previsti quattro punti di decurtazione chiedo la stampa dei preavviso irlandese di about stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Subaru XV ciclomotore, targa EF456GH di tipo ufficiale, proveniente da belgio. Il giorno 09/04/2025, alle ore 18:12, in viale della Stazione, al numero civico 4, è stata commessa l'infrazione di parcheggio su strisce pedonali, come previsto dall'articolo 22, comma 20, del codice penale. Per questa violazione sono previsti 4 punti di decurtazione. Chiedo la stampa del preavviso in olandese via bluetooth, stampa anche la comunicazione. "
+}

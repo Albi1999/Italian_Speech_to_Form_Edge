@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo motoveicolo marca Skoda Fabia, targa ME NE 4506 OH, immatricolato in Portogallo. La violazione è avvenuta il 26 aprile 2025 alle 8:40 in viale della Libertà, numero civico 22, per transito in zona di accesso vietato secondo l'articolo 21 comma 19 del codice stradale. Sono previsti sette punti di decurtazione. Si richiede la stampa del preavviso in lingua olandese tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "otto e quaranta",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "portogallo",
+                    "targa": "me ne quattrocentocinquanta sei oh piedi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "skoda fabia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo motoveicoli marca skoda fabia targa me ne quattrocentocinquanta sei oh piedi tipo speciale immatricolati portogallo la violazione è avvenuta il ventisei aprile duemilaventicinque alle otto e quaranta in viale della libertà al numero civico ventidue ed è relativa transito in zona accesso vietato in base al all'articolo ventuno comma diciannove del codice stradale per tale violazione sono previsti sette punti di decurtazione si richiede la stampa di tale preavviso in lingua olandese tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo motoveicolo, marca Skoda Fabia, targa MN456OP di tipo speciale, immatricolato in portogallo. La violazione è avvenuta il 26/04/2025 alle ore 08:40 in viale della Libertà, al numero civico 22, ed è relativa a transito in zona accesso vietato, in base all'articolo 21, comma 19 del codice stradale. Per tale violazione sono previsti 7 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua olandese tramite wifi, non stampare anche la comunicazione. "
+}

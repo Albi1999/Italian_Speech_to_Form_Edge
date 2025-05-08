@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il dodici aprile duemilaventicinque alle ore quattro e ventiquattro. È stato elevato un verbale al veicolo Fiat Tipo, ciclomotore con targa ufficiale immatricolato in Belgio, per violazione dell'articolo sei, comma uno dodici del codice stradale, per transito in zona accesso vietato. La violazione è stata rilevata in via della Speranza al civico diciassette. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di sei punti. La stampa è necessaria in lingua italiana via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "quattro e ventiquattro",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "belgio",
+                    "targa": "jeff trecentoventi uno giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fiat tipo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": "uno dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: derivano, after: di",
+            "tipo_stampa": "via hawaii",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data dodici aprile duemilaventicinque alle ore quattro e ventiquattro si eleva verbale al veicolo fiat tipo ciclomotori con targa è jeff trecentoventi uno giacca di tipo ufficiale immatricolati in belgio per violazione dell'articolo sei con ma prima uno dodici del codice stradale ovvero transito in zona accesso vietato rilevata in via della speranza al civico diciassette non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano sei punti di decurtazione stampa necessaria in lingua italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "In data 12/04/2025, alle ore 04:24, si eleva verbale al veicolo Fiat Tipo, ciclomotore con targa EF321GH di tipo ufficiale, immatricolato in belgio, per violazione dell'articolo 6, comma 1a(1-12) del codice stradale, ovvero transito in zona accesso vietato, rilevata in via della Speranza, al civico 17.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 6 punti di decurtazione. Stampa necessaria in lingua italiano via wifi, non stampare anche la comunicazione."
+}

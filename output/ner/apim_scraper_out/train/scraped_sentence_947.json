@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo Harley Davidson Street 750 con rimorchio, targa ufficiale immatricolata in Francia. L'infrazione è avvenuta il 2 maggio 2025 alle 13:24 in Corso della Repubblica, numero 19, per parcheggio su strisce pedonali. L'articolo violato è il 29, comma 27 del codice civile, con la decurtazione di 4 punti dalla patente. La stampa del verbale è richiesta via Hawaii e in lingua spagnola, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "tredici ventiquattro",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "centoventitre ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "harley davidson street settecentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo harley davidson street settecentocinquanta rimorchio con targa centoventitre ci di di tipo ufficiale immatricolati in francia per un'infrazione commessa il due maggio duemilaventicinque alle tredici ventiquattro l'infrazione e avvenuta in corso della repubblica al numero diciannove dove il veicolo era in parcheggio su strisce pedonali l'articolo violato è il ventinove comma ventisette del codice civile verranno tolti quattro punti dalla patente stampa questo verbale via hawaii fa in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Harley-Davidson Street 750, rimorchio con targa AB123CD di tipo ufficiale, immatricolato in francia, per un'infrazione commessa il 02/05/2025 alle 13:24. L'infrazione è avvenuta in corso della Repubblica, al numero 19, dove il veicolo era in parcheggio su strisce pedonali. L'articolo violato è il 29, comma 27 del codice civile. Verranno tolti 4 punti dalla patente. Stampa questo verbale via wifi in spagnolo, non stampare anche la comunicazione. "
+}

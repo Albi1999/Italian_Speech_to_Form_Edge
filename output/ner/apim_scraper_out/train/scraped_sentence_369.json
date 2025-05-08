@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo autovettura con targa ufficiale proveniente dalla Grecia, marca Ducati Monster, per una violazione di parcheggio su strisce pedonali. La violazione è avvenuta l'otto aprile 2025 alle ore 5:22 in via della Musica, numero 18. L'infrazione rientra nell'articolo 27, comma 25 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di dieci punti. Si richiede la stampa in lingua spagnola tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "cinque ventidue",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "grecia",
+                    "targa": "abe centoventitre ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "ducati monster",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventisette",
+                    "comma": "venticinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo autovettura targato abe centoventitre ci di di tipo ufficiale proveniente da grecia marca ducati monster la violazione ovvero parcheggio su strisce pedonali sia e verificata in data otto aprile duemilaventicinque alle ore cinque ventidue in via della musica al numero diciotto l'infrazione rientra nell'articolo ventisette con ma venticinque del codice stradale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzione prevede la perdita di dieci punti si richiede la stampa in lingua spagnolo tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato AB123CD di tipo ufficiale proveniente da grecia, marca Ducati Monster. La violazione, ovvero parcheggio su strisce pedonali, si è verificata in data 08/04/2025 alle ore 05:22 in via della Musica, al numero 18. L'infrazione rientra nell'articolo 27, comma 25 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 10 punti. Si richiede la stampa in lingua spagnolo, tramite bluetooth, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo con targa francese, che ha commesso un'infrazione di parcheggio in divieto di sosta il 9 aprile 2025 alle 22:52 in corso della storia, civico 22. La violazione è regolata dall'articolo 8, comma 6 del codice civile, con una decurtazione di 10 punti. Si richiede la stampa del preavviso in olandese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "ventidue cinquantadue",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "abby novecentottanta sette ci di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo cappa ti sette centonovanta di ciclomotori targa abby novecentottanta sette ci di di tipo copertura proveniente da francia il giorno nove aprile duemilaventicinque alle ore ventidue cinquantadue in corso della storia al numero civico ventidue e stata commessa l'infrazione di parcheggio in divieto di sosta come previsto dall'articolo otto comma sei del codice civile per questa violazione sono previsti dieci punti di decurtazione chiedo la stampa del preavviso in olandese via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo KTM 790 Duke ciclomotore, targa AB987CD di tipo copertura, proveniente da francia. Il giorno 09/04/2025, alle ore 22:52, in corso della Storia, al numero civico 22, è stata commessa l'infrazione di parcheggio in divieto di sosta, come previsto dall'articolo 8, comma 6, del codice civile. Per questa violazione sono previsti 10 punti di decurtazione. Chiedo la stampa del preavviso in olandese via bluetooth, stampa anche la comunicazione. "
+}

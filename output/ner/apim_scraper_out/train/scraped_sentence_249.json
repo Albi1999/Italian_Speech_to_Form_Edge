@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo rimorchio registrato in Belgio, con targa ufficiale. L'infrazione è avvenuta il 18 aprile 2025 alle 11:46 in via del Corso, civico 12, per parcheggio in doppia fila. La violazione è in base all'articolo 20, comma 18 del codice stradale e comporta una decurtazione di cinque punti. La stampa dell'avviso è prevista via Bluetooth, in olandese, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "undici e quarantasei",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "belgio",
+                    "targa": "i centoventitre chilometri",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo se akhtar jona rimorchio targato i centoventitre chilometri con targa ufficiale registrato in belgio per un fatto accaduto il diciotto aprile duemilaventicinque alle undici e quarantasei il veicolo si trovava in via del corso al civico dodici dove è stato riscontrato parcheggia in doppia fila in base all'articolo venti comma diciotto del codice stradale questa infrazione comporta una decurtazione di cinque punti genere alla stampa dell'avviso via blu tutti in olandese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Seat Arona, rimorchio, targato IJ123KL con targa ufficiale, registrato in belgio,  per un fatto accaduto il 18/04/2025 alle 11:46. Il veicolo si trovava in via del Corso, al civico 12, dove è stato riscontrato parcheggio in doppia fila, in base all'articolo 20, comma 18, del codice stradale. Questa infrazione comporta una decurtazione di 5 punti.  Genera la stampa dell'avviso via bluetooth in olandese, stampa anche la comunicazione."
+}

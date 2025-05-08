@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo ciclomotore di marca Cappa Ti e modello 792 con targa Effigie 234, tipo speciale, proveniente dalla Francia. L'infrazione è avvenuta il 18 aprile 2025 alle ore 13:19 in viale della Scienza, numero civico 14, per transito in zona di accesso vietato, violando l'articolo 42, comma 40 del codice civile. La decurtazione prevista è di un punto. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è necessaria tramite Bluetooth in olandese, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "tredici e diciannove",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "effigie duecentotrentaquattro",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "cappa ti e sette centonovantadue",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantadue",
+                    "comma": "quaranta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo ciclomotori di marca cappa ti e sette centonovantadue con targa effigie duecentotrentaquattro tipo speciale proveniente da francia fatto avvenuto il diciotto aprile duemilaventicinque alle ori tredici e diciannove posizione viale della scienza numero civico quattordici infrazione transito in zona accesso vietato in violazione dell'articolo quarantadue come quaranta del codice civile decurtazione prevista un punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite blu tutti in olandese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo ciclomotore di marca KTM 790 Duke, con targa FG234LM (tipo speciale), proveniente da francia. Fatto avvenuto il 18/04/2025 alle ore 13:19. Posizione: viale della Scienza, numero civico 14. Infrazione: transito in zona accesso vietato, in violazione dell'articolo 42, comma 40, del codice civile. Decurtazione prevista: 1 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite bluetooth in olandese, stampa anche la comunicazione. "
+}

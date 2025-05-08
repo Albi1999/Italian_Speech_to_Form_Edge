@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo motoveicolo di marca BMW Serie Uno con targa italiana. L'infrazione riguarda un parcheggio in divieto di sosta, avvenuta il 19 aprile 2025 alle 18:30 in via della Cultura, numero civico 9. La violazione è dell'articolo 40, comma 38 del codice stradale, con decurtazione prevista di punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è richiesta tramite Bluetooth in francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "diciotto e trenta",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "italia",
+                    "targa": "i sette centottantanove capannelle",
+                    "tipologia_targa": "tipo copertura",
+                    "marca_modello": "bmw serie uno",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tra i punti, before: decurtazione, after: impossibile",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per veicolo motoveicoli di marca bmw serie uno con targa i sette centottantanove capannelle tipo copertura proveniente da italia fatto avvenuto il diciannove aprile duemilaventicinque alle ore diciotto e trenta posizione via della cultura numero civico nove infrazione parcheggio in divieto di sosta in violazione dell'articolo quaranta comma trentotto del codice stradale decurtazione prevista tra i punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite blu tutti in francese non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo motoveicolo di marca BMW Serie 1, con targa IJ789KL (tipo copertura), proveniente da italia. Fatto avvenuto il 19/04/2025 alle ore 18:30. Posizione: via della Cultura, numero civico 9. Infrazione: parcheggio in divieto di sosta, in violazione dell'articolo 40, comma 38, del codice stradale. Decurtazione prevista: 3 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite bluetooth in francese, non stampare anche la comunicazione. "
+}

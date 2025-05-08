@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo immatricolato in Slovenia con targa speciale. La violazione è avvenuta in corso della libertà, civico sette, per parcheggio in zona a rimozione. Si applica l'articolo 44, comma 42 del codice penale. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. Verranno decurtati quattro punti. La stampa deve essere effettuata in portoghese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "slovenia",
+                    "targa": "fuggi duecentotrentaquattro kelly",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo chi canto motoveicoli immatricolati in slovenia con targa fuggi duecentotrentaquattro kelly di tipo speciale l'inflazione è avvenuta in corso della libertà civico sette parcheggio in zona a rimozione si applica l'articolo quarantaquattro comma quarantadue del codice penale a seguito della violazioni verranno decurtati quattro punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazioni immediata si prega di procedere con la stampa in portoghese tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Kia Picanto, motoveicolo immatricolato in slovenia con targa FG234LM di tipo speciale. L'infrazione è avvenuta in corso della Libertà, civico 7: parcheggio in zona rimozione. Si applica l'articolo 44, comma 42 del codice penale. A seguito della violazione verranno decurtati 4 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in portoghese tramite bluetooth, non stampare anche la comunicazione. "
+}

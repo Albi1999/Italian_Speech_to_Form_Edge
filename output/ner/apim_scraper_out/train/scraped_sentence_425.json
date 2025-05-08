@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 15 aprile 2025 alle ore 5:58 per un veicolo immatricolato in Germania con targa speciale. L'infrazione è avvenuta presso viale della scienza, civico 14, violando il codice civile, articolo 50, comma 48, riguardante il parcheggio in doppia fila. Sono stati decurtati 8 punti e non è necessaria alcuna sanzione accessoria. Il veicolo è un motoveicolo di colore nero. La stampa deve essere effettuata tramite Bluetooth in francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "cinque cinquantotto",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "germania",
+                    "targa": "jeff centoventitre giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "tooth aris",
+                    "colore": "nero"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquanta",
+                    "comma": "quarantotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il quindici aprile duemilaventicinque alle ore cinque cinquantotto sto mettendo una notifica di infrazione per il veicolo tooth aris motoveicoli immatricolati in germania con targa è jeff centoventitre giacca di tipo speciale l'infrazione si e verificata presso viale della scienza al civico quattordici violando il codice civile in particolare l'articolo cinquanta con ma quarantotto riguardante il parcheggio in doppia fila devo decurtare otto punti non è necessaria alcuna sanzione accessoria il molto veicolo e di colore nero con numero di telaio settecentoventi quattro milioni e settecentotrenta novemila cinquecento quarantadue massa tremilaseicentocinquanta tre chilogrammi stampa me lo con il blu tutti in francese non stampare anche la comunicazione",
+    "original_sentence": "Il 15/04/2025, alle ore 05:58, sto emettendo una notifica di infrazione per il veicolo Toyota Yaris, motoveicolo immatricolato in germania con targa EF123GH di tipo speciale. L'infrazione si è verificata presso viale della Scienza, al civico 14, violando il codice civile, in particolare l'articolo 50, comma 48 riguardante il parcheggio in doppia fila.Devo decurtare 8 punti. Non è necessaria alcuna sanzione accessoria. Il motoveicolo è di colore nero, con numero di telaio 724739542 e massa 3653 kg.Stampamelo con il bluetooth in francese, non stampare anche la comunicazione."
+}

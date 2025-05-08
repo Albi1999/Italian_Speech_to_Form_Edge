@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo Lancia Delta immatricolato in Germania con targa \"guerre novecentottanta sette se ti\" di tipo prova. L'infrazione è avvenuta in via della Musica, civico diciotto, per parcheggio in zona a rimozione. Si applica l'articolo quaranta, comma trentotto del codice penale, e verranno decurtati sette punti. Il verbale è stato contestato immediatamente dall'agente Chiara Romano. La stampa deve essere effettuata in olandese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "lancia delta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo lancia delta autovettura immatricolati in germania con targa guerre novecentottanta sette se ti di tipo prova l'infrazione è avvenuta in via della musica civico diciotto parcheggio in zona a rimozione si applica l'articolo quaranta comma trentotto del codice penale a seguito della violazione verranno decurtati sette punti il verbale è stato contestato immediatamente dall'agente chiara romano si prega di procedere con la stampa in olandese tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Lancia Delta, autovettura immatricolato in germania con targa QR987ST di tipo prova. L'infrazione è avvenuta in via della Musica, civico 18: parcheggio in zona rimozione. Si applica l'articolo 40, comma 38 del codice penale. A seguito della violazione verranno decurtati 7 punti. Il verbale è stato contestato immediatamente dall'agente Chiara Romano. Si prega di procedere con la stampa in olandese tramite bluetooth, non stampare anche la comunicazione. "
+}

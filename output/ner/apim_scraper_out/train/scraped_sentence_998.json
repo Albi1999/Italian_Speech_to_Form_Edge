@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale elevato il quattro maggio duemilaventicinque alle ore tre ventiquattro per una violazione del codice stradale. La violazione riguarda il transito in zona accesso vietato, rilevata in corso Buenos Aires al civico novantotto. Il veicolo coinvolto è una macchina agricola con targa immatricolata in Austria. Non è stato possibile effettuare la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di sette punti. La stampa del verbale è richiesta in lingua portoghese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "tre ventiquattro",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "austria",
+                    "targa": "i sette centottantanove cappello",
+                    "tipologia_targa": null,
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": null,
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data quattro maggio duemilaventicinque alle ore tre ventiquattro si eleva verbale al veicolo chi appiccando macchina agricola con targa i sette centottantanove cappello di tipo copertura immatricolati in austria per violazione dell'articolo centocinquantasette coma cinque del codice stradale ovvero transito in zona accesso vietato rilevata in corso buenos aires al civico novantotto non è stato possibile effettuare la contestazione immediata per assenza del trasgressori dalla violazione derivano sette punti di decurtazione stampa necessaria in lingua portoghese via tutte stampa anche la comunicazione",
+    "original_sentence": "In data 04/05/2025, alle ore 03:24, si eleva verbale al veicolo Kia Picanto, macchina agricola con targa IJ789KL di tipo copertura, immatricolato in austria, per violazione dell'articolo 157, comma 5 del codice stradale, ovvero transito in zona accesso vietato, rilevata in corso Buenos Aires, al civico 98. Non è stato possibile effettuare la contestazione immediata, per assenza del trasgressore. Dalla violazione derivano 7 punti di decurtazione. Stampa necessaria in lingua portoghese via bluetooth, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il sette aprile duemilaventicinque alle ore tre trentatré per un rimorchio con targa copertura immatricolato in Germania. L'infrazione è stata rilevata in piazza Venezia al civico uno, violando il codice penale articolo dodici comma dieci, per parcheggio in doppia fila. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare dieci punti. Il veicolo è un Si Tronchi Quattro Yacht di colore grigio. La stampa del preavviso è richiesta tramite Bluetooth in spagnolo, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "tre trentatré",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "io sei centocinquantaquattro chi lo litri",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "si tronchi quattro yacht",
+                    "colore": "grigio"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data sette aprile duemilaventicinque alle ore tre trentatré è stato notificato un preavviso per un rimorchio targato io sei centocinquantaquattro chi lo litri con targa copertura immatricolati in germania l'infrazione è stata rilevata in piazza venezia al civico uno con violazione del codice penale articolo dodici comma dieci in particolare si e riscontrato un parcheggio in doppia fila non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono dieci punti il veicolo è un si tronchi quattro yacht di colore grigio con numero di telaio novecento venticinque milioni e trecentodue ottomila sei centotrentacinque massa tremiladuecento sessantaquattro chilogrammi necessita la stampa del preavviso tramite blu tutta in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "In data 07/04/2025, alle ore 03:33, è stato notificato un preavviso per un rimorchio targato IJ654KL con targa copertura, immatricolato in germania. L'infrazione è stata rilevata in piazza Venezia, al civico 1, con violazione del codice penale, articolo 12, comma 10, in particolare si è riscontrato un parcheggio in doppia fila Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 10 punti. Il veicolo è un Citroen C4 Cactus di colore grigio, con numero di telaio 925318635 e massa 3264 kg.Necessito la stampa del preavviso tramite bluetooth, in spagnolo, non stampare anche la comunicazione."
+}

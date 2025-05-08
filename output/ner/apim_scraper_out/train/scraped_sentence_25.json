@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo registrato in Svizzera, con targa \"guerre centoventitre\". L'infrazione è avvenuta il 2 maggio 2025 alle 3:22 in via Giuseppe Mazzini, civico 24, per transito in zona accesso vietato. La violazione è in base all'articolo 6, comma 1, del codice civile, comportando una decurtazione di 2 punti. La stampa dell'avviso è richiesta via Bluetooth in olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "tre ventidue",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "svizzera",
+                    "targa": "guerre centoventitre",
+                    "tipologia_targa": null,
+                    "marca_modello": "chapas a chi zitta seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sei",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo chapas a chi zitta seicentocinquanta molto veicolo targato guerre centoventitre se ti con targa copertura registrato in svizzera per un fatto accaduto il due maggio duemilaventicinque alle tre ventidue il veicolo si trovava in via giuseppe mazzini al civico ventiquattro dove è stato riscontrato transito in zona accesso vietato in base all'articolo sei con ma prima uno dodici del codice civile questa infrazione comporta una decurtazione di due punti genere alla stampa dell'avviso via blu tutti in olandese non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Kawasaki Z650, motoveicolo, targato QR123ST con targa copertura, registrato in svizzera,  per un fatto accaduto il 02/05/2025 alle 03:22. Il veicolo si trovava in via Giuseppe Mazzini, al civico 24, dove è stato riscontrato transito in zona accesso vietato, in base all'articolo 6, comma 1a(1-12), del codice civile. Questa infrazione comporta una decurtazione di 2 punti.  Genera la stampa dell'avviso via bluetooth in olandese, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo Ford Fiesta con targa ufficiale proveniente dal Portogallo. La violazione è avvenuta il 23 aprile 2025 alle ore 9:52 per parcheggio in zona rimozione in viale della Concordia, numero 13, violando l'articolo 7, comma 15 del codice civile. Sono previsti sei punti di decurtazione. Si richiede la stampa del preavviso tramite WiFi in lingua francese e anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "nove cinquantadue",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "portogallo",
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "ford fiesta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo autovettura marca ford fiesta targato i sette centottantanove chi lo litri di tipo ufficiale proveniente da portogallo in data ventitré aprile duemilaventicinque alle ore nove cinquantadue e stata rilevata alla violazione di parcheggio in zona a rimozione in viale della concordia al numero tredici invase all'articolo sette comma quindici del codice civile per tale infrazione sono previsti sei punti di decurtazione si richiede la stampa del preavviso tramite wifi in lingua francese stampa anche la comunicativa",
+    "original_sentence": "Emissione di preavviso per il veicolo autovettura, marca Ford Fiesta, targato IJ789KL di tipo ufficiale, proveniente da portogallo. In data 23/04/2025 alle ore 09:52, è stata rilevata la violazione di parcheggio in zona rimozione in viale della Concordia, al numero 13, in base all'articolo 7, comma 15 del codice civile.Per tale infrazione sono previsti 6 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua francese, stampa anche la comunicazione."
+}

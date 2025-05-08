@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un'infrazione di parcheggio commessa da un veicolo Peugeot 208 con targa ufficiale austriaca. L'infrazione è avvenuta il 10 aprile 2025 alle ore 1:21 in Corso della Libertà, civico 7. La violazione riguarda il parcheggio davanti a un passo carraio, secondo l'articolo 10 del codice penale, con una decurtazione di 10 punti. Si richiede la stampa del preavviso in portoghese via Hawaii, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "un e ventuno",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "i ehi sei centocinquantaquattro capelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "peggior duecentotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "dieci",
+                    "comma": "motto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo peggior duecentotto autovettura targa i ehi sei centocinquantaquattro capelli di tipo ufficiale proveniente da austria il giorno dieci aprile duemilaventicinque alle ore un e ventuno in corso della libertà al numero civico sette e stata commessa l'infrazione di parcheggio davanti a passo carabine come previsto dall'articolo dieci con motto del codice penale per questa violazione sono previsti dieci punti di decurtazione chiedo la stampa del preavviso in portoghese via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Peugeot 208 autovettura, targa IJ654KL di tipo ufficiale, proveniente da austria. Il giorno 10/04/2025, alle ore 01:21, in corso della Libertà, al numero civico 7, è stata commessa l'infrazione di parcheggio davanti a passo carrabile, come previsto dall'articolo 10, comma 8, del codice penale. Per questa violazione sono previsti 10 punti di decurtazione. Chiedo la stampa del preavviso in portoghese via wifi, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il cinque maggio duemilaventicinque alle ore mezzanotte e ventuno. È stato elevato un verbale al veicolo con targa giacca sette centottantanove, immatricolato in Belgio, per violazione dell'articolo quarantasette comma quarantacinque del codice civile. La violazione è stata rilevata in via della pace al civico due. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di otto punti. La stampa è richiesta in lingua inglese e include anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "mezzanotte e ventuno",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "belgio",
+                    "targa": "giacca sette centottantanove",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "l'espace",
+                    "colore": "scheletro"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: derivano, after: decurtazione",
+            "tipo_stampa": "about you",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data cinque maggio duemilaventicinque alle ore mezzanotte e ventuno si eleva verbale al veicolo scheletro l'espace molto veicolo con targa giacca sette centottantanove di tipo copertura immatricolati in belgio per violazione dell'articolo quarantasette comma quarantacinque del codice civile o vero parcheggio in zona a rimozione rilevata in via della pace al civico due non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano otto punti di decurtazione stampa necessaria in lingua inglese via about you stampa anche la comunicativa",
+    "original_sentence": "In data 05/05/2025, alle ore 00:21, si eleva verbale al veicolo Chevrolet Spark, motoveicolo con targa GH789IJ di tipo copertura, immatricolato in belgio, per violazione dell'articolo 47, comma 45 del codice civile, ovvero parcheggio in zona rimozione, rilevata in via della Pace, al civico 2.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 8 punti di decurtazione. Stampa necessaria in lingua inglese via bluetooth, stampa anche la comunicazione."
+}

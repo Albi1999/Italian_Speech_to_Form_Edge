@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 13 aprile 2025 alle 17:30 per una violazione del codice stradale. La violazione è stata accertata in corso Italia, civico 30, per parcheggio in divieto di sosta. Il veicolo coinvolto è una macchina agricola con targa ufficiale immatricolata in Croazia. Sono previsti cinque punti da decurtare. La contestazione è stata effettuata immediatamente dall'agente Silvia Neri, e il verbale è stato redatto sul posto. Non è stata applicata alcuna sanzione accessoria. La stampa del verbale è stata effettuata tramite Wi-Fi in lingua spagnola, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "diciassette trenta",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "croazia",
+                    "targa": "i sei centocinquantaquattro chilometri",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "diciannove",
+                    "comma": "diciassette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle diciassette trenta del tredici aprile duemilaventicinque storie di gendo un verbale per il veicolo macchina agricola targato i sei centocinquantaquattro chilometri con targa ufficiale immatricolati in croazia infrazione stata accertata in corso italia al civico trenta con violazione del codice stradale articolo diciannove con ma diciassette per parcheggio in divieto di sosta sono previsti cinque punti da decurtare contestazione immediata effettuata dalla gente silvia neri il verbale e statore d'atto sul posto in corso italia non posso applicare alcuna sanzione accessoria stampa tramite vuoi fai in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Alle 17:30 del 13/04/2025, sto redigendo un verbale per il veicolo macchina agricola targato IJ654KL con targa ufficiale, immatricolato in croaziaL'infrazione è stata accertata in corso Italia, al civico 30, con violazione del codice stradale, articolo 19,comma 17 per parcheggio in divieto di sosta Sono previsti 5 punti da decurtare. Contestazione immediata effettuata dall'agente Silvia Neri, il verbale è stato redatto sul posto in corso Italia. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in spagnolo, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo Royal intercettori seicentocinquanta rimorchio con targa speciale proveniente dall'Olanda. L'infrazione è avvenuta il cinque maggio duemilaventicinque alle ore sedici e trentuno in via della Libertà, civico tre, per parcheggio davanti a passo carabine, violando l'articolo quarantaquattro comma quarantadue del codice civile. Sono previsti cinque punti di decurtazione. Si richiede la stampa del preavviso in portoghese via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "sedici e trentuno",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "olanda",
+                    "targa": "ci di centoventitre abby",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "royal intercettori seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: previsti, after: punti",
+            "tipo_stampa": "brutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo royal è infili intercettori seicentocinquanta rimorchio targa ci di centoventitre abby di tipo speciale proveniente da olanda il giorno cinque maggio duemilaventicinque alle ore sedici e trentuno in via della libertà al numero civico tre e stata commessa l'infrazione di parcheggio davanti a passo carabine come previsto dall'articolo quarantaquattro comma quarantadue del codice civile per questa violazione sono previsti cinque punti di decurtazione chiedo la stampa del preavviso in portoghese via brutte non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Royal Enfield Interceptor 650 rimorchio, targa CD123AB di tipo speciale, proveniente da olanda. Il giorno 05/05/2025, alle ore 16:31, in via della Libertà, al numero civico 3, è stata commessa l'infrazione di parcheggio davanti a passo carrabile, come previsto dall'articolo 44, comma 42, del codice civile. Per questa violazione sono previsti 5 punti di decurtazione. Chiedo la stampa del preavviso in portoghese via bluetooth, non stampare anche la comunicazione. "
+}

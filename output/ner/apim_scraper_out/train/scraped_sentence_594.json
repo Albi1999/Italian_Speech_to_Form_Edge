@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 17 aprile 2025 alle 22:41 per un'infrazione accertata in via Venti Settembre, civico 5. Il veicolo coinvolto è una macchina agricola con targa ufficiale italiana. La violazione riguarda il codice civile, articolo 14, comma 12, per parcheggio in doppia fila, con una decurtazione di quattro punti. La contestazione è stata immediata, effettuata dall'agente Matteo Gallo, senza sanzioni accessorie. La stampa del verbale è stata effettuata tramite WiFi, in lingua tedesca, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "ventidue quarantuno",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "italia",
+                    "targa": "icsi ypsilon trecentoventi uno zio",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattordici",
+                    "comma": "dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "wiki",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle ventidue quarantuno del diciassette aprile duemilaventicinque storie di un verbale per il veicolo macchina agricola targato icsi ypsilon trecentoventi uno zio con targa ufficiale immatricolati in italia l'infrazione è stata accertata in via venti settembre al civico cinque con violazione del codice civile articolo quattordici comma dodici per parcheggia in doppia fila sono previsti quattro punti da decurtare contestazione immediata effettuata dalla gente matteo gallo il verbale è stato redatto sul posto in via venti settembre non posso applicare alcuna sanzione accessoria stampa tramite wiki fai in tedesco non stampare anche la comunicazione",
+    "original_sentence": "Alle 22:41 del 17/04/2025, sto redigendo un verbale per il veicolo macchina agricola targato XY321ZA con targa ufficiale, immatricolato in italiaL'infrazione è stata accertata in via XX Settembre, al civico 5, con violazione del codice civile, articolo 14,comma 12 per parcheggio in doppia fila Sono previsti 4 punti da decurtare. Contestazione immediata effettuata dall'agente Matteo Gallo, il verbale è stato redatto sul posto in via XX Settembre. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in tedesco, non stampare anche la comunicazione. "
+}

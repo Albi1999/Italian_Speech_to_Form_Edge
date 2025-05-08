@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo macchina agricola di marca 'ma meticce sette' con targa 'guerra sei centocinquantaquattro', tipo ufficiale, proveniente dalla Germania. L'infrazione è avvenuta il 20 aprile 2025 alle ore 18:54 in via del Corso, numero civico 12, per transito in zona ad accesso vietato, violando l'articolo 14 comma 12 del codice civile. La decurtazione prevista è di sei punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa è necessaria tramite Wi-Fi in olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "diciotto e cinquantaquattro",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "guerra sei centocinquantaquattro",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "ma meticce sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattordici",
+                    "comma": "dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: prevista, after: punti",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo macchina agricola di marca ma meticce sette con targa guerra sei centocinquantaquattro e se ti tipo ufficiale proveniente da germania fatto avvenuto il venti aprile duemilaventicinque alle ore diciotto e cinquantaquattro posizione via del corso numero civico dodici infrazione transito in zona accesso vietato in violazione dell'articolo quattordici comma dodici del codice civile decurtazione prevista sei punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite vuoi fa in olandese non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo macchina agricola di marca Yamaha MT-07, con targa QR654ST (tipo ufficiale), proveniente da germania.  Fatto avvenuto il 20/04/2025 alle ore 18:54. Posizione: via del Corso, numero civico 12. Infrazione: transito in zona accesso vietato, in violazione dell'articolo 14, comma 12, del codice civile. Decurtazione prevista: 6 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite wifi in olandese, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 15 aprile 2025 alle ore 23:14 in via della Storia, civico 6. La violazione riguarda un veicolo Lancia Delta, macchina operatrice con targa JEFF 789, immatricolato in Italia, parcheggiato su strisce pedonali. La contestazione è avvenuta immediatamente da parte dell'agente Carlo Bruni. Sono previsti quattro punti di decurtazione. Si richiede la stampa in lingua spagnola via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "ventitré quattordici",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "italia",
+                    "targa": "jeff sette centottantanove",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "lancia delta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: previsti, after: di",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il quindici aprile duemilaventicinque alle ore ventitré quattordici in via della storia al civico sei a carico del veicolo lancia delta macchina operatrice con targa è jeff sette centottantanove giacca di tipo ufficiale immatricolati in italia la violazione contestata e parcheggio su strisce pedonali in base all'articolo tre comma uno del codice civile la contestazione avvenuta immediatamente da parte della gente carlo bruni sono previsti quattro punti di decurtazione si richiede la stampa in lingua spagnolo via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 15/04/2025 alle ore 23:14 in via della Storia, al civico 6, a carico del veicolo Lancia Delta, macchina operatrice con targa EF789GH di tipo ufficiale, immatricolato in italia. La violazione contestata è parcheggio su strisce pedonali, in base all'articolo 3, comma 1 del codice civile.La contestazione è avvenuta immediatamente da parte dell'agente Carlo Bruni. Sono previsti 4 punti di decurtazione. Si richiede la stampa in lingua spagnolo via bluetooth, non stampare anche la comunicazione."
+}

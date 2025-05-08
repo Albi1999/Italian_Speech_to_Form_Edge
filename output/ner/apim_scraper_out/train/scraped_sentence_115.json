@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il nove aprile 2025 alle ore 1:41 per una violazione riscontrata su un veicolo ciclomotore marca Fiat, targato \"un vi centoventitre doppia ex\", proveniente dalla Croazia. La violazione riguarda il parcheggio in divieto di sosta in via del Corso, civico 12, in violazione dell'articolo 40, comma 38 del codice penale. L'agente Elena Fontana ha proceduto con contestazione immediata e si prevede la decurtazione di cinque punti dalla patente. È richiesta la stampa in tedesco via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "una e quarantuno",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "un vi centoventitre doppia ex",
+                    "tipologia_targa": null,
+                    "marca_modello": "fiat tipo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: decurtazione, after: punti",
+            "tipo_stampa": "about",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data a nove aprile duemilaventicinque alle ore una e quarantuno per la violazione riscontrata al veicolo ciclomotori marca fiat tipo targato un vi centoventitre doppia ex tipo copertura proveniente da croazia in particolare in via del corso civico dodici è stato accertato parcheggio in divieto di sosta in violazione dell'articolo quaranta comma trentotto del codice penale l'agente elena fontana proceduto con contestazione immediata si prevede la decurtazione di cinque punti dalla patente richiedo la stampa in tedesco via about non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 09/04/2025 alle ore 01:41 per la violazione riscontrata al veicolo ciclomotore, marca Fiat Tipo, targato UV123WX (tipo copertura) proveniente da croazia. In particolare, in via del Corso, civico 12, è stato accertato parcheggio in divieto di sosta, in violazione dell'articolo 40, comma 38 del codice penale. L'agente Elena Fontana ha proceduto con contestazione immediata. Si prevede la decurtazione di 5 punti dalla patente. Richiedo la stampa in tedesco via bluetooth, non stampare anche la comunicazione."
+}

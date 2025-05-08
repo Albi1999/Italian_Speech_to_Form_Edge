@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 21 aprile 2025 alle ore 17:24 per un veicolo immatricolato in Spagna con targa \"pelle trecentoventi uno megan new tony\". L'infrazione è avvenuta in via Etna, civico 45, violando il codice penale, articolo 1228, comma 16, riguardante il parcheggio su strisce pedonali. Sono stati decurtati tre punti. Il veicolo è un ciclomotore di colore oro. La stampa deve essere effettuata tramite Wi-Fi in lingua olandese, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "diciassette ventiquattro",
+            "Strada_1": "via etna",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "spagna",
+                    "targa": "pelle trecentoventi uno megan new tony",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "fox vaga in golf",
+                    "colore": "oro"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "milleduecento ventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventuno aprile duemilaventicinque alle ore diciassette ventiquattro sto mettendo una notifica di infrazione per il veicolo fox vaga in golf ciclomotori e immatricolati in spagna con targa pelle trecentoventi uno megan new tony di tipo prova l'infrazione si e verificata presso via etna al civico quarantacinque violando il codice penale in particolare l'articolo milleduecento ventotto comma sedici riguardante il parcheggio su strisce pedonali devo decurtare tre punti non è necessaria alcuna sanzione accessoria il ciclomotori di colore oro con numero di telaio seicentotrenta milioni e ottocentoquarantasei mila centosettantuno e massa tremilanovecento cinque chilogrammi stampa me lo con il vuoi fa in olandese non stampare anche la comunicazione",
+    "original_sentence": "Il 21/04/2025, alle ore 17:24, sto emettendo una notifica di infrazione per il veicolo Volkswagen Golf, ciclomotore immatricolato in spagna con targa KL321MN di tipo prova. L'infrazione si è verificata presso via Etnea, al civico 45, violando il codice penale, in particolare l'articolo 1228, comma 16 riguardante il parcheggio su strisce pedonali.Devo decurtare 3 punti. Non è necessaria alcuna sanzione accessoria. Il ciclomotore è di colore oro, con numero di telaio 630846171 e massa 3905 kg.Stampamelo con il wifi in olandese, non stampare anche la comunicazione."
+}

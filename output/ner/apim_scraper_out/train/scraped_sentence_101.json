@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a una violazione stradale. Il veicolo coinvolto è una macchina operatrice di tipo speciale, targata 'guerre novecentottanta sette se ti', proveniente dalla Francia e di marca 'onda'. La violazione riguarda il parcheggio in zona a rimozione, avvenuta il 30 aprile 2025 alle ore 5:38 in corso della Giustizia, numero civico 23. L'infrazione è classificata sotto l'articolo 44, comma 42 del codice stradale. La contestazione è stata immediata, eseguita dall'agente Luca Verdi. La sanzione comporta la perdita di uno punto. La stampa è richiesta in lingua italiana tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "cinque trentotto",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "francia",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "onda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrice targato guerre novecentottanta sette se ti di tipo speciale proveniente da francia marca onda arrivi la violazione ovvero parcheggio in zona a rimozione sia e verificata in data a trenta aprile duemilaventicinque alle ore cinque trentotto in corso della giustizia al numero ventitré l'infrazione rientra nell'articolo quarantaquattro comma quarantadue del codice stradale contestazione immediata da parte della gente luca verdi la sanzione prevede la perdita di uno punti si richiede la stampa in lingua italiano tramite blu non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato QR987ST di tipo speciale proveniente da francia, marca Honda HR-V. La violazione, ovvero parcheggio in zona rimozione, si è verificata in data 30/04/2025 alle ore 05:38 in corso della Giustizia, al numero 23. L'infrazione rientra nell'articolo 44, comma 42 del codice stradale. Contestazione immediata da parte dell'agente Luca Verdi. La sanzione prevede la perdita di 1 punti. Si richiede la stampa in lingua italiano, tramite bluetooth, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo rimorchio proveniente dalla Croazia, targato \"me ne quattrocentocinquanta sei oppido\". La violazione riguarda il parcheggio in zona a rimozione in corso Vittorio Emanuele, numero civico quindici, avvenuta il nove aprile duemilaventicinque alle ore quindici e cinquantasette. La violazione è in base all'articolo quarantanove, comma quarantasette del codice civile, con una decurtazione di sei punti. Si richiede la stampa del preavviso tramite Wi-Fi in lingua spagnola, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "quindici cinquantasette",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "me ne quattrocentocinquanta sei oppido",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "chi ha pianto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantanove",
+                    "comma": "quarantasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: di",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo rimorchio marca chi ha pianto targato me ne quattrocentocinquanta sei oppido tipo copertura proveniente da croazia in data nove aprile duemilaventicinque alle ore quindici cinquantasette e stata rilevata la violazione di parcheggio in zona a rimozione in corso vittorio emanuele al numero quindici in base alle articolo quarantanove con ma quarantasette del codice civile per tale infrazione sono previsti sei punti di decurtazione si richiede la stampa del preavviso tramite guai fai in lingua spagnolo stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo rimorchio, marca Kia Picanto, targato MN456OP di tipo copertura, proveniente da croazia. In data 09/04/2025 alle ore 15:57, è stata rilevata la violazione di parcheggio in zona rimozione in corso Vittorio Emanuele, al numero 15, in base all'articolo 49, comma 47 del codice civile. Per tale infrazione sono previsti 6 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua spagnolo, stampa anche la comunicazione. "
+}

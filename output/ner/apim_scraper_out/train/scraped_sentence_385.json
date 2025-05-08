@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Dacia Sandy, immatricolato in Germania, per un'infrazione commessa il 20 aprile 2025 alle ore 10:05 in viale della Libertà, civico 22. La violazione riguarda il parcheggio in doppia fila ai sensi dell'articolo 5, comma 3 del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di tre punti. È richiesta la stampa in italiano via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "dieci e cinque",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "trecentoventi uno più",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "dacia sandy",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo dacia sandy ero macchina agricola targa trecentoventi uno più di tipo copertura immatricolati in germania per infrazione commessa in data venti aprile duemilaventicinque ore dieci e cinque inviarle della libertà civico ventidue è stato rilevato parcheggia in doppia fila ai sensi dell'articolo cinque con tre del codice civile impossibile effettuare la contestazione immediata vista l'assenza del trasgressori la violazione comporta la decurtazione di tre punti richiesta stampa in italiano via blu tutta stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Dacia Sandero macchina agricola, targa MN321OP di tipo copertura, immatricolato in germania, per infrazione commessa in data 20/04/2025, ore 10:05. In viale della Libertà, civico 22, è stato rilevato parcheggio in doppia fila, ai sensi dell'articolo 5, comma 3, del codice civile.Impossibile effettuare la contestazione immediata vista l'assenza del trasgressore. La violazione comporta la decurtazione di 3 punti. Richiesta stampa in italiano via bluetooth, stampa anche la comunicazione."
+}

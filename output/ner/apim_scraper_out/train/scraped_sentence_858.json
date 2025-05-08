@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo immatricolato in Olanda, con targa \"house i centocinquantaquattro doppia winx\". L'infrazione è avvenuta il 29 aprile 2025 alle ore 22:03 in corso della Libertà, civico 7, per parcheggio in doppia fila. La violazione è ai sensi dell'articolo 29, comma 27 del codice penale. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di 8 punti. La stampa è richiesta in portoghese via Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "ventidue tre",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "olanda",
+                    "targa": "house i centocinquantaquattro doppia winx",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "peggior duemilaotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo peggior duemilaotto autovettura targa house i centocinquantaquattro doppia winx di tipo speciale immatricolati in olanda per infrazione commessa in data ventinove aprile duemilaventicinque ore ventidue tre di in corso della libertà civico sette è stato rilevato parcheggia in doppia fila ai sensi dell'articolo ventinove con ma ventisette del codice penale impossibile effettuare la contestazione immediata assenza del trasgressori la violazione comporta la decurtazione di otto punti richiesta stampa in portoghese via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Peugeot 2008 autovettura, targa UV654WX di tipo speciale, immatricolato in olanda, per infrazione commessa in data 29/04/2025, ore 22:13. In corso della Libertà, civico 7, è stato rilevato parcheggio in doppia fila, ai sensi dell'articolo 29, comma 27, del codice penale. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 8 punti. Richiesta stampa in portoghese via bluetooth, non stampare anche la comunicazione. "
+}

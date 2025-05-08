@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo ciclomotore marca Dacia Sandy, targato ICSI Ypsilon 987.5, di tipo ufficiale, proveniente dalla Croazia. L'infrazione è stata rilevata il 14 aprile 2025 alle ore 15:00 in via della Storia, civico 6, per transito in zona accesso vietato, violando l'articolo 39, comma 37 del codice civile. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la perdita di 7 punti. Si richiede la stampa del verbale in inglese tramite Bluetooth, stampando anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "quindi",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "icsi ypsilon novecentottanta sette e mezza",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "dacia sandy",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo ciclomotori marca dacia sandy ero targato icsi ypsilon novecentottanta sette e mezza di tipo ufficiale proveniente da croazia l'infrazione e stata rilevata il quattordici aprile duemilaventicinque alle ore quindi il veicolo si trovava in via della storia al civico sei in transito in zona accesso vietato violando l'articolo trentanove con ma trentasette del codice civile non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazione comporta la perdita di sette punti richiedo la stampa del verbale in inglese tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo ciclomotore, marca Dacia Sandero, targato XY987ZA (di tipo ufficiale), proveniente da croazia. L'infrazione è stata rilevata il 14/04/2025 alle ore 15:00. Il veicolo si trovava in via della Storia, al civico 6, in transito in zona accesso vietato, violando l'articolo 39, comma 37, del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 7 punti. Richiedo la stampa del verbale in inglese tramite bluetooth, stampa anche la comunicazione. "
+}

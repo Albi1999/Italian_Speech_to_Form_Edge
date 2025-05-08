@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un motoveicolo marca Seat Ibiza, targa CI DI 450 6 FEDI, immatricolato in Svizzera. La violazione è avvenuta il 12 aprile 2025 alle ore 12:18 in via del Corso, civico 12, per parcheggio in divieto di sosta. La violazione riguarda l'articolo 7, comma 15 del codice civile, con conseguente perdita di due punti. La stampa del verbale è richiesta in modalità WiFi e in lingua portoghese, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "dodici e diciotto",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "svizzera",
+                    "targa": "ci di quattrocentocinquanta sei fedi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "seat ibiza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per motoveicoli marca seat ibiza targa ci di quattrocentocinquanta sei fedi tipo copertura immatricolati in svizzera in data dodici aprile duemilaventicinque alle ore dodici e diciotto in via del corso al civico dodici e stata commessa la seguente violazione parcheggiato in divieto di sosta articolo sette con ma quindici del codice civile dalla violazione con segue la perdita di due punti stampa in modalità vuoi fai in lingua portoghese non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per motoveicolo, marca Seat Ibiza, targa CD456EF di tipo copertura, immatricolato in svizzera. In data 12/04/2025 alle ore 12:18, in via del Corso, al civico 12, è stata commessa la seguente violazione: parcheggio in divieto di sosta (articolo 7, comma 15 del codice civile). Dalla violazione consegue la perdita di 2 punti. Stampa in modalità wifi e in lingua portoghese, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un'infrazione commessa da un veicolo Alfa Romeo Giulietta con targa speciale immatricolata in Grecia. L'infrazione è avvenuta il 25 aprile 2025 alle 12:11 in via Roma, numero 77, per transito in zona accesso vietato. L'articolo violato è il 53 comma 51 del codice civile, con la decurtazione di 1 punto dalla patente. La stampa del verbale è richiesta via Hawaii in lingua spagnola, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "mezzogiorno e undici",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "grecia",
+                    "targa": "ubi quattrocentocinquanta sei doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "alfa romeo giulietta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo alfa romeo e giulietta autovettura con targa ubi quattrocentocinquanta sei doppia ex di tipo speciale immatricolati in grecia per un'infrazione commessa il venticinque aprile duemilaventicinque alle mezzogiorno e undici l'infrazione è avvenuta in via roma al numero settantasette dove il veicolo era in transito in zona accesso vietato l'articolo violato è il cinquantatré comma cinquantuno del codice civile verranno tolti uno punti dalla patente stampa questo verbale via hawaii fa in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Alfa Romeo Giulietta, autovettura con targa UV456WX di tipo speciale, immatricolato in grecia, per un'infrazione commessa il 25/04/2025 alle 12:11. L'infrazione è avvenuta in via Roma, al numero 77, dove il veicolo era in transito in zona accesso vietato.  L'articolo violato è il 53, comma 51 del codice civile. Verranno tolti 1 punti dalla patente. Stampa questo verbale via wifi in spagnolo, non stampare anche la comunicazione."
+}

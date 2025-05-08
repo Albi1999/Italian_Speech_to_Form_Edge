@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per una violazione accertata il 10 aprile 2025 alle ore 11:27 in via della Giustizia, civico 16. La violazione riguarda un veicolo ciclomotore con targa E381G, immatricolato in Italia, per parcheggio in doppia fila secondo l'articolo 49, comma 47 del codice civile. La contestazione è avvenuta immediatamente da parte dell'agente Giulia Costa. Sono previsti sette punti di decurtazione. Si richiede la stampa in lingua spagnola via Bluetooth e la stampa anche della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbali",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "undici e ventisette",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "italia",
+                    "targa": "è trecentottantuno giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantanove",
+                    "comma": "quarantasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbali per violazioni accertata il dieci aprile duemilaventicinque alle ore undici e ventisette in via della giustizia al civico sedici a carico del veicolo chi ha ti canto ciclomotori con targa è trecentottantuno giacca di tipo prova immatricolati in italia la violazione contestata hai parcheggiato in doppia fila in base a l'articolo quarantanove coma quarantasette del codice civile la contestazione e avvenuta immediatamente da parte della gente giulia costa sono previsti sette i punti di decurtazione si richiede la stampa in lingua spagnolo via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 10/04/2025 alle ore 11:27 in via della Giustizia, al civico 16, a carico del veicolo Kia Picanto, ciclomotore con targa EF321GH di tipo prova, immatricolato in italia. La violazione contestata è parcheggio in doppia fila, in base all'articolo 49, comma 47 del codice civile. La contestazione è avvenuta immediatamente da parte dell'agente Giulia Costa. Sono previsti 7 punti di decurtazione. Si richiede la stampa in lingua spagnolo via wifi, stampa anche la comunicazione. "
+}

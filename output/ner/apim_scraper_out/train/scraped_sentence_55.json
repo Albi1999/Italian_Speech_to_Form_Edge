@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo immatricolato in Croazia. La violazione è avvenuta il primo maggio 2025 alle ore 16:52 in via della Storia, civico 6, per parcheggio su strisce pedonali. La violazione è in base all'articolo 50, comma 48 del codice civile, con una decurtazione di 3 punti. Si richiede la stampa del preavviso in lingua spagnola tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "sedici e cinquantadue",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "severo lei spark",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquanta",
+                    "comma": "quarantotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: di",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo macchina operatrice marca severo lei spark targa guerre novecentottanta sette se ti di tipo copertura immatricolati in croazia la violazione è avvenuta il primo maggio duemilaventicinque alle ore sedici e cinquantadue in via della storia al numero civico sei ed è relativa a parcheggio su strisce pedonali in base all'articolo cinquanta comma quarantotto del codice civile per tale violazione sono previsti tre punti di decurtazione si richiede la stampa di tale preavviso in lingua spagnolo tramite blu tutta stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo macchina operatrice, marca Chevrolet Spark, targa QR987ST di tipo copertura, immatricolato in croazia. La violazione è avvenuta il 01/05/2025 alle ore 16:52 in via della Storia, al numero civico 6, ed è relativa a parcheggio su strisce pedonali, in base all'articolo 50, comma 48 del codice civile.Per tale violazione sono previsti 3 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua spagnolo tramite bluetooth, stampa anche la comunicazione."
+}

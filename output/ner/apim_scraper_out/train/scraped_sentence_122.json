@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un preavviso di violazione per un veicolo proveniente dall'Austria, che ha commesso un'infrazione parcheggiando su strisce pedonali. La violazione è avvenuta il 7 aprile 2025 alle ore 1:11 in viale della stazione, numero 4. L'articolo violato è il 47, comma 45 del codice civile, e comporta una decurtazione di 4 punti. La stampa richiesta è in lingua italiana, modalità Hawaii, e non include la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "una e undici",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "austria",
+                    "targa": "jeff centoventitre giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "se l'espace",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa è jeff centoventitre giacca di tipo prova marca se l'espace proveniente da austria l'infrazione nello specifico parcheggio su strisce pedonali sia e verificata in data sette aprile duemilaventicinque alle ore una e undici in viale della stazione al numero quattro articolo quarantasette comma quarantacinque del codice civile si comunica che dalla violazione conseguirà una decurtazione di quattro punti si richiede la stampa in lingua italiano modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa EF123GH di tipo prova, marca Chevrolet Spark, proveniente da austria. L'infrazione, nello specifico parcheggio su strisce pedonali, si è verificata in data 07/04/2025 alle ore 01:11 in viale della Stazione, al numero 4 (articolo 47, comma 45 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 4 punti.Si richiede la stampa in lingua italiano, modalità wifi, non stampare anche la comunicazione."
+}

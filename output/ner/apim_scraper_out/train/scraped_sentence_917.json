@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 29 aprile 2025 alle ore 3:41 per un veicolo immatricolato in Svizzera con targa Y 987. L'infrazione si è verificata presso viale della Scienza, civico 14, violando il codice civile, articolo 157, comma 5, riguardante il parcheggio in zona a rimozione. Sono stati decurtati 10 punti e applicata una sanzione accessoria. Il veicolo è una macchina agricola di colore giallo. La stampa è richiesta tramite WiFi in portoghese, senza comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "tre quarantuno",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "ypsilon novecentottanta sette",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": "giallo"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "guai fa",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventinove aprile duemilaventicinque alle ore tre quarantuno sto mettendo una notifica di infrazione per i veicolo tra i un stai che ottocentocinquanta sport macchina agricola immatricolati in svizzera con targa è ypsilon novecentottanta sette di tipo copertura l'infrazione si e verificata presso viale della scienza al civico quattordici violando il codice civile in particolare l'articolo centocinquantasette coma cinque riguardante il parcheggio in zona a rimozione devo decurtare dieci punti applico una sanzione accessoria in base alle circostanze il macchina agricole di colore giallo con numero di telaio uno sei tre sette cinque sei uno tre otto e massa tremilaquattrocento ottantanove chi li stampa me lo con in guai fa in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Il 29/04/2025, alle ore 03:41, sto emettendo una notifica di infrazione per il veicolo Triumph Tiger 850 Sport, macchina agricola immatricolato in svizzera con targa XY987ZA di tipo copertura. L'infrazione si è verificata presso viale della Scienza, al civico 14, violando il codice civile, in particolare l'articolo 157, comma 5 riguardante il parcheggio in zona rimozione. Devo decurtare 10 punti. Applico una sanzione accessoria in base alle circostanze. Il macchina agricola è di colore giallo, con numero di telaio 163756138 e massa 3489 kg. Stampamelo con il wifi in portoghese, non stampare anche la comunicazione. "
+}

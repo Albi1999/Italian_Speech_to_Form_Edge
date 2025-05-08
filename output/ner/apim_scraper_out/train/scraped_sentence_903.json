@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo targato \"ad quattrocentocinquanta sei ci di\" con targa prova registrato in Austria. L'infrazione è avvenuta il ventiquattro aprile duemilaventicinque alle dieci e ventisei in via Mazzini al civico ventiquattro, dove il veicolo era parcheggiato su strisce pedonali. La violazione è in base all'articolo mille duecentoventotto comma sedici del codice civile e comporta una decurtazione di cinque punti. La stampa dell'avviso è richiesta via WiFi in inglese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "dieci e ventisei",
+            "Strada_1": "usate mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "ad quattrocentocinquanta sei ci di",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "mille duecentoventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazioni quindi si tratta di un preavviso per il veicolo chi api canto autovettura targato ad quattrocentocinquanta sei ci di con targa prova registrato in austria per un fatto accaduto i ventiquattro aprile duemilaventicinque alle dieci e ventisei il veicolo si trovava in viaggio usate mazzini al civico ventiquattro dove è stato riscontrato parcheggio su strisce pedonali in base all'articolo l'articolo mille duecentoventotto comma sedici del codice civile questa infrazioni comporta una decurtazione di cinque punti genere alla stampa dell'avviso vi hawaii fai in inglese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Kia Picanto, autovettura, targato AB456CD con targa prova, registrato in austria, per un fatto accaduto il 24/04/2025 alle 10:26. Il veicolo si trovava in via Giuseppe Mazzini, al civico 24, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 1228, comma 16, del codice civile. Questa infrazione comporta una decurtazione di 5 punti. Genera la stampa dell'avviso via wifi in inglese, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo ciclomotore di marca Traiano Street Ripley con targa I789KM, proveniente dalla Grecia. L'infrazione è avvenuta il 29 aprile 2025 alle 00:42 in viale della Libertà, numero civico 22, per parcheggio davanti a passo carabine, violando l'articolo 21 comma 19 del codice penale. La decurtazione prevista è di due punti. La contestazione è immediata, eseguita dall'agente Anna Bianchi. La stampa del verbale è richiesta tramite Bluetooth, in lingua portoghese, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte e quarantadue",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "grecia",
+                    "targa": "i sette centottantanove chilometri",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "traiano street ripley",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "vuoi fahim",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo ciclomotori di marca traiano street ripley con targa i sette centottantanove chilometri tipo prova proveniente da grecia fatto avvenuto il ventinove aprile duemilaventicinque alle ore mezzanotte e quarantadue posizione viale della libertà numero civico ventidue infrazione parcheggio davanti a passo carabine in violazione dell'articolo ventuno comma diciannove del codice penale decurtazione prevista due punti si applica contestazione immediata da parte della gente anna bianchi stampa necessaria tramite vuoi fahim portoghese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo ciclomotore di marca Triumph Street Triple, con targa IJ789KL (tipo prova), proveniente da grecia.  Fatto avvenuto il 29/04/2025 alle ore 00:42. Posizione: viale della Libertà, numero civico 22. Infrazione: parcheggio davanti a passo carrabile, in violazione dell'articolo 21, comma 19, del codice penale. Decurtazione prevista: 2 punti. Si applica contestazione immediata da parte dell'agente Anna Bianchi. Stampa necessaria tramite wifi in portoghese, stampa anche la comunicazione."
+}

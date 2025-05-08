@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Ford Fiesta con rimorchio, targa ufficiale immatricolata in Italia, per un'infrazione avvenuta l'11 aprile 2025 alle 10:56 in via Roma, civico 77. La violazione riguarda il transito in zona ad accesso vietato secondo l'articolo 39, comma 37 del codice stradale. La contestazione è stata eseguita immediatamente dall'agente Mario Rossi e comporta la decurtazione di 10 punti. È richiesta la stampa in italiano via Bluetooth, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "dieci e cinquantasei",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "italia",
+                    "targa": "abby sei centocinquantaquattro ci di di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fort fiesta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: decurtazione, after: punti",
+            "tipo_stampa": "via blackout",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo fort fiesta rimorchio targa abby sei centocinquantaquattro ci di di tipo ufficiale immatricolati in italia per infrazione commessa in data undici aprile duemilaventicinque ore dieci e cinquantasei in via roma civico settantasette è stato rilevato transito in zona accesso vietato ai sensi dell'articolo trentanove con ma trentasette del codice stradale contestazione immediata eseguita dalla gente mario rossi la violazione comporta la decurtazione di dieci punti richiesta stampa in italiano via blackout stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Ford Fiesta rimorchio, targa AB654CD di tipo ufficiale, immatricolato in italia, per infrazione commessa in data 11/04/2025, ore 10:56. In via Roma, civico 77, è stato rilevato transito in zona accesso vietato, ai sensi dell'articolo 39, comma 37, del codice stradale. Contestazione immediata eseguita dall'agente Mario Rossi. La violazione comporta la decurtazione di 10 punti. Richiesta stampa in italiano via bluetooth, stampa anche la comunicazione. "
+}

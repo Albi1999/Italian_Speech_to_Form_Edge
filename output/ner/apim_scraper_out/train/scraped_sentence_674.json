@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione per un veicolo Subaru, immatricolato in Germania, con targa ufficiale. L'infrazione è avvenuta il 15 aprile 2025 alle ore 20:28 presso Corso Buenos Aires, civico 98, violando il codice civile, articolo 19, comma 17, riguardante il transito in zona accesso vietato. È previsto un punto di decurtazione senza sanzioni accessorie. Il veicolo è un motoveicolo di colore nero con numero di telaio specificato e massa di 3063 chili. La stampa deve essere effettuata tramite Wi-Fi in lingua tedesca, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "venti e ventotto",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "germania",
+                    "targa": "è sette centottantanove",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "subaru impresa",
+                    "colore": "nero"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "diciannove",
+                    "comma": "diciassette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtare, after: punti",
+            "tipo_stampa": "wi fi",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il quindici aprile duemilaventicinque alle ore venti e ventotto sto mettendo una notifica di infrazione per il veicolo subaru impresa motoveicoli immatricolati in germania con targa è sette centottantanove ho più di tipo ufficiale l'infrazione si e verificata presso corso buenos aires al civico novantotto violando il codice civile in particolare l'articolo diciannove coma diciassette riguardante il transito in zona accesso vietato devo decurtare un punti non è necessaria alcuna sanzione accessoria i motoveicoli e di colore nero con numero di telaio otto sette otto zero due uno nove sei sette massa tremila sessantatré chili stampa me lo con il wi fi in tedesco non stampare anche la comunicazione",
+    "original_sentence": "Il 15/04/2025, alle ore 20:28, sto emettendo una notifica di infrazione per il veicolo Subaru Impreza, motoveicolo immatricolato in germania con targa MN789OP di tipo ufficiale. L'infrazione si è verificata presso corso Buenos Aires, al civico 98, violando il codice civile, in particolare l'articolo 19, comma 17 riguardante il transito in zona accesso vietato. Devo decurtare 1 punti. Non è necessaria alcuna sanzione accessoria. Il motoveicolo è di colore nero, con numero di telaio 878021967 e massa 3063 kg. Stampamelo con il wifi in tedesco, non stampare anche la comunicazione. "
+}

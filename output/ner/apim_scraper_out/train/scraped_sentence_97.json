@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Dacia d'aste rimorchio immatricolato in Olanda con targa speciale. L'infrazione è avvenuta in via Roma, civico 77, per parcheggio in divieto di sosta. Si applica l'articolo 157, comma 5 del codice stradale, con la decurtazione di nove punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. La stampa deve essere effettuata in portoghese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "olanda",
+                    "targa": "i centoventitre chi lo litri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "dacia d'aste",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo dacia d'aste rimorchio immatricolati in olanda con targa i centoventitre chi lo litri di tipo speciale l'infrazione è avvenuta in via roma civico settantasette parcheggiato in divieto di sosta si applica l'articolo centocinquantasette con ma cinque del codice stradale a seguito della violazione verranno decurtati nove punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in portoghese tramite blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Dacia Duster, rimorchio immatricolato in olanda con targa IJ123KL di tipo speciale. L'infrazione è avvenuta in via Roma, civico 77: parcheggio in divieto di sosta. Si applica l'articolo 157, comma 5 del codice stradale. A seguito della violazione verranno decurtati 9 punti.A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in portoghese tramite bluetooth, non stampare anche la comunicazione."
+}

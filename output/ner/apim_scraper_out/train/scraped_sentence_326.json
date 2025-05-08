@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un'infrazione di parcheggio in divieto di sosta. Il veicolo coinvolto è un'autovettura di tipo ufficiale con targa slovena, e l'infrazione è avvenuta il 17 aprile 2025 alle 13:34 in via della Pace, civico 2. La violazione è regolata dall'articolo 17, comma 15 del codice penale, con una decurtazione di sei punti. La stampa del preavviso è richiesta in francese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "tredici e trentaquattro",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "icsi ypsilon centoventitre zza",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: di",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo mit subisci six autovettura targa icsi ypsilon centoventitre zza di tipo ufficiale proveniente da slovenia il giorno diciassette aprile duemilaventicinque alle ore tredici e trentaquattro in via della pace al numero civico due e stata commessa l'infrazione di parcheggiato in divieto di sosta come previsto dall'articolo diciassette comma quindici del codice penale per questa violazione sono previsti sei punti di decurtazione chiedo alla stampa del preavviso in francese via blu tu non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Mitsubishi ASX autovettura, targa XY123ZA di tipo ufficiale, proveniente da slovenia. Il giorno 17/04/2025, alle ore 13:34, in via della Pace, al numero civico 2, è stata commessa l'infrazione di parcheggio in divieto di sosta, come previsto dall'articolo 17, comma 15, del codice penale.Per questa violazione sono previsti 6 punti di decurtazione. Chiedo la stampa del preavviso in francese via bluetooth, non stampare anche la comunicazione."
+}

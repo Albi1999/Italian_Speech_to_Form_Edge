@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo Fiat Tipo, macchina operatrice, con targa ufficiale immatricolata in Belgio. L'infrazione è avvenuta il 27 aprile 2025 alle ore 5:59 in via della Cultura, civico 9, per parcheggio in sosta vietata secondo l'articolo 36, comma 34 del codice civile. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di tre punti. È richiesta la stampa in spagnolo via Hawaii e anche la comunicazione deve essere stampata.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "e cinque i cinquantanove",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "belgio",
+                    "targa": "è effe quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fiat tipo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentasei",
+                    "comma": "trentaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "via hawaii",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo fiat tipo macchina operatrice targa è effe quattrocentocinquanta sei giacca di tipo ufficiale immatricolati in belgio per infrazione commessa in data ventisette aprile duemilaventicinque ore e cinque i cinquantanove in via della cultura civico nove è stato rilevato parcheggio individuato di sosta ai sensi dell'articolo trentasei comma trentaquattro del codice civile impossibile effettuare la contestazione immediata assenza del trasgressori la violazioni comporta la decurtazioni di tre punti richiesta stampa in spagnolo via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Fiat Tipo macchina operatrice, targa EF456GH di tipo ufficiale, immatricolato in belgio, per infrazione commessa in data 27/04/2025, ore 05:59. In via della Cultura, civico 9, è stato rilevato parcheggio in divieto di sosta, ai sensi dell'articolo 36, comma 34, del codice civile. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 3 punti. Richiesta stampa in spagnolo via wifi, stampa anche la comunicazione. "
+}

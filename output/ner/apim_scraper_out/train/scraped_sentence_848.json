@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo Volkswagen Polo con targa speciale proveniente dalla Francia. La violazione è avvenuta l'11 aprile 2025 alle 3:39 in viali della Libertà, civico 22, per parcheggio davanti a passo carrabile, violando l'articolo 4, comma 2 del codice penale. Sono previsti dieci punti di decurtazione. La stampa del preavviso è richiesta in lingua olandese tramite Hawaii fai, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "tre trentanove",
+            "Strada_1": "viali della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "francia",
+                    "targa": "episodio settecento ottantanove giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "volkswagen polo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: di",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "olandesi",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo volkswagen polo autovettura targa episodio settecento ottantanove giacca di tipo speciale proveniente da francia il giorno undici aprile duemilaventicinque alle ore tre trentanove in viali della libertà al numero civico ventidue e stata commessa all'inflazione di parcheggio davanti a passo cary abile come previsto dall'articolo quattro coma due del codice penale per questa violazione sono previsti dieci punti di decurtazione chiedo la stampa del preavviso in olandesi di hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Volkswagen Polo autovettura, targa EP789GH di tipo speciale, proveniente da francia. Il giorno 11/04/2025, alle ore 03:39, in viale della Libertà, al numero civico 22, è stata commessa l'infrazione di parcheggio davanti a passo carrabile, come previsto dall'articolo 4, comma 2, del codice penale. Per questa violazione sono previsti 10 punti di decurtazione. Chiedo la stampa del preavviso in olandese via wifi, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo Mercedes Classe A, targato ABU 450 6 CD, proveniente dalla Francia. La violazione riguarda il parcheggio su strisce pedonali, avvenuta il 25 aprile 2025 alle 16:35 in via Garibaldi, numero 11. L'infrazione è relativa all'articolo 43, comma 41 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione comporta la perdita di nove punti. Si richiede la stampa in lingua francese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "sedici e trentacinque",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "francia",
+                    "targa": "abu quattrocentocinquanta sei ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo autovettura targato abu quattrocentocinquanta sei ci di di tipo speciale proveniente da francia marca mercedes classe a la violazione ovvero parcheggio su strisce pedonali se verificata in data venticinque aprile duemilaventicinque alle ore sedici e trentacinque invia garibaldi al numero undici l'infrazione rientra nell'articolo quarantatré ma quarantuno del codice stradale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzione prevede la perdita di nove punti si richiede la stampa in lingua francese tramite blu tutta stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato AB456CD di tipo speciale proveniente da francia, marca Mercedes Classe A. La violazione, ovvero parcheggio su strisce pedonali, si è verificata in data 25/04/2025 alle ore 16:35 in via Garibaldi, al numero 11. L'infrazione rientra nell'articolo 43, comma 41 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 9 punti. Si richiede la stampa in lingua francese, tramite bluetooth, stampa anche la comunicazione. "
+}

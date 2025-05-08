@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale. La violazione riguarda un veicolo macchina agricola targato \"centoventitre ci di\" di tipo \"copertura\" proveniente dalla Grecia, marca Fiat Cinquecento. L'infrazione, parcheggio su strisce pedonali, è avvenuta il sei maggio duemilaventicinque alle ore sedici e trentadue in via dei giardini al numero otto. La violazione rientra nell'articolo quattordici comma uno del codice penale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di tre punti. Si richiede la stampa in lingua spagnola tramite wifi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "sedici e trentadue",
+            "Strada_1": "via dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "grecia",
+                    "targa": "centoventitre ci di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "fiat cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quattordici",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina agricola targato centoventitre ci di di tipo copertura proveniente da grecia marca fiat cinquecento la violazione ovvero parcheggio su strisce pedonali si e verificata in data sei maggio duemilaventicinque alle ore sedici e trentadue inviare dei giardini al numero otto l'infrazione rientra nell'articolo quattordici con ma uno del codice penale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzione prevede la perdita di tre punti si richiede la stampa in lingua spagnolo tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina agricola targato AB123CD di tipo copertura proveniente da grecia, marca Fiat 500. La violazione, ovvero parcheggio su strisce pedonali, si è verificata in data 06/05/2025 alle ore 16:32 in viale dei Giardini, al numero 8. L'infrazione rientra nell'articolo 14, comma 1 del codice penale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 3 punti. Si richiede la stampa in lingua spagnolo, tramite wifi, non stampare anche la comunicazione. "
+}

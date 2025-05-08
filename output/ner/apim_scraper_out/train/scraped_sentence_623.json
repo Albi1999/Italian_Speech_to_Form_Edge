@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sei maggio 2025 alle ore 4:57 per un veicolo Subaru immatricolato in Svizzera con targa speciale. L'infrazione è avvenuta in via della Speranza, civico 18, per parcheggio su strisce pedonali, violando il codice penale articolo 29, comma 27. La contestazione è stata immediata da parte dell'agente Sara Bellini, con tre punti da decurtare e nessuna sanzione accessoria. La stampa è prevista in portoghese tramite Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "quattro cinquantasette",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "jeff quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "subaru quindicesimo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: da",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno sei maggio duemilaventicinque alle ore quattro cinquantasette è stato redatto un verbale per il veicolo subaru quindicesimo macchina agricola immatricolati in svizzera con targa è jeff quattrocentocinquanta sei giacca di tipo speciale l'infrazione e avvenuta in via della speranza al civico diciotto e stata riscontrata una violazione del codice penale articolo ventinove con ma ventisette ovvero parcheggio su strisce pedonali il verbale è stato eseguito sul posto con contestazione immediata da parte della gente sara bellini sono previsti tre punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in portoghese tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 06/05/2025, alle ore 04:57, è stato redatto un verbale per il veicolo Subaru XV, macchina agricola immatricolato in svizzera con targa EF456GH di tipo speciale. L'infrazione è avvenuta in via della Speranza, al civico 18. È stata riscontrata una violazione del codice penale, articolo 29, comma 27 ovvero parcheggio su strisce pedonaliIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Sara Bellini. Sono previsti 3 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in portoghese tramite bluetooth, non stampare anche la comunicazione. "
+}

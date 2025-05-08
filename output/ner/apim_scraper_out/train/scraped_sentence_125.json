@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 23 aprile 2025 alle ore 00:48 in via della Cultura, civico 9. La violazione riguarda un veicolo Mac Street, macchina agricola con targa Baby 789 C, immatricolato in Francia, parcheggiato su strisce pedonali. La violazione è in base all'articolo 9, comma 1 del codice civile. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti 7 punti di decurtazione. Si richiede la stampa in lingua italiana via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte e quarantotto",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "baby sette centottantanove c",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mac street",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "nove",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il ventitré aprile duemilaventicinque alle ore mezzanotte e quarantotto in via della cultura al civico nove a carico del veicolo mac street macchina agricola con targa baby sette centottantanove c di tipo ufficiale immatricolati in francia la violazione contestata e parcheggio su strisce pedonali in base all'articolo nove comma uno del codice civile non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti sette punti di decurtazione si richiede la stampa in lingua italiano via blu tutta stampa anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 23/04/2025 alle ore 00:48 in via della Cultura, al civico 9, a carico del veicolo Mazda CX-3, macchina agricola con targa AB789CD di tipo ufficiale, immatricolato in francia. La violazione contestata è parcheggio su strisce pedonali, in base all'articolo 9, comma 1 del codice civile.Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti 7 punti di decurtazione. Si richiede la stampa in lingua italiano via bluetooth, stampa anche la comunicazione."
+}

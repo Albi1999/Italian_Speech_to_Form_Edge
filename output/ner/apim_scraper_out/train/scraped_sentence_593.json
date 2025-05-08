@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il sedici aprile duemilaventicinque alle ore quattordici cinquantasei per un veicolo macchina operatrici di marca tra un street triplo con targa guerre centoventitre siti tipo prova registrato in Germania. L'infrazione è avvenuta in viale della libertà al numero ventidue, consistente nel parcheggio davanti a passo carrabile, violando l'articolo mille i duecentoventotto comma sedici del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica è inviata al proprietario del veicolo. Sono previsti due punti di decurtazione. Si richiede di stampare la notifica tramite WiFi in lingua italiana, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "quattordici cinquantasei",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrici",
+                    "nazione": "germania",
+                    "targa": "guerre centoventitre siti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "tra un street triplo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "mille",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: di",
+            "tipo_stampa": "wife ehi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data sedici aprile duemilaventicinque alle ore quattordici cinquantasei è stato emesso un preavviso di violazioni per il veicolo macchina operatrici di marca tra un street triplo con targa guerre centoventitre siti tipo prova registrato in germania l'infrazione avvenuta in viale della libertà al numero ventidue e consiste in parcheggio davanti a passo cary abile come previsto dall'articolo mille i duecentoventotto comba sedici del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti due punti di decurtazione si prega di stampare la presente notifica tramite wife ehi in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 16/04/2025, alle ore 14:56, è stato emesso un preavviso di violazione per il veicolo macchina operatrice di marca Triumph Street Triple, con targa QR123ST (tipo prova), registrato in germania. L'infrazione è avvenuta in viale della Libertà, al numero 22, e consiste in parcheggio davanti a passo carrabile, come previsto dall'articolo 1228, comma 16 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 2 punti di decurtazione. Si prega di stampare la presente notifica tramite wifi, in lingua italiano, non stampare anche la comunicazione. "
+}

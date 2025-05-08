@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il cinque maggio 2025 alle 8:39 in via Roma, civico 77. La violazione riguarda un veicolo Onda Rimorchio con targa HO 320 1 doppio West, immatricolato in Austria, per parcheggio in zona a rimozione secondo l'articolo 42 comma 40 del codice penale. La contestazione è stata eseguita immediatamente dall'agente Elena Fontana. Sono previsti dieci punti di decurtazione. Si richiede la stampa in lingua inglese tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "otto e trentanove",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "ho trecentoventi uno doppio west",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "onda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantadue",
+                    "comma": "quaranta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: di",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il cinque maggio duemilaventicinque alle otto e trentanove invia roma al civico settantasette a carico del veicolo onda rimorchio con targa ho trecentoventi uno doppio west di tipo speciale immatricolati in austria la violazione contestata e parcheggio in zona a rimozione in base all'articolo quarantadue come quaranta del codice penale la contestazione avvenuta immediatamente da parte della gente elena fontana sono previsti dieci punti di decurtazione si richiede la stampa in lingua inglese vi hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 05/05/2025 alle ore 08:39 in via Roma, al civico 77, a carico del veicolo Honda HR-V, rimorchio con targa UV321WX di tipo speciale, immatricolato in austria. La violazione contestata è parcheggio in zona rimozione, in base all'articolo 42, comma 40 del codice penale. La contestazione è avvenuta immediatamente da parte dell'agente Elena Fontana. Sono previsti 10 punti di decurtazione. Si richiede la stampa in lingua inglese via wifi, non stampare anche la comunicazione. "
+}

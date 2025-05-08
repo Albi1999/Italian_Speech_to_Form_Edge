@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il dieci aprile duemilaventicinque alle ore diciannove trentanove per una violazione riscontrata su un veicolo macchina agricola marca Traiano Stai 850 Sport, targato 450 6 OCCHI, tipo speciale, proveniente dalla Svizzera. La violazione è avvenuta in via della Speranza, civico 17, per parcheggio in doppia fila, violando l'articolo 14, comma 1 del codice civile. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di sette punti dalla patente. La stampa è richiesta in spagnolo via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "diciannove trentanove",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "quattrocentocinquanta sei occhi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "traiano stai ottocentocinquanta sport",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattordici",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data dieci aprile duemilaventicinque alle ore diciannove trentanove per la violazione riscontrata al veicolo macchina agricola marca traiano stai ottocentocinquanta sport targato quattrocentocinquanta sei occhi tipo speciale proveniente da svizzera in particolare in via della speranza civico diciassette è stato accertato parcheggia in doppia fila in violazione dell'articolo quattordici con ma uno del codice civile data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di sette punti dalla patente richiedo la stampa in spagnolo via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 10/04/2025 alle ore 19:39 per la violazione riscontrata al veicolo macchina agricola, marca Triumph Tiger 850 Sport, targato MN456OP (tipo speciale) proveniente da svizzera. In particolare, in via della Speranza, civico 17, è stato accertato parcheggio in doppia fila, in violazione dell'articolo 14, comma 1 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 7 punti dalla patente. Richiedo la stampa in spagnolo via bluetooth, non stampare anche la comunicazione."
+}

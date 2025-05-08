@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo immatricolato in Croazia, una macchina operatrice con targa specificata, per un'infrazione commessa il 15 aprile 2025 alle ore 10:57 in via della Concordia, civico 14. La violazione riguarda il parcheggio in doppia fila, ai sensi dell'articolo 24, comma 22 del codice civile. La contestazione è stata eseguita immediatamente dall'agente Alessandro Moretti e comporta la decurtazione di sei punti. È richiesta la stampa in olandese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "dieci e cinquantasette",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "io e quattrocentocinquanta sei",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "amai ypsilon seta e ferre sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventiquattro",
+                    "comma": "ventidue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: decurtazione, after: punti",
+            "tipo_stampa": "about",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo amai ypsilon seta e ferre sette macchina operatrice targa io e quattrocentocinquanta sei chi lo litri di tipo prova immatricolati in croazia per infrazione commessa in data quindici aprile duemilaventicinque ore dieci e cinquantasette in via della concordia civico quattordici è stato rilevato parcheggia in doppia fila ai sensi dell'articolo ventiquattro con ma ventidue del codice civile contestazione immediata eseguita dall'agente alessandro moretti la violazione comporta la decurtazione di sei punti richiesta stampa in olandese via about stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Yamaha YZF-R7 macchina operatrice, targa IJ456KL di tipo prova, immatricolato in croazia, per infrazione commessa in data 15/04/2025, ore 10:57. In via della Concordia, civico 14, è stato rilevato parcheggio in doppia fila, ai sensi dell'articolo 24, comma 22, del codice civile.Contestazione immediata eseguita dall'agente Alessandro Moretti. La violazione comporta la decurtazione di 6 punti. Richiesta stampa in olandese via bluetooth, stampa anche la comunicazione."
+}

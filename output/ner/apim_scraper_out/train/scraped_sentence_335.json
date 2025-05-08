@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il ventitré aprile duemilaventicinque alle otto e trentanove per un veicolo immatricolato in Spagna, targato \"ho viste i centocinquantaquattro doppia ex\". L'infrazione è stata accertata in via Giuseppe Mazzini, civico ventiquattro, per parcheggio in doppia fila, violando il codice stradale articolo ventisette, comma venticinque. Sono previsti cinque punti da decurtare. La contestazione è stata immediata, effettuata dall'agente Alessandro Moretti. La stampa del verbale è stata effettuata tramite Bluetooth in portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "otto e trentanove",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "spagna",
+                    "targa": "ho viste i centocinquantaquattro doppia ex",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventisette",
+                    "comma": "venticinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: previsti, after: da",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle otto e trentanove del ventitré aprile duemilaventicinque storie di gendo un verbale per il veicolo molto veicolo targato ho viste i centocinquantaquattro doppia ex con targa prova immatricolati in spagna l'infrazione stata accertata in via giuseppe mazzini al civico ventiquattro con violazione del codice stradale articolo ventisette con ma venticinque per parcheggia in doppia fila sono previsti cinque punti da decurtare contestazione immediata effettuata dalla gente alessandro moretti il verbale è stato redatto sul posto in via giuseppe mazzini non posso applicare alcuna sanzione accessoria stampa tramite blu in portoghese stampa anche la comunicazione",
+    "original_sentence": "Alle 08:39 del 23/04/2025, sto redigendo un verbale per il veicolo motoveicolo targato UV654WX con targa prova, immatricolato in spagnaL'infrazione è stata accertata in via Giuseppe Mazzini, al civico 24, con violazione del codice stradale, articolo 27,comma 25 per parcheggio in doppia fila Sono previsti 5 punti da decurtare. Contestazione immediata effettuata dall'agente Alessandro Moretti, il verbale è stato redatto sul posto in via Giuseppe Mazzini. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in portoghese, stampa anche la comunicazione."
+}

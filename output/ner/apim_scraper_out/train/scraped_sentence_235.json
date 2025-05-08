@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo rimorchio Alfa Romeo Giulietta con targa speciale proveniente dalla Germania. L'infrazione è avvenuta il 19 aprile 2025 alle 5:16 in via della Libertà, civico 21, per parcheggio in zona a rimozione, violando l'articolo 53 comma 51 del codice civile. La decurtazione prevista è di sette punti. La contestazione è immediata e gestita dall'agente Elena Fontana. La stampa del verbale è richiesta tramite Wi-Fi in lingua olandese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "cinque sedici",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "gia cassette centottantanove",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "alfa romeo e giulietta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo rimorchio di marca alfa romeo e giulietta con targa gia cassette centottantanove tipo speciale proveniente da germania fatto avvenuto il diciannove aprile duemilaventicinque alle ore cinque sedici posizione via della libertà numero civico ventuno infrazione parcheggio in zona a rimozione in violazione dell'articolo cinquantatré comma cinquantuno del codice civile decurtazione prevista sette punti si applica a contestazione immediata da parte della gente elena fontana stampa necessaria tramite vuoi fa in olandese non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo rimorchio di marca Alfa Romeo Giulietta, con targa GH789IJ (tipo speciale), proveniente da germania.  Fatto avvenuto il 19/04/2025 alle ore 05:16. Posizione: via della Libertà, numero civico 21. Infrazione: parcheggio in zona rimozione, in violazione dell'articolo 53, comma 51, del codice civile. Decurtazione prevista: 7 punti. Si applica contestazione immediata da parte dell'agente Elena Fontana. Stampa necessaria tramite wifi in olandese, non stampare anche la comunicazione."
+}

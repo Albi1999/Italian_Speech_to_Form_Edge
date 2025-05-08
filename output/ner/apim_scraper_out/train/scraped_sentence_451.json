@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento informa che è in corso la stesura di un preavviso di violazione per un veicolo ciclomotore con targa ufficiale proveniente dalla Slovenia. L'infrazione riguarda il parcheggio in zona a rimozione, verificata l'undici aprile 2025 alle ore 21:48 in via Roma, numero 77. La violazione è in base all'articolo 1228, comma 16 del codice penale, e comporterà una decurtazione di dieci punti. Si richiede la stampa in lingua italiana, modalità Bluetooth, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "ventuno e quarantotto",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "slovenia",
+                    "targa": "sette centottantanove occhi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "suzuki chi vi seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "milleduecento ventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotori con targa sette centottantanove occhi di tipo ufficiale marca suzuki chi vi seicentocinquanta proveniente da slovenia l'infrazione nello specifico parcheggio in zona a rimozione sia e verificata in data undici aprile duemilaventicinque alle ore ventuno e quarantotto in via roma al numero settantasette articolo milleduecento ventotto comma sedici del codice penale si comunica che dalla violazione conseguirà una decurtazione di dieci punti si richiede la stampa in lingua italiano modalità blu stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotore con targa MN789OP di tipo ufficiale, marca Suzuki SV650, proveniente da slovenia. L'infrazione, nello specifico parcheggio in zona rimozione, si è verificata in data 11/04/2025 alle ore 21:48 in via Roma, al numero 77 (articolo 1228, comma 16 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 10 punti.Si richiede la stampa in lingua italiano, modalità bluetooth, stampa anche la comunicazione."
+}

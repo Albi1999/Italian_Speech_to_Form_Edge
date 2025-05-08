@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un preavviso di violazione per un veicolo rimorchio con targa \"guerre trecentoventi uno e se ti\" di tipo \"prova\", marca \"scorda fabia\", proveniente dalla Francia. L'infrazione riguarda il parcheggio su strisce pedonali, avvenuta il 21 aprile 2025 alle ore 16:13 in corso Italia, civico 30. La violazione è in base all'articolo 8, comma 6 del codice civile, e comporterà una decurtazione di due punti. Si richiede la stampa in lingua spagnola, modalità Bluetooth, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "sedici e tredici",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "guerre trecentoventi uno e se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "scorda fabia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa guerre trecentoventi uno e se ti di tipo prova marca scorda fabia proveniente da francia l'infrazione nello specifico parcheggio su strisce pedonali si e verificata in data ventuno aprile duemilaventicinque alle ore sedici e tredici in corso italia all'umano trenta articolo otto comma sei del codice civile si comunica che dalla violazione conseguirà una decurtazione di due punti si richiede la stampa in lingua spagnolo modalità blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa QR321ST di tipo prova, marca Skoda Fabia, proveniente da francia. L'infrazione, nello specifico parcheggio su strisce pedonali, si è verificata in data 21/04/2025 alle ore 16:13 in corso Italia, al numero 30 (articolo 8, comma 6 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 2 punti. Si richiede la stampa in lingua spagnolo, modalità bluetooth, stampa anche la comunicazione. "
+}

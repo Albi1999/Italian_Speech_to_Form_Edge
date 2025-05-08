@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione stradale. La violazione è avvenuta il ventidue aprile duemilaventicinque alle ore diciassette e diciassette in corso Italia, civico trenta. La violazione riguarda il parcheggio su strisce pedonali, violando l'articolo quarantanove comma quarantasette del codice stradale, con conseguente perdita di quattro punti. Il veicolo coinvolto è una macchina operatrice marca BMW Jeff novecento i serre, targa sette centottantanove giacca, di tipo ufficiale, immatricolata in Germania. La stampa del verbale è richiesta in modalità Hawaii fai e in lingua portoghese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "diciassette diciassette",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "germania",
+                    "targa": "sette centottantanove giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "bmw jeff novecento i serre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantanove",
+                    "comma": "quarantasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: perdita, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina operatrice marca bmw jeff novecento i serre targa è sette centottantanove giacca di tipo ufficiale immatricolati in germania in data ventidue aprile duemilaventicinque alle ore diciassette diciassette in corso italia al civico trenta e stata commessa la seguente violazione parcheggio su strisce pedonali articolo quarantanove comma quarantasette del codice stradale dalla violazione con segue la perdita di quattro punti stampa e modalità hawaii fai è in lingua portoghese stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina operatrice, marca BMW F 900 XR, targa EF789GH di tipo ufficiale, immatricolato in germania. In data 22/04/2025 alle ore 17:17, in corso Italia, al civico 30, è stata commessa la seguente violazione: parcheggio su strisce pedonali (articolo 49, comma 47 del codice stradale). Dalla violazione consegue la perdita di 4 punti. Stampa in modalità wifi e in lingua portoghese, stampa anche la comunicazione. "
+}

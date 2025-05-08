@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo rimorchio con targa speciale proveniente dal Portogallo, marca Onda Cibi Jerry 650. La violazione riguarda il parcheggio su strisce pedonali, avvenuta il 30 aprile 2025 alle 16:51 in via della Libertà, numero 21. L'infrazione è relativa all'articolo 157, comma 5 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione comporta la perdita di un punto. Si richiede la stampa in lingua inglese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "sedici e cinquantuno",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "portogallo",
+                    "targa": "jeff trecentoventi uno giacca",
+                    "tipologia_targa": null,
+                    "marca_modello": "onda cibi jerry seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo rimorchio targato jeff trecentoventi uno giacca di tipo speciale proveniente da portogallo marca onda cibi jerry seicentocinquanta la violazione ovvero parcheggio su strisce pedonali sia e verificata in data a trenta aprile duemilaventicinque alle ore sedici e cinquantuno in via della libertà al numero ventuno l'infrazione rientra nell'articolo centocinquantasette con ma cinque del codice stradale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzione prevede la perdita di uno punti si richiede la stampa in lingua inglese tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo rimorchio targato EF321GH di tipo speciale proveniente da portogallo, marca Honda CBR650R. La violazione, ovvero parcheggio su strisce pedonali, si è verificata in data 30/04/2025 alle ore 16:51 in via della Libertà, al numero 21. L'infrazione rientra nell'articolo 157, comma 5 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 1 punti. Si richiede la stampa in lingua inglese, tramite wifi, stampa anche la comunicazione."
+}

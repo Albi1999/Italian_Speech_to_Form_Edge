@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione commessa da un veicolo Audi con targa ufficiale immatricolato in Slovenia. L'infrazione è avvenuta il 29 aprile 2025 alle ore 4:09 in via del Corso, civico d'oggi, per parcheggio in doppia fila. La contestazione è stata immediata, eseguita dall'agente Sara Bellini, e comporta la decurtazione di quattro punti. La stampa è richiesta in italiano via Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "quattro i nove",
+            "Strada_1": "via del corso",
+            "Civico_1": "d'oggi",
+            "lista_veicoli": [
+                {
+                    "tipologia": "audi",
+                    "nazione": "slovenia",
+                    "targa": "i centoventitre cappello",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazioni immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazioni, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "stai mettendo un verbale per il veicolo audi attrici che ho motore targa i centoventitre cappello di tipo ufficiale immatricolati in slovenia per infrazione commessa in data ventinove aprile duemilaventicinque ori quattro i nove in via del corso civico d'oggi è stato rilevato parcheggio in doppia fila ai sensi dell'articolo trentanove comma trentasette del codice civile contestazioni immediata eseguita dalla gente sara bellini la violazione comporta la decurtazioni di quattro punti richiesta stampa in italiano via blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Audi A3 ciclomotore, targa IJ123KL di tipo ufficiale, immatricolato in slovenia, per infrazione commessa in data 29/04/2025, ore 04:09. In via del Corso, civico 12, è stato rilevato parcheggio in doppia fila, ai sensi dell'articolo 39, comma 37, del codice civile. Contestazione immediata eseguita dall'agente Sara Bellini. La violazione comporta la decurtazione di 4 punti. Richiesta stampa in italiano via bluetooth, non stampare anche la comunicazione. "
+}

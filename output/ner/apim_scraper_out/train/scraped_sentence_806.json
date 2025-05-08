@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta il 29 aprile 2025 alle ore 7:39 per un veicolo immatricolato in Germania con targa speciale. L'infrazione è avvenuta in via Garibaldi, civico 11, violando il codice stradale, articolo 158, comma 2, riguardante il parcheggio in divieto di sosta. Sono stati decurtati sette punti, senza sanzioni accessorie. Il veicolo è una macchina agricola di colore verde. La stampa deve essere effettuata tramite Bluetooth in portoghese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "sette i trentanove",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "icsi ypsilon sei centocinquantaquattro",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "moto gozzi fu sette",
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventinove aprile duemilaventicinque alle ore sette i trentanove sto mettendo una notifica di infrazione per il veicolo moto gozzi fu sette macchina agricola immatricolati in germania con targa icsi ypsilon sei centocinquantaquattro di tipo speciale l'infrazione si e verificata presso via garibaldi al civico undici violando il codice stradale in particolare l'articolo centocinquantotto con ma due riguardante il parcheggio in divieto di sosta devo decurtare sette punti non è necessaria alcuna sanzione accessoria il macchina agricola e di colore verde con numero di telaio cinque sei sette otto zero sei due nove massa duemilaquattrocento settantuno chi li stampa me lo con il blu tutti in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Il 29/04/2025, alle ore 07:39, sto emettendo una notifica di infrazione per il veicolo Moto Guzzi V7, macchina agricola immatricolato in germania con targa XY654ZA di tipo speciale. L'infrazione si è verificata presso via Garibaldi, al civico 11, violando il codice stradale, in particolare l'articolo 158, comma 2 riguardante il parcheggio in divieto di sosta. Devo decurtare 7 punti. Non è necessaria alcuna sanzione accessoria. Il macchina agricola è di colore verde, con numero di telaio 560780629 e massa 2471 kg. Stampamelo con il bluetooth in portoghese, non stampare anche la comunicazione. "
+}

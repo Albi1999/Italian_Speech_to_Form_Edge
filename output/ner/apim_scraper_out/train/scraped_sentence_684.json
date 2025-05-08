@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per una violazione accertata il 20 aprile 2025 alle ore 6:04 in Corso della Giustizia, civico 23. La violazione riguarda il transito in zona di accesso vietato, secondo l'articolo 30, comma 28 del codice penale. La contestazione è stata eseguita immediatamente dall'agente Marco Gentili. Il veicolo coinvolto è una Skoda Fabia, ciclomotore, con targa ufficiale immatricolata in Svizzera. Sono previsti due punti di decurtazione. La stampa è richiesta in lingua italiana via Bluetooth, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbali",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "sei quattro",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "svizzera",
+                    "targa": "jeffrey centoventitre giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "skoda fabia",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trenta",
+                    "comma": "ventotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: di",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anti la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbali per violazioni accertata i venti aprile duemilaventicinque alle ore sei quattro in corso della giustizia al civico ventitré a carico del veicolo skoda fabia ciclomotori con targa jeffrey centoventitre giacca di tipo ufficiale immatricolati in svizzera la violazione contestata e transito in zona accesso vietato in base all'articolo trenta comma ventotto del codice penale la contestazione e avvenuta immediatamente da parte della gente marco gentili sono previsti due punti di decurtazione si richiede la stampa in lingua italiano via blu tutte non stampare anti la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 20/04/2025 alle ore 06:04 in corso della Giustizia, al civico 23, a carico del veicolo Skoda Fabia, ciclomotore con targa EF123GH di tipo ufficiale, immatricolato in svizzera. La violazione contestata è transito in zona accesso vietato, in base all'articolo 30, comma 28 del codice penale. La contestazione è avvenuta immediatamente da parte dell'agente Marco Gentili. Sono previsti 2 punti di decurtazione. Si richiede la stampa in lingua italiano via bluetooth, non stampare anche la comunicazione. "
+}

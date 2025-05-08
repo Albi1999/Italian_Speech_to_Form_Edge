@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un'infrazione stradale. Il veicolo coinvolto è un'autovettura immatricolata in Belgio con targa \"centoventitre ci di\". L'infrazione è avvenuta il 12 aprile 2025 alle ore 2:07 in viale della Libertà, civico 22, per parcheggio in zona a rimozione. La violazione è stata contestata immediatamente dall'agente Elena Fontana e comporta la decurtazione di cinque punti. La stampa del verbale è richiesta in lingua tedesca tramite Wi-Fi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "due sette",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "belgio",
+                    "targa": "centoventitre ci di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantuno",
+                    "comma": "quarantanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo un dai con autovettura targa centoventitre ci di di tipo copertura immatricolati in belgio per infrazione commessa in data dodici aprile duemilaventicinque ore due sette in viale della libertà civico ventidue è stato rilevato parcheggio in zona a rimozione ai sensi dell'articolo cinquantuno come quarantanove del codice stradale contestazione immediata eseguita dall'agente elena fontana la violazione comporta la decurtazione di cinque punti richiesta stampa in tedesco via vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Hyundai Kona autovettura, targa AB123CD di tipo copertura, immatricolato in belgio, per infrazione commessa in data 12/04/2025, ore 02:07. In viale della Libertà, civico 22, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 51, comma 49, del codice stradale. Contestazione immediata eseguita dall'agente Elena Fontana. La violazione comporta la decurtazione di 5 punti. Richiesta stampa in tedesco via wifi, non stampare anche la comunicazione. "
+}

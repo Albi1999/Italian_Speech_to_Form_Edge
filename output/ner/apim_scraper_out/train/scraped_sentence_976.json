@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale. La violazione riguarda un veicolo macchina operatrice con targa croata, che ha parcheggiato in doppia fila. L'infrazione è avvenuta il 29 aprile 2025 alle 20:20 in viale della Scienza, numero 14. La violazione rientra nell'articolo 14, comma 1 del codice stradale. La contestazione è stata immediata da parte dell'agente Giulia Costa e comporta la perdita di 10 punti. Si richiede la stampa in lingua spagnola tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "venti e venti",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrici",
+                    "nazione": "croazia",
+                    "targa": "a quattrocentocinquanta sei ci di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "no cattura",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata da parte della gente giulia costa",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattordici",
+                    "comma": "uno",
+                    "sanzione_accessoria": "la sanzione prevede la perdita di dieci punti"
+                }
+            ],
+            "punti": "dieci, before: perdita, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrici targato a quattrocentocinquanta sei ci di di tipo copertura proveniente da croazia marcare no cattura la violazione ovvero parcheggio in doppia fila si e verificata in data ventinove aprile duemilaventicinque alle ore venti e venti in viale della scienza al numero quattordici l'infrazione rientra nei l'articolo quattordici comma uno del codice stradale contestazione immediata da parte della gente giulia costa la sanzione prevede la perdita di dieci punti si richiede la stampa in lingua spagnolo tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato AB456CD di tipo copertura proveniente da croazia, marca Renault Captur. La violazione, ovvero parcheggio in doppia fila, si è verificata in data 29/04/2025 alle ore 20:20 in viale della Scienza, al numero 14. L'infrazione rientra nell'articolo 14, comma 1 del codice stradale. Contestazione immediata da parte dell'agente Giulia Costa. La sanzione prevede la perdita di 10 punti. Si richiede la stampa in lingua spagnolo, tramite bluetooth, non stampare anche la comunicazione. "
+}

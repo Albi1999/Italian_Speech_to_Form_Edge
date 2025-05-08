@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il tredici aprile duemilaventicinque alle ore cinque ventidue per una violazione riscontrata. Il veicolo coinvolto è un'autovettura Harley Davidson Street 750, targato G3201ST, proveniente dalla Slovenia. La violazione è avvenuta in corso della Libertà, civico sette, per parcheggio in zona a rimozione, violando l'articolo quattordici, comma uno del codice penale. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di due punti dalla patente. La stampa è richiesta in spagnolo via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "cinque ventidue",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "guerre trecentoventi uno e se ti",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "charlie i davidson street settecentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quattordici",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data tredici aprile duemilaventicinque alle ore cinque ventidue per la violazione riscontrata al veicolo autovettura charlie i davidson street settecentocinquanta targato guerre trecentoventi uno e se ti tipo speciale proveniente da slovenia in particolare in corso della libertà civico sette è stato accertato parcheggio in zona a rimozione in violazione dell'articolo quattordici con ma uno del codice penale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di due punti dalla patente richiedo la stampa in spagnolo via blu tutta stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 13/04/2025 alle ore 05:22 per la violazione riscontrata al veicolo autovettura, marca Harley-Davidson Street 750, targato QR321ST (tipo speciale) proveniente da slovenia. In particolare, in corso della Libertà, civico 7, è stato accertato parcheggio in zona rimozione, in violazione dell'articolo 14, comma 1 del codice penale. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 2 punti dalla patente. Richiedo la stampa in spagnolo via bluetooth, stampa anche la comunicazione."
+}

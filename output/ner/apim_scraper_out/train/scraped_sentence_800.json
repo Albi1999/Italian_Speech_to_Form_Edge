@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo Fiat Panda, immatricolato in Slovenia, con targa \"i settecento ottantanove cappelle\". L'infrazione è avvenuta il 7 aprile 2025 alle 9:08 in corso Buenos Aires, numero 98, per parcheggio su strisce pedonali. L'articolo violato è il 42, comma 40 del codice civile, con la decurtazione di 4 punti dalla patente. Il verbale deve essere stampato via WiFi in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "nove otto",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrici",
+                    "nazione": "slovenia",
+                    "targa": "i settecento ottantanove cappelle",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "fiat panda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantadue",
+                    "comma": "quaranta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "wife",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo fiat panda macchina operatrici con targa i settecento ottantanove cappelle di tipo copertura immatricolati in slovenia per un'infrazione commessa il sette aprile duemilaventicinque alle nove otto l'infrazione avvenuta in corso buenos aires al numero novantotto dove il veicolo era in parcheggio su strisce pedonali l'articolo violato è il quarantadue come quaranta del codice civile verranno tolti i quattro punti dalla patente stampa questo verbale via wife in italiano non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Fiat Panda, macchina operatrice con targa IJ789KL di tipo copertura, immatricolato in slovenia, per un'infrazione commessa il 07/04/2025 alle 09:08. L'infrazione è avvenuta in corso Buenos Aires, al numero 98, dove il veicolo era in parcheggio su strisce pedonali. L'articolo violato è il 42, comma 40 del codice civile. Verranno tolti 4 punti dalla patente. Stampa questo verbale via wifi in italiano, non stampare anche la comunicazione. "
+}

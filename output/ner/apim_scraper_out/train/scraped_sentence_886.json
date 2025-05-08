@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo rimorchio di marca 'sempre lei' con targa 'ypsilon novecentottanta sette', tipo ufficiale, proveniente dal Belgio. L'infrazione è avvenuta il 23 aprile 2025 alle ore 24:08 in viale della senza numero civico 14, per parcheggio in zona a rimozione, violando l'articolo 158 comma 2 del codice penale. La decurtazione prevista è di quattro punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa è necessaria tramite Bluetooth in inglese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "ventiquattro e otto",
+            "Strada_1": "viale della",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "belgio",
+                    "targa": "ypsilon novecentottanta sette",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "sempre lei",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: prevista, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo rimorchio di marca sempre lei con targa ypsilon novecentottanta sette già tipo ufficiale proveniente da belgio fatto avvenuto i ventitré aprile duemilaventicinque alle ore ventiquattro e otto posizione viale della senza numero civico quattordici infrazione parcheggio in zona a rimozione in violazione dell'articolo centocinquantotto comma due del codice penale decurtazione prevista quattro punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite blu tutti in inglese non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo rimorchio di marca Chevrolet Trax, con targa XY987ZA (tipo ufficiale), proveniente da belgio. Fatto avvenuto il 23/04/2025 alle ore 00:08. Posizione: viale della Scienza, numero civico 14. Infrazione: parcheggio in zona rimozione, in violazione dell'articolo 158, comma 2, del codice penale. Decurtazione prevista: 4 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite bluetooth in inglese, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 20 aprile 2025 alle ore 18:12 per un veicolo Ducati Monster, immatricolato in Svizzera con targa ufficiale. L'infrazione è avvenuta in Corso Vittorio Emanuele, civico 15, per parcheggio su strisce pedonali. La violazione riguarda il codice stradale, articolo 37, comma 35. La contestazione è stata immediata, eseguita dall'agente Chiara Romano, con sette punti da decurtare. La stampa è prevista in olandese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "diciotto e dodici",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "svizzera",
+                    "targa": "i centoventitre e chi lo litri",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "ducati monster",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentasette",
+                    "comma": "trentacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno venti aprile duemilaventicinque alle ore diciotto e dodici è stato redatto un verbale per il veicolo ducati monster macchina operatrice immatricolati in svizzera con targa i centoventitre e chi lo litri di tipo ufficiale l'infrazione avvenuta in corso vittorio emanuele al civico quindici e stata riscontrata una violazione del codice stradale articolo trentasette comma trentacinque ovvero parcheggio su strisce pedonali kelly verbale è stato eseguito sul posto con contestazione immediata da parte della gente chiara romano sono previsti sette punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in olandese tramite blood stampa anche la comunicazione",
+    "original_sentence": "Il giorno 20/04/2025, alle ore 18:12, è stato redatto un verbale per il veicolo Ducati Monster, macchina operatrice immatricolato in svizzera con targa IJ123KL di tipo ufficiale.L'infrazione è avvenuta in corso Vittorio Emanuele, al civico 15. È stata riscontrata una violazione del codice stradale, articolo 37, comma 35 ovvero parcheggio su strisce pedonaliIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Chiara Romano. Sono previsti 7 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in olandese tramite bluetooth, stampa anche la comunicazione."
+}

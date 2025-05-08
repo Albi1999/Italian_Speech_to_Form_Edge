@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta in via della pace, civico due, per parcheggio in divieto di sosta. Il veicolo coinvolto è una macchina agricola immatricolata in Francia con targa di tipo prova. La violazione riguarda l'articolo quattro, comma due del codice civile, e comporta la decurtazione di nove punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. Si richiede la stampa in portoghese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "i gia i quattrocentocinquanta sei capelli",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "stai mettendo un verbale per il veicolo peggio duecentotto macchina agricola immatricolati in francia con targa i gia i quattrocentocinquanta sei capelli di tipo prova l'infrazione è avvenuta in via della pace civico due parcheggio in divieto di sosta si applica l'articolo quattro comma due del codice civile a seguito della violazione verranno decurtati nove punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in portoghese tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Peugeot 208, macchina agricola immatricolato in francia con targa IJ456KL di tipo prova. L'infrazione è avvenuta in via della Pace, civico 2: parcheggio in divieto di sosta. Si applica l'articolo 4, comma 2 del codice civile. A seguito della violazione verranno decurtati 9 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in portoghese tramite bluetooth, non stampare anche la comunicazione. "
+}

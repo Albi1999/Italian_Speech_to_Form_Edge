@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo immatricolato in Francia, con targa ufficiale, per un'infrazione commessa il 26 aprile 2025 alle 12:02 in corso Italia, civico 30. La violazione riguarda il parcheggio su strisce pedonali, ai sensi dell'articolo 5, comma 3 del codice penale. La contestazione è stata eseguita immediatamente dall'agente Mario Rossi e comporta la decurtazione di 8 punti. È richiesta la stampa in spagnolo tramite WiFi, con inclusa la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "mezzogiorno e due minuti",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "o sette centottantanove doppia ex",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "chapas a in in già seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo chapas a in in già seicentocinquanta ciclomotori targa o sette centottantanove doppia ex di tipo ufficiale immatricolati in francia per infrazione commessa in data ventisei aprile duemilaventicinque ore e mezzogiorno e due minuti in corso italia civico trenta è stato rilevato parcheggio su strisce pedonali ai sensi dell'articolo cinque comma tre del codice penale contestazione immediata eseguita dall'agente mario rossi la violazione comporta la decurtazione di otto punti richiesta stampa in spagnolo vi hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Kawasaki Ninja 650 ciclomotore, targa UV789WX di tipo ufficiale, immatricolato in francia, per infrazione commessa in data 26/04/2025, ore 12:02. In corso Italia, civico 30, è stato rilevato parcheggio su strisce pedonali, ai sensi dell'articolo 5, comma 3, del codice penale.Contestazione immediata eseguita dall'agente Mario Rossi. La violazione comporta la decurtazione di 8 punti. Richiesta stampa in spagnolo via wifi, stampa anche la comunicazione."
+}

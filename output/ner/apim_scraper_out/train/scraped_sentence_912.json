@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata il 17 aprile 2025 alle 3:35 per un veicolo ciclomotore con targa prova immatricolato in Spagna. La violazione è avvenuta in via del Corso, civico 12, per transito in zona accesso vietato, violando il codice civile, articolo 49, comma 47. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. È previsto un punto da decurtare. La stampa avviene tramite Wi-Fi in olandese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "tre trentacinque",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "spagna",
+                    "targa": "guerre quattrocentocinquanta sei se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantanove",
+                    "comma": "quarantasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle tre trentacinque del diciassette aprile duemilaventicinque storie di gendo un verbale per il veicolo ciclomotori targato guerre quattrocentocinquanta sei se ti con targa prova immatricolati in spagna l'infrazione stata accertata in via del corso al civico dodici con violazione del codice civile articolo quarantanove con ma quarantasette per transito in zona accesso vietato sono previsti un punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzioni accessoria stampa tramite vuoi fai in olandese stampa anche la comunicazione",
+    "original_sentence": "Alle 03:35 del 17/04/2025, sto redigendo un verbale per il veicolo ciclomotore targato QR456ST con targa prova, immatricolato in spagnaL'infrazione è stata accertata in via del Corso, al civico 12, con violazione del codice civile, articolo 49,comma 47 per transito in zona accesso vietato Sono previsti 1 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in olandese, stampa anche la comunicazione. "
+}

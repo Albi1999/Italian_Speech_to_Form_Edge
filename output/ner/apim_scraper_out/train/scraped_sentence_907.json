@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo motoveicolo targato \"icsi ypsilon centoventitre\" di tipo speciale, proveniente dalla Spagna, marca Renault Clio. La violazione riguarda il transito in zona ad accesso vietato, avvenuta il 30 aprile 2025 alle ore 23:53 in Corso della Repubblica, numero 19. L'infrazione è classificata sotto l'articolo 6, comma 4 del codice civile. La contestazione immediata non è stata possibile a causa dell'assenza del trasgressore. La sanzione comporta la perdita di quattro punti. Si richiede la stampa in lingua spagnola tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "ventitré cinquantatré",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "spagna",
+                    "targa": "icsi ypsilon centoventitre",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "reno clio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo motoveicoli targato icsi ypsilon centoventitre di tipo speciale proveniente da spagna marcare reno clio la violazione ovvero transito in zona accesso vietato sia verificata in data trenta aprile duemilaventicinque alle ore ventitré cinquantatré in corso della repubblica al numero diciannove l'infrazione rientra nell'articolo sei comma quattro del codice civile non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzione prevede la perdita di quattro punti si richiede la stampa in lingua spagnolo tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo motoveicolo targato XY123ZA di tipo speciale proveniente da spagna, marca Renault Clio. La violazione, ovvero transito in zona accesso vietato, si è verificata in data 30/04/2025 alle ore 23:53 in corso della Repubblica, al numero 19. L'infrazione rientra nell'articolo 6, comma 4 del codice civile. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 4 punti. Si richiede la stampa in lingua spagnolo, tramite wifi, non stampare anche la comunicazione. "
+}

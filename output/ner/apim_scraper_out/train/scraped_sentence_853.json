@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il 27 aprile 2025 alle ore 5:09 per un veicolo macchina agricola Subaru con targa \"guerre sei centocinquantaquattro\" di tipo prova, registrato in Grecia. L'infrazione è avvenuta in corso della libertà al numero 7, per parcheggio in divieto di sosta, secondo l'articolo 29 comma 27 del codice civile. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti tre punti di decurtazione. Si richiede la stampa della notifica tramite WiFi in lingua francese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "cinque nove",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "grecia",
+                    "targa": "guerre sei centocinquantaquattro",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventisette aprile duemilaventicinque alle ore cinque nove è stato emesso un preavviso di violazione per il veicolo macchina agricola di marca subaru in prezza con targa guerre sei centocinquantaquattro e se ti tipo prova registrato in grecia l'infrazione e avvenuta in corso della libertà al numero sette è consiste in parcheggio in divieto di sosta come previsto dall'articolo ventinove come ventisette del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti tre punti di decurtazione si prega di stampare la presente notifica tramite wifi in lingua francese non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 27/04/2025, alle ore 05:09, è stato emesso un preavviso di violazione per il veicolo macchina agricola di marca Subaru Impreza, con targa QR654ST (tipo prova), registrato in grecia. L'infrazione è avvenuta in corso della Libertà, al numero 7, e consiste in parcheggio in divieto di sosta, come previsto dall'articolo 29, comma 27 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 3 punti di decurtazione. Si prega di stampare la presente notifica tramite wifi, in lingua francese, non stampare anche la comunicazione. "
+}

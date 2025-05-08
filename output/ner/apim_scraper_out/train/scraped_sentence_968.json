@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il ventisei aprile duemilaventicinque alle quattordici e venticinque. La violazione riguarda il parcheggio in zona a rimozione, in base all'articolo quarantasette comma quarantacinque del codice civile. La contestazione immediata non è stata possibile per l'assenza del trasgressore. Sono previsti dieci punti di decurtazione. Si richiede la stampa in lingua inglese tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "aprile duemilaventicinque",
+            "ora_violazione": "quattordici e venticinque",
+            "Strada_1": "della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italia",
+                    "targa": "ci di quattrocentocinquanta sei e fedi",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "mezzo bici six",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: di",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbale per violazione accertate inventato aprile duemilaventicinque alle quattordici e venticinque in questo della repubblica a il civico diciannove a carico del veicolo mezzo bici six autovettura contenga ci di quattrocentocinquanta sei e fedi tipo copertura immatricolati in italia la violazione contestata e parcheggio in zona a rimozione in base a articolo quarantasette come quarantacinque del codice civile non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti dieci punti di decurtazione si richiede la stampa in lingua inglese di hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 28/04/2025 alle ore 14:25 in corso della Repubblica, al civico 19, a carico del veicolo Mitsubishi ASX, autovettura con targa CD456EF di tipo copertura, immatricolato in italia. La violazione contestata è parcheggio in zona rimozione, in base all'articolo 47, comma 45 del codice civile. Non è stato possibile contestare immediatamente, per assenza del trasgressore. Sono previsti 10 punti di decurtazione. Si richiede la stampa in lingua inglese via wifi, non stampare anche la comunicazione. "
+}

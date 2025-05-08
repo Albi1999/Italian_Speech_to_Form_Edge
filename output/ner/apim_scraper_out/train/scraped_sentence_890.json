@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione stradale per un veicolo agricolo immatricolato in Spagna con targa ufficiale. L'infrazione è avvenuta in via Garibaldi, civico uno, in una zona di rimozione. Si applica l'articolo 158, comma 2 del codice penale e verranno decurtati otto punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. Si richiede la stampa in italiano tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via garibaldi",
+            "Civico_1": "un",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "effe quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtati, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "stai mettendo un verbale per il veicolo si tronchi quattro tu macchina agricola immatricolati in spagna con targa effe quattrocentocinquanta sei giacca di tipo ufficiale l'infrazione e avvenuta in via garibaldi civico un parcheggio in zona a rimozione si applica l'articolo centocinquantotto comma due del codice penale a seguito della violazioni verranno decurtati otto punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazioni immediata si prega di procedere con la stampa in italiano tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Citroen C4 Cactus, macchina agricola immatricolato in spagna con targa EF456GH di tipo ufficiale. L'infrazione è avvenuta in via Garibaldi, civico 11: parcheggio in zona rimozione. Si applica l'articolo 158, comma 2 del codice penale. A seguito della violazione verranno decurtati 8 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in italiano tramite wifi, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo ciclomotore con targa ufficiale proveniente dalla Francia. La violazione è avvenuta il primo maggio 2025 alle ore 15:41 per parcheggio su strisce pedonali in viale della Libertà, numero 22. La violazione è in base all'articolo 34, comma 32 del codice penale, con una decurtazione di sette punti. Si richiede la stampa del preavviso tramite Bluetooth in lingua olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "quindici quarantuno",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "tu trecentoventi uno doppia wings",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentaquattro",
+                    "comma": "trentadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "piu tutti",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo ciclomotori manca un da gesu targa tu trecentoventi uno doppia wings di tipo ufficiale proveniente da francia in data primo maggio duemilaventicinque alle ore quindici quarantuno e stata rilevata da violazione di parcheggio su strisce pedonali in viale della libertà al numero ventidue in base all'articolo trentaquattro coma trentadue del codice penale per tale infrazione sono previsti sette punti di decurtazione si richiede la stampa del preavviso tramite piu tutti in lingua olandese non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo ciclomotore, marca Honda Jazz, targato UV321WX di tipo ufficiale, proveniente da francia. In data 01/05/2025 alle ore 15:41, è stata rilevata la violazione di parcheggio su strisce pedonali in viale della Libertà, al numero 22, in base all'articolo 34, comma 32 del codice penale. Per tale infrazione sono previsti 7 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua olandese, non stampare anche la comunicazione. "
+}

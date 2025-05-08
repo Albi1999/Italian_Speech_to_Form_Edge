@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per una violazione accertata il 21 aprile 2025 alle ore 15:34 in Corso della Libertà, civico 7. La violazione riguarda un veicolo con targa croata, che ha parcheggiato in divieto di sosta secondo l'articolo 131, comma 9 del codice penale. La contestazione è stata immediata da parte dell'agente Matteo Gallo. Sono previsti tre punti di decurtazione. Si richiede la stampa in lingua spagnola via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "quindici e trentaquattro",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "icsi ypsilon sei centocinquantaquattro sa",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centotrentuno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: di",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stai dicendo verbale per violazione accertata il ventuno aprile duemilaventicinque alle ore quindici e trentaquattro in corso della libertà al civico sette a carico del veicolo si tronchi tre ciclomotori con targa icsi ypsilon sei centocinquantaquattro sa di tipo copertura immatricolati croazia la violazione contestate hai parcheggiato in divieto di sosta in base al l'articolo centotrentuno comma nove del codice penale la contestazione e avvenuta immediatamente da parte della gente matteo gallo sono previsti tra i punti di decurtazione si richiede la stampa in lingua spagnolo via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 21/04/2025 alle ore 15:34 in corso della Libertà, al civico 7, a carico del veicolo Citroen C3, ciclomotore con targa XY654ZA di tipo copertura, immatricolato in croazia. La violazione contestata è parcheggio in divieto di sosta, in base all'articolo 121, comma 9 del codice penale. La contestazione è avvenuta immediatamente da parte dell'agente Matteo Gallo. Sono previsti 3 punti di decurtazione. Si richiede la stampa in lingua spagnolo via wifi, non stampare anche la comunicazione. "
+}

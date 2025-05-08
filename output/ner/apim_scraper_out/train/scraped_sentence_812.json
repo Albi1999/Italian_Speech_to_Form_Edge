@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un rimorchio immatricolato in Germania, coinvolto in una violazione il 25 aprile 2025 alle 14:01 in viale della Scienza, civico 14. La violazione riguarda il parcheggio su strisce pedonali, violando l'articolo 27, comma 25 del codice civile. La conseguenza è la perdita di sei punti. La stampa è richiesta in modalità Hawaii e lingua olandese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "quattordici è un minuto",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "prova",
+                    "nazione": "germania",
+                    "targa": "i dei sette centottantanove capelli",
+                    "tipologia_targa": null,
+                    "marca_modello": "mi subisce",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventisette",
+                    "comma": "venticinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per rimorchio marca mi subisce targa i dei sette centottantanove capelli di tipo prova immatricolati in germania in data venticinque aprile duemilaventicinque alle ore quattordici è un minuto in viale della scienza al civico quattordici e stata commessa la seguente violazione parcheggio su strisce pedonali articolo ventisette con ma venticinque del codice civile dalla violazione con segue la perdita di sei punti stampa e modalità hawaii fai lingua olandese non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per rimorchio, marca Mitsubishi ASX, targa IJ789KL di tipo prova, immatricolato in germania. In data 25/04/2025 alle ore 14:01, in viale della Scienza, al civico 14, è stata commessa la seguente violazione: parcheggio su strisce pedonali (articolo 27, comma 25 del codice civile). Dalla violazione consegue la perdita di 6 punti. Stampa in modalità wifi e in lingua olandese, non stampare anche la comunicazione. "
+}

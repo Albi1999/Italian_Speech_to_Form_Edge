@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata l'11 aprile 2025 alle 4:55 in via della Speranza, civico 18. Il veicolo coinvolto è una Seat Ibiza, ciclomotore con targa svizzera. La violazione riguarda il parcheggio in doppia fila, secondo l'articolo 4, comma 2 del codice stradale. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti otto punti di decurtazione. Si richiede la stampa in lingua francese via Bluetooth, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "cinque meno cinque",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "svizzera",
+                    "targa": "io e quattrocentocinquanta sei chi lo litri",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "seat ibiza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: di",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata e l'undici aprile duemilaventicinque alle ore cinque meno cinque in via della speranza al civico diciotto a carico del veicolo seat ibiza ciclomotori con targa io e quattrocentocinquanta sei chi lo litri di tipo speciale immatricolati in svizzera la violazione contestata e parcheggia in doppia fila in base all'articolo quattro con ma due del codice stradale non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti otto punti di decurtazione si richiede la stampa in lingua francese via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 11/04/2025 alle ore 04:55 in via della Speranza, al civico 18, a carico del veicolo Seat Ibiza, ciclomotore con targa IJ456KL di tipo speciale, immatricolato in svizzera. La violazione contestata è parcheggio in doppia fila, in base all'articolo 4, comma 2 del codice stradale.Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti 8 punti di decurtazione. Si richiede la stampa in lingua francese via bluetooth, non stampare anche la comunicazione."
+}

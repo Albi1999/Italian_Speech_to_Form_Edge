@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale. Il veicolo coinvolto è una macchina operatrice targata CI DI 4506 JEFF, di tipo prova, proveniente dall'Italia, marca Seat Ibiza. La violazione riguarda il parcheggio su strisce pedonali, avvenuta il 2 maggio 2025 alle ore 20:20 in viale dei Giardini, numero 8. L'infrazione rientra nell'articolo 7, comma 5 del codice stradale. La contestazione è stata immediata da parte dell'agente Matteo Gallo e prevede la perdita di 7 punti. Si richiede la stampa in lingua olandese tramite Wi-Fi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "venti e venti",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrici",
+                    "nazione": "italia",
+                    "targa": "ci di quattrocentocinquanta sei jeff",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "seat ibiza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrici targato ci di quattrocentocinquanta sei jeff di tipo prova proveniente da italia marca seat ibiza la violazione ovvero parcheggio su strisce pedonali si e verificata in data due maggio duemilaventicinque alle ore venti e venti in viale dei giardini al numero otto l'infrazione rientra nell'articolo sette con ma cinque del codice stradale contestazione immediata da parte della gente matteo gallo la sanzione prevede la perdita di sette punti si richiede la stampa in lingua olandese tramite guai fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato CD456EF di tipo prova proveniente da italia, marca Seat Ibiza. La violazione, ovvero parcheggio su strisce pedonali, si è verificata in data 02/05/2025 alle ore 20:20 in viale dei Giardini, al numero 8. L'infrazione rientra nell'articolo 7, comma 5 del codice stradale. Contestazione immediata da parte dell'agente Matteo Gallo. La sanzione prevede la perdita di 7 punti. Si richiede la stampa in lingua olandese, tramite wifi, non stampare anche la comunicazione. "
+}

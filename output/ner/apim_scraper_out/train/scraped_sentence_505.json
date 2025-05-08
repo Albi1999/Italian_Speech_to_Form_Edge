@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo rimorchio marca Metis, targa H 456 WW, tipo ufficiale, immatricolato in Belgio. La violazione è avvenuta il 2 maggio 2025 alle ore 4:36 in Piazza Venezia, civico 1, per parcheggio in doppia fila, secondo l'articolo 33 comma 31 del codice civile. Sono previsti sette punti di decurtazione. Si richiede la stampa digitale del preavviso in lingua portoghese tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "e quattro i trentasei",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "belgio",
+                    "targa": "ho quattrocentocinquanta sei doppia wings",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "ma metis sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentatré",
+                    "comma": "trentuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "brutta",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo rimorchio marca ma metis sette targa ho quattrocentocinquanta sei doppia wings di tipo ufficiale immatricolati in belgio la violazione è avvenuta il due maggio duemilaventicinque alle ore e quattro i trentasei in piazza venezia al numero civico uno ed è relativa parcheggia in doppia fila in base all'articolo l'articolo trentatré comma trentuno del codice civile per tale violazione sono previsti sette punti di decurtazione si richiede la stampa digitale preavviso in lingua portoghese tramite brutta non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo rimorchio, marca Yamaha MT-07, targa UV456WX di tipo ufficiale, immatricolato in belgio. La violazione è avvenuta il 02/05/2025 alle ore 04:36 in piazza Venezia, al numero civico 1, ed è relativa a parcheggio in doppia fila, in base all'articolo 33, comma 31 del codice civile. Per tale violazione sono previsti 7 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua portoghese tramite bluetooth, non stampare anche la comunicazione. "
+}

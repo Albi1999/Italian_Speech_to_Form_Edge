@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Subaru registrato in Croazia, targato \"sette centottantanove ho qui con targa copertura\". L'infrazione è avvenuta il 23 aprile 2025 alle 22:07 in via della Speranza, civico 18, per parcheggio in doppia fila. La violazione riguarda l'articolo 17, comma 15 del codice stradale e comporta una decurtazione di tre punti. La stampa dell'avviso è richiesta via Bluetooth in tedesco, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "ventidue sette",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "croazia",
+                    "targa": "sette centottantanove ho qui con targa copertura",
+                    "tipologia_targa": null,
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: decurtazione, after: punti",
+            "tipo_stampa": "bruti",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo subaru quindicesimo autovettura targato sette centottantanove ho qui con targa copertura registrato in croazia per un fatto accaduto il ventitré aprile duemilaventicinque alle ventidue sette il veicolo si trovava in via della speranza al civico diciotto dove è stato riscontrato parcheggia in doppia fila in base a l'articolo diciassette con ma quindici del codice stradale questa infrazione comporta una decurtazione di tre punti genere alla stampa dell'avviso via bruti in tedesco non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Subaru XV, autovettura, targato MN789OP con targa copertura, registrato in croazia, per un fatto accaduto il 23/04/2025 alle 22:07. Il veicolo si trovava in via della Speranza, al civico 18, dove è stato riscontrato parcheggio in doppia fila, in base all'articolo 17, comma 15, del codice stradale. Questa infrazione comporta una decurtazione di 3 punti. Genera la stampa dell'avviso via bluetooth in tedesco, non stampare anche la comunicazione. "
+}

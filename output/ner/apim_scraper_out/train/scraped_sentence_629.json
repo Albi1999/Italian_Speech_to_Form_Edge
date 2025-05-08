@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 4 maggio 2025 alle ore 19:06 in Corso della Giustizia, civico 23. La violazione riguarda un veicolo Peugeot 2008 con targa CD 123 AB, immatricolato in Belgio, per parcheggio in doppia fila. La contestazione è avvenuta immediatamente da parte dell'agente Silvia Neri. Sono previsti dieci punti di decurtazione. Si richiede la stampa in lingua olandese via Hawaii, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "diciannove sei",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "belgio",
+                    "targa": "ci di centoventitre abby",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "peggio duemilaotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantadue",
+                    "comma": "quaranta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: di",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il quattro maggio duemilaventicinque alle ore diciannove sei in corso della giustizia al civico ventitré a carico del veicolo peggio duemilaotto autovettura con targa ci di centoventitre abby di tipo speciale immatricolati in belgio la violazione contestata e parcheggia in doppia fila in base all'articolo quarantadue comma quaranta del codice penale la contestazione e avvenuta immediatamente da parte della gente silvia neri sono previsti dieci punti di decurtazione si richiede la stampa in lingua olandese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 04/05/2025 alle ore 19:06 in corso della Giustizia, al civico 23, a carico del veicolo Peugeot 2008, autovettura con targa CD123AB di tipo speciale, immatricolato in belgio. La violazione contestata è parcheggio in doppia fila, in base all'articolo 42, comma 40 del codice penale. La contestazione è avvenuta immediatamente da parte dell'agente Silvia Neri. Sono previsti 10 punti di decurtazione. Si richiede la stampa in lingua olandese via wifi, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione stradale avvenuta in via Venti Settembre, civico cinque, per un veicolo Lancia Ypsilon con rimorchio immatricolato in Slovenia. La violazione riguarda il parcheggio in divieto di sosta e si applica l'articolo 2235, comma 23 del codice stradale. A causa dell'assenza del trasgressore, non è stato possibile effettuare la contestazione immediata. Verranno decurtati un punto. La stampa deve essere effettuata in olandese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": null,
+                    "nazione": "slovenia",
+                    "targa": "hai già i quattrocentocinquanta sei capelli",
+                    "tipologia_targa": null,
+                    "marca_modello": "lancia i ypsilon rimorchio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "duemiladue centotrentacinque",
+                    "comma": "ventitré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtati, after: punti",
+            "tipo_stampa": "blackout",
+            "lingua_stampa": "olandesi",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "stai mettendo un verbale per il veicolo lancia i ypsilon rimorchio immatricolati slovenia con targa hai già i quattrocentocinquanta sei capelli di tipo copertura l'inflazione è avvenuta in via venti settembre silico cinque parcheggio in divieto di sosta si applica l'articolo duemiladue centotrentacinque come ventitré del codice stradale a seguito della violazioni verranno decurtati un punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazioni immediata si prega di procedere con la stampa in olandesi tramite blackout non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Lancia Ypsilon, rimorchio immatricolato in slovenia con targa IJ456KL di tipo copertura. L'infrazione è avvenuta in via XX Settembre, civico 5: parcheggio in divieto di sosta. Si applica l'articolo 2235, comma 23 del codice stradale. A seguito della violazione verranno decurtati 1 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in olandese tramite bluetooth, non stampare anche la comunicazione. "
+}

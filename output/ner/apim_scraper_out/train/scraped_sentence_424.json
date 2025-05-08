@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un rimorchio con targa slovena, commessa il 24 aprile 2025 alle ore 20:22 in via della Speranza, civico 17. La violazione riguarda il transito in zona con accesso vietato, violando l'articolo 39, comma 37 del codice penale, con conseguente perdita di tre punti. La stampa è richiesta in modalità Hawaii e in lingua tedesca, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "venti e ventidue",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "slovenia",
+                    "targa": "ubi sette centottantanove doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "se lei lettera",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: perdita, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per rimorchio marca se lei lettera targa ubi sette centottantanove doppia ex di tipo speciale immatricolati slovenia in data ventiquattro aprile duemilaventicinque alle ore venti e ventidue in via della speranza al civico diciassette e stata commessa la seguente violazione transito in zona accesso vietato articolo trentanove comma trentasette del codice penale dalla violazione con segue la perdita di tre punti stampa in modalità hawaii fai è in lingua tedesco stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per rimorchio, marca Chevrolet Trax, targa UV789WX di tipo speciale, immatricolato in slovenia. In data 24/04/2025 alle ore 20:22, in via della Speranza, al civico 17, è stata commessa la seguente violazione: transito in zona accesso vietato (articolo 39, comma 37 del codice penale).Dalla violazione consegue la perdita di 3 punti.Stampa in modalità wifi e in lingua tedesco, stampa anche la comunicazione."
+}

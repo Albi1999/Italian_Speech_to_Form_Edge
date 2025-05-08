@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per due veicoli immatricolati in Grecia, con targa \"curry sette centottantanove se ti di tipo copertura\". L'infrazione è avvenuta in corso Italia, civico trenta, per parcheggio in doppia fila. Si applica l'articolo quarantacinque, comma quarantatré del codice stradale, con la decurtazione di sette punti. La contestazione è stata immediata, eseguita dall'agente Chiara Romano. La stampa del verbale deve avvenire in tedesco tramite Wi-Fi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "curry sette centottantanove se ti di tipo copertura",
+                    "tipologia_targa": null,
+                    "marca_modello": "amai ypsilon seta e fede sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo amai ypsilon seta e fede sette macchina operatrice immatricolati in grecia con targa curry sette centottantanove se ti di tipo copertura l'infrazione avvenuta in corso italia civico trenta parcheggia in doppia fila si applica l'articolo quarantacinque comma quarantatré del codice stradale a seguito della violazione verranno decurtati sette punti il verbale è stato contestato immediatamente dall'agente chiara romano si prega di procedere con la stampa in tedesco tramite guai fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Yamaha YZF-R7, macchina operatrice immatricolato in grecia con targa QR789ST di tipo copertura. L'infrazione è avvenuta in corso Italia, civico 30: parcheggio in doppia fila. Si applica l'articolo 45, comma 43 del codice stradale. A seguito della violazione verranno decurtati 7 punti.Il verbale è stato contestato immediatamente dall'agente Chiara Romano. Si prega di procedere con la stampa in tedesco tramite wifi, non stampare anche la comunicazione."
+}

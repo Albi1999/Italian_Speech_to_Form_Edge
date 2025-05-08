@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo Alfa Romeo Stelvio con targa francese, rilevato in violazione per parcheggio in doppia fila. La violazione è avvenuta il cinque maggio duemilaventicinque alle ore sedici in via Vittorio Emanuele al numero quindici. La violazione riguarda l'articolo sei del codice stradale e comporta la decurtazione di quattro punti. Si richiede la stampa del preavviso tramite Bluetooth in lingua portoghese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "sedici",
+            "Strada_1": "vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "francia",
+                    "targa": "i gia centoventitre capelli",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "alfa romeo stelvio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": null,
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: previsti, after: di",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo autovettura mai alfa romeo stelvio targato i gia centoventitre capelli di tipo copertura proveniente da francia in data cinque maggio duemilaventicinque alle ore sedici atto e stata rilevata la violazione di parcheggia in doppia fila in questo vittorio emanuele a il numero quindici in base a articolo atto coma sei del codice stradale per tale infrazione sono previsti quattro punti di decurtazione si richiede la stampa dei preavviso tramite blu tutti in lingua portoghese non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo autovettura, marca Alfa Romeo Stelvio, targato IJ123KL di tipo copertura, proveniente da francia. In data 05/05/2025 alle ore 16:08, è stata rilevata la violazione di parcheggio in doppia fila in corso Vittorio Emanuele, al numero 15, in base all'articolo 8, comma 6 del codice stradale. Per tale infrazione sono previsti 4 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua portoghese, non stampare anche la comunicazione. "
+}

@@ -1,6 +1,6 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive la generazione di un verbale per un veicolo immatricolato in Svizzera, che ha commesso un'infrazione il 17 aprile 2025 alle 2:12. L'infrazione è avvenuta in via della Pace al numero 2, dove il veicolo era in transito in una zona di accesso vietato. L'articolo violato è il 6 comma 1 del codice stradale, e verranno tolti 3 punti dalla patente. Il verbale deve essere stampato via Bluetooth in spagnolo e include anche la comunicazione.",
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo immatricolato in Svizzera, che ha commesso un'infrazione il 17 aprile 2025 alle 2:12. L'infrazione è avvenuta in via della Pace, numero 2, per transito in zona accesso vietato. L'articolo violato è il 6, comma 1, del codice stradale, con la decurtazione di 3 punti dalla patente. Il verbale sarà stampato via Bluetooth in spagnolo e include anche la comunicazione.",
         "report": {
             "verbale_preavviso": "verbale",
             "data_violazione": "diciassette aprile duemilaventicinque",
@@ -13,7 +13,7 @@
                     "nazione": "svizzera",
                     "targa": "ragazza quattrocentocinquanta sei cupi",
                     "tipologia_targa": "prova",
-                    "marca_modello": null,
+                    "marca_modello": "un venti",
                     "colore": null
                 }
             ],
@@ -23,12 +23,12 @@
                 {
                     "codice": "stradale",
                     "articolo": "sei",
-                    "comma": "uno",
+                    "comma": "prima uno dodici",
                     "sanzione_accessoria": null
                 }
             ],
             "punti": "tre",
-            "tipo_stampa": "blu tutti",
+            "tipo_stampa": "blu",
             "lingua_stampa": "spagnolo",
             "stampa_anche_comunicazione": "stampa anche la comunicazione"
         },

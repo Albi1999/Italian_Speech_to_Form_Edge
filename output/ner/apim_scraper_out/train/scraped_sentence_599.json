@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo Mazda Chips tre, macchina operatrice, targato Abby novecentottanta sette ci di, con targa ufficiale registrato in Portogallo. La violazione è avvenuta il trenta aprile duemilaventicinque alle una e ventotto in corso Buenos Aires al civico novantotto, per parcheggio su strisce pedonali. La violazione è in base all'articolo trentacinque comma trentatré del codice penale e comporta una decurtazione di tre punti. La stampa dell'avviso è via Bluetooth, in inglese, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "una e ventotto",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "abby novecentottanta sette ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "mazda chips tre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo mazda chips tre macchina operatrice targato abby novecentottanta sette ci di con targa ufficiale registrato in portogallo per un fatto accaduto il trenta aprile duemilaventicinque alle una e ventotto il veicolo si trovava in corso buenos aires al civico novantotto dove è stato riscontrato parcheggio su strisce pedonali in base all'articolo trentacinque comma trentatré del codice penale questa infrazione comporta una decurtazione di tre punti genera alla stampa dell'avviso via blu tutti in inglese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Mazda CX-3, macchina operatrice, targato AB987CD con targa ufficiale, registrato in portogallo, per un fatto accaduto il 30/04/2025 alle 01:28. Il veicolo si trovava in corso Buenos Aires, al civico 98, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 35, comma 33, del codice penale. Questa infrazione comporta una decurtazione di 3 punti. Genera la stampa dell'avviso via bluetooth in inglese, stampa anche la comunicazione. "
+}

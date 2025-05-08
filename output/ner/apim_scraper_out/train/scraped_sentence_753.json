@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Audi A3 rimorchio, targa 123 CD, immatricolato in Croazia. L'infrazione è avvenuta il 14 aprile 2025 alle ore 19:28 in via Giuseppe Mazzini, civico 24, per parcheggio davanti a passo carabine. La violazione è ai sensi dell'articolo 21, comma 19 del codice stradale. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di 4 punti. È richiesta la stampa in inglese tramite WiFi, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "diciannove ventotto",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "centoventitre ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "audi a tre",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo audi a tre rimorchio targa centoventitre ci di di tipo speciale immatricolati in croazia per infrazione commessa in data quattordici aprile duemilaventicinque ore diciannove ventotto in via giuseppe mazzini civico ventiquattro è stato rilevato parcheggio davanti a passo carabine ai sensi dell'articolo ventuno con ma diciannove del codice stradale impossibile effettuare la contestazione immediata assenza del trasgressori la violazione comporta la decurtazione di quattro punti richiesta stampa in inglese di hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Audi A3 rimorchio, targa AB123CD di tipo speciale, immatricolato in croazia, per infrazione commessa in data 14/04/2025, ore 19:28. In via Giuseppe Mazzini, civico 24, è stato rilevato parcheggio davanti a passo carrabile, ai sensi dell'articolo 21, comma 19, del codice stradale. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 4 punti. Richiesta stampa in inglese via wifi, non stampare anche la comunicazione. "
+}

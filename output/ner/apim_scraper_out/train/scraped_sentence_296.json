@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 30 aprile 2025 alle ore 22:28 per un'autovettura con targa austriaca, rilevata in via del Corso al civico 12. La violazione riguarda il codice penale, articolo 10, comma 8, per parcheggio in doppia fila. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare sette punti. Il veicolo è un Per Corsa di colore rosso. La stampa del preavviso è richiesta tramite Bluetooth in portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "ventidue ventotto",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "per corsa",
+                    "nazione": "austria",
+                    "targa": "icsi ypsilon trecentoventi uno zaha",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": "rosso"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "dieci",
+                    "comma": "otto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data trenta aprile duemilaventicinque alle ore ventidue ventotto è stato notificato un preavviso per un'autovettura targato icsi ypsilon trecentoventi uno zaha con targa copertura immatricolati austria l'infrazione e stata rilevata in via del corso al civico dodici con violazione del codice penale articolo dieci con ma otto in particolare si e riscontrato un parcheggia in doppia fila non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono sette punti il veicolo è un per corsa di colore rosso con numero di telaio quattrocentotrenta cinque milioni e quattrocento diciannovemila cento sessantaquattro e massa duemilaquattrocento ottantacinque chilogrammi necessita la stampa del preavviso tramite blu tutta in portoghese stampa anche la comunicazione",
+    "original_sentence": "In data 30/04/2025, alle ore 22:28, è stato notificato un preavviso per un autovettura targato XY321ZA con targa copertura, immatricolato in austria. L'infrazione è stata rilevata in via del Corso, al civico 12, con violazione del codice penale, articolo 10, comma 8, in particolare si è riscontrato un parcheggio in doppia fila Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 7 punti. Il veicolo è un Opel Corsa di colore rosso, con numero di telaio 435419164 e massa 2485 kg.Necessito la stampa del preavviso tramite bluetooth, in portoghese, stampa anche la comunicazione."
+}

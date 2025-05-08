@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo ciclomotore marca \"Se le l'espace\" con targa \"gia cappa cinquecentosessantadue sette occhi\" di tipo prova, immatricolato in Portogallo. La violazione è avvenuta il 10 aprile 2025 alle ore 4:11 in viale della Vittoria, numero civico 9, per parcheggio davanti a passo carrabile, in base all'articolo 9 comma 1 del codice civile. Sono previsti cinque punti di decurtazione. Si richiede la stampa del preavviso in lingua francese tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "quattro e undici",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "portogallo",
+                    "targa": "gia cappa cinquecentosessantadue sette occhi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "se le l'espace",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "nove",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo ciclomotori marca se le l'espace targa gia cappa cinquecentosessantadue sette occhi di tipo prova immatricolati in portogallo la violazione è avvenuta il dieci aprile duemilaventicinque alle ore quattro e undici in viale della vittoria al numero civico nove ed è relativa parcheggio davanti a passo carr abile in base all'articolo nove comma uno del codice civile per tale violazione sono previsti cinque punti di decurtazione si richiede la stampa di tale preavviso in lingua francese tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo ciclomotore, marca Chevrolet Spark, targa JK567OP di tipo prova, immatricolato in portogallo. La violazione è avvenuta il 10/04/2025 alle ore 04:11 in viale della Vittoria, al numero civico 9, ed è relativa a parcheggio davanti a passo carrabile, in base all'articolo 9, comma 1 del codice civile. Per tale violazione sono previsti 5 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua francese tramite wifi, non stampare anche la comunicazione. "
+}

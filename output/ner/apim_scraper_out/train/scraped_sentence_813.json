@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il quattordici aprile duemilaventicinque alle ore nove per un veicolo ciclomotore di marca Cedro Le Tracy con targa I789 capelli, registrato in Olanda. L'infrazione è avvenuta in via Venti Settembre al numero cinque, consistente nel parcheggio in doppia fila, violando l'articolo quarantotto comma quarantasei del codice penale. Non essendo stato possibile identificare il conducente, la notifica è inviata al proprietario del veicolo. Sono previsti cinque punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua tedesca, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "nove",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "olanda",
+                    "targa": "i sette centottantanove capelli",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "cedro le tracy",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantotto",
+                    "comma": "quarantasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data quattordici aprile duemilaventicinque alle ore nove attrezzi è stato emesso un preavviso di violazioni per il veicolo ciclomotori di marca cedro le tracy con targa i sette centottantanove capelli tipo prova registrato in olanda l'infrazione avvenuta in via venti settembre al numero cinque è consiste in parcheggia in doppia fila come previsto dall'articolo quarantotto coma quarantasei del codice penale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti cinque punti di decurtazione si prega di stampare la presente notifica tramite blu tutte in lingua tedesco non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 14/04/2025, alle ore 09:13, è stato emesso un preavviso di violazione per il veicolo ciclomotore di marca Chevrolet Trax, con targa IJ789KL (tipo prova), registrato in olanda. L'infrazione è avvenuta in via XX Settembre, al numero 5, e consiste in parcheggio in doppia fila, come previsto dall'articolo 48, comma 46 del codice penale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 5 punti di decurtazione. Si prega di stampare la presente notifica tramite bluetooth, in lingua tedesco, non stampare anche la comunicazione. "
+}

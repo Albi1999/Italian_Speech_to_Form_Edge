@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 7 aprile 2025 alle ore 15:14 in via della Storia, civico 6. La violazione riguarda un veicolo immatricolato in Spagna con targa speciale, che ha parcheggiato in divieto di sosta secondo l'articolo 6, comma 4 del codice penale. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti 4 punti di decurtazione. Si richiede la stampa in lingua olandese tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "quindici quattordici",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "spagna",
+                    "targa": "è trecentoventi uno piedi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: previsti, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si sta dicendo verbale per violazione accertata il sette aprile duemilaventicinque alle ore quindici quattordici in via della storia al civico sei a carico del veicolo giamai me sette autovettura con targa è trecentoventi uno piedi di tipo speciale immatricolati in spagna la violazione contestata hai parcheggiato in divieto di sosta in base alle articolo sei con ma quattro del codice penale non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti quattro punti di decurtazione si richiede la stampa in lingua olandese di hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 07/04/2025 alle ore 15:14 in via della Storia, al civico 6, a carico del veicolo Yamaha MT-07, autovettura con targa MN321OP di tipo speciale, immatricolato in spagna. La violazione contestata è parcheggio in divieto di sosta, in base all'articolo 6, comma 4 del codice penale. Non è stato possibile contestare immediatamente, per assenza del trasgressore. Sono previsti 4 punti di decurtazione. Si richiede la stampa in lingua olandese via wifi, stampa anche la comunicazione. "
+}

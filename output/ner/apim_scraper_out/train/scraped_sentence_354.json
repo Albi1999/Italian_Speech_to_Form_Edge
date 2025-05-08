@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo immatricolato in Slovenia con targa di tipo prova. L'infrazione è avvenuta in via Venti Settembre, civico cinque, per parcheggio davanti a passo carabine. Si applica l'articolo 31 del codice stradale, comma 30, e verranno decurtati nove punti. Il verbale è stato contestato immediatamente dall'agente Carlo Bruni. La stampa deve essere effettuata in inglese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "slovenia",
+                    "targa": "quattrocentocinquanta sei occhi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo un dai venti ciclomotori immatricolati slovenia con targa quattrocentocinquanta sei occhi di tipo prova l'infrazione e avvenuta in via venti settembre civico cinque parcheggia davanti a passo carabine si applica l'articolo trentuno duemilanovecento trentadue comma trenta del codice stradale a seguito della violazione verranno decurtati nove punti il verbale è stato contestato immediatamente dalla gente carlo bruni si prega di procedere con la stampa in inglese tramite guai fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Hyundai i20, ciclomotore immatricolato in slovenia con targa MN456OP di tipo prova. L'infrazione è avvenuta in via XX Settembre, civico 5: parcheggio davanti a passo carrabile. Si applica l'articolo 31, 2932, comma 30 del codice stradale. A seguito della violazione verranno decurtati 9 punti.Il verbale è stato contestato immediatamente dall'agente Carlo Bruni. Si prega di procedere con la stampa in inglese tramite wifi, stampa anche la comunicazione."
+}

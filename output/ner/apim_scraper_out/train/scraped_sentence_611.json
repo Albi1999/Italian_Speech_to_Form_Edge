@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo rimorchio immatricolato in Spagna, con targa 'tega guerri novecento ottantasette', di tipo ufficiale. La violazione è avvenuta in viali della vittoria, civico nove, per transito in zona accesso vietato. Si applica l'articolo trentasette, comma trentacinque del codice civile. Verranno decurtati punti a seguito della violazione. Il verbale è stato contestato immediatamente dall'agente Alessandro Moretti. La stampa deve essere effettuata in portoghese tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "viali della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "spagna",
+                    "targa": "tega guerri novecento ottantasette",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "succhi vita",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentasette",
+                    "comma": "trentacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tra, before: decurtati, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo succhi vita rimorchio immatricolati in spagna tega guerri novecento ottantasette siti di tipo ufficiale l'inflazione è avvenuta in viali della vittoria civico nove transito in zona accesso vietato si applica l'articolo trentasette coma trentacinque del codice ci civile a seguito della violazione verranno decurtati tra i punti il verbale è stato contestato immediatamente dall'agente alessandro moretti si prega di procedere con la stampa in portoghese tramite blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Suzuki Vitara, rimorchio immatricolato in spagna con targa QR987ST di tipo ufficiale. L'infrazione è avvenuta in viale della Vittoria, civico 9: transito in zona accesso vietato. Si applica l'articolo 37, comma 35 del codice civile. A seguito della violazione verranno decurtati 3 punti. Il verbale è stato contestato immediatamente dall'agente Alessandro Moretti. Si prega di procedere con la stampa in portoghese tramite bluetooth, non stampare anche la comunicazione. "
+}

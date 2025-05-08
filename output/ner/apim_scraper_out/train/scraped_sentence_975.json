@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il ventotto aprile duemilaventicinque alle ore diciassette ventidue per una violazione riscontrata su un veicolo Subaru targato ME NE 320 1+, proveniente dalla Spagna. Il veicolo era parcheggiato in divieto di sosta in via della Speranza, civico diciassette, violando l'articolo ventiquattro, comma ventidue del codice penale. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di due punti dalla patente. La stampa è richiesta in spagnolo via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "diciassette ventidue",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "spagna",
+                    "targa": "me ne trecentoventi uno più",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventiquattro",
+                    "comma": "ventidue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data ventotto aprile duemilaventicinque alle ore diciassette ventidue per la violazione riscontrata al veicolo autovettura marca subaru quindicesima targato me ne trecentoventi uno più tipo ufficiali proveniente da spagna in particolare in via della speranza civico diciassette è stato accertato parcheggiato in divieto di sosta in violazione dell'articolo ventiquattro con ma ventidue del codice penale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di due punti dalla patente richiedo la stampa in spagnolo via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 28/04/2025 alle ore 17:22 per la violazione riscontrata al veicolo autovettura, marca Subaru XV, targato MN321OP (tipo ufficiale) proveniente da spagna. In particolare, in via della Speranza, civico 17, è stato accertato parcheggio in divieto di sosta, in violazione dell'articolo 24, comma 22 del codice penale. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 2 punti dalla patente. Richiedo la stampa in spagnolo via bluetooth, stampa anche la comunicazione. "
+}

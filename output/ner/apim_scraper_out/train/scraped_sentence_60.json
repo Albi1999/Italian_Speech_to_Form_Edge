@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il sei aprile 2025 alle ore 3:32 in via della Cultura, civico 9. La violazione riguarda un veicolo BMW con rimorchio, targa VI 320 1 doppia EX, immatricolato in Portogallo. La contestazione è avvenuta immediatamente da parte dell'agente Francesco Rizzo per parcheggio davanti a passo carabine, in base all'articolo 6, comma 1, del codice penale. Sono previsti tre punti di decurtazione. La stampa è richiesta in lingua portoghese via Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "tre trentadue",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "portogallo",
+                    "targa": "vi trecentoventi uno doppia ex",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "bmw jeff novecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sei",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: di",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il sei aprile duemilaventicinque alle ore tre trentadue in via della cultura al civico nove a carico del veicolo bmw jeff novecento rimorchio con targa vi trecentoventi uno doppia ex di tipo prova immatricolati portogallo la violazione contestata e parcheggio davanti a passo carabine in base all'articolo sei con ma prima uno dodici del codice penale la contestazione e avvenuta immediatamente da parte della gente francesco rizzo sono previsti tre punti di decurtazione si richiede la stampa in lingua portoghese via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 06/04/2025 alle ore 03:32 in via della Cultura, al civico 9, a carico del veicolo BMW F 900 R, rimorchio con targa UV321WX di tipo prova, immatricolato in portogallo. La violazione contestata è parcheggio davanti a passo carrabile, in base all'articolo 6, comma 1a(1-12) del codice penale.La contestazione è avvenuta immediatamente da parte dell'agente Francesco Rizzo. Sono previsti 3 punti di decurtazione. Si richiede la stampa in lingua portoghese via bluetooth, non stampare anche la comunicazione."
+}

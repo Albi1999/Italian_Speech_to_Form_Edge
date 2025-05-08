@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il dieci aprile 2025 alle ore cinque e dodici per un veicolo Lancia Ypsilon immatricolato in Slovenia con targa speciale. L'infrazione è avvenuta in via Roma, civico 77, per parcheggio in divieto di sosta, violando il codice civile, articolo 34, comma 32. La contestazione è stata immediata, eseguita dall'agente Bellini, con due punti da decurtare e senza sanzioni accessorie. La stampa è prevista in tedesco tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "cinque dodici",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "slovenia",
+                    "targa": "ubi trecentoventi uno doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "lancia i ypsilon",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trentaquattro",
+                    "comma": "trentadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: da",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno dieci aprile duemilaventicinque alle ore cinque dodici è stato redatto un verbale per il veicolo lancia i ypsilon molto veicolo immatricolati slovenia con targa ubi trecentoventi uno doppia ex di tipo speciale l'infrazione e avvenuta in via roma al civico settantasette stata riscontrata una violazione del codice civile articolo trentaquattro comma trentadue ovvero parcheggio in divieto di sosta e verbale è stato eseguito sul posto con contestazione immediata da parte della gente sarà bellini sono previsti due punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in tedesco tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Il giorno 10/04/2025, alle ore 05:12, è stato redatto un verbale per il veicolo Lancia Ypsilon, motoveicolo immatricolato in slovenia con targa UV321WX di tipo speciale.L'infrazione è avvenuta in via Roma, al civico 77. È stata riscontrata una violazione del codice civile, articolo 34, comma 32 ovvero parcheggio in divieto di sostaIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Sara Bellini. Sono previsti 2 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in tedesco tramite bluetooth, stampa anche la comunicazione."
+}

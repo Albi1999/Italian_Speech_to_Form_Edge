@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso l'otto aprile 2025 alle ore 22:50 per un veicolo BMW registrato in Svizzera. L'infrazione è avvenuta in corso della storia al numero 22, per parcheggio davanti a passo carabine, violando l'articolo 29, comma 27 del codice civile. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti sei punti di decurtazione. Si richiede la stampa della notifica tramite Wi-Fi in lingua francese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "ventidue cinquanta",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "svizzera",
+                    "targa": "icsi ypsilon trecentoventi uno",
+                    "tipologia_targa": "tipo copertura",
+                    "marca_modello": "bmw jeff novecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: di",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data otto aprile duemilaventicinque alle ore ventidue cinquanta è stato emesso un preavviso di violazione per il veicolo autovettura di marca bmw jeff novecento e con targa icsi ypsilon trecentoventi uno tipo copertura registrato in svizzera l'infrazione avvenuta in corso della storia al numero ventidue e consiste in parcheggio davanti a passo carabine come previsto dall'articolo ventinove con ma ventisette del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti sei punti di decurtazione si prega di stampare la presente notifica tramite vuoi fai in lingua francese stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 08/04/2025, alle ore 22:50, è stato emesso un preavviso di violazione per il veicolo autovettura di marca BMW F 900 R, con targa XY321ZA (tipo copertura), registrato in svizzera. L'infrazione è avvenuta in corso della Storia, al numero 22, e consiste in parcheggio davanti a passo carrabile, come previsto dall'articolo 29, comma 27 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 6 punti di decurtazione.  Si prega di stampare la presente notifica tramite wifi, in lingua francese, stampa anche la comunicazione."
+}

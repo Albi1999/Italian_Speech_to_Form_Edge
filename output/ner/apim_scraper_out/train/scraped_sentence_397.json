@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta il sette aprile duemilaventicinque alle ore sedici e quarantacinque. Un verbale è stato emesso per un veicolo immatricolato in Germania con targa speciale. L'infrazione è avvenuta in corso della Repubblica al civico diciannove, violando il codice stradale, articolo sette, comma cinque, per transito in zona accesso vietato. La contestazione immediata non è stata possibile a causa dell'assenza del trasgressore. Sono previsti dieci punti da decurtare, senza sanzioni accessorie. La stampa è richiesta in tedesco tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "sedici e quarantacinque",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "germania",
+                    "targa": "cappelle trecentoventi uno megan tony",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: da",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno sette aprile duemilaventicinque alle ore sedici e quarantacinque è statore dato un verbale per il veicolo per corsa ciclomotori e immatricolati in germania con targa cappelle trecentoventi uno megan tony di tipo speciale l'infrazione e avvenuta in corso della repubblica al civico diciannove e stata riscontrata una violazione del codice stradale articolo sette con ma cinque ovvero transito in zona accesso vietato non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti dieci punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in tedesco tramite blood stampa anche la comunicazione",
+    "original_sentence": "Il giorno 07/04/2025, alle ore 16:45, è stato redatto un verbale per il veicolo Opel Corsa, ciclomotore immatricolato in germania con targa KL321MN di tipo speciale.L'infrazione è avvenuta in corso della Repubblica, al civico 19. È stata riscontrata una violazione del codice stradale, articolo 7, comma 5 ovvero transito in zona accesso vietatoNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 10 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in tedesco tramite bluetooth, stampa anche la comunicazione."
+}

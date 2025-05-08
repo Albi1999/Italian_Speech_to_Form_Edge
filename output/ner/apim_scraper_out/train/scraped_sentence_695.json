@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo immatricolato in Belgio. La violazione è avvenuta il 8 aprile 2025 alle ore 4:17 in via della Concordia, civico 13, per parcheggio in zona a rimozione. La violazione è in base all'articolo 1228 comma 16 del codice penale, con una decurtazione di 10 punti. Si richiede la stampa del preavviso in lingua inglese tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "quattro diciassette",
+            "Strada_1": "via della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "belgio",
+                    "targa": "guerra novecentottanta sette se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "ma è meticce sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "milleduecento ventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: punti",
+            "tipo_stampa": "brutta",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo macchina operatrice marca ma è meticce sette targa guerra novecentottanta sette se ti di tipo copertura immatricolati in belgio la violazione è avvenuta hai lotto aprile duemilaventicinque alle ore quattro diciassette inviare della concordia al numero civico tredici ed è relativa parcheggio in zona a rimozione in base al l'articolo milleduecento ventotto comma sedici del codice penale per tale violazione sono previsti dieci punti di decurtazione si richiede la stampa di tale preavviso il lingua inglese tramite brutta non stampare anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo macchina operatrice, marca Yamaha MT-07, targa QR987ST di tipo copertura, immatricolato in belgio. La violazione è avvenuta il 08/04/2025 alle ore 04:17 in viale della Concordia, al numero civico 13, ed è relativa a parcheggio in zona rimozione, in base all'articolo 1228, comma 16 del codice penale. Per tale violazione sono previsti 10 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua inglese tramite bluetooth, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo immatricolato in Germania con targa di tipo prova. L'infrazione è avvenuta in via della giustizia, civico sedici, e riguarda l'articolo 46, comma 44 del codice penale. A seguito della violazione, verranno decurtati quattro punti. Il verbale è stato contestato immediatamente dall'agente Matteo Gallo. La stampa deve essere effettuata in tedesco tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "icsi non trecentottantuno",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtati, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo tra i un street ripley macchina agricola immatricolati in germania con targa icsi non trecentottantuno già di tipo prova l'infrazione è avvenuta in via della giustizia civico sedici parcheggio davanti a passo carabine si applica l'articolo quarantasei comma quarantaquattro del codice penale a seguito della violazione verranno decurtati quattro punti il verbale è stato contestato immediatamente dall'agente matteo gallo si prega di procedere con la stampa in tedesco tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Triumph Street Triple, macchina agricola immatricolato in germania con targa XY321ZA di tipo prova. L'infrazione è avvenuta in via della Giustizia, civico 16: parcheggio davanti a passo carrabile. Si applica l'articolo 46, comma 44 del codice penale. A seguito della violazione verranno decurtati 4 punti. Il verbale è stato contestato immediatamente dall'agente Matteo Gallo. Si prega di procedere con la stampa in tedesco tramite wifi, non stampare anche la comunicazione. "
+}

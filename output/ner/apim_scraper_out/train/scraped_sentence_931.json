@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo rimorchio della marca Mai Ypsilon, appartenente alla società Effe Terre Sette, con targa ufficiale proveniente dall'Olanda. L'infrazione è stata rilevata il 25 aprile 2025 alle ore 12:56 in via della Musica, civico 18, per parcheggio su strisce pedonali, violando l'articolo 5, comma 3 del codice civile. L'agente Marco Gentili ha provveduto alla contestazione immediata dell'infrazione, che comporta la perdita di 8 punti. Si richiede la stampa del verbale in francese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "dodici cinquantasei",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "olanda",
+                    "targa": "e me ne trecentoventi un occhi",
+                    "tipologia_targa": "ufficiali",
+                    "marca_modello": "mai ypsilon",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazioni immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo rimorchio marca mai ypsilon società effe terre sette targato e me ne trecentoventi un occhi di tipo ufficiali proveniente da olanda l'infrazione è stata rilevata il venticinque aprile duemilaventicinque alle ore dodici cinquantasei il veicolo si trovava in via della musica al civico diciotto in parcheggio su strisce pedonali violando l'articolo cinque coma tre del codice civile l'agente marco gentili a provveduto alla contestazioni immediata dell'infrazione la violazione comporta la perdita di otto punti richiedo la stampa del verbale in francese tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo rimorchio, marca Yamaha YZF-R7, targato MN321OP (di tipo ufficiale), proveniente da olanda. L'infrazione è stata rilevata il 25/04/2025 alle ore 12:56. Il veicolo si trovava in via della Musica, al civico 18, in parcheggio su strisce pedonali, violando l'articolo 5, comma 3, del codice civile. L'agente Marco Gentili ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 8 punti. Richiedo la stampa del verbale in francese tramite bluetooth, stampa anche la comunicazione. "
+}

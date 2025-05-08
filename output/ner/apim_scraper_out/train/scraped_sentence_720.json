@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso emesso per una violazione di transito in zona accesso vietato. La violazione è stata rilevata il quattro maggio duemilaventicinque alle ore ventidue e diciannove in via Roma al numero settantasette. Il veicolo coinvolto è una macchina operatrice marca Benelli Leoncino cinquecento, targato HOW 320 1 BUX, di tipo speciale, proveniente dalla Croazia. La violazione è in base all'articolo quarantanove comma quarantasette del codice civile, con un punto di decurtazione previsto. Si richiede la stampa del preavviso tramite Bluetooth in lingua spagnola, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "ventidue diciannove",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "how trecentoventi uno doppia bux",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "ben elli leoncino cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantanove",
+                    "comma": "quarantasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissioni di preavviso per il veicolo macchina operatrice marca ben elli leoncino cinquecento targato how trecentoventi uno doppia bux di tipo speciale proveniente da croazia in data quattro maggio duemilaventicinque alle ore ventidue diciannove e stata rilevata alla violazione di transito in zona accesso vietato invia roma al numero settantasette in base al l'articolo quarantanove come quarantasette del codice civile per tale infrazione sono previsti un punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua spagnolo stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina operatrice, marca Benelli Leoncino 500, targato UV321WX di tipo speciale, proveniente da croazia. In data 04/05/2025 alle ore 22:19, è stata rilevata la violazione di transito in zona accesso vietato in via Roma, al numero 77, in base all'articolo 49, comma 47 del codice civile. Per tale infrazione sono previsti 1 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua spagnolo, stampa anche la comunicazione. "
+}

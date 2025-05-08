@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 13 aprile 2025 alle 13:15 per un motoveicolo con targa speciale immatricolato in Slovenia. L'infrazione è stata accertata in via della Libertà, civico 3, per violazione del codice penale, articolo 19, comma 17, riguardante il parcheggio in zona a rimozione. Sono previsti dieci punti da decurtare. La contestazione è stata immediata, effettuata dall'agente Matteo Gallo. La stampa del verbale è stata effettuata tramite Wi-Fi in spagnolo, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "tredici e quindici",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "slovenia",
+                    "targa": "giacca cassette centottantanove",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "diciannove",
+                    "comma": "diciassette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: da",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle tredici e quindici del tredici aprile duemilaventicinque storie di gendo un verbale per i veicolo motoveicoli targato giacca cassette centottantanove i gia con targa speciale immatricolati in slovenia l'infrazione e stata accertata in via della libertà al civico tre con violazione del codice penale articolo diciannove coma diciassette per parcheggio in zona a rimozione sono previsti dieci punti da decurtare contestazione immediata effettuata dalla gente matteo gallo il verbale è stato redatto sul posto in via della libertà non posso applicare alcuna sanzione accessoria stampa tramite guai fai in spagnolo stampa anche la comunicazione",
+    "original_sentence": "Alle 13:15 del 13/04/2025, sto redigendo un verbale per il veicolo motoveicolo targato GH789IJ con targa speciale, immatricolato in sloveniaL'infrazione è stata accertata in via della Libertà, al civico 3, con violazione del codice penale, articolo 19,comma 17 per parcheggio in zona rimozione Sono previsti 10 punti da decurtare. Contestazione immediata effettuata dall'agente Matteo Gallo, il verbale è stato redatto sul posto in via della Libertà. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in spagnolo, stampa anche la comunicazione. "
+}

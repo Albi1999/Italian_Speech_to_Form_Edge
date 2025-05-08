@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è una macchina agricola BMW Serie Uno, con targa ufficiale proveniente dalla Svizzera. L'infrazione è stata rilevata il 30 aprile 2025 alle 21:45 in via della Pace, civico 2, per parcheggio in doppia fila. La violazione riguarda l'articolo 185, comma 2 del codice penale. Non è stata possibile la contestazione immediata per l'assenza del trasgressore. La violazione comporta la perdita di sei punti. Si richiede la stampa del verbale in spagnolo tramite Wi-Fi, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "ventuno e quarantacinque",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "i lunga cappa cinquecento sessantasette occhi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "bmw serie uno",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: perdita, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina agricola marca bmw serie uno targato i lunga cappa cinquecento sessantasette occhi di tipo ufficiale proveniente da svizzera l'infrazione e stata rilevata il trenta aprile duemilaventicinque alle ore ventuno e quarantacinque il veicolo si trovava in via della pace al civico due in parcheggia in doppia fila violando l'articolo centottantacinque con ma due del codice penale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazione comporta la perdita di sei punti richiedo la stampa del verbale in spagnolo tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina agricola, marca BMW Serie 1, targato JK567OP (di tipo ufficiale), proveniente da svizzera.  L'infrazione è stata rilevata il 30/04/2025 alle ore 21:45. Il veicolo si trovava in via della Pace, al civico 2, in parcheggio in doppia fila, violando l'articolo 185, comma 2, del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 6 punti.  Richiedo la stampa del verbale in spagnolo tramite wifi, non stampare anche la comunicazione."
+}

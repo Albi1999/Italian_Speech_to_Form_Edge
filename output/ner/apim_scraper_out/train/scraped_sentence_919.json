@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo rimorchio con targa ufficiale proveniente dalla Svizzera. L'infrazione è un parcheggio in divieto di sosta, verificatasi il 22 aprile 2025 alle ore 21:02 in via Venti Settembre al numero 5. La violazione comporterà una decurtazione di tre punti. Si richiede la stampa in lingua tedesca con modalità Bluetooth e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "ventuno e due",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "è ehi quattrocentocinquanta sei capelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fiat tipo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "brutus",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa è ehi quattrocentocinquanta sei capelli di tipo ufficiale marca fiat tipo proveniente da svizzera l'infrazione nello specifico parcheggio in divieto di sosta sia verificata in data ventidue aprile duemilaventicinque alle ore ventuno e due invia venti settembre al numero cinque articolo nove comma sette del codice penale si comunica che dalla violazione conseguirà una decurtazione di tre punti si richiede la stampa in lingua tedesco modalità brutus stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo rimorchio con targa IJ456KL di tipo ufficiale, marca Fiat Tipo, proveniente da svizzera. L'infrazione, nello specifico parcheggio in divieto di sosta, si è verificata in data 22/04/2025 alle ore 21:02 in via XX Settembre, al numero 5 (articolo 9, comma 7 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 3 punti. Si richiede la stampa in lingua tedesco, modalità bluetooth, stampa anche la comunicazione. "
+}

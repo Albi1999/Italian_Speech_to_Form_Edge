@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 17 aprile 2025 alle ore 15:19 per un veicolo immatricolato in Svizzera con targa ufficiale. L'infrazione è avvenuta in corso della libertà al civico 7, violando il codice civile, articolo 21, comma 19, per parcheggio davanti a passo carrabile. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti sei punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è richiesta in spagnolo tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "quindici e diciannove",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "guerre quattrocentocinquanta sei se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fox vaga in polo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: da",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno diciassette aprile duemilaventicinque alle ore quindici e diciannove è stato redatto un verbale per il veicolo fox vaga in polo macchina agricola immatricolati in svizzera con targa guerre quattrocentocinquanta sei se ti di tipo ufficiale l'infrazione avvenuta in corso della libertà al civico sette e stata riscontrata una violazione del codice civile articolo ventuno comma diciannove ovvero parcheggio davanti a passo arrabbi le non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti sei punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in spagnolo tramite guai fai non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 17/04/2025, alle ore 15:19, è stato redatto un verbale per il veicolo Volkswagen Polo, macchina agricola immatricolato in svizzera con targa QR456ST di tipo ufficiale.L'infrazione è avvenuta in corso della Libertà, al civico 7. È stata riscontrata una violazione del codice civile, articolo 21, comma 19 ovvero parcheggio davanti a passo carrabileNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 6 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in spagnolo tramite wifi, non stampare anche la comunicazione."
+}

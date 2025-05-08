@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale emesso alle tredici e ventuno del venticinque aprile duemilaventicinque per un veicolo macchina agricola con targa prova immatricolato in Francia. L'infrazione è stata accertata in via della pace al civico due, con violazione del codice stradale articolo diciannove comma diciassette per parcheggio in doppia fila. Sono previsti sette punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. La stampa è prevista tramite Wi-Fi in francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "tredici e ventuno",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "guerre quattrocentocinquanta sei se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "diciannove",
+                    "comma": "diciassette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle tredici e ventuno del venticinque aprile duemilaventicinque storie di gendo un verbale per il veicolo macchina agricola targato guerre quattrocentocinquanta sei se ti con targa prova immatricolati in francia l'infrazione stata accertata in via della pace al civico due con violazione del codice stradale articolo diciannove con ma diciassette per parcheggia in doppia fila sono previsti sette punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite vuoi fai in francese non stampare anche la comunicazione",
+    "original_sentence": "Alle 13:21 del 25/04/2025, sto redigendo un verbale per il veicolo macchina agricola targato QR456ST con targa prova, immatricolato in franciaL'infrazione è stata accertata in via della Pace, al civico 2, con violazione del codice stradale, articolo 19,comma 17 per parcheggio in doppia fila Sono previsti 7 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in francese, non stampare anche la comunicazione."
+}

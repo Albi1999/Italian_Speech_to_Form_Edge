@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata il ventuno aprile duemilaventicinque alle tredici e ventinove. Un verbale è stato redatto per un'autovettura con targa ufficiale immatricolata in Spagna, trovata in corso Vittorio Emanuele al civico quindici. La violazione riguarda il codice penale, articolo sette, comma cinque, per parcheggio in doppia fila. Non è stata possibile una contestazione immediata per l'assenza del trasgressore e non è applicabile alcuna sanzione accessoria. La stampa è richiesta tramite WiFi in inglese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "tredici e ventinove",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "spagna",
+                    "targa": "me ne centoventitre oh",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tra i punti da decurtare",
+            "tipo_stampa": "wife",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle tredici e ventinove del ventuno aprile duemilaventicinque storie di gendo un verbale per il veicolo autovettura targato me ne centoventitre oh qui con targa ufficiale immatricolati in spagna l'infrazione è stata accertata in corso vittorio emanuele al civico quindici con violazione del codice penale articolo sette coma cinque per parcheggio in doppia fila sono previsti tra i punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite wife in inglese non stampare anche la comunicazione",
+    "original_sentence": "Alle 13:29 del 21/04/2025, sto redigendo un verbale per il veicolo autovettura targato MN123OP con targa ufficiale, immatricolato in spagnaL'infrazione è stata accertata in corso Vittorio Emanuele, al civico 15, con violazione del codice penale, articolo 7,comma 5 per parcheggio in doppia fila Sono previsti 3 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in inglese, non stampare anche la comunicazione. "
+}

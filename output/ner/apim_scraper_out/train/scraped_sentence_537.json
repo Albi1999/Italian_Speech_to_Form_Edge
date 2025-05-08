@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Mercedes Classe A, registrato in Grecia, con targa copertura. La violazione è avvenuta il 19 aprile 2025 alle 18:58 in via della Pace, civico 2, per parcheggio in zona a rimozione. La violazione riguarda l'articolo 52, comma 50 del codice stradale e comporta la decurtazione di due punti. La stampa dell'avviso sarà effettuata via Bluetooth in olandese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "diciotto e cinquantotto",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "grecia",
+                    "targa": "exit non sei centocinquantaquattro",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "mercedes classe a",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantadue",
+                    "comma": "cinquanta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazioni, after: punti",
+            "tipo_stampa": "hawaii fa",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo mercedes classe a motoveicoli targato exit non sei centocinquantaquattro già con targa copertura registrato in grecia per un fatto accaduto il diciannove aprile duemilaventicinque alle diciotto e cinquantotto il veicolo si trovava in via della pace al civico due dove è stato riscontrato parcheggio in zona a rimozione in base al all'articolo cinquantadue con ma cinquanta del codice stradale questa infrazioni comporta una decurtazioni di due punti genere alla stampa dell'avviso vi hawaii fa in olandese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Mercedes Classe A, motoveicolo, targato XY654ZA con targa copertura, registrato in grecia, per un fatto accaduto il 19/04/2025 alle 18:58. Il veicolo si trovava in via della Pace, al civico 2, dove è stato riscontrato parcheggio in zona rimozione, in base all'articolo 52, comma 50, del codice stradale. Questa infrazione comporta una decurtazione di 2 punti. Genera la stampa dell'avviso via wifi in olandese, stampa anche la comunicazione. "
+}

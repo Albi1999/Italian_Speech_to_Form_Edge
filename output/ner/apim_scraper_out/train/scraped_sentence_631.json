@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo motoveicolo di marca 'successo di seicentocinquanta' con targa 'how trecentoventi uno doppia winx', tipo ufficiale, proveniente dalla Croazia. L'infrazione è avvenuta il 29 aprile 2025 alle ore 11:09 in via della Speranza, numero civico 17, per transito in zona di accesso vietato, violando l'articolo 34, comma 32 del codice stradale. La decurtazione prevista è di quattro punti. La contestazione immediata è impossibile per assenza del trasgressore. È richiesta la stampa tramite Bluetooth in lingua tedesca, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "undici nove",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "croazia",
+                    "targa": "how trecentoventi uno doppia winx",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "successo di seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentaquattro",
+                    "comma": "trentadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo motoveicoli di marca successo di seicentocinquanta con targa how trecentoventi uno doppia winx tipo ufficiale proveniente da croazia fatto avvenuto il ventinove aprile duemilaventicinque alle ore undici nove posizione via della speranza numero civico diciassette infrazione transito in zona accesso vietato in violazione dell'articolo trentaquattro coma trentadue del codice stradale decurtazione prevista quattro punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite blu tutti in tedesco stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo motoveicolo di marca Suzuki SV650, con targa UV321WX (tipo ufficiale), proveniente da croazia. Fatto avvenuto il 29/04/2025 alle ore 11:09. Posizione: via della Speranza, numero civico 17. Infrazione: transito in zona accesso vietato, in violazione dell'articolo 34, comma 32, del codice stradale. Decurtazione prevista: 4 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite bluetooth in tedesco, stampa anche la comunicazione. "
+}

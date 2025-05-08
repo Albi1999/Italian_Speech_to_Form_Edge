@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per una violazione di parcheggio in zona a rimozione. La violazione è stata rilevata il 13 aprile 2025 alle ore 19:30 in via Giuseppe Mazzini, numero 24. Il veicolo coinvolto è una macchina agricola marca Onda Cibi Jerry 650, targata E Jeff 320 1 Giacca, proveniente dalla Spagna. La violazione è in base all'articolo 12 comma 10 del codice civile, con una decurtazione di 3 punti. Si richiede la stampa del preavviso tramite Bluetooth in lingua olandese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "diciannove trenta",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "e jeff trecentoventi uno giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "onda cibi jerry seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: di",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo macchina agricola marca onda cibi jerry seicentocinquanta targato e jeff trecentoventi uno giacca di tipo prova proveniente da spagna in data tredici aprile duemilaventicinque alle ore diciannove trenta stata rilevata alla violazione di parcheggio in zona a rimozione in via giuseppe mazzini al numero ventiquattro in base all'articolo dodici comma dieci del codice civile per tale infrazione sono previsti tre punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua olandese non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina agricola, marca Honda CBR650R, targato EF321GH di tipo prova, proveniente da spagna. In data 13/04/2025 alle ore 19:30, è stata rilevata la violazione di parcheggio in zona rimozione in via Giuseppe Mazzini, al numero 24, in base all'articolo 12, comma 10 del codice civile.Per tale infrazione sono previsti 3 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua olandese, non stampare anche la comunicazione."
+}

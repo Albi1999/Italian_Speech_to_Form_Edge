@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il quindici aprile duemilaventicinque alle ore sei quarantasette per una violazione riscontrata su un veicolo rimorchio marca Onda Carrefour, targato I789CF, proveniente dalla Grecia. La violazione è avvenuta in via del Corso, civico dodici, per parcheggio su strisce pedonali, violando l'articolo trentacinque, comma trentatré del codice penale. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di dieci punti dalla patente. La stampa è richiesta in tedesco via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "sei quarantasette",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "i sette centottantanove cappelle",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "onda carrefour",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentacinque",
+                    "comma": "trentatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: decurtazione, after: punti",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data quindici aprile duemilaventicinque alle ore sei quarantasette per la violazione riscontrata al veicolo rimorchio marca onda carrefour targato i sette centottantanove cappelle tipo copertura proveniente da grecia in particolare in via del corso civico dodici è stato accertato parcheggio su strisce pedonali in violazione dell'articolo trentacinque con ma trentatré del codice penale data all'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di dieci punti dalla patente richiedo la stampa in tedesco via blu tutta stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 15/04/2025 alle ore 06:47 per la violazione riscontrata al veicolo rimorchio, marca Honda HR-V, targato IJ789KL (tipo copertura) proveniente da grecia. In particolare, in via del Corso, civico 12, è stato accertato parcheggio su strisce pedonali, in violazione dell'articolo 35, comma 33 del codice penale. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 10 punti dalla patente. Richiedo la stampa in tedesco via bluetooth, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo con targa ufficiale immatricolato in Croazia, che ha commesso un'infrazione il 27 aprile 2025 alle ore 19:49 in via Roma, civico 77. L'infrazione riguarda il parcheggio in zona a rimozione secondo l'articolo 28, comma 26 del codice stradale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di cinque punti. È richiesta la stampa in spagnolo via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "diciannove quarantanove",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "croazia",
+                    "targa": "i centoventitre chi lo litri",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "coda camice",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventotto",
+                    "comma": "ventisei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo coda camice macchina operatrice targa i centoventitre chi lo litri di tipo ufficiale immatricolati in croazia per infrazione commessa in data ventisette aprile duemilaventicinque ore e diciannove quarantanove in via roma civico settantasette è stato rilevato parcheggio in zona a rimozione ai sensi dell'articolo ventotto comma ventisei del codice stradale impossibile effettuare la contestazione immediata vista l'assenza del trasgressori la violazione comporta la decurtazione di cinque punti richiesta stampa in spagnolo via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Skoda Kamiq macchina operatrice, targa IJ123KL di tipo ufficiale, immatricolato in croazia, per infrazione commessa in data 27/04/2025, ore 19:49. In via Roma, civico 77, è stato rilevato parcheggio in zona rimozione, ai sensi dell'articolo 28, comma 26, del codice stradale.Impossibile effettuare la contestazione immediata vista l'assenza del trasgressore. La violazione comporta la decurtazione di 5 punti. Richiesta stampa in spagnolo via bluetooth, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo Lancia Delta, immatricolato in Grecia, con targa \"è sette centottantanove giacca\". L'infrazione è avvenuta il 20 aprile 2025 alle 21:48 in viale dei giardini, numero civico 8, dove il veicolo era parcheggiato su strisce pedonali. L'articolo violato è il 158, comma 2 del codice stradale, e verranno tolti 4 punti dalla patente. Il verbale deve essere stampato via Bluetooth in francese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "ventuno e quarantotto",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "grecia",
+                    "targa": "è sette centottantanove giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "lancia delta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sto generando un verbale per il veicolo lancia delta ciclomotori con targa è sette centottantanove giacca di tipo copertura immatricolati in grecia per un'infrazione commessa il venti aprile duemilaventicinque alle ventuno e quarantotto l'infrazione avvenuta in viale dei giardini al numero otto dove il veicolo era in parcheggio su strisce pedonali l'articolo violato è il centocinquantotto con ma due del codice stradale verranno tolti quattro punti dalla patente stampa questo verbale via blu tutti in francese stampa anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Lancia Delta, ciclomotore con targa EP789GH di tipo copertura, immatricolato in grecia, per un'infrazione commessa il 20/04/2025 alle 21:48. L'infrazione è avvenuta in viale dei Giardini, al numero 8, dove il veicolo era in parcheggio su strisce pedonali.  L'articolo violato è il 158, comma 2 del codice stradale. Verranno tolti 4 punti dalla patente. Stampa questo verbale via bluetooth in francese, stampa anche la comunicazione."
+}

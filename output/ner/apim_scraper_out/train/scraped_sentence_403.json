@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 15 aprile 2025 alle 8:21 in Corso della Giustizia, civico 23. La violazione riguarda un veicolo BMW con targa portoghese, per transito in zona vietata secondo l'articolo 53, comma 51 del codice civile. La contestazione è stata immediata e sono previsti nove punti di decurtazione. La stampa richiesta è in lingua tedesca via Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "otto e ventuno",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "portogallo",
+                    "targa": "guerre centoventitre",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "bmw jeff novecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il quindici aprile duemilaventicinque alle otto e ventuno in corso della giustizia al civico ventitré a carico del veicolo bmw jeff novecento è molto veicolo con targa guerre centoventitre se ti di tipo prova immatricolati in portogallo la violazione contestata e transito in zona accesso vietato in base all'articolo cinquantatré comma cinquantuno del codice civile la contestazione e avvenuta immediatamente da parte della gente marco gentili sono previsti nove punti di decurtazione si richiede la stampa in lingua tedesco via blu non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 15/04/2025 alle ore 08:21 in corso della Giustizia, al civico 23, a carico del veicolo BMW F 900 R, motoveicolo con targa QR123ST di tipo prova, immatricolato in portogallo. La violazione contestata è transito in zona accesso vietato, in base all'articolo 53, comma 51 del codice civile.La contestazione è avvenuta immediatamente da parte dell'agente Marco Gentili. Sono previsti 9 punti di decurtazione. Si richiede la stampa in lingua tedesco via bluetooth, non stampare anche la comunicazione."
+}

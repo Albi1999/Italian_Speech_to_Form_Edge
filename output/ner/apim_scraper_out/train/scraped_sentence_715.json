@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per una violazione di transito in zona accesso vietato. La violazione è stata rilevata il primo maggio 2025 alle ore 5:48 in via Nea al numero 45. Il veicolo coinvolto è una macchina agricola marca Davidson Street 750, targata ICSI Ypsilon 9807, di tipo ufficiale, proveniente dalla Germania. La violazione riguarda l'articolo 1228, comma 16 del codice civile, con una decurtazione di 8 punti. Si richiede la stampa del preavviso tramite Bluetooth in lingua francese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "cinque quarantotto",
+            "Strada_1": "via nea",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "icsi ypsilon novecentottanta sette",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "davidson street settecentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "mille duecentoventotto",
+                    "comma": "sedici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: di",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo macchina agricola marcare davidson street settecentocinquanta targato icsi ypsilon novecentottanta sette di tipo ufficiale proveniente da germania in data primo maggio duemilaventicinque alle ore cinque quarantotto e stata rilevata la violazione di transito in zona accesso vietato invia nea al numero quarantacinque in base all'articolo mille duecentoventotto con ma sedici del codice civile per tale infrazione sono previsti otto punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua francese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina agricola, marca Harley-Davidson Street 750, targato XY987ZA di tipo ufficiale, proveniente da germania. In data 01/05/2025 alle ore 05:48, è stata rilevata la violazione di transito in zona accesso vietato in via Etnea, al numero 45, in base all'articolo 1228, comma 16 del codice civile. Per tale infrazione sono previsti 8 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua francese, stampa anche la comunicazione. "
+}

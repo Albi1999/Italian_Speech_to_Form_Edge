@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per una violazione di parcheggio in zona a rimozione. La violazione è stata rilevata il 8 aprile 2025 alle 8:34 in Piazza Venezia, numero civico 1. Il veicolo coinvolto è una macchina agricola proveniente dal Belgio, con targa 'guerre quattrocentocinquanta sei se ti'. La violazione è in base all'articolo 31 del codice penale, comma 30, e comporta la decurtazione di 9 punti. Si richiede la stampa del preavviso tramite Bluetooth in lingua spagnola, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "otto e trentaquattro",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "guerre quattrocentocinquanta sei se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "se lettera",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: previsti, after: di",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo macchina agricola marca se lettera targato guerre quattrocentocinquanta sei se ti di tipo copertura proveniente da belgio in data otto aprile duemilaventicinque alle otto e trentaquattro e stata rilevata la violazione di parcheggio in zona a rimozione in piazza venezia al numero uno in base all'articolo trentuno duemilanovecento trentadue comma trenta del codice penale per tale infrazione sono previsti nove punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina agricola, marca Chevrolet Trax, targato QR456ST di tipo copertura, proveniente da belgio. In data 08/04/2025 alle ore 08:34, è stata rilevata la violazione di parcheggio in zona rimozione in piazza Venezia, al numero 1, in base all'articolo 31, 2932, comma 30 del codice penale.Per tale infrazione sono previsti 9 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua spagnolo, non stampare anche la comunicazione."
+}

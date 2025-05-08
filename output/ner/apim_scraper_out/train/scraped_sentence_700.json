@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione stradale accertata il nove aprile 2025. Un veicolo rimorchio BMW, proveniente dalla Croazia, è stato trovato parcheggiato davanti a un passo carrabile in via Roma, civico 77. La violazione riguarda l'articolo sei, comma uno del codice stradale. L'agente Giulia Costa ha proceduto con contestazione immediata e si prevede la decurtazione di cinque punti dalla patente. È richiesta la stampa in inglese e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale redatto",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": null,
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "icsi ypsilon novecento ottantasette",
+                    "tipologia_targa": null,
+                    "marca_modello": "bmw jeff novecento i jerry",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazioni immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": null,
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data nove aprile duemilaventicinque allego una i quattordici per la violazione riscontrata al veicolo rimorchio marca bmw jeff novecento i jerry targato icsi ypsilon novecento ottantasette già tipo copertura provenienti da croazia in particolare in via roma civico settantasette è stato accertato parcheggio davanti a passo cary abile in violazione dell'articolo sei comma uno a uno a dodici del codice stradale l'agente giulia costa proceduto con contestazioni immediata si prevede la decurtazione di cinque punti dalla patente richiedo la stampa in inglese di about stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 09/04/2025 alle ore 01:14 per la violazione riscontrata al veicolo rimorchio, marca BMW F 900 XR, targato XY987ZA (tipo copertura) proveniente da croazia. In particolare, in via Roma, civico 77, è stato accertato parcheggio davanti a passo carrabile, in violazione dell'articolo 6, comma 1a(1-12) del codice stradale. L'agente Giulia Costa ha proceduto con contestazione immediata. Si prevede la decurtazione di 5 punti dalla patente. Richiedo la stampa in inglese via bluetooth, stampa anche la comunicazione. "
+}

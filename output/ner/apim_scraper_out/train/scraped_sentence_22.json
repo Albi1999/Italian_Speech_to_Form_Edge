@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 14 aprile 2025 alle ore 20:46 in viale della Libertà, civico 22. La violazione riguarda un veicolo BMW con targa JEFF 123, immatricolato in Spagna, che ha parcheggiato su strisce pedonali. La contestazione immediata non è stata possibile per assenza del trasgressore. Sono previsti tre punti di decurtazione. Si richiede la stampa in lingua olandese via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "venti e quarantasei",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "jeff centoventitre",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "bmw jeff novecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: di",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il quattordici aprile duemilaventicinque alle ore venti e quarantasei viale della libertà al civico ventidue a carico del veicolo bmw jeff novecento serve macchina agricola con targa è jeff centoventitre giacca di tipo speciale immatricolati in spagna la violazione contestata e parcheggio su strisce pedonali in base all'articolo venti comma diciotto del codice stradale non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti tre punti di decurtazione si richiede la stampa in lingua olandese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 14/04/2025 alle ore 20:46 in viale della Libertà, al civico 22, a carico del veicolo BMW F 900 XR, macchina agricola con targa EF123GH di tipo speciale, immatricolato in spagna. La violazione contestata è parcheggio su strisce pedonali, in base all'articolo 20, comma 18 del codice stradale.Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti 3 punti di decurtazione. Si richiede la stampa in lingua olandese via wifi, non stampare anche la comunicazione."
+}

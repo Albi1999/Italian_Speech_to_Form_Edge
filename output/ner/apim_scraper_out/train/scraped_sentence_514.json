@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Nissan, ciclomotore targato UBU 381, con targa prova registrato in Grecia. La violazione è avvenuta il primo maggio 2025 alle 15:32 in corso della Giustizia, civico 23, per parcheggio in doppia fila. La violazione è in base all'articolo 3, comma 1 del codice penale e comporta una decurtazione di sette punti. La stampa dell'avviso è richiesta via Bluetooth in tedesco e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "quindici e trentadue",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "grecia",
+                    "targa": "ubu trecentottantuno doppia with",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "nissan",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette, before: decurtazione, after: punti",
+            "tipo_stampa": "bruti",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo nissan giù ciclomotori targato ubu trecentottantuno doppia with con targa prova registrato in grecia per un fatto accaduto il primo maggio duemilaventicinque alle quindici e trentadue il veicolo si trovava in corso della giustizia al civico ventitré dove è stato riscontrato parcheggia in doppia fila in base al l'articolo tre con ma uno del codice penale questa infrazione comporta una decurtazione di sette punti genere alla stampa dell'avviso via bruti in tedesco stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Nissan Juke, ciclomotore, targato UV321WX con targa prova, registrato in grecia, per un fatto accaduto il 01/05/2025 alle 15:32. Il veicolo si trovava in corso della Giustizia, al civico 23, dove è stato riscontrato parcheggio in doppia fila, in base all'articolo 3, comma 1, del codice penale. Questa infrazione comporta una decurtazione di 7 punti. Genera la stampa dell'avviso via bluetooth in tedesco, stampa anche la comunicazione. "
+}

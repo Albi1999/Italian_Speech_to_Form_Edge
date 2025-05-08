@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale elevato il venticinque aprile duemilaventicinque alle ore diciannove cinquantacinque per una violazione del codice penale. La violazione riguarda il parcheggio in doppia fila, rilevata in viale della scienza al civico quattordici. La contestazione è stata immediata, effettuata dall'agente Francesco Rizzo. Il veicolo coinvolto è una macchina agricola con targa tedesca di tipo prova. Dalla violazione derivano nove punti di decurtazione. La stampa necessaria è in lingua italiana e non include la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "diciannove cinquantacinque",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "august si centocinquantaquattro doppia wings",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "via hawaii",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "intatta venticinque aprile duemilaventicinque alle ore diciannove cinquantacinque si eleva verbale al veicolo sto da cani macchina agricola con targa august si centocinquantaquattro doppia wings di tipo prova immatricolati in germania per violazione dell'articolo sette come cinque del codice penale ovvero parcheggia in doppia fila rilevata in viale della scienza al civico quattordici la contestazione e stata immediata effettuata dalla gente francesco rizzo dalla violazione derivano nove punti di decurtazione stampa necessari e in lingua italiano via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "In data 25/04/2025, alle ore 19:55, si eleva verbale al veicolo Skoda Kamiq, macchina agricola con targa UV654WX di tipo prova, immatricolato in germania, per violazione dell'articolo 7, comma 5 del codice penale, ovvero parcheggio in doppia fila, rilevata in viale della Scienza, al civico 14. La contestazione è stata immediata, effettuata dall'agente Francesco Rizzo. Dalla violazione derivano 9 punti di decurtazione. Stampa necessaria in lingua italiano via wifi, non stampare anche la comunicazione. "
+}

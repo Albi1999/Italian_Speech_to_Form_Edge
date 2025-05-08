@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso relativo a un veicolo ciclomotore targato \"guerre trecentoventi uno e se ti\" di tipo speciale, proveniente dall'Italia, marca \"onda cibi jerry seicentocinquanta\". La violazione riguarda il parcheggio in zona a rimozione, verificatasi il 23 aprile 2025 alle ore 9:17 in corso Vittorio Emanuele, numero 15. L'infrazione rientra nell'articolo 27, comma 25 del codice civile. La contestazione è stata immediata da parte dell'agente Marco Gentili e prevede la perdita di cinque punti. Si richiede la stampa in lingua italiana tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "nove e diciassette",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "italia",
+                    "targa": "guerre trecentoventi uno e se ti",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "onda cibi jerry seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata da parte della gente marco gentili",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventisette",
+                    "comma": "venticinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo ciclomotori targato guerre trecentoventi uno e se ti di tipo speciale proveniente da italia marca onda cibi jerry seicentocinquanta la violazione ovvero parcheggio in zona a rimozione sia e verificata in data ventitré aprile duemilaventicinque alle ore nove e diciassette in corso vittorio emanuele al numero quindici l'infrazione rientra nell'articolo ventisette con ma venticinque del codice civile contestazione immediata da parte della gente marco gentili la sanzione prevede la perdita di cinque punti si richiede la stampa in lingua italiano tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo ciclomotore targato QR321ST di tipo speciale proveniente da italia, marca Honda CBR650R. La violazione, ovvero parcheggio in zona rimozione, si è verificata in data 23/04/2025 alle ore 09:17 in corso Vittorio Emanuele, al numero 15. L'infrazione rientra nell'articolo 27, comma 25 del codice civile. Contestazione immediata da parte dell'agente Marco Gentili. La sanzione prevede la perdita di 5 punti. Si richiede la stampa in lingua italiano, tramite wifi, stampa anche la comunicazione."
+}

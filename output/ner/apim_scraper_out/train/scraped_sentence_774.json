@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il sei maggio duemilaventicinque alle quattordici e trentadue per un veicolo ciclomotore Suzuki con targa B 654 CD di tipo prova, registrato in Italia. L'infrazione è avvenuta in via della Concordia al numero quattordici, consistente nel parcheggio in doppia fila, violando l'articolo 46 comma 44 del codice civile. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti sei punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua inglese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "quattordici e trentadue",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "italia",
+                    "targa": "b seicento cinquantaquattro ci",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "suzuki",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data sei maggio duemilaventicinque alle ora i quattordici e trentadue è stato emesso un preavviso di violazione per il veicolo ciclomotori di marca suzuki evitare con targa b seicento cinquantaquattro ci di tipo prova registrato in italia l'infrazione avvenuta in via della concordia al numero quattordici e consiste in parcheggia in doppia fila come previsto dall'articolo quarantasei come quarantaquattro del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti sei punti di decurtazione si prega di stampare la presente notifica tramite blu tutte in lingua inglese stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 06/05/2025, alle ore 14:32, è stato emesso un preavviso di violazione per il veicolo ciclomotore di marca Suzuki Vitara, con targa AB654CD (tipo prova), registrato in italia. L'infrazione è avvenuta in via della Concordia, al numero 14, e consiste in parcheggio in doppia fila, come previsto dall'articolo 46, comma 44 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 6 punti di decurtazione. Si prega di stampare la presente notifica tramite bluetooth, in lingua inglese, stampa anche la comunicazione. "
+}

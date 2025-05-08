@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo con rimorchio, targa \"guerre sette centottantanove se ti\", proveniente dalla Croazia. L'infrazione è avvenuta il 26 aprile 2025 alle 7:50 in corso della giustizia, civico 23, per parcheggio in divieto di sosta, violando l'articolo 5 del codice penale. Sono previsti due punti di decurtazione. La stampa del preavviso è richiesta in tedesco via \"hawaii\" e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "otto meno dieci",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "croazia",
+                    "targa": "guerre sette centottantanove se ti",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinque",
+                    "comma": null,
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: di",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo chi ha pianto rimorchio targa guerre sette centottantanove se ti di tipo copertura proveniente da croazia il giorno ventisei aprile duemilaventicinque alle otto meno dieci in corso della giustizia al numero civico ventitré stata commessa l'infrazione di parcheggio in divieto di sosta come previsto dall'articolo cinque con madre del codice penale per questa violazione sono previsti due punti di decurtazione chiedo alla stampa del preavviso in tedesco via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Kia Picanto rimorchio, targa QR789ST di tipo copertura, proveniente da croazia. Il giorno 26/04/2025, alle ore 07:50, in corso della Giustizia, al numero civico 23, è stata commessa l'infrazione di parcheggio in divieto di sosta, come previsto dall'articolo 5, comma 3, del codice penale.Per questa violazione sono previsti 2 punti di decurtazione. Chiedo la stampa del preavviso in tedesco via wifi, stampa anche la comunicazione."
+}

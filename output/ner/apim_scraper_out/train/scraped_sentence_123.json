@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è una macchina agricola marca Sicuro Lei Spark, targata AB 789 CD, di tipo speciale, proveniente dal Portogallo. L'infrazione è stata rilevata il 10 aprile 2025 alle ore 15:12 in Corso Italia, civico 30, per transito in zona accesso vietato, violando l'articolo 27, comma 25 del codice stradale. L'agente Carlo Bruni ha provveduto alla contestazione immediata. La violazione comporta la perdita di 4 punti. Si richiede la stampa del verbale in francese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "quindici e dodici",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "portogallo",
+                    "targa": "ab sette centottantanove ci di di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "sicuro lei spark",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventisette",
+                    "comma": "venticinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: perdita, after: punti",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina agricola marca sicuro lei spark targato ab sette centottantanove ci di di tipo speciale proveniente da portogallo l'infrazione e stata rilevata il dieci aprile duemilaventicinque alle ore quindici e dodici il veicolo si trovava in corso italia al civico trenta in transito in zona accesso vietato violando l'articolo ventisette con ma venticinque del codice stradale l'agente carlo bruni a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di quattro punti richiedo la stampa del verbale in francese tramite guai fai stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina agricola, marca Chevrolet Spark, targato AB789CD (di tipo speciale), proveniente da portogallo.  L'infrazione è stata rilevata il 10/04/2025 alle ore 15:12. Il veicolo si trovava in corso Italia, al civico 30, in transito in zona accesso vietato, violando l'articolo 27, comma 25, del codice stradale. L'agente Carlo Bruni ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 4 punti.  Richiedo la stampa del verbale in francese tramite wifi, stampa anche la comunicazione."
+}

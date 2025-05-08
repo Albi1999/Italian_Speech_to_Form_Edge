@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è una Lancia Delta con targa di prova proveniente dalla Francia. L'infrazione è stata rilevata il primo maggio 2025 alle ore 3:37 in via Mazzini, civico 24, per transito in zona di accesso vietato, violando l'articolo 9, comma 7 del codice stradale. Non è stata possibile la contestazione immediata per l'assenza del trasgressore. La violazione comporta la perdita di sette punti. Si richiede la stampa del verbale in italiano tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "tre trentasette",
+            "Strada_1": "via mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "francia",
+                    "targa": "trecentoventi uno doppio winx",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "lancia delta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo autovettura marca lancia delta targato trecentoventi uno doppio winx di tipo prova proveniente da francia l'infrazione e stata rilevata il primo maggio duemilaventicinque alle ore tre trentasette il veicolo si trovava in viaggio sette mazzini al civico ventiquattro in transito in zona accesso vietato violando l'articolo nove comma sette del codice stradale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazioni comporta la perdita di sette punti richiedo la stampa del verbale in italiano tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo autovettura, marca Lancia Delta, targato UV321WX (di tipo prova), proveniente da francia. L'infrazione è stata rilevata il 01/05/2025 alle ore 03:37. Il veicolo si trovava in via Giuseppe Mazzini, al civico 24, in transito in zona accesso vietato, violando l'articolo 9, comma 7, del codice stradale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 7 punti. Richiedo la stampa del verbale in italiano tramite bluetooth, stampa anche la comunicazione. "
+}

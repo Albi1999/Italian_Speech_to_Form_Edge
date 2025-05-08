@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo Subaru con targa JEFF 234. L'infrazione è avvenuta il 14 aprile 2025 alle 11:41 in Viale della Vittoria, numero 9. La violazione riguarda l'articolo 23, comma 21 del codice penale, e comporterà la decurtazione di quattro punti. Si richiede la stampa in lingua tedesca, modalità tutte, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "undici e quarantuno",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": null,
+                    "targa": "jeff duecentotrentaquattro",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "subaru quindicesima",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventitré",
+                    "comma": "ventuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa jeff duecentotrentaquattro di tipo copertura marca subaru quindicesima proveniente da traccia l'infrazione nello specifico parcheggio in zona a rimozione si e verificata in data quattordici aprile duemilaventicinque alle ore undici e quarantuno in viale della vittoria a numero nove articolo ventitré con ma ventuno del codice penale si comunica che dalla violazioni conseguirà una decurtazione di quattro punti si richiede la stampa in lingua tedesco modalità tutte non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa FG234LM di tipo copertura, marca Subaru XV, proveniente da grecia. L'infrazione, nello specifico parcheggio in zona rimozione, si è verificata in data 14/04/2025 alle ore 11:41 in viale della Vittoria, al numero 9 (articolo 23, comma 21 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 4 punti. Si richiede la stampa in lingua tedesco, modalità bluetooth, non stampare anche la comunicazione. "
+}

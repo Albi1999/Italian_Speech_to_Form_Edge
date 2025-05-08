@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il nove aprile duemilaventicinque alle ore sette e ventisei per una violazione riscontrata su un veicolo rimorchio marca Trai Un Stai 850 Sport, targato G234, proveniente dalla Spagna. La violazione è avvenuta in corso della Repubblica, civico 19, per parcheggio in divieto di sosta, violando l'articolo 24 comma 22 del codice stradale. L'agente Carlo Bruni ha proceduto con contestazione immediata. Si prevede la decurtazione di quattro punti dalla patente. La stampa è richiesta in inglese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "sette ventisei",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "spagna",
+                    "targa": "g duecentotrentaquattro",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "tra i un stai ottocentocinquanta sport",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventiquattro",
+                    "comma": "ventidue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data nove aprile duemilaventicinque alle ore sette ventisei per la violazione riscontrata al veicolo rimorchio marca tra i un stai ottocentocinquanta sport targato g duecentotrentaquattro tipo speciale proveniente da spagna in particolare in corso della repubblica civico diciannove è stato accertato parcheggiato in divieto di sosta in violazione dell'articolo ventiquattro comma ventidue del codice stradale l'agente carlo bruni a proceduto con contestazione immediata si prevede la decurtazione di quattro punti dalla patente richiedo la stampa in inglese via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 09/04/2025 alle ore 07:26 per la violazione riscontrata al veicolo rimorchio, marca Triumph Tiger 850 Sport, targato FG234LM (tipo speciale) proveniente da spagna. In particolare, in corso della Repubblica, civico 19, è stato accertato parcheggio in divieto di sosta, in violazione dell'articolo 24, comma 22 del codice stradale. L'agente Carlo Bruni ha proceduto con contestazione immediata. Si prevede la decurtazione di 4 punti dalla patente. Richiedo la stampa in inglese via bluetooth, stampa anche la comunicazione. "
+}

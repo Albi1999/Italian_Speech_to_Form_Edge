@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è una macchina operatrice di marca Si Tronchi Quattro Cat, con targa 320 1 CD, proveniente dalla Francia. L'infrazione è stata rilevata il 22 aprile 2025 alle 23:32 in via della Speranza, civico 18, per parcheggio in divieto di sosta, violando l'articolo 38 comma 36 del codice penale. L'agente Matteo Gallo ha effettuato la contestazione immediata. La violazione comporta la perdita di 9 punti. Si richiede la stampa del verbale in spagnolo tramite Wi-Fi, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "ventitré trentadue",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "francia",
+                    "targa": "trecentoventi uno ci di di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "si tronchi quattro cat",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentotto",
+                    "comma": "trentasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: perdita, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina operatrice marca si tronchi quattro cat targato trecentoventi uno ci di di tipo copertura proveniente da francia l'infrazione e stata rilevata il ventidue aprile duemilaventicinque alle ore ventitré trentadue il veicolo si trovava in via della speranza al civico diciotto in parcheggiato in divieto di sosta violando l'articolo trentotto comma trentasei del codice penale l'agente matteo gallo a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di nove punti richiedo la stampa del verbale in spagnolo tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina operatrice, marca Citroen C4 Cactus, targato AB321CD (di tipo copertura), proveniente da francia.  L'infrazione è stata rilevata il 22/04/2025 alle ore 23:32. Il veicolo si trovava in via della Speranza, al civico 18, in parcheggio in divieto di sosta, violando l'articolo 38, comma 36, del codice penale. L'agente Matteo Gallo ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 9 punti.  Richiedo la stampa del verbale in spagnolo tramite wifi, non stampare anche la comunicazione."
+}

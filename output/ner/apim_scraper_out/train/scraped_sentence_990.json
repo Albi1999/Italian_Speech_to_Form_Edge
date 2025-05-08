@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo ciclomotore con targa 'quattrocentocinquanta sei chiedi', di tipo 'prova', marca 'su chi swift', proveniente dal Portogallo. L'infrazione è avvenuta il 18 aprile 2025 alle ore 5:43 in via della Speranza, numero 18. La violazione riguarda l'articolo 47, comma 45 del codice stradale e comporterà una decurtazione di 10 punti. Si richiede la stampa in lingua francese, modalità 'hawaii fai', e non stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "cinque quarantatré",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "portogallo",
+                    "targa": "quattrocentocinquanta sei chiedi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "su chi swift",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotori con targa quattrocentocinquanta sei chiedi di tipo prova marca su chi swift proveniente da portogallo l'infrazione nello specifico parcheggia davanti a passo carabine sia verificata in data diciotto aprile duemilaventicinque alle ore cinque quarantatré in via della speranza a numero diciotto e articolo quarantasette coma quarantacinque del codice stradale si comunica che dalla violazione conseguirà una decurtazione di dieci punti si richiede la stampa in lingua francese modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotore con targa AB456CD di tipo prova, marca Suzuki Swift, proveniente da portogallo. L'infrazione, nello specifico parcheggio davanti a passo carrabile, si è verificata in data 18/04/2025 alle ore 05:43 in via della Speranza, al numero 18 (articolo 47, comma 45 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 10 punti. Si richiede la stampa in lingua francese, modalità wifi, non stampare anche la comunicazione. "
+}

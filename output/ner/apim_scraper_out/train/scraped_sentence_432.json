@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione commessa da una macchina operatrice marca Carol Alien Field Intersection 650, targa Cappelle 320 1 Megan New Tony, immatricolata in Austria. La violazione è avvenuta il 24 aprile 2025 alle ore 5:08 in Corso Vittorio Emanuele, civico 15, per parcheggio in divieto di sosta, violando l'articolo 10, comma 8 del codice penale. La violazione comporta la perdita di sei punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua italiana, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "cinque otto minuti",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "austria",
+                    "targa": "cappelle trecentoventi uno megan new tony",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "carol alien field intersection seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "dieci",
+                    "comma": "otto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: perdita, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina operatrice marca carol alien field intersection seicentocinquanta targa cappelle trecentoventi uno megan new tony di tipo prova immatricolati in austria in data ventiquattro aprile duemilaventicinque alle ore cinque otto minuti in corso vittorio emanuele al civico quindici stata commessa la seguente violazione parcheggiato in divieto di sosta articolo dieci con ma otto del codice penale dalla violazione con segue la perdita di sei punti stampa in modalità blu tutte in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina operatrice, marca Royal Enfield Interceptor 650, targa KL321MN di tipo prova, immatricolato in austria. In data 24/04/2025 alle ore 05:08, in corso Vittorio Emanuele, al civico 15, è stata commessa la seguente violazione: parcheggio in divieto di sosta (articolo 10, comma 8 del codice penale).Dalla violazione consegue la perdita di 6 punti.Stampa in modalità bluetooth e in lingua italiano, non stampare anche la comunicazione."
+}

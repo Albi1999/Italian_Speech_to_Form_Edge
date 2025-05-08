@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo ciclomotore targato \"abby settecento ottantanove ci di\" di tipo prova, proveniente dalla Francia, marca BMW modello \"jeff novecento jerry\". La violazione riguarda il parcheggio su strisce pedonali, avvenuta il quattro maggio duemilaventicinque alle ore dieci e quarantaquattro in corso della libertà al numero sette. L'infrazione è relativa all'articolo centottantacinque comma due del codice stradale. La contestazione è stata immediata da parte dell'agente Giulia Costa e prevede la perdita di quattro punti. Si richiede la stampa in lingua inglese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattro omaggio duemilaventicinque",
+            "ora_violazione": "dieci e quarantaquattro",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "abby settecento ottantanove ci di",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "bmw jeff novecento jerry",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: perdita, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo ciclomotori targato abby settecento ottantanove ci di di tipo prova a proveniente da francia marca bmw jeff novecento jerry la violazione ovvero parcheggio su strisce pedonali sia verificata in data quattro omaggio duemilaventicinque alle ore dieci e quarantaquattro in corso della libertà al numero sette l'infrazione rientra nell'articolo centottantacinque con due del codice stradale contestazione immediata da parte della gente giulia costa la sanzione prevede la perdita di quattro punti si richiede la stampa in lingua inglese tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo ciclomotore targato AB789CD di tipo prova proveniente da francia, marca BMW F 900 R. La violazione, ovvero parcheggio su strisce pedonali, si è verificata in data 04/05/2025 alle ore 10:44 in corso della Libertà, al numero 7. L'infrazione rientra nell'articolo 185, comma 2 del codice stradale. Contestazione immediata da parte dell'agente Giulia Costa. La sanzione prevede la perdita di 4 punti. Si richiede la stampa in lingua inglese, tramite wifi, stampa anche la comunicazione. "
+}

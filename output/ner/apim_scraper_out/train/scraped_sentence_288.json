@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo Nissan Micra con targa francese, che ha commesso un'infrazione il 18 aprile 2025 alle 23:40 in viale della Libertà, civico 22. L'infrazione riguarda il transito in zona accesso vietato, violando l'articolo 53 comma 51 del codice stradale. L'agente Chiara Romano ha effettuato la contestazione immediata, e la violazione comporta la perdita di 10 punti. Si richiede la stampa del verbale in tedesco tramite Bluetooth, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte meno venti",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "francia",
+                    "targa": "e jeff e sette centottantanove giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "nissan mica",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo molto veicolo marca nissan mica targato e jeff e sette centottantanove giacca di tipo prova proveniente da francia l'infrazione e stata rilevata il diciotto aprile duemilaventicinque alle ore e mezzanotte meno venti il veicolo si trovava in viale della libertà al civico ventidue in transito in zona accesso vietato violando l'articolo cinquantatré comma cinquantuno del codice stradale l'agente chiara romano a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di dieci punti richiedo la stampa del verbale in tedesco tramite blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo motoveicolo, marca Nissan Micra, targato EF789GH (di tipo prova), proveniente da francia.  L'infrazione è stata rilevata il 18/04/2025 alle ore 23:40. Il veicolo si trovava in viale della Libertà, al civico 22, in transito in zona accesso vietato, violando l'articolo 53, comma 51, del codice stradale. L'agente Chiara Romano ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 10 punti.  Richiedo la stampa del verbale in tedesco tramite bluetooth, non stampare anche la comunicazione."
+}

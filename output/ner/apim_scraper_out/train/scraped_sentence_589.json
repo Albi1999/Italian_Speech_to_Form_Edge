@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo Seat Ibiza con rimorchio, targa 'guerra settecento ottantanove se ti', di tipo ufficiale, immatricolato in Germania. L'infrazione è avvenuta il 2 maggio 2025 alle ore 21:19 in via Roma, civico 77, per parcheggio in divieto di sosta secondo l'articolo 4, comma 2 del codice civile. La contestazione immediata è stata eseguita dall'agente Giulia Costa e comporta la decurtazione di due punti. È richiesta la stampa in francese tramite WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "ventuno i diciannove",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "guerra settecento ottantanove se ti",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "seat ibiza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazione, after: punti",
+            "tipo_stampa": "vi hawaii",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo seat ibiza rimorchio targa guerra settecento ottantanove se ti di tipo ufficiale immatricolati in germania per infrazione commessa in data due maggio duemilaventicinque ore ventuno i diciannove invia roma civico settantasette è stato rilevato parcheggio in divieto di sosta ai sensi dell'articolo quattro comma due del codice civile contestazione immediata eseguita dal agente giulia costa la violazione comporta la decurtazione di due punti richiesta stampa in francese vi hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Seat Ibiza rimorchio, targa QR789ST di tipo ufficiale, immatricolato in germania, per infrazione commessa in data 02/05/2025, ore 21:19. In via Roma, civico 77, è stato rilevato parcheggio in divieto di sosta, ai sensi dell'articolo 4, comma 2, del codice civile. Contestazione immediata eseguita dall'agente Giulia Costa. La violazione comporta la decurtazione di 2 punti. Richiesta stampa in francese via wifi, non stampare anche la comunicazione. "
+}

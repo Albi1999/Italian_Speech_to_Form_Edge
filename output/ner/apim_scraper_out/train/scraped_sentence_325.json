@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto l'otto aprile 2025 alle ore quattro e due minuti per un veicolo immatricolato in Italia con targa speciale. L'infrazione è avvenuta in via della Speranza, civico 18, per violazione del codice penale, articolo 158, comma 2, riguardante il parcheggio su strisce pedonali. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti nove punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è richiesta in francese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "quattro e due minuti",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "italia",
+                    "targa": "beh trecentoventi uno ci di",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "fox vaga in golf",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno otto aprile duemilaventicinque alle ore quattro e due minuti è stato redatto un verbale per il veicolo fox vaga in golf ciclomotori e immatricolati in italia con targa beh trecentoventi uno ci di di tipo speciale l'infrazione avvenuta in via della speranza al civico diciotto stata riscontrata una violazione del codice penale articolo centocinquantotto con ma due ovvero parcheggio su strisce pedonali non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti nove punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in francese tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Il giorno 08/04/2025, alle ore 04:02, è stato redatto un verbale per il veicolo Volkswagen Golf, ciclomotore immatricolato in italia con targa AB321CD di tipo speciale.L'infrazione è avvenuta in via della Speranza, al civico 18. È stata riscontrata una violazione del codice penale, articolo 158, comma 2 ovvero parcheggio su strisce pedonaliNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 9 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in francese tramite wifi, stampa anche la comunicazione."
+}

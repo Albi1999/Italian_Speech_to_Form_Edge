@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un motoveicolo marca Lancia Ypsilon, targa I789 capelli, di tipo ufficiale, immatricolato in Grecia. La violazione è avvenuta il 15 aprile 2025 alle ore 11:14 in via del Corso, civico 12. La violazione riguarda il parcheggio in zona a rimozione, articolo 43 comma 41 del codice civile, con conseguente perdita di 5 punti. La stampa è richiesta in modalità Hawaii e in lingua inglese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "undici e quattordici",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "grecia",
+                    "targa": "i sette centottantanove capelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "lancia i ypsilon",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "hawaii fai è",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per motoveicoli marca lancia i ypsilon targa i sette centottantanove capelli di tipo ufficiale immatricolati in grecia in data quindici aprile duemilaventicinque alle ore undici e quattordici in via del corso al civico dodici e stata commessa la seguente violazione parcheggio in zona a rimozione articolo quarantatré comma quarantuno del codice civile dalla violazione con segue la perdita di cinque punti stampa i modalità hawaii fai è in lingua inglese stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per motoveicolo, marca Lancia Ypsilon, targa IJ789KL di tipo ufficiale, immatricolato in grecia. In data 15/04/2025 alle ore 11:14, in via del Corso, al civico 12, è stata commessa la seguente violazione: parcheggio in zona rimozione (articolo 43, comma 41 del codice civile). Dalla violazione consegue la perdita di 5 punti. Stampa in modalità wifi e in lingua inglese, stampa anche la comunicazione. "
+}

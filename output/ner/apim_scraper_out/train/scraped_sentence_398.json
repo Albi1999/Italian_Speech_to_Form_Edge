@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta l'otto aprile 2025 alle ore 21:44. È stato elevato un verbale per un veicolo rimorchio con targa di prova immatricolato in Slovenia, per violazione dell'articolo 19, comma 17 del codice penale, ovvero parcheggio su strisce pedonali. La violazione è stata rilevata in via della giustizia al civico 16. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di cinque punti. La stampa è richiesta in lingua spagnola tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "ventuno e quarantaquattro",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "slovenia",
+                    "targa": "centoventitre ho più",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "diciannove",
+                    "comma": "diciassette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: derivano, after: di",
+            "tipo_stampa": "via hawaii",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data otto aprile duemilaventicinque alle ore ventuno e quarantaquattro si eleva verbale al veicolo un da icona rimorchio con targa centoventitre ho più di tipo prova immatricolati slovenia per violazione dell'articolo diciannove comma diciassette del codice penale o vero parcheggio su strisce pedonali rilevata in via della giustizia al civico sedici non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano cinque punti di decurtazione stampa necessaria in lingua spagnolo via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "In data 08/04/2025, alle ore 21:44, si eleva verbale al veicolo Hyundai Kona, rimorchio con targa MN123OP di tipo prova, immatricolato in slovenia, per violazione dell'articolo 19, comma 17 del codice penale, ovvero parcheggio su strisce pedonali, rilevata in via della Giustizia, al civico 16.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 5 punti di decurtazione. Stampa necessaria in lingua spagnolo via wifi, non stampare anche la comunicazione."
+}

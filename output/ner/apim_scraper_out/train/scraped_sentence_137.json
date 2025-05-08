@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il ventidue aprile duemilaventicinque alle ore sedici e sedici per un ciclo motore targato in Grecia. L'infrazione è stata rilevata in via del Corso, civico dodici, per parcheggio su strisce pedonali. La violazione riguarda il codice penale, articolo trentuno, comma trenta. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare dieci punti. Il veicolo è un Harley Davidson Street 750 di colore verde. La stampa del preavviso è richiesta tramite Bluetooth in olandese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "sedici sedici",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclo motore",
+                    "nazione": "grecia",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": null,
+                    "marca_modello": "harley davidson street settecentocinquanta",
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventidue aprile duemilaventicinque alle ore sedici sedici è stato notificato un preavviso per un ciclo motore targato guerre novecentottanta sette se ti con targa copertura immatricolati in grecia l'infrazione e stata rilevata in via del corso al civico dodici con violazione del codice penale articolo trentuno duemilanovecento trentadue comma trenta in particolare sia riscontrato un parcheggio su strisce pedonali non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono dieci punti il veicolo è un harley davidson street settecentocinquanta di colore verde con numero di telaio novecento settantasei milioni e duecentoquarantacinque mila ottocentosessanta quattro e massa millecento sessantacinque chilogrammi necessita la stampa del preavviso tramite blu tutte in olandese stampa anche la comunicazione",
+    "original_sentence": "In data 22/04/2025, alle ore 16:16, è stato notificato un preavviso per un ciclomotore targato QR987ST con targa copertura, immatricolato in grecia. L'infrazione è stata rilevata in via del Corso, al civico 12, con violazione del codice penale, articolo 31, 2932, comma 30, in particolare si è riscontrato un parcheggio su strisce pedonali Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 10 punti. Il veicolo è un Harley-Davidson Street 750 di colore verde, con numero di telaio 976245864 e massa 1165 kg.Necessito la stampa del preavviso tramite bluetooth, in olandese, stampa anche la comunicazione."
+}

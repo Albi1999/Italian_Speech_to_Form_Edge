@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 24 aprile 2025 alle 12:33 in via della Libertà, civico 21. La violazione riguarda un veicolo agricolo con targa portoghese, parcheggiato in divieto di sosta secondo l'articolo 28, comma 26 del codice stradale. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti otto punti di decurtazione. Si richiede la stampa in lingua tedesca via Hawaii, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "mezzogiorno e trentatré",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "portogallo",
+                    "targa": "icsi ypsilon novecentottanta sette sa",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "onda cib seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventotto",
+                    "comma": "ventisei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: di",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il ventiquattro aprile duemilaventicinque alle ore mezzogiorno e trentatré in via della libertà al civico ventuno a carico del veicolo onda cib seicentocinquanta macchina agricola con targa icsi ypsilon novecentottanta sette sa di tipo ufficiale immatricolati in portogallo la violazione contestata e parcheggio in divieto di sosta in base all'articolo ventotto comma ventisei del codice stradale non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti otto punti di decurtazione si richiede la stampa in lingua tedesco via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 24/04/2025 alle ore 12:33 in via della Libertà, al civico 21, a carico del veicolo Honda CB650R, macchina agricola con targa XY987ZA di tipo ufficiale, immatricolato in portogallo. La violazione contestata è parcheggio in divieto di sosta, in base all'articolo 28, comma 26 del codice stradale.Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti 8 punti di decurtazione. Si richiede la stampa in lingua tedesco via wifi, non stampare anche la comunicazione."
+}

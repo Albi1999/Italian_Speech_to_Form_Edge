@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta il 29 aprile 2025 alle 21:13 presso Piazza Venezia, civico 1. L'infrazione riguarda il parcheggio su strisce pedonali, violando il codice penale, articolo 24, comma 22. Il veicolo coinvolto è una macchina agricola immatricolata in Belgio con targa 123 CD, di colore verde. Sono stati decurtati 2 punti e applicata una sanzione accessoria. La stampa deve essere effettuata tramite WiFi in portoghese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "ventuno e tredici",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "centoventitre ci di",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventiquattro",
+                    "comma": "ventidue",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "vuoi",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventinove aprile duemilaventicinque alle ore ventuno e tredici sto mettendo una notifica di infrazione per il veicolo chi apicali macchina agricola immatricolati in belgio con targa centoventitre ci di di tipo prova l'infrazione si e verificata presto piazza venezia al civico uno violando il codice penale in particolare l'articolo ventiquattro con ma ventidue riguardante il parcheggio su strisce pedonali devo decurtare due punti applico una sanzione accessoria in base alle circostanze il macchina agricola e di colore verde con numero di telaio trecentodiciannove milioni e diciannovemila novecento sessantuno e massa tremiladuecento trentatré chilogrammi stampa me lo con il vuoi in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Il 29/04/2025, alle ore 21:13, sto emettendo una notifica di infrazione per il veicolo Kia Picanto, macchina agricola immatricolato in belgio con targa AB123CD di tipo prova. L'infrazione si è verificata presso piazza Venezia, al civico 1, violando il codice penale, in particolare l'articolo 24, comma 22 riguardante il parcheggio su strisce pedonali.Devo decurtare 2 punti. Applico una sanzione accessoria in base alle circostanze. Il macchina agricola è di colore verde, con numero di telaio 819019961 e massa 3233 kg.Stampamelo con il wifi in portoghese, non stampare anche la comunicazione."
+}

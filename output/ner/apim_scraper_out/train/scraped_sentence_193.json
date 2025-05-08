@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo ufficiale proveniente dalla Svizzera, marca Tram Street Ripley, targato CI DI 123 ABBY. La violazione riguarda il parcheggio su strisce pedonali, avvenuta il 28 aprile 2025 alle 10:45 in via Giuseppe Mazzini, numero 24. L'infrazione è relativa all'articolo 30, comma 28 del codice civile. La contestazione è stata immediata da parte dell'agente Mario Rossi e prevede la perdita di tre punti. Si richiede la stampa in lingua portoghese tramite Wi-Fi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "undici meno un quarto",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "svizzera",
+                    "targa": "ci di centoventitre abby",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "tram street ripley",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata da parte della gente mario rossi",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "trenta",
+                    "comma": "ventotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo molto veicolo targato ci di centoventitre abby di tipo ufficiale proveniente da svizzera marca tram street ripley la violazione ovvero parcheggio su strisce pedonali sia e verificata in data ventotto aprile duemilaventicinque alle ore undici meno un quarto in via giuseppe mazzini al numero ventiquattro l'infrazione rientra nell'articolo trenta comma ventotto del codice civile contestazione immediata da parte della gente mario rossi la sanzione prevede la perdita di tre punti si richiede la stampa in lingua portoghese tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo motoveicolo targato CD123AB di tipo ufficiale proveniente da svizzera, marca Triumph Street Triple. La violazione, ovvero parcheggio su strisce pedonali, si è verificata in data 28/04/2025 alle ore 10:45 in via Giuseppe Mazzini, al numero 24. L'infrazione rientra nell'articolo 30, comma 28 del codice civile. Contestazione immediata da parte dell'agente Mario Rossi. La sanzione prevede la perdita di 3 punti. Si richiede la stampa in lingua portoghese, tramite wifi, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un ciclomotore marca Chapas Aci Zitta, targa ufficiale immatricolato in Austria. La violazione è avvenuta il 29 aprile 2025 alle ore 9:41 in viale della Vittoria, civico 9, per parcheggio in doppia fila, violando l'articolo 26, comma 24 del codice stradale. La violazione comporta la perdita di uno punto. La stampa del verbale è prevista in modalità Bluetooth e in lingua portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "nove quarantuno",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "austria",
+                    "targa": "ci di centoventitre abby",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "chapas aci zitta seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventisei",
+                    "comma": "ventiquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per ciclomotori marca chapas aci zitta seicentocinquanta targa ci di centoventitre abby di tipo ufficiale immatricolati in austria in data ventinove aprile duemilaventicinque alle ore nove quarantuno in viale della vittoria al civico nove stata commessa la seguente violazione parcheggia in doppia fila articolo ventisei con ma ventiquattro del codice stradale dalla violazione con segue la perdita di uno punti stampa in modalità blu tutte in lingua portoghese stampa anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per ciclomotore, marca Kawasaki Z650, targa CD123AB di tipo ufficiale, immatricolato in austria. In data 29/04/2025 alle ore 09:41, in viale della Vittoria, al civico 9, è stata commessa la seguente violazione: parcheggio in doppia fila (articolo 26, comma 24 del codice stradale).Dalla violazione consegue la perdita di 1 punti.Stampa in modalità bluetooth e in lingua portoghese, stampa anche la comunicazione."
+}

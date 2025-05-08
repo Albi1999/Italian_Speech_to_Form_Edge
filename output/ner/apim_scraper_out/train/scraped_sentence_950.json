@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata il sette aprile duemilaventicinque alle venti e tredici. Il veicolo coinvolto è un rimorchio con targa ufficiale immatricolato in Svizzera, targato 'i sette centottantanove capelli'. La violazione è avvenuta in via della pace al civico due, riguardante il codice civile, articolo due due tre e cinque, comma ventitré, per parcheggio in doppia fila. Sono previsti due punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore e non è stata applicata alcuna sanzione accessoria. La stampa è prevista tramite WiFi in olandese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "venti e tredici",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "i sette centottantanove capelli",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressore",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "due",
+                    "comma": "ventitré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle venti e tredici del sette aprile duemilaventicinque storie di gelo un verbale per il veicolo rimorchio targato i sette centottantanove capelli con targa ufficiale immatricolati in svizzera l'infrazione e stata accertata in via della pace al civico due con violazione del codice civile articolo due due tre e cinque come ventitré per parcheggio in doppia fila sono previsti due punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non passo applicare alcuna sanzione accessoria stampa tramite fai in olandese non stampare anche la comunicazione",
+    "original_sentence": "Alle 20:13 del 07/04/2025, sto redigendo un verbale per il veicolo rimorchio targato IJ789KL con targa ufficiale, immatricolato in svizzeraL'infrazione è stata accertata in via della Pace, al civico 2, con violazione del codice civile, articolo 2235,comma 23 per parcheggio in doppia fila Sono previsti 2 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in olandese, non stampare anche la comunicazione. "
+}

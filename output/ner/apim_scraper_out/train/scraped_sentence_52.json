@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il ventisette aprile duemilaventicinque alle ore sei per un'autovettura con targa greca, rilevata in piazza Venezia al civico uno. La violazione riguarda il codice penale, articolo nove, comma sette, per parcheggio in divieto di sosta. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare sei punti. Il veicolo è un Peugeot 208 verde, con numero di telaio specificato e massa di 1781 kg. È richiesta la stampa del preavviso tramite Wi-Fi in spagnolo, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "sei",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "grecia",
+                    "targa": "gia sette centottantanove i",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "peugeot duecentotto",
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data ventisette aprile duemilaventicinque alle ore sei stato notificato un preavviso per un'autovettura targato gia sette centottantanove i con targa copertura immatricolati in grecia l'infrazione e stata rilevata in piazza venezia al civico uno con violazione del codice penale articolo nove comma sette in particolare si e riscontrato un parcheggio in divieto di sosta non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono sei punti il veicolo è un peggio duecentotto di colore verde con numero di telaio duecentotrentotto milioni e centomila settecento novantasei e massa millesettecento ottantuno chilogrammi necessita la stampa del preavviso tramite vuoi fai in spagnolo stampa anche la comunicazione",
+    "original_sentence": "In data 27/04/2025, alle ore 06:00, è stato notificato un preavviso per un autovettura targato GH789IJ con targa copertura, immatricolato in grecia. L'infrazione è stata rilevata in piazza Venezia, al civico 1, con violazione del codice penale, articolo 9, comma 7, in particolare si è riscontrato un parcheggio in divieto di sosta Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 6 punti. Il veicolo è un Peugeot 208 di colore verde, con numero di telaio 238100796 e massa 1781 kg.Necessito la stampa del preavviso tramite wifi, in spagnolo, stampa anche la comunicazione."
+}

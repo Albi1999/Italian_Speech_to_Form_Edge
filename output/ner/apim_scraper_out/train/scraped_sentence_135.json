@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un preavviso di violazione per un veicolo ciclomotore con targa speciale proveniente dalla Grecia. L'infrazione riguarda il transito in una zona a accesso vietato, verificatasi il cinque maggio duemilaventicinque alle otto e tre minuti in piazza Venezia, numero uno. La violazione comporterà una decurtazione di sette punti. Si richiede la stampa in lingua spagnola con modalità Hawaii, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "otto e tre minuti",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "grecia",
+                    "targa": "vi centoventitre doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "dacia d'aste",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantotto",
+                    "comma": "quarantasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotori con targa vi centoventitre doppia ex di tipo speciale marca dacia d'aste proveniente da grecia l'infrazione nello specifico transito in zona accesso vietato sia e verificata in data cinque maggio duemilaventicinque alle otto e tre minuti in piazza venezia al numero uno articolo quarantotto comma quarantasei del codice stradale si comunica che dalla violazione conseguirà una decurtazione di sette punti si richiede la stampa in lingua spagnolo modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotore con targa UV123WX di tipo speciale, marca Dacia Duster, proveniente da grecia. L'infrazione, nello specifico transito in zona accesso vietato, si è verificata in data 05/05/2025 alle ore 08:03 in piazza Venezia, al numero 1 (articolo 48, comma 46 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 7 punti.Si richiede la stampa in lingua spagnolo, modalità wifi, non stampare anche la comunicazione."
+}

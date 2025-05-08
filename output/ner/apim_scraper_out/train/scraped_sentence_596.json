@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 13 aprile 2025 alle ore 12:16 per una violazione riscontrata su un motoveicolo marca 850 Sport, targato 450 6+, tipo speciale, proveniente dalla Spagna. La violazione è avvenuta in via della Giustizia, civico 16, per parcheggio davanti a passo carabine, violando l'articolo 47 con 45 del codice stradale. L'agente Marco Gentili ha proceduto con contestazione immediata e si prevede la decurtazione di 9 punti dalla patente. È richiesta la stampa in italiano via Hawaii, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "dodici e sedici",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "spagna",
+                    "targa": "quattrocentocinquanta sei più",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "ottocentocinquanta sport",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data tredici aprile duemilaventicinque alle ore dodici e sedici per la violazione riscontrata al veicolo motoveicoli marca ottocentocinquanta sport targato quattrocentocinquanta sei più tipo speciale proveniente da spagna in particolare in via della giustizia civico sedici è stato accertato parcheggio davanti a passo carabine in violazione dell'articolo quarantasette con quarantacinque del codice stradale l'agente marco gentili a proceduto con contestazione immediata si prevede la decurtazione di nove punti dalla patente richiedo la stampa in italiano via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 13/04/2025 alle ore 12:16 per la violazione riscontrata al veicolo motoveicolo, marca Triumph Tiger 850 Sport, targato MN456OP (tipo speciale) proveniente da spagna. In particolare, in via della Giustizia, civico 16, è stato accertato parcheggio davanti a passo carrabile, in violazione dell'articolo 47, comma 45 del codice stradale. L'agente Marco Gentili ha proceduto con contestazione immediata. Si prevede la decurtazione di 9 punti dalla patente. Richiedo la stampa in italiano via wifi, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 27 aprile 2025 per una violazione riscontrata a un veicolo macchina operatrice BMW con targa francese. La violazione è avvenuta in via della Concordia, civico 14, per parcheggio davanti a un passo carrabile, violando l'articolo 17, comma 15 del codice penale. L'agente Marco Gentili ha proceduto con contestazione immediata e si prevede la decurtazione di 4 punti dalla patente. È richiesta la stampa in inglese tramite WiFi e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "tredici trentuno",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "francia",
+                    "targa": "jeff novecento ehi tega tweets si ypsilon centoventitre zza",
+                    "tipologia_targa": "tipo copertura",
+                    "marca_modello": "bmw",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii fei",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data ventisette aprile duemilaventicinque all'eur tredici trentuno per la violazione riscontrata al veicolo macchina operatrice mai bmw jeff novecento ehi tega tweets si ypsilon centoventitre zza tipo copertura proveniente da francia in particolare in via della concordia civico quattordici è stato accertato parcheggio davanti a passo che arabi in violazione dell'articolo diciassette come quindici del codice penale l'agente marco gentili a proceduto con contestazione immediata si prevede la decurtazione di quattro punti dalla patente richiedo la stampa in inglese di hawaii fei stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 27/04/2025 alle ore 13:31 per la violazione riscontrata al veicolo macchina operatrice, marca BMW F 900 R, targato XY123ZA (tipo copertura) proveniente da francia. In particolare, in via della Concordia, civico 14, è stato accertato parcheggio davanti a passo carrabile, in violazione dell'articolo 17, comma 15 del codice penale. L'agente Marco Gentili ha proceduto con contestazione immediata. Si prevede la decurtazione di 4 punti dalla patente. Richiedo la stampa in inglese via wifi, stampa anche la comunicazione. "
+}

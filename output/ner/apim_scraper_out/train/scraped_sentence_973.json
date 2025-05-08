@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è una macchina operatrice mai successo, targata i miei quattrocentocinquanta sei capelli, di tipo prova, proveniente dalla Slovenia. L'infrazione è stata rilevata il quattro maggio duemilaventicinque alle ore un ehi quarantuno in viale dei giardini al civico otto, per parcheggio in doppia fila. La violazione riguarda l'articolo quattro comma due del codice penale. L'agente Alessandro Moretti ha effettuato la contestazione immediata. La violazione comporta la perdita di dieci punti. Si richiede la stampa del verbale in francese tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "un ehi quarantuno",
+            "Strada_1": "viale dei giardini",
+            "Civico_1": "otto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice mai successo",
+                    "nazione": "slovenia",
+                    "targa": "i miei quattrocentocinquanta sei capelli",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazioni immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: perdita, after: punti",
+            "tipo_stampa": "piu tutte",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina operatrice mai successo e di seicentocinquanta targato i miei quattrocentocinquanta sei capelli di tipo prova proveniente da slovenia l'infrazione è stata rilevata il quattro maggio duemilaventicinque alle ore un ehi quarantuno il veicolo si trovava in viale dei giardini al civic otto in parcheggia in doppia fila violando l'articolo quattro comma due del codice penale l'agente alessandro moretti ha provveduto alla contestazioni immediata dell'infrazione la violazione comporta la perdita di dieci punti richiedo la stampa del verbale in francese tramite piu tutte non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina operatrice, marca Suzuki SV650, targato IJ456KL (di tipo prova), proveniente da slovenia. L'infrazione è stata rilevata il 04/05/2025 alle ore 01:41. Il veicolo si trovava in viale dei Giardini, al civico 8, in parcheggio in doppia fila, violando l'articolo 4, comma 2, del codice penale. L'agente Alessandro Moretti ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 10 punti. Richiedo la stampa del verbale in francese tramite bluetooth, non stampare anche la comunicazione. "
+}

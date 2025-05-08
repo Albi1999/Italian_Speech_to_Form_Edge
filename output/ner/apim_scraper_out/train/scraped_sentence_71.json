@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo \"full ex vaga in golf ciclomotori\" con targa kazaka, immatricolato in Slovenia, per un'infrazione commessa il sei aprile duemilaventicinque alle ore undici e cinquantuno in viale della libertà civico ventidue. La violazione riguarda il parcheggio in doppia fila ai sensi dell'articolo cinquantatré comma cinquantuno del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di nove punti. È richiesta la stampa in olandese via hawaii fai, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "undici e cinquantuno",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "kazaka",
+                    "targa": "quattrocentocinquanta sei cupi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "full ex vaga in golf",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazione, after: punti",
+            "tipo_stampa": "via hawaii fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo full ex vaga in golf ciclomotori targa kazaka quattrocentocinquanta sei cupi di tipo prova immatricolati slovenia per infrazione commessa in data sei aprile duemilaventicinque ore undici e cinquantuno in viale della libertà civico ventidue è stato rilevato parcheggia in doppia fila ai sensi dell'articolo cinquantatré comma cinquantuno del codice penale impossibile effettuare la contestazione immediata vista all'assenza del trasgressori la violazione comporta la decurtazione di nove punti richiesta stampa in olandese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Volkswagen Golf ciclomotore, targa ZA456QP di tipo prova, immatricolato in slovenia, per infrazione commessa in data 06/04/2025, ore 11:51. In viale della Libertà, civico 22, è stato rilevato parcheggio in doppia fila, ai sensi dell'articolo 53, comma 51, del codice penale.Impossibile effettuare la contestazione immediata vista l'assenza del trasgressore. La violazione comporta la decurtazione di 9 punti. Richiesta stampa in olandese via wifi, non stampare anche la comunicazione."
+}

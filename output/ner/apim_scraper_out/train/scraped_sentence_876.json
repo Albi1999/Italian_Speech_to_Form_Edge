@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta il giorno prima del duemilaventicinque alle ore diciassette e cinquanta. È stato redatto un verbale per un veicolo BMW immatricolato in Belgio con targa \"effe quattrocentocinquanta sei giacca\". L'infrazione è avvenuta in via della Concordia al civico quattordici, violando il codice stradale, articolo cinque, comma tre, per parcheggio in zona a rimozione. Non è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti nove punti da decurtare e non è stata applicata alcuna sanzione accessoria. La stampa è richiesta in spagnolo tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "già duemilaventicinque",
+            "ora_violazione": "diciassette e cinquanta",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "effe quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "bmw effe novecento ex jerry",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno prima già duemilaventicinque alle ore diciassette e cinquanta è stato redatto un verbale per il veicolo bmw effe novecento ex jerry macchina agricola immatricolati in belgio con targa effe quattrocentocinquanta sei giacca di tipo prova l'infrazione è avvenuta in via della concordia al civico quattordici e stata riscontrata una violazione del codice stradale articolo cinque con ma tre ovvero parcheggio in zona a rimozione non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti nove punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in spagnolo tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 03/05/2025, alle ore 17:50, è stato redatto un verbale per il veicolo BMW F 900 XR, macchina agricola immatricolato in belgio con targa EF456GH di tipo prova. L'infrazione è avvenuta in via della Concordia, al civico 14. È stata riscontrata una violazione del codice stradale, articolo 5, comma 3 ovvero parcheggio in zona rimozioneNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 9 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in spagnolo tramite bluetooth, non stampare anche la comunicazione. "
+}

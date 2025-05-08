@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per una violazione stradale commessa da un veicolo agricolo marca MAS, immatricolato in Germania. La violazione è avvenuta il 10 aprile 2025 alle 22:01 in via della Repubblica 20 e via dei Fori Imperiali al civico 10, per parcheggio in divieto di sosta. La violazione riguarda l'articolo 6, comma 4 del codice stradale, con conseguente perdita di 10 punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua olandese, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "ventidue un minuto",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "germania",
+                    "targa": "trecentoventi uno piedi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "mas",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per macchina agricola marca mas da due targa trecentoventi uno piedi tipo prova immatricolati in germania in data dieci aprile duemilaventicinque alle ore ventidue un minuto in via della repubblica venti via dei fori imperiali al civico dieci e stata commessa la seguente violazione parcheggiato in divieto di sosta articolo sei con ma quattro del codice stradale dalla violazione con segue la perdita di dieci punti stampa in modalità blu tutte in lingua olandese stampa anche la comunicativa",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per macchina agricola, marca Mazda 2, targa MN321OP di tipo prova, immatricolato in germania. In data 10/04/2025 alle ore 22:01, in via della Repubblica, 20via dei Fori Imperiali, al civico 10, è stata commessa la seguente violazione: parcheggio in divieto di sosta (articolo 6, comma 4 del codice stradale).Dalla violazione consegue la perdita di 10 punti.Stampa in modalità bluetooth e in lingua olandese, stampa anche la comunicazione."
+}

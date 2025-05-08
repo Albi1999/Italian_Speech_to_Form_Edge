@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione commessa il 12 aprile 2025 alle ore 17:13 in corso della storia, civico 22. Un veicolo Subaru Impreza con rimorchio, targa Jeffrey 450 6, proveniente dalla Svizzera, ha parcheggiato in doppia fila. La violazione è regolata dall'articolo 2235 comma 23 del codice stradale, con decurtazione di punti. La stampa del preavviso è richiesta in portoghese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "diciassette tredici",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "jeffrey quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "subaru impreca",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "duemiladuecento trentacinque",
+                    "comma": "ventitré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tra i punti di decurtazione",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo subaru impreca rimorchio targa è jeffrey quattrocentocinquanta sei giacca di tipo copertura proveniente da svizzera il giorno dodici aprile duemilaventicinque alle ore diciassette tredici in corso della storia al numero civico ventidue e stata commessa all'inflazione di parcheggio in doppia fila come previsto dall'articolo duemiladuecento trentacinque comma ventitré del codice stradale per questa violazione sono previsti tra i punti di decurtazione cedola la stampa del preavviso in portoghese via blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Subaru Impreza rimorchio, targa EF456GH di tipo copertura, proveniente da svizzera. Il giorno 12/04/2025, alle ore 17:13, in corso della Storia, al numero civico 22, è stata commessa l'infrazione di parcheggio in doppia fila, come previsto dall'articolo 2235, comma 23, del codice stradale. Per questa violazione sono previsti 3 punti di decurtazione. Chiedo la stampa del preavviso in portoghese via bluetooth, stampa anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 19 aprile 2025 alle ore 9:07 per un veicolo Seat Ibiza con rimorchio, immatricolato in Svizzera, targa ufficiale HOW 3201 Wings. L'infrazione è avvenuta in via della Cultura, civico 9, violando il codice penale, articolo 3, comma 1, riguardante il parcheggio in divieto di sosta. Sono decurtati 10 punti e applicata una sanzione accessoria. Il rimorchio è di colore giallo. La stampa è richiesta in inglese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "nove e sette",
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": null,
+                    "nazione": "svizzera",
+                    "targa": "how trecentoventi uno doppia wings",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "seat ibiza",
+                    "colore": "giallo"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tre",
+                    "comma": "uno",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il diciannove aprile duemilaventicinque alle ore nove e sette sto mettendo una notifica di infrazione per il veicolo seat ibiza rimorchio immatricolati in svizzera con targa how trecentoventi uno doppia wings di tipo ufficiale l'infrazione si e verificata presso via della cultura al civico nove violando il codice penale in particolare l'articolo tre con ma uno riguardante il parcheggio in divieto di sosta devo decurtare dieci punti applico una sanzione accessoria in base alle circostanze il rimorchio e di colore giallo con numero di telaio cinque due nove quattr'otto cinque uno sei quattro e massa tremiladuecento trentatré chi li stampa me lo con il blu tutti in inglese stampa anche la comunicazione",
+    "original_sentence": "Il 19/04/2025, alle ore 09:07, sto emettendo una notifica di infrazione per il veicolo Seat Ibiza, rimorchio immatricolato in svizzera con targa UV321WX di tipo ufficiale. L'infrazione si è verificata presso via della Cultura, al civico 9, violando il codice penale, in particolare l'articolo 3, comma 1 riguardante il parcheggio in divieto di sosta. Devo decurtare 10 punti. Applico una sanzione accessoria in base alle circostanze. Il rimorchio è di colore giallo, con numero di telaio 529485164 e massa 3233 kg. Stampamelo con il bluetooth in inglese, stampa anche la comunicazione. "
+}

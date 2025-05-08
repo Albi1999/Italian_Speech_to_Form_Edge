@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il dieci aprile duemilaventicinque alle ore diciotto e trentadue. Un verbale è stato emesso per un veicolo agricolo con targa svizzera, parcheggiato su strisce pedonali in via Roma, civico settantasette. La contestazione è stata immediata, effettuata dall'agente Sara Bellini. La violazione ha comportato la decurtazione di nove punti. La stampa del verbale è richiesta in lingua italiana tramite WiFi, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "diciotto e trentadue",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "si ypsilon centoventitre",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "onda ci bere seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione e stata immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: derivano, after: decurtazione",
+            "tipo_stampa": "wife",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data dieci aprile duemilaventicinque alle ore diciotto e trentadue si leva verbale al veicolo onda ci bere seicentocinquanta macchina agricola con targa si ypsilon centoventitre di tipo speciale immatricolati in svizzera per violazione dell'articolo sei con ma quattro del codice civile ovvero parcheggio su strisce pedonali rilevata in via roma al civico settantasette la contestazione e stata immediata effettuata dalla gente sara bellini dalla violazione derivano nove punti di decurtazione stampa necessaria in lingua italiano via wife ehi stampa anche la comunicazione",
+    "original_sentence": "In data 10/04/2025, alle ore 18:32, si eleva verbale al veicolo Honda CBR650R, macchina agricola con targa XY123ZA di tipo speciale, immatricolato in svizzera, per violazione dell'articolo 6, comma 4 del codice civile, ovvero parcheggio su strisce pedonali, rilevata in via Roma, al civico 77. La contestazione è stata immediata, effettuata dall'agente Sara Bellini. Dalla violazione derivano 9 punti di decurtazione. Stampa necessaria in lingua italiano via wifi, stampa anche la comunicazione. "
+}

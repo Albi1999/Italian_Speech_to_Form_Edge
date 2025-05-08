@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 20 aprile 2025 alle ore 14:21 per un rimorchio con targa ufficiale immatricolato in Spagna. L'infrazione è stata rilevata in corso della Repubblica al civico 19, con violazioni del codice penale articolo 47 comma 45, per transito in zona accesso vietato. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare sei punti. Il veicolo è un Renault Capsule di colore oro. La stampa del preavviso è richiesta tramite Bluetooth in tedesco, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "quattordici ventuno",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": null,
+                    "nazione": "spagna",
+                    "targa": "me ne centoventitre ho più",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "reno capsule",
+                    "colore": "oro"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data venti aprile duemilaventicinque alle ore quattordici ventuno è stato notificato un preavviso per un rimorchio targato me ne centoventitre ho più con targa ufficiale immatricolati in spagna l'infrazione stata rilevata in corso della repubblica al civico diciannove con violazioni del codice penale articolo quarantasette comma quarantacinque in particolare sia riscontrato un transito in zona accesso vietato non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono sei punti il veicolo è un reno capsule di colore oro con numero di telaio sei nove sei otto zero zero uno nove sette e massa millecinquecentoventi sette chi li necessita alla stampa del preavviso tramite blu tutte in tedesco non stampare anche la comunicazione",
+    "original_sentence": "In data 20/04/2025, alle ore 14:21, è stato notificato un preavviso per un rimorchio targato MN123OP con targa ufficiale, immatricolato in spagna. L'infrazione è stata rilevata in corso della Repubblica, al civico 19, con violazione del codice penale, articolo 47, comma 45, in particolare si è riscontrato un transito in zona accesso vietato Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 6 punti. Il veicolo è un Renault Captur di colore oro, con numero di telaio 696800197 e massa 1527 kg. Necessito la stampa del preavviso tramite bluetooth, in tedesco, non stampare anche la comunicazione. "
+}

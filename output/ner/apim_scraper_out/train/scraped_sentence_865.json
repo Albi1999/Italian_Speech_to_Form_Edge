@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 19 aprile 2025 alle ore 12:12 in via della Storia, civico 6. La violazione riguarda un veicolo con targa greca, tipo ufficiale, che ha transitato in una zona di accesso vietato. La contestazione immediata non è stata possibile per l'assenza del trasgressore. Sono previsti otto punti di decurtazione. Si richiede la stampa in lingua spagnola tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "dodici e dodici",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "capelli trecentoventi uno",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantuno",
+                    "comma": "trentanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: di",
+            "tipo_stampa": "vi hawaii fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare dicendo verbale per violazione accertata il diciannove aprile duemilaventicinque alle ore dodici e dodici in via della storia al civico sei a carico del veicolo si tronchi quattro capta macchina operatrice con targa capelli trecentoventi uno di tipo ufficiale immatricolati in grecia la violazione contestata e transito in zona accesso vietato in base a all'articolo quarantuno comma trentanove del codice civile non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti otto punti di decurtazione si richiede la stampa in lingua spagnolo vi hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 19/04/2025 alle ore 12:12 in via della Storia, al civico 6, a carico del veicolo Citroen C4 Cactus, macchina operatrice con targa KL321MN di tipo ufficiale, immatricolato in grecia. La violazione contestata è transito in zona accesso vietato, in base all'articolo 41, comma 39 del codice civile. Non è stato possibile contestare immediatamente, per assenza del trasgressore. Sono previsti 8 punti di decurtazione. Si richiede la stampa in lingua spagnolo via wifi, non stampare anche la comunicazione. "
+}

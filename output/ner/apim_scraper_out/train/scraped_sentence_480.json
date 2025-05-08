@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo agricolo immatricolato in Svizzera con targa di tipo prova. L'infrazione è avvenuta in via della Speranza, civico 17, per parcheggio in zona a rimozione. Si applica l'articolo 5, comma 3 del codice penale e verranno decurtati 5 punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. Si richiede la stampa in inglese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciassette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "i sei centocinquantaquattro chi lo litri",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo se akhtar ho una macchina agricola immatricolati in svizzera con targa i sei centocinquantaquattro chi lo litri di tipo prova l'infrazione avvenuta in via della speranza civico diciassette parcheggio in zona a rimozione si applica l'articolo cinque con ma tre del codice penale a seguito della violazione verranno decurtati cinque punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in inglese tramite blu tutta stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Seat Arona, macchina agricola immatricolato in svizzera con targa IJ654KL di tipo prova. L'infrazione è avvenuta in via della Speranza, civico 17: parcheggio in zona rimozione. Si applica l'articolo 5, comma 3 del codice penale. A seguito della violazione verranno decurtati 5 punti.A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in inglese tramite bluetooth, stampa anche la comunicazione."
+}

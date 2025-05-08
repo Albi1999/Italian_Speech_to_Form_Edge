@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sette aprile duemilaventicinque alle quattordici e quarantatré per un'infrazione accertata in via della Concordia, civico quattordici. Il veicolo coinvolto è un'autovettura con targa prova immatricolata, targato I 789 CH. La violazione riguarda il codice civile, articolo ventinove, comma ventisette, per parcheggio in divieto di sosta. Sono previsti nove punti da decurtare. La contestazione è stata effettuata immediatamente dall'agente Alessandro Moretti. La stampa del verbale è stata eseguita tramite Bluetooth in francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "quattordici e quarantatré",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": null,
+                    "targa": "i sette centottantanove chi lo litri",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: previsti, after: da",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle quattordici e quarantatré del sette aprile duemilaventicinque storie di gendo un verbale per il veicolo autovettura targato i sette centottantanove chi lo litri con targa prova immatricolati non l'andare infrazione stata accertata in via della concordia al civico quattordici con violazione del codice civile articolo ventinove con ma ventisette per parcheggiato in divieto di sosta sono previsti nove punti da decurtare contestazione immediata effettuata dalla gente alessandro moretti il verbale è stato redatto sul posto in via della concordia non posso applicare alcuna sanzione accessoria stampa tramite blu tutti in francese non stampare anche la comunicazione",
+    "original_sentence": "Alle 14:43 del 07/04/2025, sto redigendo un verbale per il veicolo autovettura targato IJ789KL con targa prova, immatricolato in olandaL'infrazione è stata accertata in via della Concordia, al civico 14, con violazione del codice civile, articolo 29,comma 27 per parcheggio in divieto di sosta Sono previsti 9 punti da decurtare. Contestazione immediata effettuata dall'agente Alessandro Moretti, il verbale è stato redatto sul posto in via della Concordia. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in francese, non stampare anche la comunicazione."
+}

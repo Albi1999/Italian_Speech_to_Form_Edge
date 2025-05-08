@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 13 aprile 2025 alle ore 1:03 per un veicolo Dacia immatricolato in Francia con targa BEH 3201 CD. L'infrazione si è verificata in via del Corso, civico 12, violando il codice penale, articolo 31, comma 30, riguardante il parcheggio in doppia fila. Sono stati decurtati 4 punti e applicata una sanzione accessoria. Il veicolo è di colore viola. La stampa deve essere effettuata tramite Bluetooth in portoghese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "tredici aprile duemilaventicinque",
+            "ora_violazione": "una e tre minuti",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "francia",
+                    "targa": "beh trecentoventi uno ci di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "dacia d'aste",
+                    "colore": "viola"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il tredici aprile duemilaventicinque alle ore una e tre minuti sto mettendo una notifica di infrazione per il veicolo dacia d'aste molto veicolo immatricolati in francia con targa beh trecentoventi uno ci di di tipo copertura l'infrazione si e verificata presso via del corso al civico dodici violando il codice penale in particolare l'articolo trentuno duemilanovecento trentadue con ma trenta riguardante il parcheggio in doppia fila devo decurtare quattro punti applico una sanzione accessoria in base alle circostanze il molto veicolo e di colore viola con numero di telaio centosedici milioni e ventiquattromila sette centosettantasei e massa duemilatrecento settantasette chilogrammi stampa me lo con il blu tutti in portoghese stampa anche la comunicazione",
+    "original_sentence": "Il 13/04/2025, alle ore 01:03, sto emettendo una notifica di infrazione per il veicolo Dacia Duster, motoveicolo immatricolato in francia con targa AB321CD di tipo copertura. L'infrazione si è verificata presso via del Corso, al civico 12, violando il codice penale, in particolare l'articolo 31, 2932, comma 30 riguardante il parcheggio in doppia fila.Devo decurtare 4 punti. Applico una sanzione accessoria in base alle circostanze. Il motoveicolo è di colore viola, con numero di telaio 116024776 e massa 2377 kg.Stampamelo con il bluetooth in portoghese, stampa anche la comunicazione."
+}

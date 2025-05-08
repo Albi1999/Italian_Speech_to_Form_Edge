@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il ventinove aprile duemilaventicinque alle ore dieci e trentasei per un veicolo macchina agricola Subaru con targa francese. L'infrazione è avvenuta in viale della Concordia, numero tredici, per parcheggio in divieto di sosta, violando l'articolo quarantasette, comma quarantacinque del codice penale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti nove punti di decurtazione. Si richiede la stampa della notifica tramite Bluetooth in lingua tedesca, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "dieci e trentasei",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "sette centottantanove occhi",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "subaru impresa",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventinove aprile duemilaventicinque alle ore dieci e trentasei è stato emesso un preavviso di violazione per il veicolo macchina agricola di marca subaru impresa con targa sette centottantanove occhi tipo prova registrato in francia l'infrazione avvenuta in viale della concordia al numero tredici e consiste in parcheggiato in divieto di sosta come previsto dall'articolo quarantasette con ma quarantacinque del codice penale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti nove punti di decurtazione si prega di stampare la presente notifica tramite blu in lingua tedesco stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 29/04/2025, alle ore 10:36, è stato emesso un preavviso di violazione per il veicolo macchina agricola di marca Subaru Impreza, con targa MN789OP (tipo prova), registrato in francia. L'infrazione è avvenuta in viale della Concordia, al numero 13, e consiste in parcheggio in divieto di sosta, come previsto dall'articolo 47, comma 45 del codice penale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 9 punti di decurtazione.  Si prega di stampare la presente notifica tramite bluetooth, in lingua tedesco, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo Suzuki Swift, registrato in Slovenia, con targa ufficiale. L'infrazione è avvenuta il 28 aprile 2025 alle 8:05 in via della Storia, civico 6, per parcheggio in divieto di sosta. La violazione è in base all'articolo 14, comma 12 del codice civile e comporta una decurtazione di 10 punti. La stampa dell'avviso è prevista via Bluetooth, in italiano, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "otto cinque",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "slovenia",
+                    "targa": "si piu non trecentoventi uno zio",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "suzuki swift",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quattordici",
+                    "comma": "dodici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emette un avviso di violazione quindi si tratta di un preavviso per il veicolo suzuki swift motoveicoli targato si piu non trecentoventi uno zio con targa ufficiale registrato in slovenia per un fatto accaduto il ventotto aprile duemilaventicinque alle otto cinque il veicolo si trovava in via della storia al civico sei dove è stato riscontrato parcheggio in divieto di sosta in base all'articolo quattordici comma dodici del codice civile questa infrazione comporta una decurtazione di dieci punti genere alla stampa dell'avviso via blu tutti in italiano stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Suzuki Swift, motoveicolo, targato XY321ZA con targa ufficiale, registrato in slovenia, per un fatto accaduto il 28/04/2025 alle 08:05. Il veicolo si trovava in via della Storia, al civico 6, dove è stato riscontrato parcheggio in divieto di sosta, in base all'articolo 14, comma 12, del codice civile. Questa infrazione comporta una decurtazione di 10 punti. Genera la stampa dell'avviso via bluetooth in italiano, stampa anche la comunicazione. "
+}

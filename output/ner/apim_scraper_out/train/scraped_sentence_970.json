@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un'infrazione di parcheggio davanti a passo carabine. Il veicolo coinvolto è una macchina operatrice di marca Renault Clio, con targa speciale proveniente dalla Germania. L'infrazione è avvenuta il 23 aprile 2025 alle ore 23:56 in via Giuseppe Mazzini, numero civico 24. La violazione riguarda l'articolo 29, comma 27 del codice civile, con una decurtazione prevista di sei punti. La contestazione è stata eseguita immediatamente dall'agente Silvia Neri. La stampa del verbale è richiesta tramite Bluetooth, in italiano, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "ventitré cinquantasei",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "germania",
+                    "targa": "a centoventitre ci",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "reno clio",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo macchina operatrice di marca reno clio con targa a centoventitre ci di tipo speciale proveniente da germania fatto avvenuto il ventitré aprile duemilaventicinque alle ore ventitré cinquantasei posizione via giuseppe mazzini numero civico ventiquattro infrazione parcheggio davanti a passo carabine in violazione dell'articolo ventinove comma ventisette del codice civile decurtazione prevista sei punti si applica contestazione immediata da parte della gente silvia neri stampa necessaria tramite blu tutti in italiano stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo macchina operatrice di marca Renault Clio, con targa AB123CD (tipo speciale), proveniente da germania. Fatto avvenuto il 23/04/2025 alle ore 23:56. Posizione: via Giuseppe Mazzini, numero civico 24. Infrazione: parcheggio davanti a passo carrabile, in violazione dell'articolo 29, comma 27, del codice civile. Decurtazione prevista: 6 punti. Si applica contestazione immediata da parte dell'agente Silvia Neri. Stampa necessaria tramite bluetooth in italiano, stampa anche la comunicazione. "
+}

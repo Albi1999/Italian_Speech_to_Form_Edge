@@ -1,6 +1,6 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive un avviso di violazione per un veicolo rimorchio targato UBI 4506 EX, registrato in Croazia. L'infrazione è avvenuta il 29 aprile 2025 alle 10:25 in corso della Giustizia, civico 23, per parcheggio in zona a rimozione. La violazione è in base all'articolo 31 del codice civile, comma 30, e comporta una decurtazione di 1 punto. La stampa dell'avviso è prevista via Bluetooth in spagnolo, senza stampare anche la comunicazione.",
+        "summary": "Il documento descrive un avviso di violazione per un veicolo con rimorchio targato UBI 4506 EX, registrato in Croazia. L'infrazione è avvenuta il 29 aprile 2025 alle 10:25 in Corso della Giustizia, civico 23, per parcheggio in zona a rimozione. La violazione è in base all'articolo 31 del codice civile, comma 30, e comporta una decurtazione di 1 punto. La stampa dell'avviso è prevista via Bluetooth in spagnolo, senza includere la comunicazione.",
         "report": {
             "verbale_preavviso": "preavviso",
             "data_violazione": "ventinove aprile duemilaventicinque",
@@ -9,10 +9,10 @@
             "Civico_1": "ventitre",
             "lista_veicoli": [
                 {
-                    "tipologia": null,
+                    "tipologia": "rimorchio",
                     "nazione": "croazia",
                     "targa": "ubi quattrocentocinquanta sei doppia ex",
-                    "tipologia_targa": null,
+                    "tipologia_targa": "copertura",
                     "marca_modello": null,
                     "colore": null
                 }

@@ -73,7 +73,7 @@ class InformationScraper:
 
         try:
             response = requests.post(self.url, headers=headers, data=payload_json, timeout=60) # Added timeout
-            response.raise_for_status() # Raise HTTPError for bad responses (4xx or 5xx)
+            response.raise_for_status()
 
             scraped_data = response.json()
 

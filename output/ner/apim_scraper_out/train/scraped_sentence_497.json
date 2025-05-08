@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 22 aprile 2025 alle ore 5:08 per un veicolo agricolo con targa ufficiale, immatricolato in Italia. L'infrazione è avvenuta in via della Speranza, civico 18, per parcheggio in divieto di sosta. La contestazione è stata immediata, eseguita dall'agente Elena Fontana. Sono previsti uno punti da decurtare, senza sanzioni accessorie. La stampa è in inglese tramite Bluetooth e include la comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "cinque otto minuti",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "italia",
+                    "targa": "è effe centoventitre giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno, before: previsti, after: da",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventidue aprile duemilaventicinque alle ore cinque otto minuti è stato redatto un verbale per il veicolo cappa ti sette centonovanta di dio macchina agricola immatricolati in italia con targa è effe centoventitre giacca di tipo ufficiale l'infrazione avvenuta in via della speranza al civico diciotto e stata riscontrata una violazione del codice civile articolo quarantacinque comma quarantatré ovvero parcheggiato in divieto di sosta verbale è stato eseguito sul posto con contestazione immediata da parte della gente elena fontana sono previsti uno punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in inglese tramite blood stampa anche la comunicativa",
+    "original_sentence": "Il giorno 22/04/2025, alle ore 05:08, è stato redatto un verbale per il veicolo KTM 790 Duke, macchina agricola immatricolato in italia con targa EF123GH di tipo ufficiale.L'infrazione è avvenuta in via della Speranza, al civico 18. È stata riscontrata una violazione del codice civile, articolo 45, comma 43 ovvero parcheggio in divieto di sostaIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Elena Fontana. Sono previsti 1 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in inglese tramite bluetooth, stampa anche la comunicazione."
+}

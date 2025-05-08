@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo Alfa Romeo Giulietta, targato \"i sette centottantanove capelli\" con targa prova registrato in Olanda. L'infrazione è avvenuta il 28 aprile 2025 alle 2:52 in viale della Libertà, civico 22, per parcheggio su strisce pedonali. La violazione è in base all'articolo 20 comma 18 del codice penale e comporta la decurtazione di un punto. La stampa dell'avviso è richiesta via \"hawaii fai\" in francese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "due cinquantadue",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "olanda",
+                    "targa": "i sette centottantanove capelli",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "alfa romeo e giulietta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "venti",
+                    "comma": "diciotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emette un avviso di violazione quindi si tratta di un preavviso per il veicolo alfa romeo e giulietta ciclomotori targato i sette centottantanove capelli con targa prova registrato in olanda per un fatto accaduto il ventotto aprile duemilaventicinque alle due cinquantadue il veicolo si trovava in viale della libertà al civico ventidue dove è stato riscontrato parcheggio su strisce pedonali in base al l'articolo venti comma diciotto del codice penale questa infrazione comporta una decurtazione di un punti genere alla stampa dell'avviso via hawaii fai in francese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Alfa Romeo Giulietta, ciclomotore, targato IJ789KL con targa prova, registrato in olanda, per un fatto accaduto il 28/04/2025 alle 02:52. Il veicolo si trovava in viale della Libertà, al civico 22, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 20, comma 18, del codice penale. Questa infrazione comporta una decurtazione di 1 punti. Genera la stampa dell'avviso via wifi in francese, stampa anche la comunicazione. "
+}

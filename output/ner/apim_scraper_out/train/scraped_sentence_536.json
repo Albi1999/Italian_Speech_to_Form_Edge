@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il ventitré aprile duemilaventicinque alle ore ventidue e quarantasette per una violazione del codice stradale. L'infrazione è stata rilevata in via Roma al civico settantasette, con un parcheggio davanti a passo carabine. Il veicolo coinvolto è una macchina operatrice con targa prova immatricolata in Germania, di colore marrone. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare cinque punti. La stampa del preavviso è richiesta tramite Wi-Fi in francese, e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "ventidue i quarantasette",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "germania",
+                    "targa": "cui sette centottantanove ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "vuoi ho anch'io dei versato il seicentocinquanta",
+                    "colore": "marrone"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in dato a ventitré aprile duemilaventicinque alle ore ventidue i quarantasette è stato notificato un preavviso per un macchina operatrice targato cui sette centottantanove ti con targa prova immatricolati in germania l'infrazione e stata rilevata in via roma al civico settantasette con violazione del codice stradale articolo quarantatré comma quarantuno in particolare si e riscontrato un parcheggio davanti a passo carabine non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono cinque punti il veicolo è un vuoi ho anch'io dei versato il seicentocinquanta di colore marrone con numero di telaio nove otto sette tre sei nove e cinque nove tre massa duemilatrecento cinquantasette chili necessita la stampa del preavviso tramite vuoi fai in francese stampa anche la comunicazione",
+    "original_sentence": "In data 23/04/2025, alle ore 22:47, è stato notificato un preavviso per un macchina operatrice targato QR789ST con targa prova, immatricolato in germania. L'infrazione è stata rilevata in via Roma, al civico 77, con violazione del codice stradale, articolo 43, comma 41, in particolare si è riscontrato un parcheggio davanti a passo carrabile Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 5 punti. Il veicolo è un Royal Enfield Interceptor 650 di colore marrone, con numero di telaio 987369593 e massa 2357 kg. Necessito la stampa del preavviso tramite wifi, in francese, stampa anche la comunicazione. "
+}

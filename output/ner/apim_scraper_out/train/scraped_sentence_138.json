@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 9 aprile 2025 alle ore 23:03 per un veicolo Lancia Delta immatricolato in Slovenia con targa ufficiale. L'infrazione è avvenuta in Corso Italia al civico 30, violando il codice penale, articolo 8, comma 6, riguardante il transito in zona accesso vietato. Sono stati decurtati 9 punti e applicata una sanzione accessoria. Il veicolo è di colore verde e ha un numero di telaio specificato. La stampa è richiesta via WiFi in portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "ventitré tre minuti",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "slovenia",
+                    "targa": "i centoventitre chi lo litri",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "lancia delta",
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": "applico una sanzione accessoria"
+                }
+            ],
+            "punti": "nuove, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il nove aprile duemilaventicinque alle ore ventitré tre minuti sto mettendo una notifica di infrazione per il veicolo lancia delta ciclomotori e immatricolati slovenia con targa i centoventitre chi lo litri di tipo ufficiale l'infrazione si e verificata presto corso italia al civico trenta violando il codice penale in particolare l'articolo otto con ma sei riguardante il transito in zona accesso vietato devo decurtare nuove punti applico una sanzione accessoria in base alle circostanze il ciclo e di colore verde con numero di telaio duecento milioni e settecentoventi uno mila settecentocinquanta sette e massa tremilatrecento sessantacinque chilogrammi stampa me lo con il vuoi fa in portoghese stampa anche la comunicazione",
+    "original_sentence": "Il 09/04/2025, alle ore 23:03, sto emettendo una notifica di infrazione per il veicolo Lancia Delta, ciclomotore immatricolato in slovenia con targa IJ123KL di tipo ufficiale. L'infrazione si è verificata presso corso Italia, al civico 30, violando il codice penale, in particolare l'articolo 8, comma 6 riguardante il transito in zona accesso vietato.Devo decurtare 9 punti. Applico una sanzione accessoria in base alle circostanze. Il ciclomotore è di colore verde, con numero di telaio 200721757 e massa 3365 kg.Stampamelo con il wifi in portoghese, stampa anche la comunicazione."
+}

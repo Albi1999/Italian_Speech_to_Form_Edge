@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la redazione di un verbale per un'autovettura Nissan con targa speciale immatricolata in Svizzera. La violazione è avvenuta il 29 aprile 2025 alle ore 21:16 in Corso della Libertà, civico 7, per transito in zona accesso vietato, violando l'articolo 40 comma 38 del codice civile. La violazione comporta la perdita di quattro punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua inglese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventinove aprile duemilaventicinque",
+            "ora_violazione": "ventuno e sedici",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "svizzera",
+                    "targa": "icsi ypsilon sei centocinquantaquattro sa",
+                    "tipologia_targa": null,
+                    "marca_modello": "nissan",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto procedendo con la redazione di un verbale per autovettura marca nissan ok targa icsi ypsilon sei centocinquantaquattro sa di tipo speciale immatricolati in svizzera in data ventinove aprile duemilaventicinque alle ore e ventuno e sedici in corso della libertà al civico sette e stata commessa la seguente violazione transito in zona accesso vietato articolo quaranta comma trentotto del codice civile dalla violazione con segue la perdita di quattro punti stampa in modalità blu tutte in lingua inglese non stampare anche la comunicazione",
+    "original_sentence": "Sto procedendo con la redazione di un verbale per autovettura, marca Nissan Juke, targa XY654ZA di tipo speciale, immatricolato in svizzera. In data 29/04/2025 alle ore 21:16, in corso della Libertà, al civico 7, è stata commessa la seguente violazione: transito in zona accesso vietato (articolo 40, comma 38 del codice civile).Dalla violazione consegue la perdita di 4 punti.Stampa in modalità bluetooth e in lingua inglese, non stampare anche la comunicazione."
+}

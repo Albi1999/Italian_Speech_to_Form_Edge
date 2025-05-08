@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 14 aprile 2025 alle ore 11:52 per una violazione riscontrata su un veicolo autovettura marca Ducati Monster, targato 450 6 occhi, tipo speciale, proveniente dall'Italia. La violazione è avvenuta in via della Pace, civico 2, per transito in zona accesso vietato, violando l'articolo 7, comma 15 del codice civile. L'agente Marco Gentili ha proceduto con contestazione immediata e si prevede la decurtazione di 2 punti dalla patente. È richiesta la stampa in tedesco via Bluetooth, inclusa la comunicativa.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "undici e cinquantadue",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "italia",
+                    "targa": "quattrocentocinquanta sei occhi",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "ducati monster",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data quattordici aprile duemilaventicinque alle ore undici e cinquantadue per la violazione riscontrata al veicolo autovettura marca ducati monster targato quattrocentocinquanta sei occhi tipo speciale proveniente da italia in particolare in via della pace civico due è stato accertato transito in zona accesso vietato in violazione dell'articolo sette con ma quindici del codice civile l'agente marco gentili a proceduto con contestazione immediata si prevede la decurtazione di due punti dalla patente richiedo la stampa in tedesco via blu stampa anche la comunicativa",
+    "original_sentence": "Verbale redatto in data 14/04/2025 alle ore 11:52 per la violazione riscontrata al veicolo autovettura, marca Ducati Monster, targato MN456OP (tipo speciale) proveniente da italia. In particolare, in via della Pace, civico 2, è stato accertato transito in zona accesso vietato, in violazione dell'articolo 7, comma 15 del codice civile. L'agente Marco Gentili ha proceduto con contestazione immediata. Si prevede la decurtazione di 2 punti dalla patente. Richiedo la stampa in tedesco via bluetooth, stampa anche la comunicazione."
+}

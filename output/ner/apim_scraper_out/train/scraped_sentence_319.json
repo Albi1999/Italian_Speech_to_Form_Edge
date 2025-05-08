@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il dieci aprile duemilaventicinque alle ore dieci o undici. È stato elevato un verbale al veicolo cavalchi, un ciclomotore immatricolato in Olanda con targa sette centottantanove. La violazione riguarda l'articolo quattro comma due del codice penale per parcheggio in zona a rimozione, rilevata in corso della giustizia al civico ventitré. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di tre punti. La stampa è richiesta in lingua francese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "dieci o undici",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "olanda",
+                    "targa": "sette centottantanove",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "cavalchi",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quattro",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "via about",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data dieci aprile duemilaventicinque alle ore dieci o undici si eleva verbale al veicolo cavalchi in in già seicentocinquanta ciclomotori con targa sette centottantanove ho piedi tipo prova immatricolati in olanda per violazione dell'articolo quattro comma due del codice penale o vero parcheggio in zona a rimozione rilevata in corso della giustizia al civico ventitré non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano tre punti di decurtazione stampa necessaria in lingua francese via about stampa anche la comunicazione",
+    "original_sentence": "In data 10/04/2025, alle ore 10:11, si eleva verbale al veicolo Kawasaki Ninja 650, ciclomotore con targa MN789OP di tipo prova, immatricolato in olanda, per violazione dell'articolo 4, comma 2 del codice penale, ovvero parcheggio in zona rimozione, rilevata in corso della Giustizia, al civico 23.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 3 punti di decurtazione. Stampa necessaria in lingua francese via bluetooth, stampa anche la comunicazione."
+}

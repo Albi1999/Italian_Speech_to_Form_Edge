@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la generazione di un verbale per un veicolo agricolo con targa ufficiale immatricolato in Spagna. L'infrazione è avvenuta il 19 aprile 2025 alle 21:09 in via della Pace, numero civico 2, dove il veicolo era parcheggiato su strisce pedonali. L'articolo violato è il 48, comma 46 del codice civile, e verranno tolti 8 punti dalla patente. La stampa del verbale è richiesta tramite Bluetooth in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "ventuno e nove",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "jeffrey centoventitre gia",
+                    "tipologia_targa": "ufficiali",
+                    "marca_modello": "onda we",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantotto",
+                    "comma": "quarantasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "attenzione sta generando un verbale per il veicolo onda we macchina agricola con targa è jeffrey centoventitre gia di tipo ufficiali immatricolati in spagna per un'infrazione commessa il diciannove aprile duemilaventicinque alle ventuno e nove l'inflazione è avvenuta in via della pace a il numero due dov'è veicolo era in parcheggio su strisce pedonali l'articolo violato è il quarantotto come quarantasei del codice civile verranno tolti otto punti dalla patente stampa questo verbali di a blu tutti in italiano non stampare anche la comunicazione",
+    "original_sentence": "Attenzione, sto generando un verbale per il veicolo Honda HR-V, macchina agricola con targa EF123GH di tipo ufficiale, immatricolato in spagna, per un'infrazione commessa il 19/04/2025 alle 21:09. L'infrazione è avvenuta in via della Pace, al numero 2, dove il veicolo era in parcheggio su strisce pedonali. L'articolo violato è il 48, comma 46 del codice civile. Verranno tolti 8 punti dalla patente. Stampa questo verbale via bluetooth in italiano, non stampare anche la comunicazione. "
+}

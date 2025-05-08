@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il 17 aprile 2025 alle ore 18:11 per un rimorchio con targa copertura immatricolato in Francia. L'infrazione è stata rilevata in via Giuseppe Mazzini, civico 24, per parcheggio su strisce pedonali. La violazione riguarda il codice stradale, articolo 43, comma 41. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare quattro punti. Il veicolo è un'onda cibi 650 jerry di colore oro. La stampa del preavviso è richiesta tramite Bluetooth in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "diciotto e undici",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": null,
+                    "nazione": "francia",
+                    "targa": "un novecentottanta sette doppia winx",
+                    "tipologia_targa": null,
+                    "marca_modello": "onda cibi seicentocinquanta jerry",
+                    "colore": "oro"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtare, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data diciassette aprile duemilaventicinque alle ore diciotto e undici è stato notificato un preavviso per un rimorchio targato un novecentottanta sette doppia winx con targa copertura immatricolati in francia l'infrazione stata rilevata in via giuseppe mazzini al civico ventiquattro con violazione del codice stradale articolo quarantatré comma quarantuno in particolare si riscontrato un parcheggio su strisce pedonali non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono quattro punti il veicolo è un'onda cibi seicentocinquanta jerry di colore oro con numero di telaio due sette cinque tre due quattro due massa duemilacinquecento sei chili necessita la stampa del preavviso tramite blu tutte in italiano non stampare anche la comunicazione",
+    "original_sentence": "In data 17/04/2025, alle ore 18:11, è stato notificato un preavviso per un rimorchio targato UV987WX con targa copertura, immatricolato in francia. L'infrazione è stata rilevata in via Giuseppe Mazzini, al civico 24, con violazione del codice stradale, articolo 43, comma 41, in particolare si è riscontrato un parcheggio su strisce pedonali Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 4 punti. Il veicolo è un Honda CB650R di colore oro, con numero di telaio 275302402 e massa 2506 kg. Necessito la stampa del preavviso tramite bluetooth, in italiano, non stampare anche la comunicazione. "
+}

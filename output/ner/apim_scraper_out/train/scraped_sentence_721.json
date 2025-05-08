@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 10 aprile 2025 alle ore 4:25 per un veicolo Ducati Monster, immatricolato in Francia, con targa NE 450 6, presso viale della Concordia, civico 13. L'infrazione riguarda il transito in zona accesso vietato, violando il codice civile, articolo 5, comma 3. Non è necessaria alcuna sanzione accessoria e devono essere decurtati sei punti. Il veicolo è un ciclomotore di colore giallo. La stampa deve essere effettuata tramite WiFi in portoghese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "quattro i venticinque",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "ne quattrocentocinquanta sei",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "ducati monster",
+                    "colore": "giallo"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinque",
+                    "comma": "tre",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "wife",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il dieci aprile duemilaventicinque alle ore quattro i venticinque sto mettendo una notifica di infrazione per il veicolo ducati monster ciclomotori immatricolati in francia con targa ne quattrocentocinquanta sei ospiti tipo ufficiale l'infrazione si verificata presso viale della concordia al civico tredici violando il codice civile in particolare l'articolo cinque comma tre riguardante il transito in zona accesso vietato devo decurtare sai punti non è necessaria alcuna sanzione accessoria il ciclo motore di colore giallo con numero di telaio tre tre otto sei due zero otto uno tre massa duemilacinquecento novantacinque chili stampa me lo con il wife in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Il 10/04/2025, alle ore 04:25, sto emettendo una notifica di infrazione per il veicolo Ducati Monster, ciclomotore immatricolato in francia con targa MN456OP di tipo ufficiale. L'infrazione si è verificata presso viale della Concordia, al civico 13, violando il codice civile, in particolare l'articolo 5, comma 3 riguardante il transito in zona accesso vietato. Devo decurtare 6 punti. Non è necessaria alcuna sanzione accessoria. Il ciclomotore è di colore giallo, con numero di telaio 338620813 e massa 2595 kg. Stampamelo con il wifi in portoghese, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 16 aprile 2025 alle ore 12:24 in Corso della Repubblica, civico 19. La violazione riguarda un veicolo con targa olandese, parcheggiato in divieto di sosta secondo l'articolo 22, comma 20 del codice civile. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti quattro punti di decurtazione. Si richiede la stampa in lingua spagnola via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "mezzogiorno e ventiquattro",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "olanda",
+                    "targa": "ho sette centottantanove doppia ex",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "roi alien film di intersection seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventidue",
+                    "comma": "venti",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: previsti, after: di",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il sedici aprile duemilaventicinque alle ore mezzogiorno e ventiquattro in corso della repubblica al civico diciannove a carico del veicolo roi alien film di intersection seicentocinquanta macchina operatrice con targa ho sette centottantanove doppia ex di tipo speciale immatricolati in olanda la violazione contestata e parcheggio in divieto di sosta in base all'articolo ventidue con ma venti del codice civile non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti quattro punti di decurtazione si richiede la stampa in lingua spagnolo via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 16/04/2025 alle ore 12:24 in corso della Repubblica, al civico 19, a carico del veicolo Royal Enfield Interceptor 650, macchina operatrice con targa UV789WX di tipo speciale, immatricolato in olanda. La violazione contestata è parcheggio in divieto di sosta, in base all'articolo 22, comma 20 del codice civile.Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti 4 punti di decurtazione. Si richiede la stampa in lingua spagnolo via bluetooth, non stampare anche la comunicazione."
+}

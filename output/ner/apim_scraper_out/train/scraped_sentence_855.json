@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo Fiat Panda con targa ufficiale immatricolato in Belgio, per un'infrazione commessa il 26 aprile 2025 alle ore 13:22 in via della Concordia, civico 13. La violazione riguarda il parcheggio su strisce pedonali, ai sensi dell'articolo 9, comma 7 del codice stradale. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di 9 punti. È richiesta la stampa in francese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "tredici e ventidue",
+            "Strada_1": "via della Concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "belgio",
+                    "targa": "jeffrey quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "fiat panda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile effettuare la contestazione immediata",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazione, after: punti",
+            "tipo_stampa": "via tutte",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo fiat panda autovettura targa jeffrey quattrocentocinquanta sei giacca di tipo ufficiale immatricolati in belgio per infrazione commessa in data ventisei aprile duemilaventicinque ore tredici e ventidue inviare della concordia civico tredici è stato rilevato parcheggio su strisce pedonali ai sensi dell'articolo nove con ma sette del codice stradale impossibile effettuare la contestazione immediata assenza del trasgressori la violazione comporta la decurtazione di nove punti richiesta stampa in francese via tutte stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Fiat Panda autovettura, targa EF456GH di tipo ufficiale, immatricolato in belgio, per infrazione commessa in data 26/04/2025, ore 13:22. In viale della Concordia, civico 13, è stato rilevato parcheggio su strisce pedonali, ai sensi dell'articolo 9, comma 7, del codice stradale. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 9 punti. Richiesta stampa in francese via bluetooth, stampa anche la comunicazione. "
+}

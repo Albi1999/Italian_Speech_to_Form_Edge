@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo rimorchio marca O per Corsa, targato Guerre 450 6 AST, di tipo speciale proveniente dal Portogallo. L'infrazione è stata rilevata il 26 aprile 2025 alle ore 2:07. Il veicolo era parcheggiato in divieto di sosta in viale della Stazione, civico 4, violando l'articolo 28 comma 26 del codice civile. L'agente Luca Verdi ha provveduto alla contestazione immediata. La violazione comporta la perdita di 6 punti. Si richiede la stampa del verbale in tedesco tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "due sette minuti",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "portogallo",
+                    "targa": "guerre quattrocentocinquanta sei a se ti",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "o per corsa",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventotto",
+                    "comma": "ventisei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo rimorchio marca o per corsa targato guerre quattrocentocinquanta sei a se ti di tipo speciale proveniente da portogallo l'infrazione stata rilevata il ventisei aprile duemilaventicinque alle ore due sette minuti il veicolo si trovava in viale della stazione al civico quattro in parcheggiato in divieto di sosta violando l'articolo ventotto comma ventisei del codice civile l'agente luca verdi a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di sei punti richiedo la stampa del verbale in tedesco tramite blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo rimorchio, marca Opel Corsa, targato QR456ST (di tipo speciale), proveniente da portogallo.  L'infrazione è stata rilevata il 26/04/2025 alle ore 02:07. Il veicolo si trovava in viale della Stazione, al civico 4, in parcheggio in divieto di sosta, violando l'articolo 28, comma 26, del codice civile. L'agente Luca Verdi ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 6 punti.  Richiedo la stampa del verbale in tedesco tramite bluetooth, non stampare anche la comunicazione."
+}

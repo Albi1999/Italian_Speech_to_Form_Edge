@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo Subaru con rimorchio, targato \"i sette centottantanove capelli\", registrato in Croazia. L'infrazione è avvenuta il 3 maggio 2025 alle 23:34 in via della Storia, civico 6, per parcheggio in zona a rimozione. La violazione è in base all'articolo 29, comma 27 del codice civile e comporta una decurtazione di sei punti. La stampa dell'avviso è prevista via Bluetooth o WiFi in lingua tedesca, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "tre maggio duemilaventicinque",
+            "ora_violazione": "ventitré trentaquattro",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": null,
+                    "nazione": "croazia",
+                    "targa": "i sette centottantanove capelli",
+                    "tipologia_targa": null,
+                    "marca_modello": "subaru",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "via o aifa",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emette un avviso di violazione quindi si tratta di un preavviso per il veicolo subaru in prezza rimorchio targato i sette centottantanove capelli con targa copertura registrato in croazia per un fatto accaduto il tre maggio duemilaventicinque alle ventitré trentaquattro il veicolo si trovava in via della storia al civico sei dove è stato riscontrato parcheggi in zona a rimozione in base all'articolo articolo ventinove con ma ventisette del codice civile questa infrazione comporta una decurtazione di sei punti genere alla stampa dell'avviso via o aifa in tedesco non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Subaru Impreza, rimorchio, targato IJ789KL con targa copertura, registrato in croazia, per un fatto accaduto il 03/05/2025 alle 23:34. Il veicolo si trovava in via della Storia, al civico 6, dove è stato riscontrato parcheggio in zona rimozione, in base all'articolo 29, comma 27, del codice civile. Questa infrazione comporta una decurtazione di 6 punti. Genera la stampa dell'avviso via wifi in tedesco, non stampare anche la comunicazione. "
+}

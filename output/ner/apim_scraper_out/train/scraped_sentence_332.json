@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo BMW con targa austriaca, coinvolto in un'infrazione di parcheggio in doppia fila. L'evento è avvenuto il 18 aprile 2025 alle ore 4:00 in via Roma, civico 77. La violazione riguarda l'articolo 50, comma 48 del codice penale, con una decurtazione di 8 punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è richiesta tramite Bluetooth, in italiano, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "quattro",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "vi sette centottantanove doppia ex",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "bmw jeff novecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressione",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquanta",
+                    "comma": "quarantotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo autovettura di marca bmw jeff novecento serve con targa vi sette centottantanove doppia ex tipo prova proveniente da austria fatto avvenuto il diciotto aprile duemilaventicinque alle ore quattro eventi posizione via roma numero civico settantasette infrazione parcheggia in doppia fila in violazione dell'articolo cinquanta comma quarantotto del codice penale decurtazione prevista otto punti impossibile contestare immediatamente per assenza del trasgressione stampa necessaria tramite blu tutti in italiano non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo autovettura di marca BMW F 900 XR, con targa UV789WX (tipo prova), proveniente da austria.  Fatto avvenuto il 18/04/2025 alle ore 04:20. Posizione: via Roma, numero civico 77. Infrazione: parcheggio in doppia fila, in violazione dell'articolo 50, comma 48, del codice penale. Decurtazione prevista: 8 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite bluetooth in italiano, non stampare anche la comunicazione."
+}

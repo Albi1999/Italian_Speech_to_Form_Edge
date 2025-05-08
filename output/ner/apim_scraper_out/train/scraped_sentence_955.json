@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 7 aprile 2025 alle ore 11:38 per un veicolo Lancia Delta immatricolato in Austria con targa Yemen 4506 Hope, di tipo prova. L'infrazione è stata verificata in via Roma al civico 77, violando il codice stradale, articolo 17 comma 15, riguardante il parcheggio in doppia fila. Sono stati decurtati 6 punti. Il veicolo è un motoveicolo di colore rosso. La stampa deve essere effettuata tramite WiFi in portoghese, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "undici e trentotto",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "austria",
+                    "targa": "yemen quattrocentocinquanta sei hope",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "lancia delta",
+                    "colore": "rosso"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "diciassette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il sette aprile duemilaventicinque alle ore undici e trentotto sto mettendo una notifica di infrazione per veicolo lancia delta motoveicoli immatricolati in austria con targa yemen quattrocentocinquanta sei hope di tipo prova l'infrazione se verificata presso via roma al civico settantasette violando il codice stradale in particolare l'articolo diciassette comma quindici riguardante il parcheggio in doppia fila devo decurtare sei punti non è necessaria alcuna sanzione accessoria il motoveicoli e di colore rosso con numero di telaio nove nove otto otto zero tre sette sei sette massa duemilaquattrocento settantadue chili stampa melo con il vuoi fai in portoghese non stampare anche la comunicazione",
+    "original_sentence": "Il 07/04/2025, alle ore 11:38, sto emettendo una notifica di infrazione per il veicolo Lancia Delta, motoveicolo immatricolato in austria con targa MN456OP di tipo prova. L'infrazione si è verificata presso via Roma, al civico 77, violando il codice stradale, in particolare l'articolo 17, comma 15 riguardante il parcheggio in doppia fila. Devo decurtare 6 punti. Non è necessaria alcuna sanzione accessoria. Il motoveicolo è di colore rosso, con numero di telaio 998803767 e massa 2472 kg. Stampamelo con il wifi in portoghese, non stampare anche la comunicazione. "
+}

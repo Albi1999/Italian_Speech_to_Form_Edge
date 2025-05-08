@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un'infrazione di parcheggio in zona a rimozione. Il veicolo coinvolto è una macchina agricola con targa 'guerre si centocinquantaquattro', di tipo 'prova', proveniente dall'Olanda. L'infrazione è avvenuta il 30 aprile 2025 alle ore 9:54 in via Giuseppe Mazzini, numero civico 24. La violazione è regolata dall'articolo 13, comma 11 del codice stradale, con la previsione di un punto di decurtazione. Si richiede la stampa del preavviso in spagnolo tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "nove cinquantaquattro",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "olanda",
+                    "targa": "guerre si centocinquantaquattro",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "tredici",
+                    "comma": "undici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: previsti, after: punti",
+            "tipo_stampa": "bluetooth",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo successo di seicentocinquanta macchina agricola targa guerre si centocinquantaquattro e se ti di tipo prova proveniente da olanda il giorno trenta aprile duemilaventicinque alle ore nove cinquantaquattro in via giuseppe mazzini al numero civico ventiquattro e stata commessa l'infrazione di parcheggio in zona a rimozione come previsto dall'articolo tredici con ma undici del codice stradale per questa violazione sono previsti un punti di decurtazione chiedo da stampa del preavviso in spagnolo via tutta non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Suzuki SV650 macchina agricola, targa QR654ST di tipo prova, proveniente da olanda. Il giorno 30/04/2025, alle ore 09:54, in via Giuseppe Mazzini, al numero civico 24, è stata commessa l'infrazione di parcheggio in zona rimozione, come previsto dall'articolo 13, comma 11, del codice stradale. Per questa violazione sono previsti 1 punti di decurtazione. Chiedo la stampa del preavviso in spagnolo via bluetooth, non stampare anche la comunicazione. "
+}

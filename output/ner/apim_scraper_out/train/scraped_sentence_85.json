@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il dieci aprile duemilaventicinque alle ore una e tredici per un veicolo rimorchio Ford Fiesta con targa registrata in Austria. L'infrazione è avvenuta in via della storia al numero sei, per parcheggio in divieto di sosta, secondo l'articolo ventinove comma ventisette del codice penale. Non è stato possibile identificare il conducente sul posto, quindi la notifica è inviata al proprietario del veicolo. Sono previsti dieci punti di decurtazione. Si richiede la stampa della notifica tramite guai fai in lingua olandese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dieci aprile duemilaventicinque",
+            "ora_violazione": "una e tredici",
+            "Strada_1": "via della storia",
+            "Civico_1": "sei",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "i sette centottantanove chilometri",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "ford fiesta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: di",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data dieci aprile duemilaventicinque alle ore una e tredici è stato emesso un preavviso di violazione per il veicolo rimorchio di marca ford fiesta con targa i sette centottantanove chilometri tipo copertura registrato in austria l'infrazione avvenuta in via della storia al numero sei è consiste in parcheggiato in divieto di sosta come previsto dall'articolo ventinove comma ventisette del codice penale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti dieci punti di decurtazione si prega di stampare la presente notifica tramite guai fai in lingua olandese stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 10/04/2025, alle ore 01:13, è stato emesso un preavviso di violazione per il veicolo rimorchio di marca Ford Fiesta, con targa IJ789KL (tipo copertura), registrato in austria. L'infrazione è avvenuta in via della Storia, al numero 6, e consiste in parcheggio in divieto di sosta, come previsto dall'articolo 29, comma 27 del codice penale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 10 punti di decurtazione.  Si prega di stampare la presente notifica tramite wifi, in lingua olandese, stampa anche la comunicazione."
+}

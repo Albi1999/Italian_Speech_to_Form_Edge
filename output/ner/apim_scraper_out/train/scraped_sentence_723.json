@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale emesso il quattro maggio duemilaventicinque alle ore otto e cinquantanove per un veicolo rimorchio immatricolato in Germania con targa speciale. L'infrazione è avvenuta in corso Italia al civico trenta, violando il codice penale articolo sedici comma quattordici per transito in zona accesso vietato. La contestazione è stata immediata, eseguita dall'agente Anna Bianchi, con nove punti da decurtare e senza sanzioni accessorie. La stampa è richiesta in olandese tramite Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "otto e cinquantanove",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "germania",
+                    "targa": "si ypsilon centoventitre giza",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "cassandra ero",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sedici",
+                    "comma": "quattordici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno quattro maggio duemilaventicinque alle ore otto e cinquantanove è statore dato un verbale per il veicolo da cassandra ero rimorchio immatricolati in germania con targa si ypsilon centoventitre giza di tipo speciale l'infrazione avvenuta in corso italia al civico trenta e stata riscontrata una violazione del codice penale articolo sedici come quattordici ovvero transito in zona accesso vietato il verbale è stato eseguito sul posto con contestazione immediata da parte della gente anna bianchi sono previsti nove punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in olandese tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 04/05/2025, alle ore 08:59, è stato redatto un verbale per il veicolo Dacia Sandero, rimorchio immatricolato in germania con targa XY123ZA di tipo speciale. L'infrazione è avvenuta in corso Italia, al civico 30. È stata riscontrata una violazione del codice penale, articolo 16, comma 14 ovvero transito in zona accesso vietatoIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Anna Bianchi. Sono previsti 9 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in olandese tramite bluetooth, non stampare anche la comunicazione. "
+}

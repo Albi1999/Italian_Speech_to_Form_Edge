@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 12 aprile 2025 alle ore 14:15 per un veicolo immatricolato in Portogallo con targa \"è hai centoventitre capelli\". L'infrazione è avvenuta in corso della giustizia al civico 23, violando il codice stradale, articolo 36 comma 34, riguardante il transito in zona accesso vietato. Sono stati decurtati 2 punti. Il veicolo è una macchina operatrice di colore blu. La stampa deve essere effettuata con il WiFi in inglese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "quattordici quindici",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "è hai centoventitre capelli",
+                    "tipologia_targa": null,
+                    "marca_modello": "onda",
+                    "colore": "blu"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentasei",
+                    "comma": "trentaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "aifa",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il dodici aprile duemilaventicinque alle ore quattordici quindici sto mettendo una notifica di infrazione per il veicolo onda macchina operatrice immatricolati in portogallo con targa è hai centoventitre capelli di tipo copertura l'infrazione sia verificata presto corso della giustizia al civico ventitré violando il codice stradale in particolare l'articolo trentasei comma trentaquattro riguardante il transito in zona accesso vietato devo decurtare due punti non è necessaria alcuna sanzione accessoria il macchina operatrice di colore blu con numero di telaio nove uno uno cinque nove nove e sette uno sette massa tremiladuecento ventidue chili stampa me lo con il aifa in inglese non stampare anche la comunicazione",
+    "original_sentence": "Il 12/04/2025, alle ore 14:15, sto emettendo una notifica di infrazione per il veicolo Honda HR-V, macchina operatrice immatricolato in portogallo con targa IJ123KL di tipo copertura. L'infrazione si è verificata presso corso della Giustizia, al civico 23, violando il codice stradale, in particolare l'articolo 36, comma 34 riguardante il transito in zona accesso vietato. Devo decurtare 2 punti. Non è necessaria alcuna sanzione accessoria. Il macchina operatrice è di colore blu, con numero di telaio 911599717 e massa 3222 kg. Stampamelo con il wifi in inglese, non stampare anche la comunicazione. "
+}

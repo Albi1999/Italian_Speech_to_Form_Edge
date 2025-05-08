@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il 28 aprile 2025 alle ore 10:26 per un veicolo motoveicolo di marca Subaru Quindicesima con targa E3201G, tipo prova, registrato in Germania. L'infrazione è avvenuta in Corso della Storia al numero 22, per transito in zona accesso vietato, come previsto dall'articolo 47, comma 45 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti dieci punti di decurtazione. Si richiede di stampare la notifica tramite WiFi in lingua italiana, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "dieci e ventisei",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "germania",
+                    "targa": "è trecentoventi uno giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "subaru quindicesima",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantasette",
+                    "comma": "quarantacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventotto aprile duemilaventicinque alle ore dieci e ventisei è stato emesso un preavviso di violazione per il veicolo motoveicoli di marca subaru quindicesima con targa è trecentoventi uno giacca tipo prova registrato in germania l'infrazione e avvenuta in corso della storia al numero ventidue e consiste in transito in zona accesso vietato come previsto dall'articolo quarantasette con ma quarantacinque del codice civile non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti dieci punti di decurtazione si prega di stampare la presente notifica tramite guai fai in lingua italiano non stampare anche la comunicazione",
+    "original_sentence": "Si notifica che in data 28/04/2025, alle ore 10:26, è stato emesso un preavviso di violazione per il veicolo motoveicolo di marca Subaru XV, con targa EF321GH (tipo prova), registrato in germania. L'infrazione è avvenuta in corso della Storia, al numero 22, e consiste in transito in zona accesso vietato, come previsto dall'articolo 47, comma 45 del codice civile. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 10 punti di decurtazione. Si prega di stampare la presente notifica tramite wifi, in lingua italiano, non stampare anche la comunicazione. "
+}

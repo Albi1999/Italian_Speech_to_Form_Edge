@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione emesso il ventotto aprile duemilaventicinque alle ore tre cinquantotto per un veicolo ciclomotore di marca Sidro, modello CI Quattro Athos, con targa sette centottantanove occhi, tipo ufficiale, registrato in Francia. L'infrazione è avvenuta in Corso della Libertà al numero sette, per parcheggio su strisce pedonali, violando l'articolo centocinquantotto comma due del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti nove punti di decurtazione. Si richiede la stampa della notifica tramite Wi-Fi in lingua francese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "tre cinquantotto",
+            "Strada_1": "corso della libertà",
+            "Civico_1": "sette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "francia",
+                    "targa": "sette centottantanove occhi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "sidro ci quattro athos",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "non essendo stato possibile identificare il conducente sul posto",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centocinquantotto",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: previsti, after: di",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica che in data ventotto aprile duemilaventicinque alle ore tre cinquantotto è stato emesso un preavviso di violazione per il veicolo ciclomotori di marca sidro e in ci quattro athos con targa sette centottantanove occhi tipo ufficiale registrato in francia l'infrazione avvenuta in corso della libertà al numero sette è consiste in parcheggio su strisce pedonali come previsto dall'articolo centocinquantotto con ma due del codice stradale non essendo stato possibile identificare il conducente sul posto la notifica viene inviata al proprietario del veicolo sono previsti nove punti di decurtazione si prega di stampare la presente notifica tramite vuoi fai in lingua francese stampa anche la comunicazione",
+    "original_sentence": "Si notifica che in data 28/04/2025, alle ore 03:58, è stato emesso un preavviso di violazione per il veicolo ciclomotore di marca Citroen C4 Cactus, con targa MN789OP (tipo ufficiale), registrato in francia. L'infrazione è avvenuta in corso della Libertà, al numero 7, e consiste in parcheggio su strisce pedonali, come previsto dall'articolo 158, comma 2 del codice stradale. Non essendo stato possibile identificare il conducente sul posto, la notifica viene inviata al proprietario del veicolo. Sono previsti 9 punti di decurtazione.  Si prega di stampare la presente notifica tramite wifi, in lingua francese, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il cinque maggio duemilaventicinque alle ore venti e trentasette. Un verbale è stato elevato al veicolo \"traiano stai ottocentocinquanta sport macchina agricola\" con targa \"jeff sette centottantanove giacca\", immatricolato in Slovenia, per violazione dell'articolo dieci, comma otto del codice stradale, per parcheggio in doppia fila. La violazione è stata rilevata in corso Buenos Aires al civico novantotto. Non è stata possibile la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la decurtazione di otto punti. La stampa è richiesta in lingua portoghese via \"hawaii fai\" e non include la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "cinque maggio duemilaventicinque",
+            "ora_violazione": "venti e trentasette",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "slovenia",
+                    "targa": "jeff sette centottantanove giacca",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "traiano stai ottocentocinquanta sport",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dieci",
+                    "comma": "otto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: derivano, after: di",
+            "tipo_stampa": "via hawaii fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data cinque maggio duemilaventicinque alle ore venti e trentasette si eleva verbale al veicolo traiano stai ottocentocinquanta sport macchina agricola con targa è jeff sette centottantanove giacca di tipo copertura immatricolati slovenia per violazione dell'articolo dieci con ma otto del codice stradale ovvero parcheggia in doppia fila rilevata in corso buenos aires al civico novantotto non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano otto punti di decurtazione stampa necessaria in lingua portoghese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "In data 05/05/2025, alle ore 20:37, si eleva verbale al veicolo Triumph Tiger 850 Sport, macchina agricola con targa EF789GH di tipo copertura, immatricolato in slovenia, per violazione dell'articolo 10, comma 8 del codice stradale, ovvero parcheggio in doppia fila, rilevata in corso Buenos Aires, al civico 98.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 8 punti di decurtazione. Stampa necessaria in lingua portoghese via wifi, non stampare anche la comunicazione."
+}

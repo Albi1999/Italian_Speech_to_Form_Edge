@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un'autovettura Swift targata ICSI Ypsilon 987, registrata in Germania. L'infrazione è avvenuta il 17 aprile 2025 alle 9:58 in Corso Vittorio Emanuele, civico 15, per parcheggio in zona rimozione. La violazione è in base all'articolo 7, comma 15 del codice penale e comporta una decurtazione di 9 punti. La stampa dell'avviso è richiesta via WiFi in lingua francese, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciassette aprile duemilaventicinque",
+            "ora_violazione": "nove cinquantotto",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "icsi ypsilon novecentottanta sette",
+                    "tipologia_targa": null,
+                    "marca_modello": "swift",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazioni, after: punti",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampa è anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso pericolo su zucche swift autovettura targato icsi ypsilon novecentottanta sette già contenga prova registrato in germania per un fatto accaduto il diciassette aprile duemilaventicinque alle nove cinquantotto il veicolo si trovava in corso vittorio emanuele a il civico quindici dove è stato riscontrato parcheggio in zona a rimozione in base a articolo sette come quindici del codice penale questa infrazioni comporta una decurtazioni di nove punti genere alla stampa dell'avviso via guai fai francese non stampa è anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Suzuki Swift, autovettura, targato XY987ZA con targa prova, registrato in germania, per un fatto accaduto il 17/04/2025 alle 09:58. Il veicolo si trovava in corso Vittorio Emanuele, al civico 15, dove è stato riscontrato parcheggio in zona rimozione, in base all'articolo 7, comma 15, del codice penale. Questa infrazione comporta una decurtazione di 9 punti. Genera la stampa dell'avviso via wifi in francese, non stampare anche la comunicazione. "
+}

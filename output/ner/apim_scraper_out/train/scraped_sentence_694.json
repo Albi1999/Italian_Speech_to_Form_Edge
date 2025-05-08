@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo rimorchio marca Giamai Ypsilon Seta Jeff Terre Sette, targato WOW 320 1 WWI, di tipo speciale proveniente dal Belgio. L'infrazione è stata rilevata il 6 aprile 2025 alle ore 16:57 in Corso Italia, civico 30, per parcheggio in doppia fila, violando l'articolo 33, comma 31 del codice stradale. L'agente Bellini ha provveduto alla contestazione immediata. La violazione comporta la perdita di nove punti. Si richiede la stampa del verbale in inglese tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "sedici cinquantasette",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "belgio",
+                    "targa": "wow trecentoventi uno doppia winx i",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "giamai ypsilon seta jeff terre sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentatré",
+                    "comma": "trentuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo rimorchio marca giamai ypsilon seta jeff terre sette targato wow trecentoventi uno doppia winx i di tipo speciale proveniente da belgio l'infrazione e stata rilevata il sei aprile duemilaventicinque alle ore sedici cinquantasette il veicolo si trovava in corso italia al civico trenta in parcheggia in doppia fila violando l'articolo trentatré con ma trentuno del codice stradale l'agente sarà bellini a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di nove punti richiedo la stampa del verbale in inglese tramite vuoi fai stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo rimorchio, marca Yamaha YZF-R7, targato UV321WX (di tipo speciale), proveniente da belgio. L'infrazione è stata rilevata il 06/04/2025 alle ore 16:57. Il veicolo si trovava in corso Italia, al civico 30, in parcheggio in doppia fila, violando l'articolo 33, comma 31, del codice stradale. L'agente Sara Bellini ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 9 punti. Richiedo la stampa del verbale in inglese tramite wifi, stampa anche la comunicazione. "
+}

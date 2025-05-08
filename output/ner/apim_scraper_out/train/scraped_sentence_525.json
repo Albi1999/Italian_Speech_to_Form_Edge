@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Nissan, immatricolato in Spagna, con targa \"i ehi quattrocentocinquanta sei\". L'infrazione è avvenuta in Piazza Venezia, civico uno, per parcheggio davanti a passo carabine. La violazione riguarda l'articolo tredici, comma undici del codice stradale, con la decurtazione di otto punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. Si richiede la stampa in italiano tramite WiFi, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "i ehi quattrocentocinquanta sei",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "nissan",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "tredici",
+                    "comma": "undici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo nissan giù macchina agricola immatricolati in spagna con targa i ehi quattrocentocinquanta sei capace di tipo prova l'infrazione e avvenuta in piazza venezia civico uno parcheggio davanti a passo carabine si applica all'articolo tredici comma undici del codice stradale a seguito della violazione verranno decurtati otto punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in italiano tramite wifi non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Nissan Juke, macchina agricola immatricolato in spagna con targa IJ456KL di tipo prova. L'infrazione è avvenuta in piazza Venezia, civico 1: parcheggio davanti a passo carrabile. Si applica l'articolo 13, comma 11 del codice stradale. A seguito della violazione verranno decurtati 8 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in italiano tramite wifi, non stampare anche la comunicazione. "
+}

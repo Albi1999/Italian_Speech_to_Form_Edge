@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è un ciclomotore marca Cappa T790 DOH, targato IY 123 ZZA, di tipo ufficiale, proveniente dalla Germania. L'infrazione è stata rilevata il 26 aprile 2025 alle ore 23:26 in viale della Libertà, civico 22, in zona a rimozione. La violazione riguarda l'articolo 21, comma 19 del codice stradale. L'agente Sara Bellini ha provveduto alla contestazione immediata, comportando la perdita di nove punti. Si richiede la stampa del verbale in spagnolo tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "ventitré ventisei",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "germania",
+                    "targa": "icsi ypsilon centoventitre zza",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "cappa ti sette centonovanta di oh",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventuno",
+                    "comma": "diciannove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo ciclomotori marca cappa ti sette centonovanta di oh targato icsi ypsilon centoventitre zza di tipo ufficiale proveniente da germania l'infrazione stata rilevata il ventisei aprile duemilaventicinque alle ore ventitré ventisei il veicolo si trovava in viale della libertà al civico ventidue in parcheggio in zona a rimozione violando l'articolo ventuno comma diciannove del codice stradale l'agente sara bellini a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di nove punti richiedo la stampa del verbale in spagnolo tramite blu tutta stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo ciclomotore, marca KTM 790 Duke, targato XY123ZA (di tipo ufficiale), proveniente da germania.  L'infrazione è stata rilevata il 26/04/2025 alle ore 23:26. Il veicolo si trovava in viale della Libertà, al civico 22, in parcheggio in zona rimozione, violando l'articolo 21, comma 19, del codice stradale. L'agente Sara Bellini ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 9 punti.  Richiedo la stampa del verbale in spagnolo tramite bluetooth, stampa anche la comunicazione."
+}

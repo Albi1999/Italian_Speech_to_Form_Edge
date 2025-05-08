@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo Nissan Mica con targa speciale proveniente dall'Austria. L'infrazione è avvenuta il primo maggio 2025 alle ore 3:19 in via della Giustizia, numero civico 16, per parcheggio in divieto di sosta, violando l'articolo 131 del codice penale. La decurtazione prevista è di dieci punti. La contestazione immediata è impossibile per assenza del trasgressore. La stampa del verbale è necessaria tramite Bluetooth, in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "i lotto maggio duemilaventicinque",
+            "ora_violazione": "tre diciannove",
+            "Strada_1": "via della giustizia",
+            "Civico_1": "sedici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "austria",
+                    "targa": "ti jerry novantotto io",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "nissan mica",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "impossibile contestare immediatamente",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centotrentuno",
+                    "comma": null,
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo autovettura di marca nissan mica con targa ti jerry novantotto io tipo speciale proveniente da austria fatto avvenuto i lotto maggio duemilaventicinque alle ore tre diciannove posizione via della giustizia numero civico sedici infrazione parcheggiato in divieto di sosta in violazione dell'articolo centotrentuno con manovre del codice penale decurtazione prevista dieci punti impossibile contestare immediatamente per assenza del trasgressori stampa necessaria tramite blu tutti in italiano non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo autovettura di marca Nissan Micra, con targa TR098YU (tipo speciale), proveniente da austria.  Fatto avvenuto il 08/05/2025 alle ore 03:19. Posizione: via della Giustizia, numero civico 16. Infrazione: parcheggio in divieto di sosta, in violazione dell'articolo 121, comma 9, del codice penale. Decurtazione prevista: 10 punti. Impossibile contestare immediatamente per assenza del trasgressore. Stampa necessaria tramite bluetooth in italiano, non stampare anche la comunicazione."
+}

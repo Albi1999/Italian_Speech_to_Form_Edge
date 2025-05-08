@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il ventuno aprile duemilaventicinque alle nove otto per un'infrazione accertata in via della libertà al civico tre. Il veicolo coinvolto è un'autovettura con targa prova immatricolata in Spagna, targato Yemen e trecentoventi uno. La violazione riguarda il codice civile, articolo quarantotto, comma quarantasei, per parcheggio davanti a passo carabine. Sono previsti cinque punti da decurtare. La contestazione è stata effettuata immediatamente dall'agente Anna Bianchi. La stampa del verbale è stata effettuata tramite Weiwei in italiano, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "nove otto",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "spagna",
+                    "targa": "yemen e trecentoventi uno",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantotto",
+                    "comma": "quarantasei",
+                    "sanzione_accessoria": "non posso applicare alcuna sanzione accessoria"
+                }
+            ],
+            "punti": "cinque, before: previsti, after: da",
+            "tipo_stampa": "weiwei",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle nove otto del ventuno aprile duemilaventicinque storie di gendo un verbale per il veicolo autovettura targato yemen e trecentoventi uno qui con targa prova immatricolati in spagna l'infrazione è stata accertata in via della libertà al civico tre con violazione del codice civile articolo quarantotto con ma quarantasei per parcheggio davanti a passo carabine sono previsti cinque punti da decurtare contestazione immediata effettuata dalla gente anna bianchi il verbale è stato redatto sul posto in via della libertà non posso applicare alcuna sanzione accessoria stampa tramite weiwei italiano stampa anche la comunicazione",
+    "original_sentence": "Alle 09:08 del 21/04/2025, sto redigendo un verbale per il veicolo autovettura targato MN321OP con targa prova, immatricolato in spagnaL'infrazione è stata accertata in via della Libertà, al civico 3, con violazione del codice civile, articolo 48,comma 46 per parcheggio davanti a passo carrabile Sono previsti 5 punti da decurtare. Contestazione immediata effettuata dall'agente Anna Bianchi, il verbale è stato redatto sul posto in via della Libertà. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in italiano, stampa anche la comunicazione. "
+}

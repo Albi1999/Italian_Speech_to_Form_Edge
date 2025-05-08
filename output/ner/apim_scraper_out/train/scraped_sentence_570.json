@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo con targa \"capelli trecentoventi uno yemen\" proveniente da Olanda. L'infrazione è avvenuta il 14 aprile 2025 alle ore 22:07 in via della stazione, civico 4, per parcheggio in divieto di sosta secondo l'articolo 10 del codice civile. Sono previsti due punti di decurtazione. Si richiede la stampa del preavviso in tedesco via Bluetooth, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattordici aprile duemilaventicinque",
+            "ora_violazione": "ventidue sette",
+            "Strada_1": "della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "olanda",
+                    "targa": "capelli trecentoventi uno yemen",
+                    "tipologia_targa": null,
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "dieci",
+                    "comma": "motto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo giamai mit sette ciclomotori targa capelli trecentoventi uno yemen di tipo speciale proveniente da olanda il giorno quattordici aprile duemilaventicinque alle ore ventidue sette inviare della stazione al numero civico quattro e stata commessa l'infrazione di parcheggio in divieto di sosta come previsto dall'articolo dieci con motto del codice civile per questa violazione sono previsti due punti di decurtazione chiedo la stampa del preavviso in tedesco via blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Yamaha MT-07 ciclomotore, targa KL321MN di tipo speciale, proveniente da olanda. Il giorno 14/04/2025, alle ore 22:07, in viale della Stazione, al numero civico 4, è stata commessa l'infrazione di parcheggio in divieto di sosta, come previsto dall'articolo 10, comma 8, del codice civile. Per questa violazione sono previsti 2 punti di decurtazione. Chiedo la stampa del preavviso in tedesco via bluetooth, non stampare anche la comunicazione. "
+}

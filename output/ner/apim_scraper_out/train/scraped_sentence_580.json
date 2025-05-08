@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il verbale è stato redatto il diciotto aprile duemilaventicinque alle ore sette cinquantotto per una violazione riscontrata a un veicolo macchina agricola marca Su Chi Se Vi Seicentocinquanta, targato Guerre sette centottantanove, tipo ufficiale, proveniente dalla Grecia. La violazione è avvenuta in piazza Venezia, civico uno, per parcheggio su strisce pedonali, violando l'articolo atto comma sei del codice civile. L'agente Mario Rossi ha proceduto con contestazione immediata e si prevede la decurtazione di due punti dalla patente. La stampa è richiesta in spagnolo via Hawaii fai, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "sette cinquantotto",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "grecia",
+                    "targa": "guerre sette centottantanove",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "su chi se vi seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "atto",
+                    "comma": "sei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: decurtazioni, after: punti",
+            "tipo_stampa": "vi hawaii fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data diciotto aprile duemilaventicinque alle ore sette cinquantotto per la violazione riscontrata al veicolo macchina agricola marca su chi se vi seicentocinquanta targato guerre sette centottantanove siti tipo ufficiale provenienti da grecia in particolare in piazza venezia civico uno è stato accertato parcheggio su strisce pedonali in violazione dell'articolo atto comma sei del codice civile l'agente mario rossi a proceduto con contestazione immediata si prevede la decurtazioni di due punti dalla patente richiedo la stampa in spagnolo vi hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 18/04/2025 alle ore 07:58 per la violazione riscontrata al veicolo macchina agricola, marca Suzuki SV650, targato QR789ST (tipo ufficiale) proveniente da grecia. In particolare, in piazza Venezia, civico 1, è stato accertato parcheggio su strisce pedonali, in violazione dell'articolo 8, comma 6 del codice civile. L'agente Mario Rossi ha proceduto con contestazione immediata. Si prevede la decurtazione di 2 punti dalla patente. Richiedo la stampa in spagnolo via wifi, non stampare anche la comunicazione. "
+}

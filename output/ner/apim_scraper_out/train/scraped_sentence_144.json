@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo proveniente dalla Slovenia. L'infrazione è avvenuta il 8 aprile 2025 alle 14:55 in viale della stazione, numero 4. La violazione riguarda l'articolo 53, comma 51 del codice civile e comporta una decurtazione di sei punti. Si richiede la stampa in lingua olandese tramite Bluetooth, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "quattordici e cinquantacinque",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "slovenia",
+                    "targa": "è più sette centottantanove giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "chi ha stoner",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: decurtazione, after: punti",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa è più sette centottantanove giacca di tipo speciale marca chi ha stoner proveniente da slovenia l'infrazione nello specifico parcheggio davanti a passo carabine sia e verificata in data otto aprile duemilaventicinque alle ore quattordici e cinquantacinque in viale della stazione al numero quattro articolo cinquantatré con ma cinquantuno del codice civile si comunica che dalla violazione conseguirà una decurtazione di sei punti si richiede la stampa in lingua olandese modalità blu tu stampa anche la comunicativa",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa EP789GH di tipo speciale, marca Kia Stonic, proveniente da slovenia. L'infrazione, nello specifico parcheggio davanti a passo carrabile, si è verificata in data 08/04/2025 alle ore 14:55 in viale della Stazione, al numero 4 (articolo 53, comma 51 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 6 punti.Si richiede la stampa in lingua olandese, modalità bluetooth, stampa anche la comunicazione."
+}

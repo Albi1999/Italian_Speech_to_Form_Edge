@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 4 maggio 2025 alle ore 10:30 in via della Libertà, civico 21. La violazione riguarda un veicolo Subaru con targa ufficiale immatricolato in Belgio, accusato di parcheggio davanti a passo carabine. La contestazione è avvenuta immediatamente da parte dell'agente Marco Gentili. Sono previsti dieci punti di decurtazione. Si richiede la stampa in lingua portoghese via WiFi, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "dieci e trenta",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "belgio",
+                    "targa": "centoventitre ci di di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "subaru quindicesimo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione avvenuta immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquantadue",
+                    "comma": "cinquanta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: di",
+            "tipo_stampa": "weiwei",
+            "lingua_stampa": "portoghesi",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazioni accertata il quattro maggio duemilaventicinque alle ore dieci e trenta in via della libertà al civico ventuno a carico del veicolo subaru quindicesimo autovettura con targa centoventitre ci di di tipo ufficiale immatricolati in belgio la violazione contestata e parcheggio davanti a passo carabine in base a l'articolo cinquantadue come cinquanta del codice penale la contestazione avvenuta immediatamente da parte della gente marco gentili sono previsti dieci punti di decurtazione si richiede la stampa in lingua portoghesi via weiwei non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 04/05/2025 alle ore 10:30 in via della Libertà, al civico 21, a carico del veicolo Subaru XV, autovettura con targa AB123CD di tipo ufficiale, immatricolato in belgio. La violazione contestata è parcheggio davanti a passo carrabile, in base all'articolo 52, comma 50 del codice penale. La contestazione è avvenuta immediatamente da parte dell'agente Marco Gentili. Sono previsti 10 punti di decurtazione. Si richiede la stampa in lingua portoghese via wifi, non stampare anche la comunicazione. "
+}

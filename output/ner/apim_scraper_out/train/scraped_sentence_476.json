@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il 7 aprile 2025 alle ore 17:37 in viale della Vittoria al civico 9. La violazione riguarda un veicolo con rimorchio, targa \"guerre centoventitre se ti\", immatricolato in Grecia, per parcheggio in divieto di sosta secondo l'articolo 19, comma 17 del codice civile. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti tre punti di decurtazione. Si richiede la stampa in lingua inglese via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "diciassette trentasette",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "grecia",
+                    "targa": "guerre centoventitre se ti",
+                    "tipologia_targa": null,
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "diciannove",
+                    "comma": "diciassette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: previsti, after: di",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata il sette aprile duemilaventicinque alle ore diciassette trentasette inviarle della vittoria al civico nove a carico del veicolo chi appiccando rimorchio con targa guerre centoventitre se ti di tipo copertura immatricolati in grecia la violazione contestata e parcheggio in divieto di sosta in base all'articolo diciannove comma diciassette del codice civile non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti tre punti di decurtazione si richiede la stampa in lingua inglese via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 07/04/2025 alle ore 17:37 in viale della Vittoria, al civico 9, a carico del veicolo Kia Picanto, rimorchio con targa QR123ST di tipo copertura, immatricolato in grecia. La violazione contestata è parcheggio in divieto di sosta, in base all'articolo 19, comma 17 del codice civile.Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti 3 punti di decurtazione. Si richiede la stampa in lingua inglese via bluetooth, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo speciale proveniente dal Belgio, targato \"e me ne trecentoventi uno più\", coinvolto in una violazione per parcheggio in doppia fila. L'infrazione è avvenuta il 21 aprile 2025 alle ore 20:15 in via Garibaldi, numero 11. La violazione rientra nell'articolo 28, comma 26 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di tre punti. Si richiede la stampa in lingua francese tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "venti e quindici",
+            "Strada_1": "via garibaldi",
+            "Civico_1": "undici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "belgio",
+                    "targa": "e me ne trecentoventi uno più",
+                    "tipologia_targa": null,
+                    "marca_modello": "suzuki",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventotto",
+                    "comma": "ventisei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo mattina operatrice targato e me ne trecentoventi uno più di tipo speciale proveniente da belgio manca suzuki evitare la violazione ovvero parcheggia in doppia fila si e verificata in data ventuno aprile duemilaventicinque alle ore venti e quindici in via garibaldi al numero undici l'infrazione rientra nell'articolo ventotto con ma ventisei del codice stradale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzione prevede la perdita di tre punti si richiede stampa in lingua francese tramite wifi stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato MN321OP di tipo speciale proveniente da belgio, marca Suzuki Vitara. La violazione, ovvero parcheggio in doppia fila, si è verificata in data 21/04/2025 alle ore 20:15 in via Garibaldi, al numero 11. L'infrazione rientra nell'articolo 28, comma 26 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 3 punti. Si richiede la stampa in lingua francese, tramite wifi, stampa anche la comunicazione. "
+}

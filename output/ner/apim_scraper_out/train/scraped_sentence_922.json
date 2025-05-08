@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un preavviso di violazione per un veicolo ciclomotore con targa JEFF 234 di tipo prova, marca non specificata, proveniente dall'Italia. L'infrazione riguarda il parcheggio su strisce pedonali, avvenuta il sei maggio duemilaventicinque alle ore diciassette e quarantanove in via della Pace al numero due. La violazione è in riferimento all'articolo sette, comma quindici del codice penale, e comporterà una decurtazione di quattro punti. Si richiede la stampa in lingua spagnola, modalità Brutus, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "diciassette e quarantanove",
+            "Strada_1": "via della pace",
+            "Civico_1": "due",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "italia",
+                    "targa": "jeff duecentotrentaquattro",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sette",
+                    "comma": "quindici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazione, after: punti",
+            "tipo_stampa": "brutus",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avviso che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotori con targa jeff duecentotrentaquattro di tipo prova marca si trova in quattro campus proveniente dai italia l'infrazione nello specifico parcheggio su strisce pedonali sia verificata in data sei maggio duemilaventicinque alle ore diciassette e quarantanove in via della pace al numero due è articolo sette con ma quindici del codice penale si comunica che dalla violazione conseguirà una decurtazione di quattro punti si richiede la stampa in lingua spagnolo modalità brutus non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo ciclomotore con targa FG234LM di tipo prova, marca Citroen C4 Cactus, proveniente da italia. L'infrazione, nello specifico parcheggio su strisce pedonali, si è verificata in data 06/05/2025 alle ore 17:49 in via della Pace, al numero 2 (articolo 7, comma 15 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 4 punti. Si richiede la stampa in lingua spagnolo, modalità bluetooth, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata il ventidue aprile duemilaventicinque alle venti e trentuno. Un verbale è stato redatto per un veicolo macchina operatrice con targa prova immatricolati non olanda, targato U 320 1 VV. L'infrazione è avvenuta in viale della scienza al civico quattordici, violando il codice stradale articolo dodici comma dieci per parcheggio in divieto di sosta. Sono previsti due punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. La stampa avviene tramite Bluetooth in francese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventidue aprile duemilaventicinque",
+            "ora_violazione": "venti trentuno",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "non olanda",
+                    "targa": "u trecentoventi uno doppia v",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dodici",
+                    "comma": "dieci",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: previsti, after: da",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle venti trentuno del ventidue aprile duemilaventicinque storie di gendo un verbale per il veicolo macchina operatrice targato u trecentoventi uno doppia v con targa prova immatricolati non olanda l'infrazione stata accertata in viale della scienza al civico quattordici con violazione del codice stradale articolo dodici comma dieci per parcheggio in divieto di sosta sono previsti due punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite blu tutte in francese stampa anche la comunicazione",
+    "original_sentence": "Alle 20:31 del 22/04/2025, sto redigendo un verbale per il veicolo macchina operatrice targato UV321WX con targa prova, immatricolato in olandaL'infrazione è stata accertata in viale della Scienza, al civico 14, con violazione del codice stradale, articolo 12,comma 10 per parcheggio in divieto di sosta Sono previsti 2 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in francese, stampa anche la comunicazione. "
+}

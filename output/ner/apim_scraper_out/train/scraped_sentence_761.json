@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un'infrazione stradale commessa da un veicolo agricolo immatricolato in Portogallo. L'infrazione è avvenuta il 28 aprile 2025 alle ore 24:05 in Corso della Giustizia, civico 23, per parcheggio davanti a passo carabine. La violazione è stata contestata immediatamente dall'agente Carlo Bruni e comporta la decurtazione di nove punti. La stampa del verbale è richiesta in lingua portoghese tramite connessione Hawaii, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "ventiquattro cinque",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "portogallo",
+                    "targa": "i tipi non centoventitre zaha",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo un i venti macchina agricola targa i tipi non centoventitre zaha di tipo speciale immatricolati portogallo per infrazione commessa in data ventotto aprile duemilaventicinque ore ventiquattro cinque in corso della giustizia civico ventitré è stato rilevato parcheggio davanti a passo carabine ai sensi dell'articolo quarantacinque comma quarantatré del codice stradale contestazione immediata eseguita dall'agente carlo bruni la violazione comporta la decurtazione di nove punti richiesta stampa in portoghese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Hyundai i20 macchina agricola, targa XY123ZA di tipo speciale, immatricolato in portogallo, per infrazione commessa in data 28/04/2025, ore 00:05. In corso della Giustizia, civico 23, è stato rilevato parcheggio davanti a passo carrabile, ai sensi dell'articolo 45, comma 43, del codice stradale. Contestazione immediata eseguita dall'agente Carlo Bruni. La violazione comporta la decurtazione di 9 punti. Richiesta stampa in portoghese via wifi, non stampare anche la comunicazione. "
+}

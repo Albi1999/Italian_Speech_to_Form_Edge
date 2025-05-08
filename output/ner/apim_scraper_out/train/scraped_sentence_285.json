@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo Lancia Ypsilon con rimorchio, targa ufficiale immatricolata in Belgio, per un'infrazione commessa il 30 aprile 2025 alle ore 16:23 in Corso della Giustizia, civico 23. La violazione riguarda il parcheggio in doppia fila ai sensi dell'articolo 16, comma 14 del codice civile. La contestazione è stata eseguita immediatamente dall'agente Giulia Costa e comporta la decurtazione di 8 punti. È richiesta la stampa in olandese via Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "sedici e ventitre",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "belgio",
+                    "targa": "i centoventitre chi lo litri",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "lancia i ypsilon",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata eseguita",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sedici",
+                    "comma": "quattordici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "blood",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo lancia i ypsilon rimorchio targa i centoventitre chi lo litri di tipo ufficiale immatricolati in belgio per infrazione commessa in data trenta aprile duemilaventicinque ore sedici e ventitre in corso della giustizia civico ventitre è stato rilevato parcheggia in doppia fila ai sensi dell'articolo sedici comma quattordici del codice civile contestazione immediata eseguita dall'agente giulia costa la violazione comporta la decurtazione di otto punti richiesta stampa in olandese via blood stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Lancia Ypsilon rimorchio, targa IJ123KL di tipo ufficiale, immatricolato in belgio, per infrazione commessa in data 30/04/2025, ore 16:23. In corso della Giustizia, civico 23, è stato rilevato parcheggio in doppia fila, ai sensi dell'articolo 16, comma 14, del codice civile.Contestazione immediata eseguita dall'agente Giulia Costa. La violazione comporta la decurtazione di 8 punti. Richiesta stampa in olandese via bluetooth, stampa anche la comunicazione."
+}

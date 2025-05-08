@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il diciannove aprile duemilaventicinque alle ore undici per una violazione del codice penale, articolo sedici, comma quattordici. L'infrazione è stata rilevata in viale della scienza al civico quattordici, con un transito in zona accesso vietato. Il veicolo coinvolto è una macchina agricola con targa prova immatricolata in Spagna, di colore oro e numero di telaio specificato. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare cinque punti. La stampa del preavviso è richiesta tramite Wi-Fi in francese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciannove aprile duemilaventicinque",
+            "ora_violazione": "undici",
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "guerre novecentottanta sette se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "tram street triplo",
+                    "colore": "oro"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "sedici",
+                    "comma": "quattordici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: decurtare, after: punti",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data diciannove aprile duemilaventicinque alle ore undici è stato notificato un preavviso per un macchina agricola targato guerre novecentottanta sette se ti con targa prova immatricolati in spagna l'infrazione e stata rilevata in viale della scienza al civico quattordici con violazione del codice penale articolo sedici comma quattordici in particolare si riscontrato un transito in zona accesso vietato non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono cinque punti il veicolo è un tram street triplo di colore oro con numero di telaio settecento quattro milioni e trecento quattromila quattrocentoquaranta cinque massa tremilanovecento novantotto chilogrammi necessita la stampa del preavviso tramite vuoi fai in francese non stampare anche la comunicazione",
+    "original_sentence": "In data 19/04/2025, alle ore 11:00, è stato notificato un preavviso per un macchina agricola targato QR987ST con targa prova, immatricolato in spagna. L'infrazione è stata rilevata in viale della Scienza, al civico 14, con violazione del codice penale, articolo 16, comma 14, in particolare si è riscontrato un transito in zona accesso vietato Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 5 punti. Il veicolo è un Triumph Street Triple di colore oro, con numero di telaio 704304445 e massa 3998 kg.Necessito la stampa del preavviso tramite wifi, in francese, non stampare anche la comunicazione."
+}

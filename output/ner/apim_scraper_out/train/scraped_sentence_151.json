@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un veicolo macchina agricola di marca BMW Serie Uno con targa UBI 654 doppia EX, tipo prova, proveniente dall'Olanda. L'infrazione è avvenuta il 18 aprile 2025 alle ore 17:57 in via della Musica, numero civico 18, per parcheggio su strisce pedonali, violando l'articolo 185 comma 2 del codice stradale. La decurtazione prevista è di quattro punti. La contestazione è immediata da parte dell'agente Alessandro Moretti. La stampa è necessaria tramite Wi-Fi in olandese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "diciassette cinquantasette",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "olanda",
+                    "targa": "ubi sei centocinquantaquattro doppia ex",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "bmw serie uno",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo macchina agricola di marca bmw serie uno con targa ubi sei centocinquantaquattro doppia ex tipo prova proveniente da olanda fatto avvenuto il diciotto aprile duemilaventicinque alle ore diciassette cinquantasette posizione via della musica numero civico diciotto infrazione parcheggio su strisce pedonali in violazione dell'articolo centottantacinque comma due del codice stradale decurtazione prevista quattro punti si applica contestazione immediata da parte della gente alessandro moretti stampa necessaria tramite vuoi fa in olandese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo macchina agricola di marca BMW Serie 1, con targa UV654WX (tipo prova), proveniente da olanda.  Fatto avvenuto il 18/04/2025 alle ore 17:57. Posizione: via della Musica, numero civico 18. Infrazione: parcheggio su strisce pedonali, in violazione dell'articolo 185, comma 2, del codice stradale. Decurtazione prevista: 4 punti. Si applica contestazione immediata da parte dell'agente Alessandro Moretti. Stampa necessaria tramite wifi in olandese, stampa anche la comunicazione."
+}

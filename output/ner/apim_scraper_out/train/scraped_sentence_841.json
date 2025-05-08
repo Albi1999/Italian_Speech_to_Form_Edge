@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo immatricolato in Austria con targa ufficiale. L'infrazione è avvenuta in viale della scienza, civico 14, per parcheggio su strisce pedonali. Si applica l'articolo 157, comma 5 del codice civile, con la decurtazione di sei punti. La contestazione è stata immediata, eseguita dall'agente Giulia Costa. La stampa del verbale deve essere effettuata in portoghese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "viale della scienza",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicolo",
+                    "nazione": "austria",
+                    "targa": "abby sette centottantanove ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: decurtati, after: punti",
+            "tipo_stampa": "brutta",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo non cattura motoveicoli immatricolati in austria con targa abby sette centottantanove ci di di tipo ufficiale l'infrazione e avvenuta in viale della scienza civico quattordici parcheggio su strisce pedonali si applica l'articolo centocinquantasette con ma cinque del codice civile a seguito della violazione verranno decurtati sei punti il verbale è stato contestato immediatamente dall'agente giulia costa si prega di procedere con la stampa in portoghese tramite brutta non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Renault Captur, motoveicolo immatricolato in austria con targa AB789CD di tipo ufficiale. L'infrazione è avvenuta in viale della Scienza, civico 14: parcheggio su strisce pedonali. Si applica l'articolo 157, comma 5 del codice civile. A seguito della violazione verranno decurtati 6 punti. Il verbale è stato contestato immediatamente dall'agente Giulia Costa. Si prega di procedere con la stampa in portoghese tramite bluetooth, non stampare anche la comunicazione. "
+}

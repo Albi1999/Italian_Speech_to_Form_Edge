@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento notifica un preavviso di violazione per un veicolo immatricolato in Grecia. La violazione è avvenuta il 30 aprile 2025 alle 6:50 in viale della Concordia, civico 13, per parcheggio in doppia fila secondo l'articolo 28, comma 26 del codice stradale. Sono previsti cinque punti di decurtazione. Si richiede la stampa del preavviso in lingua tedesca tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "sette meno dieci",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "trecentoventi uno c",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "peggio duemilaotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventotto",
+                    "comma": "ventisei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica la presenza di un preavviso di violazione per il veicolo macchina operatrice marca peggio duemilaotto targa trecentoventi uno c di tipo copertura immatricolati in grecia la violazione è avvenuta il trenta aprile duemilaventicinque alle ore sette meno dieci viale della concordia al numero civico tredici ed è relativa a parcheggia in doppia fila in base al l'articolo ventotto comma ventisei del codice stradale per tale violazione sono previsti cinque punti di decurtazione si richiede la stampa di tale preavviso in lingua tedesco tramite guai fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica la presenza di un preavviso di violazione per il veicolo macchina operatrice, marca Peugeot 2008, targa AB321CD di tipo copertura, immatricolato in grecia. La violazione è avvenuta il 30/04/2025 alle ore 06:50 in viale della Concordia, al numero civico 13, ed è relativa a parcheggio in doppia fila, in base all'articolo 28, comma 26 del codice stradale.Per tale violazione sono previsti 5 punti di decurtazione. Si richiede la stampa di tale preavviso in lingua tedesco tramite wifi, stampa anche la comunicazione."
+}

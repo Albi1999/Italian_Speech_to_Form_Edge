@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione avvenuta il 26 aprile 2025 alle ore 24:36. L'infrazione riguarda un veicolo Suzuki Swift, immatricolato in Francia con targa ufficiale, che ha violato il codice penale parcheggiando in zona a rimozione presso Corso della Giustizia, civico 23. Sono stati decurtati 10 punti e applicata una sanzione accessoria. Il veicolo è una macchina agricola di colore marrone. La stampa della notifica è richiesta in lingua olandese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "ventisei aprile duemilaventicinque",
+            "ora_violazione": "ventiquattro e trentasei",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "francia",
+                    "targa": "gia cappa cinquecento sessantasette occhi",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "su chi swift",
+                    "colore": "marrone"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "navi",
+                    "comma": "sette",
+                    "sanzione_accessoria": "applico una sanzioni accessoria"
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "olandesi",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il ventisei aprile duemilaventicinque alle ore ventiquattro e trentasei stai mettendo una notifica di infrazione per il veicolo su chi swift macchina agricola immatricolati in francia con targa gia cappa cinquecento sessantasette occhi di tipo ufficiale l'infrazione si e verificata presto corso della giustizia al civico ventitré violando il codice penale in particolare l'articolo navi con ma sette riguardante i parcheggio in zona a rimozione devo decurtare dieci punti applico una sanzioni accessoria in base alle circostanze il macchina agricola di colore marrone con numero di telaio due due tre quattro tre otto nove quattro cinque e massa duemilacento sessantuno chi li stampa me lo con il blu tutti in olandesi non stampare anche la comunicazione",
+    "original_sentence": "Il 26/04/2025, alle ore 00:36, sto emettendo una notifica di infrazione per il veicolo Suzuki Swift, macchina agricola immatricolato in francia con targa JK567OP di tipo ufficiale. L'infrazione si è verificata presso corso della Giustizia, al civico 23, violando il codice penale, in particolare l'articolo 9, comma 7 riguardante il parcheggio in zona rimozione. Devo decurtare 10 punti. Applico una sanzione accessoria in base alle circostanze. Il macchina agricola è di colore marrone, con numero di telaio 223438945 e massa 2161 kg. Stampamelo con il bluetooth in olandese, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il dodici aprile duemilaventicinque alle ore quindici e ventisei per un'infrazione stradale. La violazione è stata rilevata in via del Corso, civico dodici, per parcheggio su strisce pedonali. Il veicolo coinvolto è una macchina agricola immatricolata in Olanda, targata trecentoventi uno o più, di colore verde, modello nuovo Elfi, con numero di telaio cinque uno sei uno nove e cinque sei sette otto e massa tremilatrecento uno chili. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare cinque punti. La stampa del preavviso è richiesta tramite Bluetooth in lingua tedesca, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "quindici e ventisei",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "olanda",
+                    "targa": "trecentoventi uno o più",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "nuovo elfi",
+                    "colore": "verde"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventiquattro",
+                    "comma": "ventidue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: decurtare, after: punti",
+            "tipo_stampa": "brutto",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in dato a dodici aprile duemilaventicinque alle ore quindici e ventisei è stato notificato un preavviso per un macchina agricola targato trecentoventi uno o più con targa copertura immatricolati in olanda l'infrazione e stata rilevata in via del corso al civico dodici con violazione del codice stradale articolo ventiquattro qom ventidue in particolare si e riscontrato un parcheggio su strisce pedonali non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono cinque punti il veicolo è un nuovo elfi ho versato il seicentocinquanta di colore verde con numero di telaio cinque uno sei uno nove e cinque sei sette otto e massa tremilatrecento uno chili necessita la stampa del preavviso tramite brutto in tedesco non stampare anche la comunicazione",
+    "original_sentence": "In data 12/04/2025, alle ore 15:26, è stato notificato un preavviso per un macchina agricola targato MN321OP con targa copertura, immatricolato in olanda. L'infrazione è stata rilevata in via del Corso, al civico 12, con violazione del codice stradale, articolo 24, comma 22, in particolare si è riscontrato un parcheggio su strisce pedonali Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 5 punti. Il veicolo è un Royal Enfield Interceptor 650 di colore verde, con numero di telaio 516195668 e massa 3301 kg. Necessito la stampa del preavviso tramite bluetooth, in tedesco, non stampare anche la comunicazione. "
+}

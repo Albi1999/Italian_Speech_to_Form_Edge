@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo con targa \"settecento ottantanove giacca\". L'infrazione è avvenuta in piazza Venezia, civico uno, per transito in zona accesso vietato. Si applica l'articolo sei, comma uno a uno a dodici del codice civile. A causa dell'assenza del trasgressore, non è stato possibile effettuare la contestazione immediata. Verranno decurtati sette punti. La stampa deve essere effettuata in francese tramite Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": null,
+                    "targa": "settecento ottantanove giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sei",
+                    "comma": "uno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo mi subisci colta motoveicoli immatricolati incrociati con targa è settecento ottantanove giacca di tipo prova l'inflazione è avvenuta in piazza venezia civico uno transito in zona accesso vietato si applica l'articolo sei con ma uno a uno a dodici del codice civile a seguito della violazioni verranno decurtati sette punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazioni immediata si prega di procedere con la stampa in francese tramite blu tutte non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Mitsubishi Colt, motoveicolo immatricolato in croazia con targa EF789GH di tipo prova. L'infrazione è avvenuta in piazza Venezia, civico 1: transito in zona accesso vietato. Si applica l'articolo 6, comma 1a(1-12) del codice civile. A seguito della violazione verranno decurtati 7 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in francese tramite bluetooth, non stampare anche la comunicazione. "
+}

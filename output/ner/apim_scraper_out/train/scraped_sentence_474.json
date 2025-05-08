@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per un veicolo ciclomotore marca Si Troy Incitare, targato Guerre 789 ST, di tipo speciale proveniente dalla Croazia. La violazione riguarda il parcheggio in zona a rimozione in via della Libertà, numero 21, avvenuta il 28 aprile 2025 alle ore 22:36. La violazione è in base all'articolo 13, comma 11 del codice stradale, con una decurtazione di sei punti. Si richiede la stampa del preavviso tramite Bluetooth in lingua inglese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "ventidue trentasei",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "guerre sette centottantanove se ti",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "si troy incitare",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "tredici",
+                    "comma": "undici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: di",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo ciclomotori marca si troy incitare targato guerre sette centottantanove se ti di tipo speciale proveniente da croazia in data ventotto aprile duemilaventicinque alle ore ventidue trentasei stata rilevata la violazione di parcheggio in zona a rimozione in via della libertà al numero ventuno in base all'articolo tredici con ma undici del codice stradale per tale infrazione sono previsti sei punti di decurtazione si richiede la stampa del preavviso tramite blu tutti in lingua inglese stampa anche la comunicazione",
+    "original_sentence": "Emissione di preavviso per il veicolo ciclomotore, marca Citroen C3, targato QR789ST di tipo speciale, proveniente da croazia. In data 28/04/2025 alle ore 22:36, è stata rilevata la violazione di parcheggio in zona rimozione in via della Libertà, al numero 21, in base all'articolo 13, comma 11 del codice stradale.Per tale infrazione sono previsti 6 punti di decurtazione. Si richiede la stampa del preavviso tramite bluetooth in lingua inglese, stampa anche la comunicazione."
+}

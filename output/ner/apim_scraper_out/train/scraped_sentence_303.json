@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il sei aprile 2025 alle ore 15:04 per un veicolo immatricolato in Svizzera con targa \"cappelle trecentoventi uno megan aiuto\". L'infrazione è avvenuta in Piazza Venezia, civico uno, per transito in zona accesso vietato. La contestazione immediata non è stata possibile a causa dell'assenza del trasgressore. Sono previsti otto punti da decurtare, senza sanzioni accessorie. La stampa è richiesta in olandese tramite Wi-Fi, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei aprile duemilaventicinque",
+            "ora_violazione": "quindici e quattro minuti",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "cappelle trecentoventi uno megan aiuto",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centoventi uno",
+                    "comma": "nove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno sei aprile duemilaventicinque alle ore quindici e quattro minuti e stato redatto un verbale per il veicolo cappa ti sette centonovanta di oh macchina agricola immatricolati in svizzera con targa cappelle trecentoventi uno megan aiuto di tipo copertura l'infrazione avvenuta in piazza venezia al civico uno stata riscontrata una violazione del codice penale articolo centoventi uno con ma nove ovvero transito in zona accesso vietato non è stato possibile contestare sul posto a causa dell'assenza del trasgressori sono previsti otto punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in olandese tramite vuoi fai non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 06/04/2025, alle ore 15:04, è stato redatto un verbale per il veicolo KTM 790 Duke, macchina agricola immatricolato in svizzera con targa KL321MN di tipo copertura.L'infrazione è avvenuta in piazza Venezia, al civico 1. È stata riscontrata una violazione del codice penale, articolo 121, comma 9 ovvero transito in zona accesso vietatoNon è stato possibile contestare sul posto a causa dell'assenza del trasgressore. Sono previsti 8 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in olandese tramite wifi, non stampare anche la comunicazione."
+}

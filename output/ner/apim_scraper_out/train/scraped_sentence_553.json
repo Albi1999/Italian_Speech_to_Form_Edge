@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo Fiat Tipo rimorchio, targato \"giacca settecento ottantanove\", registrato in Slovenia. La violazione è avvenuta il 5 aprile 2025 alle 19:29 in via Roma, civico 77, per parcheggio su strisce pedonali. La violazione riguarda l'articolo 28, comma 26 del codice stradale e comporta una decurtazione di 8 punti. L'avviso sarà stampato via Bluetooth in francese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "cinque aprile duemilaventicinque",
+            "ora_violazione": "diciannove ventinove",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "slovenia",
+                    "targa": "giacca settecento ottantanove",
+                    "tipologia_targa": null,
+                    "marca_modello": "fiat tipo",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "ventotto",
+                    "comma": "ventisei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emettere un avviso di violazione quindi si tratta di un preavviso per il veicolo fiat tipo rimorchio targato giacca settecento ottantanove hai con te mia copertura registrato in slovenia per un fatto accaduto il cinque aprile duemilaventicinque alle diciannove ventinove il veicolo si trovava in via roma hai civico settantasette dove è stato riscontrato parcheggio su strisce pedonali in base a articolo ventotto coma ventisei del codice stradale questa infrazioni comporta una decurtazioni di otto punti genere alla stampa dell'avviso via tutti in francese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Fiat Tipo, rimorchio, targato GH789IJ con targa copertura, registrato in slovenia, per un fatto accaduto il 05/04/2025 alle 19:29. Il veicolo si trovava in via Roma, al civico 77, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 28, comma 26, del codice stradale. Questa infrazione comporta una decurtazione di 8 punti. Genera la stampa dell'avviso via bluetooth in francese, stampa anche la comunicazione. "
+}

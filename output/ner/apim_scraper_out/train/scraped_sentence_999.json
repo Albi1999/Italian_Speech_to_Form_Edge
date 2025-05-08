@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione stradale. Il veicolo coinvolto è un'autovettura di marca \"chi ha canto\" con targa \"i i quattrocentocinquanta sei capelli\", di tipo \"prova\" e proveniente dalla Francia. L'infrazione è stata rilevata l'undici aprile 2025 alle ore ventidue e nove, in corso Buenos Aires al civico novantotto, per parcheggio su strisce pedonali. La violazione riguarda l'articolo quarantatré comma quarantuno del codice penale. Non è stata possibile la contestazione immediata per l'assenza del trasgressore. La violazione comporta la perdita di tre punti. Si richiede la stampa del verbale in olandese tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "ventidue nove",
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "francia",
+                    "targa": "i i quattrocentocinquanta sei capelli",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "chi ha canto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: perdita, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "olandesi",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo autovettura marca chi ha canto targato i i quattrocentocinquanta sei capelli di tipo prova proveniente da francia l'inflazione è stata rilevata hai l'undici aprile duemilaventicinque alle ore ventidue nove il veicolo si trovava in corso buenos aires al civico novantotto in parcheggio su strisce pedonali violando l'articolo quarantatré come quarantuno del codice penale non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressori la violazioni comporta la perdita di tre punti richiedo la stampa del verbale in olandesi tramite wifi stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo autovettura, marca Kia Picanto, targato IJ456KL (di tipo prova), proveniente da francia. L'infrazione è stata rilevata il 11/04/2025 alle ore 22:09. Il veicolo si trovava in corso Buenos Aires, al civico 98, in parcheggio su strisce pedonali, violando l'articolo 43, comma 41, del codice penale. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. La violazione comporta la perdita di 3 punti. Richiedo la stampa del verbale in olandese tramite wifi, stampa anche la comunicazione. "
+}

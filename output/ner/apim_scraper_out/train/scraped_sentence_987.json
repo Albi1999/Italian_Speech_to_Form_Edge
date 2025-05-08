@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il sei maggio 2025 alle ore 4:19 in viale della Vittoria, civico 9. La violazione riguarda un veicolo Alfa Romeo Giulietta, immatricolato in Francia, con targa ufficiale. La violazione contestata è il parcheggio in divieto di sosta secondo l'articolo 52, comma 50 del codice civile. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti nove punti di decurtazione. Si richiede la stampa in lingua tedesca via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "quattro e diciannove",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "francia",
+                    "targa": "quattrocentocinquanta sei oh",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "alfa romeo e giulietta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "cinquantadue",
+                    "comma": "cinquanta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: previsti, after: punti",
+            "tipo_stampa": "blu tutta",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stare di gendo verbale per violazione accertata i sei maggio duemilaventicinque alle ore quattro e diciannove in viale della vittoria al civico nove a carico del veicolo alfa romeo e giulietta motoveicoli con targa quattrocentocinquanta sei oh di tipo ufficiale immatricolati in francia la violazione contestata e parcheggio in divieto di sosta in base al l'articolo cinquantadue con ma cinquanta del codice civile non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti nove punti di decurtazione si richiede la stampa in lingua tedesco via blu tutta non stampare anche la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 06/05/2025 alle ore 04:19 in viale della Vittoria, al civico 9, a carico del veicolo Alfa Romeo Giulietta, motoveicolo con targa MN456OP di tipo ufficiale, immatricolato in francia. La violazione contestata è parcheggio in divieto di sosta, in base all'articolo 52, comma 50 del codice civile. Non è stato possibile contestare immediatamente, per assenza del trasgressore. Sono previsti 9 punti di decurtazione. Si richiede la stampa in lingua tedesco via bluetooth, non stampare anche la comunicazione. "
+}

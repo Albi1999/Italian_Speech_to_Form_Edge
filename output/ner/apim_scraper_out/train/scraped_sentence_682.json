@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il quindici aprile duemilaventicinque alle ore tre ventuno per un rimorchio targato guerre trecentottantuno, immatricolato in Austria. L'infrazione è avvenuta in via Roma al civico settantasette, violando il codice penale articolo quarantatré comma quarantuno, per parcheggio in divieto di sosta. La contestazione immediata non è stata possibile per l'assenza del trasgressore. Sono da decurtare tre punti. Il veicolo è un Peugeot 208 di colore arancione. La stampa del preavviso è richiesta tramite WiFi in francese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "tre ventuno",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "guerre trecentottantuno",
+                    "tipologia_targa": "speciali",
+                    "marca_modello": "peggiore duecentotto",
+                    "colore": "arancione"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data quindici aprile duemilaventicinque alle ore tre ventuno è stato notificate un preavviso per un rimorchio targato guerre trecentottantuno e se ti con targa speciali immatricolati in austria l'infrazione è stata rilevata in via roma al civico settantasette con violazione del codice penale articolo quarantatré con ma quarantuno in particolare si e riscontrato un parcheggio in divieto di sosta non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono tre punti il veicolo è un peggiore duecentotto di colore arancione con numero di telaio sei due due sette tre tre sette sei e massa millenovecentoquarantaquattro chili necessita la stampa del preavviso tramite guai fai in francese non stampare anche la comunicazione",
+    "original_sentence": "In data 15/04/2025, alle ore 03:21, è stato notificato un preavviso per un rimorchio targato QR321ST con targa speciale, immatricolato in austria. L'infrazione è stata rilevata in via Roma, al civico 77, con violazione del codice penale, articolo 43, comma 41, in particolare si è riscontrato un parcheggio in divieto di sosta Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 3 punti. Il veicolo è un Peugeot 208 di colore arancione, con numero di telaio 622733076 e massa 1944 kg. Necessito la stampa del preavviso tramite wifi, in francese, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo ciclomotore targato 'guerre sette centottantanove', registrato in Grecia. L'infrazione è avvenuta l'undici aprile duemilaventicinque alle quattro e quarantaquattro in via della Concordia, civico quattordici, per parcheggio in doppia fila. La violazione è in base all'articolo diciannove comma diciassette del codice civile e comporta una decurtazione di uno punti. La stampa dell'avviso è richiesta via Bluetooth in francese, con inclusione della comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "undici aprile duemilaventicinque",
+            "ora_violazione": "quattro e quarantaquattro",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "grecia",
+                    "targa": "guerre sette centottantanove",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "diciannove",
+                    "comma": "diciassette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "uno",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "e metto un avviso di violazione quindi si tratta di un preavviso per il veicolo su chi swift ciclomotori targato guerre sette centottantanove se ti con targa ufficiale registrato in grecia per un fatto accaduto e l'undici aprile duemilaventicinque alle quattro e quarantaquattro il veicolo si trovava in via della concordia al civico quattordici dove è stato riscontrato parcheggia in doppia fila in base all'articolo diciannove comma diciassette del codice civile questa infrazione comporta una decurtazione di uno punti genera alla stampa dell'avviso via blu tutti in francese stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Suzuki Swift, ciclomotore, targato QR789ST con targa ufficiale, registrato in grecia,  per un fatto accaduto il 11/04/2025 alle 04:44. Il veicolo si trovava in via della Concordia, al civico 14, dove è stato riscontrato parcheggio in doppia fila, in base all'articolo 19, comma 17, del codice civile. Questa infrazione comporta una decurtazione di 1 punti.  Genera la stampa dell'avviso via bluetooth in francese, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il due maggio duemilaventicinque alle ventuno e trenta per una violazione del codice stradale. La violazione è stata accertata in via del corso al civico dodici, riguardante il parcheggio in zona a rimozione. Il veicolo coinvolto è una macchina operatrice con targa ABE 123 CD e targa di copertura. Sono previsti cinque punti da decurtare. La contestazione è stata effettuata immediatamente dall'agente Mario Rossi, senza applicare sanzioni accessorie. La stampa del verbale è stata effettuata tramite Wi-Fi in spagnolo, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "due maggio duemilaventicinque",
+            "ora_violazione": "ventuno e trenta",
+            "Strada_1": "via del corso",
+            "Civico_1": "dodici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": null,
+                    "targa": "abe centoventitre ci di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentanove",
+                    "comma": "trentasette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle ventuno e trenta del due maggio duemilaventicinque storie di gendo un verbale per il veicolo macchina operatrice targato abe centoventitre ci di con targa copertura immatricolati intrecciare infrazione e stata accertata in via del corso al civico dodici con violazione del codice stradale articolo trentanove con ma trentasette per parcheggio in zona a rimozione sono previsti cinque punti da decurtare contestazione immediata effettuata dalla gente mario rossi il verbale è stato redatto sul posto in via del corso non posso applicare alcuna sanzione accessoria stampa tramite vuoi fai in spagnolo non stampare anche la comunicazione",
+    "original_sentence": "Alle 21:30 del 02/05/2025, sto redigendo un verbale per il veicolo macchina operatrice targato AB123CD con targa copertura, immatricolato in greciaL'infrazione è stata accertata in via del Corso, al civico 12, con violazione del codice stradale, articolo 39,comma 37 per parcheggio in zona rimozione Sono previsti 5 punti da decurtare. Contestazione immediata effettuata dall'agente Mario Rossi, il verbale è stato redatto sul posto in via del Corso. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in spagnolo, non stampare anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 21 aprile 2025 alle ore 2:50 per una violazione riscontrata su un veicolo autovettura marca Honda, targato ICSI Y987GT, proveniente dalla Spagna. La violazione è avvenuta in via della Speranza, civico 18, per transito in zona accesso vietato, in violazione dell'articolo 7, comma 5 del codice stradale. L'agente Alessandro Moretti ha proceduto con contestazione immediata e si prevede la decurtazione di un punto dalla patente. È richiesta la stampa in lingua francese e anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "due e cinquanta",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "spagna",
+                    "targa": "icsi ypsilon novecento ottantasette gettati",
+                    "tipologia_targa": null,
+                    "marca_modello": "onda",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: decurtazione, after: punti",
+            "tipo_stampa": null,
+            "lingua_stampa": "francesi",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data ventuno aprile duemilaventicinque alle ore due e cinquanta per la violazione riscontrata al veicolo autovettura marca onda targato icsi ypsilon novecento ottantasette gettati tipo copertura a proveniente da spagna in particolare in via della speranza civico diciotto è stato accertato transito in zona accesso vietato in violazione dell'articolo sette come cinque del codice stradale l'agente alessandro moretti ha proceduto con contestazione immediata si prevede la decurtazione di un punti dalla patente richiedo la stampa i francesi di about the stampa anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 21/04/2025 alle ore 02:50 per la violazione riscontrata al veicolo autovettura, marca Honda HR-V, targato XY987ZT (tipo copertura) proveniente da spagna. In particolare, in via della Speranza, civico 18, è stato accertato transito in zona accesso vietato, in violazione dell'articolo 7, comma 5 del codice stradale. L'agente Alessandro Moretti ha proceduto con contestazione immediata. Si prevede la decurtazione di 1 punti dalla patente. Richiedo la stampa in francese via bluetooth, stampa anche la comunicazione. "
+}

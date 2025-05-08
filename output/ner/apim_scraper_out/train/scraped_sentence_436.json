@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo autovettura con targa ufficiale proveniente dal Portogallo. L'infrazione è avvenuta il 27 aprile 2025 alle ore 11:29 in via Etna, numero 45. La violazione riguarda l'articolo 157, comma 5 del codice penale, e comporterà una decurtazione di cinque punti. Si richiede la stampa in lingua portoghese, modalità Bluetooth, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventisette aprile duemilaventicinque",
+            "ora_violazione": "undici e ventinove",
+            "Strada_1": "via etna",
+            "Civico_1": "quarantacinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "portogallo",
+                    "targa": "jeff quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "moto gozzi vi sette",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "centocinquantasette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa è jeff quattrocentocinquanta sei giacca di tipo ufficiale marca moto gozzi vi sette proveniente da portogallo l'infrazione nello specifico transito in zona accesso vietato sia e verificata in data ventisette aprile duemilaventicinque alle ore undici e ventinove in via etna al numero quarantacinque articolo centocinquantasette con ma cinque del codice penale si comunica che dalla violazione conseguirà una decurtazione di cinque punti si richiede la stampa in lingua portoghese modalità blu stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa EF456GH di tipo ufficiale, marca Moto Guzzi V7, proveniente da portogallo. L'infrazione, nello specifico transito in zona accesso vietato, si è verificata in data 27/04/2025 alle ore 11:29 in via Etnea, al numero 45 (articolo 157, comma 5 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 5 punti.Si richiede la stampa in lingua portoghese, modalità bluetooth, stampa anche la comunicazione."
+}

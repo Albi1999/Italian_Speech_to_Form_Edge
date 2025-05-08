@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un'infrazione di parcheggio su strisce pedonali. Il veicolo coinvolto è una macchina agricola di marca Ben Elli Leoncino 500 con targa Terre 98 IO, proveniente dal Belgio. L'infrazione è avvenuta il 1° aprile 2025 alle ore 16:45 in Corso Italia, numero civico 30. La violazione riguarda l'articolo 29, comma 27 del codice civile, con una decurtazione prevista di 10 punti. La contestazione è stata eseguita immediatamente dall'agente Carlo Bruni. La stampa del verbale è richiesta tramite Wi-Fi in portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "i lotto aprile duemilaventicinque",
+            "ora_violazione": "sedici e quarantacinque",
+            "Strada_1": "corso italia",
+            "Civico_1": "trenta",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "terre novantotto io",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "ben elli leoncino cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo macchina agricola di marca ben elli leoncino cinquecento con targa terre novantotto io tipo ufficiale proveniente da belgio fatto avvenuto i lotto aprile duemilaventicinque alle ore sedici e quarantacinque posizione corso italia numero civico trenta infrazione parcheggio su strisce pedonali in violazione dell'articolo ventinove con ma ventisette del codice civile decurtazione prevista dieci punti si applica contestazione immediata da parte della gente carlo bruni stampa necessaria tramite vuoi fai in portoghese stampa anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo macchina agricola di marca Benelli Leoncino 500, con targa TR098YU (tipo ufficiale), proveniente da belgio.  Fatto avvenuto il 08/04/2025 alle ore 16:45. Posizione: corso Italia, numero civico 30. Infrazione: parcheggio su strisce pedonali, in violazione dell'articolo 29, comma 27, del codice civile. Decurtazione prevista: 10 punti. Si applica contestazione immediata da parte dell'agente Carlo Bruni. Stampa necessaria tramite wifi in portoghese, stampa anche la comunicazione."
+}

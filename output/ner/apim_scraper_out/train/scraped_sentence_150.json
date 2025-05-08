@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata il ventitré aprile duemilaventicinque alle otto e un minuto. Il verbale è stato redatto per un veicolo rimorchio con targa prova immatricolato in Slovenia, accertato in via della Repubblica venti e via dei Fori Imperiali al civico dieci. La violazione riguarda il codice stradale, articolo cinquanta, comma quarantotto, per parcheggio in zona a rimozione, con quattro punti da decurtare. La contestazione è stata immediata, effettuata dall'agente Silvia Neri. La stampa del verbale è stata eseguita tramite Bluetooth in francese, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventitré aprile duemilaventicinque",
+            "ora_violazione": "otto e un minuto",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "venti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "slovenia",
+                    "targa": "gia sette centottantanove io",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "cinquanta",
+                    "comma": "quarantotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: previsti, after: da",
+            "tipo_stampa": "blu tutti",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle otto e un minuto del ventitré aprile duemilaventicinque storie di gendo un verbale per il veicolo rimorchio targato gia sette centottantanove io con targa prova immatricolati in slovenia l'infrazione stata accertata in via della repubblica venti via dei fori imperiali al civico dieci con violazione del codice stradale articolo cinquanta con ma quarantotto per parcheggio in zona a rimozione sono previsti quattro punti da decurtare contestazione immediata effettuata dalla gente silvia neri il verbale e statore d'atto sul posto in via della repubblica venti via dei fori imperiali non posso applicare alcuna sanzione accessoria stampa tramite blu tutti in francese non stampare anche la comunicazione",
+    "original_sentence": "Alle 08:01 del 23/04/2025, sto redigendo un verbale per il veicolo rimorchio targato GH789IJ con targa prova, immatricolato in sloveniaL'infrazione è stata accertata in via della Repubblica, 20via dei Fori Imperiali, al civico 10, con violazione del codice stradale, articolo 50,comma 48 per parcheggio in zona rimozione Sono previsti 4 punti da decurtare. Contestazione immediata effettuata dall'agente Silvia Neri, il verbale è stato redatto sul posto in via della Repubblica, 20via dei Fori Imperiali. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in francese, non stampare anche la comunicazione."
+}

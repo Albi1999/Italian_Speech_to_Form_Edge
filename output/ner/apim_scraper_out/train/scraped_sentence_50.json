@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 18 aprile 2025 alle 24:00 per una violazione del codice stradale. La violazione è stata accertata in via Roma, civico 77, per parcheggio davanti a passo carabine. Il veicolo coinvolto è una macchina operatrice con targa UBI 123 XX, immatricolata in Italia. Sono previsti nove punti da decurtare. La contestazione è stata effettuata immediatamente dall'agente Chiara Romano. La stampa del verbale è stata effettuata tramite Bluetooth in portoghese, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "venti e quattro minuti",
+            "Strada_1": "via roma",
+            "Civico_1": "settantasette",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "italian",
+                    "targa": "ubi centoventitre doppia ex",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "trentatré",
+                    "comma": "trentuno",
+                    "sanzione_accessoria": "non posso applicare alcuna sanzione accessoria"
+                }
+            ],
+            "punti": "nove, before: previsti, after: da",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle venti e quattro minuti del diciotto aprile duemilaventicinque storie di gendo un verbale per il veicolo macchina operatrice targato ubi centoventitre doppia ex con targa copertura immatricolati in italian infrazione stata accertata in via roma al civico settantasette con violazione del codice stradale articolo trentatré con ma trentuno per parcheggio davanti a passo carabine sono previsti nove punti da decurtare contestazione immediata effettuata dalla gente chiara romano il verbale è statore d'atto sul posto in via roma non posso applicare alcuna sanzione accessoria stampa tramite blu in portoghese stampa anche la comunicazione",
+    "original_sentence": "Alle 20:04 del 18/04/2025, sto redigendo un verbale per il veicolo macchina operatrice targato UV123WX con targa copertura, immatricolato in italiaL'infrazione è stata accertata in via Roma, al civico 77, con violazione del codice stradale, articolo 33,comma 31 per parcheggio davanti a passo carrabile Sono previsti 9 punti da decurtare. Contestazione immediata effettuata dall'agente Chiara Romano, il verbale è stato redatto sul posto in via Roma. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in portoghese, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per una violazione stradale. Il veicolo coinvolto è una macchina operatrice BMW proveniente dal Portogallo, con targa ufficiale. La violazione, parcheggio su strisce pedonali, è avvenuta il 20 aprile 2025 alle 12:14 in via Giuseppe Mazzini, numero 24. L'infrazione è regolata dall'articolo 3415, comma 13 del codice civile. La contestazione è stata immediata da parte dell'agente Marco Gentili e comporta la perdita di cinque punti. Si richiede la stampa in lingua tedesca tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "dodici quattordici",
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "quattrocentocinquanta sei ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "bmw e te novecento hicks",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata da parte della gente marco gentili",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "tremilaquattrocento quindici",
+                    "comma": "tredici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo macchina operatrice targato quattrocentocinquanta sei ci di di tipo ufficiale proveniente da portogallo marca bmw e te novecento hicks la violazione ovvero parcheggio su strisce pedonali si e verificata in data venti aprile duemilaventicinque alle ore dodici quattordici in via giuseppe mazzini al numero ventiquattro l'infrazione rientra nell'articolo tremilaquattrocento quindici coma tredici del codice civile contestazione immediata da parte della gente marco gentili la sanzione prevede la perdita di cinque punti si richiede la stampa in lingua tedesco tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo macchina operatrice targato AB456CD di tipo ufficiale proveniente da portogallo, marca BMW F 900 XR. La violazione, ovvero parcheggio su strisce pedonali, si è verificata in data 20/04/2025 alle ore 12:14 in via Giuseppe Mazzini, al numero 24. L'infrazione rientra nell'articolo 3415, comma 13 del codice civile. Contestazione immediata da parte dell'agente Marco Gentili. La sanzione prevede la perdita di 5 punti. Si richiede la stampa in lingua tedesco, tramite bluetooth, stampa anche la comunicazione. "
+}

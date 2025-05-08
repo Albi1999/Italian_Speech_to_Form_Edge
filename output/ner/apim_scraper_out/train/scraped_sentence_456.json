@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il quattro maggio duemilaventicinque alle ventidue e diciannove per un'infrazione accertata in via della speranza, civico diciotto. Il veicolo coinvolto è un'autovettura con targa prova immatricolata in Belgio, targato \"cappelle trecentoventi uno megan aiuto\". La violazione riguarda il codice stradale, articolo sei, comma quattro, per parcheggio in doppia fila, con nove punti da decurtare. La contestazione è stata immediata, effettuata dall'agente Anna Bianchi, e il verbale è stato redatto sul posto. Non è prevista alcuna sanzione accessoria. La stampa del verbale è tramite Bluetooth in italiano, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro omaggio duemilaventicinque",
+            "ora_violazione": "ventidue diciannove",
+            "Strada_1": "via della speranza",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "belgio",
+                    "targa": "cappelle trecentoventi uno megan aiuto",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata effettuata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle ventidue diciannove del quattro omaggio duemilaventicinque storie di gendo un verbale per il veicolo autovettura targato cappelle trecentoventi uno megan aiuto un con targa prova immatricolati in belgio e infrazione e stata accertata in via della speranza al civico diciotto con violazione del codice stradale articolo sei con ma quattro per parcheggia in doppia fila sono previsti nove punti da decurtare contestazione immediata effettuata dalla gente anna bianchi il verbale è stato redatto sul posto in via della speranza non posso applicare alcuna sanzione accessoria stampa tramite blu in italiano non stampare anche la comunicazione",
+    "original_sentence": "Alle 22:19 del 04/05/2025, sto redigendo un verbale per il veicolo autovettura targato KL321MN con targa prova, immatricolato in belgioL'infrazione è stata accertata in via della Speranza, al civico 18, con violazione del codice stradale, articolo 6,comma 4 per parcheggio in doppia fila Sono previsti 9 punti da decurtare. Contestazione immediata effettuata dall'agente Anna Bianchi, il verbale è stato redatto sul posto in via della Speranza. Non posso applicare alcuna sanzione accessoria. Stampa tramite bluetooth, in italiano, non stampare anche la comunicazione."
+}

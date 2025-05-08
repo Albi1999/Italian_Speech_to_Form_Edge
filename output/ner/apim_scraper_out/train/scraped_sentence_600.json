@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un avviso di violazione per un veicolo registrato in Francia, un motoveicolo targato HOW 320 1 WWX, marca Onda Carrefour. L'infrazione è avvenuta il 18 aprile 2025 alle 4:32, presso il civico 22, per parcheggio in zona a rimozione. La violazione è in base all'articolo 10 del codice stradale e comporta una decurtazione di 4 punti. La stampa dell'avviso è prevista via Bluetooth o WiFi, in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "diciotto aprile duemilaventicinque",
+            "ora_violazione": "quattro e trentadue",
+            "Strada_1": "questo della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "francia",
+                    "targa": "how trecentoventi uno doppia v w x",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "onda carrefour",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "dieci",
+                    "comma": null,
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtazioni, after: punti",
+            "tipo_stampa": "via o aifa",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emette un avviso di violazione quindi si tratta di un preavviso per il veicolo onda carrefour motoveicoli targato how trecentoventi uno doppia v w x contenga speciale registrato in francia per un fatto accaduto il diciotto aprile duemilaventicinque alle quattro e trentadue il veicolo si trovava in questo della storia il civico ventidue dove è stato riscontrato parcheggio in zona a rimozione in base al articolo dieci con atto del codice stradale questa infrazioni comporta una decurtazioni di quattro punti genere alla stampa dell'avviso via o aifa in italiano non stampare anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo Honda HR-V, motoveicolo, targato UV321WX con targa speciale, registrato in francia, per un fatto accaduto il 18/04/2025 alle 04:32. Il veicolo si trovava in corso della Storia, al civico 22, dove è stato riscontrato parcheggio in zona rimozione, in base all'articolo 10, comma 8, del codice stradale. Questa infrazione comporta una decurtazione di 4 punti. Genera la stampa dell'avviso via wifi in italiano, non stampare anche la comunicazione. "
+}

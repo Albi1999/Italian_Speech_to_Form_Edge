@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata il sei maggio duemilaventicinque alle cinque e quarantatré. Un verbale è stato redatto per un veicolo macchina agricola con targa prova immatricolato in Svizzera, targato \"jeff trecentoventi uno giacca\". L'infrazione è avvenuta in corso della Repubblica al civico diciannove, violando il codice penale articolo quarantuno, comma trentanove, per parcheggio in divieto di sosta. Sono previsti sei punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. La stampa avviene tramite Wi-Fi in portoghese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "sei maggio duemilaventicinque",
+            "ora_violazione": "cinque e quarantatré",
+            "Strada_1": "corso della repubblica",
+            "Civico_1": "diciannove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "jeff trecentoventi uno giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantuno",
+                    "comma": "trentanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: da",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle cinque e quarantatré del sei maggio duemilaventicinque storie di gendo un verbale per il veicolo macchina agricola targato jeff trecentoventi uno giacca con targa prova immatricolati in svizzera l'infrazione e stata accertata in corso della repubblica al civico diciannove con violazione del codice penale articolo quarantuno con ma trentanove per parcheggiato in divieto di sosta sono previsti sei punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite vuoi fai in portoghese stampa anche la comunicazione",
+    "original_sentence": "Alle 05:43 del 06/05/2025, sto redigendo un verbale per il veicolo macchina agricola targato EF321GH con targa prova, immatricolato in svizzeraL'infrazione è stata accertata in corso della Repubblica, al civico 19, con violazione del codice penale, articolo 41,comma 39 per parcheggio in divieto di sosta Sono previsti 6 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in portoghese, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un preavviso per una violazione di transito in zona accesso vietato. Il veicolo coinvolto è una macchina agricola Alfa Romeo Giulietta con targa ufficiale ABE 123 CD, proveniente dall'Italia. La violazione è avvenuta il 7 aprile 2025 alle 23:51 in Corso Vittorio Emanuele, numero 15, in base all'articolo 30 comma 28 del codice penale. Sono previsti sei punti di decurtazione. Si richiede la stampa del preavviso tramite WiFi in lingua tedesca, includendo anche la comunicativa.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "ventitré cinquantuno",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "italia",
+                    "targa": "abe centoventitre ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "alfa romeo e giulietta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trenta",
+                    "comma": "ventotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicativa"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emissione di preavviso per il veicolo macchina agricola marca alfa romeo e giulietta targato abe centoventitre ci di di tipo ufficiale proveniente da italia in data sette aprile duemilaventicinque alle ore ventitré cinquantuno stata rilevata alla violazione di transito in zona accesso vietato in corso vittorio emanuele al numero quindici in base all'articolo trenta comma ventotto del codice penale per tale infrazione sono previsti sei punti di decurtazione si richiede la stampa del preavviso tramite wifi in lingua tedesco stampa anche la comunicativa",
+    "original_sentence": "Emissione di preavviso per il veicolo macchina agricola, marca Alfa Romeo Giulietta, targato AB123CD di tipo ufficiale, proveniente da italia. In data 07/04/2025 alle ore 23:51, è stata rilevata la violazione di transito in zona accesso vietato in corso Vittorio Emanuele, al numero 15, in base all'articolo 30, comma 28 del codice penale.Per tale infrazione sono previsti 6 punti di decurtazione. Si richiede la stampa del preavviso tramite wifi in lingua tedesco, stampa anche la comunicazione."
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo Benelli Leoncino 500, immatricolato in Austria con targa BEH 654 CD, di tipo ufficiale. L'infrazione è avvenuta in via Giuseppe Mazzini, civico 24, per parcheggio in divieto di sosta. Si applica l'articolo 40, comma 38 del codice civile. Verranno decurtati cinque punti. Il verbale è stato contestato immediatamente dall'agente Marco Gentili. La stampa deve essere effettuata in italiano tramite Wi-Fi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via giuseppe mazzini",
+            "Civico_1": "ventiquattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "austria",
+                    "targa": "beh sei centocinquantaquattro ci di",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "ben elli leoncino cinquecento",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestato immediatamente",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quaranta",
+                    "comma": "trentotto",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "cinque",
+            "tipo_stampa": "guai fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo ben elli leoncino cinquecento ciclomotori a immatricolati in austria con targa beh sei centocinquantaquattro ci di di tipo ufficiale l'infrazione e avvenuta in via giuseppe mazzini civico ventiquattro parcheggiato in divieto di sosta si applica l'articolo quaranta con ma trentotto del codice civile a seguito della violazione verranno decurtati cinque punti il verbale è stato contestato immediatamente dall'agente marco gentili si prega di procedere con la stampa in italiano tramite guai fai stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Benelli Leoncino 500, ciclomotore immatricolato in austria con targa AB654CD di tipo ufficiale. L'infrazione è avvenuta in via Giuseppe Mazzini, civico 24: parcheggio in divieto di sosta. Si applica l'articolo 40, comma 38 del codice civile. A seguito della violazione verranno decurtati 5 punti.Il verbale è stato contestato immediatamente dall'agente Marco Gentili. Si prega di procedere con la stampa in italiano tramite wifi, stampa anche la comunicazione."
+}

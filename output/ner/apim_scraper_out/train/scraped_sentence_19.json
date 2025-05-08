@@ -1,6 +1,6 @@
 {
     "scraped_data": {
-        "summary": "Il documento descrive la redazione di un verbale per un motoveicolo marca Ebbro con targa speciale immatricolato in Slovenia. La violazione è avvenuta il 12 aprile 2025 alle ore 7:24 in via Roma, civico 77, per parcheggio in divieto di sosta. La violazione riguarda l'articolo 9, comma 7 del codice stradale e comporta la perdita di 7 punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua italiana, senza includere la comunicazione.",
+        "summary": "Il documento descrive la redazione di un verbale per un motoveicolo marca Ebbro con targa speciale immatricolato in Slovenia. La violazione è avvenuta il 12 aprile 2025 alle ore 7:24 in via Roma, civico 77, per parcheggio in divieto di sosta, violando l'articolo 9, comma 7 del codice stradale. La violazione comporta la perdita di 7 punti. La stampa del verbale è richiesta in modalità Bluetooth e in lingua italiana, senza stampare la comunicazione.",
         "report": {
             "verbale_preavviso": "verbale",
             "data_violazione": "dodici aprile duemilaventicinque",
@@ -9,7 +9,7 @@
             "Civico_1": "settantasette",
             "lista_veicoli": [
                 {
-                    "tipologia": "motoveicolo",
+                    "tipologia": "motoveicoli",
                     "nazione": "slovenia",
                     "targa": "ubi trecentoventi uno doppia ex",
                     "tipologia_targa": "speciale",

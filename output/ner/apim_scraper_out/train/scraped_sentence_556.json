@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo macchina operatrice con targa \"guerre novecento ottantasette se ti\" di tipo prova, marca \"onda carrefour\", proveniente dalla Grecia. L'infrazione è avvenuta il nove aprile duemilaventicinque alle ore ventuno e quaranta in viale della vittoria al numero nove, per parcheggio su strisce pedonali. La violazione è in base all'articolo sette, comma cinque del codice stradale, e comporterà una decurtazione di sei punti. Si richiede la stampa in lingua portoghese, modalità \"weiwei\", senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "nove aprile duemilaventicinque",
+            "ora_violazione": "ventuno i quaranta",
+            "Strada_1": "viale della vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "grecia",
+                    "targa": "guerre novecento ottantasette se ti",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "onda carrefour",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "weiwei",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa guerre novecento ottantasette se ti di tipo prova marca onda carrefour proveniente da grecia l'infrazione nello specifico parcheggio su strisce pedonali si verificata in data nove aprile duemilaventicinque alle ore ventuno i quaranta in viale della vittoria al numero nove articolo sette coma cinque del codice stradale si comunica che dalla violazione conseguirà una decurtazione di sei punti si richiede la stampa in lingua portoghese modalità weiwei non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa QR987ST di tipo prova, marca Honda HR-V, proveniente da grecia. L'infrazione, nello specifico parcheggio su strisce pedonali, si è verificata in data 09/04/2025 alle ore 21:40 in viale della Vittoria, al numero 9 (articolo 7, comma 5 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 6 punti. Si richiede la stampa in lingua portoghese, modalità wifi, non stampare anche la comunicazione. "
+}

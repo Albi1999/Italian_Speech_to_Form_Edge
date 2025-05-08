@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione accertata il primo maggio 2025 alle ore 1:29 in via del Corso, civico 12, riguardante un veicolo immatricolato in Croazia. La violazione riguarda il parcheggio in zona di rimozione, secondo l'articolo 29, comma 27 del codice penale. Non è stato possibile contestare immediatamente per assenza del trasgressore. Sono previsti sei punti di decurtazione. Si richiede la stampa in lingua olandese tramite tutte le stampanti, senza stampare la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "primo maggio duemilaventicinque",
+            "ora_violazione": "un ehi ventinove",
+            "Strada_1": "via del corso",
+            "Civico_1": "doti",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrici",
+                    "nazione": "croazia",
+                    "targa": "guerra settecento ottantanove",
+                    "tipologia_targa": "tipo speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventinove",
+                    "comma": "ventisette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: previsti, after: punti",
+            "tipo_stampa": "via tutte stampanti",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si stai dicendo verbale per violazione accertate il primo maggio duemilaventicinque alle ore un ehi ventinove in via del corso a il civico doti a carico del veicolo uscire le tracy macchina operatrici contenga guerra settecento ottantanove siti di tipo speciale immatricolati in croazia la violazione contestata e parcheggio in zona a rimozione in base a articolo ventinove come ventisette del codice penale non è stato possibile contestare immediatamente per assenza del trasgressori sono previsti sei punti di decurtazione si richiede la stampa in lingua olandese via tutte stampanti la comunicazione",
+    "original_sentence": "Si sta redigendo verbale per violazione accertata il 01/05/2025 alle ore 01:29 in via del Corso, al civico 12, a carico del veicolo Chevrolet Trax, macchina operatrice con targa QR789ST di tipo speciale, immatricolato in croazia. La violazione contestata è parcheggio in zona rimozione, in base all'articolo 29, comma 27 del codice penale. Non è stato possibile contestare immediatamente, per assenza del trasgressore. Sono previsti 6 punti di decurtazione. Si richiede la stampa in lingua olandese via bluetooth, stampa anche la comunicazione. "
+}

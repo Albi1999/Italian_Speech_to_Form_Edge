@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo Suzuki Swift con targa 987C, proveniente dalla Spagna. L'infrazione è avvenuta il 16 aprile 2025 alle 20:34 in Corso della Giustizia, civico 23, per parcheggio in doppia fila, violando l'articolo 185, comma 2 del codice civile. Sono previsti dieci punti di decurtazione. Si richiede la stampa del preavviso in italiano via Hawaii, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sedici aprile duemilaventicinque",
+            "ora_violazione": "venti e trentaquattro",
+            "Strada_1": "corso della giustizia",
+            "Civico_1": "ventitré",
+            "lista_veicoli": [
+                {
+                    "tipologia": "molto veicolo",
+                    "nazione": "spagna",
+                    "targa": "novecentottanta sette c",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "swift",
+                    "colore": "null"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centottantacinque",
+                    "comma": "due",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "fai stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo su chi swift molto veicolo targa novecentottanta sette c di tipo copertura proveniente da spagna il giorno sedici aprile duemilaventicinque alle ore venti e trentaquattro in corso della giustizia al numero civico ventitré stata commessa l'infrazione di parcheggia in doppia fila come previsto dall'articolo centottantacinque comma due del codice civile per questa violazione sono previsti dieci punti di decurtazione chiedo stampa del preavviso in italiano via hawaii fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Suzuki Swift motoveicolo, targa AB987CD di tipo copertura, proveniente da spagna. Il giorno 16/04/2025, alle ore 20:34, in corso della Giustizia, al numero civico 23, è stata commessa l'infrazione di parcheggio in doppia fila, come previsto dall'articolo 185, comma 2, del codice civile.Per questa violazione sono previsti 10 punti di decurtazione. Chiedo la stampa del preavviso in italiano via wifi, stampa anche la comunicazione."
+}

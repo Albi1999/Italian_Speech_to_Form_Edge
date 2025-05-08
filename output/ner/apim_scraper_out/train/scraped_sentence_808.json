@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una notifica di infrazione emessa il sette aprile duemilaventicinque alle ore dodici e quattro per un veicolo Ducati con rimorchio immatricolato in Austria. L'infrazione è avvenuta in corso Vittorio Emanuele al civico quindici, violando il codice stradale, articolo quarantacinque, comma quarantatré, riguardante il transito in zona accesso vietato. Sono stati decurtati quattro punti, senza sanzioni accessorie. Il rimorchio è di colore giallo. La stampa è richiesta in olandese tramite Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": null,
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "dodici e quattro",
+            "Strada_1": "corso vittorio emanuele",
+            "Civico_1": "quindici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "austria",
+                    "targa": "capa cinquecento sessantasette",
+                    "tipologia_targa": null,
+                    "marca_modello": "ducati molti strada due",
+                    "colore": "giallo"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantacinque",
+                    "comma": "quarantatré",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "quattro, before: decurtare, after: punti",
+            "tipo_stampa": "battuti in",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "i sette aprile duemilaventicinque alle ore dodici e quattro sto mettendo una notifica di infrazione per il veicolo ducati molti strada due rimorchio immatricolati in austria con targa capa cinquecento sessantasette ho piedi tipo copertura l'infrazione sia verificata presto corso vittorio emanuele al civico quindici violando il codice stradale in particolare l'articolo quarantacinque come quarantatré riguardante il transito in zona accesso vietato devo decurtare quattro punti non è necessaria alcuna sanzione accessoria il rimorchio e di colore giallo con numero di telaio nove zero cinque sei sette otto sette massa duemilaquattrocento novantotto chi li stampa me lo con il battuti in olandese non stampare anche la comunicazione",
+    "original_sentence": "Il 07/04/2025, alle ore 12:04, sto emettendo una notifica di infrazione per il veicolo Ducati Multistrada V2, rimorchio immatricolato in austria con targa JK567OP di tipo copertura. L'infrazione si è verificata presso corso Vittorio Emanuele, al civico 15, violando il codice stradale, in particolare l'articolo 45, comma 43 riguardante il transito in zona accesso vietato. Devo decurtare 4 punti. Non è necessaria alcuna sanzione accessoria. Il rimorchio è di colore giallo, con numero di telaio 905378007 e massa 2498 kg. Stampamelo con il bluetooth in olandese, non stampare anche la comunicazione. "
+}

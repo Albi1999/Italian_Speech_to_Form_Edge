@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale per un veicolo Seat Ibiza con rimorchio, targa immatricolata in Francia, per un'infrazione avvenuta il 21 aprile 2015 alle ore 1:29 in via della Concordia, civico 14. La violazione riguarda il parcheggio davanti a un passo carraio, ai sensi dell'articolo 6, comma 4 del codice stradale. Non è stato possibile effettuare la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di sette punti. È richiesta la stampa in italiano via Bluetooth, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "una e ventinove",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "francia",
+                    "targa": "i si ypsilon sei centocinquantaquattro",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "seat ibiza",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sei",
+                    "comma": "quattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "brutus",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto mettendo un verbale per il veicolo seat ibiza rimorchio targa i si ypsilon sei centocinquantaquattro di tipo prova immatricolati in francia per infrazione commessa in data ventuno aprile duemilaventicinque ore una e ventinove in via della concordia civico quattordici è stato rilevato parcheggio davanti a passo carabine ai sensi dell'articolo sei coma quattro del codice stradale impossibile effettuare la contestazioni immediata assenza del trasgressori la violazione comporta la decurtazione di sette punti richiesta stampa in italiano via brutus non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Seat Ibiza rimorchio, targa XY654ZA di tipo prova, immatricolato in francia, per infrazione commessa in data 21/04/2025, ore 01:29. In via della Concordia, civico 14, è stato rilevato parcheggio davanti a passo carrabile, ai sensi dell'articolo 6, comma 4, del codice stradale. Impossibile effettuare la contestazione immediata, assenza del trasgressore. La violazione comporta la decurtazione di 7 punti. Richiesta stampa in italiano via bluetooth, non stampare anche la comunicazione. "
+}

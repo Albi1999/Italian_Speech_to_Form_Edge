@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il venticinque aprile duemilaventicinque alle ore dieci e quarantasei. È stato elevato un verbale per un veicolo immatricolato in Belgio, con targa \"guerre settecento ottantanove\", per parcheggio su strisce pedonali. La violazione è stata rilevata in via della Repubblica venti e via dei Fori Imperiali al civico dieci. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di due punti. La stampa è richiesta in lingua spagnola tramite \"via hawaii fai\" e non include la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venticinque aprile duemilaventicinque",
+            "ora_violazione": "dieci e quarantasei",
+            "Strada_1": "via della repubblica",
+            "Civico_1": "dieci",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "belgio",
+                    "targa": "guerre settecento ottantanove",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "cava sacchi",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "quarantatré",
+                    "comma": "quarantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due, before: derivano, after: decurtazione",
+            "tipo_stampa": "via hawaii fai",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in dato a venticinque aprile duemilaventicinque alle ore dieci e quarantasei si eleva verbale al veicolo cava sacchi in in già seicentocinquanta macchina operatrice con targa guerre settecento ottantanove se ti di tipo copertura immatricolati in belgio per violazione dell'articolo quarantatré qom quarantuno del codice penale ovvero parcheggio su strisce pedonali rilevata in via della repubblica venti via dei fori imperiali al civico dieci non è stato possibile effettuare la contestazione immediata per assenza del trasgressori dalla violazione derivano due punti di decurtazione stampa necessari e in lingua spagnolo via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "In data 25/04/2025, alle ore 10:46, si eleva verbale al veicolo Kawasaki Ninja 650, macchina operatrice con targa QR789ST di tipo copertura, immatricolato in belgio, per violazione dell'articolo 43, comma 41 del codice penale, ovvero parcheggio su strisce pedonali, rilevata in via della Repubblica, 20via dei Fori Imperiali, al civico 10. Non è stato possibile effettuare la contestazione immediata, per assenza del trasgressore. Dalla violazione derivano 2 punti di decurtazione. Stampa necessaria in lingua spagnolo via wifi, non stampare anche la comunicazione. "
+}

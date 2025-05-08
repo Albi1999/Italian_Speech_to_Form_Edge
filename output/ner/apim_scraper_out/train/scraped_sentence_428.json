@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale elevato il giorno otto aprile duemilaventicinque alle ore quattro meno venti per una violazione del codice civile, articolo quarantadue, comma quaranta, riguardante il parcheggio su strisce pedonali. La violazione è stata rilevata in via della Vittoria al civico nove. Non è stato possibile effettuare la contestazione immediata a causa dell'assenza del trasgressore. Il veicolo coinvolto è un mit subisci colte molto, immatricolato in Spagna, con targa xiii ypsilon trecentoventi uno sa di tipo speciale. La violazione comporta la decurtazione di tre punti. La stampa del verbale è richiesta in lingua inglese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "quattro meno venti",
+            "Strada_1": "via della Vittoria",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "speciale",
+                    "nazione": "spagna",
+                    "targa": "xiii ypsilon trecentoventi uno sa",
+                    "tipologia_targa": null,
+                    "marca_modello": "mit subisci colte molto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantadue",
+                    "comma": "quaranta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tre, before: derivano, after: di",
+            "tipo_stampa": null,
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data otto aprile duemilaventicinque alle ore quattro meno venti si eleva verbale al veicolo mit subisci colte molto veicolo contare dai xiii ypsilon trecentoventi uno sa di tipo speciale immatricolati in spagna per violazione dell'articolo quarantadue con ma quaranta del codice civile ovvero parcheggio su strisce pedonali rilevata inviare della vittoria al civico nove non è stato possibile effettuare la contestazione immediata data all'assenza del trasgressori dalla violazione derivano tre punti di decurtazione stampa necessaria in lingua inglese via about stampa anche la comunicazione",
+    "original_sentence": "In data 08/04/2025, alle ore 03:40, si eleva verbale al veicolo Mitsubishi Colt, motoveicolo con targa XY321ZA di tipo speciale, immatricolato in spagna, per violazione dell'articolo 42, comma 40 del codice civile, ovvero parcheggio su strisce pedonali, rilevata in viale della Vittoria, al civico 9.Non è stato possibile effettuare la contestazione immediata data l'assenza del trasgressore. Dalla violazione derivano 3 punti di decurtazione. Stampa necessaria in lingua inglese via bluetooth, stampa anche la comunicazione."
+}

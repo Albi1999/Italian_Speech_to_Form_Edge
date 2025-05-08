@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo autovettura con targa speciale proveniente dalla Spagna, marca Peugeout 2008. La violazione riguarda il parcheggio in divieto di sosta, avvenuta il 24 aprile 2025 alle 12:31 in viale della stazione, numero 4. L'infrazione è classificata sotto l'articolo 9, comma 7 del codice stradale. La contestazione immediata non è stata possibile a causa dell'assenza del trasgressore. La sanzione comporta la perdita di due punti. Si richiede la stampa in lingua tedesca tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "mezzogiorno e trentuno",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "spagna",
+                    "targa": "e jeff sette centottantanove giacca",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": "peggio duemilaotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "nove",
+                    "comma": "sette",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "fai",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso relativo al veicolo autovettura targato e jeff sette centottantanove giacca di tipo speciale proveniente da spagna marca peggio duemilaotto la violazione ovvero parcheggio in divieto di sosta sia e verificata in data ventiquattro aprile duemilaventicinque alle ore mezzogiorno e trentuno in viale della stazione al numero quattro l'infrazione rientra nell'articolo nove con ma sette del codice stradale non è stato possibile contestare immediatamente a causa dell'assenza del trasgressori la sanzione prevede la perdita di due punti si richiede la stampa in lingua tedesco tramite fai stampa anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso relativo al veicolo autovettura targato EF789GH di tipo speciale proveniente da spagna, marca Peugeot 2008. La violazione, ovvero parcheggio in divieto di sosta, si è verificata in data 24/04/2025 alle ore 12:31 in viale della Stazione, al numero 4. L'infrazione rientra nell'articolo 9, comma 7 del codice stradale. Non è stato possibile contestare immediatamente a causa dell'assenza del trasgressore. La sanzione prevede la perdita di 2 punti. Si richiede la stampa in lingua tedesco, tramite wifi, stampa anche la comunicazione."
+}

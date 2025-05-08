@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive una violazione avvenuta il trenta aprile duemilaventicinque alle ore diciotto e sedici. È stato elevato un verbale per un veicolo immatricolato in Olanda, una macchina agricola con targa ufficiale, per violazione dell'articolo centoventi uno comma nove del codice civile. La violazione riguarda il parcheggio in zona a rimozione, rilevata in via della libertà al civico tre. Non è stata possibile la contestazione immediata per assenza del trasgressore. La violazione comporta la decurtazione di un punto. La stampa è necessaria in lingua spagnola e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "trenta aprile duemilaventicinque",
+            "ora_violazione": "diciotto e sedici",
+            "Strada_1": "via della libertà",
+            "Civico_1": "tre",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "olanda",
+                    "targa": "è trecentoventi uno giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "null",
+                    "colore": "null"
+                }
+            ],
+            "contestazione_immediata": "null",
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "centoventi uno",
+                    "comma": "nove",
+                    "sanzione_accessoria": "null"
+                }
+            ],
+            "punti": "un, before: derivano, after: decurtazione",
+            "tipo_stampa": "null",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data trenta aprile duemilaventicinque alle ore diciotto e sedici si eleva verbale al veicolo giamai ypsilon seta jeff sette macchina agricola con targa è trecentoventi uno giacca di tipo ufficiale immatricolati in olanda per violazione dell'articolo centoventi uno comma nove del codice civile ovvero parcheggio in zona a rimozione rilevata in via della libertà al civico tre non è stato possibile effettuare la contestazione immediata per assenza del trasgressori dalla violazione derivano un punti di decurtazione stampa necessaria in lingua spagnolo via about stampa anche la comunicazione",
+    "original_sentence": "In data 30/04/2025, alle ore 18:16, si eleva verbale al veicolo Yamaha YZF-R7, macchina agricola con targa EF321GH di tipo ufficiale, immatricolato in olanda, per violazione dell'articolo 121, comma 9 del codice civile, ovvero parcheggio in zona rimozione, rilevata in via della Libertà, al civico 3. Non è stato possibile effettuare la contestazione immediata, per assenza del trasgressore. Dalla violazione derivano 1 punti di decurtazione. Stampa necessaria in lingua spagnolo via bluetooth, stampa anche la comunicazione. "
+}

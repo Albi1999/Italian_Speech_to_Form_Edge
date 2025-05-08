@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo proveniente dalla Germania. L'infrazione è avvenuta il quattro maggio duemilaventicinque alle ore venti in via della musica al numero diciotto. La violazione riguarda l'articolo tredici, comma undici del codice penale, e comporterà una decurtazione di nove punti. Si richiede la stampa in lingua inglese con modalità hawaii fai, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "venti",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "autovettura",
+                    "nazione": "germania",
+                    "targa": "quattrocentocinquanta sei ci di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "roja le infili intercettori seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "tredici",
+                    "comma": "undici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: decurtazione, after: punti",
+            "tipo_stampa": "hawaii fai",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa quattrocentocinquanta sei ci di di tipo copertura marca roja le infili intercettori seicentocinquanta proveniente da germania l'infrazione nello specifico parcheggio davanti a passo carabine si e verificata in data quattro maggio duemilaventicinque alle ore venti in via della musica al numero diciotto articolo tredici con ma undici del codice penale si comunica che dalla violazione conseguirà una decurtazione di nove punti si richiede la stampa in lingua inglese modalità hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo autovettura con targa AB456CD di tipo copertura, marca Royal Enfield Interceptor 650, proveniente da germania. L'infrazione, nello specifico parcheggio davanti a passo carrabile, si è verificata in data 04/05/2025 alle ore 20:00 in via della Musica, al numero 18 (articolo 13, comma 11 del codice penale). Si comunica che dalla violazione conseguirà una decurtazione di 9 punti. Si richiede la stampa in lingua inglese, modalità wifi, non stampare anche la comunicazione. "
+}

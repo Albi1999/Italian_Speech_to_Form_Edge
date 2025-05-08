@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso per un veicolo proveniente dalla Slovenia, con targa \"guerra e sette centottantanove se ti di tipo speciale\". L'infrazione è avvenuta il 15 aprile 2025 alle ore 2:07 in via Venti Settembre, civico 5, per transito in zona accesso vietato, violando l'articolo 31 del codice penale, comma 30. Sono previsti nove punti di decurtazione. La stampa del preavviso è in inglese, via Hawaii, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "due sette minuti",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "slovenia",
+                    "targa": "guerra e sette centottantanove se ti di tipo speciale",
+                    "tipologia_targa": null,
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentuno",
+                    "comma": "trenta",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "nove, before: previsti, after: punti",
+            "tipo_stampa": "hawaii",
+            "lingua_stampa": "inglese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si notifica un preavviso per il veicolo chapas a chi seicentocinquanta rimorchio targa guerra e sette centottantanove se ti di tipo speciale proveniente da slovenia il giorno quindici aprile duemilaventicinque alle ore due sette minuti in via venti settembre al numero civico cinque stata commessa l'infrazione di transito in zona accesso vietato come previsto dall'articolo trentuno duemilanovecento trentadue comma trenta del codice penale per questa violazione sono previsti nove punti di decurtazione cedola stampa del preavviso in inglese via hawaii fai non stampare anche la comunicazione",
+    "original_sentence": "Si notifica un preavviso per il veicolo Kawasaki Z650 rimorchio, targa QR789ST di tipo speciale, proveniente da slovenia. Il giorno 15/04/2025, alle ore 02:07, in via XX Settembre, al numero civico 5, è stata commessa l'infrazione di transito in zona accesso vietato, come previsto dall'articolo 31, 2932, comma 30, del codice penale.Per questa violazione sono previsti 9 punti di decurtazione. Chiedo la stampa del preavviso in inglese via wifi, non stampare anche la comunicazione."
+}

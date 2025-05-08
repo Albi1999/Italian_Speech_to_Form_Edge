@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale in corso per un'infrazione di parcheggio davanti a passo carabine. Il veicolo coinvolto è una macchina agricola di marca Chapas a Zetas 650, con targa È EHI 789 Cappelle, proveniente dalla Svizzera. L'infrazione è avvenuta il 20 aprile 2025 alle ore 9:56 in viale della stazione, numero civico 4. La violazione riguarda l'articolo 44, comma 42 del codice civile, con una decurtazione prevista di punti. La contestazione è stata eseguita immediatamente dall'agente Sara Bellini. La stampa del verbale è richiesta tramite Wi-Fi, in lingua tedesca, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "venti aprile duemilaventicinque",
+            "ora_violazione": "nove cinquantasei",
+            "Strada_1": "viale della stazione",
+            "Civico_1": "quattro",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "svizzera",
+                    "targa": "è ehi settecento ottantanove cappelle",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "chapas a zetas seicentocinquanta",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantaquattro",
+                    "comma": "quarantadue",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "tra i punti, before: decurtazione, after: prevista",
+            "tipo_stampa": "vuoi fa",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "redazione verbale in corso per il veicolo macchina agricola di marca chapas a zetas seicentocinquanta con targa è ehi settecento ottantanove cappelle tipo copertura proveniente da svizzera fatto avvenuto il venti aprile duemilaventicinque alle ore nove cinquantasei posizione viale della stazione numero civico quattro infrazione parcheggio davanti a passo carabine in violazione dell'articolo quarantaquattro come quarantadue del codice civile decurtazione prevista tra i punti si applica contestazione immediata da parte della gente sara bellini stampa necessaria tramite vuoi fa in tedesco non stampare anche la comunicazione",
+    "original_sentence": "Redazione verbale in corso per il veicolo macchina agricola di marca Kawasaki Z650, con targa IJ789KL (tipo copertura), proveniente da svizzera. Fatto avvenuto il 20/04/2025 alle ore 09:56. Posizione: viale della Stazione, numero civico 4. Infrazione: parcheggio davanti a passo carrabile, in violazione dell'articolo 44, comma 42, del codice civile. Decurtazione prevista: 3 punti. Si applica contestazione immediata da parte dell'agente Sara Bellini. Stampa necessaria tramite wifi in tedesco, non stampare anche la comunicazione. "
+}

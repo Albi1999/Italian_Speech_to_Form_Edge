@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione accertata il ventotto aprile duemilaventicinque alle ventidue un minuto. Il veicolo coinvolto è un ciclomotore con targa ufficiale immatricolato in Slovenia. La violazione è avvenuta in corso della storia al civico ventidue, riguardante il codice penale articolo cinquantatré comma cinquantuno per parcheggio in zona a rimozione. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Sono previsti sei punti da decurtare. La stampa del verbale avviene tramite WiFi in francese e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventotto aprile duemilaventicinque",
+            "ora_violazione": "ventidue un minuto",
+            "Strada_1": "corso della storia",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori motore",
+                    "nazione": "slovenia",
+                    "targa": "sette centottantanove più",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquantatré",
+                    "comma": "cinquantuno",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "alle ventidue un minuto del ventotto aprile duemilaventicinque storie di gendo un verbale per il veicolo ciclomotori motore targato sette centottantanove più con targa ufficiale immatricolati in slovenia l'infrazione e stata accertata in corso della storia al civico ventidue con violazione del codice penale articolo cinquantatré con ma cinquantuno per parcheggio in zona a rimozione sono previsti sei punti da decurtare non è stata possibile una contestazione immediata per l'assenza del trasgressori non posso applicare alcuna sanzione accessoria stampa tramite vuoi fai in francese stampa anche la comunicazione",
+    "original_sentence": "Alle 22:01 del 28/04/2025, sto redigendo un verbale per il veicolo ciclomotore targato MN789OP con targa ufficiale, immatricolato in sloveniaL'infrazione è stata accertata in corso della Storia, al civico 22, con violazione del codice penale, articolo 53,comma 51 per parcheggio in zona rimozione Sono previsti 6 punti da decurtare. Non è stata possibile una contestazione immediata per l'assenza del trasgressore. Non posso applicare alcuna sanzione accessoria. Stampa tramite wifi, in francese, stampa anche la comunicazione."
+}

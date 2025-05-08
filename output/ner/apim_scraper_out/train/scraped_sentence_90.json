@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un veicolo macchina operatrice con targa centoventitre hop, di tipo ufficiale, marca chi ha stoner, proveniente dal Portogallo. L'infrazione è avvenuta il sette aprile duemilaventicinque alle ore mezzanotte e quarantuno in viale della concordia al numero tredici. La violazione riguarda l'articolo quarantotto, comma quarantasei del codice stradale, e comporterà una decurtazione di otto punti. Si richiede la stampa in lingua portoghese, modalità Bluetooth, e di stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "mezzanotte e quarantuno",
+            "Strada_1": "viale della concordia",
+            "Civico_1": "tredici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina operatrice",
+                    "nazione": "portogallo",
+                    "targa": "centoventitre hop",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "chi ha stoner",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantotto",
+                    "comma": "quarantasei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa centoventitre hop di tipo ufficiale marca chi ha stoner proveniente da portogallo l'infrazione nello specifico parcheggio davanti a passo carabine sia e verificata in data sette aprile duemilaventicinque alle ore è mezzanotte e quarantuno in viale della concordia al numero tredici articolo quarantotto con ma quarantasei del codice stradale si comunica che dalla violazione conseguirà una decurtazione di otto punti si richiede la stampa in lingua portoghese modalità blu stampa anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo macchina operatrice con targa MN123OP di tipo ufficiale, marca Kia Stonic, proveniente da portogallo. L'infrazione, nello specifico parcheggio davanti a passo carrabile, si è verificata in data 07/04/2025 alle ore 00:41 in viale della Concordia, al numero 13 (articolo 48, comma 46 del codice stradale). Si comunica che dalla violazione conseguirà una decurtazione di 8 punti.Si richiede la stampa in lingua portoghese, modalità bluetooth, stampa anche la comunicazione."
+}

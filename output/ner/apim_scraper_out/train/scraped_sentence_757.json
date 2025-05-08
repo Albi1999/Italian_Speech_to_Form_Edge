@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento riguarda la stesura di un preavviso di violazione per un motoveicolo con targa \"guerre si centocinquantaquattro\" proveniente dalla Svizzera. L'infrazione, un parcheggio in divieto di sosta, è avvenuta il 12 aprile 2025 alle ore 12:05 in via Venti Settembre, numero civico 5. La violazione è in riferimento all'articolo 13, comma 11 del codice civile e comporterà una decurtazione di sei punti. Si richiede la stampa in lingua portoghese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "dodici aprile duemilaventicinque",
+            "ora_violazione": "dodici e cinque",
+            "Strada_1": "via venti settembre",
+            "Civico_1": "cinque",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "svizzera",
+                    "targa": "guerre si centocinquantaquattro",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "intercettori seicentocinquanta",
+                    "colore": "roja"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "tredici",
+                    "comma": "undici",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei",
+            "tipo_stampa": "blu tute",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo motoveicoli con targa guerre si centocinquantaquattro e se ti di tipo prova marcare roja le infili intercettori seicentocinquanta proveniente da svizzera l'infrazione nello specifico parcheggio in divieto di sosta si e verificata in data dodici aprile duemilaventicinque alle ore dodici e cinque in via venti settembre al numero cinque articolo tredici coma undici del codice civile si comunica che dalla violazione conseguirà una decurtazione di sei punti si richiede la stampa in lingua portoghese modalità blu tute non stampare anche la comunicazione",
+    "original_sentence": "Si avvisa che è in corso la stesura di un preavviso di violazione per il veicolo motoveicolo con targa QR654ST di tipo prova, marca Royal Enfield Interceptor 650, proveniente da svizzera. L'infrazione, nello specifico parcheggio in divieto di sosta, si è verificata in data 12/04/2025 alle ore 12:05 in via XX Settembre, al numero 5 (articolo 13, comma 11 del codice civile). Si comunica che dalla violazione conseguirà una decurtazione di 6 punti. Si richiede la stampa in lingua portoghese, modalità bluetooth, non stampare anche la comunicazione. "
+}

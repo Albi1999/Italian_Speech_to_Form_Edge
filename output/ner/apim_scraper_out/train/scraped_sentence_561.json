@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto l'otto aprile 2025 alle ore 9:18 per una violazione riscontrata su un motoveicolo marca Peggior 208, targato CD 450 6 JEFF, tipo prova, proveniente dall'Austria. La violazione riguarda il parcheggio in divieto di sosta in via della Concordia, civico 14, in violazione dell'articolo 7, comma 5 del codice civile. La contestazione non è stata immediata a causa dell'assenza del conducente. Si prevede la decurtazione di otto punti dalla patente. La stampa è richiesta in spagnolo via tutte, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "otto aprile duemilaventicinque",
+            "ora_violazione": "nove diciotto",
+            "Strada_1": "via della concordia",
+            "Civico_1": "quattordici",
+            "lista_veicoli": [
+                {
+                    "tipologia": "motoveicoli",
+                    "nazione": "austria",
+                    "targa": "ci di quattrocentocinquanta sei jeff",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "peggior duecentotto",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del conducente",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto, before: decurtazione, after: punti",
+            "tipo_stampa": "via tutte",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "verbale redatto in data otto aprile duemilaventicinque alle ore nove diciotto per la violazione riscontrata al veicolo motoveicoli marca peggior duecentotto targato ci di quattrocentocinquanta sei jeff tipo prova e proveniente da austria in particolare in via della concordia civico quattordici è stato accertato parcheggio in divieto di sosta in violazione dell'articolo sette ma cinque del codice civile data l'assenza del conducente la contestazione non è stata immediata si prevede la decurtazione di otto punti dalla patente richiedo la stampa in spagnolo via tutte non stampare anche la comunicazione",
+    "original_sentence": "Verbale redatto in data 08/04/2025 alle ore 09:18 per la violazione riscontrata al veicolo motoveicolo, marca Peugeot 208, targato CD456EF (tipo prova) proveniente da austria. In particolare, in via della Concordia, civico 14, è stato accertato parcheggio in divieto di sosta, in violazione dell'articolo 7, comma 5 del codice civile. Data l'assenza del conducente, la contestazione non è stata immediata. Si prevede la decurtazione di 8 punti dalla patente. Richiedo la stampa in spagnolo via bluetooth, non stampare anche la comunicazione. "
+}

@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un'infrazione avvenuta in via della cultura, civico nove, per transito in zona accesso vietato. Il veicolo coinvolto è una BMW macchina agricola immatricolata in Austria con targa ufficiale. L'infrazione è regolata dall'articolo otto comma sei del codice civile e comporta la decurtazione di due punti. A causa dell'assenza del trasgressore, non è stato possibile effettuare la contestazione immediata. Si richiede la stampa del verbale in portoghese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "via della cultura",
+            "Civico_1": "nove",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "austria",
+                    "targa": "e quattrocentocinquanta sei giacca",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "bmw",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "otto",
+                    "comma": "sei",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "due",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "portoghese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "stai mettendo un verbale per il veicolo bmw effe novecento jerry macchina agricola immatricolati in austria con targa e quattrocentocinquanta sei giacca di tipo ufficiale l'infrazione avvenute in via della cultura civico nove transito in zona accesso vietato si applica l'articolo otto comma sei del codice civile a seguito della violazione verranno decurtati due punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in portoghese tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo BMW F 900 R, macchina agricola immatricolato in austria con targa EF456GH di tipo ufficiale. L'infrazione è avvenuta in via della Cultura, civico 9: transito in zona accesso vietato. Si applica l'articolo 8, comma 6 del codice civile. A seguito della violazione verranno decurtati 2 punti. A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in portoghese tramite bluetooth, stampa anche la comunicazione. "
+}

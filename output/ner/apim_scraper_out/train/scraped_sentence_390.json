@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso notificato il quindici aprile duemilaventicinque alle ore mezzogiorno e due minuti per un rimorchio con targa prova immatricolato in Svizzera. L'infrazione è stata rilevata in via della Libertà al civico ventuno, con violazione del codice penale articolo trentasette comma trentacinque, per parcheggio davanti a passo carabine. Non è stato possibile contestare immediatamente per l'assenza del trasgressore. Sono da decurtare sette punti. Il veicolo è un Ducati Monster blu. La stampa del preavviso è richiesta tramite Wi-Fi in italiano, senza stampare anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "quindici aprile duemilaventicinque",
+            "ora_violazione": "mezzogiorno e due minuti",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "rimorchio",
+                    "nazione": "svizzera",
+                    "targa": "i centoventitre chilometri",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "ducati monster",
+                    "colore": "blu"
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "trentasette",
+                    "comma": "trentacinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sette",
+            "tipo_stampa": "vuoi fai",
+            "lingua_stampa": "italiano",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "in data quindici aprile duemilaventicinque alle ore è mezzogiorno e due minuti è stato notificato un preavviso per un rimorchio targato i centoventitre chilometri con targa prova immatricolati in svizzera l'infrazione e stata rilevata in via della libertà al civico ventuno con violazione del codice penale articolo trentasette comma trentacinque in particolare si e riscontrato un parcheggio davanti a passo carabine non è stato possibile contestare per l'assenza del trasgressori da decurtare ci sono sette punti il veicolo è un ducati monster di colore blu con numero di telaio trecentosessantadue milioni e quattrocentottanta settemilatrecento trentanove e massa milleseicento settantaquattro chilogrammi necessita la stampa del preavviso tramite vuoi fai in italiano non stampare anche la comunicazione",
+    "original_sentence": "In data 15/04/2025, alle ore 12:02, è stato notificato un preavviso per un rimorchio targato IJ123KL con targa prova, immatricolato in svizzera. L'infrazione è stata rilevata in via della Libertà, al civico 21, con violazione del codice penale, articolo 37, comma 35, in particolare si è riscontrato un parcheggio davanti a passo carrabile Non è stato possibile contestare per l'assenza del trasgressore. Da decurtare ci sono 7 punti. Il veicolo è un Ducati Monster di colore blu, con numero di telaio 362487339 e massa 1674 kg.Necessito la stampa del preavviso tramite wifi, in italiano, non stampare anche la comunicazione."
+}

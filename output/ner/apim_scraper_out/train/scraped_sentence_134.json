@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un verbale redatto il 21 aprile 2025 alle ore 6:43 per un veicolo immatricolato in Croazia con targa JEFF 789. L'infrazione è avvenuta in via della Libertà, civico 21, per violazione del codice stradale, articolo 7, comma 5, ovvero parcheggio in doppia fila. La contestazione è stata immediata e eseguita sul posto dall'agente Francesco Rizzo. Sono previsti dieci punti da decurtare, senza sanzioni accessorie. La stampa è richiesta in spagnolo tramite Bluetooth, senza comunicazione aggiuntiva.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventuno aprile duemilaventicinque",
+            "ora_violazione": "sei e quarantatré",
+            "Strada_1": "via della libertà",
+            "Civico_1": "ventuno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "croazia",
+                    "targa": "jeff sette centottantanove giacca",
+                    "tipologia_targa": "prova",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "sette",
+                    "comma": "cinque",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: previsti, after: da",
+            "tipo_stampa": "blu tu",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "il giorno ventuno aprile duemilaventicinque alle ore sei e quarantatré è stato redatto un verbale per il veicolo si tronchi tre ciclomotori immatricolati in croazia con targa è jeff sette centottantanove giacca di tipo prova l'infrazione e avvenuta in via della libertà al civico ventuno stata riscontrata una violazione del codice stradale articolo sette con ma cinque ovvero parcheggia in doppia fila e verbale è stato eseguito sul posto con contestazione immediata da parte della gente francesco rizzo sono previsti dieci punti da decurtare e non è stata applicata alcuna sanzione accessoria stampa in spagnolo tramite blu tu non stampare anche la comunicazione",
+    "original_sentence": "Il giorno 21/04/2025, alle ore 06:43, è stato redatto un verbale per il veicolo Citroen C3, ciclomotore immatricolato in croazia con targa EF789GH di tipo prova.L'infrazione è avvenuta in via della Libertà, al civico 21. È stata riscontrata una violazione del codice stradale, articolo 7, comma 5 ovvero parcheggio in doppia filaIl verbale è stato eseguito sul posto, con contestazione immediata da parte dell'agente Francesco Rizzo. Sono previsti 10 punti da decurtare, e non è stata applicata alcuna sanzione accessoria. Stampa in spagnolo tramite bluetooth, non stampare anche la comunicazione."
+}

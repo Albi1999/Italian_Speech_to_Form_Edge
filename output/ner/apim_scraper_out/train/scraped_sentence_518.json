@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un'infrazione commessa da un veicolo macchina agricola, marca Sei Akhtar, targato US 154 Wings, di tipo prova, proveniente dal Belgio. L'infrazione è stata rilevata il 4 maggio 2025 alle ore 13:12 in viale della Libertà, civico 22, per parcheggio in doppia fila, violando l'articolo 22 del codice penale. L'agente Anna Bianchi ha provveduto alla contestazione immediata. La violazione comporta la perdita di un punto. Si richiede la stampa del verbale in spagnolo tramite WiFi, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "quattro maggio duemilaventicinque",
+            "ora_violazione": "tredici e dodici",
+            "Strada_1": "viale della libertà",
+            "Civico_1": "ventidue",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "belgio",
+                    "targa": "us centocinquantaquattro doppio wings",
+                    "tipologia_targa": "prova",
+                    "marca_modello": "sei akhtar",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "ventidue",
+                    "comma": "venti",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "un, before: perdita, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "spagnolo",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo macchina agricola marca sei akhtar una targato us centocinquantaquattro doppio wings di tipo prova proveniente da belgio l'infrazione e stata rilevata il quattro maggio duemilaventicinque alle ore tredici e dodici il veicolo si trovava in viale della libertà al civico ventidue in parcheggio in doppia fila violando l'articolo ventidue commoventi del codice penale l'agente anna bianchi a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di un punti richiedo la stampa del verbale in spagnolo tramite wifi stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo macchina agricola, marca Seat Arona, targato UV654WX (di tipo prova), proveniente da belgio. L'infrazione è stata rilevata il 04/05/2025 alle ore 13:12. Il veicolo si trovava in viale della Libertà, al civico 22, in parcheggio in doppia fila, violando l'articolo 22, comma 20, del codice penale. L'agente Anna Bianchi ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 1 punti. Richiedo la stampa del verbale in spagnolo tramite wifi, stampa anche la comunicazione. "
+}

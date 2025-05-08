@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive l'emissione di un verbale per un veicolo agricolo immatricolato in Spagna con targa speciale. L'infrazione è avvenuta in corso Buenos Aires, civico 98, per parcheggio davanti a passo carabine. Si applica l'articolo 51, comma 49 del codice penale, con la decurtazione di otto punti. A causa dell'assenza del trasgressore, non è stata possibile la contestazione immediata. La stampa deve essere effettuata in olandese tramite Bluetooth, senza includere la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": null,
+            "ora_violazione": null,
+            "Strada_1": "corso buenos aires",
+            "Civico_1": "novantotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "macchina agricola",
+                    "nazione": "spagna",
+                    "targa": "quattrocentocinquanta sei",
+                    "tipologia_targa": "speciale",
+                    "marca_modello": null,
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": "assenza del trasgressori",
+            "violazioni": [
+                {
+                    "codice": "penale",
+                    "articolo": "cinquantuno",
+                    "comma": "quarantanove",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "otto",
+            "tipo_stampa": "blu",
+            "lingua_stampa": "olandese",
+            "stampa_anche_comunicazione": "non stampare anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "sto emettendo un verbale per il veicolo si tronchi quattro cat macchina agricola immatricolati in spagna con targa quattrocentocinquanta sei occupi di tipo speciale l'infrazione avvenuta in corso buenos aires civico novantotto parcheggia davanti a passo carabine si applica l'articolo cinquantuno comma quarantanove del codice penale a seguito della violazione verranno decurtati otto punti a causa dell'assenza del trasgressori non è stato possibile effettuare la contestazione immediata si prega di procedere con la stampa in olandese tramite blu non stampare anche la comunicazione",
+    "original_sentence": "Sto emettendo un verbale per il veicolo Citroen C4 Cactus, macchina agricola immatricolato in spagna con targa MN456OP di tipo speciale. L'infrazione è avvenuta in corso Buenos Aires, civico 98: parcheggio davanti a passo carrabile. Si applica l'articolo 51, comma 49 del codice penale. A seguito della violazione verranno decurtati 8 punti.A causa dell'assenza del trasgressore non è stato possibile effettuare la contestazione immediata. Si prega di procedere con la stampa in olandese tramite bluetooth, non stampare anche la comunicazione."
+}

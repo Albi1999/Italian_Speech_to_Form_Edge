@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive la stesura di un verbale per un veicolo ciclomotore con targa \"abby sette centottantanove ci di di\" proveniente dalla Slovenia. L'infrazione è stata rilevata il 24 aprile 2025 alle ore 4:29 in via della Musica, civico 18, per transito in zona accesso vietato, violando l'articolo 46 comma 44 del codice civile. L'agente Francesco Rizzo ha provveduto alla contestazione immediata dell'infrazione, che comporta la perdita di sei punti. Si richiede la stampa del verbale in francese tramite Bluetooth, includendo anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "verbale",
+            "data_violazione": "ventiquattro aprile duemilaventicinque",
+            "ora_violazione": "quattro e ventinove",
+            "Strada_1": "via della musica",
+            "Civico_1": "diciotto",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "slovenia",
+                    "targa": "abby sette centottantanove ci di di",
+                    "tipologia_targa": "copertura",
+                    "marca_modello": "no cattura",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": "contestazione immediata",
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "civile",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "sei, before: perdita, after: punti",
+            "tipo_stampa": "blu tutte",
+            "lingua_stampa": "francese",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "procedo con la stesura di un verbale per il veicolo ciclomotori marcare no cattura targato abby sette centottantanove ci di di tipo copertura proveniente da slovenia l'infrazione stata rilevata il ventiquattro aprile duemilaventicinque alle ore quattro e ventinove il veicolo si trovava in via della musica al civico diciotto in transito in zona accesso vietato violando l'articolo quarantasei comma quarantaquattro del codice civile l'agente francesco rizzo a provveduto alla contestazione immediata dell'infrazione la violazione comporta la perdita di sei punti richiedo la stampa del verbale in francese tramite blu tutte stampa anche la comunicazione",
+    "original_sentence": "Procedo con la stesura di un verbale per il veicolo ciclomotore, marca Renault Captur, targato AB789CD (di tipo copertura), proveniente da slovenia. L'infrazione è stata rilevata il 24/04/2025 alle ore 04:29. Il veicolo si trovava in via della Musica, al civico 18, in transito in zona accesso vietato, violando l'articolo 46, comma 44, del codice civile. L'agente Francesco Rizzo ha provveduto alla contestazione immediata dell'infrazione. La violazione comporta la perdita di 6 punti. Richiedo la stampa del verbale in francese tramite bluetooth, stampa anche la comunicazione. "
+}

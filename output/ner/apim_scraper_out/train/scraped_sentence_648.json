@@ -1,0 +1,39 @@
+{
+    "scraped_data": {
+        "summary": "Il documento descrive un preavviso di violazione per un veicolo BMW registrato in Germania, targato \"guerre trecentoventi uno e se ti con targa ufficiali\". La violazione è avvenuta il sette aprile duemilaventicinque alle otto e quarantadue in piazza Venezia, civico uno, per parcheggio su strisce pedonali. La violazione è in base all'articolo quarantasei, comma quarantaquattro del codice stradale, comportando una decurtazione di dieci punti. La stampa dell'avviso è prevista via WiFi in lingua tedesca e include anche la comunicazione.",
+        "report": {
+            "verbale_preavviso": "preavviso",
+            "data_violazione": "sette aprile duemilaventicinque",
+            "ora_violazione": "otto e quarantadue",
+            "Strada_1": "piazza venezia",
+            "Civico_1": "uno",
+            "lista_veicoli": [
+                {
+                    "tipologia": "ciclomotori",
+                    "nazione": "germania",
+                    "targa": "guerre trecentoventi uno e se ti con targa ufficiali",
+                    "tipologia_targa": "ufficiale",
+                    "marca_modello": "bmw jeff novecento jerry",
+                    "colore": null
+                }
+            ],
+            "contestazione_immediata": null,
+            "motivo_mancata_contestazione": null,
+            "violazioni": [
+                {
+                    "codice": "stradale",
+                    "articolo": "quarantasei",
+                    "comma": "quarantaquattro",
+                    "sanzione_accessoria": null
+                }
+            ],
+            "punti": "dieci, before: decurtazione, after: punti",
+            "tipo_stampa": "wifi",
+            "lingua_stampa": "tedesco",
+            "stampa_anche_comunicazione": "stampa anche la comunicazione"
+        },
+        "missing_required_infos": []
+    },
+    "original_transcribed_sentence": "emette un avviso di violazione quindi si tratta di un preavviso per il veicolo bmw jeff novecento jerry ciclomotori targato guerre trecentoventi uno e se ti con targa ufficiali registrato in germania per un fatto accaduto e sette aprile duemilaventicinque alle otto e quarantadue il veicolo si trovava in piazza venezia al civico uno dove è stato riscontrato parcheggio su strisce pedonali in base alla articolo quarantasei con ma quarantaquattro del codice stradale questa infrazione comporta una decurtazione di dieci punti genere alla stampa dell'avviso via vai fa in tedesco stampa anche la comunicazione",
+    "original_sentence": "Emetto un avviso di violazione, quindi si tratta di un preavviso, per il veicolo BMW F 900 R, ciclomotore, targato QR321ST con targa ufficiale, registrato in germania, per un fatto accaduto il 07/04/2025 alle 08:42. Il veicolo si trovava in piazza Venezia, al civico 1, dove è stato riscontrato parcheggio su strisce pedonali, in base all'articolo 46, comma 44, del codice stradale. Questa infrazione comporta una decurtazione di 10 punti. Genera la stampa dell'avviso via wifi in tedesco, stampa anche la comunicazione. "
+}
