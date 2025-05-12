@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Offline Speech To Form"
-        android:textSize="20sp"
+        android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -20,35 +20,52 @@
         android:layout_marginTop="32dp" />
 
     <Button
+        android:id="@+id/buttonVosk"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="32dp"
+        android:text="Avvia Registrazione (Vosk)"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/buttonRegistra"
+        app:layout_constraintTop_toBottomOf="@+id/textViewTitolo" />
+
+    <Button
         android:id="@+id/buttonRegistra"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="Avvia Registrazione"
-        app:layout_constraintTop_toBottomOf="@+id/textViewTitolo"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        android:layout_marginTop="32dp"
         android:layout_marginStart="32dp"
-        android:layout_marginEnd="32dp" />
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:text="Avvia Registrazione (Android)"
+        app:layout_constraintEnd_toStartOf="@+id/buttonVosk"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintHorizontal_chainStyle="spread"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewTitolo" />
 
     <TextView
         android:id="@+id/textViewTrascrizione"
         android:layout_width="349dp"
-        android:layout_height="264dp"
+        android:layout_height="326dp"
         android:layout_marginStart="32dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="32dp"
+        android:layout_marginBottom="32dp"
         android:hint="Testo trascritto qui..."
         android:textSize="16sp"
-        app:layout_constraintBottom_toTopOf="@+id/textViewOutput"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/buttonRegistra" />
+        app:layout_constraintTop_toBottomOf="@+id/buttonRegistra"
+        app:layout_constraintVertical_bias="0.0" />
 
     <TextView
         android:id="@+id/textViewOutput"
-        android:layout_width="349dp"
-        android:layout_height="276dp"
+        android:layout_width="350dp"
+        android:layout_height="138dp"
         android:layout_marginStart="32dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="32dp"
@@ -57,6 +74,7 @@
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.666"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textViewTrascrizione" />
 
