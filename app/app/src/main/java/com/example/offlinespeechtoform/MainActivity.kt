@@ -1,6 +1,7 @@
 package com.example.offlinespeechtoform
 
 import android.Manifest
+import android.annotation.SuppressLint
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.graphics.Color
@@ -34,12 +35,13 @@ import java.io.FileOutputStream
 import java.io.InputStream
 import java.io.OutputStream
 
+@SuppressLint("SetTextI18n")
 class MainActivity : ComponentActivity() {
 
     private lateinit var registraButtonAndroid: Button
     private lateinit var registraButtonVosk: Button
     private lateinit var trascrizioneTextView: TextView
-    private lateinit var outputTextView: TextView // Per il futuro output NER
+    private lateinit var outputTextView: TextView
 
     // Android Speech Recognition
     private lateinit var speechRecognizerAndroid: SpeechRecognizer
@@ -55,7 +57,8 @@ class MainActivity : ComponentActivity() {
     private val sampleRate = 16000
     private val channelConfig = AudioFormat.CHANNEL_IN_MONO
     private val audioFormatEncoding = AudioFormat.ENCODING_PCM_16BIT
-    private var bufferSizeVosk = 0 // Will be calculated based on AudioRecord.getMinBufferSize
+    private var bufferSizeVosk = 0
+    private var isVoskModelReady = false
 
     private lateinit var requestPermissionLauncher: ActivityResultLauncher<String>
 
@@ -81,22 +84,28 @@ class MainActivity : ComponentActivity() {
         trascrizioneTextView = findViewById(R.id.textViewTrascrizione)
         outputTextView = findViewById(R.id.textViewOutput)
 
+        updateButtonUIAndroid(false)
+        updateButtonUIVosk(false)
+        registraButtonVosk.isEnabled = false
+
         val minBufferSize = AudioRecord.getMinBufferSize(sampleRate, channelConfig, audioFormatEncoding)
         if (minBufferSize > 0) {
             bufferSizeVosk = minBufferSize
             Log.d(TAG, "bufferSizeVosk calcolato: $bufferSizeVosk")
         } else {
             Log.e(TAG, "Errore nel calcolare bufferSizeVosk, codice errore: $minBufferSize. Impossibile usare Vosk.")
-            registraButtonVosk.isEnabled = false
             trascrizioneTextView.text = "Errore inizializzazione audio Vosk (buffer size)."
+            outputTextView.text = "Vosk non è disponibile a causa di un errore nella configurazione dell'audio."
         }
-
 
         requestPermissionLauncher = registerForActivityResult(ActivityResultContracts.RequestPermission()) { isGranted: Boolean ->
             if (isGranted) {
-                trascrizioneTextView.text = "Permesso microfono concesso. Riprova ad avviare la registrazione."
+                trascrizioneTextView.text = "Permesso microfono concesso. Puoi avviare la registrazione."
+                if (isVoskModelReady && bufferSizeVosk > 0) {
+                    registraButtonVosk.isEnabled = true
+                }
             } else {
-                trascrizioneTextView.text = "Permesso microfono negato."
+                trascrizioneTextView.text = "Permesso microfono negato. Impossibile registrare."
                 isRecordingAndroid = false
                 isRecordingVosk = false
                 updateButtonUIAndroid(false)
@@ -107,6 +116,8 @@ class MainActivity : ComponentActivity() {
         setupAndroidSpeechRecognizer()
         if (bufferSizeVosk > 0) {
             initVosk()
+        } else {
+            Log.w(TAG, "Vosk non inizializzato a causa di bufferSize non valido.")
         }
 
         registraButtonAndroid.setOnClickListener {
@@ -114,25 +125,29 @@ class MainActivity : ComponentActivity() {
         }
 
         registraButtonVosk.setOnClickListener {
+            if (!isVoskModelReady) {
+                trascrizioneTextView.text = "Modello Vosk non ancora pronto o errore."
+                Log.w(TAG, "Pulsante Vosk premuto ma modello non pronto.")
+                return@setOnClickListener
+            }
             if (bufferSizeVosk > 0) {
                 handleVoskRecording()
             } else {
                 Log.e(TAG, "Tentativo di avviare Vosk ma bufferSize non è valido.")
-                trascrizioneTextView.text = "Errore inizializzazione audio Vosk."
+                trascrizioneTextView.text = "Errore inizializzazione audio Vosk (buffer)."
             }
         }
-
-        updateButtonUIAndroid(false)
-        updateButtonUIVosk(false)
-        registraButtonVosk.isEnabled = false
     }
+
+
+    // ANDROID SPEECH TO TEXT EMBEDDED -------------------------------------------------------------
 
     private fun setupAndroidSpeechRecognizer() {
         speechRecognizerAndroid = SpeechRecognizer.createSpeechRecognizer(this)
         speechRecognizerIntentAndroid = Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH).apply {
             putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL, RecognizerIntent.LANGUAGE_MODEL_FREE_FORM)
             putExtra(RecognizerIntent.EXTRA_LANGUAGE, "it-IT")
-            putExtra(RecognizerIntent.EXTRA_PARTIAL_RESULTS, true) // Per risultati parziali
+            putExtra(RecognizerIntent.EXTRA_PARTIAL_RESULTS, true)
         }
 
         speechRecognizerAndroid.setRecognitionListener(object : RecognitionListener {
@@ -168,7 +183,6 @@ class MainActivity : ComponentActivity() {
                     val text = matches[0]
                     trascrizioneTextView.text = "Android: $text"
                     Log.d(TAG, "Android STT Result: $text")
-                    // Here you would pass 'text' to your NER module
                     processWithNER(text)
                 }
                 isRecordingAndroid = false
@@ -205,7 +219,7 @@ class MainActivity : ComponentActivity() {
             Log.e(TAG, "Android STT: Not available on this device.")
             return
         }
-        trascrizioneTextView.text = "Avvio riconoscimento (Android)..."
+        trascrizioneTextView.text = "Trascrizione in corso (Android)..."
         Log.d(TAG, "startListening (Android) chiamato.")
         isRecordingAndroid = true
         updateButtonUIAndroid(true)
@@ -218,7 +232,7 @@ class MainActivity : ComponentActivity() {
 
 
 
-    // VOSK MODEL -------------------------------------------------------------------------------------------
+    // VOSK MODEL ----------------------------------------------------------------------------------
 
     @Throws(IOException::class)
     private fun copyAssetFolder(assetManager: AssetManager, fromAssetPath: String, toFolderPath: String) {
@@ -265,58 +279,76 @@ class MainActivity : ComponentActivity() {
         LibVosk.setLogLevel(LogLevel.INFO)
         val modelDir = File(getExternalFilesDir(null), VOSK_MODEL_NAME)
 
-        if (!modelDir.exists() || modelDir.list()?.isEmpty() == true) {
-            trascrizioneTextView.text = "Modello Vosk non trovato, copia da assets..."
-            registraButtonVosk.isEnabled = false
-            Log.i(TAG, "Modello Vosk non presente o vuoto in ${modelDir.absolutePath}. Copia da assets: '$VOSK_MODEL_ASSET_PATH'")
+        trascrizioneTextView.text = "Controllo modello Vosk..."
+        registraButtonVosk.isEnabled = false
 
-            Thread {
+        Thread {
+            var modelPathToLoad: String? = null
+            if (!modelDir.exists() || modelDir.list()?.isEmpty() == true) {
+                runOnUiThread {
+                    trascrizioneTextView.text = "Modello Vosk non trovato, avvio copia da assets ($VOSK_MODEL_NAME)... Questo potrebbe richiedere alcuni istanti."
+                    outputTextView.text = "Attendere il completamento della copia del modello."
+                }
+                Log.i(TAG, "Modello Vosk non presente o vuoto in ${modelDir.absolutePath}. Copia da assets: '$VOSK_MODEL_ASSET_PATH'")
                 try {
                     copyAssetFolder(assets, VOSK_MODEL_ASSET_PATH, modelDir.absolutePath)
                     Log.i(TAG, "Copia del modello da assets completata con successo.")
-
-                    loadVoskModelInternal(modelDir.absolutePath)
-
+                    modelPathToLoad = modelDir.absolutePath
                 } catch (e: IOException) {
                     Log.e(TAG, "Errore durante la copia del modello Vosk da assets: ${e.message}", e)
                     runOnUiThread {
-                        trascrizioneTextView.text = "Errore copia modello Vosk."
-                        registraButtonVosk.isEnabled = false
+                        trascrizioneTextView.text = "ERRORE: Impossibile copiare il modello Vosk."
+                        outputTextView.text = "Dettagli errore: ${e.message}"
+                        isVoskModelReady = false
+                        updateButtonUIVosk(false)
                     }
                 }
-            }.start()
-        } else {
-            Log.i(TAG, "Modello Vosk già presente in ${modelDir.absolutePath}. Caricamento...")
-            loadVoskModelInternal(modelDir.absolutePath)
-        }
+            } else {
+                Log.i(TAG, "Modello Vosk già presente in ${modelDir.absolutePath}. Caricamento...")
+                modelPathToLoad = modelDir.absolutePath
+            }
+
+            if (modelPathToLoad != null) {
+                loadVoskModelInternal(modelPathToLoad)
+            }
+        }.start()
     }
 
     private fun loadVoskModelInternal(modelPath: String) {
+        runOnUiThread {
+            trascrizioneTextView.text = "Caricamento modello Vosk in corso..."
+        }
         try {
             voskModel = Model(modelPath)
             voskRecognizer = Recognizer(voskModel, sampleRate.toFloat())
             Log.i(TAG, "Modello Vosk caricato correttamente da $modelPath.")
+            isVoskModelReady = true
             runOnUiThread {
-                trascrizioneTextView.text = "Modello Vosk pronto."
-                registraButtonVosk.isEnabled = true
-            }
-        } catch (e: IOException) {
-            Log.e(TAG, "Errore nel caricare il modello Vosk da $modelPath: ${e.localizedMessage}", e)
-            runOnUiThread {
-                trascrizioneTextView.text = "Errore caricamento modello Vosk (IOException)."
-                registraButtonVosk.isEnabled = false
-            }
-        } catch (e: UnsatisfiedLinkError) {
-            Log.e(TAG, "Errore UnsatisfiedLinkError (librerie native Vosk/JNA?): ${e.message}", e)
-            runOnUiThread {
-                trascrizioneTextView.text = "Errore librerie native Vosk."
-                registraButtonVosk.isEnabled = false
+                trascrizioneTextView.text = "Modello Speech To Text caricato e pronto alla trascrizione"
+                if (bufferSizeVosk > 0 && ContextCompat.checkSelfPermission(this, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED) {
+                    registraButtonVosk.isEnabled = true
+                } else if (bufferSizeVosk <= 0) {
+                    trascrizioneTextView.append("\\nErrore: Buffer audio non valido per Vosk.")
+                    registraButtonVosk.isEnabled = false
+                } else {
+                    trascrizioneTextView.append("\\nConcedere il permesso microfono per usare Vosk.")
+                    registraButtonVosk.isEnabled = false
+                }
+                updateButtonUIVosk(false)
             }
         } catch (e: Exception) {
-            Log.e(TAG, "Errore generico durante l'inizializzazione del modello Vosk: ${e.message}", e)
+            Log.e(TAG, "Errore nel caricare il modello Vosk da $modelPath: ${e.localizedMessage}", e)
+            isVoskModelReady = false
             runOnUiThread {
-                trascrizioneTextView.text = "Errore iniz. modello Vosk (generico)."
+                val errorMsg: String
+                when (e) {
+                    is IOException -> errorMsg = "Errore I/O caricamento modello Vosk."
+                    else -> errorMsg = "Errore sconosciuto caricamento modello Vosk."
+                }
+                trascrizioneTextView.text = errorMsg
+                outputTextView.text = "Dettagli: ${e.message}. Vosk non sarà disponibile."
                 registraButtonVosk.isEnabled = false
+                updateButtonUIVosk(false)
             }
         }
     }
@@ -355,7 +387,7 @@ class MainActivity : ComponentActivity() {
             trascrizioneTextView.text = "Errore: Riconoscitore Vosk non pronto."
             return
         }
-        trascrizioneTextView.text = "Avvio riconoscimento (Vosk)..."
+        trascrizioneTextView.text = "Trascrizione in corso (Vosk)..."
         isRecordingVosk = true
         updateButtonUIVosk(true)
 
@@ -399,7 +431,12 @@ class MainActivity : ComponentActivity() {
 
         voskRecordingThread = Thread {
             val buffer = ByteArray(bufferSizeVosk)
-            var lastPartialResultTime = System.currentTimeMillis()
+            var lastRecognizedPartialText = ""
+            var lastPartialDisplayTime = 0L
+
+            val accumulatedSegmentText = StringBuilder()
+
+            Log.d(TAG, "Vosk Recording Thread avviato (stop manuale).")
 
             while (isRecordingVosk && audioRecordVosk != null && audioRecordVosk?.recordingState == AudioRecord.RECORDSTATE_RECORDING) {
                 val bytesRead = audioRecordVosk?.read(buffer, 0, buffer.size) ?: 0
@@ -408,32 +445,49 @@ class MainActivity : ComponentActivity() {
                         val resultJson = voskRecognizer?.result
                         if (!resultJson.isNullOrEmpty()) {
                             val mainResultText = parseVoskResult(resultJson)
-                            Log.d(TAG, "Vosk Result: $mainResultText (da result)")
-                            runOnUiThread {
-                                trascrizioneTextView.text = "Vosk: $mainResultText"
+                            if (mainResultText.isNotBlank()) {
+                                Log.d(TAG, "Vosk Result (segmento): $mainResultText")
+                                if (accumulatedSegmentText.isNotEmpty()) accumulatedSegmentText.append(" ")
+                                accumulatedSegmentText.append(mainResultText)
+                                lastRecognizedPartialText = ""
+                                runOnUiThread {
+                                    trascrizioneTextView.text = "Vosk: ${accumulatedSegmentText.toString()}"
+                                    outputTextView.text = "Processando..."
+                                }
+                            } else {
+                                Log.d(TAG, "Vosk Result (segmento vuoto)")
                             }
                         }
                     } else {
-                        if (System.currentTimeMillis() - lastPartialResultTime > 300) { // Ogni 300ms
-                            val partialResultJson = voskRecognizer?.partialResult
-                            if (!partialResultJson.isNullOrEmpty()) {
-                                val partialText = parseVoskPartialResult(partialResultJson)
-                                if (partialText.isNotBlank()) {
-                                    Log.d(TAG, "Vosk Partial: $partialText")
-                                    runOnUiThread {
-                                        trascrizioneTextView.append("\n(Vosk parziale: $partialText)")
+                        if (System.currentTimeMillis() - lastPartialDisplayTime > 300) { // Ogni 300ms
+                            val currentPartialJson = voskRecognizer?.partialResult
+                            val currentPartialText = if (currentPartialJson.isNullOrEmpty()) "" else parseVoskPartialResult(currentPartialJson)
+
+                            if (currentPartialText.isNotBlank() && currentPartialText != lastRecognizedPartialText) {
+                                Log.d(TAG, "Vosk Partial (cambiato): $currentPartialText")
+                                lastRecognizedPartialText = currentPartialText
+                                runOnUiThread {
+                                    val textToShow = if (accumulatedSegmentText.isNotEmpty()) {
+                                        "${accumulatedSegmentText.toString()} $currentPartialText"
+                                    } else {
+                                        currentPartialText
                                     }
+                                    trascrizioneTextView.text = "Vosk (parziale): $textToShow"
                                 }
-                                lastPartialResultTime = System.currentTimeMillis()
+                            } else if (currentPartialText.isBlank() && lastRecognizedPartialText.isNotBlank()){
+                                lastRecognizedPartialText = ""
                             }
+                            lastPartialDisplayTime = System.currentTimeMillis()
                         }
                     }
                 } else if (bytesRead < 0) {
                     Log.e(TAG, "Errore durante la lettura da AudioRecord: $bytesRead")
+                } else {
+                    Thread.sleep(50)
                 }
-                // Breve pausa per non stressare la CPU inutilmente se non ci sono dati disponibili
-                // if (bytesRead == 0) Thread.sleep(10)
             }
+
+            Log.d(TAG, "Vosk Recording Thread: Uscita dal ciclo di registrazione. isRecordingVosk = $isRecordingVosk")
 
             try {
                 audioRecordVosk?.stop()
@@ -441,20 +495,59 @@ class MainActivity : ComponentActivity() {
                 audioRecordVosk = null
                 Log.d(TAG, "AudioRecord Vosk stoppato e rilasciato.")
 
+                var textToProcessForNER = ""
                 val finalResultJson = voskRecognizer?.finalResult
                 if (!finalResultJson.isNullOrEmpty()) {
                     val finalText = parseVoskResult(finalResultJson)
-                    Log.i(TAG, "Vosk Final Result: $finalText")
+                    if (finalText.isNotBlank()) {
+                        Log.i(TAG, "Vosk Final Result: $finalText")
+                        accumulatedSegmentText.clear().append(finalText)
+                        textToProcessForNER = finalText
+                    }
+                }
+
+                if (textToProcessForNER.isBlank() && accumulatedSegmentText.isNotEmpty()) {
+                    Log.i(TAG, "Vosk Final Result era vuoto/blank, uso testo accumulato dai segmenti: ${accumulatedSegmentText.toString()}")
+                    textToProcessForNER = accumulatedSegmentText.toString()
+                }
+
+                if (textToProcessForNER.isNotBlank()) {
+                    val displayText = "Vosk (finale): $textToProcessForNER"
+                    Log.i(TAG, "Testo finale per UI e NER: $textToProcessForNER")
                     runOnUiThread {
-                        trascrizioneTextView.text = "Vosk (finale): $finalText"
-                        processWithNER(finalText)
+                        trascrizioneTextView.text = displayText
+                        outputTextView.text = "Elaborazione NER in corso..."
+                        processWithNER(textToProcessForNER)
+                    }
+                } else {
+                    Log.i(TAG, "Nessun testo significativo finale da Vosk (né da finalResult né da segmenti).")
+                    runOnUiThread {
+                        if (!trascrizioneTextView.text.contains("(finale):") && !trascrizioneTextView.text.contains("Nessun risultato")) {
+                            if (accumulatedSegmentText.isEmpty() && lastRecognizedPartialText.isNotEmpty() && trascrizioneTextView.text.contains(lastRecognizedPartialText)){
+                                outputTextView.text = "Nessun risultato completo per NER."
+                            } else if (accumulatedSegmentText.isNotEmpty()){
+                                trascrizioneTextView.text = "Vosk: ${accumulatedSegmentText.toString()}"
+                                outputTextView.text = "Nessun risultato finale conclusivo per NER."
+                            }
+                            else {
+                                trascrizioneTextView.append("\nNessun risultato finale completo da Vosk.")
+                                outputTextView.text = ""
+                            }
+                        }
                     }
                 }
                 voskRecognizer?.reset()
             } catch (e: Exception) {
                 Log.e(TAG, "Errore durante lo stop/rilascio di AudioRecord o finalResult Vosk: ${e.message}", e)
+                runOnUiThread{
+                    trascrizioneTextView.append("\nErrore finalizzazione Vosk: ${e.message}")
+                }
+            } finally {
+                Log.d(TAG, "Vosk Recording Thread terminato.")
+                runOnUiThread {
+                    updateButtonUIVosk(false)
+                }
             }
-            Log.d(TAG, "Thread di registrazione Vosk terminato.")
         }
         voskRecordingThread.name = "VoskRecordingThread"
         voskRecordingThread.start()
@@ -495,9 +588,16 @@ class MainActivity : ComponentActivity() {
             registraButtonVosk.isEnabled = false
         } else {
             registraButtonAndroid.text = "Avvia (Android)"
-            registraButtonAndroid.setBackgroundColor(ContextCompat.getColor(this, android.R.color.holo_blue_light))
-
-            registraButtonVosk.isEnabled = (voskModel != null && voskRecognizer != null)
+            registraButtonAndroid.setBackgroundColor(ContextCompat.getColor(this, android.R.color.holo_blue_dark))
+            if (isVoskModelReady && bufferSizeVosk > 0) {
+                if (ContextCompat.checkSelfPermission(this, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED) {
+                    registraButtonVosk.isEnabled = true
+                } else {
+                    registraButtonVosk.isEnabled = false
+                }
+            } else {
+                registraButtonVosk.isEnabled = false
+            }
         }
     }
 
@@ -508,19 +608,20 @@ class MainActivity : ComponentActivity() {
             registraButtonAndroid.isEnabled = false
         } else {
             registraButtonVosk.text = "Avvia (Vosk)"
-            registraButtonVosk.setBackgroundColor(ContextCompat.getColor(this, android.R.color.holo_green_light))
+            registraButtonVosk.setBackgroundColor(ContextCompat.getColor(this, android.R.color.holo_green_dark))
             registraButtonAndroid.isEnabled = true
+            if (!isVoskModelReady || bufferSizeVosk <= 0) {
+                registraButtonVosk.isEnabled = false
+            } else {
+                if (ContextCompat.checkSelfPermission(this, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED) {
+                    registraButtonVosk.isEnabled = true
+                } else {
+                    registraButtonVosk.isEnabled = false
+                }
+            }
         }
-        if (!isRecording && (voskModel == null || voskRecognizer == null || bufferSizeVosk <= 0)) {
-            registraButtonVosk.isEnabled = false
-        } else if (!isRecording) {
-
-            registraButtonVosk.isEnabled = true
-        }
-
     }
 
-    // Funzione placeholder per il tuo modulo NER
     private fun processWithNER(text: String) {
         Log.d(TAG, "Testo da inviare al NER: $text")
         outputTextView.text = "NER Input: $text \n(Implementare logica NER)"
