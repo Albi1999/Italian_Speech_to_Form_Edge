@@ -1,0 +1,34 @@
+{
+    "verbale_preavviso": "",
+    "data_violazione": "",
+    "ora_violazione": "",
+    "Strada_1": "",
+    "Civico_1": "",
+    "veicolo": [
+        {
+            "tipologia": "",
+            "nazione": "",
+            "targa": "",
+            "tipologia_targa": "",
+            "marca_modello": "",
+            "colore": "",
+            "telaio": "",
+            "massa": "",
+            "note_veicolo": ""
+        }
+    ],
+    "contestazione_immediata": "",
+    "motivo_mancata_contestazione": "",
+    "violazione": [
+        {
+            "codice": "",
+            "articolo": "",
+            "comma": "",
+            "sanzione_accessoria": ""
+        }
+    ],
+    "punti": "",
+    "tipo_stampa": "",
+    "lingua_stampa": "",
+    "stampa_anche_comunicazione": ""
+}

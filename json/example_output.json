@@ -1,0 +1,34 @@
+{
+    "verbale_preavviso": "preavviso",
+    "data_violazione": "25/04/2025",
+    "ora_violazione": "21:41",
+    "Strada_1": "corso della Libertà",
+    "Civico_1": "7",
+    "veicolo": [
+        {
+            "tipologia": "macchina agricola",
+            "nazione": "slovenia",
+            "targa": "IJ654KL",
+            "tipologia_targa": "copertura",
+            "marca_modello": "Kia Picanto",
+            "colore": "rosso",
+            "telaio": "434252345245234",
+            "massa": "1200kg",
+            "note_veicolo": "parcheggio in doppia fila"
+        }
+    ],
+    "contestazione_immediata": "mancata contestazione",
+    "motivo_mancata_contestazione": "Non essendo stato possibile identificare il conducente sul posto",
+    "violazione": [
+        {
+            "codice": "stradale",
+            "articolo": "48",
+            "comma": "46",
+            "sanzione_accessoria": "senza sanzione accessoria"
+        }
+    ],
+    "punti": 5,
+    "tipo_stampa": "bluetooth",
+    "lingua_stampa": "italiano",
+    "stampa_anche_comunicazione": "stampa anche la comunicazione"
+}
