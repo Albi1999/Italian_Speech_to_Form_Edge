@@ -159,8 +159,8 @@ jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 jupyterlab_widgets==3.0.13
 kiwisolver==1.4.8
-label-studio==1.17.0
-label-studio-sdk==1.0.11
+label-studio==1.18.0
+label-studio-sdk==1.0.12
 langchain==0.3.22
 langchain-core==0.3.50
 langchain-openai==0.3.12
