@@ -18,7 +18,7 @@
             android:name=".OnlineSpeechToForm"
             android:exported="false" />
         <activity
-            android:name=".OfflineSpeechToFormActivity"
+            android:name=".OfflineSpeechToForm"
             android:exported="false"
             android:theme="@style/Theme.DemoSpeechToForm" />
         <activity

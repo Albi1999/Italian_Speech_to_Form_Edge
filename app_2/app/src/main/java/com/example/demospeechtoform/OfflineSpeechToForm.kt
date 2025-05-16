@@ -12,6 +12,7 @@ import android.text.SpannableString
 import android.text.Spanned
 import android.text.style.ForegroundColorSpan
 import android.util.Log
+import androidx.constraintlayout.widget.ConstraintLayout
 import android.view.animation.LinearInterpolator
 import android.widget.Button
 import android.widget.TextView
@@ -25,7 +26,7 @@ import androidx.core.graphics.drawable.DrawableCompat
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
-class OnlineSpeechToForm : AppCompatActivity() {
+class OfflineSpeechToForm : AppCompatActivity() {
 
     private lateinit var transcriber: Transcriber
     private lateinit var buttonStart: Button
@@ -41,7 +42,7 @@ class OnlineSpeechToForm : AppCompatActivity() {
     private var recordingAnimator: ObjectAnimator? = null
 
     companion object {
-        private const val TAG = "OnlineSpeechToForm"
+        private const val TAG = "OfflineSpeechToForm"
     }
 
     private val requestPermissionLauncher =
@@ -65,6 +66,7 @@ class OnlineSpeechToForm : AppCompatActivity() {
             }
         }
 
+
     fun setButtonTint(button: Button, colorResId: Int) {
         var buttonBackground = button.background
         buttonBackground = DrawableCompat.wrap(buttonBackground).mutate()
@@ -77,9 +79,9 @@ class OnlineSpeechToForm : AppCompatActivity() {
 
         enableEdgeToEdge()
 
-        setContentView(R.layout.activity_online_speech_to_form)
+        setContentView(R.layout.activity_offline_speech_to_form)
 
-        val mainLayout = findViewById<androidx.constraintlayout.widget.ConstraintLayout>(R.id.OnlineSpeechToForm)
+        val mainLayout = findViewById<ConstraintLayout>(R.id.OfflineSpeechToForm)
         ViewCompat.setOnApplyWindowInsetsListener(mainLayout) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
@@ -140,9 +142,7 @@ class OnlineSpeechToForm : AppCompatActivity() {
         buttonShowResults.setOnClickListener {
             val fullText = confirmedTranscript.toString().trim() + if (currentPartialTranscript.isNotEmpty()) " ($currentPartialTranscript)" else ""
             Log.d(TAG, "Button Show Results clicked. Testo attuale: $fullText")
-            // Qui, nella versione "Online", potresti voler inviare 'fullText' a un server,
-            // processarlo ulteriormente, ecc.
-            Toast.makeText(this, "Testo (Online Activity): $fullText", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "Testo attuale: $fullText", Toast.LENGTH_LONG).show()
         }
         updateRecordingUI(false)
     }
@@ -172,8 +172,8 @@ class OnlineSpeechToForm : AppCompatActivity() {
         }
     }
 
+
     private fun initTranscriber() {
-        // Usa lo stesso AndroidSpeechRecognizer, che è configurato per preferire offline.
         transcriber = AndroidSpeechRecognizer(this, object : TranscriberStatusListener {
             override fun onReadyForSpeech() {
                 runOnUiThread {
@@ -182,23 +182,23 @@ class OnlineSpeechToForm : AppCompatActivity() {
             }
 
             override fun onBeginningOfSpeech() {
-                // Logica UI se necessaria
+                // runOnUiThread { textView.append("Inizio del parlato...\n") }
             }
 
             override fun onEndOfSpeech() {
-                // Logica UI se necessaria
+                // runOnUiThread { textView.append("Fine del parlato rilevata. Elaborazione...\n") }
             }
 
             override fun onError(errorDescription: String) {
                 runOnUiThread {
-                    confirmedTranscript.append("\n--- Errore (Online Activity): $errorDescription ---\n")
+                    confirmedTranscript.append("\n--- Errore: $errorDescription ---\n")
                     updateDisplayedText()
-                    Toast.makeText(this@OnlineSpeechToForm, "Errore STT (Online): $errorDescription", Toast.LENGTH_LONG).show()
+                    Toast.makeText(this@OfflineSpeechToForm, "Errore STT: $errorDescription", Toast.LENGTH_LONG).show()
                     updateRecordingUI(false)
                 }
             }
         })
-        Log.d(TAG, "Transcriber (offline-preferred) inizializzato per OnlineSpeechToForm.")
+        Log.d(TAG, "Transcriber inizializzato.")
     }
 
     private fun handleStartStopRecording() {
@@ -240,6 +240,7 @@ class OnlineSpeechToForm : AppCompatActivity() {
         }
     }
 
+
     private fun updateRecordingUI(isCurrentlyRecording: Boolean) {
         isRecording = isCurrentlyRecording
         runOnUiThread {
@@ -258,6 +259,7 @@ class OnlineSpeechToForm : AppCompatActivity() {
 
     private fun startRecordingAnimation() {
         stopRecordingAnimation()
+
         recordingAnimator = ObjectAnimator.ofFloat(buttonStart, "alpha", 1f, 0.5f, 1f).apply {
             duration = 1000
             repeatCount = ObjectAnimator.INFINITE
@@ -298,6 +300,6 @@ class OnlineSpeechToForm : AppCompatActivity() {
         if (::transcriber.isInitialized && transcriber is AndroidSpeechRecognizer) {
             (transcriber as AndroidSpeechRecognizer).destroy()
         }
-        Log.d(TAG, "OnlineSpeechToForm Activity distrutta e transcriber rilasciato.")
+        Log.d(TAG, "OfflineSpeechToFormActivity distrutta e transcriber rilasciato.")
     }
 }
