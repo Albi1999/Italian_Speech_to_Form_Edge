@@ -6,4 +6,5 @@ interface Transcriber {
 
     fun begin()
     fun stop()
+    fun destroy()
 }

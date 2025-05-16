@@ -1,5 +1,6 @@
 package com.example.demospeechtoform
 
 interface TextChunkListener {
-    fun newChunk(text: String)
+    fun onPartialResult(text: String)
+    fun onFinalResult(text: String)
 }

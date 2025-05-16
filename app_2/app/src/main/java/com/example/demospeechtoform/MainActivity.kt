@@ -11,20 +11,20 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.layout)
 
-        var buttonOnline = findViewById<Button>(R.id.buttonOnline)
-        var buttonOffline = findViewById<Button>(R.id.buttonOffline)
+        val buttonOnline = findViewById<Button>(R.id.buttonOnline)
+        val buttonOffline = findViewById<Button>(R.id.buttonOffline)
 
-        buttonOffline.setOnClickListener {
-            val myIntent: Intent = Intent(
-                this@MainActivity,
+        buttonOnline.setOnClickListener { // Listener per buttonOnline
+            val myIntent = Intent(
+                this,
                 OnlineSpeechToForm::class.java
             )
             startActivity(myIntent)
         }
 
-        buttonOffline.setOnClickListener {
-            val myIntent: Intent = Intent(
-                this@MainActivity,
+        buttonOffline.setOnClickListener { // Listener per buttonOffline
+            val myIntent = Intent(
+                this,
                 OfflineSpeechToFormActivity::class.java
             )
             startActivity(myIntent)
