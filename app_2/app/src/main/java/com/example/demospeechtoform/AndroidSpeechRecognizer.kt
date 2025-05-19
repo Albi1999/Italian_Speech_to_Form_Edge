@@ -144,6 +144,7 @@ class AndroidSpeechRecognizer(
     override fun stop() {
         try {
             speechRecognizerAndroid.stopListening()
+            speechRecognizerAndroid.destroy()
             Log.i(TAG, "stopListening chiamato.")
         } catch (e: Exception) {
             Log.e(TAG, "Exception in stopListening: ${e.message}", e)

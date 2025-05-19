@@ -12,7 +12,7 @@
         android:id="@+id/textViewTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Concilia AI App Demo"
+        android:text="@string/concilia_ai_app_demo"
         android:textSize="30sp"
         android:textStyle="bold"
         android:layout_marginTop="100dp"
@@ -21,23 +21,33 @@
         app:layout_constraintEnd_toEndOf="parent" />
 
     <Button
+        android:id="@+id/buttonOffline"
+        android:layout_width="1in"
+        android:layout_height="0.3in"
+        android:text="@string/offline"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/buttonOnline"
+        app:layout_constraintVertical_chainStyle="packed"
+        app:layout_constraintVertical_weight="1"
+        android:backgroundTint="@color/button_background_action_blue"
+        android:textColor="@color/white"
+        />
+
+    <Button
         android:id="@+id/buttonOnline"
         android:layout_width="1in"
         android:layout_height="0.3in"
-        android:text="Online"
+        android:text="@string/online"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_chainStyle="packed"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/buttonOffline"
-        android:layout_width="1in"
-        android:layout_height="0.3in"
-        android:text="Offline"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/buttonOnline" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed"
+        app:layout_constraintVertical_weight="1"
+        android:backgroundTint="@color/button_background_default_green"
+        android:textColor="@color/white"
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,7 +1,18 @@
+import java.util.Properties
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
+    alias(libs.plugins.kotlin.devtoolsKsp)
+}
+
+val localProperties = Properties()
+val localPropertiesFile = rootProject.file("local.properties")
+if (localPropertiesFile.exists()) {
+    localPropertiesFile.inputStream().use { input ->
+        localProperties.load(input)
+    }
 }
 
 android {
@@ -16,6 +27,18 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+
+        // Make API Key and Base URL available in BuildConfig
+        val apiKey = localProperties.getProperty("API_KEY", "")
+        val baseUrl = localProperties.getProperty("BASE_URL", "")
+        val clientTenant = localProperties.getProperty("CLIENT_TENANT", "")
+        val clientApplication = localProperties.getProperty("CLIENT_APPLICATION", "")
+
+        // Add as BuildConfig fields
+        buildConfigField("String", "API_KEY", "\"$apiKey\"")
+        buildConfigField("String", "BASE_URL", "\"$baseUrl\"")
+        buildConfigField("String", "CLIENT_TENANT", "\"$clientTenant\"")
+        buildConfigField("String", "CLIENT_APPLICATION", "\"$clientApplication\"")
     }
 
     buildTypes {
@@ -37,6 +60,7 @@ android {
     buildFeatures {
         compose = true
         viewBinding = true
+        buildConfig = true
     }
 }
 
@@ -56,6 +80,7 @@ dependencies {
     implementation(libs.androidx.navigation.fragment.ktx)
     implementation(libs.androidx.navigation.ui.ktx)
     implementation(libs.androidx.activity)
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -64,6 +89,21 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
-    implementation(libs.json)
+    // In case we want to use VOSK
     implementation(libs.vosk.android)
+
+    // For networking
+    implementation(libs.retrofit)
+    implementation(libs.retrofit.converter.moshi)
+    implementation(libs.okhttp)
+    implementation(libs.okhttp.logging.interceptor)
+
+    // For JSON parsing with Moshi
+    implementation(libs.json)
+    implementation(libs.moshi)
+    ksp(libs.moshi.compiler)
+
+    // For Kotlin Coroutines
+    implementation(libs.coroutines.android)
+    implementation(libs.coroutines.core)
 }

@@ -5,7 +5,41 @@
     <string name="second_fragment_label">Secondo Fragment</string>
 
     <string name="start_transcription_button_text">Inizia Trascrizione</string>
-    <string name="stop_transcription_button_text">Ferma Trascrizione</string>
-    <string name="starting_transcription_button_text">Avvio...</string>
-    <string name="resume_transcription_button_text">Riprendi Trascrizione</string> <string name="send_button_text">Invia</string>
+    <string name="stop_transcription_button_text">Stop</string>
+    <string name="resume_transcription_button_text">Riprendi trascrizione</string>
+    <string name="submit_button_text">Invia</string>
+
+    <string name="permission_needed_title">Permission Required</string>
+    <string name="microphone_permission_prompt_message">This app needs microphone access to transcribe your speech for API processing.</string>
+    <string name="microphone_permission_settings_message">The app requires microphone permission. Please enable it in app settings.</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_open_settings">Open Settings</string>
+
+    <string name="microphone_permission_granted">Microphone permission granted.</string>
+    <string name="microphone_permission_denied">Microphone permission denied.</string>
+    <string name="cannot_start_transcription_permission_denied">Microphone permission denied. Cannot start transcription.</string>
+    <string name="recording_already_in_progress">Recording is already in progress.</string>
+    <string name="no_text_to_process">No text transcribed to process.</string>
+    <string name="api_key_not_set">API Key not set. Please configure it.</string>
+    <string name="error_loading_form_schema">Error loading form schema.</string>
+    <string name="processing_with_api">Processing with API...</string>
+    <string name="api_response_empty_successful">API response body is empty but successful.</string>
+    <string name="error_from_api_prefix">Error from API</string>
+    <string name="network_error_http_prefix">Network Error (HTTP)</string>
+    <string name="network_or_data_error_prefix">Network or Data Error</string>
+    <string name="unexpected_error_prefix">An unexpected error occurred</string>
+    <string name="stt_error_prefix">STT Error</string>
+    <string name="awaiting_transcription">Pronto per la trascrizione...\nPremi Inizia Trascrizione per cominciare.</string>
+    <string name="extracted_information_title">Extracted Information:\n\n</string>
+    <string name="list_item_prefix">- Item</string>
+    <string name="not_available_shorthand">N/A</string>
+    <string name="open_camera">Open Camera</string>
+
+    <string name="dummy_text">Your long scrollable text goes here. \nAdd more lines to see the scrolling in action. \nLine 1 \nLine 2 \nLine 3 \nLine 4 \nLine 5 \nLine 6 \nLine 7 \nLine 8 \nLine 9 \nLine 10 \nLine 11 \nLine 12 \nLine 13 \nLine 14 \nLine 15 \nLine 16 \nLine 17 \nLine 18 \nLine 19 \nLine 20 \nLine 21 \nLine 22 \nLine 23 \nLine 24 \nLine 25 \nLine 26 \nLine 27 \nLine 28 \nLine 29 \nLine 30 \nLine 31 \nLine 32 \nLine 33 \nLine 34 \nLine 35 \nLine 36 \nLine 37 \nLine 38 \nLine 39 \nLine 40 \nEnd of text.</string>
+    <string name="online_speech_to_form">Online Speech To Form</string>
+    <string name="offline_speech_to_form">Offline Speech To Form</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="concilia_ai_app_demo">Concilia AI App Demo</string>
 </resources>

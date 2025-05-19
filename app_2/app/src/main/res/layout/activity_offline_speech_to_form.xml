@@ -11,7 +11,7 @@
         android:id="@+id/textViewTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Offline Speech To Form"
+        android:text="@string/offline_speech_to_form"
         android:textSize="24sp"
         android:textStyle="bold"
         android:layout_marginTop="16dp"
@@ -40,44 +40,64 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="15dp"
-            android:text="Your long scrollable text goes here. \nAdd more lines to see the scrolling in action. \nLine 1 \nLine 2 \nLine 3 \nLine 4 \nLine 5 \nLine 6 \nLine 7 \nLine 8 \nLine 9 \nLine 10 \nLine 11 \nLine 12 \nLine 13 \nLine 14 \nLine 15 \nLine 16 \nLine 17 \nLine 18 \nLine 19 \nLine 20 \nLine 21 \nLine 22 \nLine 23 \nLine 24 \nLine 25 \nLine 26 \nLine 27 \nLine 28 \nLine 29 \nLine 30 \nLine 31 \nLine 32 \nLine 33 \nLine 34 \nLine 35 \nLine 36 \nLine 37 \nLine 38 \nLine 39 \nLine 40 \nEnd of text."
+            android:text="@string/dummy_text"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
     </ScrollView>
+
+    <ProgressBar
+        android:id="@+id/progressBarOnline"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:indeterminate="true"
+        android:visibility="gone" android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/buttonsLayout"
+        tools:visibility="visible"/>
 
     <LinearLayout
         android:id="@+id/buttonsLayout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:layout_marginTop="16dp"
         android:layout_marginBottom="16dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/scrollView">
+        app:layout_constraintStart_toStartOf="parent">
 
         <Button
             android:id="@+id/buttonBeginSpeechToText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textStyle="bold"
             android:layout_marginBottom="8dp"
-            android:text="Iniza trascrizione"
-            android:textStyle="bold" />
+            android:text="@string/start_transcription_button_text"
+            android:backgroundTint="@color/button_background_default_green"
+            android:textColor="@color/white"
+            />
 
         <Button
             android:id="@+id/buttonResumeSpeechToText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
-            android:text="Riprendi trascrizione" />
+            android:text="@string/resume_transcription_button_text"
+            android:backgroundTint="@color/button_background_action_orange"
+            android:textColor="@color/white"
+            />
 
         <Button
             android:id="@+id/buttonShowResult"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="60dp"
-            android:text="Invia"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:text="@string/submit_button_text"
+            android:backgroundTint="@color/button_background_action_blue"
+            android:textColor="@color/white"
+            />
     </LinearLayout>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
@@ -85,7 +105,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
-        android:contentDescription="Open Camera"
+        android:contentDescription="@string/open_camera"
         app:srcCompat="@android:drawable/ic_menu_camera"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
