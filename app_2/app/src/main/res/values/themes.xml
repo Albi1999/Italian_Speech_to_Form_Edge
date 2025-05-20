@@ -5,7 +5,7 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.DemoSpeechToForm" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <item name="colorPrimary">@color/button_background_action_blue</item>
+        <item name="colorPrimary">@color/button_background_blue</item>
 
     </style>
 </resources>

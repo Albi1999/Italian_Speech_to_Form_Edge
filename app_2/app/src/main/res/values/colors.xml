@@ -10,7 +10,7 @@
 
     <color name="button_background_default_green">#007C09</color>
     <color name="button_background_recording_red">#FF0000</color>
-    <color name="button_background_action_blue">#2196F3</color>
-    <color name="button_background_action_orange">#FF9D00</color>
-    <color name="button_background_camera">#6DCDD7</color>
+    <color name="button_background_blue">#0079d3</color>
+    <color name="button_background_camera">#ec7500</color>
+    <color name="button_background_purple">#8642bf</color>
 </resources>

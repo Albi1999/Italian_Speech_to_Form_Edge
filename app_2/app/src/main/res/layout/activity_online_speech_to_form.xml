@@ -86,7 +86,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
             android:text="@string/resume_transcription_button_text"
-            android:backgroundTint="@color/button_background_action_orange"
+            android:backgroundTint="@color/button_background_purple"
             android:textColor="@color/white"/>
 
         <Button
@@ -95,7 +95,7 @@
             android:layout_height="wrap_content"
             android:textStyle="bold"
             android:text="@string/submit_button_text"
-            android:backgroundTint="@color/button_background_action_blue"
+            android:backgroundTint="@color/button_background_blue"
             android:textColor="@color/white"/>
     </LinearLayout>
 
@@ -108,7 +108,7 @@
         app:srcCompat="@android:drawable/ic_menu_camera"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-
+        android:backgroundTint="@color/button_background_camera"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

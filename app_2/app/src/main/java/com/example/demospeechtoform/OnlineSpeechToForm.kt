@@ -1,14 +1,9 @@
 package com.example.demospeechtoform
 
 // Android and System imports
-import android.Manifest
 import android.animation.ObjectAnimator
 import android.annotation.SuppressLint
-import android.content.Intent
-import android.content.pm.PackageManager
-import android.net.Uri
 import android.os.Bundle
-import android.provider.Settings
 import android.text.SpannableString
 import android.text.Spanned
 import android.text.style.ForegroundColorSpan
@@ -21,8 +16,6 @@ import android.widget.TextView
 import android.widget.Toast
 // Activity and Lifecycle imports
 import androidx.activity.enableEdgeToEdge
-import androidx.activity.result.contract.ActivityResultContracts
-import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.core.graphics.drawable.DrawableCompat
@@ -32,7 +25,6 @@ import androidx.lifecycle.lifecycleScope
 // Moshi and Retrofit related imports
 import com.squareup.moshi.JsonAdapter
 import com.squareup.moshi.Moshi
-// import com.squareup.moshi.Types // Not strictly needed for this specific Map parsing
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
 import kotlinx.coroutines.launch
 import retrofit2.HttpException
@@ -66,25 +58,6 @@ class OnlineSpeechToForm : AppCompatActivity() {
         private const val TAG = "OnlineSpeechToForm"
         private const val REPORT_SCHEMA_FILENAME = "macro_schema.json" // Name of your JSON file in assets
     }
-
-    // Permission Launcher
-    private val requestPermissionLauncher =
-        registerForActivityResult(ActivityResultContracts.RequestPermission()) { isGranted: Boolean ->
-            if (isGranted) {
-                Log.i(TAG, "RECORD_AUDIO permission granted.")
-                Toast.makeText(this, getString(R.string.microphone_permission_granted), Toast.LENGTH_SHORT).show()
-            } else {
-                Log.w(TAG, "RECORD_AUDIO permission denied.")
-                if (!shouldShowRequestPermissionRationale(Manifest.permission.RECORD_AUDIO) &&
-                    ContextCompat.checkSelfPermission(this, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_DENIED) {
-                    Log.w(TAG, "Permission denied and rationale not needed. Suggesting app settings.")
-                    showDialogToOpenAppSettings()
-                } else {
-                    Toast.makeText(this, getString(R.string.cannot_start_transcription_permission_denied), Toast.LENGTH_LONG).show()
-                }
-                updateRecordingUI(false) // Ensure UI reflects inability to record
-            }
-        }
 
     fun setButtonTint(button: Button, colorResId: Int) {
         var buttonBackground = button.background
@@ -142,13 +115,11 @@ class OnlineSpeechToForm : AppCompatActivity() {
 
         buttonResume.setOnClickListener {
             if (!isRecording) {
-                if (checkAndRequestAudioPermission()) {
-                    confirmedTranscript.clear()
-                    currentPartialTranscript = ""
-                    updateDisplayedText()
-                    Log.d(TAG, "New Session: Starting transcription...")
-                    transcriber.begin()
-                }
+                confirmedTranscript.clear()
+                currentPartialTranscript = ""
+                updateDisplayedText()
+                Log.d(TAG, "New Session: Starting transcription...")
+                transcriber.begin()
             } else {
                 Toast.makeText(this, getString(R.string.recording_already_in_progress), Toast.LENGTH_SHORT).show()
             }
@@ -367,44 +338,15 @@ class OnlineSpeechToForm : AppCompatActivity() {
 
     private fun handleStartStopRecording() {
         if (!isRecording) {
-            if (checkAndRequestAudioPermission()) {
-                confirmedTranscript.clear()
-                currentPartialTranscript = ""
-                updateDisplayedText()
-                Log.d(TAG, "Starting transcription...")
-                transcriber.begin()
-            }
+            confirmedTranscript.clear()
+            currentPartialTranscript = ""
+            updateDisplayedText()
+            Log.d(TAG, "Starting transcription...")
+            transcriber.begin()
         } else {
             Log.d(TAG, "Stopping transcription...")
             transcriber.stop()
             updateRecordingUI(false)
-        }
-    }
-
-    private fun checkAndRequestAudioPermission(): Boolean {
-        when {
-            ContextCompat.checkSelfPermission(this, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED -> {
-                Log.i(TAG, "RECORD_AUDIO permission already granted.")
-                return true
-            }
-            shouldShowRequestPermissionRationale(Manifest.permission.RECORD_AUDIO) -> {
-                Log.i(TAG, "Showing rationale for RECORD_AUDIO permission.")
-                AlertDialog.Builder(this)
-                    .setTitle(getString(R.string.permission_needed_title))
-                    .setMessage(getString(R.string.microphone_permission_prompt_message))
-                    .setPositiveButton(getString(R.string.button_ok)) { _, _ -> requestPermissionLauncher.launch(Manifest.permission.RECORD_AUDIO) }
-                    .setNegativeButton(getString(R.string.button_cancel)) { dialog, _ ->
-                        dialog.dismiss()
-                        Toast.makeText(this, getString(R.string.microphone_permission_denied), Toast.LENGTH_SHORT).show()
-                    }
-                    .show()
-                return false
-            }
-            else -> {
-                Log.i(TAG, "Requesting RECORD_AUDIO permission.")
-                requestPermissionLauncher.launch(Manifest.permission.RECORD_AUDIO)
-                return false
-            }
         }
     }
 
@@ -442,25 +384,6 @@ class OnlineSpeechToForm : AppCompatActivity() {
         recordingAnimator?.cancel()
         buttonStart.alpha = 1.0f
         recordingAnimator = null
-    }
-
-    private fun showDialogToOpenAppSettings() {
-        AlertDialog.Builder(this)
-            .setTitle(getString(R.string.permission_needed_title))
-            .setMessage(getString(R.string.microphone_permission_settings_message))
-            .setPositiveButton(getString(R.string.button_open_settings)) { dialog, _ ->
-                val intent = Intent(Settings.ACTION_APPLICATION_DETAILS_SETTINGS)
-                val uri = Uri.fromParts("package", packageName, null)
-                intent.data = uri
-                startActivity(intent)
-                dialog.dismiss()
-            }
-            .setNegativeButton(getString(R.string.button_cancel)) { dialog, _ ->
-                dialog.dismiss()
-                Toast.makeText(this, getString(R.string.microphone_permission_denied), Toast.LENGTH_SHORT).show()
-            }
-            .setCancelable(false)
-            .show()
     }
 
     override fun onDestroy() {

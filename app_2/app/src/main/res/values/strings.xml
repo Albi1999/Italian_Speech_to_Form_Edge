@@ -23,14 +23,14 @@
     <string name="no_text_to_process">No text transcribed to process.</string>
     <string name="api_key_not_set">API Key not set. Please configure it.</string>
     <string name="error_loading_form_schema">Error loading form schema.</string>
-    <string name="processing_with_api">Processing with API...</string>
+    <string name="processing_with_api">Processing with API…</string>
     <string name="api_response_empty_successful">API response body is empty but successful.</string>
     <string name="error_from_api_prefix">Error from API</string>
     <string name="network_error_http_prefix">Network Error (HTTP)</string>
     <string name="network_or_data_error_prefix">Network or Data Error</string>
     <string name="unexpected_error_prefix">An unexpected error occurred</string>
     <string name="stt_error_prefix">STT Error</string>
-    <string name="awaiting_transcription">Pronto per la trascrizione...\nPremi Inizia Trascrizione per cominciare.</string>
+    <string name="awaiting_transcription">Pronto per la trascrizione…\nPremi Inizia Trascrizione per cominciare.</string>
     <string name="extracted_information_title">Extracted Information:\n\n</string>
     <string name="list_item_prefix">- Item</string>
     <string name="not_available_shorthand">N/A</string>

@@ -22,22 +22,22 @@
 
     <Button
         android:id="@+id/buttonOffline"
-        android:layout_width="1in"
-        android:layout_height="0.3in"
+        android:layout_width="170dp"
+        android:layout_height="50dp"
         android:text="@string/offline"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/buttonOnline"
         app:layout_constraintVertical_chainStyle="packed"
         app:layout_constraintVertical_weight="1"
-        android:backgroundTint="@color/button_background_action_blue"
+        android:backgroundTint="@color/button_background_blue"
         android:textColor="@color/white"
         />
 
     <Button
         android:id="@+id/buttonOnline"
-        android:layout_width="1in"
-        android:layout_height="0.3in"
+        android:layout_width="170dp"
+        android:layout_height="50dp"
         android:text="@string/online"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
