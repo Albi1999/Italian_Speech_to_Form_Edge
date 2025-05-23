@@ -14,37 +14,28 @@ class ApiClient(
     val topic: String,
     val language: String
 ) {
-    private val moshi: Moshi
-    private val loggingInterceptor : HttpLoggingInterceptor
-    private val okHttpClient : OkHttpClient
-    private val apiService: ApiService
-
-    init {
-        moshi = Moshi.Builder()
-            .add(KotlinJsonAdapterFactory())
-            .build()
-
-        loggingInterceptor = HttpLoggingInterceptor().apply {
-            level = if (BuildConfig.DEBUG) { // Show logs only in debug builds
-                HttpLoggingInterceptor.Level.BODY
-            } else {
-                HttpLoggingInterceptor.Level.NONE
-            }
+    private val moshi: Moshi = Moshi.Builder()
+        .add(KotlinJsonAdapterFactory())
+        .build()
+    private val loggingInterceptor : HttpLoggingInterceptor = HttpLoggingInterceptor().apply {
+        level = if (BuildConfig.DEBUG) { // Show logs only in debug builds
+            HttpLoggingInterceptor.Level.BODY
+        } else {
+            HttpLoggingInterceptor.Level.NONE
         }
-        okHttpClient = OkHttpClient.Builder()
-            .addInterceptor(loggingInterceptor) // Add the logging interceptor
-            .connectTimeout(60, TimeUnit.SECONDS)
-            .readTimeout(120, TimeUnit.SECONDS)
-            .writeTimeout(60, TimeUnit.SECONDS)
-            .build()
-
-        apiService = Retrofit.Builder()
-            .baseUrl(BuildConfig.BASE_URL) // Use the URL from BuildConfig
-            .client(okHttpClient)
-            .addConverterFactory(MoshiConverterFactory.create(moshi))
-            .build()
-            .create(ApiService::class.java)
     }
+    private val okHttpClient : OkHttpClient = OkHttpClient.Builder()
+        .addInterceptor(loggingInterceptor) // Add the logging interceptor
+        .connectTimeout(60, TimeUnit.SECONDS)
+        .readTimeout(120, TimeUnit.SECONDS)
+        .writeTimeout(60, TimeUnit.SECONDS)
+        .build()
+    private val apiService: ApiService = Retrofit.Builder()
+        .baseUrl(BuildConfig.BASE_URL) // Use the URL from BuildConfig
+        .client(okHttpClient)
+        .addConverterFactory(MoshiConverterFactory.create(moshi))
+        .build()
+        .create(ApiService::class.java)
 
     suspend fun callApi(text: String): Response<Map<String, Any?>> {
         val result = apiService.getSummaryWithReport(

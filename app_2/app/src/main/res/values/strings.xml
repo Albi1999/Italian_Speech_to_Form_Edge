@@ -42,4 +42,27 @@
     <string name="online">Online</string>
     <string name="offline">Offline</string>
     <string name="concilia_ai_app_demo">Concilia AI App Demo</string>
+
+    <string name="error_loading_form_schema_for_slm">Errore caricamento schema per SLM.</string>
+    <string name="results_already_shown_or_processing">Risultati già mostrati o in elaborazione. Per favore, attendi o inizia una nuova trascrizione.</string>
+
+    <string name="processing_with_slm">Elaborazione SLM in corso…</string>
+    <string name="slm_result_title">Risultato SLM:</string> <string name="no_transcription_result">Nessun risultato dalla trascrizione.</string>
+    <string name="transcription_not_complete_yet">La trascrizione non è ancora completa.</string>
+    <string name="results_already_shown_press_resume">Risultati già mostrati. Premi \'Riprendi Trascrizione\' per iniziare una nuova sessione.</string>
+    <string name="processing_wait">Elaborazione in corso, attendere prego.</string>
+
+    <string name="listening_ellipsis">In ascolto…</string>
+
+    <string name="slm_model_setup_error_detailed">Errore config. modello SLM \'%1$s\'.</string>
+    <string name="error_formatting_response_data">Errore formattazione dati risposta.</string>
+
+    <string name="slm_model_setup_error">Errore durante la configurazione del modello SLM offline.</string>
+    <string name="slm_model_not_ready_retry">Modello SLM non pronto. Riprova o riavvia la schermata.</string>
+
+    <string name="transcriber_not_initialized_error">Trascrittore non inizializzato. Riprova o ricarica la schermata.</string>
+    <string name="api_client_not_initialized_error">Client API non inizializzato per la modalità online.</string>
+    <string name="model_loading_message">Caricamento modello %1$s…</string>
+
+
 </resources>

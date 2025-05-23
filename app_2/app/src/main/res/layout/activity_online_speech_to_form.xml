@@ -57,7 +57,9 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toTopOf="@+id/buttonsLayout"
-        tools:visibility="visible"/>
+        tools:visibility="visible"
+        android:progressTint="@color/teal_700"
+        />
 
     <LinearLayout
         android:id="@+id/buttonsLayout"

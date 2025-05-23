@@ -26,6 +26,10 @@ android {
         versionCode = 1
         versionName = "1.0"
 
+        ndk {
+            abiFilters.addAll(listOf("armeabi-v7a", "arm64-v8a", "x86_64", "x86"))
+        }
+
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 
         // Make API Key and Base URL available in BuildConfig
@@ -68,6 +72,8 @@ dependencies {
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
+    implementation(libs.androidx.lifecycle.viewmodel.ktx)
+    implementation(libs.androidx.lifecycle.livedata.ktx)
     implementation(libs.androidx.activity.compose)
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.ui)
@@ -106,4 +112,7 @@ dependencies {
     // For Kotlin Coroutines
     implementation(libs.coroutines.android)
     implementation(libs.coroutines.core)
+
+    implementation(libs.google.mediapipe.task.genai)
+    implementation(libs.google.mediapipe.task.core)
 }
