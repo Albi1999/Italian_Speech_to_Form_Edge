@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "OfflineSpeechToForm"
+rootProject.name = "DemoSpeechToForm"
 include(":app")
+ 
