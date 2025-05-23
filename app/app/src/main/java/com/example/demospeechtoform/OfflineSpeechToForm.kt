@@ -84,7 +84,11 @@ class OfflineSpeechToForm : AppCompatActivity() {
                 textView.text = ""
                 viewModel.startTranscription()
             } else if (isRecordingUiState || currentState is SpeechToFormUiState.Transcribing) {
-                Toast.makeText(this, getString(R.string.recording_already_in_progress), Toast.LENGTH_SHORT).show()
+                Toast.makeText(
+                    this,
+                    getString(R.string.recording_already_in_progress),
+                    Toast.LENGTH_SHORT
+                ).show()
             } else {
                 Toast.makeText(this, getString(R.string.processing_wait), Toast.LENGTH_SHORT).show()
             }
@@ -92,31 +96,58 @@ class OfflineSpeechToForm : AppCompatActivity() {
 
         buttonShowResults.setOnClickListener {
             val currentUiState = viewModel.uiState.value
+            var textForSlm = ""
+
             if (currentUiState is SpeechToFormUiState.TranscriptionComplete) {
-                val fullText = currentUiState.fullText
-                if (fullText.isNotBlank()) {
-                    Log.d(TAG, "Show Results button clicked. Full text: $fullText")
-                    viewModel.processTranscriptionWithSlm(fullText)
-                } else {
-                    Toast.makeText(this, getString(R.string.no_text_to_process), Toast.LENGTH_SHORT).show()
-                }
+                textForSlm = currentUiState.fullText
+                Log.d(TAG, "Show Results button: Testo da trascrizione completa: '$textForSlm'")
+            } else if (currentUiState is SpeechToFormUiState.AwaitingTranscription ||
+                currentUiState is SpeechToFormUiState.Error ||
+                textView.text.toString() == getString(R.string.awaiting_transcription) ||
+                (currentUiState is SpeechToFormUiState.Error && textView.text.toString() == currentUiState.message)
+            ) {
+                Log.d(
+                    TAG,
+                    "Show Results button: Nessuna trascrizione valida, si attiverà il testo dummy nel ViewModel."
+                )
+                textForSlm = ""
             } else if (currentUiState is SpeechToFormUiState.SlmResult || currentUiState is SpeechToFormUiState.ProcessingSlm) {
-                Toast.makeText(this, getString(R.string.results_already_shown_or_processing), Toast.LENGTH_LONG).show()
+                Toast.makeText(
+                    this,
+                    getString(R.string.results_already_shown_or_processing),
+                    Toast.LENGTH_LONG
+                ).show()
+                return@setOnClickListener
             } else if (currentUiState is SpeechToFormUiState.ModelLoading) {
-                Toast.makeText(this, getString(R.string.model_loading_message), Toast.LENGTH_LONG).show()
+                Toast.makeText(
+                    this,
+                    getString(R.string.model_loading_message, viewModel.selectedLlmModel.name),
+                    Toast.LENGTH_LONG
+                ).show()
+                return@setOnClickListener
+            } else {
+                Log.d(
+                    TAG,
+                    "Show Results button: Stato UI non ideale per estrazione diretta, si attiverà il testo dummy."
+                )
+                textForSlm = ""
             }
-            else {
-                Toast.makeText(this, getString(R.string.transcription_not_complete_yet), Toast.LENGTH_SHORT).show()
-            }
+            viewModel.processTranscriptionWithSlm(textForSlm)
         }
     }
 
     @SuppressLint("SetTextI18n")
     private fun updateUi(uiState: SpeechToFormUiState) {
         progressBar.visibility = View.GONE
-        buttonStart.isEnabled = true
-        buttonResume.isEnabled = true
-        buttonShowResults.isEnabled = true
+        val buttonsEnabled = uiState !is SpeechToFormUiState.ModelLoading &&
+                uiState !is SpeechToFormUiState.ProcessingSlm &&
+                uiState !is SpeechToFormUiState.Transcribing &&
+                uiState !is SpeechToFormUiState.ProcessingApi
+
+        buttonStart.isEnabled = buttonsEnabled
+        buttonResume.isEnabled = buttonsEnabled
+        buttonShowResults.isEnabled = buttonsEnabled
+
 
         when (uiState) {
             is SpeechToFormUiState.ModelLoading -> {
@@ -127,41 +158,26 @@ class OfflineSpeechToForm : AppCompatActivity() {
                 buttonResume.isEnabled = false
                 buttonShowResults.isEnabled = false
             }
+
             SpeechToFormUiState.AwaitingTranscription -> {
                 textView.text = getString(R.string.awaiting_transcription)
                 updateButtonAnimation(false)
-                buttonShowResults.isEnabled = false
+                buttonShowResults.isEnabled = true
             }
+
             is SpeechToFormUiState.Transcribing -> {
-                val confirmedTextToShow = uiState.confirmedText
-                val currentPartialTranscript = uiState.partialText
-                val displayText: CharSequence = if (currentPartialTranscript.isNotEmpty() || confirmedTextToShow.isNotEmpty()) {
-                    val spannable = SpannableString(confirmedTextToShow + currentPartialTranscript)
-                    try {
-                        spannable.setSpan(
-                            ForegroundColorSpan(ContextCompat.getColor(this, R.color.teal_200)),
-                            confirmedTextToShow.length,
-                            spannable.length,
-                            Spanned.SPAN_EXCLUSIVE_EXCLUSIVE
-                        )
-                    } catch (e: IndexOutOfBoundsException) {
-                        Log.e(TAG, "Spannable error in Transcribing state: ${e.message}")
-                        "$confirmedTextToShow$currentPartialTranscript"
-                    }
-                    spannable
-                } else {
-                    getString(R.string.listening_ellipsis)
-                }
-                textView.text = displayText
                 updateButtonAnimation(true)
                 buttonResume.isEnabled = false
                 buttonShowResults.isEnabled = false
             }
+
             is SpeechToFormUiState.TranscriptionComplete -> {
-                textView.text = uiState.fullText.ifEmpty { getString(R.string.no_transcription_result) }
+                textView.text =
+                    uiState.fullText.ifEmpty { getString(R.string.no_transcription_result_using_dummy) }
                 updateButtonAnimation(false)
-                buttonShowResults.isEnabled = uiState.fullText.isNotBlank()
+                buttonShowResults.isEnabled = true
             }
+
             SpeechToFormUiState.ProcessingSlm -> {
                 textView.text = getString(R.string.processing_with_slm)
                 progressBar.visibility = View.VISIBLE
@@ -170,24 +186,33 @@ class OfflineSpeechToForm : AppCompatActivity() {
                 buttonResume.isEnabled = false
                 buttonShowResults.isEnabled = false
             }
+
             is SpeechToFormUiState.SlmResult -> {
                 textView.text = uiState.formattedData
                 updateButtonAnimation(false)
                 buttonShowResults.isEnabled = false
             }
+
             is SpeechToFormUiState.Error -> {
                 textView.text = uiState.message
                 updateButtonAnimation(false)
                 Toast.makeText(this, uiState.message, Toast.LENGTH_LONG).show()
                 buttonResume.isEnabled = true
-                val isModelSetupError = uiState.message.contains(getString(R.string.slm_model_setup_error_detailed, "").substringBefore("%1\$s")) ||
+                val isModelSetupError = uiState.message.contains(
+                    getString(
+                        R.string.slm_model_setup_error_detailed,
+                        ""
+                    ).substringBefore("%1\$s")
+                ) ||
                         uiState.message == getString(R.string.slm_model_not_ready_retry)
-                buttonShowResults.isEnabled = !isModelSetupError && textView.text.toString() != uiState.message
+                buttonShowResults.isEnabled = !isModelSetupError
             }
+
             SpeechToFormUiState.ProcessingApi, is SpeechToFormUiState.ApiResult -> {
-                Log.w(TAG, "Unexpected online state in OfflineSpeechToForm: $uiState")
+                Log.w(TAG, "Stato UI Online inatteso in OfflineSpeechToForm: $uiState")
                 updateButtonAnimation(false)
-                textView.text = getString(R.string.unexpected_error_prefix)
+                textView.text =
+                    getString(R.string.unexpected_error_prefix) + " (Stato Online Inatteso)"
             }
         }
     }

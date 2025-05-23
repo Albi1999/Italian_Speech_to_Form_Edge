@@ -52,7 +52,7 @@ class SpeechToFormViewModel(application: Application) : AndroidViewModel(applica
 
     // --- SLM OFFLINE ---
     private var offlineSlmProcessorInstance: OfflineSlmProcessor? = null
-    private var selectedLlmModel: SlmModel = SlmModel.defaultModel()
+    internal var selectedLlmModel: SlmModel = SlmModel.defaultModel()
 
     // --- Utilities ---
     private val moshi: Moshi by lazy {
@@ -281,13 +281,21 @@ class SpeechToFormViewModel(application: Application) : AndroidViewModel(applica
     }
 
     fun processTranscriptionWithSlm(fullText: String) {
+        val textToProcess: String
+        val isDummyTextUsed: Boolean
+
+        if (fullText.isBlank()) {
+            Log.d(TAG, "Testo trascritto vuoto. Utilizzo del testo dummy per il processamento SLM.")
+            textToProcess = "Verbale redatto in data 12/04/2025 alle ore 19:58 per la violazione riscontrata al veicolo motoveicolo, marca Honda CBR650R, targato EF522BG (tipo ufficiale) proveniente da italia. In particolare, in via della Libertà, civico 21, è stato accertato parcheggio in doppia fila, in violazione dell'articolo 6, comma 4 del codice penale. Data l'assenza del conducente, la contestazione non è stata immediata.Si prevede la decurtazione di 6 punti dalla patente. Richiedo la stampa in italiano via wifi, non stampare anche la comunicazione."
+            isDummyTextUsed = true
+        } else {
+            textToProcess = fullText
+            isDummyTextUsed = false
+        }
+
         if (offlineSlmProcessorInstance == null || !offlineSlmProcessorInstance!!.isInitialized) {
             Log.e(TAG, "OfflineSlmProcessor not ready for SLM. Model: ${selectedLlmModel.name}, Initialized: ${offlineSlmProcessorInstance?.isInitialized}")
             _uiState.value = SpeechToFormUiState.Error(getApplication<Application>().getString(R.string.slm_model_not_ready_retry))
-            return
-        }
-        if (fullText.isBlank()) {
-            _uiState.value = SpeechToFormUiState.Error(getApplication<Application>().getString(R.string.no_text_to_process))
             return
         }
 
@@ -310,40 +318,50 @@ class SpeechToFormViewModel(application: Application) : AndroidViewModel(applica
             } ?: """{"error":"report schema not loaded for SLM"}"""
 
             val prompt = """
-            CONTESTO: Sei un assistente AI che estrae informazioni strutturate da un testo in italiano.
-            TESTO UTENTE (italiano): "$fullText"
-            SCHEMA JSON RICHIESTO (la struttura desiderata per l'output):
+            CONTESTO: Il tuo compito è estrarre informazioni specifiche da un testo fornito da un utente e usarle per compilare un oggetto JSON. Devi seguire scrupolosamente lo schema JSON fornito.
+            
+            ISTRUZIONI PRINCIPALI:
+            1. Analizza il TESTO UTENTE fornito qui sotto.
+            2. Identifica e estrai le informazioni che corrispondono ai campi definiti nello SCHEMA JSON DA COMPILARE.
+            3. Popola lo SCHEMA JSON DA COMPILARE utilizzando ESCLUSIVAMENTE le informazioni trovate nel TESTO UTENTE.
+            4. Se un'informazione per un campo specifico non è presente nel TESTO UTENTE o non corrisponde ai valori accettati (se specificati nello schema), il valore di quel campo nel JSON finale deve essere `null` (il valore JSON null, non la stringa "null"). Non inventare dati.
+            5. La tua risposta DEVE ESSERE ESCLUSIVAMENTE l'oggetto JSON risultante, completo e valido. Non includere NESSUN testo, commento, o spiegazione al di fuori dell'oggetto JSON stesso. Deve iniziare con `{` e finire con `}`.
+            6. Per i campi con "accepted_values" nello schema, il valore estratto DEVE essere uno di quelli elencati.
+            7. Per i campi numerici (es. "punti", "articolo", "comma", "Civico_1"), il valore nel JSON deve essere un numero, non una stringa.
+            
+            TESTO UTENTE:
+            "$fullText"
+            
+            SCHEMA JSON DA COMPILARE (Usa questa esatta struttura e questi nomi di campo. Popola i valori basandoti sul TESTO UTENTE):
             $jsonStructureExample
-            ISTRUZIONI:
-            1. Analizza attentamente il TESTO UTENTE.
-            2. Estrai le informazioni pertinenti basandoti sullo SCHEMA JSON RICHIESTO.
-            3. Se un'informazione specifica non è presente nel TESTO UTENTE, usa il valore "non specificato" per i campi di tipo stringa, o un valore nullo/zero appropriato per altri tipi.
-            4. La tua risposta DEVE essere ESCLUSIVAMENTE il JSON compilato secondo lo SCHEMA JSON RICHIESTO. Non includere testo esplicativo, commenti, o frasi introduttive prima o dopo il JSON.
-
+            
             JSON COMPILATO:
             """.trimIndent()
 
-            Log.d(TAG, "Processing with SLM model: ${selectedLlmModel.name}.")
-            val result = offlineSlmProcessorInstance!!.generateResponse(prompt)
+            Log.d(TAG, "Processing with SLM model: ${selectedLlmModel.name}.  Dummy text in uso: $isDummyTextUsed")
+            if(isDummyTextUsed) Log.d(TAG, "Testo Dummy inviato: $textToProcess")
+
+            val result = offlineSlmProcessorInstance!!.generateResponseSlm(prompt)
 
             if (result.startsWith("Error:")) {
                 _uiState.value = SpeechToFormUiState.Error(result)
             } else {
                 var formattedSlmOutput = result
-                Log.d(TAG, "Raw SLM result for ${selectedLlmModel.name}: $result")
+                Log.d(TAG, "Risultato grezzo SLM per ${selectedLlmModel.name}: $result")
                 try {
                     val slmResultMapAdapter = moshi.adapter<Map<String, Any?>>(
                         com.squareup.moshi.Types.newParameterizedType(Map::class.java, String::class.java, Any::class.java)
                     )
-                    val slmDataMap = slmResultMapAdapter.fromJson(result)
+                    val cleanResult = result.removePrefix("```json").removeSuffix("```").trim()
+                    val slmDataMap = slmResultMapAdapter.fromJson(cleanResult)
                     if (slmDataMap != null) {
                         val wrappedSlmDataMap = mapOf("report" to slmDataMap)
                         formattedSlmOutput = formatApiResponseMap(wrappedSlmDataMap)
                     } else {
-                        Log.w(TAG, "SLM result for ${selectedLlmModel.name} was not a valid JSON map. Using raw output.")
+                        Log.w(TAG, "Risultato SLM per ${selectedLlmModel.name} non era una mappa JSON valida dopo la pulizia. Uso output grezzo.")
                     }
                 } catch (e: Exception) {
-                    Log.w(TAG, "Could not parse or format SLM JSON output for ${selectedLlmModel.name}: ${e.message}. Using raw output.")
+                    Log.w(TAG, "Impossibile parsare o formattare l'output JSON di SLM per ${selectedLlmModel.name}: ${e.message}. Uso output grezzo.")
                 }
                 _uiState.value = SpeechToFormUiState.SlmResult(formattedSlmOutput)
             }
